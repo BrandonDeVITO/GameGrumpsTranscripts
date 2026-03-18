@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# The SQLite database is tracked via Git LFS – do NOT add *.sqlite here
+# db/transcripts.sqlite  ← intentionally NOT ignored
