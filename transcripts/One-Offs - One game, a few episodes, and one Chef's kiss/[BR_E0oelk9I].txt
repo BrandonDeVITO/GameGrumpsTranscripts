@@ -1,0 +1,4108 @@
+{
+  "video_id": "BR_E0oelk9I",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Hey, this video is sponsored by NordVPN.",
+      "start": 0.0,
+      "duration": 2.44
+    },
+    {
+      "text": "That's right.",
+      "start": 2.44,
+      "duration": 0.72
+    },
+    {
+      "text": "That's spelled N-O-R-D-V-P-N.",
+      "start": 3.16,
+      "duration": 3.76
+    },
+    {
+      "text": "Thanks, Arin.",
+      "start": 6.92,
+      "duration": 1.56
+    },
+    {
+      "text": "NordVPN is a great way to stay safe on the web.",
+      "start": 8.48,
+      "duration": 2.44
+    },
+    {
+      "text": "With NordVPN, you can block malware and ads,",
+      "start": 10.92,
+      "duration": 2.54
+    },
+    {
+      "text": "turn on CyberSec to avoid malware hosting websites,",
+      "start": 13.46,
+      "duration": 2.5
+    },
+    {
+      "text": "annoying ads, and botnet control.",
+      "start": 15.96,
+      "duration": 2.1
+    },
+    {
+      "text": "NordVPN also keeps your data safe",
+      "start": 18.06,
+      "duration": 1.7
+    },
+    {
+      "text": "behind a wall of next generation encryption.",
+      "start": 19.76,
+      "duration": 2.12
+    },
+    {
+      "text": "That's spelled E-N-C-R-I.",
+      "start": 21.88,
+      "duration": 3.82
+    },
+    {
+      "text": "No, that's not right.",
+      "start": 25.7,
+      "duration": 1.34
+    },
+    {
+      "text": "It's OK.",
+      "start": 27.04,
+      "duration": 1.06
+    },
+    {
+      "text": "You don't need to spell it out for everyone, Arin.",
+      "start": 28.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I guess we should spell out that it's a great deal, however.",
+      "start": 30.14,
+      "duration": 2.44
+    },
+    {
+      "text": "Since you can get four months free for NordVPN",
+      "start": 32.58,
+      "duration": 4.16
+    },
+    {
+      "text": "if you sign up using our link.",
+      "start": 36.74,
+      "duration": 1.76
+    },
+    {
+      "text": "That's spelled L-I-N-C.",
+      "start": 38.5,
+      "duration": 2.8
+    },
+    {
+      "text": "It's not, but that's all right, Arin.",
+      "start": 41.3,
+      "duration": 1.96
+    },
+    {
+      "text": "That link is nordvpn.com slash game grumps.",
+      "start": 43.26,
+      "duration": 2.78
+    },
+    {
+      "text": "Nordvpn.com slash game grumps.",
+      "start": 46.04,
+      "duration": 2.94
+    },
+    {
+      "text": "That's right.",
+      "start": 48.98,
+      "duration": 0.88
+    },
+    {
+      "text": "OK, great, thank you.",
+      "start": 49.86,
+      "duration": 1.6
+    },
+    {
+      "text": "Bye.",
+      "start": 51.46,
+      "duration": 1.04
+    },
+    {
+      "text": "B-A-I.",
+      "start": 52.5,
+      "duration": 1.32
+    },
+    {
+      "text": "Nope.",
+      "start": 54.7,
+      "duration": 0.84
+    },
+    {
+      "text": "Close.",
+      "start": 56.38,
+      "duration": 1.84
+    },
+    {
+      "text": "So close.",
+      "start": 58.22,
+      "duration": 1.16
+    },
+    {
+      "text": "Hey, I'm Grump.",
+      "start": 59.38,
+      "duration": 0.94
+    },
+    {
+      "text": "I'm not so Grump.",
+      "start": 60.32,
+      "duration": 1.58
+    },
+    {
+      "text": "And we're the Game Grumps.",
+      "start": 61.9,
+      "duration": 2.28
+    },
+    {
+      "text": "Hello.",
+      "start": 65.34,
+      "duration": 1.24
+    },
+    {
+      "text": "Oh, it's Raptor Boyfriend.",
+      "start": 66.58,
+      "duration": 4.0
+    },
+    {
+      "text": "It's Raptor Boyfriend, version 2.0.",
+      "start": 70.58,
+      "duration": 3.26
+    },
+    {
+      "text": "You don't want to know what happened with version 1.0.",
+      "start": 73.84,
+      "duration": 3.36
+    },
+    {
+      "text": "The Raptor.",
+      "start": 77.2,
+      "duration": 0.84
+    },
+    {
+      "text": "Arin, what is this?",
+      "start": 78.04,
+      "duration": 2.2
+    },
+    {
+      "text": "I don't know.",
+      "start": 80.24,
+      "duration": 0.84
+    },
+    {
+      "text": "OK, me neither.",
+      "start": 81.08,
+      "duration": 1.48
+    },
+    {
+      "text": "We don't know what this is, actually.",
+      "start": 82.56,
+      "duration": 1.98
+    },
+    {
+      "text": "We like the title, and I mean, they can open doors now, so.",
+      "start": 85.5,
+      "duration": 5.0
+    },
+    {
+      "text": "Now?",
+      "start": 90.94,
+      "duration": 0.84
+    },
+    {
+      "text": "I mean.",
+      "start": 91.78,
+      "duration": 0.82
+    },
+    {
+      "text": "They can open doors before us.",
+      "start": 92.6,
+      "duration": 1.74
+    },
+    {
+      "text": "Maybe that's what happened with version 1.0.",
+      "start": 94.34,
+      "duration": 3.0
+    },
+    {
+      "text": "They learned how to open doors",
+      "start": 97.34,
+      "duration": 1.02
+    },
+    {
+      "text": "and killed whoever made the game.",
+      "start": 98.36,
+      "duration": 1.94
+    },
+    {
+      "text": "All right, so let's start.",
+      "start": 100.3,
+      "duration": 2.14
+    },
+    {
+      "text": "OK.",
+      "start": 102.44,
+      "duration": 0.84
+    },
+    {
+      "text": "Do you want to be Stella?",
+      "start": 106.96,
+      "duration": 1.22
+    },
+    {
+      "text": "Yeah, I'll be Stella.",
+      "start": 108.18,
+      "duration": 1.6
+    },
+    {
+      "text": "It's been a while since our last appointment",
+      "start": 109.78,
+      "duration": 1.74
+    },
+    {
+      "text": "has been in talk.",
+      "start": 111.52,
+      "duration": 1.14
+    },
+    {
+      "text": "This is a really shocking turn of events",
+      "start": 112.66,
+      "duration": 1.78
+    },
+    {
+      "text": "with that voice choice.",
+      "start": 115.22,
+      "duration": 1.58
+    },
+    {
+      "text": "Well, I'm not going to lie, a lot's changed.",
+      "start": 116.8,
+      "duration": 3.76
+    },
+    {
+      "text": "Got these non-working scissors.",
+      "start": 120.56,
+      "duration": 2.04
+    },
+    {
+      "text": "Yeah, those don't look functional.",
+      "start": 122.6,
+      "duration": 1.76
+    },
+    {
+      "text": "I know it's kind of a cliche, but I'm living in the 90s.",
+      "start": 126.24,
+      "duration": 4.44
+    },
+    {
+      "text": "My life didn't really start until last year",
+      "start": 131.6,
+      "duration": 2.76
+    },
+    {
+      "text": "when I fucked a raptor.",
+      "start": 134.36,
+      "duration": 1.28
+    },
+    {
+      "text": "All right, take it easy, Arin.",
+      "start": 135.64,
+      "duration": 1.16
+    },
+    {
+      "text": "It didn't start until me and my dad pooped a ladle.",
+      "start": 136.8,
+      "duration": 2.8
+    },
+    {
+      "text": "Ladle, this magical small town",
+      "start": 140.6,
+      "duration": 3.2
+    },
+    {
+      "text": "in the middle of nowhere, Ontario.",
+      "start": 143.8,
+      "duration": 2.52
+    },
+    {
+      "text": "Oh, OK.",
+      "start": 146.32,
+      "duration": 0.84
+    },
+    {
+      "text": "I dreamed of moving here for so long.",
+      "start": 147.16,
+      "duration": 3.6
+    },
+    {
+      "text": "That's your Canadian accent?",
+      "start": 150.76,
+      "duration": 2.04
+    },
+    {
+      "text": "That's like my Canadian accent in that voice.",
+      "start": 152.8,
+      "duration": 1.96
+    },
+    {
+      "text": "Perfect.",
+      "start": 154.76,
+      "duration": 0.84
+    },
+    {
+      "text": "Ever since I was a kid, I'd come to visit grandma",
+      "start": 155.6,
+      "duration": 3.48
+    },
+    {
+      "text": "and go to the local camp.",
+      "start": 159.08,
+      "duration": 2.12
+    },
+    {
+      "text": "I don't know if I can make it through a whole play through",
+      "start": 161.2,
+      "duration": 2.28
+    },
+    {
+      "text": "with that voice.",
+      "start": 163.48,
+      "duration": 0.84
+    },
+    {
+      "text": "It was like a fantastical adventure every summer.",
+      "start": 164.32,
+      "duration": 2.86
+    },
+    {
+      "text": "I'm going back home to the lousy city.",
+      "start": 168.1,
+      "duration": 2.52
+    },
+    {
+      "text": "Going back home to the lousy city",
+      "start": 170.62,
+      "duration": 1.8
+    },
+    {
+      "text": "felt like someone's shaking me away from an amazing dream.",
+      "start": 172.42,
+      "duration": 4.76
+    },
+    {
+      "text": "But this time it was different.",
+      "start": 177.18,
+      "duration": 1.8
+    },
+    {
+      "text": "This time ladle was going to be my home.",
+      "start": 178.98,
+      "duration": 2.36
+    },
+    {
+      "text": "The doctor's like, go on.",
+      "start": 181.34,
+      "duration": 3.96
+    },
+    {
+      "text": "I just wish, I wish the reason we moved here wasn't-",
+      "start": 185.3,
+      "duration": 3.96
+    },
+    {
+      "text": "Raptor boyfriend.",
+      "start": 189.26,
+      "duration": 0.84
+    },
+    {
+      "text": "Wasn't because grandma had pee, pee, pee, pesto.",
+      "start": 190.1,
+      "duration": 4.8
+    },
+    {
+      "text": "We used to be so close.",
+      "start": 194.9,
+      "duration": 1.76
+    },
+    {
+      "text": "The doctor's like, passed on what?",
+      "start": 196.66,
+      "duration": 3.4
+    },
+    {
+      "text": "Passed on this life.",
+      "start": 200.06,
+      "duration": 0.92
+    },
+    {
+      "text": "You're not a smart doctor, are you?",
+      "start": 200.98,
+      "duration": 2.04
+    },
+    {
+      "text": "But then right before high school,",
+      "start": 203.02,
+      "duration": 1.56
+    },
+    {
+      "text": "me and dad stopped coming to ladle because-",
+      "start": 204.58,
+      "duration": 3.4
+    },
+    {
+      "text": "Oh, I can choose.",
+      "start": 207.98,
+      "duration": 0.72
+    },
+    {
+      "text": "Why you get to choose your own life?",
+      "start": 208.7,
+      "duration": 3.16
+    },
+    {
+      "text": "Dad and grandma had a bad fight.",
+      "start": 211.86,
+      "duration": 2.32
+    },
+    {
+      "text": "Last time we were there, dad and grandma had this huge fight.",
+      "start": 214.18,
+      "duration": 3.36
+    },
+    {
+      "text": "He went up to the top rope, but she hit him",
+      "start": 217.54,
+      "duration": 1.8
+    },
+    {
+      "text": "with the steel chair.",
+      "start": 219.34,
+      "duration": 2.6
+    },
+    {
+      "text": "And she was like, don't use the people's elbow on me.",
+      "start": 221.94,
+      "duration": 2.96
+    },
+    {
+      "text": "It was something to do with dad's work.",
+      "start": 224.98,
+      "duration": 2.04
+    },
+    {
+      "text": "I just remember being surprised that grandma",
+      "start": 227.02,
+      "duration": 1.84
+    },
+    {
+      "text": "could yell that loud.",
+      "start": 228.86,
+      "duration": 2.24
+    },
+    {
+      "text": "She was like, I'm coming for you.",
+      "start": 231.1,
+      "duration": 3.12
+    },
+    {
+      "text": "She was so tiny, but that voice.",
+      "start": 234.22,
+      "duration": 3.4
+    },
+    {
+      "text": "After that, she only called during my birthday and holidays.",
+      "start": 237.62,
+      "duration": 4.12
+    },
+    {
+      "text": "And her and dad barely talked.",
+      "start": 241.74,
+      "duration": 2.52
+    },
+    {
+      "text": "I think dad really felt really bad",
+      "start": 244.26,
+      "duration": 2.28
+    },
+    {
+      "text": "about not seeing her again.",
+      "start": 246.54,
+      "duration": 2.6
+    },
+    {
+      "text": "Took a while for it to sink in for me.",
+      "start": 249.14,
+      "duration": 3.04
+    },
+    {
+      "text": "In movies when people die, it's always",
+      "start": 252.22,
+      "duration": 1.48
+    },
+    {
+      "text": "so dramatic and meaningful.",
+      "start": 253.7,
+      "duration": 2.28
+    },
+    {
+      "text": "And so it is in real life.",
+      "start": 255.98,
+      "duration": 2.32
+    },
+    {
+      "text": "Raptor, boyfriend.",
+      "start": 258.3,
+      "duration": 2.2
+    },
+    {
+      "text": "But this is a funeral in sadness.",
+      "start": 260.5,
+      "duration": 2.12
+    },
+    {
+      "text": "A lot of what you have to deal with really",
+      "start": 262.62,
+      "duration": 2.44
+    },
+    {
+      "text": "is a lot of paperwork.",
+      "start": 265.06,
+      "duration": 2.92
+    },
+    {
+      "text": "Oh, man, this game is turning out to be the fun romp",
+      "start": 267.98,
+      "duration": 2.08
+    },
+    {
+      "text": "we hoped it would be.",
+      "start": 270.06,
+      "duration": 1.8
+    },
+    {
+      "text": "We came up here because despite all that happened,",
+      "start": 271.86,
+      "duration": 2.52
+    },
+    {
+      "text": "I wanted to fuck a raptor.",
+      "start": 274.38,
+      "duration": 1.96
+    },
+    {
+      "text": "All right, take it easy, man.",
+      "start": 276.34,
+      "duration": 1.92
+    },
+    {
+      "text": "Chill out.",
+      "start": 278.26,
+      "duration": 0.6
+    },
+    {
+      "text": "Grandma left dad and everything.",
+      "start": 278.86,
+      "duration": 1.72
+    },
+    {
+      "text": "That included her house.",
+      "start": 280.62,
+      "duration": 1.8
+    },
+    {
+      "text": "So we moved in.",
+      "start": 282.42,
+      "duration": 1.8
+    },
+    {
+      "text": "I know, talk about bittersweet, right?",
+      "start": 284.22,
+      "duration": 3.56
+    },
+    {
+      "text": "Back then.",
+      "start": 287.78,
+      "duration": 0.52
+    },
+    {
+      "text": "This place is crawling with meat-eating raptors.",
+      "start": 288.3,
+      "duration": 4.08
+    },
+    {
+      "text": "Back then, when we first moved in.",
+      "start": 292.38,
+      "duration": 2.24
+    },
+    {
+      "text": "I'm sorry, our time is up now.",
+      "start": 294.62,
+      "duration": 3.48
+    },
+    {
+      "text": "That'll be $4,000.",
+      "start": 298.1,
+      "duration": 2.36
+    },
+    {
+      "text": "I didn't know how to feel.",
+      "start": 300.46,
+      "duration": 1.76
+    },
+    {
+      "text": "Dad told me that grandma would have wanted",
+      "start": 302.22,
+      "duration": 1.76
+    },
+    {
+      "text": "me to enjoy my senior year.",
+      "start": 303.98,
+      "duration": 1.36
+    },
+    {
+      "text": "And so, but what the fuck does he know?",
+      "start": 305.34,
+      "duration": 3.64
+    },
+    {
+      "text": "They were all pissed at each other.",
+      "start": 308.98,
+      "duration": 1.4
+    },
+    {
+      "text": "Have you seen that meme where it's like two Lego,",
+      "start": 310.38,
+      "duration": 2.92
+    },
+    {
+      "text": "like a guy talking to his doctor.",
+      "start": 313.3,
+      "duration": 2.04
+    },
+    {
+      "text": "And he's like, doctor, I'm sad.",
+      "start": 315.34,
+      "duration": 3.0
+    },
+    {
+      "text": "The doctor goes, sad is das backwards, and das not good.",
+      "start": 318.34,
+      "duration": 5.6
+    },
+    {
+      "text": "Anyway, here's your bill, and it's like $3,000.",
+      "start": 323.94,
+      "duration": 4.48
+    },
+    {
+      "text": "Shit is so funny.",
+      "start": 328.42,
+      "duration": 2.36
+    },
+    {
+      "text": "That's what I set out to do.",
+      "start": 330.78,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't remember.",
+      "start": 332.78,
+      "duration": 1.0
+    },
+    {
+      "text": "I had a lot going for me.",
+      "start": 333.78,
+      "duration": 1.96
+    },
+    {
+      "text": "Dad let me have grandma's old truck.",
+      "start": 335.74,
+      "duration": 1.96
+    },
+    {
+      "text": "I was going to a new school.",
+      "start": 337.7,
+      "duration": 2.0
+    },
+    {
+      "text": "Where I could make a good first impression.",
+      "start": 340.34,
+      "duration": 3.12
+    },
+    {
+      "text": "I was a ladle.",
+      "start": 343.46,
+      "duration": 1.84
+    },
+    {
+      "text": "Call me soup.",
+      "start": 345.3,
+      "duration": 2.48
+    },
+    {
+      "text": "Now I know that I haven't been great at meeting new people.",
+      "start": 347.78,
+      "duration": 3.2
+    },
+    {
+      "text": "I usually like to keep to myself.",
+      "start": 350.98,
+      "duration": 3.08
+    },
+    {
+      "text": "It was like totally my choice though.",
+      "start": 354.06,
+      "duration": 2.96
+    },
+    {
+      "text": "Oh.",
+      "start": 357.02,
+      "duration": 0.5
+    },
+    {
+      "text": "See, the problem is, come on, doc,",
+      "start": 360.34,
+      "duration": 6.4
+    },
+    {
+      "text": "don't look at me like that.",
+      "start": 366.74,
+      "duration": 1.24
+    },
+    {
+      "text": "Fine, it wasn't by choice.",
+      "start": 369.94,
+      "duration": 2.36
+    },
+    {
+      "text": "I was a dweeb.",
+      "start": 372.3,
+      "duration": 2.0
+    },
+    {
+      "text": "A big fat dweeb is with an L practically tattooed",
+      "start": 374.3,
+      "duration": 3.44
+    },
+    {
+      "text": "on my forehead.",
+      "start": 377.74,
+      "duration": 1.56
+    },
+    {
+      "text": "No personal checks.",
+      "start": 379.3,
+      "duration": 1.08
+    },
+    {
+      "text": "I take a cash app now.",
+      "start": 384.5,
+      "duration": 2.72
+    },
+    {
+      "text": "Is that what you want to hear?",
+      "start": 387.22,
+      "duration": 2.56
+    },
+    {
+      "text": "You're right.",
+      "start": 389.78,
+      "duration": 0.92
+    },
+    {
+      "text": "That wasn't fair.",
+      "start": 390.7,
+      "duration": 1.56
+    },
+    {
+      "text": "It's just I'm still a bit sore about it.",
+      "start": 392.26,
+      "duration": 3.48
+    },
+    {
+      "text": "I guess I had trouble making friends because I'm always",
+      "start": 395.74,
+      "duration": 3.08
+    },
+    {
+      "text": "talking to bears.",
+      "start": 398.82,
+      "duration": 1.72
+    },
+    {
+      "text": "Always talking to tough animals.",
+      "start": 400.54,
+      "duration": 2.76
+    },
+    {
+      "text": "I move schools too much.",
+      "start": 403.3,
+      "duration": 1.24
+    },
+    {
+      "text": "OK.",
+      "start": 404.54,
+      "duration": 0.8
+    },
+    {
+      "text": "Me and dad move around so much that I couldn't really",
+      "start": 405.34,
+      "duration": 2.28
+    },
+    {
+      "text": "get to know anyone before I had to change schools.",
+      "start": 407.62,
+      "duration": 2.2
+    },
+    {
+      "text": "Every time grandma passes away, we have to move again.",
+      "start": 409.82,
+      "duration": 2.84
+    },
+    {
+      "text": "Don't think of this.",
+      "start": 415.86,
+      "duration": 1.2
+    },
+    {
+      "text": "She's resurrected by the dark arts.",
+      "start": 417.06,
+      "duration": 2.48
+    },
+    {
+      "text": "What is this?",
+      "start": 419.54,
+      "duration": 1.96
+    },
+    {
+      "text": "Death five?",
+      "start": 421.5,
+      "duration": 0.92
+    },
+    {
+      "text": "Death six?",
+      "start": 422.42,
+      "duration": 0.8
+    },
+    {
+      "text": "I can't even keep track anymore.",
+      "start": 423.22,
+      "duration": 2.84
+    },
+    {
+      "text": "There she is again.",
+      "start": 426.06,
+      "duration": 1.8
+    },
+    {
+      "text": "Oh, no, that's just raptor boyfriend.",
+      "start": 427.94,
+      "duration": 1.68
+    },
+    {
+      "text": "Remember that's what this game is supposed to be about?",
+      "start": 429.62,
+      "duration": 2.72
+    },
+    {
+      "text": "Being the perpetual new girl, it's",
+      "start": 432.34,
+      "duration": 1.72
+    },
+    {
+      "text": "like being some kind of scared animal who ventured",
+      "start": 434.06,
+      "duration": 2.12
+    },
+    {
+      "text": "too far into civilization.",
+      "start": 436.18,
+      "duration": 1.88
+    },
+    {
+      "text": "Literally, I'm telling you, the icon for this game",
+      "start": 438.06,
+      "duration": 2.92
+    },
+    {
+      "text": "is like a cool looking raptor with his hat backwards.",
+      "start": 440.98,
+      "duration": 4.0
+    },
+    {
+      "text": "Like, got like a cool Walkman.",
+      "start": 444.98,
+      "duration": 2.68
+    },
+    {
+      "text": "Yeah, and like Sasquatches behind him, like, what's up?",
+      "start": 447.66,
+      "duration": 3.0
+    },
+    {
+      "text": "Yeah, yeah.",
+      "start": 450.66,
+      "duration": 1.16
+    },
+    {
+      "text": "We were expecting a little bit more of a fast ramp",
+      "start": 451.82,
+      "duration": 4.24
+    },
+    {
+      "text": "up to the fun in this game.",
+      "start": 456.06,
+      "duration": 2.2
+    },
+    {
+      "text": "Everyone's gawking, but they're also like, why is she here?",
+      "start": 458.26,
+      "duration": 4.68
+    },
+    {
+      "text": "So yeah, doc, I hadn't really had the best luck before,",
+      "start": 462.94,
+      "duration": 2.96
+    },
+    {
+      "text": "but on that day, September 15th, 1997,",
+      "start": 465.9,
+      "duration": 4.56
+    },
+    {
+      "text": "the planet was so alive somewhere",
+      "start": 470.46,
+      "duration": 1.88
+    },
+    {
+      "text": "that changed everything.",
+      "start": 472.34,
+      "duration": 1.12
+    },
+    {
+      "text": "Real Big Fish was at the top of the charts.",
+      "start": 473.46,
+      "duration": 3.16
+    },
+    {
+      "text": "Let me tell you about my first day a little high.",
+      "start": 476.62,
+      "duration": 5.48
+    },
+    {
+      "text": "Eh, eh.",
+      "start": 482.1,
+      "duration": 3.16
+    },
+    {
+      "text": "Wait, is this supposed to take place in the present day?",
+      "start": 486.02,
+      "duration": 2.8
+    },
+    {
+      "text": "I have no idea.",
+      "start": 488.82,
+      "duration": 1.6
+    },
+    {
+      "text": "Because if she was a high schooler in 1997,",
+      "start": 490.42,
+      "duration": 2.2
+    },
+    {
+      "text": "she'd be in her early 40s now.",
+      "start": 492.62,
+      "duration": 1.56
+    },
+    {
+      "text": "Maybe she's, I mean, it did show her bedroom",
+      "start": 496.98,
+      "duration": 4.08
+    },
+    {
+      "text": "and it had like a phone.",
+      "start": 501.06,
+      "duration": 3.12
+    },
+    {
+      "text": "Oh, yeah, maybe it is.",
+      "start": 504.18,
+      "duration": 1.32
+    },
+    {
+      "text": "OK.",
+      "start": 505.5,
+      "duration": 1.32
+    },
+    {
+      "text": "I was on the way to Ladle High.",
+      "start": 506.82,
+      "duration": 1.52
+    },
+    {
+      "text": "Maybe it was like early 2000s.",
+      "start": 508.34,
+      "duration": 1.52
+    },
+    {
+      "text": "Yeah.",
+      "start": 509.86,
+      "duration": 0.92
+    },
+    {
+      "text": "Trying desperately not to freak out",
+      "start": 510.78,
+      "duration": 1.44
+    },
+    {
+      "text": "about the horrifying prospect of starting a new high school",
+      "start": 512.22,
+      "duration": 2.8
+    },
+    {
+      "text": "during senior year.",
+      "start": 515.02,
+      "duration": 2.72
+    },
+    {
+      "text": "It's going to be fine.",
+      "start": 517.74,
+      "duration": 1.36
+    },
+    {
+      "text": "Ah!",
+      "start": 519.1,
+      "duration": 0.52
+    },
+    {
+      "text": "Pfft!",
+      "start": 519.62,
+      "duration": 1.92
+    },
+    {
+      "text": "Ladle's different from most places.",
+      "start": 521.54,
+      "duration": 3.72
+    },
+    {
+      "text": "Let's get a spooning tomato soup.",
+      "start": 525.26,
+      "duration": 4.48
+    },
+    {
+      "text": "All right, come on.",
+      "start": 529.74,
+      "duration": 1.28
+    },
+    {
+      "text": "Punch.",
+      "start": 531.02,
+      "duration": 1.68
+    },
+    {
+      "text": "What's the worst that could happen?",
+      "start": 532.7,
+      "duration": 1.96
+    },
+    {
+      "text": "I get shamed, kicked out of school,",
+      "start": 534.66,
+      "duration": 2.12
+    },
+    {
+      "text": "and regret my actions for the rest of my life.",
+      "start": 536.78,
+      "duration": 2.52
+    },
+    {
+      "text": "My comforting words weren't enough to calm me down,",
+      "start": 539.3,
+      "duration": 2.24
+    },
+    {
+      "text": "weirdly.",
+      "start": 541.54,
+      "duration": 2.0
+    },
+    {
+      "text": "I need a game plan and a goal.",
+      "start": 543.54,
+      "duration": 4.6
+    },
+    {
+      "text": "Fortunately, if I have a good game plan,",
+      "start": 548.14,
+      "duration": 2.24
+    },
+    {
+      "text": "the offense should be able to pierce through the defense",
+      "start": 550.38,
+      "duration": 2.32
+    },
+    {
+      "text": "and I'll score a goal.",
+      "start": 552.7,
+      "duration": 2.64
+    },
+    {
+      "text": "All right, go, go, go!",
+      "start": 555.34,
+      "duration": 1.44
+    },
+    {
+      "text": "Ah!",
+      "start": 556.78,
+      "duration": 1.48
+    },
+    {
+      "text": "What's part of this?",
+      "start": 558.26,
+      "duration": 2.36
+    },
+    {
+      "text": "Which ball do I kick?",
+      "start": 560.62,
+      "duration": 2.24
+    },
+    {
+      "text": "Yes, that's it.",
+      "start": 562.86,
+      "duration": 0.72
+    },
+    {
+      "text": "Or throw?",
+      "start": 563.58,
+      "duration": 2.44
+    },
+    {
+      "text": "I knew I was already under a lot of pressure.",
+      "start": 566.02,
+      "duration": 3.08
+    },
+    {
+      "text": "So I made a goal that felt very reasonable.",
+      "start": 569.1,
+      "duration": 3.24
+    },
+    {
+      "text": "I'm going to become president.",
+      "start": 572.38,
+      "duration": 3.56
+    },
+    {
+      "text": "I'm going to be the coolest girl in school on the first day.",
+      "start": 575.94,
+      "duration": 3.76
+    },
+    {
+      "text": "The president of spies.",
+      "start": 579.7,
+      "duration": 3.12
+    },
+    {
+      "text": "Spies!",
+      "start": 582.82,
+      "duration": 2.4
+    },
+    {
+      "text": "Everyone will be like, you, Stella Starosta,",
+      "start": 585.22,
+      "duration": 3.36
+    },
+    {
+      "text": "are the coolest girl in Ladle High.",
+      "start": 588.58,
+      "duration": 2.96
+    },
+    {
+      "text": "It seemed pretty doable.",
+      "start": 591.54,
+      "duration": 2.4
+    },
+    {
+      "text": "Oh, no, my last name's not Starosta.",
+      "start": 593.94,
+      "duration": 3.04
+    },
+    {
+      "text": "Not doable anymore.",
+      "start": 596.98,
+      "duration": 1.52
+    },
+    {
+      "text": "Game plan time.",
+      "start": 598.5,
+      "duration": 1.88
+    },
+    {
+      "text": "All I have to do is, I only just got to meet a raptor.",
+      "start": 600.42,
+      "duration": 5.2
+    },
+    {
+      "text": "Here's how I'm going to do it.",
+      "start": 605.62,
+      "duration": 2.28
+    },
+    {
+      "text": "I'll make myself into, oh, man, she is choices clown.",
+      "start": 607.9,
+      "duration": 6.64
+    },
+    {
+      "text": "I'll make myself into the class clown.",
+      "start": 614.54,
+      "duration": 2.24
+    },
+    {
+      "text": "I'll be the funniest person in school.",
+      "start": 616.78,
+      "duration": 2.56
+    },
+    {
+      "text": "Everyone will laugh at my classic bits.",
+      "start": 619.34,
+      "duration": 1.88
+    },
+    {
+      "text": "Come up to me like, how did you get so funny?",
+      "start": 621.22,
+      "duration": 4.0
+    },
+    {
+      "text": "And I'll tell them it's all about honing your craft.",
+      "start": 625.22,
+      "duration": 3.52
+    },
+    {
+      "text": "I'll make topical jokes and do great impressions,",
+      "start": 628.74,
+      "duration": 2.24
+    },
+    {
+      "text": "keep it light and fun.",
+      "start": 630.98,
+      "duration": 2.12
+    },
+    {
+      "text": "They'll all vote me most likely to be famous,",
+      "start": 633.1,
+      "duration": 1.96
+    },
+    {
+      "text": "and that'll probably come true.",
+      "start": 635.06,
+      "duration": 3.12
+    },
+    {
+      "text": "Smash cut to her being like, the government.",
+      "start": 638.18,
+      "duration": 2.64
+    },
+    {
+      "text": "Everyone's like, ooh.",
+      "start": 644.82,
+      "duration": 3.44
+    },
+    {
+      "text": "With a solid plan in place, I started",
+      "start": 648.26,
+      "duration": 1.96
+    },
+    {
+      "text": "getting closer to school.",
+      "start": 650.22,
+      "duration": 1.24
+    },
+    {
+      "text": "What's the deal with airplane food?",
+      "start": 651.46,
+      "duration": 1.56
+    },
+    {
+      "text": "Yeah.",
+      "start": 653.02,
+      "duration": 1.04
+    },
+    {
+      "text": "Just like getting pelted like, poof, poof.",
+      "start": 654.06,
+      "duration": 2.4
+    },
+    {
+      "text": "Fucking cancel culture, am I right?",
+      "start": 656.58,
+      "duration": 2.72
+    },
+    {
+      "text": "This is like 20 years before that.",
+      "start": 659.3,
+      "duration": 3.08
+    },
+    {
+      "text": "Then it hit me.",
+      "start": 662.38,
+      "duration": 1.56
+    },
+    {
+      "text": "What if I run into Taylor?",
+      "start": 663.94,
+      "duration": 1.52
+    },
+    {
+      "text": "Swift?",
+      "start": 665.46,
+      "duration": 1.8
+    },
+    {
+      "text": "I didn't know how to feel about that.",
+      "start": 667.26,
+      "duration": 1.88
+    },
+    {
+      "text": "She was a pop star, after all.",
+      "start": 669.14,
+      "duration": 3.52
+    },
+    {
+      "text": "Taylor was my camp friend.",
+      "start": 672.66,
+      "duration": 3.68
+    },
+    {
+      "text": "He was a stuffed bunny.",
+      "start": 676.34,
+      "duration": 1.8
+    },
+    {
+      "text": "I hadn't seen him since I was 13.",
+      "start": 678.14,
+      "duration": 2.92
+    },
+    {
+      "text": "We used to write each other in between summers.",
+      "start": 681.06,
+      "duration": 3.36
+    },
+    {
+      "text": "I remember being so excited every time",
+      "start": 684.42,
+      "duration": 1.52
+    },
+    {
+      "text": "I got one of his letters.",
+      "start": 685.94,
+      "duration": 2.48
+    },
+    {
+      "text": "It was like I was just a little bit closer to being in ladle.",
+      "start": 688.42,
+      "duration": 2.8
+    },
+    {
+      "text": "Then the year I stopped going to camp, I also stopped writing.",
+      "start": 693.86,
+      "duration": 4.36
+    },
+    {
+      "text": "I didn't know why.",
+      "start": 698.22,
+      "duration": 1.36
+    },
+    {
+      "text": "Maybe it was because.",
+      "start": 699.58,
+      "duration": 1.4
+    },
+    {
+      "text": "Is that the game?",
+      "start": 700.98,
+      "duration": 1.6
+    },
+    {
+      "text": "What, the music?",
+      "start": 702.58,
+      "duration": 0.8
+    },
+    {
+      "text": "Yeah.",
+      "start": 703.38,
+      "duration": 0.52
+    },
+    {
+      "text": "Yeah, it's kind of intense.",
+      "start": 703.9,
+      "duration": 2.8
+    },
+    {
+      "text": "Maybe it was because.",
+      "start": 706.7,
+      "duration": 1.76
+    },
+    {
+      "text": "I had stopped going to camp.",
+      "start": 708.46,
+      "duration": 1.96
+    },
+    {
+      "text": "I had feelings for him, or he changed too much.",
+      "start": 710.42,
+      "duration": 3.44
+    },
+    {
+      "text": "Changed too much.",
+      "start": 713.86,
+      "duration": 1.56
+    },
+    {
+      "text": "Maybe it was because I was worried that he changed",
+      "start": 715.42,
+      "duration": 2.2
+    },
+    {
+      "text": "too much into a raptor.",
+      "start": 717.62,
+      "duration": 3.6
+    },
+    {
+      "text": "Maybe we'd have nothing in common anymore,",
+      "start": 721.22,
+      "duration": 2.52
+    },
+    {
+      "text": "like these human hands.",
+      "start": 723.74,
+      "duration": 3.16
+    },
+    {
+      "text": "And his Deinonychus call.",
+      "start": 726.9,
+      "duration": 1.44
+    },
+    {
+      "text": "We were both about to go to high school,",
+      "start": 732.34,
+      "duration": 1.72
+    },
+    {
+      "text": "and that changes you into a raptor?",
+      "start": 734.06,
+      "duration": 4.04
+    },
+    {
+      "text": "What if he changed so much I couldn't recognize him?",
+      "start": 738.1,
+      "duration": 3.28
+    },
+    {
+      "text": "I didn't think I could handle that Deinonychus call.",
+      "start": 741.38,
+      "duration": 4.48
+    },
+    {
+      "text": "Is that what that curly one on the toe is called?",
+      "start": 745.86,
+      "duration": 2.24
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "start": 748.1,
+      "duration": 2.76
+    },
+    {
+      "text": "I knew I had to focus, though.",
+      "start": 750.86,
+      "duration": 2.2
+    },
+    {
+      "text": "Whether I ran into Taylor or not, first things first.",
+      "start": 753.06,
+      "duration": 4.16
+    },
+    {
+      "text": "I'm sorry, I have to leave early.",
+      "start": 757.22,
+      "duration": 2.36
+    },
+    {
+      "text": "I'm charging you for the full session.",
+      "start": 759.58,
+      "duration": 1.96
+    },
+    {
+      "text": "No refunds.",
+      "start": 761.54,
+      "duration": 1.64
+    },
+    {
+      "text": "I understand.",
+      "start": 763.18,
+      "duration": 1.64
+    },
+    {
+      "text": "I needed to become a class clown.",
+      "start": 764.82,
+      "duration": 2.08
+    },
+    {
+      "text": "God, these bears are real hard ass.",
+      "start": 766.9,
+      "duration": 1.64
+    },
+    {
+      "text": "What's your venmo?",
+      "start": 768.54,
+      "duration": 0.72
+    },
+    {
+      "text": "No venmo!",
+      "start": 769.26,
+      "duration": 1.36
+    },
+    {
+      "text": "Only cash app.",
+      "start": 770.66,
+      "duration": 2.84
+    },
+    {
+      "text": "Episode one, welcome to Ladle.",
+      "start": 773.5,
+      "duration": 2.36
+    },
+    {
+      "text": "We're doing it, buddy.",
+      "start": 775.86,
+      "duration": 1.6
+    },
+    {
+      "text": "Thought we were in Ladle.",
+      "start": 777.46,
+      "duration": 2.4
+    },
+    {
+      "text": "I don't know.",
+      "start": 779.86,
+      "duration": 1.8
+    },
+    {
+      "text": "After going to the office to get registered,",
+      "start": 781.66,
+      "duration": 2.32
+    },
+    {
+      "text": "I really had to shit.",
+      "start": 783.98,
+      "duration": 1.8
+    },
+    {
+      "text": "I went to go find my locker.",
+      "start": 785.78,
+      "duration": 2.44
+    },
+    {
+      "text": "I was supposed to meet a class representative who was going",
+      "start": 788.22,
+      "duration": 2.44
+    },
+    {
+      "text": "to show me around Ladle High.",
+      "start": 790.66,
+      "duration": 2.76
+    },
+    {
+      "text": "They said they would meet me by my locker.",
+      "start": 793.42,
+      "duration": 2.72
+    },
+    {
+      "text": "I guess this is it, the one that says burnout.",
+      "start": 796.14,
+      "duration": 3.44
+    },
+    {
+      "text": "I had something leaking out of it.",
+      "start": 799.62,
+      "duration": 2.4
+    },
+    {
+      "text": "Yep, that's the locker I would get.",
+      "start": 802.02,
+      "duration": 2.08
+    },
+    {
+      "text": "Raptor juice?",
+      "start": 804.1,
+      "duration": 1.64
+    },
+    {
+      "text": "Might as well put my stuff in there.",
+      "start": 805.74,
+      "duration": 1.88
+    },
+    {
+      "text": "It's just like bodies.",
+      "start": 807.62,
+      "duration": 1.32
+    },
+    {
+      "text": "Oops.",
+      "start": 810.94,
+      "duration": 1.28
+    },
+    {
+      "text": "Oh, God.",
+      "start": 812.22,
+      "duration": 1.48
+    },
+    {
+      "text": "This locker smells like death.",
+      "start": 813.7,
+      "duration": 2.36
+    },
+    {
+      "text": "The smell was so potent that it made my eyes water.",
+      "start": 816.06,
+      "duration": 3.68
+    },
+    {
+      "text": "Ugh, I can feel it.",
+      "start": 819.74,
+      "duration": 2.88
+    },
+    {
+      "text": "So dense, like a stench blanket.",
+      "start": 822.62,
+      "duration": 3.52
+    },
+    {
+      "text": "I had to find the source before I fainted.",
+      "start": 826.14,
+      "duration": 2.36
+    },
+    {
+      "text": "Oh, it's a sock.",
+      "start": 828.5,
+      "duration": 1.92
+    },
+    {
+      "text": "That gym sock.",
+      "start": 830.42,
+      "duration": 1.2
+    },
+    {
+      "text": "That damn gym sock.",
+      "start": 831.62,
+      "duration": 2.6
+    },
+    {
+      "text": "It seems to be the center of the stink zone.",
+      "start": 834.22,
+      "duration": 2.44
+    },
+    {
+      "text": "That stank.",
+      "start": 836.66,
+      "duration": 1.16
+    },
+    {
+      "text": "That damn stank.",
+      "start": 837.82,
+      "duration": 3.28
+    },
+    {
+      "text": "Ew, so gross.",
+      "start": 841.1,
+      "duration": 2.12
+    },
+    {
+      "text": "Shut the fuck up.",
+      "start": 843.22,
+      "duration": 2.04
+    },
+    {
+      "text": "The smell of the gross gym sock was creeping into the hallway.",
+      "start": 845.26,
+      "duration": 3.68
+    },
+    {
+      "text": "People were starting to notice.",
+      "start": 848.94,
+      "duration": 4.96
+    },
+    {
+      "text": "I'm like, going to throw up.",
+      "start": 853.9,
+      "duration": 3.68
+    },
+    {
+      "text": "Where's that coming from?",
+      "start": 857.62,
+      "duration": 3.28
+    },
+    {
+      "text": "This is so embarrassing.",
+      "start": 860.9,
+      "duration": 1.68
+    },
+    {
+      "text": "I didn't want to be known as the smelly girl at school,",
+      "start": 862.58,
+      "duration": 2.64
+    },
+    {
+      "text": "so I shit myself.",
+      "start": 865.22,
+      "duration": 1.84
+    },
+    {
+      "text": "I had to do something.",
+      "start": 867.06,
+      "duration": 1.76
+    },
+    {
+      "text": "Where's the dinosaur?",
+      "start": 868.82,
+      "duration": 2.2
+    },
+    {
+      "text": "It's the fucking leather blanket.",
+      "start": 871.02,
+      "duration": 3.24
+    },
+    {
+      "text": "Oh, my God.",
+      "start": 874.26,
+      "duration": 1.56
+    },
+    {
+      "text": "I don't know if I want to open up Dark Souls and not see a Dark Soul.",
+      "start": 875.82,
+      "duration": 4.48
+    },
+    {
+      "text": "This is my chance to become the class clown.",
+      "start": 880.3,
+      "duration": 3.0
+    },
+    {
+      "text": "It stinks, am I right?",
+      "start": 883.3,
+      "duration": 1.44
+    },
+    {
+      "text": "So funny.",
+      "start": 884.74,
+      "duration": 1.2
+    },
+    {
+      "text": "Art smells the worst?",
+      "start": 885.94,
+      "duration": 1.2
+    },
+    {
+      "text": "Damn.",
+      "start": 887.22,
+      "duration": 1.0
+    },
+    {
+      "text": "The bad ones, I mean.",
+      "start": 888.22,
+      "duration": 1.8
+    },
+    {
+      "text": "They're like perfumes, but bad.",
+      "start": 890.02,
+      "duration": 2.52
+    },
+    {
+      "text": "What's the deal with that?",
+      "start": 892.54,
+      "duration": 1.88
+    },
+    {
+      "text": "Topical humor.",
+      "start": 894.42,
+      "duration": 2.24
+    },
+    {
+      "text": "Am I right?",
+      "start": 896.66,
+      "duration": 2.52
+    },
+    {
+      "text": "I was losing them.",
+      "start": 899.18,
+      "duration": 2.4
+    },
+    {
+      "text": "Watch out.",
+      "start": 901.58,
+      "duration": 1.6
+    },
+    {
+      "text": "Yeah, wrapped your boyfriend.",
+      "start": 903.18,
+      "duration": 3.88
+    },
+    {
+      "text": "Oh, they even drew in the feathers.",
+      "start": 907.06,
+      "duration": 1.52
+    },
+    {
+      "text": "Good job, game designers.",
+      "start": 908.58,
+      "duration": 1.36
+    },
+    {
+      "text": "Yeah, they knew what was up.",
+      "start": 909.94,
+      "duration": 2.6
+    },
+    {
+      "text": "Yo, I fucking love him.",
+      "start": 912.54,
+      "duration": 1.84
+    },
+    {
+      "text": "Fuck.",
+      "start": 918.14,
+      "duration": 1.0
+    },
+    {
+      "text": "Shit just got so real.",
+      "start": 919.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, my God.",
+      "start": 921.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I couldn't believe my eyes.",
+      "start": 923.14,
+      "duration": 2.0
+    },
+    {
+      "text": "It was a velociraptor on a skateboard.",
+      "start": 925.14,
+      "duration": 4.0
+    },
+    {
+      "text": "Whoa.",
+      "start": 929.14,
+      "duration": 2.0
+    },
+    {
+      "text": "That dinosaur boy looked so cool.",
+      "start": 931.14,
+      "duration": 2.0
+    },
+    {
+      "text": "The way his feather crest flowed as he cut through the air.",
+      "start": 936.14,
+      "duration": 3.0
+    },
+    {
+      "text": "All right, I'm fully on board now.",
+      "start": 939.14,
+      "duration": 2.0
+    },
+    {
+      "text": "His powerful dinosaur legs and sharp claws.",
+      "start": 941.14,
+      "duration": 2.0
+    },
+    {
+      "text": "This is what we paid the admission for.",
+      "start": 943.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Such balance and grace.",
+      "start": 945.14,
+      "duration": 2.0
+    },
+    {
+      "text": "But what did he want with me?",
+      "start": 947.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Probably to kill you.",
+      "start": 949.14,
+      "duration": 2.0
+    },
+    {
+      "text": "What's up?",
+      "start": 951.14,
+      "duration": 1.0
+    },
+    {
+      "text": "All right, everyone.",
+      "start": 952.14,
+      "duration": 1.0
+    },
+    {
+      "text": "This has all been a prank.",
+      "start": 953.14,
+      "duration": 4.0
+    },
+    {
+      "text": "A prank?",
+      "start": 957.14,
+      "duration": 1.0
+    },
+    {
+      "text": "Exactly.",
+      "start": 958.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Another elaborate prank from me, the Pranktor.",
+      "start": 960.14,
+      "duration": 4.0
+    },
+    {
+      "text": "And I'd like to thank the new girl here",
+      "start": 964.14,
+      "duration": 2.0
+    },
+    {
+      "text": "for playing along and drawing attention to the steak.",
+      "start": 966.14,
+      "duration": 3.0
+    },
+    {
+      "text": "You're welcome?",
+      "start": 969.14,
+      "duration": 1.0
+    },
+    {
+      "text": "That's right.",
+      "start": 970.14,
+      "duration": 1.0
+    },
+    {
+      "text": "She was in on it from the beginning.",
+      "start": 971.14,
+      "duration": 3.0
+    },
+    {
+      "text": "The crowd slowly moved on and then it was just me",
+      "start": 974.14,
+      "duration": 2.0
+    },
+    {
+      "text": "standing face to face with the raptor.",
+      "start": 976.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay, I think we pulled that off.",
+      "start": 979.14,
+      "duration": 2.0
+    },
+    {
+      "text": "He talks the way a slot machine sounds.",
+      "start": 981.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Please don't disembowel me.",
+      "start": 985.14,
+      "duration": 2.0
+    },
+    {
+      "text": "You skateboard good.",
+      "start": 987.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Base skateboard moves.",
+      "start": 992.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh, I skateboard well.",
+      "start": 994.14,
+      "duration": 2.0
+    },
+    {
+      "text": "You sure know how to do the boarding.",
+      "start": 997.14,
+      "duration": 2.0
+    },
+    {
+      "text": "The skateboarding.",
+      "start": 999.14,
+      "duration": 1.0
+    },
+    {
+      "text": "Why are you so smart with your Deinonychus brain?",
+      "start": 1000.14,
+      "duration": 3.0
+    },
+    {
+      "text": "With the jumps and whatnot.",
+      "start": 1004.14,
+      "duration": 2.0
+    },
+    {
+      "text": "You're good at that.",
+      "start": 1006.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Um, thanks.",
+      "start": 1008.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Or, um, you.",
+      "start": 1010.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Look, I know it's a lot to take in.",
+      "start": 1012.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Yes, I am a skateboarding velociraptor.",
+      "start": 1014.14,
+      "duration": 2.0
+    },
+    {
+      "text": "No, I'm not here to eat you.",
+      "start": 1016.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm actually pretty partial to pizza,",
+      "start": 1018.14,
+      "duration": 2.0
+    },
+    {
+      "text": "spaghetti, and small amphibians.",
+      "start": 1020.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Not some pretty new girl at school.",
+      "start": 1022.14,
+      "duration": 2.0
+    },
+    {
+      "text": "What are you, Italian?",
+      "start": 1024.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, what?",
+      "start": 1026.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Because he likes pizza and spaghetti and small amphibians.",
+      "start": 1028.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Do Italians like small amphibians?",
+      "start": 1030.14,
+      "duration": 3.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1035.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Nice cover back there.",
+      "start": 1038.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1040.14,
+      "duration": 2.0
+    },
+    {
+      "text": "So what is that smell, anyway?",
+      "start": 1042.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Could I get a zupropesh",
+      "start": 1045.14,
+      "duration": 2.0
+    },
+    {
+      "text": "and a little bit of, uh,",
+      "start": 1047.14,
+      "duration": 2.0
+    },
+    {
+      "text": "frog guts?",
+      "start": 1049.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Hold the mayo?",
+      "start": 1052.14,
+      "duration": 2.0
+    },
+    {
+      "text": "On the frog guts?",
+      "start": 1054.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, sometimes they make you mayo.",
+      "start": 1056.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I'll get the check, please.",
+      "start": 1059.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin, where are you going with this?",
+      "start": 1061.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh, I forgot what he asked.",
+      "start": 1064.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh, what's the smell?",
+      "start": 1066.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Some jerk left a sock in my locker.",
+      "start": 1068.14,
+      "duration": 2.0
+    },
+    {
+      "text": "A socker?",
+      "start": 1070.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Some total jerk left a grody",
+      "start": 1072.14,
+      "duration": 2.0
+    },
+    {
+      "text": "sock in my locker.",
+      "start": 1074.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Total jerk?",
+      "start": 1076.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know if it was someone's idea of a joke,",
+      "start": 1078.14,
+      "duration": 2.0
+    },
+    {
+      "text": "or if they were just really gross.",
+      "start": 1080.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Maybe, like, theoretically, the joke is actually",
+      "start": 1082.14,
+      "duration": 2.0
+    },
+    {
+      "text": "pretty funny if you think about it for a little while.",
+      "start": 1084.14,
+      "duration": 2.0
+    },
+    {
+      "text": "What?",
+      "start": 1086.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay, look, I put the stinky sock in your locker.",
+      "start": 1088.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I did it as a prank.",
+      "start": 1090.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I thought it would break the ice.",
+      "start": 1092.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Make you feel at home here.",
+      "start": 1094.14,
+      "duration": 2.0
+    },
+    {
+      "text": "You know, humiliate you in front of a large group of people.",
+      "start": 1096.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Like, like at home.",
+      "start": 1098.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I worked super hard on it.",
+      "start": 1100.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I worked super hard on it.",
+      "start": 1102.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh, I don't get it.",
+      "start": 1104.14,
+      "duration": 2.0
+    },
+    {
+      "text": "No, play along.",
+      "start": 1106.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Play along?",
+      "start": 1108.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Don't fucking blow this, Arin.",
+      "start": 1110.14,
+      "duration": 2.0
+    },
+    {
+      "text": "There's one chance to get a",
+      "start": 1112.14,
+      "duration": 2.0
+    },
+    {
+      "text": "cute raptor boyfriend.",
+      "start": 1114.14,
+      "duration": 2.0
+    },
+    {
+      "text": "God, you're so right.",
+      "start": 1116.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I get it now!",
+      "start": 1118.14,
+      "duration": 2.0
+    },
+    {
+      "text": "And I didn't know it was there!",
+      "start": 1120.14,
+      "duration": 2.0
+    },
+    {
+      "text": "You don't have to do this. I know the prank sucked.",
+      "start": 1122.14,
+      "duration": 2.0
+    },
+    {
+      "text": "No, no.",
+      "start": 1124.14,
+      "duration": 2.0
+    },
+    {
+      "text": "It was good.",
+      "start": 1126.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I",
+      "start": 1128.14,
+      "duration": 2.0
+    },
+    {
+      "text": "appreciate you trying to make me feel better.",
+      "start": 1130.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Unfortunately, now I have to eat your head.",
+      "start": 1132.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1134.14,
+      "duration": 2.0
+    },
+    {
+      "text": "This is a pretty bad way- Oh.",
+      "start": 1136.14,
+      "duration": 2.0
+    },
+    {
+      "text": "This is a pretty bad way to start your first day at Ladle here, huh?",
+      "start": 1138.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, it's not really going",
+      "start": 1140.14,
+      "duration": 2.0
+    },
+    {
+      "text": "how I planned it.",
+      "start": 1142.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Really, you didn't plan this?",
+      "start": 1144.14,
+      "duration": 2.0
+    },
+    {
+      "text": "That you'd be talking to a dinosaur?",
+      "start": 1146.14,
+      "duration": 2.0
+    },
+    {
+      "text": "You deserve a better prank than this.",
+      "start": 1148.14,
+      "duration": 2.0
+    },
+    {
+      "text": "You know what would be a hilarious prank?",
+      "start": 1152.14,
+      "duration": 2.0
+    },
+    {
+      "text": "If I killed and ate you.",
+      "start": 1154.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Anyway, my name is Robert Raptorzen. Who are you?",
+      "start": 1156.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I thought, this should be easy.",
+      "start": 1158.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Just tell him your name.",
+      "start": 1160.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Just tell him your name.",
+      "start": 1162.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Nothing fancy, I thought.",
+      "start": 1164.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Go for it and be natural.",
+      "start": 1166.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm Strella!",
+      "start": 1168.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Yep, I mean,",
+      "start": 1170.14,
+      "duration": 2.0
+    },
+    {
+      "text": "it was my first real conversation with a cute",
+      "start": 1172.14,
+      "duration": 2.0
+    },
+    {
+      "text": "boy, and it was already",
+      "start": 1174.14,
+      "duration": 2.0
+    },
+    {
+      "text": "messing it up. Hopeless.",
+      "start": 1176.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Strella, cool.",
+      "start": 1180.14,
+      "duration": 2.0
+    },
+    {
+      "text": "No, sorry, it's, um, never mind.",
+      "start": 1182.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I was, um,",
+      "start": 1184.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm supposed to meet the class",
+      "start": 1186.14,
+      "duration": 2.0
+    },
+    {
+      "text": "representative to show me around the school.",
+      "start": 1188.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I guess they forgot.",
+      "start": 1190.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Nope, that's me,",
+      "start": 1192.14,
+      "duration": 2.0
+    },
+    {
+      "text": "class representative.",
+      "start": 1194.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Who better to represent a class of humans than a",
+      "start": 1196.14,
+      "duration": 2.0
+    },
+    {
+      "text": "fucking raptor? You might have thought",
+      "start": 1198.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I died out during the Cretaceous period",
+      "start": 1200.14,
+      "duration": 2.0
+    },
+    {
+      "text": "of the Mesozoic era, but",
+      "start": 1202.14,
+      "duration": 2.0
+    },
+    {
+      "text": "oh, you'd be sadly mistaken.",
+      "start": 1204.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I gotta get the",
+      "start": 1206.14,
+      "duration": 2.0
+    },
+    {
+      "text": "class.",
+      "start": 1208.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Really? Sure.",
+      "start": 1210.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Who better to show you around than me?",
+      "start": 1212.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I am very representative of what this",
+      "start": 1214.14,
+      "duration": 2.0
+    },
+    {
+      "text": "school has to offer. Great.",
+      "start": 1216.14,
+      "duration": 2.0
+    },
+    {
+      "text": "And my family has lived in",
+      "start": 1218.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Ladle for generations. Millions",
+      "start": 1220.14,
+      "duration": 2.0
+    },
+    {
+      "text": "of generations. You might have heard of",
+      "start": 1222.14,
+      "duration": 2.0
+    },
+    {
+      "text": "us.",
+      "start": 1224.14,
+      "duration": 2.0
+    },
+    {
+      "text": "The Raptorsens?",
+      "start": 1226.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Right, that is your name.",
+      "start": 1228.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I actually vaguely remember hearing",
+      "start": 1230.14,
+      "duration": 2.0
+    },
+    {
+      "text": "about the Raptorsens when I came to Ladle.",
+      "start": 1232.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I wondered, could they be raptors?",
+      "start": 1234.14,
+      "duration": 2.0
+    },
+    {
+      "text": "The answer was yes.",
+      "start": 1236.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I recognize that name.",
+      "start": 1238.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I just... Didn't think we were",
+      "start": 1240.14,
+      "duration": 2.0
+    },
+    {
+      "text": "actually raptors? I get that a lot.",
+      "start": 1242.14,
+      "duration": 2.0
+    },
+    {
+      "text": "No, no, no.",
+      "start": 1244.14,
+      "duration": 2.0
+    },
+    {
+      "text": "That wasn't what I was thinking.",
+      "start": 1246.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I get it.",
+      "start": 1248.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Even with all the bizarre shit, oh my god.",
+      "start": 1250.14,
+      "duration": 2.0
+    },
+    {
+      "text": "They could just drop S-bombs?",
+      "start": 1252.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Even with all the bizarre shit?",
+      "start": 1254.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Whoa, whoa, whoa!",
+      "start": 1256.14,
+      "duration": 2.0
+    },
+    {
+      "text": "We tend to stand out.",
+      "start": 1258.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh...",
+      "start": 1260.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Does it bother that you stand out?",
+      "start": 1262.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I desperately",
+      "start": 1264.14,
+      "duration": 2.0
+    },
+    {
+      "text": "wanted to know if there were other dinosaurs.",
+      "start": 1266.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Not at all!",
+      "start": 1268.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Everybody knows me and I handle that pressure",
+      "start": 1270.14,
+      "duration": 2.0
+    },
+    {
+      "text": "really, really, really,",
+      "start": 1272.14,
+      "duration": 2.0
+    },
+    {
+      "text": "really well.",
+      "start": 1274.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, I can tell by your nervous face",
+      "start": 1276.14,
+      "duration": 2.0
+    },
+    {
+      "text": "and sweat mark.",
+      "start": 1278.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Anyways, I'm supposed to show you",
+      "start": 1280.14,
+      "duration": 2.0
+    },
+    {
+      "text": "the gym, the library, and the soccer field.",
+      "start": 1282.14,
+      "duration": 2.0
+    },
+    {
+      "text": "But the gym has a black",
+      "start": 1284.14,
+      "duration": 2.0
+    },
+    {
+      "text": "mold problem. The library is",
+      "start": 1286.14,
+      "duration": 2.0
+    },
+    {
+      "text": "a library. And the soccer",
+      "start": 1288.14,
+      "duration": 2.0
+    },
+    {
+      "text": "field is just a muddy hole since our groundskeeper",
+      "start": 1290.14,
+      "duration": 2.0
+    },
+    {
+      "text": "disappeared. In a strange",
+      "start": 1292.14,
+      "duration": 2.0
+    },
+    {
+      "text": "clawing accident.",
+      "start": 1294.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Disappeared?",
+      "start": 1296.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, they found him",
+      "start": 1298.14,
+      "duration": 2.0
+    },
+    {
+      "text": "covered in gashes. Yeah, so some",
+      "start": 1300.14,
+      "duration": 2.0
+    },
+    {
+      "text": "people believe he was a victim of the ladle ripper.",
+      "start": 1302.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh god. Who?",
+      "start": 1304.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, just a serial murderer that lives in",
+      "start": 1306.14,
+      "duration": 2.0
+    },
+    {
+      "text": "the woods and butchers people with an axe.",
+      "start": 1308.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Most people think he's just",
+      "start": 1310.14,
+      "duration": 2.0
+    },
+    {
+      "text": "a legend made up by the superstitious town folk.",
+      "start": 1312.14,
+      "duration": 2.0
+    },
+    {
+      "text": "It would be hilarious",
+      "start": 1314.14,
+      "duration": 2.0
+    },
+    {
+      "text": "if he was the ripper, but",
+      "start": 1316.14,
+      "duration": 2.0
+    },
+    {
+      "text": "he used an axe. Oh,",
+      "start": 1318.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I'd love that.",
+      "start": 1320.14,
+      "duration": 2.0
+    },
+    {
+      "text": "He's just like really handy with an axe.",
+      "start": 1322.14,
+      "duration": 2.0
+    },
+    {
+      "text": "But I think he's real.",
+      "start": 1324.14,
+      "duration": 2.0
+    },
+    {
+      "text": "But I think he's real.",
+      "start": 1326.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Let's let that simmer on the back burner.",
+      "start": 1328.14,
+      "duration": 2.0
+    },
+    {
+      "text": "For now, let me show you the true pride",
+      "start": 1330.14,
+      "duration": 2.0
+    },
+    {
+      "text": "and joy of Ladle High.",
+      "start": 1332.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay. I gotta say",
+      "start": 1334.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm enjoying this.",
+      "start": 1336.14,
+      "duration": 2.0
+    },
+    {
+      "text": "The people who wrote this game threw in",
+      "start": 1338.14,
+      "duration": 2.0
+    },
+    {
+      "text": "a lot of intrigue. I was ready",
+      "start": 1340.14,
+      "duration": 2.0
+    },
+    {
+      "text": "for a big tour of the school, but Robert",
+      "start": 1342.14,
+      "duration": 2.0
+    },
+    {
+      "text": "just took me down the hall.",
+      "start": 1344.14,
+      "duration": 2.0
+    },
+    {
+      "text": "So,",
+      "start": 1346.14,
+      "duration": 2.0
+    },
+    {
+      "text": "what do you think?",
+      "start": 1348.14,
+      "duration": 2.0
+    },
+    {
+      "text": "It's a nice",
+      "start": 1350.14,
+      "duration": 2.0
+    },
+    {
+      "text": "display case.",
+      "start": 1352.14,
+      "duration": 2.0
+    },
+    {
+      "text": "No, not the display case.",
+      "start": 1354.14,
+      "duration": 2.0
+    },
+    {
+      "text": "The matching sweaty gym sock in there.",
+      "start": 1356.14,
+      "duration": 2.0
+    },
+    {
+      "text": "What's inside it?",
+      "start": 1358.14,
+      "duration": 2.0
+    },
+    {
+      "text": "These are the greatest achievements of",
+      "start": 1360.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Ladle High. Notice anything",
+      "start": 1362.14,
+      "duration": 2.0
+    },
+    {
+      "text": "about them?",
+      "start": 1364.14,
+      "duration": 2.0
+    },
+    {
+      "text": "The one that says most like a raptor?",
+      "start": 1366.14,
+      "duration": 2.0
+    },
+    {
+      "text": "You didn't even win.",
+      "start": 1368.14,
+      "duration": 2.0
+    },
+    {
+      "text": "One of them is a key item.",
+      "start": 1370.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Sports?",
+      "start": 1372.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I see it.",
+      "start": 1374.14,
+      "duration": 2.0
+    },
+    {
+      "text": "They're all sports related.",
+      "start": 1376.14,
+      "duration": 2.0
+    },
+    {
+      "text": "No, well, yes, but",
+      "start": 1378.14,
+      "duration": 2.0
+    },
+    {
+      "text": "check out all those snowboarding",
+      "start": 1380.14,
+      "duration": 2.0
+    },
+    {
+      "text": "championships. Notice anything",
+      "start": 1382.14,
+      "duration": 2.0
+    },
+    {
+      "text": "about them? That's right.",
+      "start": 1384.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I won them all.",
+      "start": 1386.14,
+      "duration": 2.0
+    },
+    {
+      "text": "You skateboard",
+      "start": 1388.14,
+      "duration": 2.0
+    },
+    {
+      "text": "a hand snowboard?",
+      "start": 1390.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Yes. You'd think that dying out before",
+      "start": 1392.14,
+      "duration": 2.0
+    },
+    {
+      "text": "the ice age would have been a problem.",
+      "start": 1394.14,
+      "duration": 2.0
+    },
+    {
+      "text": "But I'm not sure.",
+      "start": 1396.14,
+      "duration": 2.0
+    },
+    {
+      "text": "The ice age would have been a problem, but",
+      "start": 1398.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm a bit of a bored savant.",
+      "start": 1400.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Well,",
+      "start": 1402.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't really compete anymore.",
+      "start": 1404.14,
+      "duration": 2.0
+    },
+    {
+      "text": "How about you?",
+      "start": 1406.14,
+      "duration": 2.0
+    },
+    {
+      "text": "You ever win any trophies or medals?",
+      "start": 1408.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Nah.",
+      "start": 1410.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I never really competed to begin with.",
+      "start": 1412.14,
+      "duration": 2.0
+    },
+    {
+      "text": "The only thing I was ever",
+      "start": 1414.14,
+      "duration": 2.0
+    },
+    {
+      "text": "any good at was history class.",
+      "start": 1416.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I was",
+      "start": 1418.14,
+      "duration": 2.0
+    },
+    {
+      "text": "really good at studying the history of",
+      "start": 1420.14,
+      "duration": 2.0
+    },
+    {
+      "text": "snowboarding. Oh shit!",
+      "start": 1422.14,
+      "duration": 2.0
+    },
+    {
+      "text": "But they don't really hand out trophies",
+      "start": 1424.14,
+      "duration": 2.0
+    },
+    {
+      "text": "for... Knowing a lot about",
+      "start": 1426.14,
+      "duration": 2.0
+    },
+    {
+      "text": "the inventor of toilets.",
+      "start": 1428.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Correcting people about fighting garbage.",
+      "start": 1430.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Being a fangirl for the",
+      "start": 1432.14,
+      "duration": 2.0
+    },
+    {
+      "text": "middle ages. The inventor",
+      "start": 1434.14,
+      "duration": 2.0
+    },
+    {
+      "text": "of toilets.",
+      "start": 1436.14,
+      "duration": 2.0
+    },
+    {
+      "text": "For knowing a lot about the inventor of modern toilets.",
+      "start": 1438.14,
+      "duration": 2.0
+    },
+    {
+      "text": "That sucks!",
+      "start": 1440.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Cause I'm a specialist!",
+      "start": 1442.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, it's a bummer.",
+      "start": 1444.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Get it?",
+      "start": 1446.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Never mind.",
+      "start": 1448.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Hey!",
+      "start": 1450.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Good butt joke. What are you doing after school?",
+      "start": 1452.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Um...",
+      "start": 1454.14,
+      "duration": 2.0
+    },
+    {
+      "text": "To really complete your tour, I have to",
+      "start": 1456.14,
+      "duration": 2.0
+    },
+    {
+      "text": "show you... The lake.",
+      "start": 1458.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Make it out with a raptor after",
+      "start": 1460.14,
+      "duration": 2.0
+    },
+    {
+      "text": "school, hopefully. Um, nothing!",
+      "start": 1462.14,
+      "duration": 2.0
+    },
+    {
+      "text": "It's a tar pit. Hundreds have been",
+      "start": 1464.14,
+      "duration": 2.0
+    },
+    {
+      "text": "killed in there. Most of my",
+      "start": 1466.14,
+      "duration": 2.0
+    },
+    {
+      "text": "friends, many mastodons.",
+      "start": 1468.14,
+      "duration": 2.0
+    },
+    {
+      "text": "The lake?",
+      "start": 1470.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, you gotta see the lake if you wanna",
+      "start": 1472.14,
+      "duration": 2.0
+    },
+    {
+      "text": "know the real ladle. Okay.",
+      "start": 1474.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm actually, well, the",
+      "start": 1476.14,
+      "duration": 2.0
+    },
+    {
+      "text": "thing is, I'm not actually new to ladle.",
+      "start": 1478.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Don't accept my invitation",
+      "start": 1480.14,
+      "duration": 2.0
+    },
+    {
+      "text": "so lightly. The lake is a challenge.",
+      "start": 1482.14,
+      "duration": 2.0
+    },
+    {
+      "text": "A test.",
+      "start": 1484.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Of what?",
+      "start": 1486.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Nothing. Just your worthiness,",
+      "start": 1488.14,
+      "duration": 2.0
+    },
+    {
+      "text": "finger guns. Um...",
+      "start": 1490.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay, you look worried.",
+      "start": 1492.14,
+      "duration": 2.0
+    },
+    {
+      "text": "It's actually gonna be pretty chill.",
+      "start": 1494.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, okay. But also be",
+      "start": 1496.14,
+      "duration": 2.0
+    },
+    {
+      "text": "prepared and stuff.",
+      "start": 1498.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay. And if you run into",
+      "start": 1500.14,
+      "duration": 2.0
+    },
+    {
+      "text": "anybody cool, bring them along.",
+      "start": 1502.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, okay.",
+      "start": 1504.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm trying to get as many people to come",
+      "start": 1506.14,
+      "duration": 2.0
+    },
+    {
+      "text": "as I can.",
+      "start": 1508.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Totally. Anyway,",
+      "start": 1510.14,
+      "duration": 2.0
+    },
+    {
+      "text": "here's my number.",
+      "start": 1512.14,
+      "duration": 2.0
+    },
+    {
+      "text": "It's five.",
+      "start": 1514.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Back in the",
+      "start": 1516.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Mesozoic era, there wasn't a lot of",
+      "start": 1518.14,
+      "duration": 2.0
+    },
+    {
+      "text": "competition for telephone numbers.",
+      "start": 1520.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I hope to see you there.",
+      "start": 1522.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Because I want to know.",
+      "start": 1524.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Alexander Graham Bell",
+      "start": 1526.14,
+      "duration": 2.0
+    },
+    {
+      "text": "was a T-Rex.",
+      "start": 1528.14,
+      "duration": 2.0
+    },
+    {
+      "text": "If you are worthy,",
+      "start": 1530.14,
+      "duration": 2.0
+    },
+    {
+      "text": "uh,",
+      "start": 1532.14,
+      "duration": 2.0
+    },
+    {
+      "text": "stell you later, Smella.",
+      "start": 1534.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I mean, sorry.",
+      "start": 1536.14,
+      "duration": 2.0
+    },
+    {
+      "text": "It's Strella, right?",
+      "start": 1538.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Actually, it's Stella.",
+      "start": 1540.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, right. Okay, cool.",
+      "start": 1542.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Just walking away like,",
+      "start": 1544.14,
+      "duration": 2.0
+    },
+    {
+      "text": "God, fuck it up! Fuck it up!",
+      "start": 1546.14,
+      "duration": 2.0
+    },
+    {
+      "text": "She's like clawing people.",
+      "start": 1548.14,
+      "duration": 2.0
+    },
+    {
+      "text": "That was how I met Robert.",
+      "start": 1550.14,
+      "duration": 2.0
+    },
+    {
+      "text": "He's so cute.",
+      "start": 1552.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I was still thrown off by him",
+      "start": 1554.14,
+      "duration": 2.0
+    },
+    {
+      "text": "giving me his number.",
+      "start": 1556.14,
+      "duration": 2.0
+    },
+    {
+      "text": "That had never happened before.",
+      "start": 1558.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Then he asked me to hang out after school.",
+      "start": 1560.14,
+      "duration": 2.0
+    },
+    {
+      "text": "What the fuck am I supposed to do?",
+      "start": 1562.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Hang out with him?",
+      "start": 1564.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I didn't know if it was a date, another prank,",
+      "start": 1566.14,
+      "duration": 2.0
+    },
+    {
+      "text": "or just a friendly invitation.",
+      "start": 1568.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Fortunately, he died later that afternoon.",
+      "start": 1570.14,
+      "duration": 2.0
+    },
+    {
+      "text": "The world of the dinosaurs was vicious and brutal.",
+      "start": 1572.14,
+      "duration": 2.0
+    },
+    {
+      "text": "The end,",
+      "start": 1574.14,
+      "duration": 2.0
+    },
+    {
+      "text": "raptor boyfriend.",
+      "start": 1576.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I didn't even know where the lake was.",
+      "start": 1578.14,
+      "duration": 2.0
+    },
+    {
+      "text": "There were lakes all over Ladle.",
+      "start": 1580.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Which lake was the lake?",
+      "start": 1582.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I thought that after that, the rest of the school",
+      "start": 1584.14,
+      "duration": 2.0
+    },
+    {
+      "text": "day would be pretty uneventful.",
+      "start": 1586.14,
+      "duration": 2.0
+    },
+    {
+      "text": "But the weirdness was not even",
+      "start": 1588.14,
+      "duration": 2.0
+    },
+    {
+      "text": "over yet.",
+      "start": 1590.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Tiddle-a-loo, tiddle-a-loo,",
+      "start": 1592.14,
+      "duration": 2.0
+    },
+    {
+      "text": "after a bit of",
+      "start": 1594.14,
+      "duration": 2.0
+    },
+    {
+      "text": "botched improv during a reading of",
+      "start": 1596.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Hamlet in English class, I headed back to my",
+      "start": 1598.14,
+      "duration": 2.0
+    },
+    {
+      "text": "locker. I think I've pretty much",
+      "start": 1600.14,
+      "duration": 2.0
+    },
+    {
+      "text": "contained the distinct.",
+      "start": 1602.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I will just have to keep this locker closed",
+      "start": 1604.14,
+      "duration": 2.0
+    },
+    {
+      "text": "pretty much for all time.",
+      "start": 1606.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Where were you this morning?",
+      "start": 1610.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Well, I was a little late.",
+      "start": 1612.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, what about last night?",
+      "start": 1614.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Is she a bug?",
+      "start": 1616.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I think she's a moth lady.",
+      "start": 1618.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I was unpacking.",
+      "start": 1620.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Well, I have a lot of emotions",
+      "start": 1622.14,
+      "duration": 2.0
+    },
+    {
+      "text": "to unpack.",
+      "start": 1624.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I mean, come on. Come on, the light is on.",
+      "start": 1626.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay, that's not true.",
+      "start": 1630.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I said I wouldn't pack, but I ended up walking around",
+      "start": 1632.14,
+      "duration": 2.0
+    },
+    {
+      "text": "behind my grandma's house. Yeah, every time",
+      "start": 1634.14,
+      "duration": 2.0
+    },
+    {
+      "text": "someone gets into an",
+      "start": 1636.14,
+      "duration": 2.0
+    },
+    {
+      "text": "argument with her, they just turn on a lantern.",
+      "start": 1638.14,
+      "duration": 2.0
+    },
+    {
+      "text": "We were supposed to hang out. Whoa!",
+      "start": 1640.14,
+      "duration": 2.0
+    },
+    {
+      "text": "She just gets like",
+      "start": 1642.14,
+      "duration": 2.0
+    },
+    {
+      "text": "until she stops with her face one inch",
+      "start": 1646.14,
+      "duration": 2.0
+    },
+    {
+      "text": "from the lantern.",
+      "start": 1648.14,
+      "duration": 2.0
+    },
+    {
+      "text": "What?",
+      "start": 1650.14,
+      "duration": 2.0
+    },
+    {
+      "text": "This is how it always has, doesn't it?",
+      "start": 1652.14,
+      "duration": 2.0
+    },
+    {
+      "text": "You come and go whenever you want.",
+      "start": 1654.14,
+      "duration": 2.0
+    },
+    {
+      "text": "If you want something from me,",
+      "start": 1656.14,
+      "duration": 2.0
+    },
+    {
+      "text": "then you are around.",
+      "start": 1658.14,
+      "duration": 2.0
+    },
+    {
+      "text": "But if I want something from you, you just",
+      "start": 1660.14,
+      "duration": 2.0
+    },
+    {
+      "text": "vanish like you always do.",
+      "start": 1662.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know what this is supposed to be.",
+      "start": 1664.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Sometimes you're right there",
+      "start": 1666.14,
+      "duration": 2.0
+    },
+    {
+      "text": "being all nice, and it's like you and I",
+      "start": 1668.14,
+      "duration": 2.0
+    },
+    {
+      "text": "were a real thing, and other times",
+      "start": 1670.14,
+      "duration": 2.0
+    },
+    {
+      "text": "it's like you're lighting a citronella",
+      "start": 1672.14,
+      "duration": 2.0
+    },
+    {
+      "text": "candle around my heart.",
+      "start": 1674.14,
+      "duration": 2.0
+    },
+    {
+      "text": "You don't even exist.",
+      "start": 1676.14,
+      "duration": 2.0
+    },
+    {
+      "text": "That was an accident. I'm sorry.",
+      "start": 1678.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I thought I was breaking a candle.",
+      "start": 1680.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Yup, she's gone again.",
+      "start": 1682.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Um, excuse me.",
+      "start": 1684.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Whoa, uh, sorry.",
+      "start": 1686.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I didn't see you there. Wait, oh, was she",
+      "start": 1688.14,
+      "duration": 2.0
+    },
+    {
+      "text": "not talking to you?",
+      "start": 1690.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Whoa.",
+      "start": 1692.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Who was this girl?",
+      "start": 1702.14,
+      "duration": 2.0
+    },
+    {
+      "text": "She was so cool and absolutely",
+      "start": 1704.14,
+      "duration": 2.0
+    },
+    {
+      "text": "gorgeous.",
+      "start": 1706.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow. Were those wings?",
+      "start": 1708.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Wait, so who is the moth girl",
+      "start": 1710.14,
+      "duration": 2.0
+    },
+    {
+      "text": "talking to? I don't know. Oh, okay.",
+      "start": 1712.14,
+      "duration": 2.0
+    },
+    {
+      "text": "And antennae?",
+      "start": 1714.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Was she some sort of magic fairy?",
+      "start": 1716.14,
+      "duration": 2.0
+    },
+    {
+      "text": "My moth.",
+      "start": 1718.14,
+      "duration": 2.0
+    },
+    {
+      "text": "My moth.",
+      "start": 1724.14,
+      "duration": 2.0
+    },
+    {
+      "text": "What do you eat with? My moth.",
+      "start": 1728.14,
+      "duration": 2.0
+    },
+    {
+      "text": "What's your favorite subject in school?",
+      "start": 1730.14,
+      "duration": 4.0
+    },
+    {
+      "text": "Moth.",
+      "start": 1734.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow, how dreamy.",
+      "start": 1738.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Are you okay?",
+      "start": 1740.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh, what, huh?",
+      "start": 1742.14,
+      "duration": 2.0
+    },
+    {
+      "text": "You said, excuse me, and then",
+      "start": 1744.14,
+      "duration": 2.0
+    },
+    {
+      "text": "wow. Then you just",
+      "start": 1746.14,
+      "duration": 2.0
+    },
+    {
+      "text": "stood there staring at me for like at least",
+      "start": 1748.14,
+      "duration": 2.0
+    },
+    {
+      "text": "two minutes. It's been weird.",
+      "start": 1750.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Well, I guess we'll find out what they're",
+      "start": 1752.14,
+      "duration": 2.0
+    },
+    {
+      "text": "what's going on here next time on Game Grumps.",
+      "start": 1754.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, wow.",
+      "start": 1756.14,
+      "duration": 2.0
+    },
+    {
+      "text": "What's going on here next time on Game Grumps?",
+      "start": 1758.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, man. You know what?",
+      "start": 1760.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I do want to know what happens.",
+      "start": 1762.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I also want to know",
+      "start": 1764.14,
+      "duration": 2.0
+    },
+    {
+      "text": "what the first letter of",
+      "start": 1766.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Dave's shirt is",
+      "start": 1768.14,
+      "duration": 2.0
+    },
+    {
+      "text": "unless it really says",
+      "start": 1770.14,
+      "duration": 2.0
+    },
+    {
+      "text": "crash, which I would love also.",
+      "start": 1772.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Could be an apostrophe.",
+      "start": 1774.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Could be.",
+      "start": 1776.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay, just as an addendum to this episode",
+      "start": 1778.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I would like to say",
+      "start": 1780.14,
+      "duration": 2.0
+    },
+    {
+      "text": "I didn't want to say it because it would have",
+      "start": 1782.14,
+      "duration": 2.0
+    },
+    {
+      "text": "killed the flow of the comedy.",
+      "start": 1784.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Deinonychus was",
+      "start": 1786.14,
+      "duration": 2.0
+    },
+    {
+      "text": "what we generally think of as raptors.",
+      "start": 1788.14,
+      "duration": 2.0
+    },
+    {
+      "text": "In Jurassic",
+      "start": 1790.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Park, Steven Spielberg",
+      "start": 1792.14,
+      "duration": 2.0
+    },
+    {
+      "text": "liked the name velociraptor because",
+      "start": 1794.14,
+      "duration": 2.0
+    },
+    {
+      "text": "he thought it sounded awesome, but",
+      "start": 1796.14,
+      "duration": 2.0
+    },
+    {
+      "text": "actual velociraptors",
+      "start": 1798.14,
+      "duration": 2.0
+    },
+    {
+      "text": "were very small.",
+      "start": 1800.14,
+      "duration": 2.0
+    },
+    {
+      "text": "So the dinosaurs you see in Jurassic Park",
+      "start": 1802.14,
+      "duration": 2.0
+    },
+    {
+      "text": "were actually called Deinonychus.",
+      "start": 1804.14,
+      "duration": 2.0
+    },
+    {
+      "text": "And then",
+      "start": 1806.14,
+      "duration": 2.0
+    },
+    {
+      "text": "years later",
+      "start": 1808.14,
+      "duration": 2.0
+    },
+    {
+      "text": "because you had said",
+      "start": 1810.14,
+      "duration": 2.0
+    },
+    {
+      "text": "off camera that the Toronto",
+      "start": 1812.14,
+      "duration": 2.0
+    },
+    {
+      "text": "raptors are going to be bummed when they find",
+      "start": 1814.14,
+      "duration": 2.0
+    },
+    {
+      "text": "this out, they were actually",
+      "start": 1816.14,
+      "duration": 2.0
+    },
+    {
+      "text": "bailed out because",
+      "start": 1818.14,
+      "duration": 2.0
+    },
+    {
+      "text": "some Jurassic Park-loving",
+      "start": 1820.14,
+      "duration": 2.0
+    },
+    {
+      "text": "paleontologists discovered",
+      "start": 1822.14,
+      "duration": 2.0
+    },
+    {
+      "text": "a new dinosaur",
+      "start": 1824.14,
+      "duration": 2.0
+    },
+    {
+      "text": "which is a lot like Deinonychus",
+      "start": 1826.14,
+      "duration": 2.0
+    },
+    {
+      "text": "and they named it the Utah raptor.",
+      "start": 1828.14,
+      "duration": 2.0
+    },
+    {
+      "text": "So",
+      "start": 1830.14,
+      "duration": 2.0
+    },
+    {
+      "text": "there could actually be a dinosaur",
+      "start": 1832.14,
+      "duration": 2.0
+    },
+    {
+      "text": "out there called the raptor that",
+      "start": 1834.14,
+      "duration": 2.0
+    },
+    {
+      "text": "looked like the",
+      "start": 1836.14,
+      "duration": 2.0
+    },
+    {
+      "text": "scary dinosaurs from Jurassic Park.",
+      "start": 1838.14,
+      "duration": 2.0
+    },
+    {
+      "text": "And now we",
+      "start": 1840.14,
+      "duration": 2.0
+    },
+    {
+      "text": "have learned something!",
+      "start": 1842.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright, see you later everyone!",
+      "start": 1844.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah,",
+      "start": 1846.14,
+      "duration": 2.0
+    },
+    {
+      "text": "well, I mean",
+      "start": 1848.14,
+      "duration": 2.0
+    },
+    {
+      "text": "the Utah team is named Jazz",
+      "start": 1850.14,
+      "duration": 2.0
+    },
+    {
+      "text": "and they don't like Jazz",
+      "start": 1852.14,
+      "duration": 2.0
+    },
+    {
+      "text": "up there.",
+      "start": 1854.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Raptors probably like Jazz.",
+      "start": 1856.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Raptors love Jazz and I'm sure some",
+      "start": 1858.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Utahns like Jazz.",
+      "start": 1860.14,
+      "duration": 2.0
+    }
+  ]
+}

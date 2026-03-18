@@ -1,0 +1,2358 @@
+{
+  "video_id": "31sTVI3V7go",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Hey, I'm grump! I'm not so grump!",
+      "start": 0.0,
+      "duration": 2.32
+    },
+    {
+      "text": "And we're the game grumps!",
+      "start": 2.58,
+      "duration": 2.08
+    },
+    {
+      "text": "Dan: Hello! \nArin: Hi! And fuckin' welcome back!",
+      "start": 5.48,
+      "duration": 1.74
+    },
+    {
+      "text": "Dan: Welcome back you sexy bitches!",
+      "start": 7.22,
+      "duration": 1.82
+    },
+    {
+      "text": "Arin: God damn I'm playin' fuckin' Zelda 'n' shit.",
+      "start": 9.04,
+      "duration": 2.04
+    },
+    {
+      "text": "Dan: Oh God... So sexy...",
+      "start": 11.08,
+      "duration": 1.0
+    },
+    {
+      "text": "Arin: I'm trying to get to wherever the fuck it wants me to get to.",
+      "start": 12.08,
+      "duration": 2.12
+    },
+    {
+      "text": "Arin: I'm not sure...\nDan: I feel nauseated with all the sexiness...",
+      "start": 14.22,
+      "duration": 2.3
+    },
+    {
+      "text": "Arin: You should man. It makes me sick just looking at you.",
+      "start": 17.82,
+      "duration": 2.54
+    },
+    {
+      "text": "Dan: Ah, the Proxy Bridge. Don't go over it!",
+      "start": 20.36,
+      "duration": 1.92
+    },
+    {
+      "text": "Dan (In a laugh): It's not real.\nArin: The Proxim Bridge?",
+      "start": 22.6,
+      "duration": 2.52
+    },
+    {
+      "text": "Dan: Oh i- was there an \"m\" on the end of it? \nArin: yeah.",
+      "start": 25.12,
+      "duration": 1.76
+    },
+    {
+      "text": "Dan: Okay.\nArin: Oh! What's this? Hello!",
+      "start": 26.88,
+      "duration": 2.46
+    },
+    {
+      "text": "Arin: Friend or foe?",
+      "start": 30.36,
+      "duration": 1.02
+    },
+    {
+      "text": "Dan: Friend. \"The end is here...\"",
+      "start": 32.16,
+      "duration": 2.0
+    },
+    {
+      "text": "Dan: That was a quick game! \nArin: \"I may be used to seeing bad omens by now, but THAT, well...\"",
+      "start": 35.22,
+      "duration": 3.68
+    },
+    {
+      "text": "Arin: \"Let's just say it's badder than most.\"\nDan: Is it Michael Jackson?",
+      "start": 39.24,
+      "duration": 2.94
+    },
+    {
+      "text": "Arin: What is the omen...?\nDan: He was bad!",
+      "start": 42.34,
+      "duration": 1.5
+    },
+    {
+      "text": "Arin: Is it the volcano...?",
+      "start": 43.84,
+      "duration": 1.64
+    },
+    {
+      "text": "Arin: Oh hello! \"We're DOOMED!\"\nDan: *Wheezing laugh*\nArin: \"I mean don't panic!\"",
+      "start": 47.08,
+      "duration": 2.94
+    },
+    {
+      "text": "Arin: \"Sorry, who are you? Have we met?\"",
+      "start": 50.02,
+      "duration": 1.38
+    },
+    {
+      "text": "Arin: \"Well doesn't matter who you are, really. I was getting tired of talking to myself.\"",
+      "start": 52.12,
+      "duration": 3.44
+    },
+    {
+      "text": "Dan: \"Doesn't matter who you are, really. We'll all be DEAD... Within the hour... I'm Mr. Spock.\"",
+      "start": 55.56,
+      "duration": 4.42
+    },
+    {
+      "text": "Dan: Heh, ha!\nArin: \"By the by, those strange things that popped out of the ground. Did ya' see 'em?\"",
+      "start": 60.62,
+      "duration": 2.84
+    },
+    {
+      "text": "Arin: \"I'm not talking about mushrooms here, I'm talking about those TOWERS.\"",
+      "start": 64.5,
+      "duration": 2.48
+    },
+    {
+      "text": "Arin: \"Seem to have popped up all over the place...\"\nDan: \"I talk to myself a lot!\"",
+      "start": 67.32,
+      "duration": 2.9
+    },
+    {
+      "text": "Dan: \"Which is... How I so EASILY hold one sided conversations like this!\" Wow, look at the water!",
+      "start": 70.22,
+      "duration": 4.96
+    },
+    {
+      "text": "Dan: Like moving in one direction and the other simultaneously.",
+      "start": 76.44,
+      "duration": 2.66
+    },
+    {
+      "text": "Arin: Whoa...\nDan: That's really pretty.",
+      "start": 79.26,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: How'd they do that...?\nDan: I don't know they're- (chuckle) they're really good!",
+      "start": 81.48,
+      "duration": 2.78
+    },
+    {
+      "text": "Arin: That's interesting.",
+      "start": 85.02,
+      "duration": 1.34
+    },
+    {
+      "text": "Arin: \"Those long deserted shrines suddenly started glowing. Know what that means, don't you?\"",
+      "start": 87.08,
+      "duration": 4.12
+    },
+    {
+      "text": "Arin: \"The end is here!\"",
+      "start": 91.58,
+      "duration": 0.94
+    },
+    {
+      "text": "Arin: \"With all this craziness happening, I've been keeping an eye on that thing....\"",
+      "start": 93.0,
+      "duration": 3.84
+    },
+    {
+      "text": "Arin: \"My name's Brigo.\"",
+      "start": 97.2,
+      "duration": 1.02
+    },
+    {
+      "text": "Arin: \"Just ahh- to see if it suddenly starts moving, y'know?\"",
+      "start": 98.8,
+      "duration": 2.78
+    },
+    {
+      "text": "Both: (Chuckle)",
+      "start": 102.56,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Just when I find someone to talk to-\" (Skip)",
+      "start": 103.2,
+      "duration": 1.98
+    },
+    {
+      "text": "Arin: Sorry, didn't mean to do that.\nDan: (Immitating Brigo) \"Ah!\" (Chuckles)",
+      "start": 106.42,
+      "duration": 1.96
+    },
+    {
+      "text": "Arin: \"Yeah, good idea.\"",
+      "start": 109.14,
+      "duration": 1.38
+    },
+    {
+      "text": "Arin: \"Yeah, that guardian's worth watching.\"",
+      "start": 110.53,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: \"It's just li- like the old ones from those days or whatever.\"",
+      "start": 112.66,
+      "duration": 3.4
+    },
+    {
+      "text": "Arin: \"Did you know some of the ca- some of them can move?\"",
+      "start": 116.06,
+      "duration": 2.42
+    },
+    {
+      "text": "Arin: Uh, \"This one here?\"",
+      "start": 118.48,
+      "duration": 1.4
+    },
+    {
+      "text": "Arin: \"Nah, it was a different one.\"",
+      "start": 120.12,
+      "duration": 1.64
+    },
+    {
+      "text": "Arin: \"Anyway...\"\nDan: Ye-! (Chuckles)",
+      "start": 122.32,
+      "duration": 1.44
+    },
+    {
+      "text": "Arin: \"I'm about as boring as it gets.\"\nDan: (Laughs)",
+      "start": 124.02,
+      "duration": 2.42
+    },
+    {
+      "text": "Arin: God.. I DON'T care... \nDan: Yeah, just, EVERY minute is the end of SOMETHING for you...",
+      "start": 126.94,
+      "duration": 4.92
+    },
+    {
+      "text": "Arin: (Chuckles)",
+      "start": 131.86,
+      "duration": 1.54
+    },
+    {
+      "text": "Arin: Aright. Pea- Thank you. \nDan: Well, coul- y-  (Reloads for a sec)",
+      "start": 133.4,
+      "duration": 3.0
+    },
+    {
+      "text": "Dan: Were you gonna ask him what thing?",
+      "start": 136.4,
+      "duration": 1.58
+    },
+    {
+      "text": "Arin: Yeah, it was THAT thing.\nDan: Okay. Oh! got it.",
+      "start": 138.54,
+      "duration": 1.96
+    },
+    {
+      "text": "Arin: THAT right there.\nDan: Ohh, I see.",
+      "start": 140.5,
+      "duration": 1.66
+    },
+    {
+      "text": "Arin: (Quietly) Um.. Hold on...",
+      "start": 143.08,
+      "duration": 1.24
+    },
+    {
+      "text": "Arin: (Quietly) There we go...",
+      "start": 145.22,
+      "duration": 0.98
+    },
+    {
+      "text": "Arin: THAT right THERE.\nDan: (Sarcastically) Ohh, thank you. Thank you, Arin.",
+      "start": 146.2,
+      "duration": 2.08
+    },
+    {
+      "text": "Arin: Yeah. No prolem",
+      "start": 148.28,
+      "duration": 1.12
+    },
+    {
+      "text": "Dan: (Mocking Arin) \"I'll put a pin in it!\"",
+      "start": 149.6,
+      "duration": 1.02
+    },
+    {
+      "text": "Both: (Laugh)",
+      "start": 150.62,
+      "duration": 1.6
+    },
+    {
+      "text": "Arin: (In a joke voice) \"Put a pin in it, idiot!\"",
+      "start": 152.66,
+      "duration": 1.6
+    },
+    {
+      "text": "Dan: Aww, look at them! Hangin' out, having a nice little...",
+      "start": 154.56,
+      "duration": 2.5
+    },
+    {
+      "text": "Dan: ...Thing. Mind-\nArin: A nice little pre-death ceremony?\nDan: Yeah!",
+      "start": 157.22,
+      "duration": 2.4
+    },
+    {
+      "text": "Dan: Minding- Minding their own business!",
+      "start": 159.62,
+      "duration": 1.84
+    },
+    {
+      "text": "Dan: Time to MURDER! Heh.",
+      "start": 161.58,
+      "duration": 1.42
+    },
+    {
+      "text": "Arin: Wonder if I can, like...",
+      "start": 163.0,
+      "duration": 1.1
+    },
+    {
+      "text": "Arin: Whoa...",
+      "start": 164.68,
+      "duration": 0.6
+    },
+    {
+      "text": "Dan: Dude, do the- do the paraglide and then-...(Reloads again)",
+      "start": 165.92,
+      "duration": 2.54
+    },
+    {
+      "text": "Dan: Uh, drop down and swing your sword and kill 'em.",
+      "start": 169.38,
+      "duration": 2.44
+    },
+    {
+      "text": "Arin: I was gonna- I was gonna, uhh...",
+      "start": 171.82,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: Sh- Seal- SHIELD, uhhh...",
+      "start": 174.02,
+      "duration": 2.12
+    },
+    {
+      "text": "Dan: Oh! Shield slide?\nArin: (Quietly) Yeah...",
+      "start": 176.7,
+      "duration": 1.52
+    },
+    {
+      "text": "Arin: (In a high pitched tone) WOOHOOO!\nDan: (In a high pitched tone) WHAT'S UP BITCHES?!",
+      "start": 179.56,
+      "duration": 1.72
+    },
+    {
+      "text": "Arin: Ahahaha! Ahh, shit! It broke!\nDan: Oka- Oh God! Oh G- Oh!",
+      "start": 181.28,
+      "duration": 2.16
+    },
+    {
+      "text": "Dan: Oh fuck! Heh!\nArin: (Laughing)",
+      "start": 183.44,
+      "duration": 1.38
+    },
+    {
+      "text": "Arin: Deliver me from evil!\nDan: Yea- (Scoffs)",
+      "start": 184.82,
+      "duration": 1.72
+    },
+    {
+      "text": "Arin: (In a sort of high pitched kung-fu voice) Yaw!",
+      "start": 187.14,
+      "duration": 0.52
+    },
+    {
+      "text": "Arin: (Same kung-fu voice) Hi-yaw!",
+      "start": 187.98,
+      "duration": 0.62
+    },
+    {
+      "text": "Dan: Alright, so that actually did not work as well as it could've.\nArin: Can I do a spin attack...?",
+      "start": 189.04,
+      "duration": 3.18
+    },
+    {
+      "text": "Arin: (Very quietly, as if to himself) Should be able to, right...?",
+      "start": 193.14,
+      "duration": 1.2
+    },
+    {
+      "text": "Arin: (Quietly almost to himself again) I'll probably not win this right now-",
+      "start": 194.68,
+      "duration": 1.3
+    },
+    {
+      "text": "Arin: WHOA...!",
+      "start": 195.98,
+      "duration": 1.12
+    },
+    {
+      "text": "Dan: DAAAAAMN...!\nArin: Holy shit...!",
+      "start": 197.1,
+      "duration": 1.96
+    },
+    {
+      "text": "Dan: Aright, keep an eye on th-\nArin: Yeah.",
+      "start": 199.06,
+      "duration": 2.16
+    },
+    {
+      "text": "Dan: The darker ones...\nArin: Ya' can't uhh...",
+      "start": 201.22,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: Ya' can't-\nDan: I didn't like how I said that.",
+      "start": 203.7,
+      "duration": 1.82
+    },
+    {
+      "text": "Arin: Tch- Heheh!",
+      "start": 205.54,
+      "duration": 0.76
+    },
+    {
+      "text": "Dan: I was like, \"Don't say 'black', don't say 'black!'\"\nArin: (Chuckles)",
+      "start": 206.56,
+      "duration": 1.86
+    },
+    {
+      "text": "Dan: It's like, \"Fuck!\"\nArin: He's not black, he's like...",
+      "start": 208.42,
+      "duration": 1.8
+    },
+    {
+      "text": "Dan: He's like a green-ish-\nArin: ...Dark green, yeah...",
+      "start": 210.38,
+      "duration": 1.2
+    },
+    {
+      "text": "Dan: Kinda- yeah!",
+      "start": 211.58,
+      "duration": 1.1
+    },
+    {
+      "text": "Arin: Bokoblins.",
+      "start": 213.08,
+      "duration": 1.3
+    },
+    {
+      "text": "Dan: Were they black in the- original game? Or where they like that dark-",
+      "start": 214.64,
+      "duration": 3.18
+    },
+    {
+      "text": "Arin: (Before Dan finishes) They were green!\nDan: They WERE green?",
+      "start": 217.82,
+      "duration": 1.32
+    },
+    {
+      "text": "Arin: Yeah.\nDan: (In an audible whisper) Fuck...!",
+      "start": 219.14,
+      "duration": 0.8
+    },
+    {
+      "text": "Arin: And they m- made- There were red ones...",
+      "start": 219.94,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: And there were green ones...\nDan: (Overlapping Arin) I might be a little bit color blind...",
+      "start": 221.94,
+      "duration": 1.74
+    },
+    {
+      "text": "Arin: Uhh- Really?\nDan: Yeah.",
+      "start": 224.2,
+      "duration": 1.5
+    },
+    {
+      "text": "Dan: Just, ever so slightly.",
+      "start": 225.7,
+      "duration": 1.3
+    },
+    {
+      "text": "Dan: Oh no, he's DEFINITELY green! I can see it.",
+      "start": 227.0,
+      "duration": 1.84
+    },
+    {
+      "text": "Arin: Yeah!",
+      "start": 229.1,
+      "duration": 0.7
+    },
+    {
+      "text": "Arin: Uhhh, twelve- so that's the strongest thing I've got, is the sledgehammer...",
+      "start": 230.44,
+      "duration": 3.92
+    },
+    {
+      "text": "Arin: I'll do it... I'll do it...!",
+      "start": 235.42,
+      "duration": 1.12
+    },
+    {
+      "text": "Arin: I'm gonna fuck 'em up...!",
+      "start": 237.1,
+      "duration": 0.78
+    },
+    {
+      "text": "Arin: This time I'm gonna fuck 'em up!",
+      "start": 238.02,
+      "duration": 1.44
+    },
+    {
+      "text": "Dan: Fuck 'em UUUP!\nArin: Watch this...!",
+      "start": 239.58,
+      "duration": 1.62
+    },
+    {
+      "text": "Arin: I'm gonna do-\nDan: (Overlapping Arin) This time, paraglide down.",
+      "start": 241.56,
+      "duration": 1.28
+    },
+    {
+      "text": "Arin: (Overlapping Dan) Yeah, I'm gonna do what you said.\nDan: Yeah.",
+      "start": 242.84,
+      "duration": 1.42
+    },
+    {
+      "text": "Dan: It'll be fun.",
+      "start": 244.52,
+      "duration": 0.66
+    },
+    {
+      "text": "Arin: See? This is fuckin'- this is fun...!",
+      "start": 246.06,
+      "duration": 1.64
+    },
+    {
+      "text": "Arin: Comin' up with new ideas to do things...",
+      "start": 247.7,
+      "duration": 2.0
+    },
+    {
+      "text": "Dan: Wheeeee! Aaand, KIYAA!\nArin: (Overlapped by Dan) Aaaaaaaaand...",
+      "start": 249.7,
+      "duration": 2.44
+    },
+    {
+      "text": "Arin: HOOO-AAAAAH!\nDan: (Overlapping Arin) YEAAAAAAH!",
+      "start": 252.26,
+      "duration": 1.64
+    },
+    {
+      "text": "Dan: Look how awesome that was!\nArin: That was fuckin' RAD!",
+      "start": 253.9,
+      "duration": 2.24
+    },
+    {
+      "text": "Dan: *Hoof!*\nArin: YAW! YYYAW!",
+      "start": 257.16,
+      "duration": 1.7
+    },
+    {
+      "text": "Dan: Damn!\nArin: Yeah!",
+      "start": 259.48,
+      "duration": 0.96
+    },
+    {
+      "text": "Dan: Wow! You f- straight up killed them ALL!\nArin: (Overlapped by Dan) Fuckin' SLAUGHTERED them...",
+      "start": 260.56,
+      "duration": 2.04
+    },
+    {
+      "text": "Arin: I'll take it!",
+      "start": 263.4,
+      "duration": 0.62
+    },
+    {
+      "text": "Arin: And I can make some food with their camp!\nDan: Yeah! And their horns!",
+      "start": 264.48,
+      "duration": 3.04
+    },
+    {
+      "text": "Arin: I guess that's sort of the- *Oncoming burp?*",
+      "start": 267.52,
+      "duration": 0.86
+    },
+    {
+      "text": "Arin: Purpose- (In a whisper) Oh, sweet...\nDan: (In a whisper) Nice...",
+      "start": 269.1,
+      "duration": 1.36
+    },
+    {
+      "text": "Arin: (Take two) I guess that's sort of the purpose of, uhhh...-",
+      "start": 270.82,
+      "duration": 1.8
+    },
+    {
+      "text": "Arin: (Very quietly) Oh, fuck you...!",
+      "start": 272.7,
+      "duration": 0.68
+    },
+    {
+      "text": "Arin: Of, dickin' with these guys, is they like HAVE something...",
+      "start": 273.84,
+      "duration": 2.7
+    },
+    {
+      "text": "Dan: \"Ahm ready to DICK with them!\"",
+      "start": 276.54,
+      "duration": 1.56
+    },
+    {
+      "text": "Arin: (Short silent chuckle)",
+      "start": 278.6,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Gimme- Gimme- How do I ge- Uhhh....",
+      "start": 279.78,
+      "duration": 2.24
+    },
+    {
+      "text": "Arin: Uhh...\nDan: Your- uhh- What's the thing called?",
+      "start": 284.28,
+      "duration": 1.78
+    },
+    {
+      "text": "Dan: That you have on your pouch?",
+      "start": 286.06,
+      "duration": 1.16
+    },
+    {
+      "text": "Arin: What?\nDan: Here, go back to that screen for a second.",
+      "start": 287.9,
+      "duration": 1.96
+    },
+    {
+      "text": "Dan: Yeah. Wha- What's the thing that's supposed to be the... Switch?",
+      "start": 291.28,
+      "duration": 2.68
+    },
+    {
+      "text": "Arin: Oh! The-uhhh...",
+      "start": 295.3,
+      "duration": 0.84
+    },
+    {
+      "text": "Arin: Sla- The Shieka Slate?\nDan: Yeah!",
+      "start": 296.4,
+      "duration": 1.68
+    },
+    {
+      "text": "Dan: Doesn't it look like it has one blue eye and then a mouth at the bottom like:",
+      "start": 298.36,
+      "duration": 2.72
+    },
+    {
+      "text": "Dan: \"Oooo!\"?",
+      "start": 301.08,
+      "duration": 0.8
+    },
+    {
+      "text": "Arin: Heh! (In a high tone)\"OOOOOOOoooooo!\"\nDan: (Laughing)",
+      "start": 301.98,
+      "duration": 2.54
+    },
+    {
+      "text": "Dan: \"Yeah, I know Shieka Slate! This world is BEAUTIFUL! :3\"",
+      "start": 304.52,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: What's the deal with broccoli? I ate some broccoli...",
+      "start": 307.08,
+      "duration": 2.5
+    },
+    {
+      "text": "Arin: Just a second ago...\nDan: (Overlappng Arin) Yup. I watched- I watched you...",
+      "start": 309.58,
+      "duration": 1.86
+    },
+    {
+      "text": "Arin: It like, hurt my throat...",
+      "start": 311.44,
+      "duration": 1.16
+    },
+    {
+      "text": "Dan: Hm.\nArin: It's like I ate something...",
+      "start": 313.12,
+      "duration": 1.24
+    },
+    {
+      "text": "Arin: SPICY...\nDan: An opal...!",
+      "start": 314.46,
+      "duration": 1.58
+    },
+    {
+      "text": "Dan: Those are my favorite rocks!\nArin: Really?",
+      "start": 316.04,
+      "duration": 1.66
+    },
+    {
+      "text": "Dan: Yup!\nArin: What color is it?",
+      "start": 317.7,
+      "duration": 1.1
+    },
+    {
+      "text": "Dan: They're-...",
+      "start": 319.38,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: They're-\nDan: They're multicolored!",
+      "start": 320.38,
+      "duration": 1.12
+    },
+    {
+      "text": "Arin: Oh.\nDan: (Overlapping Arin) They're like a little galaxy.",
+      "start": 321.9,
+      "duration": 1.18
+    },
+    {
+      "text": "Arin: Oh, cool!\nDan: You've never seen one?",
+      "start": 323.56,
+      "duration": 1.46
+    },
+    {
+      "text": "Arin: No-\nDan: (Overlapping Arin in his excitement) Hold on let me pull up a picture!",
+      "start": 325.3,
+      "duration": 1.7
+    },
+    {
+      "text": "Dan: Matt and Ryan! Put up a beautiful picture of opals!",
+      "start": 327.34,
+      "duration": 2.3
+    },
+    {
+      "text": "Arin: (Jokingly as if seeing the picture) Woow! Look at that!",
+      "start": 329.74,
+      "duration": 1.06
+    },
+    {
+      "text": "Dan: It's so pretty!\nArin: So- So gorgeous!",
+      "start": 330.86,
+      "duration": 1.56
+    },
+    {
+      "text": "Dan: Umm... (Clearing his throat) *AH-AHE-HUH! AHE-HEM! AHE! AHEM!*\nArin: (Overlapped by dan) I'm gonna put...",
+      "start": 332.42,
+      "duration": 2.32
+    },
+    {
+      "text": "Dan: 'Scuse me.",
+      "start": 334.74,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Uhhhh...",
+      "start": 335.24,
+      "duration": 1.08
+    },
+    {
+      "text": "Arin: Gonna add a MUSHROOM, and theeeeeen...",
+      "start": 336.32,
+      "duration": 2.5
+    },
+    {
+      "text": "Arin: ... Yeah, that'll work... (Delete)",
+      "start": 339.84,
+      "duration": 0.92
+    },
+    {
+      "text": "Arin: Oops!",
+      "start": 341.32,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: Heh!",
+      "start": 342.14,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Here we g- NO DON'T...!",
+      "start": 342.64,
+      "duration": 1.14
+    },
+    {
+      "text": "Arin: Uhhh... Hold, hold,\nDan: (Overlapping Arin) Oopsie-toodles!",
+      "start": 344.3,
+      "duration": 1.48
+    },
+    {
+      "text": "Arin: hold, hold...",
+      "start": 345.78,
+      "duration": 1.14
+    },
+    {
+      "text": "Dan: Hooold...!\nArin: (Overlapped by Dan) Alright, return to the game...!",
+      "start": 347.72,
+      "duration": 1.2
+    },
+    {
+      "text": "Dan: (Sounding like he's slightly constipated) HOOOOLD...!\nArin: (Again overlapped by Dan) And then I'm gonna",
+      "start": 348.92,
+      "duration": 1.16
+    },
+    {
+      "text": "Arin: Put this in an' cook it!",
+      "start": 350.08,
+      "duration": 1.12
+    },
+    {
+      "text": "Arin: I like makin' vegetarian shit!",
+      "start": 352.08,
+      "duration": 1.3
+    },
+    {
+      "text": "Arin: (He said something here, but I couldn't get it)\nDan: (Overlapping Arin) These are opals.",
+      "start": 353.38,
+      "duration": 0.7
+    },
+    {
+      "text": "Arin: Whoooooa!\nDan: Aren't those awesome?!",
+      "start": 354.08,
+      "duration": 1.4
+    },
+    {
+      "text": "Arin: It looks like a holo-foil Pokemon card!",
+      "start": 355.48,
+      "duration": 2.0
+    },
+    {
+      "text": "Dan: (In a chuckle) Yeah, kind of!",
+      "start": 357.48,
+      "duration": 0.88
+    },
+    {
+      "text": "Arin: Whoa! An Energizing Mushroom Skewer!",
+      "start": 358.64,
+      "duration": 2.04
+    },
+    {
+      "text": "Dan: (Quietly) Okay...\nArin: \"Instantly refills some of your stamina wheel-\" and FOUR hearts, dude!",
+      "start": 360.68,
+      "duration": 3.68
+    },
+    {
+      "text": "Dan: Mmm...~",
+      "start": 364.58,
+      "duration": 0.58
+    },
+    {
+      "text": "Arin: Gotta cook some MORE shit, dude!\nDan: Do it!",
+      "start": 365.44,
+      "duration": 1.88
+    },
+    {
+      "text": "Arin: I'm fuckin', like, a cooking MANIAC right now...!",
+      "start": 367.32,
+      "duration": 2.16
+    },
+    {
+      "text": "Arin: Uhh, let's see...",
+      "start": 370.32,
+      "duration": 1.1
+    },
+    {
+      "text": "Arin: (Quietly as if to himself) Maybe just an acorn... Yeaaah...",
+      "start": 372.06,
+      "duration": 1.7
+    },
+    {
+      "text": "Dan: Boy, you got A LOT a' apples now, son!",
+      "start": 374.38,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: Yeah, I'm an apple MASTER.",
+      "start": 376.62,
+      "duration": 1.12
+    },
+    {
+      "text": "Dan: (Quietly) Hm-heh!",
+      "start": 378.48,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: You got a ton a' apps!",
+      "start": 379.88,
+      "duration": 0.96
+    },
+    {
+      "text": "Arin: Yeah- Heh! (Immitating Link) \"OH HA! OHH!\"",
+      "start": 382.34,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: Uhh, what do I got now?\nDan: Do you think there's an apple app?",
+      "start": 385.42,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: Oh yeah!",
+      "start": 388.38,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: Oh. Yeah, just for-... *Audio Malfunction?*",
+      "start": 389.9,
+      "duration": 0.82
+    },
+    {
+      "text": "Dan: ...Some things for apples?",
+      "start": 391.16,
+      "duration": 1.24
+    },
+    {
+      "text": "Arin: Sure. :o",
+      "start": 392.9,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Called \"The Apple App.\"",
+      "start": 393.9,
+      "duration": 0.88
+    },
+    {
+      "text": "Dan: Yeh, do they call it the ap-  Ha- uh- The uh- ap- papapple? Heh!",
+      "start": 394.78,
+      "duration": 2.28
+    },
+    {
+      "text": "Arin: The Appa-Papple?\nDan: (Laughs)",
+      "start": 397.06,
+      "duration": 2.0
+    },
+    {
+      "text": "Dan: (As if Link) \"Ah ha! Ah ha!\"\nArin: (Overlapping Dan) Simmered Fruit, bitch!",
+      "start": 400.16,
+      "duration": 1.46
+    },
+    {
+      "text": "Dan: (Still as if Link) \"Fuck!\"",
+      "start": 401.62,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Heh! \"OHHH! I'M GONNA PRE!\"\nDan: (Chuckles) \"AH!\"",
+      "start": 402.74,
+      "duration": 2.14
+    },
+    {
+      "text": "Dan: \"OHH...\"",
+      "start": 404.88,
+      "duration": 0.74
+    },
+    {
+      "text": "Dan: \"GOD!\"",
+      "start": 406.4,
+      "duration": 0.66
+    },
+    {
+      "text": "(Both Chuckle)",
+      "start": 407.06,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"OH...!\"",
+      "start": 407.56,
+      "duration": 0.56
+    },
+    {
+      "text": "Arin: \"SIMMERED FRUIT...!\"",
+      "start": 408.42,
+      "duration": 0.88
+    },
+    {
+      "text": "Dan: (Starts laughing)\nArin: \"Ahh, fuck yeah...!\"",
+      "start": 409.3,
+      "duration": 2.14
+    },
+    {
+      "text": "Dan: \"FUCK yeah...!\"",
+      "start": 411.44,
+      "duration": 1.06
+    },
+    {
+      "text": "Arin: Oh, look at this! Look at this little salamander! HA!\nDan: (Overlapping Arin) OHHH! GET 'IM!",
+      "start": 413.34,
+      "duration": 1.92
+    },
+    {
+      "text": "Arin: LOOK AT 'IM GO! (Laughing)\nDan: Awwwwww!",
+      "start": 415.26,
+      "duration": 1.52
+    },
+    {
+      "text": "Arin: Ahhhhh! :D",
+      "start": 416.78,
+      "duration": 0.9
+    },
+    {
+      "text": "Arin: That was adorable. :3\nDan: That takes me back to...",
+      "start": 417.68,
+      "duration": 1.54
+    },
+    {
+      "text": "Arin: Shadow of the Colosus?\nDan: (Almost at the same time) Shadow of the Colosus.",
+      "start": 419.7,
+      "duration": 1.02
+    },
+    {
+      "text": "Dan: Yeah. :3",
+      "start": 420.72,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: Except you don't murder...",
+      "start": 421.22,
+      "duration": 1.04
+    },
+    {
+      "text": "Arin: I COULD. ;o\nDan: Could you? :o",
+      "start": 423.06,
+      "duration": 1.44
+    },
+    {
+      "text": "Arin: Yeah. I could shoot a fire arrow right at this fuckin'...",
+      "start": 424.5,
+      "duration": 2.56
+    },
+    {
+      "text": "Dan: Could you have killed that fox and stuff?",
+      "start": 427.6,
+      "duration": 1.46
+    },
+    {
+      "text": "Arin: I'mmuna- Probably. ;o",
+      "start": 429.06,
+      "duration": 1.3
+    },
+    {
+      "text": "Dan: Whoa...",
+      "start": 430.36,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: I'mmuna- Look, I'mmuna kill...",
+      "start": 430.86,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: Wait-",
+      "start": 432.86,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: So I can like, sneak up on shit...",
+      "start": 433.36,
+      "duration": 1.72
+    },
+    {
+      "text": "Dan: Do y-",
+      "start": 435.3,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: Can you kill chickens? Or will there still-",
+      "start": 436.14,
+      "duration": 1.82
+    },
+    {
+      "text": "Dan: Will they still bring the chicken-pocalypse thing",
+      "start": 438.02,
+      "duration": 1.84
+    },
+    {
+      "text": "Arin: (Overlapping Dan) I'mmuna kill this-...\nDan: from fuckin' A Link to the Past?",
+      "start": 439.86,
+      "duration": 1.36
+    },
+    {
+      "text": "Arin: Oh, probably. ;o\nDan: Okay. :o",
+      "start": 441.22,
+      "duration": 1.4
+    },
+    {
+      "text": "Arin: They'll never get rid of that...",
+      "start": 442.62,
+      "duration": 0.9
+    },
+    {
+      "text": "Dan: (Overlapping Arin) BRRR-BRRR-BRRR-BRRR!\nArin: I'm gonna kill this fuckin', like, elk or whatever. (S'a goat, dude.)",
+      "start": 443.52,
+      "duration": 2.0
+    },
+    {
+      "text": "Dan: Oh shit. :o",
+      "start": 446.08,
+      "duration": 0.56
+    },
+    {
+      "text": "Dan: Aww! Don't kill it!",
+      "start": 447.08,
+      "duration": 0.86
+    },
+    {
+      "text": "Dan: It's just mindin' its own-",
+      "start": 447.94,
+      "duration": 1.1
+    },
+    {
+      "text": "Dan: OOOOOH-KAY.",
+      "start": 449.04,
+      "duration": 0.98
+    },
+    {
+      "text": "Dan: It's on fire...",
+      "start": 450.02,
+      "duration": 1.0
+    },
+    {
+      "text": "Arin: Cool. :P",
+      "start": 451.6,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: WELL THEN...",
+      "start": 453.02,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Oh my God, sorry. D:",
+      "start": 454.7,
+      "duration": 1.24
+    },
+    {
+      "text": "Dan: Yeah, you pissed off the GODS.\nArin: (Overlapped by Dan) Jesus...",
+      "start": 455.94,
+      "duration": 1.74
+    },
+    {
+      "text": "Arin: Oh- ah- It's a SEARED steak! :O",
+      "start": 458.0,
+      "duration": 1.42
+    },
+    {
+      "text": "Arin: I think- I think the WIND is- putting the fire out... (Or it's updraft... *COUGH*)",
+      "start": 460.02,
+      "duration": 2.42
+    },
+    {
+      "text": "Dan: Ohhh!",
+      "start": 462.82,
+      "duration": 0.74
+    },
+    {
+      "text": "Arin: It's like...",
+      "start": 464.36,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Trying not to spread a fire...",
+      "start": 465.36,
+      "duration": 1.32
+    },
+    {
+      "text": "Either Dan or Arin: (Sniffles)",
+      "start": 466.68,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: Ohh! :O",
+      "start": 467.18,
+      "duration": 0.68
+    },
+    {
+      "text": "Arin: So there's some kind of, like-",
+      "start": 468.3,
+      "duration": 1.06
+    },
+    {
+      "text": "Arin: Ancient God or something that's like, watching over the...",
+      "start": 469.48,
+      "duration": 2.2
+    },
+    {
+      "text": "Dan: Yeah.",
+      "start": 471.82,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: \"Thanks for lightin' my goat on fire. >:/\"",
+      "start": 472.7,
+      "duration": 1.62
+    },
+    {
+      "text": "Arin: Tch!",
+      "start": 474.64,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: I like goat fires. :o",
+      "start": 476.32,
+      "duration": 0.78
+    },
+    {
+      "text": "Dan: Yeah.\nArin: Hey, I got a seared steak out of the deal",
+      "start": 477.36,
+      "duration": 1.5
+    },
+    {
+      "text": "Dan: PFF!\nArin: So it's not- I'm- I'm-...",
+      "start": 478.86,
+      "duration": 1.48
+    },
+    {
+      "text": "Arin: Honestly, I'm pretty happy.",
+      "start": 480.34,
+      "duration": 1.2
+    },
+    {
+      "text": "Dan: D'you ever see the, uh...",
+      "start": 481.54,
+      "duration": 1.08
+    },
+    {
+      "text": "Dan: The, umm... (Reloading again, eh?)",
+      "start": 484.02,
+      "duration": 1.06
+    },
+    {
+      "text": "Dan: Aqua Teen Hunger Force, where they uh",
+      "start": 485.36,
+      "duration": 1.76
+    },
+    {
+      "text": "Dan: Bring the witch doctor to",
+      "start": 487.12,
+      "duration": 1.3
+    },
+    {
+      "text": "Dan: bring back the chicken from the dead? (They were trying to bring SHAKE back, actually...)",
+      "start": 488.42,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: ...No...\nDan: And he's like:",
+      "start": 491.62,
+      "duration": 0.8
+    },
+    {
+      "text": "Dan: \"Arise, chicken!\"",
+      "start": 492.8,
+      "duration": 0.92
+    },
+    {
+      "text": "Dan: \"Chicken, arise!\"",
+      "start": 494.38,
+      "duration": 1.0
+    },
+    {
+      "text": "(Both start laughing)",
+      "start": 495.38,
+      "duration": 1.72
+    },
+    {
+      "text": "Dan: It's SO, SO funny!",
+      "start": 497.1,
+      "duration": 2.18
+    },
+    {
+      "text": "Arin: That's- That's a good show.",
+      "start": 500.52,
+      "duration": 0.94
+    },
+    {
+      "text": "Arin: We were watchin' uhh...\nDan: They were like:",
+      "start": 501.7,
+      "duration": 1.76
+    },
+    {
+      "text": "Dan: \"What about a bigger chicken?!\", and he's like,",
+      "start": 503.86,
+      "duration": 1.66
+    },
+    {
+      "text": "Dan: \"You mean, super mega ULTRA CHICKEN?!\"",
+      "start": 505.86,
+      "duration": 2.32
+    },
+    {
+      "text": "Dan: \"SHHH!\"",
+      "start": 508.48,
+      "duration": 0.62
+    },
+    {
+      "text": "Dan: \"He is LEGEND...\"",
+      "start": 509.66,
+      "duration": 0.96
+    },
+    {
+      "text": "(Both start laughing)",
+      "start": 510.62,
+      "duration": 3.1
+    },
+    {
+      "text": "('Nother Shniffle)",
+      "start": 514.1,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: That show was so sometimes funny and sometimes not at all.",
+      "start": 514.6,
+      "duration": 2.92
+    },
+    {
+      "text": "Dan: I mean, it was just...",
+      "start": 517.52,
+      "duration": 1.34
+    },
+    {
+      "text": "Dan: It LIVED on the VERY edge, y'know?",
+      "start": 518.86,
+      "duration": 2.38
+    },
+    {
+      "text": "Dan: So like...",
+      "start": 521.24,
+      "duration": 0.78
+    },
+    {
+      "text": "Arin: I just liked how quiet it was.\nDan: Yeah. When it worked, it was AMAZING...",
+      "start": 522.02,
+      "duration": 3.44
+    },
+    {
+      "text": "Arin: Like they just kinda talked and there was no...",
+      "start": 526.22,
+      "duration": 2.06
+    },
+    {
+      "text": "Arin: Like, sou- music or anything.\nDan: No, yeah!",
+      "start": 528.62,
+      "duration": 2.32
+    },
+    {
+      "text": "Dan: It's just pure weirdness.",
+      "start": 531.18,
+      "duration": 1.66
+    },
+    {
+      "text": "Arin: Boko Bat...\nDan: Ooh...",
+      "start": 532.84,
+      "duration": 1.04
+    },
+    {
+      "text": "Arin: I'm gonna beat you with your own fuckin' Boko Bat!\nDan: (In a silly Jamaican accent) Wit'cho own Boko Bat!",
+      "start": 535.24,
+      "duration": 2.38
+    },
+    {
+      "text": "Dan: (Same accent) Boko Bat!",
+      "start": 538.56,
+      "duration": 0.68
+    },
+    {
+      "text": "Dan: (This kinda just brings it home) Mon!",
+      "start": 539.42,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: (In a similar silly Jamaican accent) I'm going to fuck you up!",
+      "start": 540.58,
+      "duration": 1.88
+    },
+    {
+      "text": "Arin: (Same accent) I'm comin' fo' ya'!\nDan: (Very quietly) It's...",
+      "start": 543.14,
+      "duration": 1.36
+    },
+    {
+      "text": "Dan: (Same accent) Going to be a deleeshus fuck up!\nArin: I dunno why I'm not... Eatin' apples right now...",
+      "start": 544.8,
+      "duration": 3.68
+    },
+    {
+      "text": "Arin: (Quietly) Oops...",
+      "start": 548.78,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: (In a musical tone) Gimme that fuckin' delicious apple!~",
+      "start": 550.66,
+      "duration": 1.96
+    },
+    {
+      "text": "Dan: (In a musical tone as well) Crunchin' and munchin!~",
+      "start": 552.62,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: (As the Bokoblin)\"Where'd he go?!\"",
+      "start": 554.62,
+      "duration": 0.62
+    },
+    {
+      "text": "Arin: Right here, bitch!\nDan: \"Hey bud! :3\"",
+      "start": 555.5,
+      "duration": 1.54
+    },
+    {
+      "text": "Dan: \"Oww! :C\"",
+      "start": 557.04,
+      "duration": 0.94
+    },
+    {
+      "text": "Dan: \"See ya' then... ;3;\"\nArin: Oh yeah he got FUCKED.",
+      "start": 558.64,
+      "duration": 1.76
+    },
+    {
+      "text": "Dan: Mm. Delightful.\nArin: (Overlapping Dan) He got straight FUCKED!",
+      "start": 560.4,
+      "duration": 2.28
+    },
+    {
+      "text": "Dan: Heh! (In a higher pitched tone) HE GOT STRAIGHT FUCKED, Y'ALL!",
+      "start": 563.56,
+      "duration": 2.0
+    },
+    {
+      "text": "Dan: \"Hi! I'm the skull that says shit!\"",
+      "start": 566.1,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: (Laughing)",
+      "start": 568.28,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: \"Today I'm gonna be talkin' to you about things that you don't understand.\"",
+      "start": 570.84,
+      "duration": 2.82
+    },
+    {
+      "text": "Dan: Yeah!\nArin: \"Like how to get straight fucked!\"",
+      "start": 573.66,
+      "duration": 1.64
+    },
+    {
+      "text": "Dan: \"Like stuuuuuff!\"",
+      "start": 575.3,
+      "duration": 1.16
+    },
+    {
+      "text": "Arin: Oh what if I like grabbed it and dropped it on 'em...?",
+      "start": 578.88,
+      "duration": 2.34
+    },
+    {
+      "text": "Arin: Know what I'm sayin'?",
+      "start": 581.86,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: ...Wha- Ohh!",
+      "start": 583.6,
+      "duration": 1.28
+    },
+    {
+      "text": "Dan: One way to fuckin' find out...!",
+      "start": 585.44,
+      "duration": 1.5
+    },
+    {
+      "text": "Arin: Well they're all dead now. :/\nDan: Yeaaah...",
+      "start": 587.66,
+      "duration": 1.64
+    },
+    {
+      "text": "Dan: Yeah you murdered them...",
+      "start": 589.3,
+      "duration": 0.98
+    },
+    {
+      "text": "Dan: That's cool.\nArin: I'll try it again next time. Next time I find that area.",
+      "start": 590.68,
+      "duration": 3.28
+    },
+    {
+      "text": "Arin: Dude it's cool! I mean...",
+      "start": 594.86,
+      "duration": 1.18
+    },
+    {
+      "text": "Arin: That- That's what fuckin' FUN is.\nDan: (Sniffles)",
+      "start": 596.58,
+      "duration": 1.34
+    },
+    {
+      "text": "Arin: It's like approaching stuff from different angles, and...\nDan: (Laughs)",
+      "start": 597.92,
+      "duration": 2.92
+    },
+    {
+      "text": "Dan: Yeah, tell me what fun is, Arin.",
+      "start": 601.02,
+      "duration": 1.32
+    },
+    {
+      "text": "Arin: No-Wha- I'm serious! Like...\nDan: (Chuckles)",
+      "start": 602.34,
+      "duration": 1.48
+    },
+    {
+      "text": "Arin: It- It's- It's uhhh...",
+      "start": 603.82,
+      "duration": 1.82
+    },
+    {
+      "text": "Arin: It's cool ho-...?",
+      "start": 606.58,
+      "duration": 0.72
+    },
+    {
+      "text": "Arin: Did I never blow that one up...?",
+      "start": 607.8,
+      "duration": 1.06
+    },
+    {
+      "text": "Dan: Yeah, seems that way.",
+      "start": 609.68,
+      "duration": 0.7
+    },
+    {
+      "text": "Dan: I'd walk away from it, farther. ;o",
+      "start": 611.2,
+      "duration": 1.44
+    },
+    {
+      "text": "Dan: There ya' go.",
+      "start": 613.92,
+      "duration": 0.54
+    },
+    {
+      "text": "Arin: Umm...",
+      "start": 614.82,
+      "duration": 0.56
+    },
+    {
+      "text": "Dan: That looks like a Halo weapon. :o",
+      "start": 616.18,
+      "duration": 1.26
+    },
+    {
+      "text": "Arin: Oh yeah, it does. 'Cause it's all glowy and shit?\nDan: Yeah yeah.",
+      "start": 618.12,
+      "duration": 2.26
+    },
+    {
+      "text": "Arin: I- I mean one of the things that- that makes things really FUN is- is just being able to sort of...",
+      "start": 620.68,
+      "duration": 4.56
+    },
+    {
+      "text": "Arin: Carve out your own path, right? So...",
+      "start": 625.86,
+      "duration": 1.86
+    },
+    {
+      "text": "Arin: It's like you see a situation like this and it's like, \"Ah, there's like, a million different ways I can go in there...\"",
+      "start": 628.36,
+      "duration": 4.08
+    },
+    {
+      "text": "Dan: It's very interesting...\nArin: (Overlapped by Dan) It's cool...!",
+      "start": 632.62,
+      "duration": 1.52
+    },
+    {
+      "text": "Dan: After having played...",
+      "start": 634.3,
+      "duration": 1.44
+    },
+    {
+      "text": "Dan: Uhh, Ocarina of Time...",
+      "start": 636.22,
+      "duration": 1.68
+    },
+    {
+      "text": "Dan: Umm...",
+      "start": 638.88,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: And then, the two CDI Phillips Zelda games,",
+      "start": 640.22,
+      "duration": 2.8
+    },
+    {
+      "text": "Arin: (Overlapped by Dan) Yeah.\nDan: with you, in a row,",
+      "start": 643.02,
+      "duration": 1.12
+    },
+    {
+      "text": "Dan: To suddenly see you... Loving... REALLY hard on a Zelda game.",
+      "start": 644.8,
+      "duration": 3.72
+    },
+    {
+      "text": "Arin: Oh yeah man. I mean this fuckin'...\nDan: (Overlapping Arin) Ah, Sneaky River Snail.",
+      "start": 648.72,
+      "duration": 2.76
+    },
+    {
+      "text": "Arin: I'm- I AM. I'm really enjoying myself.",
+      "start": 651.74,
+      "duration": 1.94
+    },
+    {
+      "text": "Dan: (Overlapping Arin) Yeah.\nArin: Um. I think this is, EXACTLY what Zelda needed.",
+      "start": 653.82,
+      "duration": 2.42
+    },
+    {
+      "text": "Dan: I can see it in your FACE, you're just, like...",
+      "start": 656.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Dan: It's just like, \"Oh, good.\"",
+      "start": 659.3,
+      "duration": 1.48
+    },
+    {
+      "text": "Arin: (Overlapping Dan with laughter)\nDan: (Small chuckle) Like, \"Yay THIS.\"",
+      "start": 660.92,
+      "duration": 2.28
+    },
+    {
+      "text": "Arin: It's TRUE though, man. Like...",
+      "start": 664.02,
+      "duration": 1.54
+    },
+    {
+      "text": "Arin: I'm just-...",
+      "start": 666.66,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Whe- When was the last Zelda game where...",
+      "start": 668.02,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: Y- It just felt like, \"Aw man!\"",
+      "start": 670.56,
+      "duration": 1.92
+    },
+    {
+      "text": "Arin: \"What lies in store ahead of me?\"",
+      "start": 672.98,
+      "duration": 1.92
+    },
+    {
+      "text": "Dan: (Overlapped by Arin) Wind Waker?\nArin: Like, \"What- What could be around this corner? I don't know!\"",
+      "start": 675.52,
+      "duration": 2.98
+    },
+    {
+      "text": "Dan: Right.",
+      "start": 678.6,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Like, every other Zelda's just like, \"Ah, it's probably- just, fuckin' whatever.-\"",
+      "start": 679.56,
+      "duration": 3.12
+    },
+    {
+      "text": "Dan: Tch! (Chuckles)\nArin: \"A heart piece?\"",
+      "start": 682.68,
+      "duration": 1.2
+    },
+    {
+      "text": "Dan: \"Herpes\" did you say?",
+      "start": 684.64,
+      "duration": 0.8
+    },
+    {
+      "text": "Arin: (Starts to laugh) Heart Piece! xD",
+      "start": 685.44,
+      "duration": 0.68
+    },
+    {
+      "text": "Dan: OHH! Okay!\nArin: Not \"Herpes!\" xD",
+      "start": 686.12,
+      "duration": 1.24
+    },
+    {
+      "text": "Dan: Yeah.",
+      "start": 687.36,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: Loo- Trust me, man!",
+      "start": 688.22,
+      "duration": 0.98
+    },
+    {
+      "text": "Dan: I- I lived in the New York City nightclub scene! Herpes. Are. EVERYWHERE!",
+      "start": 689.56,
+      "duration": 3.44
+    },
+    {
+      "text": "Arin: Oh yeah.\nDan: (Overlapping Arin) Lurking around EVERY corner!",
+      "start": 693.0,
+      "duration": 1.74
+    },
+    {
+      "text": "(Both Chuckle)",
+      "start": 694.82,
+      "duration": 2.0
+    },
+    {
+      "text": "Dan: You gotta bag it up, son! You gotta be careful!\nArin: Esp-",
+      "start": 696.82,
+      "duration": 2.3
+    },
+    {
+      "text": "Arin: ESPECIALLY in the depths of the forest.",
+      "start": 699.18,
+      "duration": 2.36
+    },
+    {
+      "text": "(Dan snickers)",
+      "start": 701.54,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: That's where people meet the w- the most to get their rocks off.",
+      "start": 702.24,
+      "duration": 2.78
+    },
+    {
+      "text": "Dan: Couldn't agree more.\nArin: Yeah they don't want uh...",
+      "start": 705.02,
+      "duration": 1.86
+    },
+    {
+      "text": "Arin: One a' those... Y'know, it's like one a' those groups o-",
+      "start": 708.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: WHOA! DEKU SCRUBS!\nDan: (Overlapped by Arin) The fo-",
+      "start": 710.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Dan: The forest is like the roadside gas station of nature! (Titters)",
+      "start": 711.0,
+      "duration": 3.62
+    },
+    {
+      "text": "Arin: Right?! That's exactly what ju-",
+      "start": 715.06,
+      "duration": 1.14
+    },
+    {
+      "text": "Arin: Fuckin' look- what the fuck is- That- It's a Deku Scrub!",
+      "start": 716.22,
+      "duration": 2.64
+    },
+    {
+      "text": "Dan: Aw, sweet! :D\nArin: (Overlapped by Dan) Or I guess it's an Okurok- Octorok...",
+      "start": 718.86,
+      "duration": 2.14
+    },
+    {
+      "text": "Arin: (Overlapped by Dan) Yeah an Octorok Tentacle!\nDan: Oh yeah! :D",
+      "start": 722.18,
+      "duration": 1.3
+    },
+    {
+      "text": "Arin: He just like, showed up and started fuckin' with me!",
+      "start": 723.82,
+      "duration": 1.84
+    },
+    {
+      "text": "Dan: Yay! :3",
+      "start": 725.66,
+      "duration": 0.68
+    },
+    {
+      "text": "Arin: That's so cool! It wasn't like, \"Oh! Welcome to Octorok Country-\"",
+      "start": 726.66,
+      "duration": 2.42
+    },
+    {
+      "text": "Dan: Tch! (Laughs)\nArin: (Blows Raspberry)",
+      "start": 729.08,
+      "duration": 1.28
+    },
+    {
+      "text": "Arin: Then there's like this cutscene of an Octorok and it's like, \"Ohh, look at...\"",
+      "start": 730.36,
+      "duration": 2.72
+    },
+    {
+      "text": "Arin: \"Look at what THEY do. Isn't THAT interesting?\nDan: Mhm.",
+      "start": 733.48,
+      "duration": 1.96
+    },
+    {
+      "text": "Arin: It's like, \"No, it's NOT because you just fuckin' TOLD me...\"",
+      "start": 735.44,
+      "duration": 2.0
+    },
+    {
+      "text": "Dan: (Gasp) Pinwheel! :O",
+      "start": 737.44,
+      "duration": 0.98
+    },
+    {
+      "text": "Arin: Whoa. :o",
+      "start": 738.9,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: \"Pinwheel, pinwheel, spinning around. Look at my pinwheel and see what I found.\"\nArin: (Overlapped by Dan) What-",
+      "start": 739.4,
+      "duration": 3.24
+    },
+    {
+      "text": "Arin: What the hell's goin' on here...?",
+      "start": 742.64,
+      "duration": 1.38
+    },
+    {
+      "text": "Dan: It's the... Theme song from Pinwheel.",
+      "start": 744.02,
+      "duration": 2.0
+    },
+    {
+      "text": "Dan: 1980's show...",
+      "start": 746.02,
+      "duration": 0.92
+    },
+    {
+      "text": "Arin: Is it, really?\nDan: Yeah.",
+      "start": 747.58,
+      "duration": 0.92
+    },
+    {
+      "text": "Arin: (Overlapped by Dan) What does it wanna-...? OH!\nDan: (Singing) Pinwheel! Pinwheel! Spinning around!",
+      "start": 749.42,
+      "duration": 2.68
+    },
+    {
+      "text": "Arin: (In a sort of whisper, still overlapped by Dan) Oh! If I had a-...\nDan: (Still singing) Look at my pinwheel and see what I fou-",
+      "start": 752.1,
+      "duration": 2.66
+    },
+    {
+      "text": "Dan: (Stops singing) Let me finish this. >:|",
+      "start": 754.76,
+      "duration": 0.96
+    },
+    {
+      "text": "Arin: Sorry. :C",
+      "start": 755.92,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: (Starts to laugh) No it's f-\nArin: Go ahead. :c",
+      "start": 756.42,
+      "duration": 0.8
+    },
+    {
+      "text": "Dan: I'm totally kidding. x3",
+      "start": 757.22,
+      "duration": 0.9
+    },
+    {
+      "text": "Arin: Uhh. Oh, you know what I think I can do...?",
+      "start": 758.66,
+      "duration": 1.66
+    },
+    {
+      "text": "Arin: This is SO cool...",
+      "start": 761.92,
+      "duration": 0.96
+    },
+    {
+      "text": "Arin: This is SO COOL!\nDan: (Sniffles)",
+      "start": 763.1,
+      "duration": 1.1
+    },
+    {
+      "text": "Arin: Aright-\nDan: You REALLY have to get better at that.",
+      "start": 764.94,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: Did I die? o.o\nDan: Yeah, you killed yourself...",
+      "start": 767.04,
+      "duration": 1.76
+    },
+    {
+      "text": "Arin: Oh...!",
+      "start": 768.8,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: AGAIN...",
+      "start": 769.38,
+      "duration": 0.68
+    },
+    {
+      "text": "Arin: Man...!",
+      "start": 771.0,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Well, it'll spawn me like, RIGHT THERE, I guess...\nDan: Yup.",
+      "start": 771.72,
+      "duration": 2.04
+    },
+    {
+      "text": "Arin: Uhhh.",
+      "start": 774.4,
+      "duration": 0.56
+    },
+    {
+      "text": "Arin: If I knock down a tree, and get one of those, um, leaves...",
+      "start": 775.34,
+      "duration": 3.86
+    },
+    {
+      "text": "Arin: I can blow wind...",
+      "start": 779.78,
+      "duration": 1.34
+    },
+    {
+      "text": "Arin: On... The pinwheel!",
+      "start": 781.96,
+      "duration": 1.16
+    },
+    {
+      "text": "Dan: Ohh!\nArin: Maybe that'll do somethin'.",
+      "start": 783.32,
+      "duration": 1.86
+    },
+    {
+      "text": "Arin: I dunno...\nDan: That's pretty good.",
+      "start": 786.42,
+      "duration": 0.62
+    },
+    {
+      "text": "Arin: That's what's- Ah-...",
+      "start": 787.5,
+      "duration": 0.74
+    },
+    {
+      "text": "Arin: Physics, man!",
+      "start": 788.24,
+      "duration": 0.84
+    },
+    {
+      "text": "Arin: And see? Right here! Bam!\nDan: (Silent chuckle)",
+      "start": 789.84,
+      "duration": 1.48
+    },
+    {
+      "text": "Dan: You sound like a real scientist.",
+      "start": 791.32,
+      "duration": 1.48
+    },
+    {
+      "text": "(Arin lets out a small laugh)",
+      "start": 792.92,
+      "duration": 0.52
+    },
+    {
+      "text": "Dan: \"I mean, physics man...!\"",
+      "start": 793.62,
+      "duration": 1.3
+    },
+    {
+      "text": "Arin: Does that suck?\nDan: (Overlapped by Arin) Whoa! :o",
+      "start": 799.16,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Does that suck for you?",
+      "start": 799.66,
+      "duration": 0.98
+    },
+    {
+      "text": "Dan: (Makes an attempt to immitate the warthog)\nArin: (Overlapped by Dan) Raw Meat! Finally!",
+      "start": 801.34,
+      "duration": 1.82
+    },
+    {
+      "text": "Dan: Yeah!",
+      "start": 803.16,
+      "duration": 0.8
+    },
+    {
+      "text": "Arin: God damn it...!",
+      "start": 804.0,
+      "duration": 0.74
+    },
+    {
+      "text": "Arin: Aw, I got TWO of 'em, too!",
+      "start": 805.64,
+      "duration": 1.26
+    },
+    {
+      "text": "Dan: Yeh! :3",
+      "start": 806.98,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: It's amazing that the meat doesn't cook when you don't light them on fire like you did with that goat.",
+      "start": 807.84,
+      "duration": 4.04
+    },
+    {
+      "text": "Arin: Well it was a BOMB, so...",
+      "start": 811.88,
+      "duration": 1.58
+    },
+    {
+      "text": "Dan: Ah, the Ironshroom...",
+      "start": 813.78,
+      "duration": 1.16
+    },
+    {
+      "text": "Arin: Increases defense...",
+      "start": 815.24,
+      "duration": 0.58
+    },
+    {
+      "text": "Dan: They've paid the iron price for these mushrooms.\nArin: (Chuckles)",
+      "start": 815.82,
+      "duration": 2.66
+    },
+    {
+      "text": "Arin: Mmm, salt and pepper.",
+      "start": 818.94,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: The iron price. (Chuckles)\nDan: (Chuckles)",
+      "start": 820.94,
+      "duration": 2.32
+    },
+    {
+      "text": "Arin: Uhh, aright.",
+      "start": 823.88,
+      "duration": 0.84
+    },
+    {
+      "text": "Arin: I go-\nDan: Boy, you got A LOT of stuff now!",
+      "start": 824.72,
+      "duration": 1.28
+    },
+    {
+      "text": "Arin: I know! It's cool, right?!\nDan: It's great! :D",
+      "start": 826.0,
+      "duration": 1.46
+    },
+    {
+      "text": "Arin: Uhh, I'm gonna use this axe...",
+      "start": 827.46,
+      "duration": 1.76
+    },
+    {
+      "text": "Arin: \"Mind if I axe you-\"",
+      "start": 830.52,
+      "duration": 0.8
+    },
+    {
+      "text": "Dan\" I- Arin! I was like,-",
+      "start": 831.32,
+      "duration": 1.42
+    },
+    {
+      "text": "Dan: I- Like, MY mind was- was like,",
+      "start": 833.16,
+      "duration": 2.0
+    },
+    {
+      "text": "Dan: \"Don't say it, that's stupid.\" And then my mind was like,",
+      "start": 835.54,
+      "duration": 2.12
+    },
+    {
+      "text": "Dan: \"Arin will say it!\" (Starts laughing)\nArin: (Starts laughing)",
+      "start": 837.66,
+      "duration": 2.12
+    },
+    {
+      "text": "Dan: And sure enough!",
+      "start": 839.78,
+      "duration": 1.18
+    },
+    {
+      "text": "(Both laughing)",
+      "start": 840.96,
+      "duration": 2.14
+    },
+    {
+      "text": "Arin: \"You got it!\" (Chuckles)\nDan: (Chuckles)",
+      "start": 843.1,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: I g- I go  the places that YOU won't go!",
+      "start": 845.1,
+      "duration": 1.94
+    },
+    {
+      "text": "Dan: Yeah, yeah!",
+      "start": 847.04,
+      "duration": 0.86
+    },
+    {
+      "text": "Dan: To Clever Town...!",
+      "start": 848.0,
+      "duration": 1.68
+    },
+    {
+      "text": "Arin: Hopefully... Hopefully one of these things will spit out one of those, fuckin'... Leaves...",
+      "start": 849.9,
+      "duration": 4.92
+    },
+    {
+      "text": "Dan: Oh! Yeah.\nArin: It's not givin' me th- the leaf action I wanted...!",
+      "start": 855.7,
+      "duration": 3.28
+    },
+    {
+      "text": "Arin: (Overlapped by Dan) That I SO craved...\nDan: Maybe it's only that specific kind of tree.",
+      "start": 860.08,
+      "duration": 1.8
+    },
+    {
+      "text": "Arin: You might be right about that...",
+      "start": 862.28,
+      "duration": 0.84
+    },
+    {
+      "text": "Dan: Whoa! Oh! Oh! Oh! Hello there, friends!\nArin: (Overlapped by Dan)  Get the FUCK outta here, ya' Goddamn bats!",
+      "start": 863.12,
+      "duration": 2.68
+    },
+    {
+      "text": "Arin: Ya' squiggly fucki- (Starts chuckling)",
+      "start": 866.9,
+      "duration": 1.32
+    },
+    {
+      "text": "Arin: I love that respo-",
+      "start": 868.22,
+      "duration": 1.64
+    },
+    {
+      "text": "Dan: (Overlapped by Arin) Oh! There it is!\nArin: That, \"Arin!\" (Starts laughing)",
+      "start": 869.86,
+      "duration": 1.36
+    },
+    {
+      "text": "(Both start laughing)",
+      "start": 871.22,
+      "duration": 3.18
+    },
+    {
+      "text": "Dan: It was ju- It was just like a mix of like exasperation and like, also like, \"Yeaah...\"",
+      "start": 874.4,
+      "duration": 4.9
+    },
+    {
+      "text": "(Both chuckle)",
+      "start": 879.3,
+      "duration": 1.7
+    },
+    {
+      "text": "Dan: \"We're friends. :3\"",
+      "start": 881.1,
+      "duration": 0.82
+    },
+    {
+      "text": "Arin: Got it. Alright, Korok Leaf!",
+      "start": 882.4,
+      "duration": 1.56
+    },
+    {
+      "text": "Arin: Keese Eyeball!\nDan: Ooo! This could help!",
+      "start": 883.96,
+      "duration": 2.36
+    },
+    {
+      "text": "Arin: \"Must be good for something.\"",
+      "start": 887.0,
+      "duration": 1.12
+    },
+    {
+      "text": "Dan: Ew.\nArin: Nah, it's good for nothin'.",
+      "start": 888.48,
+      "duration": 1.62
+    },
+    {
+      "text": "Dan: I bet you could cook 'em!",
+      "start": 890.66,
+      "duration": 0.88
+    },
+    {
+      "text": "Arin: I'll give it a try!",
+      "start": 892.58,
+      "duration": 0.82
+    },
+    {
+      "text": "Dan: Yeah. Why not?\nArin: Throw it in a stew, maybe.",
+      "start": 893.4,
+      "duration": 1.98
+    },
+    {
+      "text": "Dan: Yeh. Boil 'em, mash 'em, stick 'em in a stew.\nArin: There ya' go.",
+      "start": 895.44,
+      "duration": 2.46
+    },
+    {
+      "text": "Dan: PO-TA-TO- PO-TA-TO- PO-TA-TOES!\nArin: (Chuckles quietly)",
+      "start": 897.9,
+      "duration": 3.02
+    },
+    {
+      "text": "Arin: I saw that-... I still haven't seen it.",
+      "start": 901.54,
+      "duration": 2.08
+    },
+    {
+      "text": "(What?)",
+      "start": 903.62,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: I mean- I mean, I STILL haven't seen Lord of the Rings, but I've seen that, so many times...",
+      "start": 904.12,
+      "duration": 3.2
+    },
+    {
+      "text": "Dan: Yes, well no- now...",
+      "start": 907.32,
+      "duration": 1.72
+    },
+    {
+      "text": "Dan: March is our month that we've set aside for all the movies.",
+      "start": 909.76,
+      "duration": 2.9
+    },
+    {
+      "text": "Dan: Starting with Shin Godzilla",
+      "start": 913.28,
+      "duration": 1.24
+    },
+    {
+      "text": "Dan: then Space Adventure Cobra",
+      "start": 914.84,
+      "duration": 1.38
+    },
+    {
+      "text": "Arin: (Overlapped by Dan) Yeah...\nDan: then Lord of the Rings.",
+      "start": 916.64,
+      "duration": 0.74
+    },
+    {
+      "text": "Arin: I think this is not doin' anything for it...",
+      "start": 917.38,
+      "duration": 1.74
+    },
+    {
+      "text": "Arin: Well, it was a decent enough IDEA, I guess.",
+      "start": 919.8,
+      "duration": 1.98
+    },
+    {
+      "text": "Dan: Yeah! :3",
+      "start": 921.78,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Thought it would make a difference.\nDan: Yeah. :3",
+      "start": 923.46,
+      "duration": 1.18
+    },
+    {
+      "text": "Arin: BUT IT DIDN'T...!",
+      "start": 926.3,
+      "duration": 0.88
+    },
+    {
+      "text": "Dan: Well, I guess the breath of the wild will fuckin' take care of that shit next time on Game Grumps. ;o",
+      "start": 927.34,
+      "duration": 3.26
+    },
+    {
+      "text": "Arin: Nyeah, okay.\nDan: Aright.",
+      "start": 930.6,
+      "duration": 0.66
+    },
+    {
+      "text": "Dan: Boil 'em, mash 'em, stick 'em in a stew...\nBoth: Boil 'em, mash 'em, stick 'em in a stew...",
+      "start": 933.04,
+      "duration": 3.56
+    },
+    {
+      "text": "Arin: PO-TA-TO- PO-TA-TO-...\nDan: PO-TA-TO- PO-TA-TO-...",
+      "start": 937.0,
+      "duration": 3.9
+    },
+    {
+      "text": "Dan: BRDRDRDRDRDRDRDRDRDRDRDRDRDRDRDRDRDRDRDRDRDRDRDRDR",
+      "start": 940.9,
+      "duration": 2.9
+    },
+    {
+      "text": "Dan: (Makes an explosion sound)",
+      "start": 944.36,
+      "duration": 1.3
+    },
+    {
+      "text": "Arin: (In a female like voice) EH!",
+      "start": 945.66,
+      "duration": 1.92
+    }
+  ]
+}

@@ -1,0 +1,3688 @@
+{
+  "video_id": "fa2zsl4oerQ",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Hey, hey, hey, we're the Game Grumps, and this is Dadbot.",
+      "start": 0.0,
+      "duration": 2.88
+    },
+    {
+      "text": "hi.",
+      "start": 2.88,
+      "duration": 0.5
+    },
+    {
+      "text": "You might have already known that.",
+      "start": 3.38,
+      "duration": 1.28
+    },
+    {
+      "text": "We're coming to these cities this fall.",
+      "start": 4.66,
+      "duration": 1.84
+    },
+    {
+      "text": "Come see our live show.",
+      "start": 6.5,
+      "duration": 1.0
+    },
+    {
+      "text": "You won't want to miss it.",
+      "start": 7.5,
+      "duration": 1.04
+    },
+    {
+      "text": "These will probably be our last shows for a while.",
+      "start": 8.54,
+      "duration": 1.62
+    },
+    {
+      "text": "So come on out.",
+      "start": 10.16,
+      "duration": 0.88
+    },
+    {
+      "text": "We'll be in Calgary.",
+      "start": 11.04,
+      "duration": 0.96
+    },
+    {
+      "text": "Vancouver.",
+      "start": 12.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Anchorage.",
+      "start": 13.0,
+      "duration": 0.88
+    },
+    {
+      "text": "Portland.",
+      "start": 13.88,
+      "duration": 0.5
+    },
+    {
+      "text": "San Francisco.",
+      "start": 14.38,
+      "duration": 0.66
+    },
+    {
+      "text": "El Cajon.",
+      "start": 15.04,
+      "duration": 0.5
+    },
+    {
+      "text": "Mesa.",
+      "start": 15.54,
+      "duration": 0.5
+    },
+    {
+      "text": "Dallas.",
+      "start": 16.04,
+      "duration": 0.62
+    },
+    {
+      "text": "Tulsa.",
+      "start": 16.66,
+      "duration": 0.68
+    },
+    {
+      "text": "Indianapolis.",
+      "start": 17.34,
+      "duration": 0.74
+    },
+    {
+      "text": "Grand Rapids.",
+      "start": 18.08,
+      "duration": 0.76
+    },
+    {
+      "text": "Cincinnati.",
+      "start": 18.84,
+      "duration": 0.9
+    },
+    {
+      "text": "Hellam.",
+      "start": 19.74,
+      "duration": 0.42
+    },
+    {
+      "text": "Richmond.",
+      "start": 20.16,
+      "duration": 0.5
+    },
+    {
+      "text": "Red Bank.",
+      "start": 20.66,
+      "duration": 0.42
+    },
+    {
+      "text": "Huntington.",
+      "start": 21.08,
+      "duration": 0.5
+    },
+    {
+      "text": "Hershey.",
+      "start": 21.58,
+      "duration": 0.5
+    },
+    {
+      "text": "Boston.",
+      "start": 22.08,
+      "duration": 0.5
+    },
+    {
+      "text": "Burlington.",
+      "start": 22.58,
+      "duration": 0.5
+    },
+    {
+      "text": "Montreal.",
+      "start": 23.08,
+      "duration": 2.5
+    },
+    {
+      "text": "Fire.",
+      "start": 25.58,
+      "duration": 0.84
+    },
+    {
+      "text": "Wind.",
+      "start": 26.42,
+      "duration": 0.74
+    },
+    {
+      "text": "Water.",
+      "start": 27.16,
+      "duration": 0.84
+    },
+    {
+      "text": "And alcohol.",
+      "start": 28.0,
+      "duration": 1.38
+    },
+    {
+      "text": "Yeah.",
+      "start": 29.46,
+      "duration": 1.0
+    },
+    {
+      "text": "Yay.",
+      "start": 30.46,
+      "duration": 1.8
+    },
+    {
+      "text": "Hey, I'm Grump.",
+      "start": 32.26,
+      "duration": 0.92
+    },
+    {
+      "text": "I'm not so Grump.",
+      "start": 33.18,
+      "duration": 1.62
+    },
+    {
+      "text": "And we're the Game Grumps.",
+      "start": 34.8,
+      "duration": 3.16
+    },
+    {
+      "text": "Oh my god.",
+      "start": 37.96,
+      "duration": 1.12
+    },
+    {
+      "text": "Hello, and welcome to Granny Simulator.",
+      "start": 39.08,
+      "duration": 2.18
+    },
+    {
+      "text": "I wish, close the knees, please.",
+      "start": 41.26,
+      "duration": 2.54
+    },
+    {
+      "text": "Oh, she's wearing undergarments.",
+      "start": 43.8,
+      "duration": 2.82
+    },
+    {
+      "text": "I hope so.",
+      "start": 46.62,
+      "duration": 1.96
+    },
+    {
+      "text": "I thought it was a young man for a little bit.",
+      "start": 48.58,
+      "duration": 3.18
+    },
+    {
+      "text": "And then I was like, oh, that's the granny.",
+      "start": 51.76,
+      "duration": 1.7
+    },
+    {
+      "text": "It looks like an escaped convict.",
+      "start": 53.46,
+      "duration": 1.7
+    },
+    {
+      "text": "Yeah, I was like, usually the granny has the glasses",
+      "start": 55.16,
+      "duration": 3.8
+    },
+    {
+      "text": "and the curly hair.",
+      "start": 58.96,
+      "duration": 2.46
+    },
+    {
+      "text": "Right.",
+      "start": 61.42,
+      "duration": 2.24
+    },
+    {
+      "text": "But maybe that's not a trope anymore,",
+      "start": 63.66,
+      "duration": 2.92
+    },
+    {
+      "text": "because that was a completely different generation.",
+      "start": 66.58,
+      "duration": 3.04
+    },
+    {
+      "text": "Yeah, maybe this is a cool new granny for the 90s.",
+      "start": 69.62,
+      "duration": 2.34
+    },
+    {
+      "text": "Yeah, the granny, if I had kids.",
+      "start": 71.96,
+      "duration": 2.16
+    },
+    {
+      "text": "Well, for her 90s.",
+      "start": 74.12,
+      "duration": 1.38
+    },
+    {
+      "text": "Yeah, it's like, my mom would be a granny",
+      "start": 75.5,
+      "duration": 2.12
+    },
+    {
+      "text": "if I had kids when people usually have kids.",
+      "start": 77.62,
+      "duration": 3.54
+    },
+    {
+      "text": "Right.",
+      "start": 81.16,
+      "duration": 1.68
+    },
+    {
+      "text": "And she's great.",
+      "start": 82.84,
+      "duration": 3.0
+    },
+    {
+      "text": "She looks like a young lady.",
+      "start": 85.84,
+      "duration": 1.16
+    },
+    {
+      "text": "Yeah, she's cool.",
+      "start": 87.0,
+      "duration": 0.8
+    },
+    {
+      "text": "So maybe it's just the times are changing.",
+      "start": 87.8,
+      "duration": 3.92
+    },
+    {
+      "text": "I don't know.",
+      "start": 91.72,
+      "duration": 1.58
+    },
+    {
+      "text": "Have you seen that TikTok meme where the girls,",
+      "start": 93.3,
+      "duration": 2.5
+    },
+    {
+      "text": "they dress their moms up like them,",
+      "start": 95.8,
+      "duration": 1.92
+    },
+    {
+      "text": "and then they look hotter because of the way",
+      "start": 97.72,
+      "duration": 2.88
+    },
+    {
+      "text": "that the time works?",
+      "start": 100.6,
+      "duration": 2.5
+    },
+    {
+      "text": "You could have stopped it.",
+      "start": 103.1,
+      "duration": 0.82
+    },
+    {
+      "text": "Have you seen that TikTok meme?",
+      "start": 103.92,
+      "duration": 2.0
+    },
+    {
+      "text": "The answer is no.",
+      "start": 105.92,
+      "duration": 1.26
+    },
+    {
+      "text": "OK.",
+      "start": 107.18,
+      "duration": 0.96
+    },
+    {
+      "text": "Single player.",
+      "start": 108.14,
+      "duration": 0.84
+    },
+    {
+      "text": "OK.",
+      "start": 108.98,
+      "duration": 1.12
+    },
+    {
+      "text": "First level.",
+      "start": 110.1,
+      "duration": 2.04
+    },
+    {
+      "text": "What the?",
+      "start": 112.14,
+      "duration": 1.0
+    },
+    {
+      "text": "So the premise of this game.",
+      "start": 113.14,
+      "duration": 1.28
+    },
+    {
+      "text": "Task, kill your grandmother?",
+      "start": 114.42,
+      "duration": 1.8
+    },
+    {
+      "text": "Oh, I'm the baby?",
+      "start": 116.22,
+      "duration": 2.04
+    },
+    {
+      "text": "Oh, I thought I was the grandmother.",
+      "start": 118.26,
+      "duration": 3.84
+    },
+    {
+      "text": "Oh, this is a nightmare right off the bat.",
+      "start": 122.1,
+      "duration": 4.08
+    },
+    {
+      "text": "This like, intense run cycle.",
+      "start": 126.18,
+      "duration": 1.72
+    },
+    {
+      "text": "Yeah, why are you so good with your feet?",
+      "start": 127.9,
+      "duration": 4.12
+    },
+    {
+      "text": "Granny is cleaning up her room.",
+      "start": 132.02,
+      "duration": 2.12
+    },
+    {
+      "text": "OK.",
+      "start": 134.14,
+      "duration": 1.8
+    },
+    {
+      "text": "Task, five of 10.",
+      "start": 135.94,
+      "duration": 2.46
+    },
+    {
+      "text": "Should I pick up, oh, a bottle.",
+      "start": 138.4,
+      "duration": 2.9
+    },
+    {
+      "text": "OK, I got a bottle.",
+      "start": 141.3,
+      "duration": 2.26
+    },
+    {
+      "text": "Whoops.",
+      "start": 143.56,
+      "duration": 1.96
+    },
+    {
+      "text": "Make that back up.",
+      "start": 145.52,
+      "duration": 1.38
+    },
+    {
+      "text": "Let me lower the sensitivity a little bit.",
+      "start": 146.9,
+      "duration": 1.66
+    },
+    {
+      "text": "Arin.",
+      "start": 151.16,
+      "duration": 0.5
+    },
+    {
+      "text": "Hold on.",
+      "start": 151.66,
+      "duration": 0.5
+    },
+    {
+      "text": "I'm working on it.",
+      "start": 152.16,
+      "duration": 1.2
+    },
+    {
+      "text": "Go to barf.",
+      "start": 153.36,
+      "duration": 1.16
+    },
+    {
+      "text": "There we go.",
+      "start": 154.52,
+      "duration": 0.68
+    },
+    {
+      "text": "All right.",
+      "start": 155.2,
+      "duration": 0.66
+    },
+    {
+      "text": "Thank you.",
+      "start": 155.86,
+      "duration": 0.5
+    },
+    {
+      "text": "Hello.",
+      "start": 156.36,
+      "duration": 0.92
+    },
+    {
+      "text": "Oh, my.",
+      "start": 157.28,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh.",
+      "start": 158.12,
+      "duration": 0.5
+    },
+    {
+      "text": "Whoa, she's trying to kill you.",
+      "start": 158.62,
+      "duration": 1.34
+    },
+    {
+      "text": "She's got a taser?",
+      "start": 159.96,
+      "duration": 2.4
+    },
+    {
+      "text": "Dude.",
+      "start": 162.36,
+      "duration": 0.5
+    },
+    {
+      "text": "This is fucked up.",
+      "start": 162.86,
+      "duration": 0.8
+    },
+    {
+      "text": "What the hell?",
+      "start": 163.66,
+      "duration": 2.12
+    },
+    {
+      "text": "Granny, no.",
+      "start": 165.78,
+      "duration": 0.58
+    },
+    {
+      "text": "How could you?",
+      "start": 166.36,
+      "duration": 1.24
+    },
+    {
+      "text": "Oh, goodness me.",
+      "start": 167.6,
+      "duration": 1.64
+    },
+    {
+      "text": "Why do I look like if Tom Hardy was four?",
+      "start": 172.24,
+      "duration": 1.88
+    },
+    {
+      "text": "Don't tase me, bro.",
+      "start": 174.16,
+      "duration": 3.0
+    },
+    {
+      "text": "Are you seeing this?",
+      "start": 177.16,
+      "duration": 0.92
+    },
+    {
+      "text": "Look at him.",
+      "start": 178.08,
+      "duration": 0.5
+    },
+    {
+      "text": "Yeah.",
+      "start": 178.58,
+      "duration": 1.5
+    },
+    {
+      "text": "I'm the Ben.",
+      "start": 180.08,
+      "duration": 2.72
+    },
+    {
+      "text": "It's going to be very painful for you.",
+      "start": 182.8,
+      "duration": 3.32
+    },
+    {
+      "text": "That's a rolling pin.",
+      "start": 186.12,
+      "duration": 2.6
+    },
+    {
+      "text": "Where did you get dungarees to fit your baby stature?",
+      "start": 188.72,
+      "duration": 3.84
+    },
+    {
+      "text": "Oh, I know, right?",
+      "start": 192.56,
+      "duration": 2.08
+    },
+    {
+      "text": "All right, time for these dungarees",
+      "start": 194.64,
+      "duration": 1.64
+    },
+    {
+      "text": "to fucking take out some Granny.",
+      "start": 196.28,
+      "duration": 4.16
+    },
+    {
+      "text": "Granny's going out back to pick her flowers.",
+      "start": 200.44,
+      "duration": 3.52
+    },
+    {
+      "text": "I came here for a proper shoot out.",
+      "start": 203.96,
+      "duration": 4.4
+    },
+    {
+      "text": "Look out.",
+      "start": 208.36,
+      "duration": 0.5
+    },
+    {
+      "text": "Ah, shit.",
+      "start": 208.86,
+      "duration": 1.5
+    },
+    {
+      "text": "Arin, you got greedy, man.",
+      "start": 210.36,
+      "duration": 1.12
+    },
+    {
+      "text": "I was going to sneak.",
+      "start": 211.48,
+      "duration": 0.88
+    },
+    {
+      "text": "Oh, my god.",
+      "start": 215.36,
+      "duration": 1.6
+    },
+    {
+      "text": "Boy, Granny's got a leg on her.",
+      "start": 216.96,
+      "duration": 2.36
+    },
+    {
+      "text": "All right, how do I?",
+      "start": 219.32,
+      "duration": 1.4
+    },
+    {
+      "text": "Can I sneak?",
+      "start": 220.72,
+      "duration": 1.68
+    },
+    {
+      "text": "Is there like a crouch?",
+      "start": 222.4,
+      "duration": 1.36
+    },
+    {
+      "text": "My sciatica won't stop me from booting this baby",
+      "start": 223.76,
+      "duration": 3.2
+    },
+    {
+      "text": "across the room, that's for sure.",
+      "start": 226.96,
+      "duration": 2.16
+    },
+    {
+      "text": "OK, she's indisposed.",
+      "start": 229.12,
+      "duration": 1.24
+    },
+    {
+      "text": "Oh.",
+      "start": 230.36,
+      "duration": 0.5
+    },
+    {
+      "text": "Throw it, Arin.",
+      "start": 230.86,
+      "duration": 0.9
+    },
+    {
+      "text": "Throw the ball.",
+      "start": 231.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I can't throw it that far, dude.",
+      "start": 232.76,
+      "duration": 1.8
+    },
+    {
+      "text": "Maybe you can.",
+      "start": 234.56,
+      "duration": 1.16
+    },
+    {
+      "text": "I'm not a strong bubby.",
+      "start": 235.72,
+      "duration": 2.96
+    },
+    {
+      "text": "Oh, my lord.",
+      "start": 238.68,
+      "duration": 0.68
+    },
+    {
+      "text": "She can't see me.",
+      "start": 239.36,
+      "duration": 0.48
+    },
+    {
+      "text": "She can't see me.",
+      "start": 239.84,
+      "duration": 0.68
+    },
+    {
+      "text": "She can't see me.",
+      "start": 240.52,
+      "duration": 1.04
+    },
+    {
+      "text": "So work on some more flowers.",
+      "start": 241.56,
+      "duration": 2.24
+    },
+    {
+      "text": "Just.",
+      "start": 243.8,
+      "duration": 1.2
+    },
+    {
+      "text": "Ha!",
+      "start": 245.0,
+      "duration": 1.0
+    },
+    {
+      "text": "See?",
+      "start": 246.0,
+      "duration": 0.64
+    },
+    {
+      "text": "Ha!",
+      "start": 246.64,
+      "duration": 3.92
+    },
+    {
+      "text": "Fuck!",
+      "start": 250.56,
+      "duration": 0.68
+    },
+    {
+      "text": "Boy, you are just terrible.",
+      "start": 251.24,
+      "duration": 2.32
+    },
+    {
+      "text": "OK, I think.",
+      "start": 253.56,
+      "duration": 0.56
+    },
+    {
+      "text": "This is nightmarish.",
+      "start": 258.72,
+      "duration": 2.0
+    },
+    {
+      "text": "OK, let's find a different weapon then.",
+      "start": 260.76,
+      "duration": 4.56
+    },
+    {
+      "text": "Oh, my god.",
+      "start": 265.32,
+      "duration": 0.68
+    },
+    {
+      "text": "Wow, all right.",
+      "start": 266.0,
+      "duration": 0.64
+    },
+    {
+      "text": "See, I fucking fly the voodoo skies.",
+      "start": 266.64,
+      "duration": 2.16
+    },
+    {
+      "text": "I did.",
+      "start": 268.8,
+      "duration": 0.5
+    },
+    {
+      "text": "Woo!",
+      "start": 269.3,
+      "duration": 2.02
+    },
+    {
+      "text": "Absolutely.",
+      "start": 271.32,
+      "duration": 1.32
+    },
+    {
+      "text": "OK, can I go through that one?",
+      "start": 272.64,
+      "duration": 1.72
+    },
+    {
+      "text": "Nope.",
+      "start": 274.36,
+      "duration": 1.44
+    },
+    {
+      "text": "Let's go upstairs then.",
+      "start": 275.8,
+      "duration": 1.96
+    },
+    {
+      "text": "Bing, bing, bing, bing, bing, bing, bing, bing, bing.",
+      "start": 277.76,
+      "duration": 2.0
+    },
+    {
+      "text": "This is my house, and I rule it with an iron fist.",
+      "start": 279.76,
+      "duration": 4.0
+    },
+    {
+      "text": "Hello, bottles.",
+      "start": 283.76,
+      "duration": 2.28
+    },
+    {
+      "text": "It's been too long.",
+      "start": 286.04,
+      "duration": 2.48
+    },
+    {
+      "text": "Shit and bottles.",
+      "start": 288.52,
+      "duration": 3.16
+    },
+    {
+      "text": "What else can I use?",
+      "start": 291.68,
+      "duration": 1.64
+    },
+    {
+      "text": "Oh, you know what?",
+      "start": 293.32,
+      "duration": 0.72
+    },
+    {
+      "text": "Downstairs, there was a, ooh, keys.",
+      "start": 294.04,
+      "duration": 2.48
+    },
+    {
+      "text": "Can I drug her?",
+      "start": 296.52,
+      "duration": 2.2
+    },
+    {
+      "text": "I don't know, Arin.",
+      "start": 298.72,
+      "duration": 3.32
+    },
+    {
+      "text": "I hate that you have audio of you out there now saying that.",
+      "start": 302.04,
+      "duration": 2.84
+    },
+    {
+      "text": "In the context of grandma.",
+      "start": 309.12,
+      "duration": 2.68
+    },
+    {
+      "text": "Even worse.",
+      "start": 311.8,
+      "duration": 0.72
+    },
+    {
+      "text": "Shit.",
+      "start": 312.52,
+      "duration": 7.36
+    },
+    {
+      "text": "It's OK.",
+      "start": 319.88,
+      "duration": 1.04
+    },
+    {
+      "text": "With AI, we can all say things that we didn't say.",
+      "start": 320.92,
+      "duration": 3.36
+    },
+    {
+      "text": "Hell, yeah.",
+      "start": 324.28,
+      "duration": 0.96
+    },
+    {
+      "text": "It's going to be the worst.",
+      "start": 325.24,
+      "duration": 2.48
+    },
+    {
+      "text": "I'm very excited for this apocalypse.",
+      "start": 327.72,
+      "duration": 3.04
+    },
+    {
+      "text": "Key.",
+      "start": 330.76,
+      "duration": 1.72
+    },
+    {
+      "text": "No!",
+      "start": 332.48,
+      "duration": 1.24
+    },
+    {
+      "text": "Oh, my god.",
+      "start": 333.72,
+      "duration": 0.6
+    },
+    {
+      "text": "Well, now I can jump through the window.",
+      "start": 334.32,
+      "duration": 1.68
+    },
+    {
+      "text": "Fuck granny.",
+      "start": 336.0,
+      "duration": 0.52
+    },
+    {
+      "text": "She just screwed herself, bro.",
+      "start": 336.52,
+      "duration": 1.92
+    },
+    {
+      "text": "I got ins and outs.",
+      "start": 338.44,
+      "duration": 3.8
+    },
+    {
+      "text": "You played yourself, granny.",
+      "start": 342.24,
+      "duration": 3.44
+    },
+    {
+      "text": "All right.",
+      "start": 345.68,
+      "duration": 1.12
+    },
+    {
+      "text": "So OK, yeah, yeah, yeah.",
+      "start": 346.8,
+      "duration": 1.48
+    },
+    {
+      "text": "Oh, don't look at me.",
+      "start": 348.28,
+      "duration": 1.04
+    },
+    {
+      "text": "Don't look at me.",
+      "start": 349.32,
+      "duration": 1.32
+    },
+    {
+      "text": "You don't know where I am.",
+      "start": 350.64,
+      "duration": 1.12
+    },
+    {
+      "text": "This music.",
+      "start": 351.76,
+      "duration": 1.6
+    },
+    {
+      "text": "Oh, she's looking at books.",
+      "start": 353.36,
+      "duration": 1.12
+    },
+    {
+      "text": "Fuck, I didn't know she was looking at books.",
+      "start": 354.48,
+      "duration": 2.08
+    },
+    {
+      "text": "Could have done shit.",
+      "start": 356.56,
+      "duration": 2.72
+    },
+    {
+      "text": "All right, she's going to the flowers.",
+      "start": 359.28,
+      "duration": 1.56
+    },
+    {
+      "text": "She's going to the flowers.",
+      "start": 360.84,
+      "duration": 1.12
+    },
+    {
+      "text": "Yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes.",
+      "start": 361.96,
+      "duration": 2.04
+    },
+    {
+      "text": "Now, fuck you, granny.",
+      "start": 364.0,
+      "duration": 0.96
+    },
+    {
+      "text": "Fuck you.",
+      "start": 364.96,
+      "duration": 0.52
+    },
+    {
+      "text": "I'm not entirely sure you know what to do.",
+      "start": 368.72,
+      "duration": 1.96
+    },
+    {
+      "text": "I don't either.",
+      "start": 370.68,
+      "duration": 0.88
+    },
+    {
+      "text": "With the attacks.",
+      "start": 372.12,
+      "duration": 0.76
+    },
+    {
+      "text": "All right, I'm going to get this gun.",
+      "start": 372.88,
+      "duration": 2.44
+    },
+    {
+      "text": "Cool.",
+      "start": 375.32,
+      "duration": 0.6
+    },
+    {
+      "text": "Can I not use the gun?",
+      "start": 375.92,
+      "duration": 2.52
+    },
+    {
+      "text": "You're a baby.",
+      "start": 378.44,
+      "duration": 1.24
+    },
+    {
+      "text": "Of course you can use the gun.",
+      "start": 379.68,
+      "duration": 2.36
+    },
+    {
+      "text": "Ooh.",
+      "start": 382.04,
+      "duration": 0.5
+    },
+    {
+      "text": "Are you fucking serious with this?",
+      "start": 386.44,
+      "duration": 1.96
+    },
+    {
+      "text": "This is my power?",
+      "start": 388.4,
+      "duration": 2.24
+    },
+    {
+      "text": "My power is supposed to be unlimited.",
+      "start": 390.64,
+      "duration": 2.68
+    },
+    {
+      "text": "I'm a child.",
+      "start": 393.32,
+      "duration": 2.12
+    },
+    {
+      "text": "All right, granny.",
+      "start": 395.44,
+      "duration": 2.32
+    },
+    {
+      "text": "She's feeble.",
+      "start": 397.76,
+      "duration": 0.76
+    },
+    {
+      "text": "Oh, she's going up the stairs.",
+      "start": 398.52,
+      "duration": 1.28
+    },
+    {
+      "text": "Perfect time to bonk her in the head.",
+      "start": 399.84,
+      "duration": 3.04
+    },
+    {
+      "text": "Well, she'll see me.",
+      "start": 402.88,
+      "duration": 1.4
+    },
+    {
+      "text": "She can hear me when I come up from, oops.",
+      "start": 404.28,
+      "duration": 3.72
+    },
+    {
+      "text": "Yeah, she'll never hear that.",
+      "start": 408.0,
+      "duration": 1.64
+    },
+    {
+      "text": "It's OK.",
+      "start": 409.64,
+      "duration": 1.8
+    },
+    {
+      "text": "Time to sneak up on her.",
+      "start": 411.44,
+      "duration": 2.28
+    },
+    {
+      "text": "Oh, she fell.",
+      "start": 413.72,
+      "duration": 0.76
+    },
+    {
+      "text": "Nice, dude.",
+      "start": 414.48,
+      "duration": 0.84
+    },
+    {
+      "text": "Nice.",
+      "start": 415.32,
+      "duration": 0.92
+    },
+    {
+      "text": "Quickly, quickly.",
+      "start": 416.24,
+      "duration": 2.6
+    },
+    {
+      "text": "All right.",
+      "start": 418.84,
+      "duration": 1.28
+    },
+    {
+      "text": "Fuck.",
+      "start": 420.12,
+      "duration": 0.5
+    },
+    {
+      "text": "She's too hard.",
+      "start": 424.76,
+      "duration": 2.32
+    },
+    {
+      "text": "Oh, man, she's got her tail.",
+      "start": 427.08,
+      "duration": 1.76
+    },
+    {
+      "text": "Oh, that's like among us, dude.",
+      "start": 428.84,
+      "duration": 1.92
+    },
+    {
+      "text": "She's got to do her torch or whatever.",
+      "start": 430.76,
+      "duration": 2.28
+    },
+    {
+      "text": "Her tasks, yeah.",
+      "start": 433.04,
+      "duration": 0.96
+    },
+    {
+      "text": "Shit.",
+      "start": 434.0,
+      "duration": 0.56
+    },
+    {
+      "text": "Oh, she doesn't have a gun.",
+      "start": 434.56,
+      "duration": 1.6
+    },
+    {
+      "text": "She's never gone anymore.",
+      "start": 436.16,
+      "duration": 1.28
+    },
+    {
+      "text": "Yeah, she's just kicking you.",
+      "start": 437.44,
+      "duration": 1.24
+    },
+    {
+      "text": "Oh.",
+      "start": 438.68,
+      "duration": 1.48
+    },
+    {
+      "text": "That's fine.",
+      "start": 440.16,
+      "duration": 2.4
+    },
+    {
+      "text": "All right, all right, I got to find a good weapon.",
+      "start": 442.56,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, man, those are just tiny pants.",
+      "start": 444.56,
+      "duration": 2.48
+    },
+    {
+      "text": "Yeah, granny.",
+      "start": 447.04,
+      "duration": 2.88
+    },
+    {
+      "text": "Granny's going to fucking die, dude.",
+      "start": 449.92,
+      "duration": 1.4
+    },
+    {
+      "text": "You're fucking dead.",
+      "start": 451.32,
+      "duration": 2.0
+    },
+    {
+      "text": "I mean, goo.",
+      "start": 453.32,
+      "duration": 4.08
+    },
+    {
+      "text": "What do the keys do?",
+      "start": 457.4,
+      "duration": 2.8
+    },
+    {
+      "text": "Can I switch between my inventory?",
+      "start": 460.2,
+      "duration": 2.12
+    },
+    {
+      "text": "All right.",
+      "start": 462.32,
+      "duration": 2.76
+    },
+    {
+      "text": "Where'd she go?",
+      "start": 465.08,
+      "duration": 0.8
+    },
+    {
+      "text": "Granny's health is 100%.",
+      "start": 465.88,
+      "duration": 1.76
+    },
+    {
+      "text": "Granny, what the fuck?",
+      "start": 467.64,
+      "duration": 1.0
+    },
+    {
+      "text": "She's never been better.",
+      "start": 468.64,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, so is mine.",
+      "start": 469.64,
+      "duration": 1.88
+    },
+    {
+      "text": "Oh, my god, Arin, there has to be.",
+      "start": 471.52,
+      "duration": 2.16
+    },
+    {
+      "text": "How am I supposed to beat this large woman?",
+      "start": 473.68,
+      "duration": 3.08
+    },
+    {
+      "text": "I don't, all right, I don't like that you have audio of that",
+      "start": 476.76,
+      "duration": 3.04
+    },
+    {
+      "text": "out there.",
+      "start": 479.8,
+      "duration": 0.52
+    },
+    {
+      "text": "You know what, that's my responsibility, not yours.",
+      "start": 480.32,
+      "duration": 9.44
+    },
+    {
+      "text": "All right, I'm sorry, I'm just looking out for a friend.",
+      "start": 489.76,
+      "duration": 2.88
+    },
+    {
+      "text": "OK.",
+      "start": 492.64,
+      "duration": 1.88
+    },
+    {
+      "text": "If I stand up on here, whoa.",
+      "start": 494.52,
+      "duration": 3.04
+    },
+    {
+      "text": "Wow.",
+      "start": 497.56,
+      "duration": 0.52
+    },
+    {
+      "text": "Look at this tiny door just for me.",
+      "start": 498.08,
+      "duration": 1.56
+    },
+    {
+      "text": "Oh, I wonder what's in there.",
+      "start": 499.64,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, a series of tunnels.",
+      "start": 501.64,
+      "duration": 4.2
+    },
+    {
+      "text": "This is where I keep it.",
+      "start": 505.84,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, this is great.",
+      "start": 506.84,
+      "duration": 0.68
+    },
+    {
+      "text": "Oh, yeah, fucking kunai.",
+      "start": 507.52,
+      "duration": 2.16
+    },
+    {
+      "text": "Is that it?",
+      "start": 509.72,
+      "duration": 0.68
+    },
+    {
+      "text": "Yeah.",
+      "start": 510.4,
+      "duration": 0.92
+    },
+    {
+      "text": "God, there's got, oh.",
+      "start": 511.32,
+      "duration": 2.6
+    },
+    {
+      "text": "Yo, dude.",
+      "start": 513.92,
+      "duration": 1.04
+    },
+    {
+      "text": "There you go.",
+      "start": 514.96,
+      "duration": 2.32
+    },
+    {
+      "text": "You didn't kill your grandmother in time.",
+      "start": 517.28,
+      "duration": 4.08
+    },
+    {
+      "text": "Oh, well.",
+      "start": 521.36,
+      "duration": 1.72
+    },
+    {
+      "text": "All right, let's try again.",
+      "start": 523.08,
+      "duration": 1.16
+    },
+    {
+      "text": "Yeah, OK, easy.",
+      "start": 524.24,
+      "duration": 1.6
+    },
+    {
+      "text": "What do you mean in time?",
+      "start": 525.84,
+      "duration": 1.04
+    },
+    {
+      "text": "It's 1243 in the afternoon.",
+      "start": 526.88,
+      "duration": 3.4
+    },
+    {
+      "text": "Well.",
+      "start": 530.28,
+      "duration": 0.48
+    },
+    {
+      "text": "There's so much time.",
+      "start": 530.76,
+      "duration": 0.92
+    },
+    {
+      "text": "Maybe mama's coming to pick me up.",
+      "start": 531.68,
+      "duration": 1.4
+    },
+    {
+      "text": "I guess.",
+      "start": 533.08,
+      "duration": 0.76
+    },
+    {
+      "text": "Maybe I just woke up from my little nappy.",
+      "start": 533.84,
+      "duration": 2.92
+    },
+    {
+      "text": "All right, so now you know go right for that little cubby.",
+      "start": 536.76,
+      "duration": 3.72
+    },
+    {
+      "text": "I got to go for the kunai, bro.",
+      "start": 540.48,
+      "duration": 1.4
+    },
+    {
+      "text": "Get out of here, granny.",
+      "start": 541.88,
+      "duration": 1.48
+    },
+    {
+      "text": "Fuck off.",
+      "start": 543.36,
+      "duration": 1.84
+    },
+    {
+      "text": "Fuck off, granny.",
+      "start": 545.2,
+      "duration": 0.84
+    },
+    {
+      "text": "All right.",
+      "start": 548.76,
+      "duration": 0.64
+    },
+    {
+      "text": "Beep boop, beep boop, beep boop.",
+      "start": 549.4,
+      "duration": 1.88
+    },
+    {
+      "text": "Hello.",
+      "start": 551.28,
+      "duration": 1.4
+    },
+    {
+      "text": "What's in these other treasure chests?",
+      "start": 552.68,
+      "duration": 2.44
+    },
+    {
+      "text": "More weapons, I hope.",
+      "start": 555.12,
+      "duration": 1.44
+    },
+    {
+      "text": "Oh.",
+      "start": 556.56,
+      "duration": 0.52
+    },
+    {
+      "text": "Oh, it's locked.",
+      "start": 557.08,
+      "duration": 1.32
+    },
+    {
+      "text": "Oh, you need more.",
+      "start": 558.4,
+      "duration": 1.32
+    },
+    {
+      "text": "That's what the keys are for.",
+      "start": 559.72,
+      "duration": 2.16
+    },
+    {
+      "text": "Oh.",
+      "start": 561.88,
+      "duration": 1.32
+    },
+    {
+      "text": "You know what?",
+      "start": 563.2,
+      "duration": 0.76
+    },
+    {
+      "text": "In retrospect, maybe we should have",
+      "start": 563.96,
+      "duration": 1.72
+    },
+    {
+      "text": "had such a difficult time figuring out",
+      "start": 565.72,
+      "duration": 1.6
+    },
+    {
+      "text": "that the glowing keys are for the glowing locks.",
+      "start": 567.32,
+      "duration": 3.32
+    },
+    {
+      "text": "But that's fine.",
+      "start": 570.64,
+      "duration": 1.0
+    },
+    {
+      "text": "But they look like car keys, dude.",
+      "start": 571.64,
+      "duration": 4.2
+    },
+    {
+      "text": "Yeah, Arin, babies can't drive.",
+      "start": 575.84,
+      "duration": 4.32
+    },
+    {
+      "text": "Babies can't throw kunais and run around granny's house either.",
+      "start": 580.16,
+      "duration": 4.44
+    },
+    {
+      "text": "I'm not following you.",
+      "start": 584.6,
+      "duration": 3.12
+    },
+    {
+      "text": "And they can't murder.",
+      "start": 587.72,
+      "duration": 1.08
+    },
+    {
+      "text": "Granny's going out back to pick flowers, Arin.",
+      "start": 588.8,
+      "duration": 2.04
+    },
+    {
+      "text": "All right, well, I'll find her and I'll fucking kill her.",
+      "start": 590.84,
+      "duration": 2.2
+    },
+    {
+      "text": "There she is.",
+      "start": 593.04,
+      "duration": 0.76
+    },
+    {
+      "text": "Oh.",
+      "start": 593.8,
+      "duration": 1.4
+    },
+    {
+      "text": "Check this shit out.",
+      "start": 595.24,
+      "duration": 1.4
+    },
+    {
+      "text": "Oh.",
+      "start": 596.64,
+      "duration": 0.52
+    },
+    {
+      "text": "Yeah, boy.",
+      "start": 597.16,
+      "duration": 1.48
+    },
+    {
+      "text": "Let me grab that kunai.",
+      "start": 598.64,
+      "duration": 1.28
+    },
+    {
+      "text": "Uh-oh, uh-oh.",
+      "start": 599.92,
+      "duration": 2.24
+    },
+    {
+      "text": "No, I'm good, I'm good.",
+      "start": 602.16,
+      "duration": 1.2
+    },
+    {
+      "text": "Granny, I'm good, though.",
+      "start": 603.36,
+      "duration": 3.16
+    },
+    {
+      "text": "Granny's going to fucking die.",
+      "start": 606.52,
+      "duration": 1.24
+    },
+    {
+      "text": "Oh.",
+      "start": 607.76,
+      "duration": 0.52
+    },
+    {
+      "text": "Oh, bug spray.",
+      "start": 608.28,
+      "duration": 1.28
+    },
+    {
+      "text": "Oh, oh.",
+      "start": 609.56,
+      "duration": 0.76
+    },
+    {
+      "text": "Yo, I'm dying.",
+      "start": 610.32,
+      "duration": 0.56
+    },
+    {
+      "text": "Did you get impaled on your own?",
+      "start": 610.88,
+      "duration": 1.48
+    },
+    {
+      "text": "No, no.",
+      "start": 612.36,
+      "duration": 0.64
+    },
+    {
+      "text": "It's just the graphics.",
+      "start": 613.0,
+      "duration": 1.0
+    },
+    {
+      "text": "OK, yeah, yeah.",
+      "start": 614.0,
+      "duration": 1.12
+    },
+    {
+      "text": "I thought you got hoisted on your own petard.",
+      "start": 615.12,
+      "duration": 3.76
+    },
+    {
+      "text": "Yeah, dude.",
+      "start": 618.88,
+      "duration": 0.52
+    },
+    {
+      "text": "Whoa, dude.",
+      "start": 619.4,
+      "duration": 0.8
+    },
+    {
+      "text": "Fuck off, Granny.",
+      "start": 622.84,
+      "duration": 1.52
+    },
+    {
+      "text": "Pink.",
+      "start": 624.36,
+      "duration": 0.5
+    },
+    {
+      "text": "Oh, you got to wait.",
+      "start": 624.96,
+      "duration": 0.96
+    },
+    {
+      "text": "Oh, no, no, it did damage.",
+      "start": 625.92,
+      "duration": 1.08
+    },
+    {
+      "text": "Did it?",
+      "start": 627.0,
+      "duration": 0.48
+    },
+    {
+      "text": "Yes.",
+      "start": 627.48,
+      "duration": 0.8
+    },
+    {
+      "text": "It just didn't knock her down.",
+      "start": 628.28,
+      "duration": 2.92
+    },
+    {
+      "text": "Pew.",
+      "start": 631.2,
+      "duration": 0.92
+    },
+    {
+      "text": "OK, OK.",
+      "start": 632.12,
+      "duration": 0.8
+    },
+    {
+      "text": "Just making sure I knew.",
+      "start": 632.92,
+      "duration": 1.96
+    },
+    {
+      "text": "Wow, she's really committed to picking these flowers.",
+      "start": 634.88,
+      "duration": 2.64
+    },
+    {
+      "text": "Yeah, dude.",
+      "start": 637.52,
+      "duration": 0.96
+    },
+    {
+      "text": "She's got a tiki torch in her.",
+      "start": 638.48,
+      "duration": 2.68
+    },
+    {
+      "text": "And now I'll pick your flowers.",
+      "start": 641.16,
+      "duration": 2.4
+    },
+    {
+      "text": "I will pick your flowers into the dickens.",
+      "start": 643.56,
+      "duration": 3.04
+    },
+    {
+      "text": "I don't know what that means.",
+      "start": 646.6,
+      "duration": 1.4
+    },
+    {
+      "text": "Let's get some bottles, baby.",
+      "start": 648.0,
+      "duration": 2.44
+    },
+    {
+      "text": "Here, head into the house and grab some more top-tier weapons.",
+      "start": 650.44,
+      "duration": 3.04
+    },
+    {
+      "text": "Oh, word, word, word, word, word, word.",
+      "start": 653.48,
+      "duration": 1.76
+    },
+    {
+      "text": "You're so right.",
+      "start": 655.24,
+      "duration": 0.88
+    },
+    {
+      "text": "God, you're always so smart when it comes to these games.",
+      "start": 656.12,
+      "duration": 2.88
+    },
+    {
+      "text": "I'm always such a dillhole.",
+      "start": 659.0,
+      "duration": 2.44
+    },
+    {
+      "text": "Don't be so hard on yourself, man.",
+      "start": 661.44,
+      "duration": 1.4
+    },
+    {
+      "text": "Here, grab keys, though.",
+      "start": 662.84,
+      "duration": 1.44
+    },
+    {
+      "text": "OK.",
+      "start": 664.28,
+      "duration": 1.2
+    },
+    {
+      "text": "They call me Mad Max.",
+      "start": 665.48,
+      "duration": 1.36
+    },
+    {
+      "text": "That's bait.",
+      "start": 670.76,
+      "duration": 0.88
+    },
+    {
+      "text": "All right, what do we got here?",
+      "start": 674.48,
+      "duration": 2.16
+    },
+    {
+      "text": "Ooh.",
+      "start": 676.64,
+      "duration": 1.28
+    },
+    {
+      "text": "Big ass wrench thing.",
+      "start": 677.92,
+      "duration": 1.32
+    },
+    {
+      "text": "Big ass wrench.",
+      "start": 679.24,
+      "duration": 1.48
+    },
+    {
+      "text": "What's in here?",
+      "start": 680.72,
+      "duration": 0.6
+    },
+    {
+      "text": "It's not even a wrench thing.",
+      "start": 681.32,
+      "duration": 1.24
+    },
+    {
+      "text": "OK, cool.",
+      "start": 682.56,
+      "duration": 0.8
+    },
+    {
+      "text": "I can only carry one thing at a time, so that's fine.",
+      "start": 684.36,
+      "duration": 2.24
+    },
+    {
+      "text": "What, she gets health back?",
+      "start": 686.6,
+      "duration": 1.48
+    },
+    {
+      "text": "Oh, my god.",
+      "start": 688.08,
+      "duration": 1.24
+    },
+    {
+      "text": "That changes everything.",
+      "start": 689.32,
+      "duration": 1.36
+    },
+    {
+      "text": "It so does, though.",
+      "start": 690.68,
+      "duration": 1.08
+    },
+    {
+      "text": "Hurry, hurry.",
+      "start": 691.76,
+      "duration": 0.72
+    },
+    {
+      "text": "Oh, she's in her room?",
+      "start": 692.48,
+      "duration": 1.24
+    },
+    {
+      "text": "How did she fucking get there?",
+      "start": 693.72,
+      "duration": 1.24
+    },
+    {
+      "text": "Oh, maybe she has pills or something",
+      "start": 694.96,
+      "duration": 2.24
+    },
+    {
+      "text": "that she can take to regain her health.",
+      "start": 697.2,
+      "duration": 2.16
+    },
+    {
+      "text": "Oh, fuck.",
+      "start": 699.36,
+      "duration": 0.6
+    },
+    {
+      "text": "You're so right.",
+      "start": 699.96,
+      "duration": 0.8
+    },
+    {
+      "text": "What is this?",
+      "start": 700.76,
+      "duration": 0.88
+    },
+    {
+      "text": "She changed her clothes.",
+      "start": 701.64,
+      "duration": 2.76
+    },
+    {
+      "text": "What the hey, dude.",
+      "start": 704.4,
+      "duration": 1.84
+    },
+    {
+      "text": "Oh, dear.",
+      "start": 706.24,
+      "duration": 1.92
+    },
+    {
+      "text": "Where is she?",
+      "start": 708.16,
+      "duration": 0.88
+    },
+    {
+      "text": "Oh, dear.",
+      "start": 709.04,
+      "duration": 1.44
+    },
+    {
+      "text": "If she's cleaning up the room, where could she be?",
+      "start": 710.48,
+      "duration": 5.96
+    },
+    {
+      "text": "Maybe this isn't her room.",
+      "start": 716.44,
+      "duration": 1.96
+    },
+    {
+      "text": "Granny, show yourself.",
+      "start": 718.4,
+      "duration": 3.36
+    },
+    {
+      "text": "Oh, shit, dog.",
+      "start": 721.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Found her.",
+      "start": 722.76,
+      "duration": 0.96
+    },
+    {
+      "text": "Oh, god, she's still got the tiki torch in her.",
+      "start": 723.72,
+      "duration": 2.12
+    },
+    {
+      "text": "Fucking flanked me, dog.",
+      "start": 725.84,
+      "duration": 2.04
+    },
+    {
+      "text": "Flanked you.",
+      "start": 727.88,
+      "duration": 1.64
+    },
+    {
+      "text": "Like a granny phalanx.",
+      "start": 729.52,
+      "duration": 2.04
+    },
+    {
+      "text": "Ha!",
+      "start": 731.56,
+      "duration": 1.4
+    },
+    {
+      "text": "Wow.",
+      "start": 732.96,
+      "duration": 2.96
+    },
+    {
+      "text": "Hold up, hold up.",
+      "start": 735.92,
+      "duration": 0.76
+    },
+    {
+      "text": "Yo, yo, hold up.",
+      "start": 736.68,
+      "duration": 0.68
+    },
+    {
+      "text": "Let me cook.",
+      "start": 737.36,
+      "duration": 1.84
+    },
+    {
+      "text": "Oh, shit.",
+      "start": 739.2,
+      "duration": 2.12
+    },
+    {
+      "text": "My energy has been sapped.",
+      "start": 741.32,
+      "duration": 2.52
+    },
+    {
+      "text": "She's definitely letting you cook.",
+      "start": 743.84,
+      "duration": 1.52
+    },
+    {
+      "text": "Oh, my god.",
+      "start": 745.36,
+      "duration": 3.84
+    },
+    {
+      "text": "Granny, I'm going to take you out now.",
+      "start": 749.2,
+      "duration": 2.96
+    },
+    {
+      "text": "Oh, she's back to 86%.",
+      "start": 752.16,
+      "duration": 1.72
+    },
+    {
+      "text": "Holy shit, what the fuck?",
+      "start": 753.88,
+      "duration": 2.72
+    },
+    {
+      "text": "I think the pills that are left around",
+      "start": 756.6,
+      "duration": 2.04
+    },
+    {
+      "text": "might be ways for her to get her health back.",
+      "start": 758.64,
+      "duration": 3.76
+    },
+    {
+      "text": "That's fucking messed up, though.",
+      "start": 762.4,
+      "duration": 2.32
+    },
+    {
+      "text": "So you might have to grab them and chuck them somewhere else.",
+      "start": 764.72,
+      "duration": 4.16
+    },
+    {
+      "text": "I don't think I can grab them.",
+      "start": 768.88,
+      "duration": 1.8
+    },
+    {
+      "text": "They look grabbable.",
+      "start": 770.68,
+      "duration": 1.24
+    },
+    {
+      "text": "They're gleaming.",
+      "start": 771.92,
+      "duration": 2.04
+    },
+    {
+      "text": "Kill your grandmother.",
+      "start": 773.96,
+      "duration": 2.44
+    },
+    {
+      "text": "Go on, do it.",
+      "start": 776.4,
+      "duration": 3.64
+    },
+    {
+      "text": "Don't let her get away with this.",
+      "start": 780.04,
+      "duration": 3.36
+    },
+    {
+      "text": "She walking over there?",
+      "start": 783.4,
+      "duration": 0.92
+    },
+    {
+      "text": "Oh, she walked so fast.",
+      "start": 784.32,
+      "duration": 1.6
+    },
+    {
+      "text": "Shit.",
+      "start": 785.92,
+      "duration": 1.04
+    },
+    {
+      "text": "Fuck.",
+      "start": 786.96,
+      "duration": 1.16
+    },
+    {
+      "text": "Bottle?",
+      "start": 788.12,
+      "duration": 1.92
+    },
+    {
+      "text": "Come here, Granny.",
+      "start": 790.04,
+      "duration": 1.56
+    },
+    {
+      "text": "Go up those stairs.",
+      "start": 791.6,
+      "duration": 0.88
+    },
+    {
+      "text": "Yeah, fucking yeah.",
+      "start": 792.48,
+      "duration": 1.04
+    },
+    {
+      "text": "Got it.",
+      "start": 793.52,
+      "duration": 0.72
+    },
+    {
+      "text": "Oh, it wasn't hard enough.",
+      "start": 794.24,
+      "duration": 1.36
+    },
+    {
+      "text": "Ooh, I didn't just throw the bottle hard enough.",
+      "start": 795.6,
+      "duration": 2.52
+    },
+    {
+      "text": "I feel like such an idiot.",
+      "start": 798.12,
+      "duration": 1.64
+    },
+    {
+      "text": "Granny knows her shit.",
+      "start": 799.76,
+      "duration": 1.16
+    },
+    {
+      "text": "Bottle.",
+      "start": 803.72,
+      "duration": 2.8
+    },
+    {
+      "text": "Let the baby have his bottle.",
+      "start": 806.52,
+      "duration": 2.36
+    },
+    {
+      "text": "Bottle of water.",
+      "start": 808.88,
+      "duration": 1.16
+    },
+    {
+      "text": "Oh, my god.",
+      "start": 810.04,
+      "duration": 1.96
+    },
+    {
+      "text": "Hello, Granny.",
+      "start": 812.0,
+      "duration": 1.24
+    },
+    {
+      "text": "Do you want a bottle of water?",
+      "start": 813.24,
+      "duration": 2.4
+    },
+    {
+      "text": "Shit.",
+      "start": 815.64,
+      "duration": 0.52
+    },
+    {
+      "text": "It's a much better weapon, isn't it?",
+      "start": 819.52,
+      "duration": 3.0
+    },
+    {
+      "text": "OK.",
+      "start": 822.52,
+      "duration": 1.2
+    },
+    {
+      "text": "Well, this is a disaster.",
+      "start": 823.72,
+      "duration": 3.0
+    },
+    {
+      "text": "Fucking whoops.",
+      "start": 826.72,
+      "duration": 3.04
+    },
+    {
+      "text": "OK, Granny.",
+      "start": 829.76,
+      "duration": 3.36
+    },
+    {
+      "text": "Here we go.",
+      "start": 833.12,
+      "duration": 3.28
+    },
+    {
+      "text": "And a quack shot.",
+      "start": 836.4,
+      "duration": 1.4
+    },
+    {
+      "text": "Wake up, Granny.",
+      "start": 841.08,
+      "duration": 2.28
+    },
+    {
+      "text": "Your death is coming.",
+      "start": 843.36,
+      "duration": 3.24
+    },
+    {
+      "text": "Ha!",
+      "start": 846.6,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, goodness.",
+      "start": 847.6,
+      "duration": 1.0
+    },
+    {
+      "text": "10 HP.",
+      "start": 848.6,
+      "duration": 2.6
+    },
+    {
+      "text": "Yes.",
+      "start": 851.2,
+      "duration": 1.2
+    },
+    {
+      "text": "Oh, fucking Jesus got tons of health back.",
+      "start": 852.4,
+      "duration": 2.64
+    },
+    {
+      "text": "Yes, she did.",
+      "start": 855.04,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, it's man, oh, man.",
+      "start": 855.88,
+      "duration": 3.92
+    },
+    {
+      "text": "You might have to create a scenario where",
+      "start": 859.8,
+      "duration": 3.28
+    },
+    {
+      "text": "you get all the good weapons and lure her into a room",
+      "start": 863.08,
+      "duration": 4.48
+    },
+    {
+      "text": "and then just start wailing on her repeatedly with everything.",
+      "start": 867.56,
+      "duration": 2.56
+    },
+    {
+      "text": "OK, I can probably do that.",
+      "start": 870.12,
+      "duration": 2.08
+    },
+    {
+      "text": "But you're going to run out of time.",
+      "start": 872.2,
+      "duration": 1.56
+    },
+    {
+      "text": "No, I'm not.",
+      "start": 873.76,
+      "duration": 0.76
+    },
+    {
+      "text": "It's 1226 already.",
+      "start": 874.52,
+      "duration": 1.16
+    },
+    {
+      "text": "So?",
+      "start": 875.68,
+      "duration": 1.04
+    },
+    {
+      "text": "So the last round ended.",
+      "start": 876.72,
+      "duration": 1.52
+    },
+    {
+      "text": "Oh, my god.",
+      "start": 878.24,
+      "duration": 1.04
+    },
+    {
+      "text": "Fucking go to your Granny.",
+      "start": 879.28,
+      "duration": 3.32
+    },
+    {
+      "text": "Do you wish to return to whence you came?",
+      "start": 882.6,
+      "duration": 3.76
+    },
+    {
+      "text": "I will be there in the wait.",
+      "start": 886.36,
+      "duration": 2.04
+    },
+    {
+      "text": "Oh, bye.",
+      "start": 888.4,
+      "duration": 1.84
+    },
+    {
+      "text": "Shit.",
+      "start": 890.24,
+      "duration": 1.84
+    },
+    {
+      "text": "No, Granny.",
+      "start": 892.08,
+      "duration": 1.4
+    },
+    {
+      "text": "Stay away from me.",
+      "start": 893.48,
+      "duration": 1.48
+    },
+    {
+      "text": "Granny, no.",
+      "start": 894.96,
+      "duration": 1.8
+    },
+    {
+      "text": "Granny.",
+      "start": 896.76,
+      "duration": 0.5
+    },
+    {
+      "text": "You think the house is your ally, but I was born from it.",
+      "start": 903.48,
+      "duration": 5.8
+    },
+    {
+      "text": "Hold it by it.",
+      "start": 909.32,
+      "duration": 1.0
+    },
+    {
+      "text": "Granny, where are you, Granny?",
+      "start": 913.6,
+      "duration": 4.04
+    },
+    {
+      "text": "She's watering her plants.",
+      "start": 917.64,
+      "duration": 1.92
+    },
+    {
+      "text": "Fucking where?",
+      "start": 919.56,
+      "duration": 1.32
+    },
+    {
+      "text": "Oh, shit.",
+      "start": 920.88,
+      "duration": 1.72
+    },
+    {
+      "text": "Yo, yo, yo, yo, boom.",
+      "start": 922.6,
+      "duration": 1.48
+    },
+    {
+      "text": "Oh, good.",
+      "start": 924.08,
+      "duration": 0.64
+    },
+    {
+      "text": "Wow, that only did three damage.",
+      "start": 924.72,
+      "duration": 1.36
+    },
+    {
+      "text": "Whoa, whoa, whoa, but I'm right next to the weapons store, dude.",
+      "start": 926.08,
+      "duration": 1.92
+    },
+    {
+      "text": "OK, hurry, hurry, hurry.",
+      "start": 928.0,
+      "duration": 1.8
+    },
+    {
+      "text": "This is your big chance.",
+      "start": 929.8,
+      "duration": 2.6
+    },
+    {
+      "text": "Good job.",
+      "start": 932.4,
+      "duration": 0.52
+    },
+    {
+      "text": "Don't fucking, what are you doing, man?",
+      "start": 932.92,
+      "duration": 2.44
+    },
+    {
+      "text": "Grab the fucking kunai.",
+      "start": 935.36,
+      "duration": 1.52
+    },
+    {
+      "text": "OK.",
+      "start": 936.88,
+      "duration": 1.84
+    },
+    {
+      "text": "Granny.",
+      "start": 938.72,
+      "duration": 2.96
+    },
+    {
+      "text": "She's watering her plants.",
+      "start": 941.68,
+      "duration": 2.04
+    },
+    {
+      "text": "Yes.",
+      "start": 943.72,
+      "duration": 2.76
+    },
+    {
+      "text": "In the neck.",
+      "start": 946.48,
+      "duration": 1.48
+    },
+    {
+      "text": "I think you do more damage the harder you throw it.",
+      "start": 947.96,
+      "duration": 4.76
+    },
+    {
+      "text": "Oh, cool, blood sands.",
+      "start": 952.72,
+      "duration": 1.0
+    },
+    {
+      "text": "This is fine.",
+      "start": 953.72,
+      "duration": 1.8
+    },
+    {
+      "text": "I wish I had an inventory.",
+      "start": 955.52,
+      "duration": 1.68
+    },
+    {
+      "text": "I have to keep coming in here.",
+      "start": 957.2,
+      "duration": 3.16
+    },
+    {
+      "text": "Where does this deposit me?",
+      "start": 960.36,
+      "duration": 1.32
+    },
+    {
+      "text": "Secret door.",
+      "start": 964.68,
+      "duration": 0.56
+    },
+    {
+      "text": "Fiddle dee dee.",
+      "start": 965.24,
+      "duration": 1.16
+    },
+    {
+      "text": "Whoa, OK, I'll have to remember that.",
+      "start": 966.4,
+      "duration": 1.88
+    },
+    {
+      "text": "What's that?",
+      "start": 968.32,
+      "duration": 0.48
+    },
+    {
+      "text": "Oh, shit, oh, shit, oh, shit.",
+      "start": 968.8,
+      "duration": 1.2
+    },
+    {
+      "text": "Boom, baby.",
+      "start": 970.0,
+      "duration": 1.44
+    },
+    {
+      "text": "15.",
+      "start": 971.44,
+      "duration": 0.92
+    },
+    {
+      "text": "Nice.",
+      "start": 972.36,
+      "duration": 0.52
+    },
+    {
+      "text": "Going back.",
+      "start": 972.88,
+      "duration": 2.36
+    },
+    {
+      "text": "Reloading.",
+      "start": 975.24,
+      "duration": 3.04
+    },
+    {
+      "text": "All right.",
+      "start": 978.28,
+      "duration": 0.52
+    },
+    {
+      "text": "I like her little waddly walk.",
+      "start": 978.8,
+      "duration": 2.24
+    },
+    {
+      "text": "Ooh, a hammer.",
+      "start": 981.04,
+      "duration": 0.64
+    },
+    {
+      "text": "Granny, it's time for you to die.",
+      "start": 984.92,
+      "duration": 3.36
+    },
+    {
+      "text": "Bang, bang, bang goes the trolley.",
+      "start": 988.28,
+      "duration": 3.72
+    },
+    {
+      "text": "What the fuck?",
+      "start": 992.0,
+      "duration": 0.6
+    },
+    {
+      "text": "Where is she?",
+      "start": 992.6,
+      "duration": 2.04
+    },
+    {
+      "text": "Granny.",
+      "start": 994.64,
+      "duration": 2.36
+    },
+    {
+      "text": "Oh, get the hammer.",
+      "start": 997.0,
+      "duration": 0.88
+    },
+    {
+      "text": "A hammer for your thoughts, Granny.",
+      "start": 998.48,
+      "duration": 3.88
+    },
+    {
+      "text": "You can take her out.",
+      "start": 1002.36,
+      "duration": 1.36
+    },
+    {
+      "text": "Granny.",
+      "start": 1003.72,
+      "duration": 1.84
+    },
+    {
+      "text": "Yes, Granny.",
+      "start": 1005.56,
+      "duration": 2.24
+    },
+    {
+      "text": "Oh, there's the hammer.",
+      "start": 1007.8,
+      "duration": 1.28
+    },
+    {
+      "text": "Did the hammer get stuck?",
+      "start": 1009.08,
+      "duration": 1.28
+    },
+    {
+      "text": "Disappear, or what happened?",
+      "start": 1010.36,
+      "duration": 2.48
+    },
+    {
+      "text": "Hurry, hurry, hurry.",
+      "start": 1012.84,
+      "duration": 0.8
+    },
+    {
+      "text": "I'm going, I'm going, I'm going.",
+      "start": 1013.64,
+      "duration": 1.76
+    },
+    {
+      "text": "Oh, god, this is the best chance you've ever",
+      "start": 1015.4,
+      "duration": 1.56
+    },
+    {
+      "text": "had to kill your grandma.",
+      "start": 1016.96,
+      "duration": 0.96
+    },
+    {
+      "text": "Oh, a grenade.",
+      "start": 1022.12,
+      "duration": 2.52
+    },
+    {
+      "text": "OK.",
+      "start": 1024.64,
+      "duration": 1.68
+    },
+    {
+      "text": "Excellent.",
+      "start": 1026.36,
+      "duration": 1.56
+    },
+    {
+      "text": "Excellent.",
+      "start": 1027.92,
+      "duration": 1.8
+    },
+    {
+      "text": "Granny.",
+      "start": 1029.72,
+      "duration": 0.72
+    },
+    {
+      "text": "It will be very painful for you.",
+      "start": 1030.44,
+      "duration": 3.96
+    },
+    {
+      "text": "Yeah.",
+      "start": 1034.4,
+      "duration": 2.24
+    },
+    {
+      "text": "Dude.",
+      "start": 1036.64,
+      "duration": 0.64
+    },
+    {
+      "text": "You killed your grandmother.",
+      "start": 1037.28,
+      "duration": 1.36
+    },
+    {
+      "text": "Hell, yeah.",
+      "start": 1038.64,
+      "duration": 0.56
+    },
+    {
+      "text": "Oh, Arin, I'm so proud.",
+      "start": 1039.2,
+      "duration": 1.2
+    },
+    {
+      "text": "Wow, she's really floating up there.",
+      "start": 1040.4,
+      "duration": 3.04
+    },
+    {
+      "text": "I'm dead.",
+      "start": 1043.44,
+      "duration": 1.8
+    },
+    {
+      "text": "It happened.",
+      "start": 1045.24,
+      "duration": 1.04
+    },
+    {
+      "text": "All right, second level time.",
+      "start": 1046.28,
+      "duration": 1.4
+    },
+    {
+      "text": "Wow.",
+      "start": 1047.68,
+      "duration": 2.12
+    },
+    {
+      "text": "Amazing.",
+      "start": 1049.8,
+      "duration": 1.16
+    },
+    {
+      "text": "This game fucking rules.",
+      "start": 1050.96,
+      "duration": 2.96
+    },
+    {
+      "text": "I'm sorry to say.",
+      "start": 1053.92,
+      "duration": 3.08
+    },
+    {
+      "text": "I turned off the lights, Granny.",
+      "start": 1057.0,
+      "duration": 2.68
+    },
+    {
+      "text": "You think the darkness is your ally?",
+      "start": 1059.68,
+      "duration": 4.64
+    },
+    {
+      "text": "I was born for a minute.",
+      "start": 1064.32,
+      "duration": 3.12
+    },
+    {
+      "text": "Hold in my hand.",
+      "start": 1067.44,
+      "duration": 1.36
+    },
+    {
+      "text": "Batman.",
+      "start": 1072.0,
+      "duration": 0.5
+    },
+    {
+      "text": "This is the same fucking stage.",
+      "start": 1075.68,
+      "duration": 3.36
+    },
+    {
+      "text": "It's just dark, I guess.",
+      "start": 1079.04,
+      "duration": 1.12
+    },
+    {
+      "text": "Batman.",
+      "start": 1080.16,
+      "duration": 1.6
+    },
+    {
+      "text": "Ow.",
+      "start": 1081.76,
+      "duration": 0.96
+    },
+    {
+      "text": "You're a rascal.",
+      "start": 1082.72,
+      "duration": 0.64
+    },
+    {
+      "text": "Oh, baby's little head to go boom, boom.",
+      "start": 1086.16,
+      "duration": 4.96
+    },
+    {
+      "text": "Yes.",
+      "start": 1091.12,
+      "duration": 0.56
+    },
+    {
+      "text": "Oops.",
+      "start": 1091.68,
+      "duration": 0.76
+    },
+    {
+      "text": "Keys to open the doors.",
+      "start": 1092.44,
+      "duration": 4.2
+    },
+    {
+      "text": "Tinky, tinky, tinky, tinky, tinky, tinky, tinky.",
+      "start": 1096.64,
+      "duration": 4.8
+    },
+    {
+      "text": "Granny.",
+      "start": 1101.44,
+      "duration": 2.6
+    },
+    {
+      "text": "It's 11.14 AM, and it's dark outside, too.",
+      "start": 1104.04,
+      "duration": 4.12
+    },
+    {
+      "text": "Yes.",
+      "start": 1108.16,
+      "duration": 1.2
+    },
+    {
+      "text": "That doesn't make any sense.",
+      "start": 1109.36,
+      "duration": 1.32
+    },
+    {
+      "text": "Key.",
+      "start": 1112.88,
+      "duration": 2.04
+    },
+    {
+      "text": "Where the fuck is she?",
+      "start": 1114.92,
+      "duration": 3.24
+    },
+    {
+      "text": "Granny.",
+      "start": 1118.16,
+      "duration": 1.36
+    },
+    {
+      "text": "Oh.",
+      "start": 1119.52,
+      "duration": 0.52
+    },
+    {
+      "text": "Yes.",
+      "start": 1122.68,
+      "duration": 2.52
+    },
+    {
+      "text": "Balls in the head.",
+      "start": 1125.2,
+      "duration": 2.92
+    },
+    {
+      "text": "I'm sorry, Granny.",
+      "start": 1128.12,
+      "duration": 1.72
+    },
+    {
+      "text": "Oopsie poopsie.",
+      "start": 1129.84,
+      "duration": 1.32
+    },
+    {
+      "text": "Your time has come.",
+      "start": 1131.16,
+      "duration": 1.64
+    },
+    {
+      "text": "Shit.",
+      "start": 1132.8,
+      "duration": 2.52
+    },
+    {
+      "text": "A weapon.",
+      "start": 1135.32,
+      "duration": 1.2
+    },
+    {
+      "text": "Yes.",
+      "start": 1136.52,
+      "duration": 0.5
+    },
+    {
+      "text": "Beepity boopity beepity boopity beepity boop.",
+      "start": 1137.08,
+      "duration": 2.0
+    },
+    {
+      "text": "Tea time, Granny.",
+      "start": 1147.08,
+      "duration": 4.08
+    },
+    {
+      "text": "Yes.",
+      "start": 1151.16,
+      "duration": 0.5
+    },
+    {
+      "text": "Oh, shit.",
+      "start": 1155.64,
+      "duration": 2.24
+    },
+    {
+      "text": "A ladle.",
+      "start": 1157.88,
+      "duration": 0.56
+    },
+    {
+      "text": "Yes, Granny.",
+      "start": 1161.64,
+      "duration": 2.0
+    },
+    {
+      "text": "I am coming for you.",
+      "start": 1163.64,
+      "duration": 2.64
+    },
+    {
+      "text": "It will be very painful.",
+      "start": 1166.36,
+      "duration": 1.68
+    },
+    {
+      "text": "Granny to check on the fuse box in the attic.",
+      "start": 1171.32,
+      "duration": 2.72
+    },
+    {
+      "text": "Oh, man.",
+      "start": 1176.52,
+      "duration": 0.96
+    },
+    {
+      "text": "See you ladle, Granny.",
+      "start": 1177.48,
+      "duration": 1.92
+    },
+    {
+      "text": "Yes.",
+      "start": 1182.12,
+      "duration": 0.5
+    },
+    {
+      "text": "Ladle, gadle.",
+      "start": 1190.44,
+      "duration": 1.2
+    },
+    {
+      "text": "Oh, god.",
+      "start": 1192.68,
+      "duration": 0.64
+    },
+    {
+      "text": "Look out.",
+      "start": 1193.32,
+      "duration": 3.52
+    },
+    {
+      "text": "She has the concentrated power of piss clams.",
+      "start": 1196.84,
+      "duration": 2.56
+    },
+    {
+      "text": "Looks like I'll have to make you a high glass citizen.",
+      "start": 1203.24,
+      "duration": 4.56
+    },
+    {
+      "text": "Wow.",
+      "start": 1209.96,
+      "duration": 0.72
+    },
+    {
+      "text": "Pretty good.",
+      "start": 1210.68,
+      "duration": 0.88
+    },
+    {
+      "text": "Excuse me.",
+      "start": 1211.56,
+      "duration": 0.88
+    },
+    {
+      "text": "Oops.",
+      "start": 1212.44,
+      "duration": 0.56
+    },
+    {
+      "text": "Shit.\nOops.",
+      "start": 1213.0,
+      "duration": 0.74
+    },
+    {
+      "text": "Oops, oops, oops.",
+      "start": 1214.36,
+      "duration": 0.88
+    },
+    {
+      "text": "Ow.",
+      "start": 1215.24,
+      "duration": 0.56
+    },
+    {
+      "text": "My little baby head.",
+      "start": 1215.8,
+      "duration": 1.04
+    },
+    {
+      "text": "My dirty little naughty baby head.",
+      "start": 1218.6,
+      "duration": 1.68
+    },
+    {
+      "text": "That did not hurt.",
+      "start": 1221.64,
+      "duration": 0.8
+    },
+    {
+      "text": "I need something stronger.",
+      "start": 1223.96,
+      "duration": 2.08
+    },
+    {
+      "text": "Something more murdery.",
+      "start": 1229.4,
+      "duration": 2.16
+    },
+    {
+      "text": "I will find weapons galore in the weapons store.",
+      "start": 1233.32,
+      "duration": 5.68
+    },
+    {
+      "text": "To the right.",
+      "start": 1242.28,
+      "duration": 0.56
+    },
+    {
+      "text": "It's time for the grenade.",
+      "start": 1246.2,
+      "duration": 2.88
+    },
+    {
+      "text": "Out.",
+      "start": 1249.08,
+      "duration": 0.5
+    },
+    {
+      "text": "Shit.",
+      "start": 1251.32,
+      "duration": 0.64
+    },
+    {
+      "text": "Open.",
+      "start": 1251.96,
+      "duration": 0.8
+    },
+    {
+      "text": "For fuck's sake.",
+      "start": 1252.76,
+      "duration": 0.72
+    },
+    {
+      "text": "Grenade obtained.",
+      "start": 1254.84,
+      "duration": 1.84
+    },
+    {
+      "text": "And now.",
+      "start": 1257.8,
+      "duration": 0.96
+    },
+    {
+      "text": "The show must go on.",
+      "start": 1261.88,
+      "duration": 1.2
+    },
+    {
+      "text": "The weapons of ass destruction.",
+      "start": 1263.96,
+      "duration": 2.64
+    },
+    {
+      "text": "Granny's and Granny's ass.",
+      "start": 1268.84,
+      "duration": 1.12
+    },
+    {
+      "text": "Just to clarify.",
+      "start": 1269.96,
+      "duration": 4.4
+    },
+    {
+      "text": "Oh.",
+      "start": 1274.36,
+      "duration": 0.56
+    },
+    {
+      "text": "Don't.",
+      "start": 1274.92,
+      "duration": 0.5
+    },
+    {
+      "text": "Blow your top, Granny.",
+      "start": 1276.76,
+      "duration": 1.84
+    },
+    {
+      "text": "Ha, ha, ha, ha, ha, ha, ha, ha, ha.",
+      "start": 1279.08,
+      "duration": 5.6
+    },
+    {
+      "text": "Oh.",
+      "start": 1284.68,
+      "duration": 0.5
+    },
+    {
+      "text": "Suck this cup.",
+      "start": 1286.04,
+      "duration": 0.64
+    },
+    {
+      "text": "I threw a glass at you.",
+      "start": 1287.8,
+      "duration": 1.12
+    },
+    {
+      "text": "Granny.",
+      "start": 1290.6,
+      "duration": 0.56
+    },
+    {
+      "text": "Oh, my god.",
+      "start": 1293.32,
+      "duration": 1.04
+    },
+    {
+      "text": "She just did something to gain a ton of health back.",
+      "start": 1294.36,
+      "duration": 2.8
+    },
+    {
+      "text": "Oh.",
+      "start": 1297.16,
+      "duration": 0.5
+    },
+    {
+      "text": "Your power is dwindling already.",
+      "start": 1298.44,
+      "duration": 2.4
+    },
+    {
+      "text": "I can feel your life force draining.",
+      "start": 1302.52,
+      "duration": 3.2
+    },
+    {
+      "text": "Yes.",
+      "start": 1307.72,
+      "duration": 0.5
+    },
+    {
+      "text": "K'nai.",
+      "start": 1309.56,
+      "duration": 0.5
+    },
+    {
+      "text": "Granny.",
+      "start": 1316.6,
+      "duration": 0.5
+    },
+    {
+      "text": "Oops.",
+      "start": 1318.28,
+      "duration": 0.5
+    },
+    {
+      "text": "Oh, shit.",
+      "start": 1318.78,
+      "duration": 0.5
+    },
+    {
+      "text": "Oops.",
+      "start": 1319.28,
+      "duration": 0.5
+    },
+    {
+      "text": "Oops.",
+      "start": 1319.78,
+      "duration": 0.5
+    },
+    {
+      "text": "That is a face plant if ever I've seen one.",
+      "start": 1321.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Get me up.",
+      "start": 1323.0,
+      "duration": 0.5
+    },
+    {
+      "text": "Fuck.",
+      "start": 1324.68,
+      "duration": 0.5
+    },
+    {
+      "text": "Have you ever taken ninja training, Granny?",
+      "start": 1328.84,
+      "duration": 1.68
+    },
+    {
+      "text": "Oops.",
+      "start": 1331.32,
+      "duration": 0.5
+    },
+    {
+      "text": "Get that hammer.",
+      "start": 1332.92,
+      "duration": 0.72
+    },
+    {
+      "text": "That was really effective.",
+      "start": 1333.64,
+      "duration": 1.44
+    },
+    {
+      "text": "Oh, that's where you can pick it up again.",
+      "start": 1335.64,
+      "duration": 1.36
+    },
+    {
+      "text": "Yes.",
+      "start": 1337.0,
+      "duration": 0.5
+    },
+    {
+      "text": "Oh, I'm out of keys.",
+      "start": 1339.88,
+      "duration": 0.8
+    },
+    {
+      "text": "Are you fucking kidding me?",
+      "start": 1340.68,
+      "duration": 1.12
+    },
+    {
+      "text": "I thought I collected like a thousand keys.",
+      "start": 1341.8,
+      "duration": 1.6
+    },
+    {
+      "text": "You used them all on the grenade.",
+      "start": 1343.4,
+      "duration": 1.84
+    },
+    {
+      "text": "I don't want the fucking power to turn back on.",
+      "start": 1345.24,
+      "duration": 2.64
+    },
+    {
+      "text": "Oh, shit.",
+      "start": 1349.64,
+      "duration": 0.96
+    },
+    {
+      "text": "Granny.",
+      "start": 1352.52,
+      "duration": 0.56
+    },
+    {
+      "text": "Where are you, Granny?",
+      "start": 1355.32,
+      "duration": 1.68
+    },
+    {
+      "text": "Hippy hoppy.",
+      "start": 1360.6,
+      "duration": 0.72
+    },
+    {
+      "text": "Like a little bunny.",
+      "start": 1364.2,
+      "duration": 1.12
+    },
+    {
+      "text": "A happy bunny.",
+      "start": 1366.44,
+      "duration": 1.12
+    },
+    {
+      "text": "A happy, silly, murdery bunny.",
+      "start": 1367.64,
+      "duration": 2.96
+    },
+    {
+      "text": "A funny bunny.",
+      "start": 1370.6,
+      "duration": 1.44
+    },
+    {
+      "text": "Baby jump.",
+      "start": 1375.48,
+      "duration": 0.5
+    },
+    {
+      "text": "Baby get key.",
+      "start": 1377.32,
+      "duration": 0.8
+    },
+    {
+      "text": "Baby jump.",
+      "start": 1378.12,
+      "duration": 0.5
+    },
+    {
+      "text": "Does he dab when he jumps?",
+      "start": 1379.8,
+      "duration": 1.76
+    },
+    {
+      "text": "Yes.",
+      "start": 1381.56,
+      "duration": 0.88
+    },
+    {
+      "text": "I think he does.",
+      "start": 1382.44,
+      "duration": 0.96
+    },
+    {
+      "text": "Yeah, that's ridiculous.",
+      "start": 1383.4,
+      "duration": 1.76
+    },
+    {
+      "text": "Oh, what is this?",
+      "start": 1385.16,
+      "duration": 1.44
+    },
+    {
+      "text": "What is this?",
+      "start": 1389.24,
+      "duration": 0.5
+    },
+    {
+      "text": "Who thought of this?",
+      "start": 1390.44,
+      "duration": 0.8
+    },
+    {
+      "text": "It's like a lamp.",
+      "start": 1391.24,
+      "duration": 0.5
+    },
+    {
+      "text": "Granny has enough fuses to turn the power back on.",
+      "start": 1392.92,
+      "duration": 2.56
+    },
+    {
+      "text": "I refuse to let her be refused.",
+      "start": 1395.56,
+      "duration": 4.16
+    },
+    {
+      "text": "I don't even know where it is.",
+      "start": 1399.72,
+      "duration": 0.96
+    },
+    {
+      "text": "Check the refuse box.",
+      "start": 1402.12,
+      "duration": 1.68
+    },
+    {
+      "text": "Shit.",
+      "start": 1406.12,
+      "duration": 0.8
+    },
+    {
+      "text": "Granny's regaining health at an alarming rate.",
+      "start": 1406.92,
+      "duration": 2.4
+    },
+    {
+      "text": "Oh my god.",
+      "start": 1409.32,
+      "duration": 0.64
+    },
+    {
+      "text": "She's a healer, that one.",
+      "start": 1411.16,
+      "duration": 1.2
+    },
+    {
+      "text": "Which is why I have to end her.",
+      "start": 1414.52,
+      "duration": 1.76
+    },
+    {
+      "text": "She cannot.",
+      "start": 1418.92,
+      "duration": 0.88
+    },
+    {
+      "text": "Cannot make it through the night or day.",
+      "start": 1421.08,
+      "duration": 3.68
+    },
+    {
+      "text": "It's the middle of the day.",
+      "start": 1425.48,
+      "duration": 2.64
+    },
+    {
+      "text": "It's literally noon.",
+      "start": 1428.12,
+      "duration": 1.2
+    },
+    {
+      "text": "It's so dark.",
+      "start": 1430.6,
+      "duration": 0.88
+    },
+    {
+      "text": "Where did you go, Granny?",
+      "start": 1433.8,
+      "duration": 1.44
+    },
+    {
+      "text": "Just here at the distance.",
+      "start": 1437.32,
+      "duration": 1.04
+    },
+    {
+      "text": "Where did you go, Granny?",
+      "start": 1439.56,
+      "duration": 2.08
+    },
+    {
+      "text": "She just sees the looming baby shadow.",
+      "start": 1444.6,
+      "duration": 1.84
+    },
+    {
+      "text": "Granny!",
+      "start": 1446.44,
+      "duration": 0.5
+    },
+    {
+      "text": "Oh, man.",
+      "start": 1448.2,
+      "duration": 1.44
+    },
+    {
+      "text": "That is very effective.",
+      "start": 1449.64,
+      "duration": 1.92
+    },
+    {
+      "text": "Yeah, it certainly is.",
+      "start": 1451.56,
+      "duration": 0.96
+    },
+    {
+      "text": "Get up.",
+      "start": 1454.44,
+      "duration": 0.5
+    },
+    {
+      "text": "Get up, you fool.",
+      "start": 1455.88,
+      "duration": 0.96
+    },
+    {
+      "text": "You silly billy.",
+      "start": 1458.76,
+      "duration": 1.28
+    },
+    {
+      "text": "Shit.",
+      "start": 1462.92,
+      "duration": 0.5
+    },
+    {
+      "text": "Granny.",
+      "start": 1465.72,
+      "duration": 0.5
+    },
+    {
+      "text": "GRANNY!",
+      "start": 1469.0,
+      "duration": 0.5
+    },
+    {
+      "text": "Oh my god.",
+      "start": 1472.2,
+      "duration": 0.72
+    },
+    {
+      "text": "You're mine now.",
+      "start": 1473.8,
+      "duration": 1.12
+    },
+    {
+      "text": "Just hear the shuffling feet.",
+      "start": 1476.2,
+      "duration": 1.44
+    },
+    {
+      "text": "Considering it's one in the afternoon, it's very dark out.",
+      "start": 1479.0,
+      "duration": 3.92
+    },
+    {
+      "text": "That's what I'm saying.",
+      "start": 1482.92,
+      "duration": 0.72
+    },
+    {
+      "text": "You turn off the lights.",
+      "start": 1484.12,
+      "duration": 1.92
+    },
+    {
+      "text": "Why didn't they make it like 11 at night?",
+      "start": 1486.04,
+      "duration": 1.76
+    },
+    {
+      "text": "I don't know.",
+      "start": 1488.36,
+      "duration": 0.96
+    },
+    {
+      "text": "I don't quite understand.",
+      "start": 1489.32,
+      "duration": 1.6
+    },
+    {
+      "text": "I guess that's past your bedtime.",
+      "start": 1490.92,
+      "duration": 1.28
+    },
+    {
+      "text": "But it's also past my murder time.",
+      "start": 1493.56,
+      "duration": 3.12
+    },
+    {
+      "text": "So true.",
+      "start": 1497.4,
+      "duration": 0.64
+    },
+    {
+      "text": "To the Halloween level.",
+      "start": 1498.04,
+      "duration": 1.12
+    },
+    {
+      "text": "Oh god.",
+      "start": 1499.16,
+      "duration": 0.64
+    },
+    {
+      "text": "Sorry, the H-ween level.",
+      "start": 1500.68,
+      "duration": 1.28
+    },
+    {
+      "text": "Well, it's actually time for next time on Game Grumps.",
+      "start": 1503.0,
+      "duration": 1.6
+    },
+    {
+      "text": "Is there really?",
+      "start": 1504.6,
+      "duration": 0.56
+    },
+    {
+      "text": "Yeah.",
+      "start": 1505.16,
+      "duration": 0.48
+    },
+    {
+      "text": "Oh shit.",
+      "start": 1505.64,
+      "duration": 0.64
+    },
+    {
+      "text": "Oh my god, listen to this Danny Elfman ass music.",
+      "start": 1509.16,
+      "duration": 2.16
+    },
+    {
+      "text": "Running baby.",
+      "start": 1512.76,
+      "duration": 0.72
+    },
+    {
+      "text": "Bim bim bim bim bim bim bim bim bim bim.",
+      "start": 1513.64,
+      "duration": 4.48
+    },
+    {
+      "text": "Where can I find you, Granny?",
+      "start": 1518.12,
+      "duration": 1.68
+    },
+    {
+      "text": "Candy.",
+      "start": 1520.92,
+      "duration": 0.72
+    },
+    {
+      "text": "Candy for baby.",
+      "start": 1523.08,
+      "duration": 0.8
+    },
+    {
+      "text": "We like candy.",
+      "start": 1523.88,
+      "duration": 0.88
+    },
+    {
+      "text": "Alright, next time on Game Grumps.",
+      "start": 1525.64,
+      "duration": 1.2
+    },
+    {
+      "text": "Dude, this was a blast.",
+      "start": 1526.84,
+      "duration": 1.68
+    },
+    {
+      "text": "If you wanted us to try to beat Granny.",
+      "start": 1528.52,
+      "duration": 2.4
+    },
+    {
+      "text": "Oven timer?",
+      "start": 1531.48,
+      "duration": 0.88
+    },
+    {
+      "text": "We must.",
+      "start": 1535.4,
+      "duration": 0.56
+    },
+    {
+      "text": "We must burn Granny alive.",
+      "start": 1537.0,
+      "duration": 1.92
+    },
+    {
+      "text": "Yes.",
+      "start": 1540.2,
+      "duration": 0.5
+    },
+    {
+      "text": "Alright, bye.",
+      "start": 1542.44,
+      "duration": 0.56
+    },
+    {
+      "text": "Goodbye, sir.",
+      "start": 1543.64,
+      "duration": 0.72
+    }
+  ]
+}

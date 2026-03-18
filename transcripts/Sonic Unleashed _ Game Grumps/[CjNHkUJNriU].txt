@@ -1,0 +1,2048 @@
+{
+  "video_id": "CjNHkUJNriU",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "A: Hey, I'm Grump!",
+      "start": 0.0,
+      "duration": 0.9
+    },
+    {
+      "text": "D: I'm not-so-Grump!",
+      "start": 0.9,
+      "duration": 1.28
+    },
+    {
+      "text": "Both: And we're the Game Grumps!",
+      "start": 2.64,
+      "duration": 2.12
+    },
+    {
+      "text": "A: Now welcome back to Skittles Grumps.\nDan: Hello.",
+      "start": 5.38,
+      "duration": 2.14
+    },
+    {
+      "text": "D: We are both enjoying some skittles.",
+      "start": 7.68,
+      "duration": 1.86
+    },
+    {
+      "text": "D: Classic, classic Grump style.",
+      "start": 10.0,
+      "duration": 1.439
+    },
+    {
+      "text": "A: Yeah, I don't know why I...",
+      "start": 11.439,
+      "duration": 1.191
+    },
+    {
+      "text": "A: started this episode.",
+      "start": 13.66,
+      "duration": 1.28
+    },
+    {
+      "text": "A: I still have like a-- like a full--",
+      "start": 15.37,
+      "duration": 2.41
+    },
+    {
+      "text": "A: square-inch wad.",
+      "start": 18.78,
+      "duration": 1.82
+    },
+    {
+      "text": "D: Of Skittles?",
+      "start": 21.24,
+      "duration": 0.78
+    },
+    {
+      "text": "A: Yeah.",
+      "start": 22.02,
+      "duration": 0.56
+    },
+    {
+      "text": "D: Oh God, that's how I used to eat them.",
+      "start": 22.64,
+      "duration": 1.18
+    },
+    {
+      "text": "A: Mmh.",
+      "start": 24.44,
+      "duration": 0.5
+    },
+    {
+      "text": "A: How do you eat 'em now?",
+      "start": 25.78,
+      "duration": 0.92
+    },
+    {
+      "text": "A: Like a pussy?",
+      "start": 27.1,
+      "duration": 0.78
+    },
+    {
+      "text": "D: Yeah, I'm-I'm like-",
+      "start": 28.74,
+      "duration": 1.049
+    },
+    {
+      "text": "A: Do you eat 'em like a pussy now?",
+      "start": 29.789,
+      "duration": 1.451
+    },
+    {
+      "text": "D: Uh-huh.",
+      "start": 31.36,
+      "duration": 0.5
+    },
+    {
+      "text": "D: I take a grape one and I put it on the end of my tongue and I'm like..",
+      "start": 32.22,
+      "duration": 2.66
+    },
+    {
+      "text": "D: Bleh leh leh leh. *Arin laughs*",
+      "start": 34.88,
+      "duration": 2.82
+    },
+    {
+      "text": "D: Super delicious.\n*Arin mimics Dan*",
+      "start": 38.8,
+      "duration": 1.54
+    },
+    {
+      "text": "A: Oh, I'm almost done.",
+      "start": 41.1,
+      "duration": 1.26
+    },
+    {
+      "text": "A: Yeah-",
+      "start": 42.98,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Okay there we go. Skittles are down.\nA: Yeah, yeah-",
+      "start": 43.48,
+      "duration": 2.52
+    },
+    {
+      "text": "D: How are you doing everyb--\nA: Suck it down-",
+      "start": 46.0,
+      "duration": 0.98
+    },
+    {
+      "text": "A: Suck it down.",
+      "start": 46.98,
+      "duration": 1.0
+    },
+    {
+      "text": "D: This, by the way, uh- quick shout out",
+      "start": 48.16,
+      "duration": 2.0
+    },
+    {
+      "text": "*Dan laughs*",
+      "start": 50.16,
+      "duration": 0.58
+    },
+    {
+      "text": "D: to my 8 year old Scottish friend who told me he",
+      "start": 50.74,
+      "duration": 3.86
+    },
+    {
+      "text": "D: *while laughing* watches this show now.",
+      "start": 54.6,
+      "duration": 1.26
+    },
+    {
+      "text": "D: Thanks, great, terrific.",
+      "start": 56.66,
+      "duration": 2.06
+    },
+    {
+      "text": "A: I had a guy--",
+      "start": 59.32,
+      "duration": 1.16
+    },
+    {
+      "text": "D: Hello, Harris.",
+      "start": 60.48,
+      "duration": 1.26
+    },
+    {
+      "text": "A: I had a guy who is like, uh--",
+      "start": 61.74,
+      "duration": 1.195
+    },
+    {
+      "text": "D: Please don't repeat anything we say to your mom.",
+      "start": 62.94,
+      "duration": 2.08
+    },
+    {
+      "text": "A: I had a guy who had to work on something at my house.",
+      "start": 65.26,
+      "duration": 2.28
+    },
+    {
+      "text": "D: Mm-hm.",
+      "start": 67.54,
+      "duration": 0.5
+    },
+    {
+      "text": "A: And he was like--he's like, \"What do you do?\" and I was like,",
+      "start": 68.94,
+      "duration": 2.42
+    },
+    {
+      "text": "A: \"You like video game shit?\"",
+      "start": 72.18,
+      "duration": 1.48
+    },
+    {
+      "text": "A: \"I, like, talk over video games,\" and he was like,",
+      "start": 74.56,
+      "duration": 2.18
+    },
+    {
+      "text": "A: \"Oh! My son's like way into that stuff. Yeah, yeah, he prolly knows you,\" and I was like \"How old's your son?\"",
+      "start": 76.86,
+      "duration": 5.12
+    },
+    {
+      "text": "A: He was like \"Eight.\" And I was like, \"He doesn't know me.\"",
+      "start": 81.98,
+      "duration": 1.74
+    },
+    {
+      "text": "D: Yeah.",
+      "start": 83.88,
+      "duration": 0.5
+    },
+    {
+      "text": "D: If he does know me,",
+      "start": 84.42,
+      "duration": 1.6
+    },
+    {
+      "text": "D: Uh--",
+      "start": 86.1,
+      "duration": 0.6
+    },
+    {
+      "text": "D: Y-You've got a lot of problems on your hands.",
+      "start": 87.14,
+      "duration": 1.7
+    },
+    {
+      "text": "A: Yeah.",
+      "start": 88.84,
+      "duration": 0.5
+    },
+    {
+      "text": "D: 'Cause he-- it means he knows a lot of shit-- oh, we forgot to turn the air off.",
+      "start": 90.1,
+      "duration": 3.52
+    },
+    {
+      "text": "D: Oh fiddlesticks.",
+      "start": 94.84,
+      "duration": 0.78
+    },
+    {
+      "text": "A: Whatever, who cares?",
+      "start": 95.62,
+      "duration": 1.04
+    },
+    {
+      "text": "D: Really?",
+      "start": 96.66,
+      "duration": 0.6
+    },
+    {
+      "text": "A: I mean, we can turn it off now.",
+      "start": 97.26,
+      "duration": 1.255
+    },
+    {
+      "text": "D: Yeah, I'll turn it off now, hold on, I'll be right back.",
+      "start": 98.52,
+      "duration": 1.8
+    },
+    {
+      "text": "A: We're just--we're just so fucking, we're in the zone bro. We're in the zone.",
+      "start": 100.32,
+      "duration": 3.76
+    },
+    {
+      "text": "A: There's too much comedy coming out of us for it to pay attention to things like fucking air and, like, the production value.",
+      "start": 104.88,
+      "duration": 5.46
+    },
+    {
+      "text": "*Dan speaking in the background*",
+      "start": 110.7,
+      "duration": 1.4
+    },
+    {
+      "text": "A: Jesus... Fuckin' Dan over here forgot to turn off the air.",
+      "start": 112.2,
+      "duration": 4.56
+    },
+    {
+      "text": "A: It was all Dan's fault.",
+      "start": 116.76,
+      "duration": 0.723
+    },
+    {
+      "text": "*speaking to Dan* Sorry, I didn't turn off the air.",
+      "start": 117.483,
+      "duration": 1.417
+    },
+    {
+      "text": "D: That's okay. It's all my fault. According to you--",
+      "start": 118.92,
+      "duration": 2.8
+    },
+    {
+      "text": "A: No, it's not-- what, who would even say that?",
+      "start": 121.8,
+      "duration": 2.34
+    },
+    {
+      "text": "*Dan laughs*",
+      "start": 124.14,
+      "duration": 0.5
+    },
+    {
+      "text": "A: That's rude, dude.",
+      "start": 124.64,
+      "duration": 1.18
+    },
+    {
+      "text": "D: By the way how're those rallies, fries, and skittles like--",
+      "start": 125.82,
+      "duration": 2.88
+    },
+    {
+      "text": "D: rally-- ru-- uh...",
+      "start": 128.7,
+      "duration": 1.48
+    },
+    {
+      "text": "D: Rattling around in your stomach?",
+      "start": 130.18,
+      "duration": 1.1
+    },
+    {
+      "text": "A: Oh man, it's like when--it's like when two warring gangs",
+      "start": 131.28,
+      "duration": 2.922
+    },
+    {
+      "text": "A: show up at the same party--\n*Dan starts laughing*",
+      "start": 134.202,
+      "duration": 1.518
+    },
+    {
+      "text": "*Dan laughs*",
+      "start": 135.78,
+      "duration": 0.74
+    },
+    {
+      "text": "A: Like, shit gets real awkward, and then suddenly, an explosion.",
+      "start": 136.52,
+      "duration": 3.06
+    },
+    {
+      "text": "D: Ooh, speaking of which, did I send you that video?",
+      "start": 139.7,
+      "duration": 3.12
+    },
+    {
+      "text": "A: It's the Great Wall of China, dude.",
+      "start": 143.12,
+      "duration": 1.34
+    },
+    {
+      "text": "D: The Lone Digger video?",
+      "start": 144.46,
+      "duration": 1.1
+    },
+    {
+      "text": "A: Look at this.",
+      "start": 145.56,
+      "duration": 0.8
+    },
+    {
+      "text": "A: What? No.",
+      "start": 146.36,
+      "duration": 0.66
+    },
+    {
+      "text": "D: Oh, man, there's a--",
+      "start": 147.02,
+      "duration": 1.62
+    },
+    {
+      "text": "D: there's a video, uh",
+      "start": 149.269,
+      "duration": 1.5
+    },
+    {
+      "text": "called Lone Digger by um,",
+      "start": 150.769,
+      "duration": 2.0
+    },
+    {
+      "text": "D: a band called Caravan Palace--",
+      "start": 153.319,
+      "duration": 2.24
+    },
+    {
+      "text": "A: Yeah?",
+      "start": 155.56,
+      "duration": 0.5
+    },
+    {
+      "text": "D: And it's, the animation's fucking awesome.",
+      "start": 156.06,
+      "duration": 2.279
+    },
+    {
+      "text": "A: Cool man. I love good animation.",
+      "start": 158.339,
+      "duration": 1.621
+    },
+    {
+      "text": "D: It's very like--it's very violent, and there's a lot of sexiness",
+      "start": 159.96,
+      "duration": 3.96
+    },
+    {
+      "text": "D: Umm--",
+      "start": 164.5,
+      "duration": 0.48
+    },
+    {
+      "text": "D: And it's rad.",
+      "start": 164.98,
+      "duration": 1.22
+    },
+    {
+      "text": "A: Show me.",
+      "start": 166.2,
+      "duration": 0.78
+    },
+    {
+      "text": "D: Okay. It's about these cats that go into a strip club.",
+      "start": 166.98,
+      "duration": 3.42
+    },
+    {
+      "text": "D: I mean, anthropomorphized cats.",
+      "start": 170.4,
+      "duration": 1.74
+    },
+    {
+      "text": "D: um... and uh...",
+      "start": 172.7,
+      "duration": 2.0
+    },
+    {
+      "text": "D: There's a hot deer stripper or perhaps a gazelle or antelope,",
+      "start": 175.88,
+      "duration": 3.68
+    },
+    {
+      "text": "A: Mhm-hm.",
+      "start": 179.92,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Um-",
+      "start": 180.42,
+      "duration": 0.54
+    },
+    {
+      "text": "D: stripping and dancing and-- but the cats,",
+      "start": 181.52,
+      "duration": 2.98
+    },
+    {
+      "text": "D: Uh-",
+      "start": 184.66,
+      "duration": 0.5
+    },
+    {
+      "text": "D: sit next to a bunch of dogs,",
+      "start": 185.26,
+      "duration": 2.0
+    },
+    {
+      "text": "D: uh, who are also there to have a good time.",
+      "start": 187.28,
+      "duration": 2.36
+    },
+    {
+      "text": "A: Mhm-hm.",
+      "start": 189.64,
+      "duration": 0.5
+    },
+    {
+      "text": "D: And uh, not surprisingly, things don't go well.",
+      "start": 190.18,
+      "duration": 3.12
+    },
+    {
+      "text": "A: Oh shit.",
+      "start": 193.301,
+      "duration": 1.019
+    },
+    {
+      "text": "D: Yeah, but it's rad it's--it's one of the coolest videos I've seen in a while.",
+      "start": 194.32,
+      "duration": 3.388
+    },
+    {
+      "text": "A: Well, I'll check it out.",
+      "start": 198.98,
+      "duration": 1.78
+    },
+    {
+      "text": "D: What do you have to say tiny douche?",
+      "start": 200.76,
+      "duration": 1.8
+    },
+    {
+      "text": "A: Why wouldn't I think that on my own?!",
+      "start": 204.16,
+      "duration": 2.088
+    },
+    {
+      "text": "A: Why wouldn't I have that own thought process in my head?!",
+      "start": 206.248,
+      "duration": 3.192
+    },
+    {
+      "text": "A: There's a fucking switch!",
+      "start": 209.44,
+      "duration": 1.14
+    },
+    {
+      "text": "A: Why wouldn't I think that it does something?",
+      "start": 211.0,
+      "duration": 1.98
+    },
+    {
+      "text": "D: It's a switch two feet away from an obstacle",
+      "start": 212.98,
+      "duration": 1.88
+    },
+    {
+      "text": "D: you can't pass unless you move the switch.",
+      "start": 214.86,
+      "duration": 2.1
+    },
+    {
+      "text": "A: *stammering* Why do I need this guy to show up?",
+      "start": 216.96,
+      "duration": 2.5
+    },
+    {
+      "text": "A: And be like, \"What's this switch?\"",
+      "start": 220.34,
+      "duration": 1.86
+    },
+    {
+      "text": "A: I don't fucking know, that's what I'm wondering!",
+      "start": 222.2,
+      "duration": 1.98
+    },
+    {
+      "text": "D: 'Cause you're six years old, Arin.",
+      "start": 224.18,
+      "duration": 1.28
+    },
+    {
+      "text": "A: I'm not six!",
+      "start": 225.82,
+      "duration": 0.66
+    },
+    {
+      "text": "*Dan laughs*",
+      "start": 226.58,
+      "duration": 1.18
+    },
+    {
+      "text": "D: I'm not!",
+      "start": 227.76,
+      "duration": 1.06
+    },
+    {
+      "text": "A: I'm not!",
+      "start": 228.82,
+      "duration": 0.82
+    },
+    {
+      "text": "A: Where's my bib?",
+      "start": 230.58,
+      "duration": 1.28
+    },
+    {
+      "text": "D: No-wuh!",
+      "start": 231.86,
+      "duration": 1.02
+    },
+    {
+      "text": "D: Boy, watching you flop around like a dog",
+      "start": 233.44,
+      "duration": 3.22
+    },
+    {
+      "text": "D: that's like on a floor that was recently waxed too much--",
+      "start": 236.66,
+      "duration": 3.2
+    },
+    {
+      "text": "A: It's-- aw, what the fucking shit.",
+      "start": 239.96,
+      "duration": 2.1
+    },
+    {
+      "text": "A: Are you kidding me with this bullshit goddamn air man",
+      "start": 242.06,
+      "duration": 2.98
+    },
+    {
+      "text": "D: Th-That--",
+      "start": 245.04,
+      "duration": 0.5
+    },
+    {
+      "text": "*Arin ranting* A: bullshit.",
+      "start": 245.6,
+      "duration": 1.42
+    },
+    {
+      "text": "D: You're-- I don't know why this floor is so slippery.",
+      "start": 247.34,
+      "duration": 2.28
+    },
+    {
+      "text": "A: It's because I'm a wolf, dude.",
+      "start": 249.639,
+      "duration": 1.841
+    },
+    {
+      "text": "A; That's--That's how all the floors are.",
+      "start": 251.48,
+      "duration": 1.56
+    },
+    {
+      "text": "D: It's funny.",
+      "start": 253.04,
+      "duration": 0.5
+    },
+    {
+      "text": "D: That's how all the floors are when your're a wolf.",
+      "start": 253.66,
+      "duration": 1.98
+    },
+    {
+      "text": "D: Oh, they're blowing you off 'cause they're fans.",
+      "start": 255.64,
+      "duration": 1.88
+    },
+    {
+      "text": "D: Your biggest fans.\n*Arin starts laughing*",
+      "start": 257.88,
+      "duration": 1.32
+    },
+    {
+      "text": "D: Wow, alright.",
+      "start": 259.2,
+      "duration": 1.46
+    },
+    {
+      "text": "A: That sentence was so fuckin' real, dude.",
+      "start": 260.66,
+      "duration": 2.7
+    },
+    {
+      "text": "D: They'll blow you off 'cause they're fans?",
+      "start": 263.36,
+      "duration": 1.72
+    },
+    {
+      "text": "*Dan and Arin laughing*",
+      "start": 265.08,
+      "duration": 2.18
+    },
+    {
+      "text": "D: Wow--",
+      "start": 267.58,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Ah, no! NOOOOO!!\nD: Jeez, Arin--",
+      "start": 268.14,
+      "duration": 1.82
+    },
+    {
+      "text": "D: I mean--",
+      "start": 270.52,
+      "duration": 0.5
+    },
+    {
+      "text": "A: I gotta stop running.",
+      "start": 271.24,
+      "duration": 1.38
+    },
+    {
+      "text": "D: Yeah, you gotta go slow. \nA: That's the problem.",
+      "start": 272.62,
+      "duration": 1.4
+    },
+    {
+      "text": "D: No shit.",
+      "start": 274.02,
+      "duration": 0.58
+    },
+    {
+      "text": "A: This is the problem.",
+      "start": 274.6,
+      "duration": 0.84
+    },
+    {
+      "text": "A: Well, it's like, they give you it and it's like,",
+      "start": 275.44,
+      "duration": 2.18
+    },
+    {
+      "text": "A: I just want to get there fast.",
+      "start": 277.62,
+      "duration": 1.0
+    },
+    {
+      "text": "D: Oh-",
+      "start": 278.62,
+      "duration": 0.5
+    },
+    {
+      "text": "A: It's like, I don't want to be here.",
+      "start": 279.12,
+      "duration": 0.96
+    },
+    {
+      "text": "D: I don't wanna be playing this anymore.",
+      "start": 280.38,
+      "duration": 1.66
+    },
+    {
+      "text": "A: It's like, the only thrill I get out of this fuckin' game is to see what's next.",
+      "start": 282.05,
+      "duration": 4.11
+    },
+    {
+      "text": "A: And then I'm like,",
+      "start": 286.16,
+      "duration": 0.68
+    },
+    {
+      "text": "A: \"Oh, more shit? Okay.\"",
+      "start": 286.84,
+      "duration": 1.96
+    },
+    {
+      "text": "A: And then I just get depressed again.",
+      "start": 288.8,
+      "duration": 1.58
+    },
+    {
+      "text": "D: Yeah. I just want to be disappointed faster.",
+      "start": 290.4,
+      "duration": 2.32
+    },
+    {
+      "text": "*Arin laughs*",
+      "start": 292.82,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Exactly.",
+      "start": 293.48,
+      "duration": 1.26
+    },
+    {
+      "text": "A: Like-- it's like scrolling through a fucking Twitter feed.",
+      "start": 294.74,
+      "duration": 3.0
+    },
+    {
+      "text": "A: It's like, \"I don't care, I don't care, I don't care, I don't care...\"",
+      "start": 297.74,
+      "duration": 2.08
+    },
+    {
+      "text": "A: If I had to fucking wade through each Tweet I don't care about for 10 minutes,",
+      "start": 299.82,
+      "duration": 4.3
+    },
+    {
+      "text": "I'd be like, \"Ah, fucking goddamn it.\"",
+      "start": 304.12,
+      "duration": 1.54
+    },
+    {
+      "text": "D: Right.",
+      "start": 305.92,
+      "duration": 0.5
+    },
+    {
+      "text": "A: I would just-- I would just turn it off!",
+      "start": 306.42,
+      "duration": 1.62
+    },
+    {
+      "text": "D: Completely understandable.",
+      "start": 308.04,
+      "duration": 1.44
+    },
+    {
+      "text": "D: Take your time.",
+      "start": 309.52,
+      "duration": 1.18
+    },
+    {
+      "text": "A: 'Cause there's always that one thing where I'm like,",
+      "start": 310.7,
+      "duration": 1.7
+    },
+    {
+      "text": "A: \"Oh yeah, I guess I kinda care about that.\"",
+      "start": 312.4,
+      "duration": 2.3
+    },
+    {
+      "text": "A: And then I don't remember it in like three minutes.",
+      "start": 315.6,
+      "duration": 1.6
+    },
+    {
+      "text": "D: Yeah-- I can't recall what I'm talking about right now.",
+      "start": 317.44,
+      "duration": 2.78
+    },
+    {
+      "text": "A: Social media, man.",
+      "start": 320.22,
+      "duration": 0.92
+    },
+    {
+      "text": "D: Oh, yeah.",
+      "start": 321.3,
+      "duration": 0.5
+    },
+    {
+      "text": "A: It's ruining our lives, dude.",
+      "start": 322.6,
+      "duration": 2.38
+    },
+    {
+      "text": "D: It is design--",
+      "start": 324.98,
+      "duration": 0.56
+    },
+    {
+      "text": "*Arin screams*",
+      "start": 325.58,
+      "duration": 1.36
+    },
+    {
+      "text": "A: Oh God,",
+      "start": 327.14,
+      "duration": 0.5
+    },
+    {
+      "text": "*Dan laughs*",
+      "start": 327.76,
+      "duration": 1.08
+    },
+    {
+      "text": "A: Sorry I screamed like a baby there.",
+      "start": 328.84,
+      "duration": 1.28
+    },
+    {
+      "text": "*Dan continues to laugh*",
+      "start": 330.18,
+      "duration": 1.78
+    },
+    {
+      "text": "D: It is designed to, uh, keep you addicted.",
+      "start": 332.62,
+      "duration": 2.78
+    },
+    {
+      "text": "D: The-- The scrolling aspect is actually, uh, designed",
+      "start": 336.04,
+      "duration": 4.08
+    },
+    {
+      "text": "D: Um--",
+      "start": 341.04,
+      "duration": 0.5
+    },
+    {
+      "text": "D: you know the--the,",
+      "start": 342.02,
+      "duration": 1.16
+    },
+    {
+      "text": "D: the research they did showed that that's what keeps people the most hooked,",
+      "start": 343.18,
+      "duration": 3.9
+    },
+    {
+      "text": "D: and the most addicted to it for the longest period of time.",
+      "start": 347.08,
+      "duration": 1.94
+    },
+    {
+      "text": "A: Ah, it makes sense.",
+      "start": 349.52,
+      "duration": 1.02
+    },
+    {
+      "text": "D: Yeah.",
+      "start": 350.54,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Because it never ends.",
+      "start": 351.04,
+      "duration": 1.0
+    },
+    {
+      "text": "D: Right and it's always like--",
+      "start": 352.1,
+      "duration": 1.289
+    },
+    {
+      "text": "A: There's sometimes when like Facebook glitches--",
+      "start": 353.389,
+      "duration": 1.851
+    },
+    {
+      "text": "A: or Twitter glitches, and then it just like, doesn't load anymore,",
+      "start": 355.24,
+      "duration": 2.701
+    },
+    {
+      "text": "A: and I'm like,",
+      "start": 357.941,
+      "duration": 0.718
+    },
+    {
+      "text": "A: \"Well, I guess I'm done.\"",
+      "start": 358.66,
+      "duration": 0.92
+    },
+    {
+      "text": "D: Yeah, I did all the Facebook today.",
+      "start": 359.58,
+      "duration": 1.64
+    },
+    {
+      "text": "A: Yeah, and then I just stop.",
+      "start": 361.22,
+      "duration": 1.78
+    },
+    {
+      "text": "D: Yeah.",
+      "start": 363.36,
+      "duration": 0.5
+    },
+    {
+      "text": "A: 'Cause obviously there's nothing more to do.",
+      "start": 363.86,
+      "duration": 1.06
+    },
+    {
+      "text": "D: And then you're happier.",
+      "start": 364.92,
+      "duration": 1.171
+    },
+    {
+      "text": "A: Yeah, exactly.",
+      "start": 366.091,
+      "duration": 0.728
+    },
+    {
+      "text": "D: You move on with your life.",
+      "start": 366.82,
+      "duration": 1.6
+    },
+    {
+      "text": "A: And then I can like, say hello to my wife.",
+      "start": 368.42,
+      "duration": 1.46
+    },
+    {
+      "text": "A: And then she's like, \"Finally.\"",
+      "start": 370.64,
+      "duration": 1.8
+    },
+    {
+      "text": "*Arin laughs*",
+      "start": 372.44,
+      "duration": 0.5
+    },
+    {
+      "text": "A: \"I've been standing here for 40 minutes.\"",
+      "start": 373.18,
+      "duration": 2.06
+    },
+    {
+      "text": "*Dan laughs and Arin burps*",
+      "start": 376.34,
+      "duration": 2.0
+    },
+    {
+      "text": "A: She more addicted than I am dude. I'm fuckin'--",
+      "start": 378.7,
+      "duration": 2.753
+    },
+    {
+      "text": "D: Suzy is?",
+      "start": 381.453,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Oh yeah... well she's got, she's gotta,",
+      "start": 381.953,
+      "duration": 2.338
+    },
+    {
+      "text": "D: Her business is more online.",
+      "start": 384.291,
+      "duration": 1.769
+    },
+    {
+      "text": "A: She can multitask.",
+      "start": 386.75,
+      "duration": 1.57
+    },
+    {
+      "text": "D: She can?",
+      "start": 388.32,
+      "duration": 0.68
+    },
+    {
+      "text": "A: Yeah, I can't do that shit.",
+      "start": 389.26,
+      "duration": 1.8
+    },
+    {
+      "text": "D: What about the,",
+      "start": 391.06,
+      "duration": 0.98
+    },
+    {
+      "text": "D: studies that have come out to say no one can multitask?",
+      "start": 392.87,
+      "duration": 3.489
+    },
+    {
+      "text": "A: Well, I don't know. \nD: Like, you can, like,",
+      "start": 396.359,
+      "duration": 2.411
+    },
+    {
+      "text": "D: technically get away with it, but the human mind is only capable of really concentrating on one thing.",
+      "start": 399.74,
+      "duration": 5.676
+    },
+    {
+      "text": "A: Well, my point is that, like--",
+      "start": 405.42,
+      "duration": 1.52
+    },
+    {
+      "text": "A: I-- *stammering*",
+      "start": 408.16,
+      "duration": 1.38
+    },
+    {
+      "text": "A: I-- I just focus too much on one thing and tune everything else out.",
+      "start": 410.42,
+      "duration": 3.22
+    },
+    {
+      "text": "D: Uh yeah-- well yeah, I mean, I think that's pretty normal.",
+      "start": 414.16,
+      "duration": 2.7
+    },
+    {
+      "text": "A: So... well, so she can like, have a-- a",
+      "start": 416.86,
+      "duration": 3.14
+    },
+    {
+      "text": "D: A decent conversation?",
+      "start": 420.88,
+      "duration": 1.0
+    },
+    {
+      "text": "A: She can have a show on in the background and still talk.",
+      "start": 421.9,
+      "duration": 2.52
+    },
+    {
+      "text": "A: Or like do something else.",
+      "start": 425.48,
+      "duration": 1.28
+    },
+    {
+      "text": "D: Right.",
+      "start": 426.76,
+      "duration": 0.5
+    },
+    {
+      "text": "A: I can't do that.",
+      "start": 427.26,
+      "duration": 0.84
+    },
+    {
+      "text": "D: Me neither.",
+      "start": 428.1,
+      "duration": 0.5
+    },
+    {
+      "text": "*short ironic pause*",
+      "start": 428.6,
+      "duration": 0.5
+    },
+    {
+      "text": "A: I-- I just, I'm like,",
+      "start": 429.1,
+      "duration": 1.1
+    },
+    {
+      "text": "A: She'll-- She'll be sittin'--",
+      "start": 430.72,
+      "duration": 1.2
+    },
+    {
+      "text": "A: And I've told her like a million times--",
+      "start": 431.925,
+      "duration": 1.465
+    },
+    {
+      "text": "A: I think she finally gets it, but like,",
+      "start": 433.39,
+      "duration": 2.17
+    },
+    {
+      "text": "A: because it's hard when you don't-- when that's not your life,",
+      "start": 435.56,
+      "duration": 1.84
+    },
+    {
+      "text": "A: you know? Like,",
+      "start": 437.52,
+      "duration": 1.04
+    },
+    {
+      "text": "A: when you're explaining--\nD: Right.",
+      "start": 438.57,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Like I can't do that, so well, I'll do it anyway. You know?",
+      "start": 439.07,
+      "duration": 2.29
+    },
+    {
+      "text": "D: Yeah, yeah, yeah.",
+      "start": 441.36,
+      "duration": 0.92
+    },
+    {
+      "text": "A: It's like, I've done that with a ton of people but, like,",
+      "start": 442.28,
+      "duration": 1.34
+    },
+    {
+      "text": "A: it's-- it's-- it,",
+      "start": 444.46,
+      "duration": 1.42
+    },
+    {
+      "text": "A: If-- If there's a show on, I'm either paying attention to the conversation",
+      "start": 446.36,
+      "duration": 3.08
+    },
+    {
+      "text": "A: or I'm paying attention to the show.",
+      "start": 449.44,
+      "duration": 1.12
+    },
+    {
+      "text": "D: Right, but who knows how much of that show she's actually retaining.",
+      "start": 450.56,
+      "duration": 2.72
+    },
+    {
+      "text": "A: Well, that...",
+      "start": 453.92,
+      "duration": 0.94
+    },
+    {
+      "text": "D: Like if you quizzed her on it afterwards.",
+      "start": 455.48,
+      "duration": 1.34
+    },
+    {
+      "text": "D: Like, would she really--",
+      "start": 457.72,
+      "duration": 1.44
+    },
+    {
+      "text": "A: Well, that's not the point.",
+      "start": 459.16,
+      "duration": 0.78
+    },
+    {
+      "text": "D: No?",
+      "start": 460.04,
+      "duration": 0.5
+    },
+    {
+      "text": "A: My-- My point is like, literally--",
+      "start": 460.54,
+      "duration": 0.98
+    },
+    {
+      "text": "A: She'll be saying something, and I just won't even,",
+      "start": 461.56,
+      "duration": 2.82
+    },
+    {
+      "text": "D: Right.",
+      "start": 464.38,
+      "duration": 0.5
+    },
+    {
+      "text": "A: realize that she's talking.",
+      "start": 464.88,
+      "duration": 1.332
+    },
+    {
+      "text": "D: Oh, yeah.",
+      "start": 466.212,
+      "duration": 0.64
+    },
+    {
+      "text": "A: Because I'm just watching the show.",
+      "start": 466.852,
+      "duration": 1.727
+    },
+    {
+      "text": "D: Gotcha.",
+      "start": 468.579,
+      "duration": 0.641
+    },
+    {
+      "text": "A: An-- And then she'll be like \"What do you think?\" And I'm like,",
+      "start": 469.91,
+      "duration": 2.985
+    },
+    {
+      "text": "D: \"It's a good show.\"",
+      "start": 472.9,
+      "duration": 0.6
+    },
+    {
+      "text": "A: \"What?\"",
+      "start": 473.56,
+      "duration": 0.7
+    },
+    {
+      "text": "A: \"Were you saying something-- Oh my God,",
+      "start": 474.8,
+      "duration": 1.78
+    },
+    {
+      "text": "A: were you saying something? I'm sorry. I just-- I--",
+      "start": 476.58,
+      "duration": 1.9
+    },
+    {
+      "text": "A: my brain can't fucking do that.",
+      "start": 478.48,
+      "duration": 1.5
+    },
+    {
+      "text": "D: Wow.",
+      "start": 479.98,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Umm--",
+      "start": 481.04,
+      "duration": 0.52
+    },
+    {
+      "text": "A: And I think it's because of the ADD or whatever but--",
+      "start": 482.02,
+      "duration": 2.24
+    },
+    {
+      "text": "D: Yeah, and also, just...",
+      "start": 484.26,
+      "duration": 1.76
+    },
+    {
+      "text": "A: Oh yeah, yeah.",
+      "start": 486.58,
+      "duration": 1.34
+    },
+    {
+      "text": "A: But there are some people that can just-- fuckin'-- they can just---",
+      "start": 488.32,
+      "duration": 2.9
+    },
+    {
+      "text": "A: they could do-- they could go back and forth like really quickly.",
+      "start": 491.22,
+      "duration": 1.96
+    },
+    {
+      "text": "D: Maybe.",
+      "start": 493.18,
+      "duration": 0.5
+    },
+    {
+      "text": "A: I can't do that.",
+      "start": 493.68,
+      "duration": 1.2
+    },
+    {
+      "text": "D: Oof.",
+      "start": 494.88,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Doesn't sound like much fun.",
+      "start": 495.74,
+      "duration": 1.32
+    },
+    {
+      "text": "A: It's not!",
+      "start": 497.54,
+      "duration": 0.5
+    },
+    {
+      "text": "*Arin laughs*",
+      "start": 498.04,
+      "duration": 1.0
+    },
+    {
+      "text": "A: It's sucks!",
+      "start": 499.04,
+      "duration": 1.06
+    },
+    {
+      "text": "D: It's a huge point of tension in my marriage,",
+      "start": 500.1,
+      "duration": 1.48
+    },
+    {
+      "text": "D: thanks for bringing it up.\nA: Goddamn!",
+      "start": 501.58,
+      "duration": 1.42
+    },
+    {
+      "text": "A: It's, the only reason I know,",
+      "start": 503.256,
+      "duration": 0.844
+    },
+    {
+      "text": "A: The only reason I know that, like, there is a difference, is because I have medication for ADD.",
+      "start": 505.46,
+      "duration": 6.0
+    },
+    {
+      "text": "D: Right.",
+      "start": 511.46,
+      "duration": 0.5
+    },
+    {
+      "text": "A: So,",
+      "start": 511.96,
+      "duration": 0.5
+    },
+    {
+      "text": "A: when I do that, I'm like, \"Oh fuck, I can just fucking have a conversation and carry it on, it's no big deal.\"",
+      "start": 513.08,
+      "duration": 4.78
+    },
+    {
+      "text": "A: Um, I can just switch gears, you know.",
+      "start": 518.8,
+      "duration": 1.88
+    },
+    {
+      "text": "A: But when I have ADD, it's just like... *sounds to indicate exhaustion*",
+      "start": 521.1,
+      "duration": 2.96
+    },
+    {
+      "text": "A: It's tough.",
+      "start": 525.26,
+      "duration": 0.9
+    },
+    {
+      "text": "A: So... that's how I know. I've-- I've been in two different pla--",
+      "start": 526.82,
+      "duration": 3.18
+    },
+    {
+      "text": "A: Even though it's like, it's speed, I guess.",
+      "start": 530.0,
+      "duration": 2.2
+    },
+    {
+      "text": "*Arin laughs*",
+      "start": 532.2,
+      "duration": 0.7
+    },
+    {
+      "text": "D: Yeah.",
+      "start": 532.98,
+      "duration": 0.5
+    },
+    {
+      "text": "A: I've been told it's just like cocaine or whatever.",
+      "start": 533.48,
+      "duration": 2.14
+    },
+    {
+      "text": "A: Which, y'know? Whatever.",
+      "start": 537.12,
+      "duration": 1.314
+    },
+    {
+      "text": "D: I mean, what are you gonna do?",
+      "start": 538.44,
+      "duration": 1.68
+    },
+    {
+      "text": "A: It's fucking-",
+      "start": 540.12,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Everyone-- Everyone does speed from time to time.",
+      "start": 540.66,
+      "duration": 1.54
+    },
+    {
+      "text": "*Arin laughs*",
+      "start": 542.2,
+      "duration": 0.92
+    },
+    {
+      "text": "A: Well, it's like, the doctor's giving it to me, I can't be like, \"Well...",
+      "start": 543.12,
+      "duration": 2.6
+    },
+    {
+      "text": "D: Yeah.",
+      "start": 545.72,
+      "duration": 0.5
+    },
+    {
+      "text": "A: I dunno about that, Doc.\"",
+      "start": 546.76,
+      "duration": 0.76
+    },
+    {
+      "text": "A: I dunno about that, Doc.\"\nD: My dealer wears a lab coat, so...",
+      "start": 547.56,
+      "duration": 1.32
+    },
+    {
+      "text": "*Arin laughs and Dan joins in*",
+      "start": 549.04,
+      "duration": 2.84
+    },
+    {
+      "text": "A: Ahh, why'd he turn around?! Ah, shit!",
+      "start": 552.08,
+      "duration": 1.98
+    },
+    {
+      "text": "A: Okay!",
+      "start": 554.07,
+      "duration": 0.56
+    },
+    {
+      "text": "D: Okay.",
+      "start": 554.63,
+      "duration": 0.82
+    },
+    {
+      "text": "A: Am I supposed to kill him because he helped me, kinda...",
+      "start": 555.45,
+      "duration": 2.51
+    },
+    {
+      "text": "D: I don't know-- yeah. I guess you are.",
+      "start": 557.96,
+      "duration": 2.02
+    },
+    {
+      "text": "A: But that's all I'm saying man: ADD sucks, it's no fun.",
+      "start": 561.18,
+      "duration": 3.78
+    },
+    {
+      "text": "A: It's no fun.",
+      "start": 566.08,
+      "duration": 0.5
+    },
+    {
+      "text": "A: And whenever somebody's like \"Well, what if it contributes to my creativity?\"",
+      "start": 567.18,
+      "duration": 3.3
+    },
+    {
+      "text": "A: It doesn't, it doesn't. It's just inhibits you.",
+      "start": 570.5,
+      "duration": 2.36
+    },
+    {
+      "text": "D: Is that right?",
+      "start": 572.86,
+      "duration": 0.7
+    },
+    {
+      "text": "A: That's it. I died.",
+      "start": 573.56,
+      "duration": 1.12
+    },
+    {
+      "text": "*Dan giggles*",
+      "start": 575.06,
+      "duration": 0.68
+    },
+    {
+      "text": "D: Yeeeaaaah!",
+      "start": 575.94,
+      "duration": 1.26
+    },
+    {
+      "text": "A: Because when I fu-- it's-- ah--",
+      "start": 577.2,
+      "duration": 1.4
+    },
+    {
+      "text": "A: The only-- The only thing it inhibits--",
+      "start": 579.36,
+      "duration": 2.18
+    },
+    {
+      "text": "A: I don't know why I'm eating skittles on the show when it's--",
+      "start": 581.54,
+      "duration": 1.76
+    },
+    {
+      "text": "D: I don't know why you're pouring them into your mouth.",
+      "start": 583.3,
+      "duration": 1.687
+    },
+    {
+      "text": "A: Well, they're good.",
+      "start": 584.987,
+      "duration": 0.542
+    },
+    {
+      "text": "D: Yeah, like a mongrel.",
+      "start": 585.53,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Don't call me that.",
+      "start": 588.18,
+      "duration": 1.12
+    },
+    {
+      "text": "D: Boy, you've been on Chun-Nan for a long time.",
+      "start": 589.3,
+      "duration": 1.94
+    },
+    {
+      "text": "A: Well, yeah. I gotta complete all the stages.",
+      "start": 591.24,
+      "duration": 1.76
+    },
+    {
+      "text": "D: Jeez.",
+      "start": 593.0,
+      "duration": 0.76
+    },
+    {
+      "text": "D: I'm so used to doing one thing in this game and then, uh,",
+      "start": 594.14,
+      "duration": 4.32
+    },
+    {
+      "text": "D: and then talking to villagers pointlessly for six hours.",
+      "start": 598.46,
+      "duration": 3.54
+    },
+    {
+      "text": "D: That's, uh--\nA: Yeah, they really have like,",
+      "start": 603.14,
+      "duration": 1.64
+    },
+    {
+      "text": "A: They built up the-- also,",
+      "start": 604.94,
+      "duration": 2.64
+    },
+    {
+      "text": "A: There's been, like, no regular Sonic stage forever.",
+      "start": 608.28,
+      "duration": 2.64
+    },
+    {
+      "text": "D: No, yeah.",
+      "start": 611.07,
+      "duration": 0.92
+    },
+    {
+      "text": "A: I feel like I've been exclusively werehog for the past, like, hour and a half.",
+      "start": 611.99,
+      "duration": 3.25
+    },
+    {
+      "text": "D: And you have no control over when that happens, right?",
+      "start": 615.24,
+      "duration": 2.869
+    },
+    {
+      "text": "A: I don't think so.",
+      "start": 619.32,
+      "duration": 1.0
+    },
+    {
+      "text": "D: Yeah.",
+      "start": 620.32,
+      "duration": 0.68
+    },
+    {
+      "text": "A: Well, the stages are different.",
+      "start": 621.24,
+      "duration": 1.72
+    },
+    {
+      "text": "D: Right.",
+      "start": 622.96,
+      "duration": 0.5
+    },
+    {
+      "text": "D: This is just the werehog portion of the game.",
+      "start": 624.21,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Man, that sucks.",
+      "start": 627.09,
+      "duration": 1.31
+    },
+    {
+      "text": "D: Also, werehog... I feel dumber just saying it.",
+      "start": 628.4,
+      "duration": 2.96
+    },
+    {
+      "text": "A: I know, right.",
+      "start": 632.42,
+      "duration": 0.56
+    },
+    {
+      "text": "A: Well, the other thing, too, about this is like,",
+      "start": 633.98,
+      "duration": 2.26
+    },
+    {
+      "text": "D: \"Oh, werewolf-hedgehog--great idea for a game.\"",
+      "start": 636.24,
+      "duration": 2.74
+    },
+    {
+      "text": "*Arin laughs*",
+      "start": 638.98,
+      "duration": 0.95
+    },
+    {
+      "text": "D: Thanks, Ryan!",
+      "start": 639.93,
+      "duration": 0.79
+    },
+    {
+      "text": "A: Well, I said earlier, like...",
+      "start": 641.16,
+      "duration": 1.48
+    },
+    {
+      "text": "A: I don't like either portion--but it's nice to...",
+      "start": 643.68,
+      "duration": 2.5
+    },
+    {
+      "text": "A: switch it up.",
+      "start": 646.72,
+      "duration": 1.0
+    },
+    {
+      "text": "D: Right, right.",
+      "start": 647.94,
+      "duration": 1.12
+    },
+    {
+      "text": "A: Because, like this is fuckin'--",
+      "start": 649.08,
+      "duration": 1.48
+    },
+    {
+      "text": "D: It makes it more bearable when it's...",
+      "start": 650.56,
+      "duration": 1.56
+    },
+    {
+      "text": "D: constantly changing out.\nA: Yeah.",
+      "start": 652.66,
+      "duration": 1.38
+    },
+    {
+      "text": "D: Yeah.",
+      "start": 654.04,
+      "duration": 0.5
+    },
+    {
+      "text": "D: It's kind of like the little-- the little,",
+      "start": 654.76,
+      "duration": 2.48
+    },
+    {
+      "text": "D: Uhh...",
+      "start": 657.24,
+      "duration": 0.72
+    },
+    {
+      "text": "D: irrigation waterfall in your Japanese garden.",
+      "start": 658.28,
+      "duration": 2.533
+    },
+    {
+      "text": "D: Like, if it wasn't there",
+      "start": 660.813,
+      "duration": 1.267
+    },
+    {
+      "text": "D: the little pond area would quickly be overrun with scum.",
+      "start": 662.87,
+      "duration": 3.019
+    },
+    {
+      "text": "D: Because it's still water,",
+      "start": 667.18,
+      "duration": 1.76
+    },
+    {
+      "text": "D: and that keeps it fresh.",
+      "start": 669.52,
+      "duration": 1.373
+    },
+    {
+      "text": "A: It keeps it fresh because it's always flowing, always changing.",
+      "start": 671.34,
+      "duration": 2.78
+    },
+    {
+      "text": "D: Yeah, always frozen never fresh.",
+      "start": 674.12,
+      "duration": 1.56
+    },
+    {
+      "text": "A: Dude!",
+      "start": 675.68,
+      "duration": 0.5
+    },
+    {
+      "text": "A: I have, fucking, this is amazing!",
+      "start": 676.18,
+      "duration": 2.159
+    },
+    {
+      "text": "A: I don't know if I mentioned this to you--",
+      "start": 678.34,
+      "duration": 1.4
+    },
+    {
+      "text": "D: What's that?",
+      "start": 679.74,
+      "duration": 0.7
+    },
+    {
+      "text": "A: when you were over last... I have-- I have mollusks.",
+      "start": 680.44,
+      "duration": 2.96
+    },
+    {
+      "text": "A: They're creatures",
+      "start": 683.62,
+      "duration": 0.96
+    },
+    {
+      "text": "A: growing in my pond.",
+      "start": 685.34,
+      "duration": 1.36
+    },
+    {
+      "text": "D: What, how?",
+      "start": 686.7,
+      "duration": 0.5
+    },
+    {
+      "text": "A: I don't know!",
+      "start": 687.7,
+      "duration": 0.5
+    },
+    {
+      "text": "D: It's in your house!",
+      "start": 688.2,
+      "duration": 1.24
+    },
+    {
+      "text": "A: I know, right! But there's creatures in there!",
+      "start": 689.44,
+      "duration": 2.79
+    },
+    {
+      "text": "D: They didn't fly in from the sea!",
+      "start": 692.23,
+      "duration": 2.199
+    },
+    {
+      "text": "A: I guess they just, like, show up--",
+      "start": 694.429,
+      "duration": 1.911
+    },
+    {
+      "text": "A: I don't know how they do it.",
+      "start": 696.48,
+      "duration": 1.78
+    },
+    {
+      "text": "A: Like maybe they-- birds eat them and then they shit 'em out",
+      "start": 698.26,
+      "duration": 2.26
+    },
+    {
+      "text": "A: or they-- I don't know.\nD: They start as",
+      "start": 700.52,
+      "duration": 1.1
+    },
+    {
+      "text": "D: bacteria, and then they evolved?",
+      "start": 701.84,
+      "duration": 3.0
+    },
+    {
+      "text": "A: I guess, but there's creatures in there! There's like worms and shit,",
+      "start": 704.84,
+      "duration": 2.1
+    },
+    {
+      "text": "D: That's crazy.",
+      "start": 707.06,
+      "duration": 0.5
+    },
+    {
+      "text": "A: and they-- and they make shells!",
+      "start": 707.56,
+      "duration": 1.5
+    },
+    {
+      "text": "D: That's bizarre.",
+      "start": 709.64,
+      "duration": 1.07
+    },
+    {
+      "text": "A: They're-- They're mollusks that I found in my-- in my little contained pond.",
+      "start": 710.71,
+      "duration": 5.45
+    },
+    {
+      "text": "D: Yeah, in your tiny little, yeah.",
+      "start": 716.16,
+      "duration": 1.78
+    },
+    {
+      "text": "A: I found, like, a proto shell.",
+      "start": 717.94,
+      "duration": 1.935
+    },
+    {
+      "text": "D: That's bizarre.",
+      "start": 720.62,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Like a really thin, like, translucent shell shape.",
+      "start": 721.12,
+      "duration": 3.52
+    },
+    {
+      "text": "A: Fuck.",
+      "start": 725.06,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Isn't that crazy?",
+      "start": 726.8,
+      "duration": 1.18
+    },
+    {
+      "text": "D: That is, I'm trying to understand that at all.",
+      "start": 727.98,
+      "duration": 2.516
+    },
+    {
+      "text": "A: Life on Earth, man..",
+      "start": 730.496,
+      "duration": 1.144
+    },
+    {
+      "text": "D: I'm gonna think it over... next time on Game Grumps.",
+      "start": 731.65,
+      "duration": 2.61
+    },
+    {
+      "text": "A: Okay.",
+      "start": 734.26,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Okay, see you then.",
+      "start": 734.76,
+      "duration": 0.811
+    },
+    {
+      "text": "A: Well, maybe think it over before we start the episode so that we're not--",
+      "start": 735.571,
+      "duration": 3.029
+    },
+    {
+      "text": "A: No, no-- aaaaah-- okay.",
+      "start": 739.76,
+      "duration": 2.06
+    },
+    {
+      "text": "D: Trust me, bro. Don't even worry.",
+      "start": 741.82,
+      "duration": 2.04
+    },
+    {
+      "text": "D: I forgot what we were talking about long ago.",
+      "start": 743.86,
+      "duration": 2.74
+    },
+    {
+      "text": "A: Uh-oh, uh-oh, uh-oh--",
+      "start": 746.64,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Probably.",
+      "start": 747.14,
+      "duration": 0.64
+    },
+    {
+      "text": "A: Uh-oh, uh-oh...",
+      "start": 747.78,
+      "duration": 0.84
+    },
+    {
+      "text": "A: Fuck you!",
+      "start": 750.6,
+      "duration": 1.28
+    },
+    {
+      "text": "A: Ah, shit.",
+      "start": 751.88,
+      "duration": 0.96
+    },
+    {
+      "text": "A: This shit sucks, this shit sucks!",
+      "start": 753.6,
+      "duration": 2.14
+    },
+    {
+      "text": "*Arin and Danny jammin'*",
+      "start": 759.18,
+      "duration": 2.48
+    },
+    {
+      "text": "D: Is it better to just die and start over with three lives?",
+      "start": 761.66,
+      "duration": 2.12
+    },
+    {
+      "text": "A: Uhh...",
+      "start": 763.78,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Might as well.",
+      "start": 765.36,
+      "duration": 1.4
+    },
+    {
+      "text": "D: Yeah.",
+      "start": 766.76,
+      "duration": 0.5
+    },
+    {
+      "text": "A: There's nowhere to die.",
+      "start": 767.62,
+      "duration": 1.3
+    },
+    {
+      "text": "D: Aaahhh...",
+      "start": 768.92,
+      "duration": 0.7
+    },
+    {
+      "text": "A: Have to run back up to that guy. Might as well grab another Skittle in the meantime.",
+      "start": 769.959,
+      "duration": 4.641
+    },
+    {
+      "text": "D: Yeah, okay.",
+      "start": 774.6,
+      "duration": 1.228
+    }
+  ]
+}

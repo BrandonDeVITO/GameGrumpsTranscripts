@@ -1,0 +1,1438 @@
+{
+  "video_id": "e7KCZM51dsg",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Hey, I'm Grump, I'm not so Grump and we're the Game Grumps",
+      "start": 0.02,
+      "duration": 4.46
+    },
+    {
+      "text": "[Dan] Hey Arin. [Arin] What? [Dan] Can I share something with you from earlier today?",
+      "start": 5.46,
+      "duration": 2.84
+    },
+    {
+      "text": "[Arin] What is it Dan?",
+      "start": 8.889,
+      "duration": 2.191
+    },
+    {
+      "text": "[Dan] Well, I sent you a text early in the morning.",
+      "start": 11.08,
+      "duration": 2.239
+    },
+    {
+      "text": "[Arin] Yeah",
+      "start": 13.33,
+      "duration": 0.689
+    },
+    {
+      "text": "[Dan] Because I have to go out of town for one weekend,",
+      "start": 14.019,
+      "duration": 3.861
+    },
+    {
+      "text": "[Arin] Yeah",
+      "start": 17.88,
+      "duration": 0.882
+    },
+    {
+      "text": "[Dan] this month and so I was like,",
+      "start": 18.762,
+      "duration": 2.807
+    },
+    {
+      "text": "[Dan] I won't give specific dates, but I was like do you have any preference whether I go this weekend, or the next weekend. Your response,",
+      "start": 22.2,
+      "duration": 7.4
+    },
+    {
+      "text": "[Arin] *laughing*",
+      "start": 29.6,
+      "duration": 4.66
+    },
+    {
+      "text": "[Dan] At 9:30 in the morning.",
+      "start": 34.42,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] *laughing*",
+      "start": 36.42,
+      "duration": 2.0
+    },
+    {
+      "text": "[Dan, reading Arin's text] Motherfucking, Jesse Eisenberg. Jesus Christ, fuck dude, motherfucking Facebook movie bullshit. Jesus, can you fucking believe this shit?",
+      "start": 38.76,
+      "duration": 5.94
+    },
+    {
+      "text": "[Arin] *laughing*",
+      "start": 44.7,
+      "duration": 1.9
+    },
+    {
+      "text": "[Dan] N-  No punctuation,",
+      "start": 46.6,
+      "duration": 1.64
+    },
+    {
+      "text": "[Arin] You just made my day.",
+      "start": 48.24,
+      "duration": 1.46
+    },
+    {
+      "text": "[Dan] random capitalizations.",
+      "start": 49.7,
+      "duration": 1.3
+    },
+    {
+      "text": "[Arin] *still laughing*",
+      "start": 51.0,
+      "duration": 1.0
+    },
+    {
+      "text": "[Dan] So I respond, I have no idea what we're talking about right now.",
+      "start": 52.6,
+      "duration": 2.9
+    },
+    {
+      "text": "[Arin] *giggling*",
+      "start": 55.5,
+      "duration": 1.04
+    },
+    {
+      "text": "[Dan] 45 minutes pass,",
+      "start": 58.0,
+      "duration": 2.3
+    },
+    {
+      "text": "[Dan] I get a text from you.",
+      "start": 61.03,
+      "duration": 2.0
+    },
+    {
+      "text": "[Dan, reading Arin's text] Goddamn created Facebook and fucking lawyers and shit. Right fucking Winklevoss Twins. Goddamn rowing the boat. Fuck your shit",
+      "start": 63.309,
+      "duration": 5.84
+    },
+    {
+      "text": "I can't even fucking believe this shit. Have you seen this shit? Fuck, I just watched this shit. Fuck Jesse Eisenberg, man.",
+      "start": 69.15,
+      "duration": 4.619
+    },
+    {
+      "text": "[Arin] *laughs again*",
+      "start": 74.38,
+      "duration": 2.0
+    },
+    {
+      "text": "[Dan] I respond Arin, you're scaring me",
+      "start": 76.62,
+      "duration": 1.6
+    },
+    {
+      "text": "[Dan] An hour passes",
+      "start": 78.58,
+      "duration": 1.32
+    },
+    {
+      "text": "[Dan] You respond, motherfucking, Spider-Man. Spider-Man.",
+      "start": 80.24,
+      "duration": 2.16
+    },
+    {
+      "text": "You put in the time fuck put in the time. Motherfucking build shit with his bare hands. Fucking best friend shit, Jesse Eisenberg.",
+      "start": 82.4,
+      "duration": 5.06
+    },
+    {
+      "text": "I'm very tired",
+      "start": 88.7,
+      "duration": 0.96
+    },
+    {
+      "text": "[Arin] *laughs even harder*",
+      "start": 89.66,
+      "duration": 6.02
+    },
+    {
+      "text": "[Dan] I'm just like no problem, man. I'll do most to talking at the Grump session today",
+      "start": 95.8,
+      "duration": 4.86
+    },
+    {
+      "text": "[Dan] Immediate like response. I'm talking like five seconds later.",
+      "start": 101.82,
+      "duration": 3.98
+    },
+    {
+      "text": "[Dan] NO, MAN, I'LL JUST TALK ABOUT THE FACEBOOK MOVIE ALL DAY. SHIT MAN,",
+      "start": 105.8,
+      "duration": 2.0
+    },
+    {
+      "text": "YOU HAVE TO BE SO INTERESTED IN THE SHIT I HAVE TO SAY ABOUT THE FACEBOOK MOVIE. FUCK DUDE,",
+      "start": 108.0,
+      "duration": 3.06
+    },
+    {
+      "text": "I JUST WATCHED IT A YEAR AND A HALF AGO. FUCK JESSE EISENBERG MAN HE FUCKED OVER SPIDER-MAN CRAZY WINKLEVOSS TWINS ROWING.",
+      "start": 111.06,
+      "duration": 5.1
+    },
+    {
+      "text": "TRENT RESIN OR DID THE SOUNDTRACK. FUCK THIS GUY. WHO INVENTED FACEBOOK. I DON'T LIKE DIE",
+      "start": 116.8,
+      "duration": 4.55
+    },
+    {
+      "text": "I CANT THINK OF WHO THE FUCK INVENTED FACEBOOK.",
+      "start": 121.35,
+      "duration": 1.809
+    },
+    {
+      "text": "ALL I CAN THINK IS THE GUY WHO PLAYED THE GUY WHO INVENTED FACEBOOK. WHO THE FUCK INVENTED FACEBOOK?",
+      "start": 123.16,
+      "duration": 4.1
+    },
+    {
+      "text": "[Dan] And then in all capital letters,",
+      "start": 127.26,
+      "duration": 2.32
+    },
+    {
+      "text": "two hours later.",
+      "start": 129.7,
+      "duration": 1.58
+    },
+    {
+      "text": "MARK ZUCKERBURG!",
+      "start": 131.36,
+      "duration": 1.3
+    },
+    {
+      "text": "[Arin] *loses his shit*",
+      "start": 132.66,
+      "duration": 7.54
+    },
+    {
+      "text": "[Dan] What the fuck?",
+      "start": 140.22,
+      "duration": 2.14
+    },
+    {
+      "text": "[Arin] I swear to god, okay.",
+      "start": 142.36,
+      "duration": 1.12
+    },
+    {
+      "text": "[Arin] First of all,",
+      "start": 143.48,
+      "duration": 0.68
+    },
+    {
+      "text": "[Dan] *starts losing it*",
+      "start": 144.16,
+      "duration": 2.38
+    },
+    {
+      "text": "[Arin] I had to wake up supremely early.",
+      "start": 146.56,
+      "duration": 2.42
+    },
+    {
+      "text": "[Dan] I was CRYING reading those.",
+      "start": 148.98,
+      "duration": 3.1
+    },
+    {
+      "text": "[Arin] Really?",
+      "start": 152.08,
+      "duration": 0.74
+    },
+    {
+      "text": "[Dan] Yeah!",
+      "start": 152.82,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] Oh that makes me happy.",
+      "start": 153.32,
+      "duration": 1.42
+    },
+    {
+      "text": "[Dan] Well, I didn't want to like... I didn't want to call you out and be like,",
+      "start": 154.74,
+      "duration": 2.0
+    },
+    {
+      "text": "What are you talking about anymore, cuz I was afraid you'd stop.",
+      "start": 156.9,
+      "duration": 2.4
+    },
+    {
+      "text": "So I was just like I'll just calmly keep responding with my own agenda,",
+      "start": 159.94,
+      "duration": 3.709
+    },
+    {
+      "text": "and see what happens.",
+      "start": 164.56,
+      "duration": 0.929
+    },
+    {
+      "text": "[Arin] Uh I had to wake up way earlier than I usually wake up to take Barry to the",
+      "start": 165.489,
+      "duration": 6.491
+    },
+    {
+      "text": "airport and then on the way fuckin back, where the fuck is this fuckin bridge, on the way back",
+      "start": 172.24,
+      "duration": 6.86
+    },
+    {
+      "text": "I was just like so tired",
+      "start": 179.1,
+      "duration": 1.8
+    },
+    {
+      "text": "And I just I saw this wh...",
+      "start": 180.9,
+      "duration": 2.1
+    },
+    {
+      "text": "[Dan] You were texting that, while driving?",
+      "start": 183.0,
+      "duration": 1.98
+    },
+    {
+      "text": "[Arin] N- No no no no no. Here's the thing. That was all Siri,",
+      "start": 184.98,
+      "duration": 2.44
+    },
+    {
+      "text": "so that's why it was just fucking nonsense.",
+      "start": 187.42,
+      "duration": 4.02
+    },
+    {
+      "text": "[Dan] *laughing*",
+      "start": 191.44,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] Nope",
+      "start": 193.44,
+      "duration": 0.88
+    },
+    {
+      "text": "[Dan] That was insane",
+      "start": 194.32,
+      "duration": 2.46
+    },
+    {
+      "text": "[Arin] Um, but I as I was leaving the airport. I saw this fucking kid that looked just like Jesse Eisenberg,",
+      "start": 196.78,
+      "duration": 4.9
+    },
+    {
+      "text": "[Dan] Ohhh",
+      "start": 201.68,
+      "duration": 1.76
+    },
+    {
+      "text": "[Arin] and then it got me thinking about Jesse Eisenberg and the Facebook movie and then I was just like fucking Jesse Eisenberg man",
+      "start": 203.44,
+      "duration": 5.56
+    },
+    {
+      "text": "And then I had my phone in my hand because I was I just started the GPS situation",
+      "start": 209.01,
+      "duration": 4.62
+    },
+    {
+      "text": "[Dan] Oh, sure",
+      "start": 213.63,
+      "duration": 0.69
+    },
+    {
+      "text": "[Arin] and then I was just like",
+      "start": 214.32,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] *makes siri noise*",
+      "start": 216.32,
+      "duration": 1.02
+    },
+    {
+      "text": "[Dan] *laughs*",
+      "start": 217.34,
+      "duration": 1.06
+    },
+    {
+      "text": "[Arin] Hey",
+      "start": 218.4,
+      "duration": 1.48
+    },
+    {
+      "text": "hey, uh",
+      "start": 219.88,
+      "duration": 1.8
+    },
+    {
+      "text": "text Dan",
+      "start": 221.68,
+      "duration": 1.38
+    },
+    {
+      "text": "Fuck Jesse Eisenberg, man",
+      "start": 223.06,
+      "duration": 2.0
+    },
+    {
+      "text": "and then it just made me laugh really hard",
+      "start": 225.79,
+      "duration": 2.0
+    },
+    {
+      "text": "so I just kept going",
+      "start": 228.01,
+      "duration": 2.0
+    },
+    {
+      "text": "[Dan] *laughing*",
+      "start": 230.01,
+      "duration": 0.97
+    },
+    {
+      "text": "[Arin] and I was really surprised that it",
+      "start": 230.98,
+      "duration": 2.92
+    },
+    {
+      "text": "stayed on track with everything and I said.",
+      "start": 233.92,
+      "duration": 2.02
+    },
+    {
+      "text": "It is amazing. Can I tell you the voice I think you were talking to Siri in, now that I know that?",
+      "start": 235.94,
+      "duration": 4.42
+    },
+    {
+      "text": "[Arin] Yeah.",
+      "start": 240.36,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] Fuck it all, Spider-Man and shit. Fuckin doesn't even know fuckin.",
+      "start": 240.86,
+      "duration": 4.16
+    },
+    {
+      "text": "That's how I imagined it was",
+      "start": 245.4,
+      "duration": 1.46
+    },
+    {
+      "text": "[Arin] That is exactly how I was...",
+      "start": 246.86,
+      "duration": 2.36
+    },
+    {
+      "text": "[Dan] Wow, wow",
+      "start": 249.3,
+      "duration": 1.5
+    },
+    {
+      "text": "[Arin] I was just like, \"Fuckin Jesse Eisenberg and shit. Fuck. Trent Reznor did the music.\"",
+      "start": 250.8,
+      "duration": 4.86
+    },
+    {
+      "text": "[Dan] Trent Resin or.",
+      "start": 255.66,
+      "duration": 1.7
+    },
+    {
+      "text": "[Arin] *laughs*",
+      "start": 257.36,
+      "duration": 1.08
+    },
+    {
+      "text": "[Dan] R E S I N space O R",
+      "start": 258.44,
+      "duration": 3.02
+    },
+    {
+      "text": "[Dan] *laughs*",
+      "start": 261.46,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] Oh that shit made me... No, but seriously after I was done with that. I was",
+      "start": 263.54,
+      "duration": 4.86
+    },
+    {
+      "text": "that was an actual fucking text when I was like, \"what the hell is the guy who made Facebook's name?",
+      "start": 269.06,
+      "duration": 5.94
+    },
+    {
+      "text": "What the fuck is his name?\"",
+      "start": 275.4,
+      "duration": 1.7
+    },
+    {
+      "text": "[Dan] Yeah",
+      "start": 277.1,
+      "duration": 1.22
+    },
+    {
+      "text": "[Arin] and I was just like",
+      "start": 278.32,
+      "duration": 1.42
+    },
+    {
+      "text": "For fucking two hours of the ride home. I'm like",
+      "start": 279.74,
+      "duration": 2.76
+    },
+    {
+      "text": "*slaps his lap*",
+      "start": 282.5,
+      "duration": 1.45
+    },
+    {
+      "text": "What is his name?",
+      "start": 283.95,
+      "duration": 1.77
+    },
+    {
+      "text": "all I can think of is Jesse Eisenberg!",
+      "start": 285.72,
+      "duration": 2.8
+    },
+    {
+      "text": "[Dan] Yeah, it's and it's another burg name so it's close.",
+      "start": 288.52,
+      "duration": 2.38
+    },
+    {
+      "text": "[Arin] Yeah, and then and then finally like as I was fucking like pulling into my driveway, I was just like \"Mark Zuckerberg!\"",
+      "start": 290.9,
+      "duration": 6.8
+    },
+    {
+      "text": "And I had to be like text Dan, \"Mark Zuckerberg!\"",
+      "start": 297.74,
+      "duration": 3.82
+    },
+    {
+      "text": "[Dan] Oh my god. All caps, all caps.",
+      "start": 301.56,
+      "duration": 2.88
+    },
+    {
+      "text": "I'm fucking I mean honestly knowing that I'm lucky you didn't just fucking run over to my door and just start banging",
+      "start": 304.46,
+      "duration": 5.64
+    },
+    {
+      "text": "[Arin] *laughs*",
+      "start": 310.1,
+      "duration": 0.58
+    },
+    {
+      "text": "[Arin] *makes banging sound*",
+      "start": 310.68,
+      "duration": 0.98
+    },
+    {
+      "text": "[Arin] Oh my God that would have been fucking amazing!",
+      "start": 311.66,
+      "duration": 2.2
+    },
+    {
+      "text": "[Dan] Like at my window, just screaming, Mark Zuckerburg.",
+      "start": 313.86,
+      "duration": 2.82
+    },
+    {
+      "text": "[Arin] *laughs sligthly harder*",
+      "start": 316.68,
+      "duration": 1.72
+    },
+    {
+      "text": "[Arin] MARK ZUCKERBURG!",
+      "start": 318.4,
+      "duration": 1.8
+    },
+    {
+      "text": "[Dan] You've done all these, bro.",
+      "start": 320.2,
+      "duration": 0.92
+    },
+    {
+      "text": "[Arin] Yeah, but I got to do the 100 Coin Mission.",
+      "start": 321.6,
+      "duration": 2.0
+    },
+    {
+      "text": "[Dan] Ohhhhh, what does that mean?",
+      "start": 323.8,
+      "duration": 2.22
+    },
+    {
+      "text": "[Arin] You get a hund... you get 100 coins, and then you get a star.",
+      "start": 326.02,
+      "duration": 2.82
+    },
+    {
+      "text": "[Dan] *gasp*",
+      "start": 328.84,
+      "duration": 0.74
+    },
+    {
+      "text": "[Arin] Every... Every map has one.",
+      "start": 329.58,
+      "duration": 1.54
+    },
+    {
+      "text": "[Dan] Oh, ok.",
+      "start": 331.12,
+      "duration": 0.94
+    },
+    {
+      "text": "[Arin] They don't advertise it because...",
+      "start": 332.12,
+      "duration": 1.62
+    },
+    {
+      "text": "[Dan] That's like the finishing move.",
+      "start": 333.74,
+      "duration": 1.94
+    },
+    {
+      "text": "[Arin] This is the easiest map, in my opinion, to get all of the stars on, because um...",
+      "start": 335.68,
+      "duration": 4.2
+    },
+    {
+      "text": "it's super linear.",
+      "start": 340.56,
+      "duration": 1.76
+    },
+    {
+      "text": "[Dan] Cool.",
+      "start": 342.32,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] So, there's no like, oh it's over here.",
+      "start": 342.82,
+      "duration": 2.7
+    },
+    {
+      "text": "[Dan] Yeah",
+      "start": 345.52,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] it's all just like go up please.",
+      "start": 346.02,
+      "duration": 1.32
+    },
+    {
+      "text": "[Dan] You know what's interesting? Like, the more I watch this game... At first I was like...",
+      "start": 347.34,
+      "duration": 3.48
+    },
+    {
+      "text": "I'm having troub... Like I'm getting lost a lot of stuff looks the same like",
+      "start": 350.82,
+      "duration": 4.0
+    },
+    {
+      "text": "It really is pretty well defined once you get used to like looking at this",
+      "start": 354.86,
+      "duration": 4.66
+    },
+    {
+      "text": "[Arin] Yeah",
+      "start": 359.54,
+      "duration": 0.84
+    },
+    {
+      "text": "[Arin] Yeah, because this is a nightmare to look at",
+      "start": 360.58,
+      "duration": 1.62
+    },
+    {
+      "text": "[Dan] *slight chuckle*",
+      "start": 362.28,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] It's just the repeating patterns on the... On the surfaces",
+      "start": 362.78,
+      "duration": 3.76
+    },
+    {
+      "text": "[Arin] Right, its a nightmare to look at.",
+      "start": 366.54,
+      "duration": 1.92
+    },
+    {
+      "text": "[Arin] It's... It's just hideous this game.",
+      "start": 368.46,
+      "duration": 2.78
+    },
+    {
+      "text": "I'm not gonna give this game any points. Maybe it was great back then? Sure.",
+      "start": 371.96,
+      "duration": 4.2
+    },
+    {
+      "text": "[Dan] Oh I'm sure it was.",
+      "start": 376.16,
+      "duration": 0.98
+    },
+    {
+      "text": "[Arin] but, man is it ugly.",
+      "start": 377.14,
+      "duration": 2.0
+    },
+    {
+      "text": "[Dan] *chuckles*",
+      "start": 379.14,
+      "duration": 0.86
+    },
+    {
+      "text": "[Arin] It is a fucking disgusting guy. I mean, this is like... AH!",
+      "start": 380.0,
+      "duration": 3.74
+    },
+    {
+      "text": "[Dan] Oops, uh what would you say is the first beautiful Mario game?",
+      "start": 383.74,
+      "duration": 4.9
+    },
+    {
+      "text": "[Arin] Sunshine,",
+      "start": 390.44,
+      "duration": 1.06
+    },
+    {
+      "text": "Well, no fucking the first the... Mario 3. Is the most beautiful Mario game.",
+      "start": 391.5,
+      "duration": 5.97
+    },
+    {
+      "text": "[Dan] I actually, 2 is really beautiful to me, but in a weird way.",
+      "start": 397.47,
+      "duration": 4.289
+    },
+    {
+      "text": "[Dan] Um...",
+      "start": 401.76,
+      "duration": 0.58
+    },
+    {
+      "text": "[Arin] *makes barfing noise*",
+      "start": 402.54,
+      "duration": 0.72
+    },
+    {
+      "text": "[Dan] Yeah, I guess 3 is beautiful",
+      "start": 403.27,
+      "duration": 1.99
+    },
+    {
+      "text": "[Dan] 3 certainly set the tone for the way the rest of them looked",
+      "start": 406.26,
+      "duration": 3.52
+    },
+    {
+      "text": "[Arin] I'll want to lean away from you for a little while.",
+      "start": 409.78,
+      "duration": 1.64
+    },
+    {
+      "text": "[Dan] Dude are you kidding? I do it instinctively every time you open your mouth.",
+      "start": 411.449,
+      "duration": 2.731
+    },
+    {
+      "text": "[both] *laugh*",
+      "start": 414.18,
+      "duration": 3.9
+    },
+    {
+      "text": "[Arin] Hey, Dan. I want to tell you a secret. I just lead you off a cliff.",
+      "start": 418.2,
+      "duration": 5.18
+    },
+    {
+      "text": "[Dan] Woah.",
+      "start": 423.38,
+      "duration": 1.02
+    },
+    {
+      "text": "[Dan] Is- Is that a shadow?",
+      "start": 425.26,
+      "duration": 1.1
+    },
+    {
+      "text": "[Arin] Yeah, that is some- that is some N64 shadows.",
+      "start": 426.36,
+      "duration": 2.4
+    },
+    {
+      "text": "[Dan] No, It looks really good, It looks really good.",
+      "start": 428.76,
+      "duration": 2.28
+    },
+    {
+      "text": "[Arin] No, this game is absolutely gorgeous.",
+      "start": 431.04,
+      "duration": 2.54
+    },
+    {
+      "text": "[Dan] *laugh*",
+      "start": 433.58,
+      "duration": 1.32
+    },
+    {
+      "text": "[Arin] I mean it's like,",
+      "start": 434.9,
+      "duration": 2.0
+    },
+    {
+      "text": "It was okay cuz it was mind blowing back in the day,",
+      "start": 437.02,
+      "duration": 2.42
+    },
+    {
+      "text": "but this game came out after fucking Yoshi's island came out like one of the most beautiful 2 Dimensional games of all time.",
+      "start": 439.44,
+      "duration": 5.08
+    },
+    {
+      "text": "[Dan] That's true.",
+      "start": 444.52,
+      "duration": 1.34
+    },
+    {
+      "text": "[Dan] Well, that's the danger. You know?",
+      "start": 445.87,
+      "duration": 1.49
+    },
+    {
+      "text": "I mean like Out of this World was way ahead of its time in terms of like the motion and everything like that,",
+      "start": 447.36,
+      "duration": 5.13
+    },
+    {
+      "text": "but it looked very blocky you know?",
+      "start": 452.49,
+      "duration": 2.279
+    },
+    {
+      "text": "[Arin] You know what I it's endearing to me",
+      "start": 455.74,
+      "duration": 2.8
+    },
+    {
+      "text": "[Dan] To me too, me too...",
+      "start": 458.54,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] Where as this is,",
+      "start": 460.54,
+      "duration": 1.42
+    },
+    {
+      "text": "[Dan] *laughing*",
+      "start": 461.96,
+      "duration": 1.54
+    },
+    {
+      "text": "[Arin] just a travesty.",
+      "start": 463.5,
+      "duration": 0.96
+    },
+    {
+      "text": "[Dan] Well, you know what's interesting? Out of this World, like,",
+      "start": 464.46,
+      "duration": 2.02
+    },
+    {
+      "text": "it's almost so blocky that it leaves a lot to your imagination whereas this kind of spells things out more.",
+      "start": 467.68,
+      "duration": 5.359
+    },
+    {
+      "text": "[Arin] Oh, sure,",
+      "start": 473.04,
+      "duration": 1.02
+    },
+    {
+      "text": "[Dan] Which may be the reason for your reaction. You should get that coin, huh?",
+      "start": 474.06,
+      "duration": 3.22
+    },
+    {
+      "text": "[Arin] Eh, fuck coins.",
+      "start": 477.76,
+      "duration": 0.78
+    },
+    {
+      "text": "[Dan] Did you just say \"fuck coins\" on the get 100 coins mission?",
+      "start": 479.32,
+      "duration": 2.68
+    },
+    {
+      "text": "[Arin] No that was on the other map.",
+      "start": 482.0,
+      "duration": 1.26
+    },
+    {
+      "text": "[Dan] Ohhh",
+      "start": 483.26,
+      "duration": 1.34
+    },
+    {
+      "text": "[Arin] I was like fuck it cuz I died so I'm just doing this map, you haven't done this map yet",
+      "start": 484.6,
+      "duration": 4.4
+    },
+    {
+      "text": "[Dan] Oh, yeah, this is all new. Sorry.",
+      "start": 489.0,
+      "duration": 2.86
+    },
+    {
+      "text": "[Arin] It's fine.",
+      "start": 491.86,
+      "duration": 0.64
+    },
+    {
+      "text": "[Arin] Oh, that guy's gonna flip me. Check this shit out watch this.",
+      "start": 493.2,
+      "duration": 2.34
+    },
+    {
+      "text": "[Dan] The little fuckin wind-up spatula dude?",
+      "start": 495.54,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] Yeah, this motherfucker is gonna flip me. It's gonna flip his shit.",
+      "start": 497.66,
+      "duration": 2.62
+    },
+    {
+      "text": "[Arin] Flip my shit, I guess. Here come and get me. Come and get me bitch.",
+      "start": 500.58,
+      "duration": 3.86
+    },
+    {
+      "text": "[Arin] Yaaah",
+      "start": 504.72,
+      "duration": 0.62
+    },
+    {
+      "text": "[Both] Aww",
+      "start": 505.34,
+      "duration": 0.8
+    },
+    {
+      "text": "[Dan] Dude.",
+      "start": 506.14,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] I didn't make it.",
+      "start": 506.64,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] That's adorable",
+      "start": 507.14,
+      "duration": 1.22
+    },
+    {
+      "text": "[Arin] Yeah, he's cool right?",
+      "start": 508.36,
+      "duration": 1.02
+    },
+    {
+      "text": "[Arin] He's like a little helpful.",
+      "start": 509.74,
+      "duration": 0.82
+    },
+    {
+      "text": "[Dan] Yeah yeah, he's got a smiley face.",
+      "start": 510.86,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] Yeah!",
+      "start": 513.8,
+      "duration": 1.1
+    },
+    {
+      "text": "[Arin] Aw, it won't let me go all the way up.",
+      "start": 514.92,
+      "duration": 1.44
+    },
+    {
+      "text": "[Dan] Why not?",
+      "start": 516.84,
+      "duration": 0.56
+    },
+    {
+      "text": "[Arin] Because he's not strong enough, I don't fuckin know.",
+      "start": 517.96,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] He also hurts me a little bit. So maybe that's...",
+      "start": 520.7,
+      "duration": 2.0
+    },
+    {
+      "text": "maybe I should stop.",
+      "start": 523.04,
+      "duration": 0.88
+    },
+    {
+      "text": "[Dan] It's not just that he's not close enough to the wall?",
+      "start": 523.92,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] Yeah, yeah, seriously. Ah, fuck!",
+      "start": 525.92,
+      "duration": 3.24
+    },
+    {
+      "text": "[Dan] Wow, the x'd out eyes is pretty pretty creepy.",
+      "start": 530.0,
+      "duration": 3.56
+    },
+    {
+      "text": "[Arin] It's just like be you're dead your cartoon dead.",
+      "start": 533.56,
+      "duration": 1.86
+    },
+    {
+      "text": "[Dan] Yeah, especially in the water level where you're like choking first, and then it goes x'd out eyes.",
+      "start": 535.42,
+      "duration": 5.94
+    },
+    {
+      "text": "[Arin] Yeah, I don't want to drown.",
+      "start": 541.74,
+      "duration": 1.1
+    },
+    {
+      "text": "[Dan] Chances are low. In fact I can ensure that will never happen. Don't go in the fucking water.",
+      "start": 544.26,
+      "duration": 6.4
+    },
+    {
+      "text": "[Arin] Well, I love the water. I like going to the beach and the pool and everything, I like swimming.",
+      "start": 550.66,
+      "duration": 4.32
+    },
+    {
+      "text": "[Dan] Fair enough.",
+      "start": 555.34,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] That was how I stayed in shape for a while I used to swam.",
+      "start": 555.92,
+      "duration": 2.4
+    },
+    {
+      "text": "[Arin] Oh man, but uh I just don't want to drown.",
+      "start": 559.64,
+      "duration": 3.24
+    },
+    {
+      "text": "[Dan] Yeah",
+      "start": 562.98,
+      "duration": 0.7
+    },
+    {
+      "text": "[Dan] It would join the club, broseph.",
+      "start": 564.12,
+      "duration": 1.76
+    },
+    {
+      "text": "[Arin] I mean fuck man. You just imagine like drowning.",
+      "start": 566.8,
+      "duration": 5.3
+    },
+    {
+      "text": "[Both] *laugh*",
+      "start": 572.1,
+      "duration": 1.16
+    },
+    {
+      "text": "[Dan] Yeah, thanks for lightening the mood. Can you can you get that guy up on that platform, cuz then he'll be high enough.",
+      "start": 573.26,
+      "duration": 5.639
+    },
+    {
+      "text": "[Arin] Well, I don't think that's even what we're supposed to do right now.",
+      "start": 578.9,
+      "duration": 1.78
+    },
+    {
+      "text": "[Dan] Oh, ok.",
+      "start": 580.68,
+      "duration": 1.06
+    },
+    {
+      "text": "[Arin] You got a fucking lift some arrow lifts.",
+      "start": 582.56,
+      "duration": 2.9
+    },
+    {
+      "text": "[Dan] Seems weird that they put them right next to a giant wall with an arrow pointing up, and you can't get up it",
+      "start": 585.76,
+      "duration": 5.1
+    },
+    {
+      "text": "[Arin] Well the thing about this level is the water level changes.",
+      "start": 590.86,
+      "duration": 3.58
+    },
+    {
+      "text": "you can like go up or down,",
+      "start": 594.66,
+      "duration": 2.12
+    },
+    {
+      "text": "[Dan] Ohhhhh",
+      "start": 596.78,
+      "duration": 0.78
+    },
+    {
+      "text": "[Arin] depending on- Get out of the water you piece of shit. Sorry, I called you that Mario. I was just frustrated.",
+      "start": 597.56,
+      "duration": 5.12
+    },
+    {
+      "text": "[Dan in Mario's voice] It's okay.",
+      "start": 602.98,
+      "duration": 1.16
+    },
+    {
+      "text": "[Arin] We all get frustrated, I'm sure you understand.",
+      "start": 604.14,
+      "duration": 2.0
+    },
+    {
+      "text": "[Dan] He gets on the phone to his like mob friends and starts talking in Italian.",
+      "start": 607.1,
+      "duration": 4.3
+    },
+    {
+      "text": "[Arin] *laughs*",
+      "start": 611.82,
+      "duration": 0.78
+    },
+    {
+      "text": "[Arin] *speaks gibberish in an italian accent*",
+      "start": 612.76,
+      "duration": 1.92
+    },
+    {
+      "text": "[Dan] Yeah",
+      "start": 614.68,
+      "duration": 0.45
+    },
+    {
+      "text": "You know what I,",
+      "start": 615.13,
+      "duration": 0.97
+    },
+    {
+      "text": "Specifically avoided saying shit in fake Italian cuz I didn't want to be offensive and you immediately took up the reins.",
+      "start": 616.1,
+      "duration": 6.64
+    },
+    {
+      "text": "[Arin] Why is it offensive?",
+      "start": 622.76,
+      "duration": 0.94
+    },
+    {
+      "text": "[Dan] *makes noises in Italian accent*",
+      "start": 623.7,
+      "duration": 1.78
+    },
+    {
+      "text": "[Arin] That's what it sounds like.",
+      "start": 625.48,
+      "duration": 0.88
+    },
+    {
+      "text": "[Dan] It is what it sounds like.",
+      "start": 626.36,
+      "duration": 1.2
+    },
+    {
+      "text": "[Arin] You know English sounds like,",
+      "start": 627.56,
+      "duration": 1.04
+    },
+    {
+      "text": "[Arin] *saying gibberish in an american accent*",
+      "start": 629.2,
+      "duration": 5.54
+    },
+    {
+      "text": "[Dan] Dude someone referred- like cuz like we do accents all the time like making fun and like some people think it's racist and then like",
+      "start": 634.9,
+      "duration": 7.98
+    },
+    {
+      "text": "someone else refereed to it as like accent humor.",
+      "start": 643.16,
+      "duration": 3.2
+    },
+    {
+      "text": "[Dan] I was like yeah, that's what the fuck it is yeah, stop calling us racist. We don't hate anybody.",
+      "start": 646.36,
+      "duration": 4.64
+    },
+    {
+      "text": "[Dan] We just think everyone including us sounds stupid.",
+      "start": 651.22,
+      "duration": 2.72
+    },
+    {
+      "text": "[Arin] Yeah, fucking Americans sound ridiculous.",
+      "start": 653.94,
+      "duration": 2.98
+    },
+    {
+      "text": "[Dan] Fuck you,",
+      "start": 657.08,
+      "duration": 0.78
+    },
+    {
+      "text": "[Arin] *more gibberish in an american accent*",
+      "start": 657.86,
+      "duration": 1.7
+    },
+    {
+      "text": "[Dan] Or as they say in Italy,",
+      "start": 659.56,
+      "duration": 2.0
+    },
+    {
+      "text": "Bibbidi-Bobbidi-Babbidi-Boobidi",
+      "start": 661.56,
+      "duration": 3.0
+    },
+    {
+      "text": "[Arin] Can you do- Can you say American gibberish is an American accent?",
+      "start": 664.56,
+      "duration": 3.66
+    },
+    {
+      "text": "[Dan] Well it depends like, there's different parts of America, there's",
+      "start": 669.34,
+      "duration": 4.16
+    },
+    {
+      "text": "[Dan] *speaks gibberish in Mid-western american accent*",
+      "start": 673.9,
+      "duration": 3.18
+    },
+    {
+      "text": "[Arin] Just a normal like- Mid-Western...",
+      "start": 677.08,
+      "duration": 2.64
+    },
+    {
+      "text": "[Dan in a Minnesota accent] Oh gosh, oh jeez",
+      "start": 680.42,
+      "duration": 3.72
+    },
+    {
+      "text": "[Dan] Well to me I think we sound fairly accentless,",
+      "start": 684.14,
+      "duration": 3.46
+    },
+    {
+      "text": "but like that's just because we're from where we're from you know and we don't hear it",
+      "start": 687.6,
+      "duration": 4.4
+    },
+    {
+      "text": "[Arin] Well that's like a- That's like a Midwestern accent, right?",
+      "start": 692.63,
+      "duration": 2.509
+    },
+    {
+      "text": "[Dan] Mmm, I don't know. The Mid-Western accent is more like...",
+      "start": 696.44,
+      "duration": 3.0
+    },
+    {
+      "text": "[Dan] *proceeds to speak gibberish in Mid-Western accent*",
+      "start": 699.44,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] I thought that was the North,",
+      "start": 701.44,
+      "duration": 2.0
+    },
+    {
+      "text": "[Dan] North Midwest?",
+      "start": 704.3,
+      "duration": 1.16
+    },
+    {
+      "text": "[Arin in a Chicago accent] Like Chicago.",
+      "start": 705.46,
+      "duration": 0.92
+    },
+    {
+      "text": "[Dan] Yeah, Chicago is the midwest Chicago is as midwest as it gets.",
+      "start": 706.38,
+      "duration": 3.36
+    },
+    {
+      "text": "[Arin] Yeah, but it's up.",
+      "start": 709.74,
+      "duration": 1.4
+    },
+    {
+      "text": "[Dan] It's up.",
+      "start": 711.14,
+      "duration": 1.04
+    },
+    {
+      "text": "[Arin] I have no idea. Maybe I have my west's and my east and my mids mixed up",
+      "start": 712.18,
+      "duration": 4.5
+    },
+    {
+      "text": "[Dan] *laughs*",
+      "start": 716.68,
+      "duration": 1.32
+    },
+    {
+      "text": "[Dan] My all the directions.",
+      "start": 718.0,
+      "duration": 1.12
+    },
+    {
+      "text": "[Arin] Yeah.",
+      "start": 719.12,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] What do the flamy flames do?",
+      "start": 720.0,
+      "duration": 1.62
+    },
+    {
+      "text": "[Arin] They hit you and they do damage",
+      "start": 722.04,
+      "duration": 2.0
+    },
+    {
+      "text": "[Dan] Oh, they do damage.",
+      "start": 724.04,
+      "duration": 1.52
+    },
+    {
+      "text": "[Arin] The end",
+      "start": 725.92,
+      "duration": 0.58
+    },
+    {
+      "text": "[Dan] Great.",
+      "start": 726.76,
+      "duration": 0.54
+    },
+    {
+      "text": "[Dan] Well",
+      "start": 727.38,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] They make your butt on fire.",
+      "start": 727.88,
+      "duration": 1.18
+    },
+    {
+      "text": "Hey fuckin Del Taco will do that, but all by itself.",
+      "start": 729.54,
+      "duration": 4.82
+    },
+    {
+      "text": "[Arin] Next time on Game Grumps.",
+      "start": 734.5,
+      "duration": 1.02
+    },
+    {
+      "text": "[Dan] Oh hey. Alright. See you soon everybody.",
+      "start": 735.52,
+      "duration": 1.5
+    },
+    {
+      "text": "*click*",
+      "start": 737.3,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] So?",
+      "start": 739.56,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] *gibberish*",
+      "start": 740.42,
+      "duration": 1.46
+    },
+    {
+      "text": "[Dan] Suck that dick.",
+      "start": 741.88,
+      "duration": 0.98
+    },
+    {
+      "text": "[Arin] *gasp*",
+      "start": 742.86,
+      "duration": 0.58
+    },
+    {
+      "text": "[Arin] How could you say that?",
+      "start": 744.16,
+      "duration": 1.18
+    },
+    {
+      "text": "[Dan] That dick, you gotta suck it.",
+      "start": 745.34,
+      "duration": 2.0
+    }
+  ]
+}

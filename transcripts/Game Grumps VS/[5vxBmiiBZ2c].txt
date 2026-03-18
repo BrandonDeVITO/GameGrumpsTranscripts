@@ -1,0 +1,1373 @@
+{
+  "video_id": "5vxBmiiBZ2c",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Dan: Hello and welcome to Game Grumps, the show where YOU... [purposeful long pause]",
+      "start": 7.12,
+      "duration": 2.479
+    },
+    {
+      "text": "...this is Mario Party 7!",
+      "start": 10.96,
+      "duration": 1.84
+    },
+    {
+      "text": "[Arin and Danny chuckle]",
+      "start": 13.44,
+      "duration": 1.46
+    },
+    {
+      "text": "Dan: Woo!",
+      "start": 15.36,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Y-you can't say it yet, it's not the title screen.",
+      "start": 15.94,
+      "duration": 1.84
+    },
+    {
+      "text": "Dan: Oh...",
+      "start": 18.02,
+      "duration": 0.62
+    },
+    {
+      "text": "Arin: Yay!",
+      "start": 19.14,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: It's Maaaaario Party 7!",
+      "start": 19.72,
+      "duration": 1.96
+    },
+    {
+      "text": "Arin: It's Mario Party 7, alternatively titled: \"Holy Shit, We're All Running from the End of the World,\"",
+      "start": 21.78,
+      "duration": 4.44
+    },
+    {
+      "text": "alternatively titled: \"Holy Shit, we-\"",
+      "start": 26.24,
+      "duration": 1.6
+    },
+    {
+      "text": "Dan [talking over Arin]: We're all running and destroying the world, yeah.",
+      "start": 27.92,
+      "duration": 2.88
+    },
+    {
+      "text": "Arin: There's Bowser too.",
+      "start": 30.86,
+      "duration": 1.04
+    },
+    {
+      "text": "Dan: I love it.",
+      "start": 31.9,
+      "duration": 0.96
+    },
+    {
+      "text": "Arin: Um, this is Mario Party 7.",
+      "start": 32.86,
+      "duration": 1.48
+    },
+    {
+      "text": "Dan: Man, it's weird to play, um... look at Baby Bowser, he's like \"HELP! HELP!\"",
+      "start": 34.5,
+      "duration": 4.96
+    },
+    {
+      "text": "[Dan and Arin laugh]",
+      "start": 39.46,
+      "duration": 1.28
+    },
+    {
+      "text": "Dan: Uh...",
+      "start": 41.28,
+      "duration": 0.58
+    },
+    {
+      "text": "Arin: God, he's so ugly too.",
+      "start": 41.86,
+      "duration": 0.88
+    },
+    {
+      "text": "Dan: Yeah, he's...",
+      "start": 42.74,
+      "duration": 1.08
+    },
+    {
+      "text": "Arin: ...before they streamlined him.",
+      "start": 44.32,
+      "duration": 0.9
+    },
+    {
+      "text": "Dan: It's a fuckin' disaster. Um...",
+      "start": 45.64,
+      "duration": 2.46
+    },
+    {
+      "text": "Arin: Welcome to Mario Party everybody, we're-",
+      "start": 48.3,
+      "duration": 1.88
+    },
+    {
+      "text": "Dan: Yeah, it's... it's strange to play a Mario Party on Grumps again, now that, it-it's... for anyone who's seen our Game Grumps live show,",
+      "start": 50.2,
+      "duration": 7.46
+    },
+    {
+      "text": "or perhaps, our Ready Player Three show with the gorgeous and sexy JackSepticEye, uhm...",
+      "start": 57.66,
+      "duration": 7.14
+    },
+    {
+      "text": "Dan: 'Myuugi?'",
+      "start": 65.64,
+      "duration": 0.78
+    },
+    {
+      "text": "Arin: 'Myuugin.'",
+      "start": 67.22,
+      "duration": 0.84
+    },
+    {
+      "text": "Dan: 'Myuugin!'",
+      "start": 68.06,
+      "duration": 0.8
+    },
+    {
+      "text": "Dan: Uh... we played Mario Party 10! Uh, with our audience and with each other-",
+      "start": 71.44,
+      "duration": 4.14
+    },
+    {
+      "text": "Arin [talking over Dan]: What the fuck, that's a spoiler, dude.",
+      "start": 75.58,
+      "duration": 1.96
+    },
+    {
+      "text": "Dan: Well, I mean, we're not doing that show anymore.",
+      "start": 77.58,
+      "duration": 2.26
+    },
+    {
+      "text": "Arin: We might in a couple cities.",
+      "start": 79.84,
+      "duration": 1.3
+    },
+    {
+      "text": "Dan: Whoops! Well, the point is, we did it, and uhh...",
+      "start": 81.16,
+      "duration": 4.26
+    },
+    {
+      "text": "...it's just amazing. We went all over the world playing that game, so it's - it's fun and different to like, just play with you again.",
+      "start": 85.42,
+      "duration": 7.16
+    },
+    {
+      "text": "Arin [talking over Dan]: To go back to our roots, to Mario Party 7. The most loved one.",
+      "start": 92.58,
+      "duration": 4.04
+    },
+    {
+      "text": "Dan: The show where YOU... [purposeful long pause]",
+      "start": 96.62,
+      "duration": 2.14
+    },
+    {
+      "text": "Dan: Let's try the solo - uh, party cruise! [Dan chuckles]",
+      "start": 98.76,
+      "duration": 3.06
+    },
+    {
+      "text": "Arin [chuckles before mimicking Dan]: \"The show where YOU...\" [Dan laughs]",
+      "start": 101.82,
+      "duration": 3.14
+    },
+    {
+      "text": "Arin [reading as the fancy Toad in a stately British accent]: \"I say, welcome to the party cruise! I'm sure you'll have a smashing time with these stupendous minigames.\"",
+      "start": 104.96,
+      "duration": 6.38
+    },
+    {
+      "text": "Dan: I'm sure nothing will go wrong with all these delicate fountains on the choppy seas.",
+      "start": 111.34,
+      "duration": 4.54
+    },
+    {
+      "text": "Arin: Then those two Goombas in the back, plotting the destruction of the boat via bomb.",
+      "start": 115.88,
+      "duration": 5.8
+    },
+    {
+      "text": "Dan: Yeah, it's bad news.",
+      "start": 121.68,
+      "duration": 1.58
+    },
+    {
+      "text": "Arin [mimicking the two Goombas]: \"We're - we're gonna bomb it tonight, right?\" \"Yeah, we're gonna bomb it.\"",
+      "start": 123.42,
+      "duration": 2.88
+    },
+    {
+      "text": "[Dan and Arin laugh loudly]",
+      "start": 126.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin [as a Goomba]: \"I'm glad we're talking about this loudly in the... the public area.\"",
+      "start": 128.94,
+      "duration": 2.48
+    },
+    {
+      "text": "Dan [talking over Arin as fancy Toad]: \"But first things first, let's adjust the game settings!\"",
+      "start": 131.42,
+      "duration": 2.88
+    },
+    {
+      "text": "Arin: \"Do you want me to tell you how to play?\" NO.",
+      "start": 135.62,
+      "duration": 2.18
+    },
+    {
+      "text": "Dan: You have the kick-in-the-nuts option off, do you want it ON?",
+      "start": 137.8,
+      "duration": 3.12
+    },
+    {
+      "text": "Arin: Oh man, so which level should we play?",
+      "start": 141.6,
+      "duration": 1.98
+    },
+    {
+      "text": "Dan: Oh... geez, what are our choices?",
+      "start": 143.58,
+      "duration": 2.12
+    },
+    {
+      "text": "Arin: You've got... \"purchase windmills to earn Stars,\" it's like Monopoly.",
+      "start": 145.7,
+      "duration": 3.66
+    },
+    {
+      "text": "Arin: \"Find Stars hidden inside treasure chests.\"",
+      "start": 149.36,
+      "duration": 2.66
+    },
+    {
+      "text": "Dan [enthusiastically]: \"Thrilling!\"",
+      "start": 152.02,
+      "duration": 1.26
+    },
+    {
+      "text": "Arin: \"Hop on the Chain Chomps and take Stars from your rivals!\" ...That's kind of fucked up.",
+      "start": 153.28,
+      "duration": 4.24
+    },
+    {
+      "text": "Arin: \"Climb to the top of this one-track mountain road!\"",
+      "start": 157.52,
+      "duration": 3.38
+    },
+    {
+      "text": "Dan: Pagoda Peak. That looks pretty cool.",
+      "start": 160.9,
+      "duration": 1.74
+    },
+    {
+      "text": "Arin: It's like, uhh... Snake Way in Dragon Ball.",
+      "start": 162.64,
+      "duration": 3.06
+    },
+    {
+      "text": "Dan: The Grand Canal. [mispronounces canal to rhyme with anal]",
+      "start": 165.7,
+      "duration": 1.66
+    },
+    {
+      "text": "Arin: \"Collect coins to get more Stars! This is a basic course.\"",
+      "start": 167.36,
+      "duration": 2.36
+    },
+    {
+      "text": "Arin: So what do you want to do?",
+      "start": 170.54,
+      "duration": 1.2
+    },
+    {
+      "text": "Dan: I like the - I like the Pagoda Peak. I like - that looks pretty - pretty rad.",
+      "start": 171.74,
+      "duration": 3.9
+    },
+    {
+      "text": "Arin: Yeah, you would.",
+      "start": 175.64,
+      "duration": 1.04
+    },
+    {
+      "text": "Dan: Thank you.",
+      "start": 176.68,
+      "duration": 0.86
+    },
+    {
+      "text": "Arin: Uh... we could team up or go against each o- I think we should go against each other.",
+      "start": 178.16,
+      "duration": 3.56
+    },
+    {
+      "text": "Dan: Yeah, for a free-for-all party rumble. That sounds right.",
+      "start": 181.72,
+      "duration": 2.96
+    },
+    {
+      "text": "Arin: Fifteen turns? Yeah, alright.",
+      "start": 184.94,
+      "duration": 1.74
+    },
+    {
+      "text": "Dan: Yeah, that works!",
+      "start": 186.68,
+      "duration": 1.08
+    },
+    {
+      "text": "Arin: All games, with bonus. ...Hell yeah.",
+      "start": 187.76,
+      "duration": 3.74
+    },
+    {
+      "text": "Dan: Shit yeah!",
+      "start": 192.0,
+      "duration": 1.18
+    },
+    {
+      "text": "Arin: Yeah, we got two - two players-",
+      "start": 193.58,
+      "duration": 2.2
+    },
+    {
+      "text": "Dan [talking over Arin]: Two people... and two CPUS. [mispronounced as 'kapoos']",
+      "start": 195.78,
+      "duration": 2.26
+    },
+    {
+      "text": "Arin: I wanna be Peach as usual.",
+      "start": 199.16,
+      "duration": 2.36
+    },
+    {
+      "text": "Dan: Yeah, and I'll be Yoshi, as always.",
+      "start": 201.52,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: Ohh man, alright, so we're gonna play... Wario, who's gonna be... super hard.",
+      "start": 203.52,
+      "duration": 7.26
+    },
+    {
+      "text": "Dan: Aww, why always a hard one?",
+      "start": 210.78,
+      "duration": 1.84
+    },
+    {
+      "text": "Arin: And then... Toad-",
+      "start": 212.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Dan [talking over Arin]: We should do Toad and Waluigi since that's what everyone always picked... during the live shows.",
+      "start": 213.66,
+      "duration": 5.5
+    },
+    {
+      "text": "Arin: Waluigi, super hard.",
+      "start": 219.16,
+      "duration": 1.2
+    },
+    {
+      "text": "Dan: God damn it.",
+      "start": 220.36,
+      "duration": 0.98
+    },
+    {
+      "text": "Arin: And Toad... really easy. [Arin laughs]",
+      "start": 221.62,
+      "duration": 2.8
+    },
+    {
+      "text": "Dan: Weak! [imitating Evan Breen] Your moves are weak!",
+      "start": 224.42,
+      "duration": 1.98
+    },
+    {
+      "text": "Arin: Uhh... set a handicap? I don't want a fuckin' handicap.",
+      "start": 226.78,
+      "duration": 3.52
+    },
+    {
+      "text": "Dan: Okay. ...I'll set a handicap, for myself.",
+      "start": 230.3,
+      "duration": 2.26
+    },
+    {
+      "text": "Arin [talking over Dan]: Are you ready?",
+      "start": 232.56,
+      "duration": 0.62
+    },
+    {
+      "text": "Dan: Yeah, let's do it!",
+      "start": 233.18,
+      "duration": 0.62
+    },
+    {
+      "text": "Arin: No, we're not gonna give you a handicap!",
+      "start": 233.8,
+      "duration": 1.58
+    },
+    {
+      "text": "Dan [dramatically]: Start over! I'm lost! [as fancy Toad] \"Ah, cracking!\"",
+      "start": 235.38,
+      "duration": 4.32
+    },
+    {
+      "text": "Arin: Is that a thing people say?",
+      "start": 239.7,
+      "duration": 1.68
+    },
+    {
+      "text": "Dan: What?",
+      "start": 241.38,
+      "duration": 0.76
+    },
+    {
+      "text": "Arin: Ah, cracking?",
+      "start": 242.14,
+      "duration": 1.16
+    },
+    {
+      "text": "Dan: I mean, not since 18th century England.",
+      "start": 243.3,
+      "duration": 2.3
+    },
+    {
+      "text": "Arin: Well, apparently that's what that guy is based off of.",
+      "start": 245.6,
+      "duration": 2.58
+    },
+    {
+      "text": "Dan: Yeah, and Mario Party 7. [low announcer voice] Pagoda Peak.",
+      "start": 248.18,
+      "duration": 2.98
+    },
+    {
+      "text": "Arin: Alright, mothafuckas. Welcome to Pagoder [sic] Peak.",
+      "start": 251.92,
+      "duration": 3.76
+    },
+    {
+      "text": "Dan [as fancy Toad]: Thanks for joining me, here at the end of all things. [Arin laughs]",
+      "start": 255.68,
+      "duration": 3.42
+    },
+    {
+      "text": "Arin [as fancy Toad]: Now that I've got you here... here's my penis.",
+      "start": 259.1,
+      "duration": 3.8
+    },
+    {
+      "text": "Dan [as fancy Toad]: You could just SMELL the PENIS! History, sorry. Shall I tell you about this board?",
+      "start": 262.9,
+      "duration": 5.56
+    },
+    {
+      "text": "Dan [in normal voice]: See! Some people say 'board.' Right.",
+      "start": 268.46,
+      "duration": 3.0
+    },
+    {
+      "text": "Arin: This is - it's literally a board!",
+      "start": 271.46,
+      "duration": 1.98
+    },
+    {
+      "text": "Dan: Totally! Just like levels. [as fancy Toad] \"Head for the mountaintop as you follow the single trail of Pagoda Peak.\"",
+      "start": 273.94,
+      "duration": 6.32
+    },
+    {
+      "text": "Dan [as fancy Toad]: \"If you manage to reach the top, Master Koopa will sell you a Star.\"",
+      "start": 280.26,
+      "duration": 3.9
+    },
+    {
+      "text": "Arin: Oh, boy.",
+      "start": 284.16,
+      "duration": 0.88
+    },
+    {
+      "text": "Dan: What is this, a... [old man voice] I'm so lonely. [Dan and Arin laugh]",
+      "start": 285.04,
+      "duration": 3.2
+    },
+    {
+      "text": "Dan [as fancy Toad]: \"The price of a Star is ten coins. Er - well, that's the price at first, you see.\"",
+      "start": 288.24,
+      "duration": 4.6
+    },
+    {
+      "text": "Dan [as fancy Toad]: After that, it'll go up to ten coins and a handy-J!",
+      "start": 293.8,
+      "duration": 4.0
+    },
+    {
+      "text": "Dan [as fancy Toad]: \"Every time someone reaches the peak, the price will go up. Right dreadful, that.\"",
+      "start": 298.2,
+      "duration": 4.02
+    },
+    {
+      "text": "Dan [as fancy Toad, over Arin's complaints]: \"Yes, it jumps to twenty coins, then thirty coins, and so on!\"",
+      "start": 303.16,
+      "duration": 3.6
+    },
+    {
+      "text": "Dan [as fancy Toad]: \"But a Star will never be more than forty coins. I'll bet my dinner on it.\"",
+      "start": 307.5,
+      "duration": 3.52
+    },
+    {
+      "text": "Arin [as old man]: I don't want your dinner, dammit. [Dan chuckles]",
+      "start": 311.02,
+      "duration": 2.92
+    },
+    {
+      "text": "Dan [as fancy Toad]: \"Oh, and do stay on your guard. That scoundrel Bowser is out there somewhere.\"",
+      "start": 313.94,
+      "duration": 4.74
+    },
+    {
+      "text": "Arin: I agree.",
+      "start": 318.68,
+      "duration": 0.64
+    },
+    {
+      "text": "Dan [as fancy Toad]: \"Right, now hit those dice blocks and decide who goes first.\"",
+      "start": 320.08,
+      "duration": 3.24
+    },
+    {
+      "text": "Arin: I'm gonna hit mine. Unh! I got a ten!",
+      "start": 323.32,
+      "duration": 2.5
+    },
+    {
+      "text": "Dan: Unh!",
+      "start": 326.2,
+      "duration": 0.94
+    },
+    {
+      "text": "Arin: It kind of looks like you got a nineteen.",
+      "start": 327.14,
+      "duration": 1.64
+    },
+    {
+      "text": "Dan: We got a 10,719.",
+      "start": 328.78,
+      "duration": 2.98
+    },
+    {
+      "text": "Arin [as Peach]: Yay!",
+      "start": 332.58,
+      "duration": 0.76
+    },
+    {
+      "text": "Dan [as fancy Toad]: \"Second is Toad!\"",
+      "start": 333.6,
+      "duration": 1.28
+    },
+    {
+      "text": "Arin [as classic Toad]: Ah!",
+      "start": 334.88,
+      "duration": 0.9
+    },
+    {
+      "text": "Dan [as fancy Toad]: \"Third is Yoshi.\" [Dan and Arin imitate Yoshi's \"yahoo\" noise]",
+      "start": 335.88,
+      "duration": 3.18
+    },
+    {
+      "text": "Dan [as fancy Toad]: \"And fourth is Waluigi!\"",
+      "start": 339.06,
+      "duration": 1.86
+    },
+    {
+      "text": "Arin [as Waluigi]: Wah.",
+      "start": 340.92,
+      "duration": 0.8
+    },
+    {
+      "text": "Dan [as fancy Toad]: The guy who's set on hard and will undoubtedly win this whole thing.",
+      "start": 341.72,
+      "duration": 3.26
+    },
+    {
+      "text": "Arin: Oh my God, he's gonna fucking decimate us.",
+      "start": 344.98,
+      "duration": 2.14
+    },
+    {
+      "text": "Dan: Of course he is! What, are you kidding?",
+      "start": 347.12,
+      "duration": 1.56
+    },
+    {
+      "text": "Arin: Yeah, I'm not kidding.",
+      "start": 348.68,
+      "duration": 1.18
+    },
+    {
+      "text": "Dan [as fancy Toad]: \"Brilliant, I say! Utterly brilliant! And now it's time to party!\"",
+      "start": 349.86,
+      "duration": 3.86
+    },
+    {
+      "text": "Dan [as fancy Toad]: I know a little something about partying. I wear adult diapers!",
+      "start": 353.72,
+      "duration": 3.44
+    },
+    {
+      "text": "Arin [as Bowser]: \"Grr, don't move a muscle! This party doesn't start 'til Bowser says so.\"",
+      "start": 357.68,
+      "duration": 3.7
+    },
+    {
+      "text": "Dan [in a silly voice]: Yaaaaaayyyy!",
+      "start": 362.82,
+      "duration": 1.04
+    },
+    {
+      "text": "Arin: Lemme freeze frame for a second and scare the children.",
+      "start": 363.86,
+      "duration": 2.62
+    },
+    {
+      "text": "Dan: Let's party! ...Boy, those Bowser's [sic] faces look AWFUL in this game.",
+      "start": 366.48,
+      "duration": 4.82
+    },
+    {
+      "text": "Arin: That's his - that's his horrible son.",
+      "start": 371.3,
+      "duration": 1.54
+    },
+    {
+      "text": "Dan: Oh - really?",
+      "start": 372.84,
+      "duration": 1.26
+    },
+    {
+      "text": "Arin [as Bowser]: \"Bwaha, this board needs Koopa Kids spaces. There's three for ya.\"",
+      "start": 374.1,
+      "duration": 3.68
+    },
+    {
+      "text": "Arin: Ow, my fucking knee. [continues as Bowser] \"Now you can contend with that. Man, I'm so evil! I love it!\"",
+      "start": 377.78,
+      "duration": 4.4
+    },
+    {
+      "text": "Arin: Alright, congratulate yourself more, you fucking clod.",
+      "start": 382.88,
+      "duration": 3.0
+    },
+    {
+      "text": "Dan: Peach, go!",
+      "start": 385.88,
+      "duration": 1.22
+    },
+    {
+      "text": "Arin [as Peach]: That's me! ...Can you smell? I need more deodorant.",
+      "start": 387.1,
+      "duration": 5.26
+    },
+    {
+      "text": "Arin [as Peach]: That's a five.",
+      "start": 393.12,
+      "duration": 1.38
+    },
+    {
+      "text": "Arin: Oh shit, I got a fucking mushroom orb, bitch. What do you think of that action?",
+      "start": 396.24,
+      "duration": 4.46
+    },
+    {
+      "text": "Dan [mumbling]: Oh, yeah, I don't fuckin' know.",
+      "start": 400.7,
+      "duration": 1.64
+    },
+    {
+      "text": "Arin: Have you ever head of, uh... have you ever heard of toadstools? 'Cuz I certainly haven't.",
+      "start": 402.64,
+      "duration": 7.22
+    },
+    {
+      "text": "Dan: To- oh, I don't know.",
+      "start": 409.86,
+      "duration": 1.84
+    },
+    {
+      "text": "Arin: They're fucking mushrooms, dude.",
+      "start": 411.9,
+      "duration": 1.6
+    },
+    {
+      "text": "Dan: Oh shiz. ...Oh my God, I'm so EXCITED!",
+      "start": 413.5,
+      "duration": 3.3
+    },
+    {
+      "text": "Arin: Big ass damn mushroom.",
+      "start": 416.8,
+      "duration": 1.3
+    },
+    {
+      "text": "Dan: Five, just like everybody fucking else.",
+      "start": 418.1,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: What the hell, are you kidding me? Is this game rigged?",
+      "start": 420.1,
+      "duration": 2.32
+    },
+    {
+      "text": "Dan: Oh, an egg. I got the egg orb. Yessss.",
+      "start": 422.42,
+      "duration": 2.54
+    },
+    {
+      "text": "Arin: That's because you're epic.",
+      "start": 424.96,
+      "duration": 1.58
+    },
+    {
+      "text": "Dan: Thank you for noticing.",
+      "start": 426.54,
+      "duration": 1.52
+    },
+    {
+      "text": "Arin [as Waluigi]: I'm - I'm here too.",
+      "start": 428.06,
+      "duration": 1.58
+    },
+    {
+      "text": "Dan [as Waluigi]: Fuck.",
+      "start": 430.16,
+      "duration": 0.96
+    },
+    {
+      "text": "Dan: Does he just get better rolls than everybody else?",
+      "start": 431.86,
+      "duration": 1.94
+    },
+    {
+      "text": "Arin [laughing]: Because he's set on there.",
+      "start": 433.8,
+      "duration": 1.32
+    },
+    {
+      "text": "Dan: What?",
+      "start": 435.42,
+      "duration": 1.04
+    },
+    {
+      "text": "Arin: Because he's set on hard.",
+      "start": 436.46,
+      "duration": 1.5
+    },
+    {
+      "text": "Dan: Yeah.",
+      "start": 437.96,
+      "duration": 1.12
+    },
+    {
+      "text": "Arin: Oh, cool. He just got fucked.",
+      "start": 439.98,
+      "duration": 1.98
+    },
+    {
+      "text": "Dan: Good. [as Bowser Junior] \"Gwa ha ha!\"",
+      "start": 441.96,
+      "duration": 2.08
+    },
+    {
+      "text": "Arin: God, he's so ugly!",
+      "start": 444.04,
+      "duration": 1.24
+    },
+    {
+      "text": "Dan: He looks terrible in this.",
+      "start": 445.28,
+      "duration": 1.36
+    },
+    {
+      "text": "Arin: I'm so glad they redesigned him.",
+      "start": 446.64,
+      "duration": 1.42
+    },
+    {
+      "text": "Arin: He's gonna use the Bowser pipe.",
+      "start": 448.8,
+      "duration": 2.0
+    },
+    {
+      "text": "Dan: To what?",
+      "start": 451.06,
+      "duration": 0.92
+    },
+    {
+      "text": "Arin: I dunno.",
+      "start": 451.98,
+      "duration": 0.98
+    },
+    {
+      "text": "Dan: What is - what's happening, what am I doing?",
+      "start": 453.42,
+      "duration": 1.7
+    },
+    {
+      "text": "Arin: You got fucked.",
+      "start": 455.12,
+      "duration": 0.8
+    },
+    {
+      "text": "Dan: Really?",
+      "start": 455.92,
+      "duration": 0.8
+    },
+    {
+      "text": "Arin: He's sending us to - [Arin laughs]",
+      "start": 456.72,
+      "duration": 2.32
+    },
+    {
+      "text": "Dan: Oh, we're trading places?",
+      "start": 459.04,
+      "duration": 1.46
+    },
+    {
+      "text": "Arin [as Bowser Junior]: \"Another job well done!\" [normal voice] 'Mr. Bowser,' what, are they not related?",
+      "start": 460.5,
+      "duration": 4.48
+    },
+    {
+      "text": "Dan: I don't know what ha-... Four player minigame, what the hell is happening?!",
+      "start": 464.98,
+      "duration": 4.04
+    },
+    {
+      "text": "Arin: We gotta do a minigame, Dan.",
+      "start": 469.02,
+      "duration": 1.4
+    },
+    {
+      "text": "Dan: 'Track and Yield.' Oh, nice play on words.",
+      "start": 470.42,
+      "duration": 2.96
+    },
+    {
+      "text": "Arin: Sheesh! Such a little weirdo.",
+      "start": 473.38,
+      "duration": 1.3
+    },
+    {
+      "text": "Dan: Uh, jump over the hurdles on the conveyor belt. The last player standing is the winner.",
+      "start": 475.0,
+      "duration": 3.92
+    },
+    {
+      "text": "Arin: That's so easy.",
+      "start": 478.92,
+      "duration": 0.72
+    },
+    {
+      "text": "Dan: It's super easy - until we actually play it, and realize it's fucking impossible.",
+      "start": 479.64,
+      "duration": 4.96
+    },
+    {
+      "text": "Arin: It's not impossible, it's easy.",
+      "start": 484.6,
+      "duration": 1.42
+    },
+    {
+      "text": "Dan: What jumps, A? [Arin agrees] K.",
+      "start": 486.02,
+      "duration": 2.1
+    },
+    {
+      "text": "Arin: Look, that's so simple.",
+      "start": 488.96,
+      "duration": 1.6
+    },
+    {
+      "text": "Arin: Oh God, you actually have to control the character.",
+      "start": 491.72,
+      "duration": 2.76
+    },
+    {
+      "text": "Dan: Yes, you do.",
+      "start": 494.48,
+      "duration": 1.14
+    },
+    {
+      "text": "Arin: Oh, this is easy! Don't even get me started about-",
+      "start": 496.28,
+      "duration": 3.24
+    },
+    {
+      "text": "Dan [talking over Arin]: Don't even josh yourself. Don't even fib yourself, bro.",
+      "start": 499.52,
+      "duration": 3.5
+    },
+    {
+      "text": "Arin: This is making me - ow, ow oh. This is making me feel like... a master.",
+      "start": 503.02,
+      "duration": 6.12
+    },
+    {
+      "text": "Arin: Because I can just finish this so easily and quickly.",
+      "start": 509.84,
+      "duration": 2.48
+    },
+    {
+      "text": "Arin [talking over Dan's panicked yelps]: Damn. Look how fuckin' cool I am!",
+      "start": 513.58,
+      "duration": 2.28
+    },
+    {
+      "text": "Dan: Ah, shiz nuts.",
+      "start": 515.86,
+      "duration": 1.8
+    },
+    {
+      "text": "Arin: Yeah, Waluigi didn't beat us there.",
+      "start": 517.98,
+      "duration": 2.34
+    },
+    {
+      "text": "Dan: Peach won! Fuck you.",
+      "start": 521.48,
+      "duration": 2.64
+    },
+    {
+      "text": "Arin: Why'd they mash the c-caps lock key?",
+      "start": 524.12,
+      "duration": 2.76
+    },
+    {
+      "text": "Dan: Hey, I tied for first! ...Aww.",
+      "start": 527.2,
+      "duration": 2.34
+    },
+    {
+      "text": "Arin: Why do they use these fucking, like, JPEG-ass pictures of us? [Arin and Dan laugh]",
+      "start": 529.54,
+      "duration": 3.24
+    },
+    {
+      "text": "Dan [sternly]: Do NOT touch the Memory Card.",
+      "start": 533.44,
+      "duration": 1.88
+    },
+    {
+      "text": "Arin: Fuckin' uploaded with a camera phone.",
+      "start": 535.32,
+      "duration": 1.66
+    },
+    {
+      "text": "Dan: You will never get this back. Okay. Peach, go!",
+      "start": 536.98,
+      "duration": 3.82
+    },
+    {
+      "text": "Arin [as Peach]: I'm here! [Dan laughs] I can't open this bag!",
+      "start": 540.8,
+      "duration": 2.74
+    },
+    {
+      "text": "Dan [as Peach]: I'm alive!",
+      "start": 543.54,
+      "duration": 0.98
+    },
+    {
+      "text": "Arin [as Peach]: It's been glued shut.",
+      "start": 544.92,
+      "duration": 1.18
+    },
+    {
+      "text": "Dan: Use... on yourself?",
+      "start": 546.1,
+      "duration": 1.4
+    },
+    {
+      "text": "Arin: Hell yeah, I'm gonna use it.",
+      "start": 547.5,
+      "duration": 1.26
+    },
+    {
+      "text": "Dan: What - what does it do?",
+      "start": 548.76,
+      "duration": 0.98
+    },
+    {
+      "text": "Arin: It makes me go farther.",
+      "start": 549.74,
+      "duration": 1.26
+    },
+    {
+      "text": "Dan: Really? Just in general?",
+      "start": 551.0,
+      "duration": 1.4
+    },
+    {
+      "text": "Arin: Yeah, because I'm fuckin' awesome.",
+      "start": 552.4,
+      "duration": 1.46
+    },
+    {
+      "text": "Dan: Oh crappity.",
+      "start": 553.86,
+      "duration": 0.94
+    },
+    {
+      "text": "Arin [over Dan's increasing shock]: Got a nine. AND I got a six. That's fifteen!",
+      "start": 554.8,
+      "duration": 3.72
+    },
+    {
+      "text": "Dan [loudly]: Oh my God! [normally] Wow, the orb shop?",
+      "start": 559.3,
+      "duration": 3.02
+    },
+    {
+      "text": "Arin: Yeah, I'll go in the orb shop. Fuck it.",
+      "start": 562.32,
+      "duration": 1.58
+    },
+    {
+      "text": "Dan [as sales turtle]: \"...we've been selling orbs for centuries.\"",
+      "start": 564.52,
+      "duration": 2.24
+    },
+    {
+      "text": "Arin: I don't know if that's true.",
+      "start": 566.76,
+      "duration": 0.9
+    },
+    {
+      "text": "Dan [as sales turtle]: Yeah, I'm only twelve!",
+      "start": 567.66,
+      "duration": 1.36
+    },
+    {
+      "text": "Arin [as sales turtle]: I've PERSONALLY been selling orbs...",
+      "start": 569.12,
+      "duration": 2.54
+    },
+    {
+      "text": "Dan: Damn, you can afford an orb?",
+      "start": 571.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: \"...foe who lands on it must give up coins.\"",
+      "start": 574.78,
+      "duration": 2.38
+    },
+    {
+      "text": "Arin: \"Who knows where you'll end up!\" That sucks!",
+      "start": 578.02,
+      "duration": 2.0
+    },
+    {
+      "text": "Dan: \"Hop aboard the big gun and ride.\" That's... excellent.",
+      "start": 580.02,
+      "duration": 3.82
+    },
+    {
+      "text": "Arin [as sales turtle]: \"Many thanks to you! Please come back.\"",
+      "start": 585.1,
+      "duration": 2.0
+    },
+    {
+      "text": "Dan: Ah, oh, ah, oh my God. You're fucking... come back, Arin, NO! Who do you think you are?",
+      "start": 587.82,
+      "duration": 8.56
+    },
+    {
+      "text": "Arin:  I think I'm the princess, bitch.",
+      "start": 596.38,
+      "duration": 1.64
+    },
+    {
+      "text": "Dan: Oh my God, Arin! The game's over.",
+      "start": 598.02,
+      "duration": 2.72
+    },
+    {
+      "text": "Arin: Well, it doesn't end when we get to the top.",
+      "start": 602.44,
+      "duration": 2.08
+    },
+    {
+      "text": "Dan: Oh, it doesn't?",
+      "start": 604.52,
+      "duration": 0.74
+    },
+    {
+      "text": "Arin: It ends after fifteen turns. So, we just have to keep being as epic as possible.",
+      "start": 605.26,
+      "duration": 6.88
+    },
+    {
+      "text": "Dan: I see. Son of a bitch! Fuck!",
+      "start": 612.14,
+      "duration": 4.66
+    },
+    {
+      "text": "Dan: I missed the orb shop... and everything!",
+      "start": 617.5,
+      "duration": 2.7
+    },
+    {
+      "text": "Arin: You missed the orb shop?",
+      "start": 620.2,
+      "duration": 1.14
+    },
+    {
+      "text": "Dan: Yeah, because I traded places with stupid suck-ass Waluigi, the fucking teleporting douchenozzle. [Arin laughs]",
+      "start": 621.34,
+      "duration": 5.3
+    },
+    {
+      "text": "Dan: Okay, so here we go.",
+      "start": 627.9,
+      "duration": 1.38
+    },
+    {
+      "text": "Arin: Dude, I'm sorry, man.",
+      "start": 629.28,
+      "duration": 1.08
+    },
+    {
+      "text": "Dan: It's okay, it's alright.",
+      "start": 630.36,
+      "duration": 0.86
+    },
+    {
+      "text": "Arin: You want a fuckin'... some crackers or something?",
+      "start": 631.22,
+      "duration": 1.52
+    },
+    {
+      "text": "Dan: No, I'm alright. Uh... \"Eat Orbs in your path and turn them into eggs. Yummy!\" Yes, I'll use it.",
+      "start": 632.74,
+      "duration": 5.78
+    },
+    {
+      "text": "Arin: Is that an only you ability?",
+      "start": 638.52,
+      "duration": 1.7
+    },
+    {
+      "text": "Dan: I don't know. \"You bet!\"",
+      "start": 640.22,
+      "duration": 1.9
+    },
+    {
+      "text": "Arin: I can't imagine Waluigi doing that.",
+      "start": 642.5,
+      "duration": 1.94
+    },
+    {
+      "text": "Dan: Is that just a one-time thing, or is that permanent?",
+      "start": 644.44,
+      "duration": 2.14
+    },
+    {
+      "text": "Arin [as Waluigi]: I love eggs. [in normal voice, speaking over Dan, who is yelling the word 'eggs' as Waluigi] I think it's just a one time thing.",
+      "start": 646.58,
+      "duration": 4.44
+    },
+    {
+      "text": "Arin [as Waluigi]: Mm. Tasty eggs.",
+      "start": 651.02,
+      "duration": 2.16
+    },
+    {
+      "text": "Dan: Fuck nuts.",
+      "start": 653.18,
+      "duration": 1.34
+    },
+    {
+      "text": "Arin: You landed on that?",
+      "start": 654.52,
+      "duration": 1.46
+    },
+    {
+      "text": "Dan: I did.",
+      "start": 655.98,
+      "duration": 1.1
+    },
+    {
+      "text": "Arin: Silly. Why are you guys all in fucking lockstep, dude?",
+      "start": 657.08,
+      "duration": 4.34
+    },
+    {
+      "text": "Dan: Hmm... uh-oh, what's happening?",
+      "start": 661.42,
+      "duration": 2.94
+    },
+    {
+      "text": "Arin: It's a microphone minigame, I guess.",
+      "start": 664.36,
+      "duration": 2.04
+    },
+    {
+      "text": "Dan [as fancy Toad]: \"Welcome to - welcome to the Bonus Mic game! You can double your coins if you beat the minigame!\"",
+      "start": 667.14,
+      "duration": 4.16
+    },
+    {
+      "text": "Dan [as fancy Toad]: \"You're betting ten coins?\"",
+      "start": 672.36,
+      "duration": 1.68
+    },
+    {
+      "text": "[Dan and Arin mutter indistinguishably over one another]",
+      "start": 674.04,
+      "duration": 2.46
+    },
+    {
+      "text": "Dan: Jesus Christ. Of course he's gonna win, you set him on fucking hard. Why do you always do that?",
+      "start": 677.2,
+      "duration": 4.7
+    },
+    {
+      "text": "Arin: Because it's funny, Dan. Don't you understand the rules of comedy?",
+      "start": 682.48,
+      "duration": 3.82
+    },
+    {
+      "text": "Dan: Ugh, I hate you. Ugh, I hate you. \"You must remember which piece of fruit is on the cards.\"",
+      "start": 686.3,
+      "duration": 4.2
+    },
+    {
+      "text": "Arin: Nobody really has to care, he's just a computer player.",
+      "start": 691.22,
+      "duration": 2.96
+    },
+    {
+      "text": "Dan: That's true.",
+      "start": 694.42,
+      "duration": 1.14
+    },
+    {
+      "text": "Arin: It's like, he knows what's there, he's a fucking computer.",
+      "start": 695.56,
+      "duration": 2.52
+    },
+    {
+      "text": "Dan: Orange, grape, apple, strawberry. [talks over Arin's continued complaints] Orange.",
+      "start": 698.08,
+      "duration": 3.46
+    },
+    {
+      "text": "Dan: Strawberry.",
+      "start": 704.56,
+      "duration": 1.28
+    },
+    {
+      "text": "Arin: \"Tough break.\"",
+      "start": 707.66,
+      "duration": 0.9
+    },
+    {
+      "text": "Dan: Boy, he fucked it up. You're not so good, hard Waluigi.",
+      "start": 708.56,
+      "duration": 3.2
+    },
+    {
+      "text": "Arin: Yeah. Sorry, bud.",
+      "start": 711.76,
+      "duration": 2.26
+    },
+    {
+      "text": "Dan: You could be a lot harder. As could we all.",
+      "start": 714.42,
+      "duration": 2.5
+    },
+    {
+      "text": "Arin [talking over Dan]: Apparently it has - it has, like, word recognition.",
+      "start": 716.92,
+      "duration": 1.62
+    },
+    {
+      "text": "Dan [as fancy Toad]: \"Oh dear... How horrid.\"",
+      "start": 719.16,
+      "duration": 1.46
+    },
+    {
+      "text": "[Dan and Arin imitate Waluigi's 'wah']",
+      "start": 721.44,
+      "duration": 1.78
+    },
+    {
+      "text": "Arin [as Waluigi]: I hate life! [both laugh, returns to normal voice] What if he just pulled out a shotgun, dude? [imitates gun shot]",
+      "start": 723.22,
+      "duration": 4.36
+    },
+    {
+      "text": "Dan: Oh my God, Arin. [Arin laughs]",
+      "start": 727.58,
+      "duration": 2.1
+    },
+    {
+      "text": "Dan: Okay, next time on Game Grumps. It's a battle minigame! We'll see you then.",
+      "start": 729.68,
+      "duration": 4.92
+    },
+    {
+      "text": "Arin: Our first minigame of the century.",
+      "start": 734.6,
+      "duration": 1.92
+    },
+    {
+      "text": "Dan: I c- I can't wait.",
+      "start": 736.52,
+      "duration": 2.46
+    },
+    {
+      "text": "Dan: We're doing this, bitch.",
+      "start": 740.36,
+      "duration": 1.22
+    },
+    {
+      "text": "Arin: We're having a Marty [sic] party.",
+      "start": 742.5,
+      "duration": 2.0
+    },
+    {
+      "text": "Dan: Just, like, a guy named Marty comes over like, \"Hey!\"",
+      "start": 746.68,
+      "duration": 2.9
+    }
+  ]
+}

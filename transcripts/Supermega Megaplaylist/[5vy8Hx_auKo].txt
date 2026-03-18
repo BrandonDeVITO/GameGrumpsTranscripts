@@ -1,0 +1,2803 @@
+{
+  "video_id": "5vy8Hx_auKo",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "[Theme Song]:  ♪ In this corner: Grump! ♪ (I'm a Grump)",
+      "start": 0.0,
+      "duration": 1.32
+    },
+    {
+      "text": "♪ In the other corner: Not so Grump! ♪",
+      "start": 1.32,
+      "duration": 1.18
+    },
+    {
+      "text": "♪ It's Game Grumps Versus!!! ♪",
+      "start": 2.5,
+      "duration": 1.92
+    },
+    {
+      "text": "(Applause). Woo!  Yeah!!  Woo Woo!!",
+      "start": 4.42,
+      "duration": 1.72
+    },
+    {
+      "text": "With SuperMega!",
+      "start": 6.14,
+      "duration": 1.04
+    },
+    {
+      "text": "[Danny]: Hello and welcome to Game Grumps!",
+      "start": 7.18,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] (from a distance): People don't think the universe be like it is, but it do.",
+      "start": 9.18,
+      "duration": 2.74
+    },
+    {
+      "text": "[Danny]: Wha- uhh..  This is a very special Game Grumps episode.",
+      "start": 11.92,
+      "duration": 2.94
+    },
+    {
+      "text": "[Danny]: uhh.. featuring myself and Arin, the Game Grumps",
+      "start": 14.86,
+      "duration": 3.22
+    },
+    {
+      "text": "[Danny]: and... uhh.. Ryan and Matt!",
+      "start": 18.08,
+      "duration": 1.96
+    },
+    {
+      "text": "[Matt]: Yeah! That's - uhh - that's us!  Thank you!",
+      "start": 20.04,
+      "duration": 1.52
+    },
+    {
+      "text": "[Ryan]: That's us! Thank you!\n[Matt]: Yeah! That's - uhh - that's us!  Thank you!",
+      "start": 21.56,
+      "duration": 0.64
+    },
+    {
+      "text": "[Ryan]: That's us! Thank you!\n[Matt]: You got our name right this time.",
+      "start": 22.2,
+      "duration": 0.9
+    },
+    {
+      "text": "[Ryan]: Thank you for having us on\n[Danny]: Muuup....",
+      "start": 23.1,
+      "duration": 0.54
+    },
+    {
+      "text": "[Ryan]: Thank you for having us on\n[Danny]: Muper Sega",
+      "start": 23.64,
+      "duration": 1.2
+    },
+    {
+      "text": "[Arin]: Super Se--",
+      "start": 24.84,
+      "duration": 0.74
+    },
+    {
+      "text": "[Arin]: I wrote Su(pre) Mega on the.. on the time sheet",
+      "start": 25.58,
+      "duration": 3.54
+    },
+    {
+      "text": "[Ryan]: That's how we'll put it in the featuring, in parentheses",
+      "start": 29.12,
+      "duration": 1.5
+    },
+    {
+      "text": "[Danny]: Awww Dude\n[Ryan]: That's how we'll put it in the featuring, in parentheses",
+      "start": 30.62,
+      "duration": 0.7
+    },
+    {
+      "text": "[Arin]: Supre Mega",
+      "start": 31.32,
+      "duration": 0.96
+    },
+    {
+      "text": "[Danny]: Yeah. Mega Supreme.  That's your new name guys.  Congratulations",
+      "start": 32.28,
+      "duration": 2.86
+    },
+    {
+      "text": "[Arin]:  Supreme Mega!  Whoa!!",
+      "start": 35.14,
+      "duration": 1.74
+    },
+    {
+      "text": "[Matt]: Yeah",
+      "start": 36.88,
+      "duration": 0.56
+    },
+    {
+      "text": "[Arin]:  Hey!  Alright! \n[Matt]:  Supreme Mega",
+      "start": 37.44,
+      "duration": 1.0
+    },
+    {
+      "text": "[Ryan]:  Do you think those same jokes are gonna be made where it's like:",
+      "start": 38.44,
+      "duration": 1.96
+    },
+    {
+      "text": "[Ryan]:  \"Wait.  Is that Conan O'Brien and JonTron??\"",
+      "start": 40.4,
+      "duration": 2.44
+    },
+    {
+      "text": "(laughter)",
+      "start": 42.84,
+      "duration": 1.12
+    },
+    {
+      "text": "[Arin]:  What?!?!\n[Matt]:  Our, our grump heads",
+      "start": 43.96,
+      "duration": 1.82
+    },
+    {
+      "text": "[Arin]:  Oohhhh.  Ooohhhhh\n[Matt]:  That's what they look like",
+      "start": 45.78,
+      "duration": 1.2
+    },
+    {
+      "text": "[Arin]:  Got it.",
+      "start": 46.98,
+      "duration": 0.62
+    },
+    {
+      "text": "[Ryan]: Like, could you imagine a world where that, like,",
+      "start": 47.6,
+      "duration": 1.94
+    },
+    {
+      "text": "[Ryan]:  Combination all ff--, all, like, four came together",
+      "start": 49.54,
+      "duration": 2.36
+    },
+    {
+      "text": "[Arin] (laughing)\n[Danny]:  I--\n[Ryan]:  Combination all ff--, all, like, four came together",
+      "start": 51.9,
+      "duration": 0.62
+    },
+    {
+      "text": "[Arin] (laughing)\n[Danny]:  I actually can't\n[Ryan]:  Combination all ff--, all, like, four came together",
+      "start": 52.52,
+      "duration": 0.8
+    },
+    {
+      "text": "(laughter)",
+      "start": 53.32,
+      "duration": 1.48
+    },
+    {
+      "text": "[Danny]:  Alright, so--  Ooohhhh Boy",
+      "start": 54.8,
+      "duration": 1.44
+    },
+    {
+      "text": "[Matt]:  I don't know.... ah-- there's too many",
+      "start": 56.24,
+      "duration": 1.24
+    },
+    {
+      "text": "[Ryan]:  Ohhh. She's so cute\n[Matt]:  Movement things happening",
+      "start": 57.48,
+      "duration": 0.76
+    },
+    {
+      "text": "[Arin]:  Being fucking Bower dude.\n[Ryan]:  Ohhh. She's so cute\n[Matt]:  Movement things happening",
+      "start": 58.24,
+      "duration": 1.26
+    },
+    {
+      "text": "[Danny]:  Errm",
+      "start": 59.5,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin]:  I'm being fucking Bowser",
+      "start": 60.0,
+      "duration": 0.98
+    },
+    {
+      "text": "[Matt]:  I wanna be Yoshi today! :D\n[Arin]:  I'm being fucking Bowser",
+      "start": 60.98,
+      "duration": 0.82
+    },
+    {
+      "text": "[Danny]:  Alright!",
+      "start": 61.8,
+      "duration": 0.58
+    },
+    {
+      "text": "[Arin]:  Tehe.  I'm feelin' a little Yoshi.",
+      "start": 62.38,
+      "duration": 1.44
+    },
+    {
+      "text": "[Matt]:  I'm feelin' Yosh.",
+      "start": 63.82,
+      "duration": 0.84
+    },
+    {
+      "text": "[Ryan]:  I'll be Pom Pom, cause she's cute",
+      "start": 64.66,
+      "duration": 1.48
+    },
+    {
+      "text": "[Matt]:  Pom Pom??\n[Ryan]:  How's her dice by the way?",
+      "start": 66.14,
+      "duration": 1.06
+    },
+    {
+      "text": "[Ryan]:  Is her die pretty cool?",
+      "start": 67.2,
+      "duration": 1.24
+    },
+    {
+      "text": "[Arin]:  I think it's like all--  it's like two numbers?",
+      "start": 68.44,
+      "duration": 3.14
+    },
+    {
+      "text": "[Ryan]:  Oh, sweet",
+      "start": 71.58,
+      "duration": 0.5
+    },
+    {
+      "text": "[Matt]:  What???\n[Ryan]:  Oh, sweet",
+      "start": 72.08,
+      "duration": 1.14
+    },
+    {
+      "text": "[Matt]:  I like the beads in her hair, errr",
+      "start": 73.22,
+      "duration": 0.52
+    },
+    {
+      "text": "[Arin]:  Pick Daisy's\n[Matt]:  I like the beads in her hair, errr",
+      "start": 73.74,
+      "duration": 0.82
+    },
+    {
+      "text": "[Danny]:  I'll be Dry Bones!\n[Matt]:  Whatever those are",
+      "start": 74.56,
+      "duration": 1.54
+    },
+    {
+      "text": "[Arin]:  ah- Dry Booonnnezzzz!",
+      "start": 76.1,
+      "duration": 1.08
+    },
+    {
+      "text": "[Arin]:  I hate Dry Bones's dice",
+      "start": 77.18,
+      "duration": 1.56
+    },
+    {
+      "text": "[Danny]:  God Dammit!!\n[Matt]:  Does,  does Yoshi have a good dice?",
+      "start": 78.74,
+      "duration": 2.18
+    },
+    {
+      "text": "[Danny]:  Well, we'r-- we're not playing a full game right?",
+      "start": 80.92,
+      "duration": 1.6
+    },
+    {
+      "text": "[Danny]:  This is just a special one?",
+      "start": 82.52,
+      "duration": 1.42
+    },
+    {
+      "text": "[Arin]:  No, we're playing a full, like",
+      "start": 83.94,
+      "duration": 1.72
+    },
+    {
+      "text": "[Danny]:  JESUS CHRIST!",
+      "start": 85.66,
+      "duration": 0.78
+    },
+    {
+      "text": "[Danny]:  AND I'M LOCKED INTO DRY BONES?!?!",
+      "start": 86.44,
+      "duration": 1.66
+    },
+    {
+      "text": "[Matt]:  Suck it Dan",
+      "start": 88.1,
+      "duration": 0.5
+    },
+    {
+      "text": "[Danny]:  Awww.  You fucked me Arin!\n[Matt]:  Suck it Dan",
+      "start": 88.6,
+      "duration": 1.3
+    },
+    {
+      "text": "[Arin]: Do you wanna ge--.  [Danny]:  You fucked me for the last time!!",
+      "start": 89.9,
+      "duration": 1.66
+    },
+    {
+      "text": "[Arin]:  Do you want to try it again?",
+      "start": 91.56,
+      "duration": 0.74
+    },
+    {
+      "text": "[Danny]:  Nah, I'm just kidding, it's fine.  I like his shoes",
+      "start": 92.3,
+      "duration": 1.92
+    },
+    {
+      "text": "[Matt]:  Ohh!  Gotta shake it!",
+      "start": 94.22,
+      "duration": 1.56
+    },
+    {
+      "text": "[Matt]:  So, uh, I guess Ryan and I are on a team, right?",
+      "start": 95.78,
+      "duration": 1.96
+    },
+    {
+      "text": "[Arin]:  Yeah\n[Matt]:  So, uh, I guess Ryan and I are on a team, right?",
+      "start": 97.74,
+      "duration": 0.54
+    },
+    {
+      "text": "[Matt]:  And then, uhh, you guys are on a team?",
+      "start": 98.28,
+      "duration": 1.22
+    },
+    {
+      "text": "[Arin]:  Yeah.  We gonna do team-- team match",
+      "start": 99.5,
+      "duration": 0.96
+    },
+    {
+      "text": "[Danny]:  Oh it's team--!  \n[Arin]:  Yeah.  We gonna do team-- team match.",
+      "start": 100.46,
+      "duration": 1.18
+    },
+    {
+      "text": "[Danny]:  That's what special about it!\n[Arin]:  Yeah, yeah, yeah",
+      "start": 101.64,
+      "duration": 0.5
+    },
+    {
+      "text": "[Matt]:  Okay!\n[Danny]:  That's what special about it!\n[Arin]:  Yeah, yeah, yeah",
+      "start": 102.14,
+      "duration": 0.9
+    },
+    {
+      "text": "[Matt]:  It's ah-- it's ah-- it's ah-- it's a real Game Grumps versus Super Mega kind of day",
+      "start": 103.04,
+      "duration": 2.7
+    },
+    {
+      "text": "[Danny]:  Oooo!  I love it!",
+      "start": 105.74,
+      "duration": 1.16
+    },
+    {
+      "text": "[Arin]:  Partner Party\n[Ryan]:  Have you done the raft one?  I haven't done the raft one yet",
+      "start": 106.9,
+      "duration": 2.82
+    },
+    {
+      "text": "[Ryan]:  Where you all raft\n[Arin]:  The raft one?  Oh!  That one's pretty fun.",
+      "start": 109.72,
+      "duration": 2.22
+    },
+    {
+      "text": "[Arin]:  Yeah, we can do that, like, after I guess",
+      "start": 111.94,
+      "duration": 2.14
+    },
+    {
+      "text": "[Ryan]:  Okay\n[Arin]:  Cause that one takes",
+      "start": 114.08,
+      "duration": 0.88
+    },
+    {
+      "text": "[Danny]:  The Watermelon Walkabout?\n[Ryan]:  Okay\n[Arin]:  Cause that one takes",
+      "start": 114.96,
+      "duration": 1.4
+    },
+    {
+      "text": "[Arin] (fast):  The Watermelon Walkabout?",
+      "start": 116.36,
+      "duration": 0.88
+    },
+    {
+      "text": "[Danny] (fast):  The Watermelon Walkabout?",
+      "start": 117.24,
+      "duration": 0.84
+    },
+    {
+      "text": "[Arin]:  Yeah, what levels should we do mannnn",
+      "start": 118.08,
+      "duration": 1.64
+    },
+    {
+      "text": "[Arin]:  We got Gold Rush Mine, Watermelon Walkabout",
+      "start": 119.72,
+      "duration": 2.02
+    },
+    {
+      "text": "[Matt]:  I've done the Watermelon one and I've done the",
+      "start": 121.74,
+      "duration": 2.0
+    },
+    {
+      "text": "[Matt]: uhh, duh, umm",
+      "start": 123.74,
+      "duration": 1.46
+    },
+    {
+      "text": "[Matt]:  that one!",
+      "start": 125.2,
+      "duration": 0.8
+    },
+    {
+      "text": "[Danny]: I-- yeah, I've never-- I've never played, uhh",
+      "start": 126.0,
+      "duration": 2.44
+    },
+    {
+      "text": "[Danny]:  Tantalizing...",
+      "start": 128.44,
+      "duration": 1.64
+    },
+    {
+      "text": "[Danny]:  Whatever it's called",
+      "start": 130.08,
+      "duration": 0.98
+    },
+    {
+      "text": "[Arin]:  This one?\n[Ryan]:  I've not played this one\n[Danny]:  Tower Toys",
+      "start": 131.06,
+      "duration": 1.2
+    },
+    {
+      "text": "[Arin]:  Ah, this one's tough",
+      "start": 132.26,
+      "duration": 1.08
+    },
+    {
+      "text": "[Danny]:  Is it?\n[Ryan]:  It's fun though!",
+      "start": 133.34,
+      "duration": 1.64
+    },
+    {
+      "text": "[Danny]:  Really?\n[Ryan]:  I played it, umm",
+      "start": 134.98,
+      "duration": 1.02
+    },
+    {
+      "text": "[Ryan]:  I played it with you last night, buddy.",
+      "start": 136.0,
+      "duration": 1.26
+    },
+    {
+      "text": "[Danny]:  It's ton--  it's--  boy oof,  It's fun and tough?",
+      "start": 137.26,
+      "duration": 2.7
+    },
+    {
+      "text": "[Matt]:  Also known as fough?\n[Danny]:  Also known as fough?",
+      "start": 139.96,
+      "duration": 1.52
+    },
+    {
+      "text": "(laughter)\n[Danny]:  Yeah, exactly.",
+      "start": 141.48,
+      "duration": 1.24
+    },
+    {
+      "text": "[Matt]:  Let's just fucking fough",
+      "start": 142.72,
+      "duration": 1.68
+    },
+    {
+      "text": "[Danny]:  Fifteen turns?!?!",
+      "start": 144.4,
+      "duration": 1.2
+    },
+    {
+      "text": "[Arin]:  Yeah",
+      "start": 145.6,
+      "duration": 0.82
+    },
+    {
+      "text": "[Danny]:  What are we??  Made of time?!??!",
+      "start": 146.42,
+      "duration": 1.4
+    },
+    {
+      "text": "[Arin]:  Yeah",
+      "start": 147.82,
+      "duration": 0.5
+    },
+    {
+      "text": "[Danny]:  Alright",
+      "start": 148.32,
+      "duration": 0.86
+    },
+    {
+      "text": "(Laughter)\n[Matt]:  I, uhh....",
+      "start": 149.18,
+      "duration": 0.94
+    },
+    {
+      "text": "[Matt]:  I played this game on a Game Grumps livestream with",
+      "start": 150.12,
+      "duration": 1.98
+    },
+    {
+      "text": "[Matt]:  With Arin Hanson, I had a-- quite a fun time",
+      "start": 152.1,
+      "duration": 2.24
+    },
+    {
+      "text": "[Matt]:  I was on a team with Ross and we...",
+      "start": 154.34,
+      "duration": 1.06
+    },
+    {
+      "text": "[Arin]:  Yeah\n[Matt]:  I was on a team with Ross and we...",
+      "start": 155.4,
+      "duration": 0.7
+    },
+    {
+      "text": "[Matt]:  Did we lose or win?  I don't remember",
+      "start": 156.1,
+      "duration": 1.88
+    },
+    {
+      "text": "[Arin]:  I don't remember either",
+      "start": 157.98,
+      "duration": 0.84
+    },
+    {
+      "text": "[Matt]:  I think I probably loss",
+      "start": 158.82,
+      "duration": 0.7
+    },
+    {
+      "text": "[Arin]:  I guess you'll have to watch the episode\n[Matt]:  I think I probably loss",
+      "start": 159.52,
+      "duration": 1.46
+    },
+    {
+      "text": "[Arin]:  to find out",
+      "start": 160.98,
+      "duration": 0.66
+    },
+    {
+      "text": "[Matt]:  Yeah, I guess people have to see.",
+      "start": 161.64,
+      "duration": 1.26
+    },
+    {
+      "text": "[Danny]:  This is fun",
+      "start": 162.9,
+      "duration": 1.18
+    },
+    {
+      "text": "[Arin]:  It is, right?",
+      "start": 164.08,
+      "duration": 1.0
+    },
+    {
+      "text": "[Arin]:  Hanging out with friends",
+      "start": 165.08,
+      "duration": 1.22
+    },
+    {
+      "text": "[Matt]:  Why does it look like this??\n[Arin]:  Hanging out with friends",
+      "start": 166.3,
+      "duration": 0.64
+    },
+    {
+      "text": "[Matt]:  Why does it look like this??\n[Arin]:  Playing video games.",
+      "start": 166.94,
+      "duration": 0.54
+    },
+    {
+      "text": "[Danny] (strong exhale)\n[Arin]:  Playing video games.",
+      "start": 167.48,
+      "duration": 1.14
+    },
+    {
+      "text": "[Matt]:  Oh! Is this that the special game mode, Arin? Where it's like---",
+      "start": 168.62,
+      "duration": 2.2
+    },
+    {
+      "text": "[Arin]:  You can move around as much as you want.",
+      "start": 170.82,
+      "duration": 1.6
+    },
+    {
+      "text": "[Matt]:  Oh yeah!!!!",
+      "start": 172.42,
+      "duration": 0.86
+    },
+    {
+      "text": "[Arin]:  Yeah.\n[Matt]:  Oh yeah!!!!",
+      "start": 173.28,
+      "duration": 1.14
+    },
+    {
+      "text": "[Arin]:  Uhh. Here, I'll show you\n[Matt]:  Okay",
+      "start": 174.42,
+      "duration": 1.94
+    },
+    {
+      "text": "[Arin]:  \"Hear the rules?\"  No\n[Matt]:  Alright, uhh, let's, uhh, let's read the rules",
+      "start": 176.36,
+      "duration": 1.68
+    },
+    {
+      "text": "[Danny]:  What do you mean?? Ju-- I need tuh, I need to hear them.",
+      "start": 178.04,
+      "duration": 2.2
+    },
+    {
+      "text": "[Arin]:  Oh shit, yeah.  No it's easy",
+      "start": 180.24,
+      "duration": 1.22
+    },
+    {
+      "text": "[Danny]:  Okay",
+      "start": 181.46,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin]:  Don't worry, I'll explain it better than the game will.",
+      "start": 181.96,
+      "duration": 1.86
+    },
+    {
+      "text": "[Danny]:  Alright.",
+      "start": 183.82,
+      "duration": 0.76
+    },
+    {
+      "text": "[Arin]:  Umm, so, we are on a team, right?",
+      "start": 184.58,
+      "duration": 1.72
+    },
+    {
+      "text": "[Arin]:  So we roll at the same time.  Like that!  See?",
+      "start": 186.3,
+      "duration": 2.96
+    },
+    {
+      "text": "[Danny]:  We're already fucked.",
+      "start": 189.26,
+      "duration": 1.1
+    },
+    {
+      "text": "[Arin]:  So, when we roll, our numbers get combined",
+      "start": 190.36,
+      "duration": 2.98
+    },
+    {
+      "text": "[Danny]:  Okay\n[Arin]:  And then we go that amount.",
+      "start": 193.34,
+      "duration": 1.72
+    },
+    {
+      "text": "[Danny]:  Ooohhh!\n[Arin]:  The total amount, right?",
+      "start": 195.06,
+      "duration": 0.64
+    },
+    {
+      "text": "[Matt]:  And you can...\n[Arin]:  The total amount, right?",
+      "start": 195.7,
+      "duration": 1.02
+    },
+    {
+      "text": "[Matt]:  Choose the path you take\n[Arin]:  And you can go anywhere",
+      "start": 196.72,
+      "duration": 1.62
+    },
+    {
+      "text": "[Arin]:  An-- any one of these bl-- uhh, blocks",
+      "start": 198.34,
+      "duration": 1.9
+    },
+    {
+      "text": "[Arin]:  You can go on.  It's like a board game",
+      "start": 200.24,
+      "duration": 2.1
+    },
+    {
+      "text": "[Arin]:  Like, uhhhhhhhh",
+      "start": 202.34,
+      "duration": 1.1
+    },
+    {
+      "text": "[Arin]:  A board game you would do that on....",
+      "start": 203.44,
+      "duration": 1.26
+    },
+    {
+      "text": "[Danny]:  Oh my...  Okay\n[Arin] (laughs)",
+      "start": 204.7,
+      "duration": 1.6
+    },
+    {
+      "text": "[Matt]:  Okay!",
+      "start": 206.3,
+      "duration": 0.7
+    },
+    {
+      "text": "[Arin]:  So you have tuh..\n[Matt]:  A board game you do that on.",
+      "start": 207.0,
+      "duration": 1.64
+    },
+    {
+      "text": "[Arin]:  You have to go to her to get the star.",
+      "start": 208.64,
+      "duration": 1.84
+    },
+    {
+      "text": "[Arin]:  And you have to have enough money to get the star",
+      "start": 210.48,
+      "duration": 2.54
+    },
+    {
+      "text": "[Matt]:  Okay, sounds good.\n[Danny]:  Hooolllyy Crap",
+      "start": 213.02,
+      "duration": 1.54
+    },
+    {
+      "text": "[Arin]:  Yeah.",
+      "start": 214.56,
+      "duration": 0.7
+    },
+    {
+      "text": "[Matt]:  It'd be unfortunate if our team got higher and we got there first, wouldn't it Ryan??",
+      "start": 215.26,
+      "duration": 2.88
+    },
+    {
+      "text": "[Ryan]:  Yeah, it would be very unfortunate\n[Matt]:  It'd be unfortunate if our team got higher and we got there first, wouldn't it Ryan??",
+      "start": 218.14,
+      "duration": 1.22
+    },
+    {
+      "text": "[Ryan]:  Yeah, it would be very unfortunate\n[Matt]:  Let's high-five, come on.",
+      "start": 219.36,
+      "duration": 1.64
+    },
+    {
+      "text": "[Arin]:  Oh yeah, we high-five for everything",
+      "start": 221.0,
+      "duration": 1.48
+    },
+    {
+      "text": "[Danny]:  Okay, cool.\n[Matt]:  Yeah, we high-five to get some coins.",
+      "start": 222.48,
+      "duration": 2.64
+    },
+    {
+      "text": "[Matt]:  It's promoting team work!",
+      "start": 225.12,
+      "duration": 2.0
+    },
+    {
+      "text": "[Matt]:  And I like that.",
+      "start": 227.12,
+      "duration": 1.3
+    },
+    {
+      "text": "[Arin]:  \"Let's start with the team that's up first.\"",
+      "start": 228.42,
+      "duration": 1.68
+    },
+    {
+      "text": "[Arin]:  Was it you guys?",
+      "start": 230.1,
+      "duration": 0.92
+    },
+    {
+      "text": "[Ryan]:  Oh yeah.\n[Matt]:  Yep",
+      "start": 231.02,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin]:  Aww, man.  Fuck you.",
+      "start": 231.52,
+      "duration": 0.56
+    },
+    {
+      "text": "[Matt]:  That's what I call synergy!\n[Danny]:  Fucking, son of a--\n[Arin]:  Aww, man.  Fuck you.",
+      "start": 232.08,
+      "duration": 1.84
+    },
+    {
+      "text": "[Danny]:  Alright",
+      "start": 233.92,
+      "duration": 0.72
+    },
+    {
+      "text": "[Matt]:  Alright!  Team Pom Pom.",
+      "start": 234.64,
+      "duration": 1.6
+    },
+    {
+      "text": "[Matt]:  Alright Ryan, do that dice block for me buddy",
+      "start": 236.24,
+      "duration": 2.1
+    },
+    {
+      "text": "[Arin]:  Everyone's favorite Mario character: Pom Pom",
+      "start": 238.34,
+      "duration": 1.98
+    },
+    {
+      "text": "(laughter)\n[Matt]:  I never knew she even existed until today.",
+      "start": 240.32,
+      "duration": 2.14
+    },
+    {
+      "text": "[Arin]:  I don't think she did exist until today...",
+      "start": 242.46,
+      "duration": 1.82
+    },
+    {
+      "text": "[Matt]:  I like her a lot though, she's cute.",
+      "start": 244.28,
+      "duration": 1.36
+    },
+    {
+      "text": "[Matt]:  Ummmm... Oooooo..",
+      "start": 245.64,
+      "duration": 1.42
+    },
+    {
+      "text": "[Ryan]:  Whic-- which die are you using my boy?",
+      "start": 247.06,
+      "duration": 2.12
+    },
+    {
+      "text": "[Ryan] (Krados impression):  \"My Boy!\"",
+      "start": 249.18,
+      "duration": 1.28
+    },
+    {
+      "text": "[Matt]:  Do I want to use the Yoshi one?\n[Arin]: Heh. (Impression): My Boy.",
+      "start": 250.46,
+      "duration": 1.68
+    },
+    {
+      "text": "[Matt]:  I'll do the normal dice block",
+      "start": 252.14,
+      "duration": 1.3
+    },
+    {
+      "text": "[Matt]:  I'm not going to take any chances today",
+      "start": 253.44,
+      "duration": 1.0
+    },
+    {
+      "text": "[Ryan]:  Are you a big baby?\n[Matt]:  I'm not going to take any chances today",
+      "start": 254.44,
+      "duration": 1.02
+    },
+    {
+      "text": "[Ryan]:  Don't want to make chances?  Make mistakes?",
+      "start": 255.46,
+      "duration": 1.5
+    },
+    {
+      "text": "[Matt]:  Well, I'd go back if-- you know what\n[Ryan]:  Get messy~",
+      "start": 256.96,
+      "duration": 1.66
+    },
+    {
+      "text": "[Matt]:  There you go, I got four.",
+      "start": 258.62,
+      "duration": 1.0
+    },
+    {
+      "text": "[Arin]:  So, now, they both go seven.",
+      "start": 259.62,
+      "duration": 1.88
+    },
+    {
+      "text": "[Arin]:  So they can go anywhere",
+      "start": 261.5,
+      "duration": 1.52
+    },
+    {
+      "text": "[Matt]:  Alright Ryan, you gotta go up and get that star, buddy.",
+      "start": 263.02,
+      "duration": 2.04
+    },
+    {
+      "text": "[Arin]:  And you want to pick up coins on the way.",
+      "start": 265.06,
+      "duration": 1.88
+    },
+    {
+      "text": "[Danny]:  Right",
+      "start": 266.94,
+      "duration": 0.52
+    },
+    {
+      "text": "[Arin]:  If you pass other players, then you steal coins from them.",
+      "start": 267.46,
+      "duration": 3.66
+    },
+    {
+      "text": "[Danny]:  Oh my god!  The strategery!\n[Ryan]:  Oh, right here, that looks good.",
+      "start": 271.12,
+      "duration": 2.22
+    },
+    {
+      "text": "[Arin]:  You can't open that, you need a key",
+      "start": 273.34,
+      "duration": 1.7
+    },
+    {
+      "text": "[Matt]:  Yeah, you need a key.\n[Arin]:  You can't open that, you need a key",
+      "start": 275.04,
+      "duration": 1.18
+    },
+    {
+      "text": "[Matt]:  Can you go up the blue?",
+      "start": 276.22,
+      "duration": 1.14
+    },
+    {
+      "text": "[Arin]:  Yeah, so if you land on the exclamation mark,",
+      "start": 277.36,
+      "duration": 1.98
+    },
+    {
+      "text": "[Arin]:  It'll put you up the blue.",
+      "start": 279.34,
+      "duration": 1.16
+    },
+    {
+      "text": "[Matt]:  Okay,  I like the way that sounds.",
+      "start": 280.5,
+      "duration": 1.66
+    },
+    {
+      "text": "[Ryan]:  So if I do--, if I do this, for example.\n[Matt]:  Okay,  I like the way that sounds.",
+      "start": 282.16,
+      "duration": 1.84
+    },
+    {
+      "text": "[Arin]: Yes",
+      "start": 284.0,
+      "duration": 0.5
+    },
+    {
+      "text": "[Matt]:  Okay\n[Danny]:  Mmhmm",
+      "start": 284.5,
+      "duration": 0.96
+    },
+    {
+      "text": "[Arin]:  Missing out on the coin-ppertunity",
+      "start": 285.46,
+      "duration": 2.16
+    },
+    {
+      "text": "[Matt]:  Ummmm\n[Danny]:  Mmmm",
+      "start": 287.62,
+      "duration": 1.18
+    },
+    {
+      "text": "[Arin]:  You could go the other way, and grab that third coin",
+      "start": 288.8,
+      "duration": 2.68
+    },
+    {
+      "text": "[Matt]:  What if--- What if....",
+      "start": 291.48,
+      "duration": 0.56
+    },
+    {
+      "text": "[Ryan]:  I already locked it in.",
+      "start": 292.04,
+      "duration": 1.14
+    },
+    {
+      "text": "[Matt]:  Wait, can I-- can I look at the map to see if there are any keys?",
+      "start": 293.18,
+      "duration": 0.98
+    },
+    {
+      "text": "[Arin]:  You can retry...\n[Matt]:  Wait, can I-- can I look at the map to see if there are any keys?",
+      "start": 294.16,
+      "duration": 1.12
+    },
+    {
+      "text": "[Matt]:  Is there a key I can get?",
+      "start": 295.28,
+      "duration": 1.82
+    },
+    {
+      "text": "[Arin]: The key is in the top right. Do you see it floating?",
+      "start": 297.1,
+      "duration": 2.66
+    },
+    {
+      "text": "[Danny]:  Oh yeah!\n[Arin]:  Underneath the red coin",
+      "start": 299.76,
+      "duration": 0.86
+    },
+    {
+      "text": "[Matt]:  Oh that's real helpful.\n[Arin]:  Underneath the red coin",
+      "start": 300.62,
+      "duration": 1.0
+    },
+    {
+      "text": "[Matt]:  Okay... Ummm...",
+      "start": 301.62,
+      "duration": 0.76
+    },
+    {
+      "text": "[Danny]:  What does that do??",
+      "start": 302.38,
+      "duration": 1.24
+    },
+    {
+      "text": "[Arin]:  So, it helps you open that left spot.",
+      "start": 303.62,
+      "duration": 1.98
+    },
+    {
+      "text": "[Arin]:  Which, I think, has an extra star in it.",
+      "start": 305.6,
+      "duration": 1.88
+    },
+    {
+      "text": "[Danny] (breathes excitedly)",
+      "start": 307.48,
+      "duration": 1.08
+    },
+    {
+      "text": "[Arin]:  Also a ton of coins.",
+      "start": 308.56,
+      "duration": 1.16
+    },
+    {
+      "text": "[Matt]:  I wanna get this coin for us Ryan",
+      "start": 309.72,
+      "duration": 0.88
+    },
+    {
+      "text": "[Arin]:  Yeah\n[Matt]:  I wanna get this coin for us Ryan",
+      "start": 310.6,
+      "duration": 1.12
+    },
+    {
+      "text": "[Arin]:  So, there's a lot of strategery for this.",
+      "start": 311.72,
+      "duration": 1.34
+    },
+    {
+      "text": "[Ryan]:  I could have gotten it.\n[Arin]:  So, there's a lot of strategery for this.",
+      "start": 313.06,
+      "duration": 1.12
+    },
+    {
+      "text": "[Danny]:  Yeah",
+      "start": 314.18,
+      "duration": 0.74
+    },
+    {
+      "text": "[Ryan]:  You know what I'm saying?",
+      "start": 314.92,
+      "duration": 0.5
+    },
+    {
+      "text": "[Ryan]:  You know what I'm saying?\n[Arin]: So you can't land on that,",
+      "start": 315.42,
+      "duration": 1.16
+    },
+    {
+      "text": "[Arin]:  You didn't roll an odd number",
+      "start": 316.58,
+      "duration": 1.32
+    },
+    {
+      "text": "[Ryan]:  Should I retry?",
+      "start": 317.9,
+      "duration": 0.88
+    },
+    {
+      "text": "[Matt]:  No, I think--",
+      "start": 318.78,
+      "duration": 1.2
+    },
+    {
+      "text": "[Arin]:  You should retry if you want to get that third coin over there.",
+      "start": 319.98,
+      "duration": 2.74
+    },
+    {
+      "text": "[Matt]: Get that third coin, buddy\n[Arin]:  Yeah, there you go",
+      "start": 322.72,
+      "duration": 1.08
+    },
+    {
+      "text": "[Ryan]:  Boom!\n[Matt]:  Okay, look at that!",
+      "start": 323.8,
+      "duration": 1.04
+    },
+    {
+      "text": "[Arin]:  Look at you baby!",
+      "start": 324.84,
+      "duration": 1.0
+    },
+    {
+      "text": "[Matt]:  I guess I'll just--",
+      "start": 325.84,
+      "duration": 0.78
+    },
+    {
+      "text": "[Arin]:  Why don't you just spit up and go to the right?",
+      "start": 326.62,
+      "duration": 1.88
+    },
+    {
+      "text": "[Ryan]:  Yeah\n[Matt]:  You know what?  I wanna do that",
+      "start": 328.5,
+      "duration": 0.74
+    },
+    {
+      "text": "[Matt]:  I don't need to stick with my good friend, Ryan!",
+      "start": 329.24,
+      "duration": 1.74
+    },
+    {
+      "text": "[Arin]:  Yeah man, you don't have to stay together\n[Matt]:  I wanted to, because I'm very co-dependent.",
+      "start": 330.98,
+      "duration": 2.4
+    },
+    {
+      "text": "[Matt]:  But, uhh...  Imma do this, this time.",
+      "start": 333.38,
+      "duration": 2.62
+    },
+    {
+      "text": "[Matt]:  There you go Ryan",
+      "start": 336.0,
+      "duration": 0.92
+    },
+    {
+      "text": "[Ryan]:  Naruto Run!",
+      "start": 336.92,
+      "duration": 0.58
+    },
+    {
+      "text": "[Arin]:  Dude, nice ninja run.\n[Ryan]:  Naruto Run!",
+      "start": 337.5,
+      "duration": 1.32
+    },
+    {
+      "text": "(laughter)",
+      "start": 338.82,
+      "duration": 0.8
+    },
+    {
+      "text": "[Matt]:  That is the Naruto Run.",
+      "start": 339.62,
+      "duration": 0.78
+    },
+    {
+      "text": "(laughter)\n[Ryan]:  I like it",
+      "start": 340.4,
+      "duration": 0.94
+    },
+    {
+      "text": "[Arin]:  Dude, I'd bet all our friends love her",
+      "start": 341.34,
+      "duration": 1.3
+    },
+    {
+      "text": "[Ryan] (laughing)",
+      "start": 342.64,
+      "duration": 0.84
+    },
+    {
+      "text": "[Arin]:  She doesn't embarrass anybody.",
+      "start": 343.48,
+      "duration": 1.22
+    },
+    {
+      "text": "[Matt]:  Did you guys know any kids that were really into anime?",
+      "start": 344.7,
+      "duration": 2.16
+    },
+    {
+      "text": "[Matt]:  Like in middle school and high school that would actually run like that?",
+      "start": 346.86,
+      "duration": 2.58
+    },
+    {
+      "text": "[Arin]:  Yeah, I'd look in the mirror",
+      "start": 349.44,
+      "duration": 1.38
+    },
+    {
+      "text": "(laughter)",
+      "start": 350.82,
+      "duration": 0.86
+    },
+    {
+      "text": "[Matt]:  Did you-- did you-- did you actual run like that?\n(laughter)",
+      "start": 351.68,
+      "duration": 1.42
+    },
+    {
+      "text": "[Arin]:  Of course I Naruto Run, are you kidding me??",
+      "start": 353.1,
+      "duration": 1.32
+    },
+    {
+      "text": "[Matt]:  It doesn't make you go faster though.",
+      "start": 354.42,
+      "duration": 0.98
+    },
+    {
+      "text": "[Ryan]:  Like through the high school hallways?\n[Matt]:  It doesn't make you go faster though.",
+      "start": 355.4,
+      "duration": 1.64
+    },
+    {
+      "text": "[Arin]:  Well... Maybe",
+      "start": 357.04,
+      "duration": 0.9
+    },
+    {
+      "text": "[Ryan] (laughing)\n[Arin]:  Well... Maybe",
+      "start": 357.94,
+      "duration": 0.66
+    },
+    {
+      "text": "[Arin]:  I might have!!",
+      "start": 358.6,
+      "duration": 1.12
+    },
+    {
+      "text": "[Matt]:  That's the real reason he left high school.",
+      "start": 359.72,
+      "duration": 1.88
+    },
+    {
+      "text": "[Arin]:  I got...",
+      "start": 361.6,
+      "duration": 0.66
+    },
+    {
+      "text": "[Arin]:  I--",
+      "start": 362.26,
+      "duration": 1.06
+    },
+    {
+      "text": "[Arin]:  I fucking... uhhh",
+      "start": 363.32,
+      "duration": 1.34
+    },
+    {
+      "text": "[Arin]:  You've never seen that picture of me and the swords and shit?",
+      "start": 364.66,
+      "duration": 1.84
+    },
+    {
+      "text": "[Matt]:  I've seen that picture, I love it!\n[Arin]:  You've never seen that picture of me and the swords and shit?",
+      "start": 366.5,
+      "duration": 1.24
+    },
+    {
+      "text": "[Danny]:  Oh my Lord!\n[Ryan]:  I've seen that picture, I love it!\n[Arin]:  You've never seen that picture of me and the swords and shit?",
+      "start": 367.74,
+      "duration": 1.3
+    },
+    {
+      "text": "[Arin]:  Me to the tee",
+      "start": 369.04,
+      "duration": 0.84
+    },
+    {
+      "text": "[Danny]:  That's a crazy...",
+      "start": 369.88,
+      "duration": 1.3
+    },
+    {
+      "text": "[Danny]: Risk reward\n[Arin]:  Yeah, yeah.  It's a gamble.",
+      "start": 371.8,
+      "duration": 1.86
+    },
+    {
+      "text": "[Danny]:  I kind of like it!\n[Arin]:  Yeah, yeah.  It's a gamble.",
+      "start": 373.66,
+      "duration": 0.92
+    },
+    {
+      "text": "[Arin]:  Dude... fuckin'...",
+      "start": 374.58,
+      "duration": 0.84
+    },
+    {
+      "text": "[Danny]:  It's banaenerz",
+      "start": 375.42,
+      "duration": 1.02
+    },
+    {
+      "text": "[Arin]:  Give it a shot.",
+      "start": 376.44,
+      "duration": 0.64
+    },
+    {
+      "text": "[Matt]:  Like.. I think the thing about the Naruto Run is if",
+      "start": 377.08,
+      "duration": 1.96
+    },
+    {
+      "text": "[Matt]:  Even if it makes you go faster",
+      "start": 379.04,
+      "duration": 1.9
+    },
+    {
+      "text": "[Matt]:  The down side is...",
+      "start": 380.94,
+      "duration": 1.6
+    },
+    {
+      "text": "[Matt]:  You're more likely to trip and then, you don't have your hands in front of you.",
+      "start": 382.54,
+      "duration": 2.58
+    },
+    {
+      "text": "[Matt]:  So you're probably gonna smash your face up even more than it probably already looked",
+      "start": 385.12,
+      "duration": 2.36
+    },
+    {
+      "text": "[Danny]:  SHIT!\n[Matt]:  So you're probably gonna smash your face up even more than it probably already looked",
+      "start": 387.48,
+      "duration": 1.1
+    },
+    {
+      "text": "[Arin]:  Wow.",
+      "start": 388.58,
+      "duration": 0.5
+    },
+    {
+      "text": "[Matt]:  Oooh!",
+      "start": 389.08,
+      "duration": 0.72
+    },
+    {
+      "text": "[Arin]:  We really, uhh...",
+      "start": 389.8,
+      "duration": 1.1
+    },
+    {
+      "text": "[Danny]:  I really effed us.",
+      "start": 390.9,
+      "duration": 1.4
+    },
+    {
+      "text": "[Danny]:  But!  I'll just land on a mushroom spot",
+      "start": 392.3,
+      "duration": 1.56
+    },
+    {
+      "text": "[Arin]:  Yeah same\n[Danny]:  But!  I'll just land on a mushroom spot",
+      "start": 393.86,
+      "duration": 1.22
+    },
+    {
+      "text": "[Arin]:  I'll do that!",
+      "start": 395.08,
+      "duration": 0.96
+    },
+    {
+      "text": "[Arin]:  You can do whatever you want, you don't have to wait for me.",
+      "start": 397.22,
+      "duration": 1.52
+    },
+    {
+      "text": "[Danny]:  Ooohhhhh~~",
+      "start": 398.74,
+      "duration": 1.04
+    },
+    {
+      "text": "[Arin]:  I'm going there.",
+      "start": 399.78,
+      "duration": 0.84
+    },
+    {
+      "text": "[Ryan]:  You better not\n[Arin]:  I'm going there.",
+      "start": 400.62,
+      "duration": 0.5
+    },
+    {
+      "text": "[Danny]:  Yeah, you want me to?",
+      "start": 401.12,
+      "duration": 0.78
+    },
+    {
+      "text": "[Ryan]: Stop.... stop\n[Matt]:  Dan. Dan! Dan!! That's actually a bad strategy if I'm being honest.",
+      "start": 401.9,
+      "duration": 2.46
+    },
+    {
+      "text": "[Matt]:  Dan. Dan! Dan!! That's actually a bad strategy if I'm being honest.",
+      "start": 404.36,
+      "duration": 0.62
+    },
+    {
+      "text": "[Ryan]:  You're just gonna copy me?  Copycat?",
+      "start": 404.98,
+      "duration": 1.58
+    },
+    {
+      "text": "[Arin]:  I dunno man...",
+      "start": 406.56,
+      "duration": 0.74
+    },
+    {
+      "text": "[Matt] Dan that's a really bad strategy if you go up there",
+      "start": 407.3,
+      "duration": 1.96
+    },
+    {
+      "text": "[Ryan]:  No you should just, do what you just did",
+      "start": 409.26,
+      "duration": 1.52
+    },
+    {
+      "text": "[Danny]:  Why is...\n[Ryan]:  Go up, then all the way left.",
+      "start": 410.78,
+      "duration": 1.74
+    },
+    {
+      "text": "[Arin] (laughing)",
+      "start": 412.52,
+      "duration": 1.1
+    },
+    {
+      "text": "[Danny]:  Why is that a bad strategy?",
+      "start": 413.62,
+      "duration": 0.5
+    },
+    {
+      "text": "[Ryan]:  Right there!  Right there!\n[Danny]:  Why is that a bad strategy?",
+      "start": 414.12,
+      "duration": 0.56
+    },
+    {
+      "text": "[Arin] (laughing)\n[Matt]:  No!  That was good!  Go back!!\n[Danny]:  Why is that a bad strategy?",
+      "start": 414.68,
+      "duration": 1.4
+    },
+    {
+      "text": "[Arin]:  He's trying to fuck you\n[Ryan]:  Right there Dan!",
+      "start": 416.08,
+      "duration": 1.52
+    },
+    {
+      "text": "[Danny]:  I kn--",
+      "start": 417.6,
+      "duration": 0.5
+    },
+    {
+      "text": "[Ryan]:  No, no, no, no\n[Matt]:  No, that's a bad strategy.",
+      "start": 418.32,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] (laughing)",
+      "start": 420.32,
+      "duration": 1.2
+    },
+    {
+      "text": "[Ryan]:  Dan, go back!",
+      "start": 421.52,
+      "duration": 0.64
+    },
+    {
+      "text": "[Ryan]:  There, there, there!!\n[Danny]:  What about here?",
+      "start": 422.16,
+      "duration": 1.1
+    },
+    {
+      "text": "[Arin]:  Oh yeah, no\n[Ryan]:  Perfect, perfect!\n[Danny]:  Yeah?  That's the one?",
+      "start": 423.26,
+      "duration": 1.56
+    },
+    {
+      "text": "[Arin]:  He'll definitely not get anything out of that",
+      "start": 424.82,
+      "duration": 1.96
+    },
+    {
+      "text": "[Matt]:  She-- Sheith just called and said \"That's it!\"\n[Arin]:  So, maybe no.",
+      "start": 426.78,
+      "duration": 2.1
+    },
+    {
+      "text": "[Danny]:  What do you think?  How about this one?",
+      "start": 428.88,
+      "duration": 1.4
+    },
+    {
+      "text": "[Ryan]:  Spartan 117 called, \"That's not the right move buck-o.\"",
+      "start": 430.28,
+      "duration": 2.54
+    },
+    {
+      "text": "(laughter)",
+      "start": 432.82,
+      "duration": 2.84
+    },
+    {
+      "text": "[Arin]:  Is that a Minecraft reference??",
+      "start": 435.66,
+      "duration": 1.6
+    },
+    {
+      "text": "[Ryan]:  That's master chief dude!",
+      "start": 437.26,
+      "duration": 1.52
+    },
+    {
+      "text": "[Arin]:  Yeah, from Minecraft!",
+      "start": 438.78,
+      "duration": 0.7
+    },
+    {
+      "text": "(laughter)\n[Danny]:  You got an Ally",
+      "start": 439.48,
+      "duration": 2.1
+    },
+    {
+      "text": "[Danny]:  You got an ally phone bro!",
+      "start": 441.78,
+      "duration": 1.46
+    },
+    {
+      "text": "[Arin]:  Yeah, dude! We can g-- I can get an ally",
+      "start": 443.24,
+      "duration": 1.58
+    },
+    {
+      "text": "[Arin]:  Or you, if you use it first",
+      "start": 444.82,
+      "duration": 1.52
+    },
+    {
+      "text": "[Danny]:  Skooziee~~~",
+      "start": 446.34,
+      "duration": 0.66
+    },
+    {
+      "text": "[Matt]:  Dan, I said that was a bad move.",
+      "start": 447.0,
+      "duration": 1.58
+    },
+    {
+      "text": "[Matt]:  Uhhh",
+      "start": 448.58,
+      "duration": 0.86
+    },
+    {
+      "text": "[Arin]:  Turns out...",
+      "start": 449.44,
+      "duration": 0.7
+    },
+    {
+      "text": "[Arin]:  It was a good move.",
+      "start": 450.48,
+      "duration": 0.88
+    },
+    {
+      "text": "[Ryan]:  Wow, It's almost like I've seen this animation before, when I did it, so...",
+      "start": 451.36,
+      "duration": 2.66
+    },
+    {
+      "text": "[Arin]:  Yeah, but check it out!",
+      "start": 454.02,
+      "duration": 1.12
+    },
+    {
+      "text": "[Arin]:  Now you're gonna get-- steal coins from him.",
+      "start": 455.14,
+      "duration": 2.26
+    },
+    {
+      "text": "[Arin]:  Oh no.  Nu-- nu-- nothin' happened",
+      "start": 457.4,
+      "duration": 1.46
+    },
+    {
+      "text": "[Danny] (laughing)\n[Ryan]:  Did you lie to him??",
+      "start": 458.86,
+      "duration": 0.86
+    },
+    {
+      "text": "[Arin]:  Bummer",
+      "start": 459.72,
+      "duration": 0.98
+    },
+    {
+      "text": "[Matt]:  I would hope as a friend, you wouldn't be lying to my friend: Ryan",
+      "start": 460.7,
+      "duration": 2.56
+    },
+    {
+      "text": "[Arin]:  I'm not lying!\n[Ryan]:  I get my hopes up pretty fast.  :(",
+      "start": 463.26,
+      "duration": 1.14
+    },
+    {
+      "text": "[Arin]:  I'm not lying, Ryan!!!\n[Ryan]:  I get my hopes up pretty fast.  :(",
+      "start": 464.4,
+      "duration": 1.4
+    },
+    {
+      "text": "[Matt]:  You're lying to Ryan, dude!",
+      "start": 465.8,
+      "duration": 1.2
+    },
+    {
+      "text": "[Arin]:  I'm not!!!!\n[Matt]:  You're lying to Ryan, dude!",
+      "start": 467.0,
+      "duration": 0.5
+    },
+    {
+      "text": "[Matt]:  And that's rude dude.",
+      "start": 467.5,
+      "duration": 0.62
+    },
+    {
+      "text": "[Danny]:  Ohh Boy\n[Matt]:  And that's rude dude.",
+      "start": 468.12,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin]:  We gotta-- we gotta shave the ice, dude.",
+      "start": 468.62,
+      "duration": 0.64
+    },
+    {
+      "text": "[Matt]:  Ohhh\n[Arin]:  We gotta-- we gotta shave the ice, dude.",
+      "start": 469.26,
+      "duration": 0.5
+    },
+    {
+      "text": "[Matt]:  Ohhh. this one, yeah, okay.\n[Arin]:  We gotta-- we gotta shave the ice, dude.",
+      "start": 469.76,
+      "duration": 1.54
+    },
+    {
+      "text": "[Matt]:  So, okay\n[Arin]:  But you only have a certain amount of ice.",
+      "start": 471.3,
+      "duration": 1.74
+    },
+    {
+      "text": "[Matt]: (echoing): You only have a certain amount of ice\n[Arin]:  So you gotta be stingy about it",
+      "start": 473.04,
+      "duration": 1.28
+    },
+    {
+      "text": "[Matt]:  So you want to turn it, while it's underneath\n[Arin]:  But you also gotta be fast enough",
+      "start": 474.32,
+      "duration": 2.32
+    },
+    {
+      "text": "[Matt]:  Only when it's underneath though\n[Arin]:  So you're out of it, by the end of it.",
+      "start": 476.64,
+      "duration": 1.56
+    },
+    {
+      "text": "[Matt]:  Yep.  Like that.",
+      "start": 478.2,
+      "duration": 0.8
+    },
+    {
+      "text": "[Ryan]:  Okay.",
+      "start": 479.0,
+      "duration": 0.5
+    },
+    {
+      "text": "[Matt]: Okay!!",
+      "start": 479.5,
+      "duration": 0.5
+    },
+    {
+      "text": "[Matt]:  I'm ready when you guys are.",
+      "start": 480.0,
+      "duration": 1.04
+    },
+    {
+      "text": "[Ryan]:  I'm ready!  I'm fuckin'-- I'm fucking pumped!",
+      "start": 481.04,
+      "duration": 2.78
+    },
+    {
+      "text": "[Matt]:  ♪ I'm ready! ♪",
+      "start": 483.82,
+      "duration": 1.3
+    },
+    {
+      "text": "[Matt]:  ♪ Promotion ♪",
+      "start": 485.12,
+      "duration": 1.0
+    },
+    {
+      "text": "[Arin]:  Yeah, let's fucking do this\n[Matt]:  That's a Spongebob reference",
+      "start": 486.12,
+      "duration": 2.06
+    },
+    {
+      "text": "[Danny]:  What happens if you shave the ice when it's not around",
+      "start": 488.54,
+      "duration": 1.88
+    },
+    {
+      "text": "[Matt]:  Then you lose the ice.",
+      "start": 490.42,
+      "duration": 0.92
+    },
+    {
+      "text": "[Arin]:  Ice just goes away dude.",
+      "start": 491.34,
+      "duration": 0.96
+    },
+    {
+      "text": "[Danny]:  Oooh\n[Arin]:  Ice just goes away dude.",
+      "start": 492.3,
+      "duration": 0.7
+    },
+    {
+      "text": "[Ryan]:  Okay",
+      "start": 493.0,
+      "duration": 0.5
+    },
+    {
+      "text": "[Danny]:  God No!",
+      "start": 493.5,
+      "duration": 0.9
+    },
+    {
+      "text": "[Arin]:  You don't wanna\n[Danny]:  God No!",
+      "start": 494.4,
+      "duration": 0.54
+    },
+    {
+      "text": "[Arin]:  End with no ice dude.",
+      "start": 494.94,
+      "duration": 1.92
+    },
+    {
+      "text": "[Matt] (determined exhale)",
+      "start": 496.86,
+      "duration": 0.84
+    },
+    {
+      "text": "[Ryan]:  Got it?",
+      "start": 497.7,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin]:  You want just ice.\n[Matt]:  Yep",
+      "start": 498.2,
+      "duration": 1.16
+    },
+    {
+      "text": "[Ryan]:  Oooooo",
+      "start": 499.36,
+      "duration": 0.8
+    },
+    {
+      "text": "[Matt]:  Oh, I'm just getting my ice up. Ohh",
+      "start": 500.9,
+      "duration": 1.12
+    },
+    {
+      "text": "[Danny]:  Uughhhhhhnnnnnnn\n[Matt]:  Oh, I'm just getting my ice up.  Ohh",
+      "start": 502.02,
+      "duration": 1.42
+    },
+    {
+      "text": "[Arin]:  You gotta go faster Dan!",
+      "start": 503.44,
+      "duration": 1.2
+    },
+    {
+      "text": "[Danny]:  EPIC\n[Arin]:  You gotta rotate.  Rotate!!",
+      "start": 504.64,
+      "duration": 1.02
+    },
+    {
+      "text": "(all yelling)\n[Danny]:  I'm rotating!!",
+      "start": 505.66,
+      "duration": 1.2
+    },
+    {
+      "text": "[Danny]:  I'm tating!  I'm tating!!  I'm tating!!!  I'm tating!!!",
+      "start": 506.86,
+      "duration": 0.94
+    },
+    {
+      "text": "[Arin]:  ROTATE!!  ROTATE!!\n[Danny]:  I'm tating!  I'm tating!!  I'm tating!!!  I'm tating!!!",
+      "start": 507.8,
+      "duration": 0.8
+    },
+    {
+      "text": "[Arin]:  NOT JUST BACK AND FORTH!! ROTATE!!!",
+      "start": 508.6,
+      "duration": 1.36
+    },
+    {
+      "text": "[Matt]:  WE'RE ROTATING FASTER!!\n[Arin]:  NOT JUST BACK AND FORTH!! ROTATE!!!",
+      "start": 509.96,
+      "duration": 0.8
+    },
+    {
+      "text": "[Danny]:  I AM ROTATINGGG!!!!",
+      "start": 510.76,
+      "duration": 1.26
+    },
+    {
+      "text": "[Arin]: OH, YOU'RE GOING FASTER!!! YOU'RE GOOD!!",
+      "start": 512.02,
+      "duration": 0.6
+    },
+    {
+      "text": "[Ryan]: OHHHHHHHHHHHH SHIT!!\n[Arin]: OH, YOU'RE GOING FASTER!!! YOU'RE GOOD!!",
+      "start": 512.62,
+      "duration": 2.04
+    },
+    {
+      "text": "[Danny]:  OH MY GOOOOOOOOOOODDDDD!!!",
+      "start": 514.66,
+      "duration": 1.06
+    },
+    {
+      "text": "[Ryan]:  WE'RE DOIN' IT!!\n[Danny]:  OH MY GOOOOOOOOOOODDDDD!!!",
+      "start": 515.72,
+      "duration": 1.14
+    },
+    {
+      "text": "[Arin]: I'M OUT OF ICE!  I'M OUT OF ICE!!!!!!",
+      "start": 516.86,
+      "duration": 0.5
+    },
+    {
+      "text": "[Matt]:  GO RYAN!  GO!!!! GO GO!!!\n[Arin]: I'M OUT OF ICE!  I'M OUT OF ICE!!!!!!",
+      "start": 517.36,
+      "duration": 1.24
+    },
+    {
+      "text": "[Matt]:  NO, RYAN! NO, NO!! YOU GOTTA ROTATE IT!!",
+      "start": 518.6,
+      "duration": 1.18
+    },
+    {
+      "text": "[Arin]:  IT'S ALL YOU!! (x2)\n[Matt]:  NO, RYAN! NO, NO!! YOU GOTTA ROTATE IT!!",
+      "start": 519.8,
+      "duration": 1.1
+    },
+    {
+      "text": "[Danny] (Yelling)\n[Ryan]: I AM ROTATI---  OHH SHIT!!!",
+      "start": 520.9,
+      "duration": 0.9
+    },
+    {
+      "text": "[Matt]: RYAN!!!!!  D:<\n[Danny] (Yelling)\n[Ryan]: I AM ROTATI---  OHH SHIT!!!",
+      "start": 521.8,
+      "duration": 0.8
+    },
+    {
+      "text": "[Danny]: (continues to yell)\n[Arin]: JUST GO, JUST GO ALL THE WAY!  \nJUST GO GO GO GO GO!!!!!",
+      "start": 522.6,
+      "duration": 2.28
+    },
+    {
+      "text": "[Danny] (sign of relief)\n[Arin]: Yeahhhhh~~~~",
+      "start": 524.88,
+      "duration": 1.56
+    },
+    {
+      "text": "[Matt]: YOU WERE SHAKING IT!!!\n[Ryan]:  I WAS DOING THIS!!",
+      "start": 526.44,
+      "duration": 1.34
+    },
+    {
+      "text": "[Matt]: YOU WERE SHAKING IT!!! NOT ROTATING!!!!\n[Ryan]:  I WAS DOING THIS!!",
+      "start": 527.78,
+      "duration": 2.08
+    },
+    {
+      "text": "[Matt]:  I LOOKED!  YOU DOING THIS!!!",
+      "start": 529.86,
+      "duration": 1.54
+    },
+    {
+      "text": "[Ryan]:  Ooof.  Get off my back!!",
+      "start": 531.4,
+      "duration": 0.7
+    },
+    {
+      "text": "[Matt]: BACK AND FORTH!\n[Ryan]:  Ooof.  Get off my back!!",
+      "start": 532.1,
+      "duration": 1.3
+    },
+    {
+      "text": "(laughter)",
+      "start": 533.4,
+      "duration": 0.78
+    },
+    {
+      "text": "[Danny] (deep inhale)",
+      "start": 534.18,
+      "duration": 0.84
+    },
+    {
+      "text": "[Danny]:  Feelin' TENSE on that side of the couch",
+      "start": 535.02,
+      "duration": 1.88
+    },
+    {
+      "text": "[Arin]: MMmmmm",
+      "start": 536.9,
+      "duration": 0.68
+    },
+    {
+      "text": "[Arin]: I think,  I think the, uhh, the other team, is, uhh",
+      "start": 537.58,
+      "duration": 1.96
+    },
+    {
+      "text": "[Ryan]:  Excuse me sir?\n[Arin]:  losing their composure",
+      "start": 539.54,
+      "duration": 1.64
+    },
+    {
+      "text": "[Danny]:  Why are we team Boswer????",
+      "start": 541.18,
+      "duration": 0.98
+    },
+    {
+      "text": "[Matt]:  We are not losing out composure, Arin.",
+      "start": 542.16,
+      "duration": 1.94
+    },
+    {
+      "text": "[Danny]:  Like, I mean, we're clearly a team",
+      "start": 544.1,
+      "duration": 2.44
+    },
+    {
+      "text": "[Danny]:  A team of two.",
+      "start": 546.54,
+      "duration": 0.96
+    },
+    {
+      "text": "[Arin]:  Yeah, but there has to be a name for the team",
+      "start": 547.5,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin]:  And what better name than Bowser?",
+      "start": 549.5,
+      "duration": 1.56
+    },
+    {
+      "text": "[Danny]:  How 'bout Bow Bones",
+      "start": 551.06,
+      "duration": 1.34
+    },
+    {
+      "text": "[Arin]: uhhhhhh",
+      "start": 552.4,
+      "duration": 0.5
+    },
+    {
+      "text": "[Ryan]: They did that with the, uhh, baseball game they made",
+      "start": 552.9,
+      "duration": 2.64
+    },
+    {
+      "text": "[Ryan]:  They would combine the names.",
+      "start": 555.54,
+      "duration": 0.5
+    },
+    {
+      "text": "[Danny]:  Is that right?\n[Ryan]:  They would combine the names.",
+      "start": 556.04,
+      "duration": 0.5
+    },
+    {
+      "text": "[Danny]:  Is that right?\n[Ryan]:  Yeah",
+      "start": 556.54,
+      "duration": 0.62
+    },
+    {
+      "text": "[Arin]: Really??",
+      "start": 557.16,
+      "duration": 0.5
+    },
+    {
+      "text": "[Danny]:  Dry-swer?",
+      "start": 557.66,
+      "duration": 0.54
+    },
+    {
+      "text": "[Danny]: There's a lot of---",
+      "start": 558.2,
+      "duration": 0.66
+    },
+    {
+      "text": "[Ryan]:  Well' it wouldn't combine names like that, \n[Arin]:  Dry-swer~~~",
+      "start": 558.86,
+      "duration": 1.3
+    },
+    {
+      "text": "[Ryan]:  It would be like...",
+      "start": 560.16,
+      "duration": 0.76
+    },
+    {
+      "text": "[Arin]:  Wait, why are you first?",
+      "start": 560.92,
+      "duration": 0.98
+    },
+    {
+      "text": "[Ryan]:  Red hat... dinosaur!",
+      "start": 561.9,
+      "duration": 2.5
+    },
+    {
+      "text": "[Arin]:  I like Bow-Bones",
+      "start": 564.4,
+      "duration": 0.8
+    },
+    {
+      "text": "[Danny]:  Bow-Bones, yeah.  I like that too.",
+      "start": 565.2,
+      "duration": 2.0
+    },
+    {
+      "text": "[Matt]:  Oohhtt.",
+      "start": 567.6,
+      "duration": 0.62
+    },
+    {
+      "text": "[Danny]:  Hello Mario!",
+      "start": 568.8,
+      "duration": 1.08
+    },
+    {
+      "text": "[Arin] (imitating Mario):  Ha ha!!",
+      "start": 569.88,
+      "duration": 0.94
+    },
+    {
+      "text": "[Matt]:  Get your ass out of here boi.",
+      "start": 570.82,
+      "duration": 1.3
+    },
+    {
+      "text": "(laughter)",
+      "start": 572.12,
+      "duration": 2.44
+    },
+    {
+      "text": "[Arin]:  What's wrong with-- What's wrong with Mario?",
+      "start": 574.56,
+      "duration": 1.6
+    },
+    {
+      "text": "[Matt]:  He's boring",
+      "start": 576.16,
+      "duration": 0.5
+    },
+    {
+      "text": "[Ryan]:  Are you ready for this??\n[Matt]:  He's boring",
+      "start": 576.66,
+      "duration": 1.04
+    },
+    {
+      "text": "[Ryan]:  Are you ready for this??\n[Arin]:  Dude!",
+      "start": 577.7,
+      "duration": 0.94
+    },
+    {
+      "text": "[Arin]:  Mario's the star!",
+      "start": 579.1,
+      "duration": 1.1
+    },
+    {
+      "text": "[Danny]:  Ummm... dude!",
+      "start": 580.2,
+      "duration": 1.0
+    },
+    {
+      "text": "[Ryan]:  What are you gonna choose?",
+      "start": 581.74,
+      "duration": 0.78
+    },
+    {
+      "text": "[Matt]:  Oh wow!  You got an eight??",
+      "start": 583.08,
+      "duration": 1.2
+    },
+    {
+      "text": "[Ryan]:  No, I chose the---",
+      "start": 584.28,
+      "duration": 0.58
+    },
+    {
+      "text": "[Danny]:  He's just holding it up",
+      "start": 584.86,
+      "duration": 1.64
+    },
+    {
+      "text": "[Matt]:  For a second, I was thinking, damn",
+      "start": 586.5,
+      "duration": 1.62
+    },
+    {
+      "text": "[Arin]:  She's just looking over at him like,",
+      "start": 588.12,
+      "duration": 1.28
+    },
+    {
+      "text": "[Arin]:  \"Come on\"",
+      "start": 589.4,
+      "duration": 0.8
+    },
+    {
+      "text": "[Matt]:  uhhhhh",
+      "start": 590.2,
+      "duration": 1.24
+    },
+    {
+      "text": "[Matt]:  I'll do my Yoshi dice block",
+      "start": 591.44,
+      "duration": 1.26
+    },
+    {
+      "text": "[Ryan]:  Oh yeah!!",
+      "start": 592.7,
+      "duration": 0.8
+    },
+    {
+      "text": "[Matt]:  Cause, what can go wrong??",
+      "start": 593.5,
+      "duration": 0.98
+    },
+    {
+      "text": "[Ryan]: Here we go!!   Ready boy?",
+      "start": 594.48,
+      "duration": 1.38
+    },
+    {
+      "text": "[Matt]:  3, 2... okay",
+      "start": 595.86,
+      "duration": 0.96
+    },
+    {
+      "text": "[Ryan]:  YEAH\n[Matt]:  3, 2... okay",
+      "start": 596.82,
+      "duration": 1.12
+    },
+    {
+      "text": "[Arin]:  Damn Dude\n[Danny]:  Good Lord!!",
+      "start": 597.94,
+      "duration": 1.76
+    },
+    {
+      "text": "[Ryan]:  I might be able to grab that star real--",
+      "start": 599.7,
+      "duration": 1.62
+    },
+    {
+      "text": "[Matt]:  Damn Daniel\n[Ryan]:  I might be able to grab that star real--",
+      "start": 601.32,
+      "duration": 0.5
+    },
+    {
+      "text": "[Matt]:  Damn Daniel\n[Ryan]:  Wait, is the star 10 coins or...",
+      "start": 601.82,
+      "duration": 1.28
+    },
+    {
+      "text": "[Arin]:  1, 2, 3, 4, 5.  You can grab the star",
+      "start": 603.1,
+      "duration": 3.2
+    },
+    {
+      "text": "[Matt]:  Ryan :O",
+      "start": 606.3,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin]: You rolled an odd number",
+      "start": 606.8,
+      "duration": 1.38
+    },
+    {
+      "text": "[Ryan]:  Wait...Can I like... I don't have to land on it.",
+      "start": 608.18,
+      "duration": 2.18
+    },
+    {
+      "text": "[Arin]:  You do have to land on it",
+      "start": 610.36,
+      "duration": 0.5
+    },
+    {
+      "text": "[Matt]:  You do have to land on it\n[Arin]:  You do have to land on it",
+      "start": 610.86,
+      "duration": 1.46
+    },
+    {
+      "text": "[Arin]:  Maybe you can go around and get some coins",
+      "start": 613.18,
+      "duration": 2.1
+    },
+    {
+      "text": "[Matt]:  Yeah",
+      "start": 616.06,
+      "duration": 0.66
+    },
+    {
+      "text": "[Arin]:  Oh. That was good",
+      "start": 616.72,
+      "duration": 0.74
+    },
+    {
+      "text": "[Matt]:  Yeah\n[Arin]:  Well, now you're out of.",
+      "start": 617.46,
+      "duration": 1.34
+    },
+    {
+      "text": "[Ryan & Danny]:  Oh, oh, oh",
+      "start": 618.8,
+      "duration": 1.4
+    },
+    {
+      "text": "[Arin]:  There's a coin behind her.",
+      "start": 620.2,
+      "duration": 1.36
+    },
+    {
+      "text": "[Ryan]:  What?  What are you talking about?",
+      "start": 621.56,
+      "duration": 0.72
+    },
+    {
+      "text": "[Matt]:  There's a coin behind her.",
+      "start": 622.28,
+      "duration": 0.72
+    },
+    {
+      "text": "[Ryan]:  Right there? \n[Arin]:  Like, right where the star is, yeah, that's a coin.",
+      "start": 623.0,
+      "duration": 0.9
+    },
+    {
+      "text": "[Matt]: Yeah\n[Arin]:  Like, right where the star is, yeah, that's a coin.",
+      "start": 623.9,
+      "duration": 0.96
+    },
+    {
+      "text": "[Ryan]:  That's a coin?",
+      "start": 624.86,
+      "duration": 0.62
+    },
+    {
+      "text": "[Matt & Arin]:  Yeah.",
+      "start": 625.48,
+      "duration": 0.54
+    },
+    {
+      "text": "[Arin]:  uh yeeuh, huh\n[Matt]:  No, you're too-- no you're too high up",
+      "start": 626.76,
+      "duration": 2.0
+    },
+    {
+      "text": "[Danny] (laughing)",
+      "start": 628.76,
+      "duration": 0.8
+    },
+    {
+      "text": "[Matt]:  No you gotta down curve.",
+      "start": 629.56,
+      "duration": 0.8
+    },
+    {
+      "text": "[Ryan]:  Ohh, are you talking about right here?\n[Matt]:  No you gotta down curve.",
+      "start": 630.36,
+      "duration": 1.4
+    },
+    {
+      "text": "[Arin]:  And then down\n[Matt]:  Yeah!",
+      "start": 631.76,
+      "duration": 1.34
+    },
+    {
+      "text": "[Arin]:  And then left.\n[Ryan]:  Okay;  [Matt]: MY MAN!",
+      "start": 633.1,
+      "duration": 0.96
+    },
+    {
+      "text": "[Ryan]:  Look at that!!",
+      "start": 634.06,
+      "duration": 0.96
+    },
+    {
+      "text": "[Matt]:  You know Ryan? I was fuming...",
+      "start": 635.02,
+      "duration": 1.34
+    },
+    {
+      "text": "[Arin]:  Yoshi!  You gotta move too!\n[Matt]:  You know Ryan? I was fuming...",
+      "start": 636.36,
+      "duration": 1.46
+    },
+    {
+      "text": "[Matt]:  Oh yep! Umm..",
+      "start": 637.82,
+      "duration": 1.32
+    },
+    {
+      "text": "[Matt]:  I was steaming with rage when you messed that last game up,",
+      "start": 639.14,
+      "duration": 2.96
+    },
+    {
+      "text": "[Matt]:  But, uhh.  You know, I'm not so mad anymore.",
+      "start": 642.1,
+      "duration": 1.9
+    },
+    {
+      "text": "[Ryan]:  We should get some coins too, man I dunno",
+      "start": 644.0,
+      "duration": 1.64
+    },
+    {
+      "text": "[Matt]:  Well, I'm trying to get some coins",
+      "start": 645.64,
+      "duration": 1.46
+    },
+    {
+      "text": "[Matt]: So would you get off my back??",
+      "start": 647.1,
+      "duration": 1.32
+    },
+    {
+      "text": "[Ryan]: Sorry\n[Matt]: So would you get off my back??",
+      "start": 648.42,
+      "duration": 0.5
+    },
+    {
+      "text": "[Danny] (laughing)",
+      "start": 648.92,
+      "duration": 1.02
+    },
+    {
+      "text": "[Matt]:  You sound like my dang dad!",
+      "start": 649.94,
+      "duration": 1.22
+    },
+    {
+      "text": "[Danny] (laughing)",
+      "start": 651.16,
+      "duration": 0.96
+    },
+    {
+      "text": "[Ryan]:  Well if things go right, I might... Nevermind, it's fine. I don't wanna get into that.",
+      "start": 652.14,
+      "duration": 2.44
+    },
+    {
+      "text": "[Matt]:  No say it Ryan!  Say it.\n[Ryan]:  Well if things go right, I might... Nevermind, it's fine. I don't wanna get into that.",
+      "start": 654.58,
+      "duration": 0.5
+    },
+    {
+      "text": "[Matt]: Why don't you go ahead and say it\n[Ryan]:  No it's fine.",
+      "start": 655.08,
+      "duration": 1.4
+    },
+    {
+      "text": "[Ryan]:  No, I mean your mother is rather closest to human beings, that's all I'm saying.",
+      "start": 656.48,
+      "duration": 2.42
+    },
+    {
+      "text": "[Matt]:  Yeah, I know.  You took her out to dinner last time you were in town",
+      "start": 658.9,
+      "duration": 1.96
+    },
+    {
+      "text": "[Ryan]:  This isn't a sex joke.\n[Matt]:  Yeah, I know.  You took her out to dinner last time you were in town",
+      "start": 660.86,
+      "duration": 1.06
+    },
+    {
+      "text": "[Ryan]:  I'm just saying she is a good friend of mine",
+      "start": 661.92,
+      "duration": 1.7
+    },
+    {
+      "text": "[Matt]:  I know.  And you took her to Olive Garden\n[Ryan]:  And it happened between two people",
+      "start": 663.62,
+      "duration": 1.92
+    },
+    {
+      "text": "[Matt]:  And I didn't think it was a very good restaurant choice. Yes, they have nice bread sticks.",
+      "start": 665.54,
+      "duration": 2.32
+    },
+    {
+      "text": "[Ryan]:  We're really steam rolling this one\n[Matt]:  And I didn't think it was a very good restaurant choice. Yes, they have nice bread sticks.",
+      "start": 667.86,
+      "duration": 1.26
+    },
+    {
+      "text": "[Danny]: I had sex with your mom.",
+      "start": 669.12,
+      "duration": 0.74
+    },
+    {
+      "text": "[Ryan]:  Sorry about that\n[Danny]: I had sex with your mom.",
+      "start": 669.86,
+      "duration": 1.22
+    },
+    {
+      "text": "[Matt]:  Yeah Dan?  Well guess what.  I had sex with my mom too, so...",
+      "start": 671.46,
+      "duration": 2.26
+    },
+    {
+      "text": "(laughter)",
+      "start": 673.72,
+      "duration": 1.64
+    },
+    {
+      "text": "[Danny]:  So who's laughing now?!?",
+      "start": 675.36,
+      "duration": 0.74
+    },
+    {
+      "text": "[Matt]:  Been there, done that.\n[Danny]:  So who's laughing now?!?",
+      "start": 676.1,
+      "duration": 1.08
+    },
+    {
+      "text": "(laughter)",
+      "start": 677.18,
+      "duration": 1.52
+    },
+    {
+      "text": "[Arin]:  Ain't no big thing.",
+      "start": 678.7,
+      "duration": 1.3
+    },
+    {
+      "text": "[Matt]:  Yeah, so, I bet you feel weird knowing that we are tunnel buddies huh??",
+      "start": 680.0,
+      "duration": 2.38
+    },
+    {
+      "text": "[Matt]: I bet you feel like a real weird creep.",
+      "start": 682.38,
+      "duration": 1.72
+    },
+    {
+      "text": "[Ryan]:  It's like a bonding between father and son, that no father or son has ever had before.... I can't say that",
+      "start": 684.1,
+      "duration": 2.82
+    },
+    {
+      "text": "[Danny]:  Yeah.  I actually\n[Ryan]:  It's like a bonding between father and son, that no father or son has ever had before.... I can't say that",
+      "start": 686.92,
+      "duration": 2.44
+    },
+    {
+      "text": "[Ryan]:  Well, Oedipus is one luck son of a bitch.",
+      "start": 689.36,
+      "duration": 1.8
+    },
+    {
+      "text": "[Arin]:  Yeah?  Well I had sex with your dad, so...",
+      "start": 691.16,
+      "duration": 1.58
+    },
+    {
+      "text": "[Danny]:  Ooooooohhh\n[Matt]:  Well that makes two of use, Arin.",
+      "start": 692.74,
+      "duration": 1.82
+    },
+    {
+      "text": "[Arin]:  You Jealous?\n[Danny]:  I also had sex with your dad.",
+      "start": 694.56,
+      "duration": 1.44
+    },
+    {
+      "text": "[Danny]:  Thereby making us , weiner cousins!",
+      "start": 696.0,
+      "duration": 1.78
+    },
+    {
+      "text": "[Arin]: Heyyy!! Weiner Cousins!!",
+      "start": 697.78,
+      "duration": 2.3
+    },
+    {
+      "text": "[Matt]:  So, you know that rap song I made about having sex with my dad?",
+      "start": 700.08,
+      "duration": 3.18
+    },
+    {
+      "text": "[Matt]:  He actually found it.",
+      "start": 703.26,
+      "duration": 1.18
+    },
+    {
+      "text": "[Arin]:  Right, okay.",
+      "start": 704.44,
+      "duration": 1.04
+    },
+    {
+      "text": "[Matt]:  He was not happy about that one.",
+      "start": 705.48,
+      "duration": 1.76
+    },
+    {
+      "text": "[Arin]:  What??!?  What do you mean he wasn't happy?",
+      "start": 707.24,
+      "duration": 1.84
+    },
+    {
+      "text": "[Matt]:  He was-- I was--\n[Arin]:  It's so flattering!!",
+      "start": 709.08,
+      "duration": 2.0
+    },
+    {
+      "text": "[Matt]:  He was not too pleased with that one.",
+      "start": 711.08,
+      "duration": 1.38
+    },
+    {
+      "text": "[Arin]:  But it's a really positive song when you think about it.",
+      "start": 712.46,
+      "duration": 2.08
+    },
+    {
+      "text": "[Matt]:  It is!!\n[Arin]:  But it's a really positive song when you think about it.",
+      "start": 714.54,
+      "duration": 0.5
+    },
+    {
+      "text": "[Matt]:  I was coming up with compliments, man.",
+      "start": 715.04,
+      "duration": 1.5
+    },
+    {
+      "text": "[Arin]:  I mean, wha-- wha-- you...",
+      "start": 716.54,
+      "duration": 1.1
+    },
+    {
+      "text": "[Matt]:  That he had a solid four inch dick!",
+      "start": 717.64,
+      "duration": 1.68
+    },
+    {
+      "text": "[Ryan]:  Matt, we-- we don't, we should-- no...",
+      "start": 719.32,
+      "duration": 1.88
+    },
+    {
+      "text": "[Matt]:  I have to offer some coins.",
+      "start": 721.2,
+      "duration": 1.7
+    },
+    {
+      "text": "[Ryan]:  But one coin, just one coin.",
+      "start": 722.9,
+      "duration": 1.46
+    },
+    {
+      "text": "[Matt]:  He's gonna fuck me because of it.",
+      "start": 724.36,
+      "duration": 1.82
+    },
+    {
+      "text": "[Ryan]:  He's not gonna fuck you.",
+      "start": 726.18,
+      "duration": 1.06
+    },
+    {
+      "text": "[Matt]:  Okay, he says I'm clear to pass.",
+      "start": 727.24,
+      "duration": 1.38
+    },
+    {
+      "text": "[Ryan]:  See?\n[Matt]:  Okay, he says I'm clear to pass.",
+      "start": 728.62,
+      "duration": 0.92
+    },
+    {
+      "text": "[Arin]:  Yeah, you're fine.",
+      "start": 729.54,
+      "duration": 0.9
+    },
+    {
+      "text": "[Danny]:  He's not gonna fuck you, he's not your dad.",
+      "start": 730.44,
+      "duration": 1.72
+    },
+    {
+      "text": "(laughter)",
+      "start": 732.16,
+      "duration": 1.84
+    },
+    {
+      "text": "[Matt]:  Well, my dad, he's not like the rest.",
+      "start": 734.0,
+      "duration": 1.92
+    },
+    {
+      "text": "[Arin]:  Man, just fucking items, dude.",
+      "start": 735.92,
+      "duration": 1.48
+    },
+    {
+      "text": "[Arin]:  Items up the wazoo!",
+      "start": 737.4,
+      "duration": 1.04
+    },
+    {
+      "text": "[Ryan]:  Ooooo!\n[Arin]:  Items up the wazoo!",
+      "start": 738.44,
+      "duration": 0.6
+    },
+    {
+      "text": "[Ryan]:  Ooooo!\n[Matt]:  Damn!!",
+      "start": 739.04,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin]:  Gettin' that warp box??  Now, you two will be together forever, dude.",
+      "start": 739.54,
+      "duration": 2.3
+    },
+    {
+      "text": "[Matt]:  Yess!!!\n[Arin]:  Gettin' that warp box??  Now, you two will be together forever, dude.",
+      "start": 741.84,
+      "duration": 0.96
+    },
+    {
+      "text": "[Arin]:  Can bicker in-- in private.",
+      "start": 742.8,
+      "duration": 2.36
+    },
+    {
+      "text": "[Ryan]:  What are you trying to say?",
+      "start": 745.16,
+      "duration": 1.0
+    },
+    {
+      "text": "[Matt]:  We're friends, we don't bicker, Arin!",
+      "start": 746.16,
+      "duration": 1.74
+    },
+    {
+      "text": "[Arin]:  Uhh, yeah, sure",
+      "start": 747.9,
+      "duration": 0.72
+    },
+    {
+      "text": "[Danny]:  Noooooooo!",
+      "start": 748.62,
+      "duration": 1.56
+    },
+    {
+      "text": "[Arin]:  Well, I guess we'll find out, next time on \nGame Grumps",
+      "start": 750.18,
+      "duration": 1.28
+    },
+    {
+      "text": "[Danny]:  Oh my God!!",
+      "start": 751.46,
+      "duration": 0.7
+    },
+    {
+      "text": "[Matt]:  Bye everybody!",
+      "start": 752.16,
+      "duration": 1.04
+    },
+    {
+      "text": "[Danny]:  Goodbyyeeee~~",
+      "start": 753.2,
+      "duration": 1.46
+    },
+    {
+      "text": "[Matt]:  Hey look!  It's between Grumps, where it is a CRT TV!!",
+      "start": 754.92,
+      "duration": 3.04
+    },
+    {
+      "text": "[Danny] (laughs)",
+      "start": 757.96,
+      "duration": 1.12
+    },
+    {
+      "text": "[Matt]:  We're inside the TV!",
+      "start": 759.08,
+      "duration": 0.94
+    },
+    {
+      "text": "[Arin]:  Wow, that's some real inside baseball right now.",
+      "start": 760.02,
+      "duration": 1.8
+    },
+    {
+      "text": "[Danny & Matt]:  Yeah.",
+      "start": 761.82,
+      "duration": 0.5
+    },
+    {
+      "text": "[Danny]:  CRTTV",
+      "start": 763.7,
+      "duration": 0.58
+    },
+    {
+      "text": "[Ryan]:  Is it done yet?",
+      "start": 764.28,
+      "duration": 0.8
+    },
+    {
+      "text": "[Matt]:  It's done.",
+      "start": 765.08,
+      "duration": 0.7
+    },
+    {
+      "text": "[Arin]:  Yeah.",
+      "start": 765.78,
+      "duration": 0.52
+    },
+    {
+      "text": "[Matt]:  Just kidding.",
+      "start": 767.94,
+      "duration": 0.72
+    },
+    {
+      "text": "[Ryan] (laughing)",
+      "start": 768.66,
+      "duration": 0.72
+    }
+  ]
+}

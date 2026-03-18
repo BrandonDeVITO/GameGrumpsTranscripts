@@ -1,0 +1,358 @@
+{
+  "video_id": "PlzDdbPoo3U",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Hey, I'm Jory.",
+      "start": 0.0,
+      "duration": 0.6
+    },
+    {
+      "text": "I created the game Homebody and I directed and co-wrote it along with Leighton.",
+      "start": 0.76,
+      "duration": 3.2
+    },
+    {
+      "text": "Hi, I'm Leighton.",
+      "start": 4.18,
+      "duration": 0.54
+    },
+    {
+      "text": "I co-wrote Homebody.",
+      "start": 4.82,
+      "duration": 0.6
+    },
+    {
+      "text": "I met Leighton working on a game called Dream Daddy a dad dating Simulator.",
+      "start": 7.06,
+      "duration": 4.5
+    },
+    {
+      "text": "It's fun.",
+      "start": 12.08,
+      "duration": 0.48
+    },
+    {
+      "text": "You should check it out if you have it.",
+      "start": 12.56,
+      "duration": 1.8
+    },
+    {
+      "text": "But I was the co-creator and co-writer on that game and Jory was our wonderful narrative designer.",
+      "start": 14.46,
+      "duration": 4.3
+    },
+    {
+      "text": "Dream Daddy is a dad dating simulator that's wrapped around a very sweet and earnest slice of life story",
+      "start": 19.28,
+      "duration": 7.0
+    },
+    {
+      "text": "about a transitional period in a character's life.",
+      "start": 26.28,
+      "duration": 2.68
+    },
+    {
+      "text": "Sort of similarly,",
+      "start": 28.96,
+      "duration": 0.92
+    },
+    {
+      "text": "Homebody is actually a very dark and upsetting slasher movie horror game that is wrapped around a very earnest and sincere and heartfelt coming of age story.",
+      "start": 30.42,
+      "duration": 9.94
+    },
+    {
+      "text": "We took inspiration from Mr. X",
+      "start": 40.62,
+      "duration": 1.5
+    },
+    {
+      "text": "from Resident Evil 2 or the Xenomorph from Alien Isolation with just like one enemy that you're running from the whole game,",
+      "start": 42.16,
+      "duration": 5.84
+    },
+    {
+      "text": "including when you're working on puzzles.",
+      "start": 48.06,
+      "duration": 1.6
+    },
+    {
+      "text": "I replayed a game designed by Kenji Aino called D.",
+      "start": 50.14,
+      "duration": 3.46
+    },
+    {
+      "text": "Spoiler alert, your dad is Dracula.",
+      "start": 54.22,
+      "duration": 2.16
+    },
+    {
+      "text": "In that game, there's no save system and at 60 minutes regardless of what's happening,",
+      "start": 56.38,
+      "duration": 5.82
+    },
+    {
+      "text": "it cuts to a bad end where the protagonist gets killed by her dad who's Dracula.",
+      "start": 62.44,
+      "duration": 4.32
+    },
+    {
+      "text": "The only way to like succeed in the game is to get more efficient at solving certain puzzles and that becomes like the experience of a time loop.",
+      "start": 67.3,
+      "duration": 8.06
+    },
+    {
+      "text": "When we had that first playable and we had a relatively difficult puzzle that would then be just an absolute like skinnier teeth last second thing where people would realize the killer was like right behind them when they solved it.",
+      "start": 75.36,
+      "duration": 12.84
+    },
+    {
+      "text": "Seeing people react to that on Twitch and whatnot has been incredibly satisfying to see that happen organically.",
+      "start": 88.46,
+      "duration": 5.66
+    },
+    {
+      "text": "I like that super villain hand rub you just did.",
+      "start": 94.36,
+      "duration": 1.82
+    },
+    {
+      "text": "That's actually 90% of game development is just watching people when they really don't get it plus they're scared.",
+      "start": 96.48,
+      "duration": 7.7
+    },
+    {
+      "text": "It's so great.",
+      "start": 104.58,
+      "duration": 0.58
+    },
+    {
+      "text": "I love watching that.",
+      "start": 105.36,
+      "duration": 1.18
+    },
+    {
+      "text": "We had the joy of working with a really,",
+      "start": 107.34,
+      "duration": 1.72
+    },
+    {
+      "text": "really lovely and thoughtful team.",
+      "start": 109.52,
+      "duration": 1.6
+    },
+    {
+      "text": "Everybody was kind of profoundly weirdly on the page of what the game was doing.",
+      "start": 111.62,
+      "duration": 4.1
+    },
+    {
+      "text": "John Green who was the 2D artist and concept artist who created the killer and a lot of other of the spooky things in the game.",
+      "start": 116.16,
+      "duration": 6.58
+    },
+    {
+      "text": "He would just make scads of artwork.",
+      "start": 123.18,
+      "duration": 2.02
+    },
+    {
+      "text": "All the artwork brought in some of the games themes of isolation and alienation in visual ways.",
+      "start": 125.68,
+      "duration": 6.56
+    },
+    {
+      "text": "I like stuff that isn't just journaling in some way which I mean to admit as a failing.",
+      "start": 135.36,
+      "duration": 5.22
+    },
+    {
+      "text": "I have OCD.",
+      "start": 141.48,
+      "duration": 0.72
+    },
+    {
+      "text": "We all have a bunch of various stuff.",
+      "start": 142.58,
+      "duration": 1.8
+    },
+    {
+      "text": "I also have a bunch of stuff.",
+      "start": 144.76,
+      "duration": 1.24
+    },
+    {
+      "text": "We wrote it very specifically about the mental illness stuff as two people whose brains are bad to us.",
+      "start": 146.46,
+      "duration": 6.46
+    },
+    {
+      "text": "There's a lot in the game that's about a generalized experience of just anxiety.",
+      "start": 153.5,
+      "duration": 3.56
+    },
+    {
+      "text": "That stuff is pretty relatable but then also a lot of the cliches about OCD in particular have to do",
+      "start": 157.48,
+      "duration": 6.58
+    },
+    {
+      "text": "with being a neat freak,",
+      "start": 164.06,
+      "duration": 1.58
+    },
+    {
+      "text": "wanting things a particular way or counting behaviors and things like that.",
+      "start": 165.86,
+      "duration": 3.4
+    },
+    {
+      "text": "OCD has a lot to do with being stuck in a thought spiral.",
+      "start": 169.44,
+      "duration": 3.3
+    },
+    {
+      "text": "Not just intrusive thoughts but also just the same thought over and over and over and over again.",
+      "start": 173.0,
+      "duration": 4.18
+    },
+    {
+      "text": "In this particular game's metaphor,",
+      "start": 177.44,
+      "duration": 1.54
+    },
+    {
+      "text": "doing some of the same puzzles over again and some of the same puzzle mechanics multiple times,",
+      "start": 179.26,
+      "duration": 4.42
+    },
+    {
+      "text": "it models a lot of things that have to do with OCD checking behaviors.",
+      "start": 183.72,
+      "duration": 3.78
+    },
+    {
+      "text": "The way that symptoms present overlap so much,",
+      "start": 187.82,
+      "duration": 3.12
+    },
+    {
+      "text": "fetishizing things from the past or a sense of safety,",
+      "start": 191.3,
+      "duration": 2.74
+    },
+    {
+      "text": "and then feeling unsafe when things do feel safe,",
+      "start": 194.06,
+      "duration": 4.1
+    },
+    {
+      "text": "like objectively things feeling okay,",
+      "start": 198.48,
+      "duration": 2.16
+    },
+    {
+      "text": "you're waiting for the other shoe to drop.",
+      "start": 200.68,
+      "duration": 1.68
+    },
+    {
+      "text": "So even though I don't have OCD or the lived experience with it,",
+      "start": 202.52,
+      "duration": 3.48
+    },
+    {
+      "text": "we both have a lot of the exact same intrusive thoughts.",
+      "start": 206.02,
+      "duration": 2.68
+    },
+    {
+      "text": "That's really what the game is about.",
+      "start": 209.5,
+      "duration": 1.2
+    },
+    {
+      "text": "Nothing makes you think about danger more than the premise of safety.",
+      "start": 211.18,
+      "duration": 4.18
+    },
+    {
+      "text": "The game explicitly references checking gas stove knobs because you're afraid that your house is about to swell with gas and explode.",
+      "start": 216.44,
+      "duration": 7.1
+    },
+    {
+      "text": "So like a safe, pleasant, domestic environment.",
+      "start": 223.54,
+      "duration": 3.68
+    },
+    {
+      "text": "Like a nice house in the middle of nowhere like the one you see in Homebody.",
+      "start": 227.56,
+      "duration": 2.9
+    },
+    {
+      "text": "There's also this thing in horror media that has a long-standing history where there are very serious like mental illness related topics that are used for shock value.",
+      "start": 253.54,
+      "duration": 15.16
+    },
+    {
+      "text": "And it was a pleasure to just be able to write the real lived experience of how hard it is to have a brain that doesn't work right.",
+      "start": 269.24,
+      "duration": 6.68
+    },
+    {
+      "text": "In the very mundane ways in which that feels bad and is scary.",
+      "start": 276.06,
+      "duration": 4.073
+    },
+    {
+      "text": "We wanted people to be able to relate to it.",
+      "start": 280.6,
+      "duration": 2.84
+    },
+    {
+      "text": "It's just painful to watch people relate so hard in real time.",
+      "start": 283.64,
+      "duration": 4.18
+    },
+    {
+      "text": "But I'm glad that people feel seen by it.",
+      "start": 288.08,
+      "duration": 2.6
+    },
+    {
+      "text": "Every character in the game is dealing with their own stuff.",
+      "start": 291.34,
+      "duration": 2.7
+    },
+    {
+      "text": "I think it's a lot of fun to have a bunch of layers that can be pulled back.",
+      "start": 294.44,
+      "duration": 3.02
+    },
+    {
+      "text": "Homebody is available now on PC,",
+      "start": 299.18,
+      "duration": 1.86
+    },
+    {
+      "text": "Xbox,",
+      "start": 301.36,
+      "duration": 0.5
+    },
+    {
+      "text": "PlayStation, and Nintendo Switch.",
+      "start": 302.08,
+      "duration": 1.38
+    },
+    {
+      "text": "Check it out!",
+      "start": 304.12,
+      "duration": 0.52
+    }
+  ]
+}

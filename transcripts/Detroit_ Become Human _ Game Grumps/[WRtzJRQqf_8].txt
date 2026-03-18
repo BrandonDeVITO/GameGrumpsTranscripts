@@ -1,0 +1,1473 @@
+{
+  "video_id": "WRtzJRQqf_8",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "A: Hey I'm Grump",
+      "start": 0.0,
+      "duration": 0.5
+    },
+    {
+      "text": "D: I'm Not-So-Grump",
+      "start": 1.0,
+      "duration": 1.26
+    },
+    {
+      "text": "B: And we're the Game Grumps!",
+      "start": 2.34,
+      "duration": 2.34
+    },
+    {
+      "text": "A: Sup is sup is sup is sup.",
+      "start": 5.18,
+      "duration": 1.2
+    },
+    {
+      "text": "D:  Hello and welcome back to Detroit!",
+      "start": 6.52,
+      "duration": 1.26
+    },
+    {
+      "text": "A: It's Detroit, become hu-man.",
+      "start": 7.78,
+      "duration": 1.8
+    },
+    {
+      "text": "D:Hmm",
+      "start": 9.7,
+      "duration": 0.5
+    },
+    {
+      "text": "A: This game is about Carl. The, the old man famous man.",
+      "start": 10.4,
+      "duration": 4.14
+    },
+    {
+      "text": "B: Who's starving!",
+      "start": 15.26,
+      "duration": 1.8
+    },
+    {
+      "text": "*both burp*",
+      "start": 18.08,
+      "duration": 1.0
+    },
+    {
+      "text": "A: Take you to the dining table.",
+      "start": 20.76,
+      "duration": 2.0
+    },
+    {
+      "text": "A:That's how it always works.",
+      "start": 23.16,
+      "duration": 1.5
+    },
+    {
+      "text": "D: Shall I prechew your food for you Carl?",
+      "start": 24.88,
+      "duration": 2.34
+    },
+    {
+      "text": "A: He's got all these chairs, but he knows what chair really matters.",
+      "start": 27.68,
+      "duration": 3.02
+    },
+    {
+      "text": "D: Mmm.",
+      "start": 30.82,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Serve breakfast.",
+      "start": 33.06,
+      "duration": 1.42
+    },
+    {
+      "text": "You got it.",
+      "start": 35.2,
+      "duration": 0.84
+    },
+    {
+      "text": "Marcus",
+      "start": 36.94,
+      "duration": 0.84
+    },
+    {
+      "text": "initiate go-faster protocol",
+      "start": 38.7,
+      "duration": 2.44
+    },
+    {
+      "text": "A: I'll make you breakfast.",
+      "start": 42.7,
+      "duration": 2.0
+    },
+    {
+      "text": "A: How do I make him breakfast?",
+      "start": 46.0,
+      "duration": 1.16
+    },
+    {
+      "text": "D: How's your breakfast Carl?",
+      "start": 47.36,
+      "duration": 1.58
+    },
+    {
+      "text": "D: MY WIFE",
+      "start": 49.22,
+      "duration": 1.66
+    },
+    {
+      "text": "D: IS DEAD.",
+      "start": 51.0,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Ah, it's one of those days.",
+      "start": 53.26,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Wow, I really made that for him.",
+      "start": 57.94,
+      "duration": 1.46
+    },
+    {
+      "text": "D: Wow, cool.",
+      "start": 59.88,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Just put a thing on another thing.",
+      "start": 60.58,
+      "duration": 1.4
+    },
+    {
+      "text": "D: Empty glasses, and... great!",
+      "start": 63.26,
+      "duration": 3.18
+    },
+    {
+      "text": "A: And, there we go!",
+      "start": 66.5,
+      "duration": 1.08
+    },
+    {
+      "text": "A: What do you think of this shit?",
+      "start": 69.18,
+      "duration": 1.58
+    },
+    {
+      "text": "D: Marcus, you just placed a bunch of empty trays and cups--",
+      "start": 71.46,
+      "duration": 3.6
+    },
+    {
+      "text": "A: How was your breakfast?",
+      "start": 76.02,
+      "duration": 1.76
+    },
+    {
+      "text": "D: Hmm.",
+      "start": 78.26,
+      "duration": 0.62
+    },
+    {
+      "text": "A:Tasty right?",
+      "start": 79.22,
+      "duration": 0.9
+    },
+    {
+      "text": "Mmm, metallic.",
+      "start": 81.1,
+      "duration": 1.44
+    },
+    {
+      "text": "A: What I--?",
+      "start": 83.9,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Like he just dropped m-m-dr-m-mashes his head down and drowns him in the soup.",
+      "start": 84.54,
+      "duration": 3.48
+    },
+    {
+      "text": "\"How was your breakfast\"",
+      "start": 88.02,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Ahhhh.",
+      "start": 91.0,
+      "duration": 0.8
+    },
+    {
+      "text": "A: It looks--",
+      "start": 93.88,
+      "duration": 0.56
+    },
+    {
+      "text": "A: Television.",
+      "start": 97.96,
+      "duration": 1.0
+    },
+    {
+      "text": "A: D-do you want me to do you want me to turn it on or...? You never just randomly said television before.",
+      "start": 99.06,
+      "duration": 5.24
+    },
+    {
+      "text": "A: Here's a bib... so you don't spill you fucking idiot.",
+      "start": 107.62,
+      "duration": 4.74
+    },
+    {
+      "text": "A: Uh... shutting down.",
+      "start": 116.54,
+      "duration": 0.7
+    },
+    {
+      "text": "D: Initiate fuck off protocol",
+      "start": 117.4,
+      "duration": 1.5
+    },
+    {
+      "text": "A: Breakfast is served. What is there to do? Find something to do.",
+      "start": 121.5,
+      "duration": 5.18
+    },
+    {
+      "text": "D: Yeah.",
+      "start": 127.22,
+      "duration": 0.5
+    },
+    {
+      "text": "A: WELL... Welcome to video games.",
+      "start": 128.0,
+      "duration": 1.66
+    },
+    {
+      "text": "D: Yeah, I love it.",
+      "start": 129.74,
+      "duration": 0.92
+    },
+    {
+      "text": "A: You can see it from both sides.",
+      "start": 131.48,
+      "duration": 1.76
+    },
+    {
+      "text": "D: It's pretty sweet--",
+      "start": 133.44,
+      "duration": 0.5
+    },
+    {
+      "text": "A: What the fuck!",
+      "start": 133.98,
+      "duration": 0.56
+    },
+    {
+      "text": "D: Oooh.",
+      "start": 134.86,
+      "duration": 0.5
+    },
+    {
+      "text": "A: How'd they do that?",
+      "start": 135.62,
+      "duration": 0.66
+    },
+    {
+      "text": "D: They're amazing!",
+      "start": 137.06,
+      "duration": 0.78
+    },
+    {
+      "text": "A: How did they do that?",
+      "start": 137.9,
+      "duration": 0.56
+    },
+    {
+      "text": "D: They're good!",
+      "start": 139.02,
+      "duration": 0.5
+    },
+    {
+      "text": "A: It's not a mirror image.",
+      "start": 139.68,
+      "duration": 0.74
+    },
+    {
+      "text": "D: Yup.",
+      "start": 140.8,
+      "duration": 0.5
+    },
+    {
+      "text": "A: How'd they do that?",
+      "start": 142.38,
+      "duration": 0.84
+    },
+    {
+      "text": "D: Because I guess it's not a clear piece of glass.",
+      "start": 143.3,
+      "duration": 2.36
+    },
+    {
+      "text": "A: Ooh.",
+      "start": 146.38,
+      "duration": 0.5
+    },
+    {
+      "text": "A: I would love to maybe be programmed to want to go there",
+      "start": 147.14,
+      "duration": 2.9
+    },
+    {
+      "text": "B: Life found on Titan!",
+      "start": 151.8,
+      "duration": 1.7
+    },
+    {
+      "text": "A: Oh! There is C-Commander Alien!",
+      "start": 153.8,
+      "duration": 2.3
+    },
+    {
+      "text": "A: Captain Alien.",
+      "start": 156.72,
+      "duration": 0.78
+    },
+    {
+      "text": "A: What was his name?",
+      "start": 158.3,
+      "duration": 0.74
+    },
+    {
+      "text": "B: Captain Allen.",
+      "start": 159.24,
+      "duration": 0.92
+    },
+    {
+      "text": "A: Captain Alien.",
+      "start": 160.52,
+      "duration": 0.5
+    },
+    {
+      "text": "A: The Darwin probe which left exactly 19 years ago to probe the surface of Titans methane ice",
+      "start": 161.72,
+      "duration": 5.56
+    },
+    {
+      "text": "D: That's a layer of fart ice.",
+      "start": 168.02,
+      "duration": 1.32
+    },
+    {
+      "text": "A: I love when things are sent to probe the surface of my Titan methane ice.",
+      "start": 170.4,
+      "duration": 3.2
+    },
+    {
+      "text": "A: Has just confirmed the presence of microorganisms.",
+      "start": 174.48,
+      "duration": 2.66
+    },
+    {
+      "text": "D: It's my krugen-isms.",
+      "start": 177.7,
+      "duration": 1.6
+    },
+    {
+      "text": "A: My krugen-isms.",
+      "start": 179.68,
+      "duration": 1.32
+    },
+    {
+      "text": "A: Sounds like a, lead singer of a 70s band.",
+      "start": 181.5,
+      "duration": 2.28
+    },
+    {
+      "text": "D: Mmmm.",
+      "start": 184.1,
+      "duration": 0.62
+    },
+    {
+      "text": "A: Jason Graff director of humanization at cyber life said the company was committed to its partnership with NASA--",
+      "start": 184.78,
+      "duration": 5.0
+    },
+    {
+      "text": "A: Who gives a shit?",
+      "start": 190.1,
+      "duration": 1.32
+    },
+    {
+      "text": "D: Mmm.",
+      "start": 191.58,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Udz eh euh utz, it's, it's news for a world that's not real.",
+      "start": 192.08,
+      "duration": 3.14
+    },
+    {
+      "text": "A: I said off.",
+      "start": 197.92,
+      "duration": 0.94
+    },
+    {
+      "text": "D: I'm sick of bacon.",
+      "start": 199.82,
+      "duration": 1.42
+    },
+    {
+      "text": "A: Yeah?",
+      "start": 210.3,
+      "duration": 0.5
+    },
+    {
+      "text": "D: When I look around and think of all the people I killed to get this wealth.",
+      "start": 211.06,
+      "duration": 4.08
+    },
+    {
+      "text": "A: I remember.",
+      "start": 216.14,
+      "duration": 0.84
+    },
+    {
+      "text": "D: Mankind is so s(t)elfish and stupid.",
+      "start": 217.18,
+      "duration": 2.36
+    },
+    {
+      "text": "D: Going into the African outback and killing a giraffe and stuffing it for no reason.",
+      "start": 219.72,
+      "duration": 4.6
+    },
+    {
+      "text": "D: Putting it in their living room.",
+      "start": 224.48,
+      "duration": 1.54
+    },
+    {
+      "text": "A: Does this--?",
+      "start": 226.62,
+      "duration": 0.9
+    },
+    {
+      "text": "D: So wasteful.",
+      "start": 227.66,
+      "duration": 0.66
+    },
+    {
+      "text": "A: Its--",
+      "start": 228.38,
+      "duration": 0.5
+    },
+    {
+      "text": "A: It's, it's a--",
+      "start": 229.76,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Staircase to nowhere, yes.",
+      "start": 230.3,
+      "duration": 1.2
+    },
+    {
+      "text": "A: Yeah, it's like going into the wall.",
+      "start": 231.56,
+      "duration": 1.44
+    },
+    {
+      "text": "A: Oh, I didn't do that, but--",
+      "start": 234.66,
+      "duration": 0.78
+    },
+    {
+      "text": "D: Round and round we go.",
+      "start": 235.84,
+      "duration": 1.32
+    },
+    {
+      "text": "A: I told you to find something to do!",
+      "start": 238.68,
+      "duration": 1.76
+    },
+    {
+      "text": "A: Not stand there and spin my globe!",
+      "start": 241.48,
+      "duration": 1.84
+    },
+    {
+      "text": "D: Initiate protocol weee...",
+      "start": 243.62,
+      "duration": 1.5
+    },
+    {
+      "text": "A: Do do do do do do--",
+      "start": 245.88,
+      "duration": 0.84
+    },
+    {
+      "text": "D: Woah god Arin! You're gonna make me barf.",
+      "start": 246.84,
+      "duration": 1.86
+    },
+    {
+      "text": "A: Ooh candy skulls.",
+      "start": 250.56,
+      "duration": 0.88
+    },
+    {
+      "text": "D: Mmm.",
+      "start": 251.56,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Oh, that's not what I was looking at.",
+      "start": 253.06,
+      "duration": 0.74
+    },
+    {
+      "text": "A: Read book?",
+      "start": 253.96,
+      "duration": 0.96
+    },
+    {
+      "text": "A: Alright.",
+      "start": 255.66,
+      "duration": 0.6
+    },
+    {
+      "text": "A: Uuuughh...",
+      "start": 257.68,
+      "duration": 0.96
+    },
+    {
+      "text": "A: Plato.",
+      "start": 259.5,
+      "duration": 0.8
+    },
+    {
+      "text": "D: Mmmmmm...",
+      "start": 260.86,
+      "duration": 1.56
+    },
+    {
+      "text": "A: Hmm, what a basic bitch.",
+      "start": 263.5,
+      "duration": 1.54
+    },
+    {
+      "text": "A: Doesn't even have Nietzsche.",
+      "start": 266.42,
+      "duration": 2.0
+    },
+    {
+      "text": "D: It's pronounced me-etskii...gugh.",
+      "start": 269.66,
+      "duration": 2.36
+    },
+    {
+      "text": "A: Plato.",
+      "start": 273.42,
+      "duration": 0.5
+    },
+    {
+      "text": "A: But... not... human *short cirrcuits*",
+      "start": 292.34,
+      "duration": 3.16
+    },
+    {
+      "text": "A: You are my son.",
+      "start": 303.04,
+      "duration": 1.04
+    },
+    {
+      "text": "D: Destroy them.",
+      "start": 311.62,
+      "duration": 0.84
+    },
+    {
+      "text": "A: What about you? You just told me.",
+      "start": 312.64,
+      "duration": 1.44
+    },
+    {
+      "text": "A: Uhh...",
+      "start": 317.2,
+      "duration": 0.62
+    },
+    {
+      "text": "D: Well that's a good point.",
+      "start": 317.82,
+      "duration": 1.16
+    },
+    {
+      "text": "A: I don't-- I duh-- I don't... Where -- where is the studio?",
+      "start": 319.04,
+      "duration": 2.96
+    },
+    {
+      "text": "A: Where -- Where is the studio? Where--? Oh, where is the studio?",
+      "start": 322.06,
+      "duration": 3.16
+    },
+    {
+      "text": "A: I am lost as fuck.",
+      "start": 325.82,
+      "duration": 1.0
+    },
+    {
+      "text": "A: Damn, that butt, dude.",
+      "start": 329.98,
+      "duration": 1.68
+    },
+    {
+      "text": "D: You have to be good to other people.",
+      "start": 331.8,
+      "duration": 1.94
+    },
+    {
+      "text": "D: Take this collection of human skulls I've amassed for instance.",
+      "start": 333.8,
+      "duration": 3.36
+    },
+    {
+      "text": "D: Woah, this is a dope studio.",
+      "start": 338.98,
+      "duration": 1.22
+    },
+    {
+      "text": "B: Woaaah!",
+      "start": 340.4,
+      "duration": 1.98
+    },
+    {
+      "text": "D: Brad!",
+      "start": 342.78,
+      "duration": 0.56
+    },
+    {
+      "text": "D: Put me on the jib Marcus. I want to go for a ride.",
+      "start": 344.36,
+      "duration": 3.4
+    },
+    {
+      "text": "D: Wow, I didn't think I was... I wasn't being serious...",
+      "start": 349.58,
+      "duration": 2.38
+    },
+    {
+      "text": "D: Here we go... Did you ever see alien Marcus?",
+      "start": 352.6,
+      "duration": 2.18
+    },
+    {
+      "text": "D: Get away from her, you bitch!",
+      "start": 355.78,
+      "duration": 1.98
+    },
+    {
+      "text": "A: Okay, so he's a famous painter.",
+      "start": 360.5,
+      "duration": 1.3
+    },
+    {
+      "text": "D: Yeah I guess so.",
+      "start": 362.3,
+      "duration": 1.2
+    },
+    {
+      "text": "A: I will remove the sheet for you.",
+      "start": 363.86,
+      "duration": 1.54
+    },
+    {
+      "text": "D: It's um...",
+      "start": 370.48,
+      "duration": 0.9
+    },
+    {
+      "text": "A: Heh, very blue.",
+      "start": 371.46,
+      "duration": 1.06
+    },
+    {
+      "text": "D: It's gooood... uh?",
+      "start": 372.56,
+      "duration": 1.8
+    },
+    {
+      "text": "A: Wait for Carl's instructions.",
+      "start": 375.88,
+      "duration": 1.68
+    },
+    {
+      "text": "A: I guess I'll clean your studio.",
+      "start": 377.96,
+      "duration": 1.44
+    },
+    {
+      "text": "A: I guess I'll start by cleaning--\nD: Is he drawing a picture of you?",
+      "start": 379.8,
+      "duration": 1.44
+    },
+    {
+      "text": "A: All the paint off this white canvas.",
+      "start": 381.24,
+      "duration": 1.74
+    },
+    {
+      "text": "D: Is it I think that, paintings of you",
+      "start": 384.5,
+      "duration": 1.92
+    },
+    {
+      "text": "A: Really?",
+      "start": 386.62,
+      "duration": 0.5
+    },
+    {
+      "text": "D: I think so.",
+      "start": 387.32,
+      "duration": 0.72
+    },
+    {
+      "text": "A: Pssht,",
+      "start": 388.44,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Why wouldn't it be I got a fuckin' sweet booty.",
+      "start": 388.94,
+      "duration": 1.9
+    },
+    {
+      "text": "D: Yeah.",
+      "start": 391.0,
+      "duration": 0.5
+    },
+    {
+      "text": "A: I'm painting the love of my life,",
+      "start": 391.92,
+      "duration": 1.88
+    },
+    {
+      "text": "A: Marcus.",
+      "start": 393.88,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Your booty.",
+      "start": 395.68,
+      "duration": 1.4
+    },
+    {
+      "text": "D: It's uh...",
+      "start": 397.26,
+      "duration": 1.82
+    },
+    {
+      "text": "D: It's pretty sweet.",
+      "start": 400.54,
+      "duration": 0.74
+    },
+    {
+      "text": "A: It's tight.",
+      "start": 401.96,
+      "duration": 0.72
+    },
+    {
+      "text": "A: It's juicy.",
+      "start": 402.76,
+      "duration": 0.8
+    },
+    {
+      "text": "A: That's a cool painting.",
+      "start": 404.62,
+      "duration": 1.2
+    },
+    {
+      "text": "D: You're gonna be on your own someday Marcus.",
+      "start": 406.54,
+      "duration": 2.02
+    },
+    {
+      "text": "D: With that juicy booty of yours.",
+      "start": 408.76,
+      "duration": 1.94
+    },
+    {
+      "text": "A: And everybody's gonna want a piece.",
+      "start": 411.26,
+      "duration": 1.62
+    },
+    {
+      "text": "A: Everybody's gonna want a piece Marcus!",
+      "start": 413.14,
+      "duration": 2.04
+    },
+    {
+      "text": "D: You're gonna have to decide what you want to do with that...",
+      "start": 415.24,
+      "duration": 2.58
+    },
+    {
+      "text": "D: Sweet tokus of yours.",
+      "start": 418.46,
+      "duration": 2.0
+    },
+    {
+      "text": "A: I can't decide for you.",
+      "start": 422.8,
+      "duration": 1.98
+    },
+    {
+      "text": "A: But if I were you...",
+      "start": 425.3,
+      "duration": 1.3
+    },
+    {
+      "text": "A: I would rub it every night.",
+      "start": 427.32,
+      "duration": 1.28
+    },
+    {
+      "text": "D: Yeah.",
+      "start": 428.6,
+      "duration": 0.5
+    },
+    {
+      "text": "A: As I do anyway.",
+      "start": 429.1,
+      "duration": 0.8
+    },
+    {
+      "text": "D: I'd become...",
+      "start": 429.9,
+      "duration": 1.2
+    },
+    {
+      "text": "D: I'd become a dancer at Melon Shakers.",
+      "start": 433.48,
+      "duration": 2.28
+    },
+    {
+      "text": "D: The gentleman's club.",
+      "start": 435.76,
+      "duration": 1.2
+    },
+    {
+      "text": "A: I'd become Human.",
+      "start": 437.54,
+      "duration": 1.5
+    },
+    {
+      "text": "A: What do you think?",
+      "start": 441.84,
+      "duration": 0.94
+    },
+    {
+      "text": "A: I added a few spots.",
+      "start": 443.8,
+      "duration": 1.14
+    },
+    {
+      "text": "A: In the last thirty seconds.",
+      "start": 445.46,
+      "duration": 1.1
+    },
+    {
+      "text": "D: It's you if you were blue and having a stroke.",
+      "start": 447.22,
+      "duration": 2.2
+    },
+    {
+      "text": "D: Is that Lance Henriksen?",
+      "start": 457.16,
+      "duration": 1.26
+    },
+    {
+      "text": "A: Lance Henrikson?",
+      "start": 460.9,
+      "duration": 1.28
+    },
+    {
+      "text": "D: Yeah, bishop.",
+      "start": 462.18,
+      "duration": 0.96
+    },
+    {
+      "text": "D: He sounds like him.",
+      "start": 463.52,
+      "duration": 0.82
+    },
+    {
+      "text": "D: If I was capable of being bummed the fuck out, you'd be doing it.",
+      "start": 487.12,
+      "duration": 3.2
+    },
+    {
+      "text": "A: You know what talents I have Carl.",
+      "start": 493.12,
+      "duration": 1.88
+    },
+    {
+      "text": "A: You know. Come on.",
+      "start": 495.0,
+      "duration": 1.74
+    },
+    {
+      "text": "D: I am feeling a facsimile of nervous.",
+      "start": 507.6,
+      "duration": 2.26
+    },
+    {
+      "text": "D: I'd like to paint you Carl.",
+      "start": 511.08,
+      "duration": 1.92
+    },
+    {
+      "text": "A: Remove your clothing.",
+      "start": 513.32,
+      "duration": 1.68
+    },
+    {
+      "text": "A: Find a subject to paint.",
+      "start": 516.72,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Could paint statue.",
+      "start": 520.08,
+      "duration": 1.04
+    },
+    {
+      "text": "A: Could paint desk.",
+      "start": 521.64,
+      "duration": 1.14
+    },
+    {
+      "text": "D: Could paint...",
+      "start": 523.62,
+      "duration": 1.0
+    },
+    {
+      "text": "A: Could paint painting.",
+      "start": 524.62,
+      "duration": 1.2
+    },
+    {
+      "text": "D: Caaaaarl?",
+      "start": 526.38,
+      "duration": 0.92
+    },
+    {
+      "text": "A: Oh, that'll offend him.",
+      "start": 527.3,
+      "duration": 1.06
+    },
+    {
+      "text": "A: Although, maybe he would be intrigued.",
+      "start": 529.44,
+      "duration": 1.72
+    },
+    {
+      "text": "D: Yeah I bet he would like it.",
+      "start": 531.74,
+      "duration": 1.1
+    },
+    {
+      "text": "A: Try that.",
+      "start": 534.16,
+      "duration": 0.64
+    },
+    {
+      "text": "A: Uhm...",
+      "start": 536.92,
+      "duration": 0.6
+    },
+    {
+      "text": "A: I dabbed...",
+      "start": 538.98,
+      "duration": 0.82
+    },
+    {
+      "text": "A: Now, I brush.",
+      "start": 540.2,
+      "duration": 1.26
+    },
+    {
+      "text": "A: I brush.",
+      "start": 544.24,
+      "duration": 0.74
+    },
+    {
+      "text": "A: Then I dab.",
+      "start": 545.56,
+      "duration": 0.88
+    },
+    {
+      "text": "D: To celebrate.",
+      "start": 548.34,
+      "duration": 0.88
+    },
+    {
+      "text": "A: I brush!",
+      "start": 549.28,
+      "duration": 0.72
+    },
+    {
+      "text": "D: Jesus Christ.",
+      "start": 555.06,
+      "duration": 1.36
+    },
+    {
+      "text": "D: I see a wrinkled old critical fuck.",
+      "start": 572.28,
+      "duration": 2.4
+    },
+    {
+      "text": "D: Now shake it around, like an etch-a-sketch.",
+      "start": 583.54,
+      "duration": 2.26
+    },
+    {
+      "text": "A: Shaka-shaka-shaka-shaka...",
+      "start": 587.42,
+      "duration": 1.66
+    },
+    {
+      "text": "D: I'm old I don't know what's going on.",
+      "start": 589.68,
+      "duration": 1.96
+    },
+    {
+      "text": "A: But I can see through this--",
+      "start": 597.68,
+      "duration": 1.32
+    },
+    {
+      "text": "D: Yes.",
+      "start": 599.0,
+      "duration": 0.5
+    },
+    {
+      "text": "A: --artificial skin.",
+      "start": 599.5,
+      "duration": 0.9
+    },
+    {
+      "text": "A: I can feel, my yellow ring is blinking.",
+      "start": 613.98,
+      "duration": 2.36
+    },
+    {
+      "text": "D: Hmm.",
+      "start": 616.4,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Blinking violently.",
+      "start": 617.3,
+      "duration": 1.22
+    },
+    {
+      "text": "D: I will draw a yellow blinking ring.",
+      "start": 618.72,
+      "duration": 2.42
+    },
+    {
+      "text": "A: Humanity, Identity.",
+      "start": 621.24,
+      "duration": 1.12
+    },
+    {
+      "text": "D: Ooh, Identity.",
+      "start": 622.38,
+      "duration": 1.36
+    },
+    {
+      "text": "A: Androids, despair, doubts and prisoner ooh.",
+      "start": 625.02,
+      "duration": 2.72
+    },
+    {
+      "text": "A: Probably...",
+      "start": 629.34,
+      "duration": 0.96
+    },
+    {
+      "text": "D: Androids?",
+      "start": 630.3,
+      "duration": 0.52
+    },
+    {
+      "text": "A: Despair.",
+      "start": 631.76,
+      "duration": 1.0
+    },
+    {
+      "text": "A: I dab.",
+      "start": 634.62,
+      "duration": 0.74
+    },
+    {
+      "text": "A: Then I stroke.",
+      "start": 636.4,
+      "duration": 1.0
+    },
+    {
+      "text": "A: I stroke.",
+      "start": 638.22,
+      "duration": 0.8
+    },
+    {
+      "text": "A: And then I dab.",
+      "start": 640.04,
+      "duration": 1.12
+    },
+    {
+      "text": "*Arin makes gurgling choking noises*",
+      "start": 643.44,
+      "duration": 1.84
+    },
+    {
+      "text": "D: Cut's back",
+      "start": 645.5,
+      "duration": 0.5
+    },
+    {
+      "text": "D: And it's a perfect copy of Carl's painting again.",
+      "start": 646.0,
+      "duration": 2.86
+    },
+    {
+      "text": "A: I imagined it.",
+      "start": 651.02,
+      "duration": 0.92
+    },
+    {
+      "text": "D: I felt despair...",
+      "start": 653.94,
+      "duration": 1.38
+    },
+    {
+      "text": "D: I guess?",
+      "start": 655.4,
+      "duration": 0.82
+    },
+    {
+      "text": "*Arin begins singing high notes and Dan joins*",
+      "start": 658.52,
+      "duration": 2.52
+    },
+    {
+      "text": "A: *singing* He's painting despair~",
+      "start": 661.14,
+      "duration": 2.28
+    },
+    {
+      "text": "A: *singing* Andriod feels despair~",
+      "start": 665.32,
+      "duration": 2.22
+    },
+    {
+      "text": "A: His yellow light blinks.",
+      "start": 669.24,
+      "duration": 1.56
+    },
+    {
+      "text": "D: Ooph, wow...",
+      "start": 670.96,
+      "duration": 0.94
+    },
+    {
+      "text": "A:  That's another...",
+      "start": 672.9,
+      "duration": 0.78
+    },
+    {
+      "text": "A: ...copy of my painting...",
+      "start": 673.68,
+      "duration": 1.14
+    },
+    {
+      "text": "D: Whatever, Dad!",
+      "start": 678.56,
+      "duration": 1.2
+    },
+    {
+      "text": "A: I'm, I think you're right.",
+      "start": 681.36,
+      "duration": 1.18
+    },
+    {
+      "text": "D: Totally.",
+      "start": 682.66,
+      "duration": 0.64
+    },
+    {
+      "text": "D: Yes!!",
+      "start": 683.8,
+      "duration": 1.02
+    },
+    {
+      "text": "A: Fuck you doing here?",
+      "start": 686.76,
+      "duration": 0.96
+    },
+    {
+      "text": "D: My second, second favourite son.",
+      "start": 687.72,
+      "duration": 2.26
+    },
+    {
+      "text": "D: Since I've said I'm sorry.",
+      "start": 696.28,
+      "duration": 1.32
+    },
+    {
+      "text": "A: I'm on coke.",
+      "start": 699.24,
+      "duration": 0.88
+    },
+    {
+      "text": "D: Definitely not for drugs.",
+      "start": 706.66,
+      "duration": 1.78
+    },
+    {
+      "text": "A: Yeah I mean...",
+      "start": 709.86,
+      "duration": 0.5
+    },
+    {
+      "text": "A: I, spent it on what I needed to spend it on.",
+      "start": 711.58,
+      "duration": 2.8
+    },
+    {
+      "text": "D: I just like...",
+      "start": 723.1,
+      "duration": 0.64
+    },
+    {
+      "text": "D: Clenching my teeth all the time.",
+      "start": 724.16,
+      "duration": 1.76
+    },
+    {
+      "text": "D: Oh his son's gonna attack him.",
+      "start": 730.3,
+      "duration": 1.2
+    },
+    {
+      "text": "D: Get ready for that quick-time event.",
+      "start": 731.66,
+      "duration": 1.42
+    },
+    {
+      "text": "A: Yeah.",
+      "start": 742.48,
+      "duration": 0.5
+    },
+    {
+      "text": "A: At least he paints.",
+      "start": 743.48,
+      "duration": 1.06
+    },
+    {
+      "text": "D: Other than...",
+      "start": 746.58,
+      "duration": 0.7
+    },
+    {
+      "text": "D: L-Looks,",
+      "start": 747.76,
+      "duration": 0.66
+    },
+    {
+      "text": "D: intelligence",
+      "start": 749.24,
+      "duration": 0.5
+    },
+    {
+      "text": "D: and",
+      "start": 749.98,
+      "duration": 0.5
+    },
+    {
+      "text": "D: capabilities.",
+      "start": 750.82,
+      "duration": 0.84
+    },
+    {
+      "text": "A: Yeah...",
+      "start": 771.56,
+      "duration": 0.5
+    },
+    {
+      "text": "D: And I turned out alright...",
+      "start": 772.06,
+      "duration": 1.44
+    },
+    {
+      "text": "A: Heh.",
+      "start": 774.08,
+      "duration": 0.5
+    },
+    {
+      "text": "D: I'm gonna ride this giraffe out of here.",
+      "start": 777.72,
+      "duration": 1.54
+    },
+    {
+      "text": "A: Why does he have a miniature version of the giant mural that he's painting?",
+      "start": 779.44,
+      "duration": 2.74
+    },
+    {
+      "text": "D: I don't know.",
+      "start": 782.6,
+      "duration": 0.6
+    },
+    {
+      "text": "A: Oh, it's because I just painted it.",
+      "start": 783.48,
+      "duration": 1.16
+    },
+    {
+      "text": "D: Yes.",
+      "start": 784.64,
+      "duration": 0.5
+    },
+    {
+      "text": "D: I don't know why I just said I don't know. I...",
+      "start": 786.1,
+      "duration": 1.72
+    },
+    {
+      "text": "D: totally knew.",
+      "start": 788.36,
+      "duration": 0.96
+    },
+    {
+      "text": "A: Welp.",
+      "start": 791.62,
+      "duration": 0.66
+    },
+    {
+      "text": "A: That was comfortable.",
+      "start": 792.96,
+      "duration": 1.06
+    },
+    {
+      "text": "D: Yeah.",
+      "start": 794.1,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Woah you did just about all of it.",
+      "start": 795.28,
+      "duration": 1.4
+    },
+    {
+      "text": "A: Uuuuh...",
+      "start": 796.88,
+      "duration": 0.68
+    },
+    {
+      "text": "D: You could only take one of those routes.",
+      "start": 798.3,
+      "duration": 1.74
+    },
+    {
+      "text": "A: I guess that's true huh?",
+      "start": 800.16,
+      "duration": 1.06
+    },
+    {
+      "text": "D: Good jiab.",
+      "start": 801.48,
+      "duration": 0.9
+    },
+    {
+      "text": "A: Intruded to ask for money.",
+      "start": 802.52,
+      "duration": 1.72
+    },
+    {
+      "text": "A: Wow.",
+      "start": 805.06,
+      "duration": 0.64
+    },
+    {
+      "text": "A: Is there gonna be another fucking like,",
+      "start": 806.38,
+      "duration": 1.56
+    },
+    {
+      "text": "A: maybe this is a different ending situation?",
+      "start": 807.94,
+      "duration": 2.32
+    },
+    {
+      "text": "D: I don't know.",
+      "start": 810.48,
+      "duration": 0.84
+    },
+    {
+      "text": "D: I've a feeling they...",
+      "start": 812.22,
+      "duration": 1.2
+    },
+    {
+      "text": "D: programmed in a lotta things to this.",
+      "start": 813.42,
+      "duration": 1.84
+    },
+    {
+      "text": "A: Well next time on Game Grumps",
+      "start": 815.4,
+      "duration": 0.72
+    },
+    {
+      "text": "A: we'll see what's going on downtown!\nD: Oh, man.",
+      "start": 816.12,
+      "duration": 1.48
+    },
+    {
+      "text": "D: Jeez!",
+      "start": 817.6,
+      "duration": 0.54
+    },
+    {
+      "text": "D: I can't wait, Arin!",
+      "start": 818.14,
+      "duration": 1.42
+    },
+    {
+      "text": "D: Oh, good we've re--",
+      "start": 822.62,
+      "duration": 1.14
+    },
+    {
+      "text": "D: started recording right now.",
+      "start": 823.76,
+      "duration": 0.94
+    },
+    {
+      "text": "*Cute Arin laugh*",
+      "start": 825.02,
+      "duration": 0.88
+    }
+  ]
+}

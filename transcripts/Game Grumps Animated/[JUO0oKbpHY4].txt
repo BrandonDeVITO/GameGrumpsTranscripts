@@ -1,0 +1,38 @@
+{
+  "video_id": "JUO0oKbpHY4",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippets": [
+    {
+      "text": "hmm",
+      "start": 6.64,
+      "duration": 7.299
+    },
+    {
+      "text": "[Music]",
+      "start": 8.28,
+      "duration": 5.659
+    },
+    {
+      "text": "[Music]",
+      "start": 21.43,
+      "duration": 5.89
+    },
+    {
+      "text": "oh",
+      "start": 24.32,
+      "duration": 3.0
+    },
+    {
+      "text": "[Music]",
+      "start": 27.75,
+      "duration": 10.579
+    },
+    {
+      "text": "yes",
+      "start": 48.32,
+      "duration": 3.0
+    }
+  ]
+}

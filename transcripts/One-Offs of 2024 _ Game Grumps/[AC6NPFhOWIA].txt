@@ -1,0 +1,3213 @@
+{
+  "video_id": "AC6NPFhOWIA",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Hey, I'm Grump! I'm not so Grump!",
+      "start": 0.0,
+      "duration": 2.4
+    },
+    {
+      "text": "And we're the Game Grumps!",
+      "start": 2.4,
+      "duration": 2.3
+    },
+    {
+      "text": "We're having a junior adventure, Dan.",
+      "start": 6.54,
+      "duration": 1.42
+    },
+    {
+      "text": "Yeah, man, it's Fatty Bear's birthday surprise!",
+      "start": 7.96,
+      "duration": 2.0
+    },
+    {
+      "text": "Waaaaaaah!",
+      "start": 9.96,
+      "duration": 1.58
+    },
+    {
+      "text": "Wow, this was an early one.",
+      "start": 11.54,
+      "duration": 1.5
+    },
+    {
+      "text": "93.",
+      "start": 13.04,
+      "duration": 1.12
+    },
+    {
+      "text": "I think this is before a lot of the other ones.",
+      "start": 14.16,
+      "duration": 1.8
+    },
+    {
+      "text": "This is where Magic the Gathering came out.",
+      "start": 15.96,
+      "duration": 2.0
+    },
+    {
+      "text": "Mmm, wow, that's true.",
+      "start": 17.96,
+      "duration": 2.0
+    },
+    {
+      "text": "Good night, Kayla.",
+      "start": 19.96,
+      "duration": 1.08
+    },
+    {
+      "text": "Good night, Dad.",
+      "start": 21.04,
+      "duration": 1.7
+    },
+    {
+      "text": "I guess the birthday surprise is that Fatty Bear is a large man.",
+      "start": 22.74,
+      "duration": 3.22
+    },
+    {
+      "text": "And Mom and Dad did have a big surprise for me.",
+      "start": 25.96,
+      "duration": 3.7
+    },
+    {
+      "text": "Good night, Fatty Bear.",
+      "start": 29.66,
+      "duration": 2.0
+    },
+    {
+      "text": "You be good.",
+      "start": 31.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm not gonna be good!",
+      "start": 33.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm not gonna be good!",
+      "start": 35.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Could that bear not look more, like, potentially evil than it does right now?",
+      "start": 37.66,
+      "duration": 5.0
+    },
+    {
+      "text": "Hey!",
+      "start": 44.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Time to steal the life of a child!",
+      "start": 46.66,
+      "duration": 2.0
+    },
+    {
+      "text": "When Kayla wakes up, I want to make her a big beautiful birthday cake.",
+      "start": 48.66,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh, will she ever be surprised?",
+      "start": 51.66,
+      "duration": 3.0
+    },
+    {
+      "text": "I better get busy, too.",
+      "start": 54.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I've got a lot of decorating to do.",
+      "start": 56.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm even going to make Kayla a happy birthday sign for her bulletin board.",
+      "start": 58.66,
+      "duration": 4.0
+    },
+    {
+      "text": "I'm sorry, is everyone alive?",
+      "start": 62.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, her fucking eyes are just, like, bloodshot red, like, listening to all this after the room.",
+      "start": 64.66,
+      "duration": 6.0
+    },
+    {
+      "text": "Oh my god!",
+      "start": 70.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, yes. Thank you, Matilda Rabbit.",
+      "start": 72.66,
+      "duration": 2.0
+    },
+    {
+      "text": "That would be nice.",
+      "start": 74.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Um...",
+      "start": 76.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Welp, here I am.",
+      "start": 82.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Ready to cause mischief.",
+      "start": 84.66,
+      "duration": 2.0
+    },
+    {
+      "text": "And there's a head of lettuce.",
+      "start": 86.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm gonna take this lettuce.",
+      "start": 90.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh...",
+      "start": 92.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, it's like Mr. Lettuce Head.",
+      "start": 94.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow, Mr. Lettuce Head has been hitting the 420.",
+      "start": 96.66,
+      "duration": 3.0
+    },
+    {
+      "text": "Where's the mouse?",
+      "start": 102.66,
+      "duration": 2.0
+    },
+    {
+      "text": "It's gotta be- oh, well, alright.",
+      "start": 106.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm Mr. Veggie Head.",
+      "start": 108.66,
+      "duration": 2.0
+    },
+    {
+      "text": "What are you looking at?",
+      "start": 110.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright, how about the duck bill?",
+      "start": 112.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Say there! I'm Mr. Veggie Head!",
+      "start": 114.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, Mr. Veggie Head.",
+      "start": 116.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, I'm a big fan of the one above the duck head.",
+      "start": 118.66,
+      "duration": 2.0
+    },
+    {
+      "text": "That seems the most stony.",
+      "start": 120.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Sup, bro?",
+      "start": 124.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm a silly one.",
+      "start": 126.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Hahahaha!",
+      "start": 128.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Blaze it!",
+      "start": 130.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Pass it.",
+      "start": 132.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh-oh.",
+      "start": 134.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Come on!",
+      "start": 136.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright, let's get out of here.",
+      "start": 138.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, okay.",
+      "start": 140.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Hahahaha!",
+      "start": 142.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Shut the fuck up!",
+      "start": 144.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm making the lettuce for the happy birthday find.",
+      "start": 146.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Kayla will just love this.",
+      "start": 148.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay. I can't wait to leave this room.",
+      "start": 152.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Whoa!",
+      "start": 154.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Whoa!",
+      "start": 156.66,
+      "duration": 2.0
+    },
+    {
+      "text": "1993.",
+      "start": 158.66,
+      "duration": 2.0
+    },
+    {
+      "text": "This is interesting. This is-",
+      "start": 162.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Hurry, hurry, all of you!",
+      "start": 164.66,
+      "duration": 2.0
+    },
+    {
+      "text": "There's so very, very much to do!",
+      "start": 166.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Stop fucking around!",
+      "start": 168.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Fanny Man closes blinds!",
+      "start": 170.66,
+      "duration": 2.0
+    },
+    {
+      "text": "You don't want to see, do you?",
+      "start": 172.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I need to go to the kitchen and make Kayla's birthday cake.",
+      "start": 176.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Wake up, Kayla!",
+      "start": 178.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Wake up!",
+      "start": 180.66,
+      "duration": 2.0
+    },
+    {
+      "text": "He talks like a dubbed anime.",
+      "start": 182.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Aww!",
+      "start": 184.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I need to go to the kitchen to get a birthday cake!",
+      "start": 186.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Aww!",
+      "start": 188.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, very Speed Racer.",
+      "start": 190.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow.",
+      "start": 192.66,
+      "duration": 2.0
+    },
+    {
+      "text": "That was a priceless painting.",
+      "start": 194.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, Dad's gonna be pissed.",
+      "start": 196.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Sit.",
+      "start": 200.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Sit.",
+      "start": 202.66,
+      "duration": 2.0
+    },
+    {
+      "text": "This fool won't sit.",
+      "start": 204.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh.",
+      "start": 208.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Did she give birth to a live frog?",
+      "start": 210.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I know, and did she knock on it to make it birth?",
+      "start": 212.66,
+      "duration": 2.0
+    },
+    {
+      "text": "So, wait, is the idea that it's",
+      "start": 220.66,
+      "duration": 2.0
+    },
+    {
+      "text": "the kid's birthday in the morning?",
+      "start": 222.66,
+      "duration": 2.0
+    },
+    {
+      "text": "So, Fatty Bear's like",
+      "start": 224.66,
+      "duration": 2.0
+    },
+    {
+      "text": "setting up a surprise party?",
+      "start": 226.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I guess.",
+      "start": 228.66,
+      "duration": 2.0
+    },
+    {
+      "text": "But wouldn't that be fucked up?",
+      "start": 230.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Wouldn't he be like, surprise!",
+      "start": 232.66,
+      "duration": 2.0
+    },
+    {
+      "text": "And she's like, oh my god!",
+      "start": 234.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I'd better be quiet.",
+      "start": 236.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Yo!",
+      "start": 238.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Anybody fucking in here?",
+      "start": 242.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, I better be quiet",
+      "start": 246.66,
+      "duration": 2.0
+    },
+    {
+      "text": "by setting off the cuckoo clock.",
+      "start": 248.66,
+      "duration": 2.0
+    },
+    {
+      "text": "It's just going broke.",
+      "start": 250.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my god!",
+      "start": 254.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I think you might have to hit it again.",
+      "start": 256.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Good job, Fatty Bear, just in time.",
+      "start": 260.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Goodness, it's dark in here.",
+      "start": 266.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Why do they have a trampoline in their bedroom?",
+      "start": 268.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know. Aren't they fully grown adults?",
+      "start": 270.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Hey man, sometimes you gotta have a little fun.",
+      "start": 272.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow.",
+      "start": 278.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Gotta be quiet!",
+      "start": 280.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Gotta be quiet!",
+      "start": 282.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Everybody shut the fuck up!",
+      "start": 284.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, I thought he was trying to get somewhere.",
+      "start": 290.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, I thought he was trying to pull",
+      "start": 292.66,
+      "duration": 2.0
+    },
+    {
+      "text": "the light cord, no?",
+      "start": 294.66,
+      "duration": 2.0
+    },
+    {
+      "text": "No. Should we be acquiring",
+      "start": 296.66,
+      "duration": 2.0
+    },
+    {
+      "text": "things? I'm supposed to go to the kitchen.",
+      "start": 298.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh.",
+      "start": 300.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I guess it's this one? Maybe.",
+      "start": 302.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Maybe it's downstairs. The kitchen would be downstairs.",
+      "start": 304.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Thank you, Mousy.",
+      "start": 306.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Now where's my stuff?",
+      "start": 308.66,
+      "duration": 2.0
+    },
+    {
+      "text": "That bounce is too quick for me.",
+      "start": 310.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, fuck.",
+      "start": 312.66,
+      "duration": 2.0
+    },
+    {
+      "text": "The door is locked.",
+      "start": 316.66,
+      "duration": 2.0
+    },
+    {
+      "text": "He's certainly not too quick for this 12-gauge",
+      "start": 318.66,
+      "duration": 2.0
+    },
+    {
+      "text": "shotgun.",
+      "start": 320.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Hey, Mousy, come back here.",
+      "start": 322.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, dear.",
+      "start": 326.66,
+      "duration": 2.0
+    },
+    {
+      "text": "We need to find some cheese for this fucking mouse.",
+      "start": 328.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, absolutely. Could be in the kitchen.",
+      "start": 330.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Ah, the kitchen. Here we are.",
+      "start": 332.66,
+      "duration": 2.0
+    },
+    {
+      "text": "In the kitchen.",
+      "start": 334.66,
+      "duration": 2.0
+    },
+    {
+      "text": "This is the way we brush your teeth",
+      "start": 336.66,
+      "duration": 2.0
+    },
+    {
+      "text": "to make them sparkle clean and neat.",
+      "start": 338.66,
+      "duration": 2.0
+    },
+    {
+      "text": "The way we brush your teeth so early",
+      "start": 340.66,
+      "duration": 2.0
+    },
+    {
+      "text": "in the morning.",
+      "start": 342.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I would not put that in my mouth.",
+      "start": 344.66,
+      "duration": 2.0
+    },
+    {
+      "text": "He used to sell those in the",
+      "start": 346.66,
+      "duration": 2.0
+    },
+    {
+      "text": "90s, dude. They're like Britney Spears songs.",
+      "start": 348.66,
+      "duration": 2.0
+    },
+    {
+      "text": "There's the measuring cup.",
+      "start": 350.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I can measure things for the cake in this.",
+      "start": 352.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, I thought that was a...",
+      "start": 354.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, you're making a cake. I thought that was a bed pan.",
+      "start": 356.66,
+      "duration": 2.0
+    },
+    {
+      "text": "It is.",
+      "start": 358.66,
+      "duration": 2.0
+    },
+    {
+      "text": "But it doesn't mean he can't make the cake in it.",
+      "start": 360.66,
+      "duration": 2.0
+    },
+    {
+      "text": "There goes nothing.",
+      "start": 362.66,
+      "duration": 2.0
+    },
+    {
+      "text": "As long as I can hold things in it.",
+      "start": 364.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Whoa. Look out below.",
+      "start": 366.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, shit.",
+      "start": 368.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow. Good thing they didn't blow out the mic",
+      "start": 370.66,
+      "duration": 2.0
+    },
+    {
+      "text": "while yelling that.",
+      "start": 372.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Now I can get in the garage.",
+      "start": 376.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Cool.",
+      "start": 378.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Good thing these overalls have nine",
+      "start": 382.66,
+      "duration": 2.0
+    },
+    {
+      "text": "enormous pockets.",
+      "start": 384.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, god, if it was that easy.",
+      "start": 388.66,
+      "duration": 2.0
+    },
+    {
+      "text": "And then I'll do it again if I click it again, huh?",
+      "start": 392.66,
+      "duration": 2.0
+    },
+    {
+      "text": "That pocket is empty.",
+      "start": 394.66,
+      "duration": 2.0
+    },
+    {
+      "text": "W-A-S-D.",
+      "start": 396.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Like I'm playing fucking Call of Duty or something.",
+      "start": 398.66,
+      "duration": 2.0
+    },
+    {
+      "text": "What if this game had some",
+      "start": 400.66,
+      "duration": 2.0
+    },
+    {
+      "text": "real 1993 values",
+      "start": 402.66,
+      "duration": 2.0
+    },
+    {
+      "text": "where you hit the laundry and Fatty Bear's like",
+      "start": 404.66,
+      "duration": 2.0
+    },
+    {
+      "text": "that's woman's work.",
+      "start": 406.66,
+      "duration": 2.0
+    },
+    {
+      "text": "You're like, whoa, Fatty Bear.",
+      "start": 408.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Come on, man.",
+      "start": 410.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I won't touch those with my man hands.",
+      "start": 412.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Whoa.",
+      "start": 414.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright, open up the steam engine.",
+      "start": 418.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Cause of mischief",
+      "start": 420.66,
+      "duration": 2.0
+    },
+    {
+      "text": "throughout the house.",
+      "start": 422.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Who did the laundry?",
+      "start": 424.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Harry, did you do the laundry?",
+      "start": 426.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Get to the fucking laundry.",
+      "start": 428.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm scared.",
+      "start": 432.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Turn off that fucking cuckoo clock.",
+      "start": 434.66,
+      "duration": 2.0
+    },
+    {
+      "text": "The toothbrushes are singing to me.",
+      "start": 436.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Go to bed.",
+      "start": 438.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Here I am in the kitchen.",
+      "start": 442.66,
+      "duration": 2.0
+    },
+    {
+      "text": "A telescope.",
+      "start": 444.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Well, if it isn't my little",
+      "start": 446.66,
+      "duration": 2.0
+    },
+    {
+      "text": "pud-pud.",
+      "start": 448.66,
+      "duration": 2.0
+    },
+    {
+      "text": "What the fuck? What is he doing on the moon?",
+      "start": 450.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh, he went to space.",
+      "start": 452.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I wonder what putt-putt's doing on the moon.",
+      "start": 454.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I guess you'll have to play",
+      "start": 456.66,
+      "duration": 2.0
+    },
+    {
+      "text": "putt-putt goes to the moon.",
+      "start": 458.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Drink the tea.",
+      "start": 460.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Ah,",
+      "start": 462.66,
+      "duration": 2.0
+    },
+    {
+      "text": "now that hit the spot.",
+      "start": 464.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Now that tasted horrible.",
+      "start": 466.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Time to spill the tea.",
+      "start": 468.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I wonder what this does.",
+      "start": 470.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I wonder who's banging.",
+      "start": 472.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I've heard",
+      "start": 474.66,
+      "duration": 2.0
+    },
+    {
+      "text": "some things about putt-putt.",
+      "start": 476.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Hashtag",
+      "start": 478.66,
+      "duration": 2.0
+    },
+    {
+      "text": "putt-putt is over.",
+      "start": 480.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I already had to go to the moon",
+      "start": 482.66,
+      "duration": 2.0
+    },
+    {
+      "text": "until the heat blew over.",
+      "start": 484.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Is there",
+      "start": 486.66,
+      "duration": 2.0
+    },
+    {
+      "text": "a pumpkin patch in their front yard?",
+      "start": 488.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 490.66,
+      "duration": 2.0
+    },
+    {
+      "text": "It's really easy to grow pumpkins, dude.",
+      "start": 492.66,
+      "duration": 2.0
+    },
+    {
+      "text": "There you go.",
+      "start": 494.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, but all I have",
+      "start": 496.66,
+      "duration": 2.0
+    },
+    {
+      "text": "is a fucking colostomy bag",
+      "start": 498.66,
+      "duration": 2.0
+    },
+    {
+      "text": "or whatever.",
+      "start": 500.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow, see?",
+      "start": 502.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Just got here?",
+      "start": 504.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm here to help with the cake.",
+      "start": 506.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Thank you, Matilda Rabbit.",
+      "start": 508.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I speak with my whole body.",
+      "start": 510.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Do you think there's something in my pocket",
+      "start": 512.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I need for the cake?",
+      "start": 514.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I should leave it on the counter.",
+      "start": 516.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, okay.",
+      "start": 518.66,
+      "duration": 2.0
+    },
+    {
+      "text": "A gift.",
+      "start": 520.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Hmm.",
+      "start": 522.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I wonder what's in Kayla's present.",
+      "start": 524.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Don't open it, idiot.",
+      "start": 526.66,
+      "duration": 2.0
+    },
+    {
+      "text": "What the fuck?",
+      "start": 528.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Goodness gracious.",
+      "start": 530.66,
+      "duration": 2.0
+    },
+    {
+      "text": "There goes Kayla's birthday present.",
+      "start": 532.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, no. Look what she's done",
+      "start": 534.66,
+      "duration": 2.0
+    },
+    {
+      "text": "to the ribbon. I dare say",
+      "start": 536.66,
+      "duration": 2.0
+    },
+    {
+      "text": "that puppy is a scamp.",
+      "start": 538.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I guess I better go find the puppy.",
+      "start": 540.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Is it just like sitting in the box?",
+      "start": 542.66,
+      "duration": 2.0
+    },
+    {
+      "text": "In the tight box?",
+      "start": 544.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Good thinking, Fatty Bear.",
+      "start": 546.66,
+      "duration": 2.0
+    },
+    {
+      "text": "This box is filled with shit",
+      "start": 548.66,
+      "duration": 2.0
+    },
+    {
+      "text": "and piss. Fatty Bear,",
+      "start": 550.66,
+      "duration": 2.0
+    },
+    {
+      "text": "you have really fucked up this",
+      "start": 552.66,
+      "duration": 2.0
+    },
+    {
+      "text": "birthday so far.",
+      "start": 554.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Good morning, Kayla.",
+      "start": 560.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Bad news.",
+      "start": 562.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Well, good news, bad news.",
+      "start": 564.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, here we go.",
+      "start": 566.66,
+      "duration": 2.0
+    },
+    {
+      "text": "That's a real Charlie Brown bowl.",
+      "start": 568.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my god, it is.",
+      "start": 570.66,
+      "duration": 2.0
+    },
+    {
+      "text": "It's 100% a Charlie Brown bowl.",
+      "start": 572.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my god.",
+      "start": 574.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Your birthday cake.",
+      "start": 576.66,
+      "duration": 2.0
+    },
+    {
+      "text": "One stick of butter. I'll take that for the cake.",
+      "start": 578.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I need this milk",
+      "start": 580.66,
+      "duration": 2.0
+    },
+    {
+      "text": "for the cake.",
+      "start": 582.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Eggs. I need two of those for the cake.",
+      "start": 584.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Bone. I need this for cake.",
+      "start": 586.66,
+      "duration": 2.0
+    },
+    {
+      "text": "It's a bone.",
+      "start": 588.66,
+      "duration": 2.0
+    },
+    {
+      "text": "You never know when I might need this.",
+      "start": 590.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Sure. Yeah, to lure the puppy back.",
+      "start": 592.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, word. I need for the cake.",
+      "start": 594.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I should leave them on the counter.",
+      "start": 596.66,
+      "duration": 2.0
+    },
+    {
+      "text": "That is like a perfect",
+      "start": 598.66,
+      "duration": 2.0
+    },
+    {
+      "text": "ass bone. You know what I mean?",
+      "start": 600.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 602.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, hello.",
+      "start": 604.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I think the feng shui in this room is really making me",
+      "start": 608.66,
+      "duration": 2.0
+    },
+    {
+      "text": "uncomfortable. I like it.",
+      "start": 610.66,
+      "duration": 2.0
+    },
+    {
+      "text": "It's just a couch that you can watch people walk into",
+      "start": 612.66,
+      "duration": 2.0
+    },
+    {
+      "text": "the house. There's no more 90s",
+      "start": 614.66,
+      "duration": 2.0
+    },
+    {
+      "text": "color combination for rooms than green",
+      "start": 616.66,
+      "duration": 2.0
+    },
+    {
+      "text": "and purple. Remember when we were playing",
+      "start": 618.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Phantasmagoria 2 and that's the office?",
+      "start": 620.66,
+      "duration": 2.0
+    },
+    {
+      "text": "It's a real villain color.",
+      "start": 626.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Honey, I'll be a little late because I'm",
+      "start": 628.66,
+      "duration": 2.0
+    },
+    {
+      "text": "picking up Kayla's present at the pet store.",
+      "start": 630.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Weird.",
+      "start": 632.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Kinda giving it away, huh?",
+      "start": 634.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, Kayla, did you pick up?",
+      "start": 636.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm at the present",
+      "start": 638.66,
+      "duration": 2.0
+    },
+    {
+      "text": "store.",
+      "start": 640.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Whoops. Thousands are dead.",
+      "start": 642.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, hello.",
+      "start": 644.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Will we see our little",
+      "start": 646.66,
+      "duration": 2.0
+    },
+    {
+      "text": "fishy friend? Whoa, Freddy Fish.",
+      "start": 648.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Freddy Fish, thank you. I don't know if he was",
+      "start": 650.66,
+      "duration": 2.0
+    },
+    {
+      "text": "invented yet.",
+      "start": 652.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Maybe not. Freddy Fish was a later",
+      "start": 654.66,
+      "duration": 2.0
+    },
+    {
+      "text": "creation.",
+      "start": 656.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright, what else is there to do in here?",
+      "start": 660.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Try the clam. Clam?",
+      "start": 664.66,
+      "duration": 2.0
+    },
+    {
+      "text": "There might be a pearl in there.",
+      "start": 666.66,
+      "duration": 2.0
+    },
+    {
+      "text": "No. Hit the bubble?",
+      "start": 668.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh.",
+      "start": 670.66,
+      "duration": 2.0
+    },
+    {
+      "text": "What the fuck is that?",
+      "start": 672.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know.",
+      "start": 674.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, it's a little creature.",
+      "start": 678.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Well, that's adorable. It's a duck.",
+      "start": 680.66,
+      "duration": 2.0
+    },
+    {
+      "text": "It also doesn't help. No, it doesn't.",
+      "start": 682.66,
+      "duration": 2.0
+    },
+    {
+      "text": "It does not help.",
+      "start": 684.66,
+      "duration": 2.0
+    },
+    {
+      "text": "When did that get there?",
+      "start": 686.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I found the letter Y.",
+      "start": 688.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay.",
+      "start": 690.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Cool.",
+      "start": 692.66,
+      "duration": 2.0
+    },
+    {
+      "text": "That letter is also my question.",
+      "start": 694.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Holy shit, dude.",
+      "start": 698.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh.",
+      "start": 700.66,
+      "duration": 2.0
+    },
+    {
+      "text": "There you had a little lamb.",
+      "start": 702.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Play it.",
+      "start": 704.66,
+      "duration": 2.0
+    },
+    {
+      "text": "No.",
+      "start": 706.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Right, every",
+      "start": 710.66,
+      "duration": 2.0
+    },
+    {
+      "text": "good boy, B.",
+      "start": 712.66,
+      "duration": 2.0
+    },
+    {
+      "text": "A, B.",
+      "start": 714.66,
+      "duration": 2.0
+    },
+    {
+      "text": "C.",
+      "start": 716.66,
+      "duration": 2.0
+    },
+    {
+      "text": "This is D.",
+      "start": 718.66,
+      "duration": 2.0
+    },
+    {
+      "text": "C, B.",
+      "start": 720.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 726.66,
+      "duration": 2.0
+    },
+    {
+      "text": "What a fucking banger.",
+      "start": 730.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Just drop a beat behind it.",
+      "start": 736.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Twinkle, twinkle, little star.",
+      "start": 742.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Are we supposed to play these?",
+      "start": 744.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Good boy.",
+      "start": 746.66,
+      "duration": 2.0
+    },
+    {
+      "text": "B, C.",
+      "start": 748.66,
+      "duration": 2.0
+    },
+    {
+      "text": "C, B, A.",
+      "start": 750.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Hang on. Good boy.",
+      "start": 752.66,
+      "duration": 2.0
+    },
+    {
+      "text": "G. Hit the dog.",
+      "start": 754.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Well, I shouldn't say it like that.",
+      "start": 756.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I thought maybe it would",
+      "start": 758.66,
+      "duration": 2.0
+    },
+    {
+      "text": "show you like the song you need to play",
+      "start": 760.66,
+      "duration": 2.0
+    },
+    {
+      "text": "to bring the dog back.",
+      "start": 762.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh.",
+      "start": 764.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oops.",
+      "start": 770.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Fucking...",
+      "start": 776.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I know exactly the scenario",
+      "start": 778.66,
+      "duration": 2.0
+    },
+    {
+      "text": "because it probably would have happened to me if I had this kid.",
+      "start": 780.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I would just like sit down at a piano",
+      "start": 782.66,
+      "duration": 2.0
+    },
+    {
+      "text": "and like play it at a real piano.",
+      "start": 784.66,
+      "duration": 2.0
+    },
+    {
+      "text": "How did you learn that?",
+      "start": 786.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I'll be like, I'll never tell.",
+      "start": 788.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I guess I just transcribed it in my mind",
+      "start": 790.66,
+      "duration": 2.0
+    },
+    {
+      "text": "because I'm a little genius Mozart.",
+      "start": 792.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow.",
+      "start": 794.66,
+      "duration": 2.0
+    },
+    {
+      "text": "And then they wouldn't do anything to encourage it.",
+      "start": 796.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Upstairs.",
+      "start": 800.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm gonna get",
+      "start": 802.66,
+      "duration": 2.0
+    },
+    {
+      "text": "the fucking key.",
+      "start": 804.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh yeah, the cheese.",
+      "start": 806.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright, when he comes out",
+      "start": 810.66,
+      "duration": 2.0
+    },
+    {
+      "text": "and drops the key, bash him over the head with the bone.",
+      "start": 812.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, wonderful.",
+      "start": 816.66,
+      "duration": 2.0
+    },
+    {
+      "text": "The key to the attic.",
+      "start": 818.66,
+      "duration": 2.0
+    },
+    {
+      "text": "The key to his house.",
+      "start": 820.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Now it's time to ruin his life.",
+      "start": 822.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Where's the attic?",
+      "start": 824.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, wait.",
+      "start": 826.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Is this the attic?",
+      "start": 828.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh yeah, okay.",
+      "start": 830.66,
+      "duration": 2.0
+    },
+    {
+      "text": "That makes sense that the key would be right here.",
+      "start": 832.66,
+      "duration": 2.0
+    },
+    {
+      "text": "The door that's right here.",
+      "start": 834.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright.",
+      "start": 836.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Typically attics are higher than",
+      "start": 838.66,
+      "duration": 2.0
+    },
+    {
+      "text": "the rest of the house, but whatever.",
+      "start": 840.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Maybe there's like a staircase.",
+      "start": 842.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay.",
+      "start": 844.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Maybe I'd better put this back.",
+      "start": 846.66,
+      "duration": 2.0
+    },
+    {
+      "text": "The artist",
+      "start": 848.66,
+      "duration": 2.0
+    },
+    {
+      "text": "didn't want to draw any more sprites of this thing.",
+      "start": 850.66,
+      "duration": 2.0
+    },
+    {
+      "text": "No. No.",
+      "start": 856.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Please.",
+      "start": 862.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Everything, stop being",
+      "start": 864.66,
+      "duration": 2.0
+    },
+    {
+      "text": "so whimsical.",
+      "start": 866.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I feel like I wrote a song like this.",
+      "start": 870.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Like a little",
+      "start": 874.66,
+      "duration": 2.0
+    },
+    {
+      "text": "funky, funky little",
+      "start": 876.66,
+      "duration": 2.0
+    },
+    {
+      "text": "It has a spooky, scary",
+      "start": 880.66,
+      "duration": 2.0
+    },
+    {
+      "text": "skeletons kind of vibe to it.",
+      "start": 882.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Hey, it's",
+      "start": 884.66,
+      "duration": 2.0
+    },
+    {
+      "text": "me.",
+      "start": 886.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Mirror,",
+      "start": 888.66,
+      "duration": 2.0
+    },
+    {
+      "text": "mirror on the wall.",
+      "start": 890.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Who is the me?",
+      "start": 892.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, it's me.",
+      "start": 894.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Who's the barest",
+      "start": 896.66,
+      "duration": 2.0
+    },
+    {
+      "text": "of the ball?",
+      "start": 898.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Anyway, things haven't been",
+      "start": 904.66,
+      "duration": 2.0
+    },
+    {
+      "text": "that great lately.",
+      "start": 906.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Hell yeah.",
+      "start": 908.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Maybe I'd better put these",
+      "start": 910.66,
+      "duration": 2.0
+    },
+    {
+      "text": "things back. No, keep them.",
+      "start": 912.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Keep them forever.",
+      "start": 914.66,
+      "duration": 2.0
+    },
+    {
+      "text": "What am I supposed to do in here?",
+      "start": 916.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Bone?",
+      "start": 918.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Yep, sure is.",
+      "start": 920.66,
+      "duration": 2.0
+    },
+    {
+      "text": "That's the letter Y. Yeah, as in why",
+      "start": 922.66,
+      "duration": 2.0
+    },
+    {
+      "text": "am I in here? Yeah.",
+      "start": 924.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Why did I need a key to get into this",
+      "start": 926.66,
+      "duration": 2.0
+    },
+    {
+      "text": "unlockable level?",
+      "start": 928.66,
+      "duration": 2.0
+    },
+    {
+      "text": "There's nothing to do in here.",
+      "start": 930.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Aside from fuck around.",
+      "start": 932.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Can the other drawers",
+      "start": 934.66,
+      "duration": 2.0
+    },
+    {
+      "text": "open anything? Yeah, they do the",
+      "start": 936.66,
+      "duration": 2.0
+    },
+    {
+      "text": "they give you the... Oh, oh.",
+      "start": 938.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Dang.",
+      "start": 940.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Maybe I'd better put these things back.",
+      "start": 942.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Why?",
+      "start": 944.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Why don't you live your fucking life, fatty",
+      "start": 946.66,
+      "duration": 2.0
+    },
+    {
+      "text": "bear? Yeah.",
+      "start": 948.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Why you gotta conform to the... You don't have to",
+      "start": 950.66,
+      "duration": 2.0
+    },
+    {
+      "text": "play by the man's rules. Seriously, you're",
+      "start": 952.66,
+      "duration": 2.0
+    },
+    {
+      "text": "a teddy bear.",
+      "start": 954.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Well, that was",
+      "start": 956.66,
+      "duration": 2.0
+    },
+    {
+      "text": "worthless. Oh, shit.",
+      "start": 958.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I thought I would fucking make some progress.",
+      "start": 960.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Is there a new picture in the picture frame?",
+      "start": 962.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Fatty bear loves to eat.",
+      "start": 966.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Not cool, man.",
+      "start": 968.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I think, uh...",
+      "start": 970.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Fatty bear, a terrible thing has happened.",
+      "start": 972.66,
+      "duration": 2.0
+    },
+    {
+      "text": "The puppies run off with",
+      "start": 974.66,
+      "duration": 2.0
+    },
+    {
+      "text": "three of the letters for the happy",
+      "start": 976.66,
+      "duration": 2.0
+    },
+    {
+      "text": "birthday sign. I can't",
+      "start": 978.66,
+      "duration": 2.0
+    },
+    {
+      "text": "spell happy birthday without them.",
+      "start": 980.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Guess what?",
+      "start": 982.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Gretchen, I have a letter for the happy",
+      "start": 984.66,
+      "duration": 2.0
+    },
+    {
+      "text": "birthday sign.",
+      "start": 986.66,
+      "duration": 2.0
+    },
+    {
+      "text": "That sentence was recorded",
+      "start": 988.66,
+      "duration": 2.0
+    },
+    {
+      "text": "over the course of like three days.",
+      "start": 990.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Guess what? I don't care.",
+      "start": 996.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Guess what?",
+      "start": 1006.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Guess what?",
+      "start": 1010.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Shut up.",
+      "start": 1012.66,
+      "duration": 2.0
+    },
+    {
+      "text": "The puppy.",
+      "start": 1014.66,
+      "duration": 2.0
+    },
+    {
+      "text": "This is like the noisiest shit",
+      "start": 1018.66,
+      "duration": 2.0
+    },
+    {
+      "text": "that's ever happened. I know.",
+      "start": 1020.66,
+      "duration": 2.0
+    },
+    {
+      "text": "It's a bone. I know.",
+      "start": 1022.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Leave it on the ground. Yeah, for the dog.",
+      "start": 1024.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my god,",
+      "start": 1026.66,
+      "duration": 2.0
+    },
+    {
+      "text": "dude. You stop that.",
+      "start": 1028.66,
+      "duration": 2.0
+    },
+    {
+      "text": "But it's luring the dog",
+      "start": 1030.66,
+      "duration": 2.0
+    },
+    {
+      "text": "in. Yeah. So take the bone.",
+      "start": 1032.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my god.",
+      "start": 1034.66,
+      "duration": 2.0
+    },
+    {
+      "text": "So what are we trying to do here?",
+      "start": 1038.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Don't forget to find the rest of the letters for the",
+      "start": 1040.66,
+      "duration": 2.0
+    },
+    {
+      "text": "happy birthday sign. Can you give her the Y?",
+      "start": 1042.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Would you please put the letters on the bulletin board for me?",
+      "start": 1044.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, sure. I will, Gretchen.",
+      "start": 1046.66,
+      "duration": 2.0
+    },
+    {
+      "text": "And be sure to blow up the balloons. They're right there on the",
+      "start": 1048.66,
+      "duration": 2.0
+    },
+    {
+      "text": "toy shelf. I'll remember, Gretchen.",
+      "start": 1050.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Guess what? The dog pops the balloons.",
+      "start": 1052.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Find two more",
+      "start": 1054.66,
+      "duration": 2.0
+    },
+    {
+      "text": "letters.",
+      "start": 1056.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Happy",
+      "start": 1058.66,
+      "duration": 2.0
+    },
+    {
+      "text": "birthday.",
+      "start": 1060.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah. Happy birthday.",
+      "start": 1062.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Only two more Y's to go.",
+      "start": 1066.66,
+      "duration": 2.0
+    },
+    {
+      "text": "That's one balloon, fatty bear.",
+      "start": 1070.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Four more to go.",
+      "start": 1072.66,
+      "duration": 2.0
+    },
+    {
+      "text": "What are you, selling me donuts?",
+      "start": 1074.66,
+      "duration": 2.0
+    },
+    {
+      "text": "You stop that.",
+      "start": 1080.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I'll fucking kill you.",
+      "start": 1082.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I'll fucking get you, dog.",
+      "start": 1084.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Try it again,",
+      "start": 1086.66,
+      "duration": 2.0
+    },
+    {
+      "text": "dog. See what fucking happens.",
+      "start": 1088.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I hope I can find",
+      "start": 1092.66,
+      "duration": 2.0
+    },
+    {
+      "text": "a new ribbon to put on the puppy's box.",
+      "start": 1094.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright, I guess I'll go to the fucking garage or something.",
+      "start": 1096.66,
+      "duration": 2.0
+    },
+    {
+      "text": "What did she say? The puppy ran off",
+      "start": 1100.66,
+      "duration": 2.0
+    },
+    {
+      "text": "with the letters?",
+      "start": 1102.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, he's got the letters, dog.",
+      "start": 1104.66,
+      "duration": 2.0
+    },
+    {
+      "text": "The dog's got the letters, dog.",
+      "start": 1106.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't think I've been in this room yet.",
+      "start": 1110.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, no, that's the front door.",
+      "start": 1112.66,
+      "duration": 2.0
+    },
+    {
+      "text": "This is...",
+      "start": 1114.66,
+      "duration": 2.0
+    },
+    {
+      "text": "No, that's the front door.",
+      "start": 1116.66,
+      "duration": 2.0
+    },
+    {
+      "text": "But it looks like a different perspective.",
+      "start": 1118.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Ooh, hula hoop.",
+      "start": 1120.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, look at him go. Yeah, look how happy he is.",
+      "start": 1126.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Bro, don't stop.",
+      "start": 1128.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Didn't think I could hula hoop",
+      "start": 1130.66,
+      "duration": 2.0
+    },
+    {
+      "text": "with this labyrinthian gut, did you?",
+      "start": 1132.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Aw, the moon's made of cheese.",
+      "start": 1136.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Whoa.",
+      "start": 1138.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Always wear your helmet, kids.",
+      "start": 1142.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1144.66,
+      "duration": 2.0
+    },
+    {
+      "text": "It's a present for Kayla.",
+      "start": 1150.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh.",
+      "start": 1152.66,
+      "duration": 2.0
+    },
+    {
+      "text": "So, oh, so you're not gonna open that one.",
+      "start": 1154.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Learned your fucking lesson, I see.",
+      "start": 1156.66,
+      "duration": 2.0
+    },
+    {
+      "text": "This one's probably alive, too.",
+      "start": 1161.66,
+      "duration": 2.0
+    },
+    {
+      "text": "There it goes. Yeah.",
+      "start": 1165.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, and it's back.",
+      "start": 1168.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Push, push, push.",
+      "start": 1174.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Great. Let's go to the fucking garage, dude.",
+      "start": 1178.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, why not?",
+      "start": 1180.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I need a remote.",
+      "start": 1182.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I need a remote control to open the garage.",
+      "start": 1185.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I can't open this shit. Like this one?",
+      "start": 1187.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Now I can get in the garage.",
+      "start": 1189.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Sugar. Sugar.",
+      "start": 1192.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Now I'm Mano Unsaturated Fatty Bear.",
+      "start": 1194.66,
+      "duration": 3.0
+    },
+    {
+      "text": "That's the sugar for the birthday cake.",
+      "start": 1197.66,
+      "duration": 2.0
+    },
+    {
+      "text": "But I can't reach it. Oh, dear.",
+      "start": 1199.66,
+      "duration": 3.0
+    },
+    {
+      "text": "Uh, bone?",
+      "start": 1202.66,
+      "duration": 2.0
+    },
+    {
+      "text": "It's a bone. Ribbon.",
+      "start": 1204.66,
+      "duration": 2.0
+    },
+    {
+      "text": "There's some ribbon. No, that's attached to the bicycle bump, sorry.",
+      "start": 1206.66,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh, well, that was delightful.",
+      "start": 1211.66,
+      "duration": 2.0
+    },
+    {
+      "text": "There is so much that does nothing in this game.",
+      "start": 1214.66,
+      "duration": 3.0
+    },
+    {
+      "text": "Yeah. It's incredible.",
+      "start": 1217.66,
+      "duration": 2.0
+    },
+    {
+      "text": "It almost just, like, un-teaches you game design.",
+      "start": 1220.66,
+      "duration": 3.0
+    },
+    {
+      "text": "I can use this to get the sugar.",
+      "start": 1224.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Hell yeah, dude. I think we've got everything for a cake now.",
+      "start": 1229.66,
+      "duration": 3.0
+    },
+    {
+      "text": "Good job. Go. Go for it.",
+      "start": 1232.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Hold on. Go back to the attic.",
+      "start": 1238.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Why?",
+      "start": 1240.66,
+      "duration": 1.0
+    },
+    {
+      "text": "There's chocolate chips on the floor of the attic.",
+      "start": 1241.66,
+      "duration": 2.0
+    },
+    {
+      "text": "What?",
+      "start": 1243.66,
+      "duration": 1.0
+    },
+    {
+      "text": "I don't know.",
+      "start": 1244.66,
+      "duration": 1.0
+    },
+    {
+      "text": "There were not chocolate chips on the floor in the attic.",
+      "start": 1245.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Do you think I'm being lied to by a Fatty Bear walkthrough?",
+      "start": 1247.66,
+      "duration": 5.0
+    },
+    {
+      "text": "Do you think I'm being lied to by FattyBearFanWalkthrough.com",
+      "start": 1252.66,
+      "duration": 5.0
+    },
+    {
+      "text": "slash FattyBearBirthdaySurprise.html",
+      "start": 1257.66,
+      "duration": 4.0
+    },
+    {
+      "text": "slash PornHub.com",
+      "start": 1261.66,
+      "duration": 2.0
+    },
+    {
+      "text": "slash stuck in washing machines",
+      "start": 1263.66,
+      "duration": 2.0
+    },
+    {
+      "text": "stuck in...",
+      "start": 1265.66,
+      "duration": 2.0
+    },
+    {
+      "text": "There's not chocolate chips on the floor, dude.",
+      "start": 1268.66,
+      "duration": 2.0
+    },
+    {
+      "text": "It's the cleanest fucking floor I've ever seen.",
+      "start": 1271.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Maybe you're right.",
+      "start": 1273.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Do I have to, like, activate them?",
+      "start": 1276.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Hold on.",
+      "start": 1278.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Probably did something out of order, dude.",
+      "start": 1280.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, wait.",
+      "start": 1282.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh.",
+      "start": 1283.66,
+      "duration": 2.0
+    },
+    {
+      "text": "What? Give me the...",
+      "start": 1286.66,
+      "duration": 1.0
+    },
+    {
+      "text": "You had to do the...",
+      "start": 1287.66,
+      "duration": 2.0
+    },
+    {
+      "text": "When we were in the kitchen, you needed to take the chocolate chips",
+      "start": 1289.66,
+      "duration": 3.0
+    },
+    {
+      "text": "while the puppy was out of the box.",
+      "start": 1292.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Then she would snatch them and take them out of the...",
+      "start": 1295.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Puppy!",
+      "start": 1297.66,
+      "duration": 1.0
+    },
+    {
+      "text": "There's something in my pocket I need for the cake.",
+      "start": 1298.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I should leave it on the counter.",
+      "start": 1300.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Don't say it like that.",
+      "start": 1303.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Give the puppy the bone.",
+      "start": 1304.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Give the puppy the bone.",
+      "start": 1306.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Gotta get in the bone position.",
+      "start": 1308.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Good girl.",
+      "start": 1311.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, see ya.",
+      "start": 1315.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, my.",
+      "start": 1316.66,
+      "duration": 1.0
+    },
+    {
+      "text": "If I had a new ribbon, I could keep the box closed.",
+      "start": 1317.66,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh, got it.",
+      "start": 1320.66,
+      "duration": 1.0
+    },
+    {
+      "text": "I do.",
+      "start": 1321.66,
+      "duration": 1.0
+    },
+    {
+      "text": "That's the old ribbon.",
+      "start": 1322.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, my God.",
+      "start": 1323.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Wait, here, look around for some chocolate chips.",
+      "start": 1324.66,
+      "duration": 2.0
+    },
+    {
+      "text": "There's no fucking chocolate chips.",
+      "start": 1326.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Find the puppy.",
+      "start": 1328.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, and I need a fresh ribbon.",
+      "start": 1329.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, my God.",
+      "start": 1331.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Try it.",
+      "start": 1332.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Try those cabinets up there.",
+      "start": 1333.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Boom, baby.",
+      "start": 1338.66,
+      "duration": 1.0
+    },
+    {
+      "text": "What?",
+      "start": 1339.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, chocolate chips.",
+      "start": 1340.66,
+      "duration": 1.0
+    },
+    {
+      "text": "I'll definitely need chocolate chips for a chocolatey chip cake.",
+      "start": 1341.66,
+      "duration": 3.0
+    },
+    {
+      "text": "What about sardines?",
+      "start": 1344.66,
+      "duration": 1.0
+    },
+    {
+      "text": "My sardine and popcorn cake.",
+      "start": 1345.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Hey, you can't take my chocolate chips.",
+      "start": 1347.66,
+      "duration": 2.0
+    },
+    {
+      "text": "That dog's gonna die.",
+      "start": 1350.66,
+      "duration": 1.0
+    },
+    {
+      "text": "I'll fucking kill you.",
+      "start": 1351.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Come back here.",
+      "start": 1352.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, my God.",
+      "start": 1354.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, my God.",
+      "start": 1355.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Wow.",
+      "start": 1356.66,
+      "duration": 1.0
+    },
+    {
+      "text": "They're having, like, a Scooby-Doo chase scene.",
+      "start": 1357.66,
+      "duration": 2.0
+    },
+    {
+      "text": "What?",
+      "start": 1360.66,
+      "duration": 1.0
+    },
+    {
+      "text": "My poor bear bottom?",
+      "start": 1361.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Is that what he said?",
+      "start": 1362.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, gracious.",
+      "start": 1363.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Or did he say, I'm a poor bear in need of a bottom?",
+      "start": 1365.66,
+      "duration": 3.0
+    },
+    {
+      "text": "Because that's very different.",
+      "start": 1369.66,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm a bottom.",
+      "start": 1370.66,
+      "duration": 1.0
+    },
+    {
+      "text": "You love the chocolate chips.",
+      "start": 1376.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Good job, fuckface.",
+      "start": 1377.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, my.",
+      "start": 1378.66,
+      "duration": 1.0
+    },
+    {
+      "text": "You know who he reminds me of?",
+      "start": 1382.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Who's that?",
+      "start": 1383.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Fucking Sugar Bear.",
+      "start": 1384.66,
+      "duration": 1.0
+    },
+    {
+      "text": "But Sugar Bear has more of this kind.",
+      "start": 1386.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I'll definitely need chocolate chips for a chocolatey chip cake.",
+      "start": 1388.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, but it's something about the soft-spoken way that he approaches life.",
+      "start": 1390.66,
+      "duration": 2.0
+    },
+    {
+      "text": "They both have, like, a very whispery kind of delivery.",
+      "start": 1392.66,
+      "duration": 3.0
+    },
+    {
+      "text": "I'm gonna go downstairs now.",
+      "start": 1395.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm gonna put the chocolate chips open in the kitchen.",
+      "start": 1399.66,
+      "duration": 4.0
+    },
+    {
+      "text": "Yes.",
+      "start": 1403.66,
+      "duration": 1.0
+    },
+    {
+      "text": "For the dog to steal again.",
+      "start": 1404.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Correct.",
+      "start": 1405.66,
+      "duration": 1.0
+    },
+    {
+      "text": "I do believe there's something in my pocket I need for the cake.",
+      "start": 1406.66,
+      "duration": 3.0
+    },
+    {
+      "text": "I should leave it on the counter.",
+      "start": 1409.66,
+      "duration": 1.0
+    },
+    {
+      "text": "What the fuck kind of parents are these?",
+      "start": 1410.66,
+      "duration": 2.0
+    },
+    {
+      "text": "They're letting the teddy bear make the cake.",
+      "start": 1412.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I do believe there's something in my pocket I need for the cake.",
+      "start": 1414.66,
+      "duration": 4.0
+    },
+    {
+      "text": "Oh, yeah.",
+      "start": 1418.66,
+      "duration": 1.0
+    },
+    {
+      "text": "My dick.",
+      "start": 1419.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Guess what?",
+      "start": 1421.66,
+      "duration": 1.0
+    },
+    {
+      "text": "It's my dick.",
+      "start": 1422.66,
+      "duration": 1.0
+    },
+    {
+      "text": "You won't be able to keep it with the box, dude.",
+      "start": 1425.66,
+      "duration": 2.0
+    },
+    {
+      "text": "You need the new ribbon.",
+      "start": 1427.66,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm gonna try.",
+      "start": 1428.66,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm gonna try, dude.",
+      "start": 1429.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Good girl.",
+      "start": 1430.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, shit.",
+      "start": 1431.66,
+      "duration": 1.0
+    },
+    {
+      "text": "It's fucking straight up leaves, bro.",
+      "start": 1432.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, my.",
+      "start": 1434.66,
+      "duration": 1.0
+    },
+    {
+      "text": "If I had a new ribbon.",
+      "start": 1435.66,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm not a stupid bastard.",
+      "start": 1436.66,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm fucking epic.",
+      "start": 1439.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Is there more stuff in the cabinets?",
+      "start": 1441.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't believe so.",
+      "start": 1443.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Just taking a quick peek through here.",
+      "start": 1445.66,
+      "duration": 2.0
+    },
+    {
+      "text": "What about the baking powder?",
+      "start": 1447.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Baking powder.",
+      "start": 1448.66,
+      "duration": 1.0
+    },
+    {
+      "text": "This will help my cake rise.",
+      "start": 1449.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Vanilla.",
+      "start": 1451.66,
+      "duration": 1.0
+    },
+    {
+      "text": "I need that for the cake.",
+      "start": 1452.66,
+      "duration": 2.0
+    },
+    {
+      "text": "What about the honey?",
+      "start": 1454.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, the honey just comes out of its head.",
+      "start": 1455.66,
+      "duration": 3.0
+    },
+    {
+      "text": "All right.",
+      "start": 1460.66,
+      "duration": 1.0
+    },
+    {
+      "text": "I do believe there are some things in my pocket I need for the cake.",
+      "start": 1461.66,
+      "duration": 3.0
+    },
+    {
+      "text": "I should leave them on the counter.",
+      "start": 1464.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Like this bone.",
+      "start": 1466.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Fatty Bear, we need to make the cake in a hurry.",
+      "start": 1470.66,
+      "duration": 3.0
+    },
+    {
+      "text": "I wonder which of Kayla's friends will get the good luck bone in their piece of cake.",
+      "start": 1476.66,
+      "duration": 5.0
+    },
+    {
+      "text": "I'll be watching.",
+      "start": 1484.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Nothing in there.",
+      "start": 1485.66,
+      "duration": 1.0
+    },
+    {
+      "text": "This will help me mix the batter.",
+      "start": 1488.66,
+      "duration": 2.0
+    },
+    {
+      "text": "I always use measuring spoons when I bake a cake.",
+      "start": 1490.66,
+      "duration": 3.0
+    },
+    {
+      "text": "A mixing bowl.",
+      "start": 1493.66,
+      "duration": 1.0
+    },
+    {
+      "text": "This will come in handy for the cake.",
+      "start": 1494.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Quaaludes.",
+      "start": 1497.66,
+      "duration": 1.0
+    },
+    {
+      "text": "No other explanation, but like ding, he takes them.",
+      "start": 1499.66,
+      "duration": 3.0
+    },
+    {
+      "text": "I'll need these while making a cake.",
+      "start": 1513.66,
+      "duration": 2.0
+    },
+    {
+      "text": "It's been a long day.",
+      "start": 1519.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Next time on Game Grumps, the conclusion to Fatty Bear's birthday surprise.",
+      "start": 1521.66,
+      "duration": 4.0
+    },
+    {
+      "text": "Oh, he'll be so berry and fat.",
+      "start": 1525.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Kayla's cake.",
+      "start": 1533.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Fuck you all.",
+      "start": 1534.66,
+      "duration": 1.0
+    },
+    {
+      "text": "K-Y-S.",
+      "start": 1538.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Kayla's cake.",
+      "start": 1540.66,
+      "duration": 1.0
+    }
+  ]
+}

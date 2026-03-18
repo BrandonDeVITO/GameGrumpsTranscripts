@@ -1,0 +1,113 @@
+{
+  "video_id": "Cz7fWKzgI98",
+  "language": "French",
+  "language_code": "fr",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "L'île du Vent, un endroit douillet\nsi je peux me permettre.",
+      "start": 2.66,
+      "duration": 3.14
+    },
+    {
+      "text": "Une île animée !",
+      "start": 6.08,
+      "duration": 1.24
+    },
+    {
+      "text": "Juste visiter est amusant,\nc'est le signe d'une bonne ville !",
+      "start": 7.32,
+      "duration": 3.78
+    },
+    {
+      "text": "Y'a vraiment des gens du monde entier\nqui viennent ici ?",
+      "start": 11.1,
+      "duration": 1.86
+    },
+    {
+      "text": "J'en doute sérieusement.",
+      "start": 12.96,
+      "duration": 2.0
+    },
+    {
+      "text": "Il y a 10 personnes.",
+      "start": 14.96,
+      "duration": 1.24
+    },
+    {
+      "text": "Et une sortie de classe\napparemment.",
+      "start": 16.2,
+      "duration": 2.18
+    },
+    {
+      "text": "Ces petits merdeux\nque te suivent partout.",
+      "start": 20.72,
+      "duration": 3.78
+    },
+    {
+      "text": "T'es tout seul ?",
+      "start": 24.64,
+      "duration": 1.52
+    },
+    {
+      "text": "Tu dois te sentir seul\nà visiter cette île...",
+      "start": 26.56,
+      "duration": 2.54
+    },
+    {
+      "text": "C'était pas le cas,\navant que tu le dises, merci...",
+      "start": 29.1,
+      "duration": 2.84
+    },
+    {
+      "text": "À plus.",
+      "start": 31.94,
+      "duration": 1.1
+    },
+    {
+      "text": "Les gars ?",
+      "start": 33.04,
+      "duration": 1.22
+    },
+    {
+      "text": "Tu dois te sentir seul.\nT'as une sœur ?",
+      "start": 34.9,
+      "duration": 2.42
+    },
+    {
+      "text": "T'as une sœur\nque t'aimes plus que tout ?",
+      "start": 37.84,
+      "duration": 2.64
+    },
+    {
+      "text": "Là ils t'encerclent\net leurs yeux deviennent rouges.",
+      "start": 42.52,
+      "duration": 3.72
+    },
+    {
+      "text": "Ils font le truc des Sharks contre les Jets\ncomme dans West Side Story...",
+      "start": 47.22,
+      "duration": 3.74
+    },
+    {
+      "text": "T'es du mauvais côté de la ville !",
+      "start": 52.42,
+      "duration": 2.08
+    },
+    {
+      "text": "Plutôt sympa ta bouteille de Tingle...",
+      "start": 58.08,
+      "duration": 3.04
+    },
+    {
+      "text": "T'es attaché à tes dents ?",
+      "start": 61.12,
+      "duration": 1.52
+    },
+    {
+      "text": "Je te promets, on connaît quelqu'un\nqui les aime plus...",
+      "start": 65.58,
+      "duration": 3.64
+    }
+  ]
+}

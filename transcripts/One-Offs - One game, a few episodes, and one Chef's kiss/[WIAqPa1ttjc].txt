@@ -1,0 +1,48 @@
+{
+  "video_id": "WIAqPa1ttjc",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "He bought too many games",
+      "start": 0.0,
+      "duration": 1.92
+    },
+    {
+      "text": "Now we gotta play them all",
+      "start": 2.06,
+      "duration": 1.82
+    },
+    {
+      "text": "So all aboard the Steam Train",
+      "start": 3.88,
+      "duration": 2.5
+    },
+    {
+      "text": "Choo choo!",
+      "start": 6.9,
+      "duration": 1.18
+    },
+    {
+      "text": "Alright! Welcome",
+      "start": 8.98,
+      "duration": 2.0
+    },
+    {
+      "text": "uhhhh today you guys",
+      "start": 10.98,
+      "duration": 1.02
+    },
+    {
+      "text": "know what were playing",
+      "start": 12.0,
+      "duration": 0.74
+    },
+    {
+      "text": "cause obviously it said in the thumbnail",
+      "start": 12.74,
+      "duration": 1.16
+    }
+  ]
+}

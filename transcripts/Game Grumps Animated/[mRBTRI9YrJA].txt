@@ -1,0 +1,148 @@
+{
+  "video_id": "mRBTRI9YrJA",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "*Game Grumps Animated intro*",
+      "start": 0.02,
+      "duration": 2.28
+    },
+    {
+      "text": "A: Wait, didn't you already fight a boss?",
+      "start": 3.92,
+      "duration": 1.88
+    },
+    {
+      "text": "A: Why going through more temple?\nD: No he's the mini boss.",
+      "start": 5.8,
+      "duration": 2.96
+    },
+    {
+      "text": "A: Oh.",
+      "start": 8.8,
+      "duration": 0.74
+    },
+    {
+      "text": "D: You gotta bring it in this temple.",
+      "start": 9.7,
+      "duration": 1.54
+    },
+    {
+      "text": "A: The hell's the boss of this stage?\nD: I don't know.",
+      "start": 11.24,
+      "duration": 1.86
+    },
+    {
+      "text": "A: Another dumbass dragon?",
+      "start": 13.36,
+      "duration": 1.54
+    },
+    {
+      "text": "D: What does it meat do? I don't remember.",
+      "start": 15.44,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Uh...",
+      "start": 18.54,
+      "duration": 1.24
+    },
+    {
+      "text": "It uh... makes you not hungry anymore.",
+      "start": 22.02,
+      "duration": 2.64
+    },
+    {
+      "text": "D: Thanks, Arin. *laughs*",
+      "start": 25.42,
+      "duration": 1.64
+    },
+    {
+      "text": "A: *chuckles*",
+      "start": 27.38,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Whoops! Oh, sorry. That was not the right...\nA: *laughs*",
+      "start": 28.56,
+      "duration": 3.7
+    },
+    {
+      "text": "D: Are we cool now?",
+      "start": 32.82,
+      "duration": 1.12
+    },
+    {
+      "text": "Did you forget about that?",
+      "start": 33.94,
+      "duration": 2.16
+    },
+    {
+      "text": "D: Okay, cool. Now we're back to...\nA: Oh my god.",
+      "start": 36.32,
+      "duration": 2.32
+    },
+    {
+      "text": "D: Alright, we're good.\nA: *old man voice* Good thing I have Alzheimer's.",
+      "start": 38.9,
+      "duration": 2.06
+    },
+    {
+      "text": "D: Okay, yeah.",
+      "start": 40.98,
+      "duration": 0.62
+    },
+    {
+      "text": "A: His heads are penises!",
+      "start": 43.48,
+      "duration": 1.9
+    },
+    {
+      "text": "He's got penis horse heads.",
+      "start": 45.72,
+      "duration": 1.38
+    },
+    {
+      "text": "D: Not yet, they're not.",
+      "start": 47.1,
+      "duration": 2.08
+    },
+    {
+      "text": "A: *dragon noises*\nD: Ah! Woah, woah!",
+      "start": 49.54,
+      "duration": 3.36
+    },
+    {
+      "text": "*Silence*",
+      "start": 53.14,
+      "duration": 1.44
+    },
+    {
+      "text": "*Music returns*",
+      "start": 62.22,
+      "duration": 2.28
+    },
+    {
+      "text": "*rush of wind sound*",
+      "start": 70.08,
+      "duration": 1.36
+    },
+    {
+      "text": "D: ♪ I did the thing! ♪",
+      "start": 73.4,
+      "duration": 1.96
+    },
+    {
+      "text": "A: Alright, next time on Game Grumps.\nD: Alright.",
+      "start": 75.62,
+      "duration": 1.94
+    },
+    {
+      "text": "*Game Grumps Animated outro*",
+      "start": 80.44,
+      "duration": 2.0
+    }
+  ]
+}

@@ -1,0 +1,928 @@
+{
+  "video_id": "Rho-JLlMx44",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Hey I'm Grump!",
+      "start": 0.0,
+      "duration": 1.1
+    },
+    {
+      "text": "I'm not so grump!",
+      "start": 1.1,
+      "duration": 1.78
+    },
+    {
+      "text": "And we're the Game Grumps!",
+      "start": 2.88,
+      "duration": 1.46
+    },
+    {
+      "text": "Welcome to Game Grumps!",
+      "start": 5.6,
+      "duration": 1.78
+    },
+    {
+      "text": "Arin, what in the world is this game?",
+      "start": 7.38,
+      "duration": 2.42
+    },
+    {
+      "text": "This game, if you can believe it.",
+      "start": 9.8,
+      "duration": 2.46
+    },
+    {
+      "text": "Oh, The Shopping Street.",
+      "start": 12.26,
+      "duration": 1.4
+    },
+    {
+      "text": "It's called Choro Q Wonderful.",
+      "start": 13.66,
+      "duration": 3.48
+    },
+    {
+      "text": "Okay.",
+      "start": 17.14,
+      "duration": 0.88
+    },
+    {
+      "text": "Choro Q is a line of toys.",
+      "start": 18.02,
+      "duration": 3.76
+    },
+    {
+      "text": "That pizza looks like a Pac-Man.",
+      "start": 21.78,
+      "duration": 2.04
+    },
+    {
+      "text": "A colorful Pac-Man.",
+      "start": 23.82,
+      "duration": 1.24
+    },
+    {
+      "text": "It's a line of toys, also line of video games.",
+      "start": 26.1,
+      "duration": 3.26
+    },
+    {
+      "text": "By Takara, one of the biggest, they're like the Hasbro of Japan. Oh, okay.",
+      "start": 29.36,
+      "duration": 4.52
+    },
+    {
+      "text": "They, they're just these stout little cars and",
+      "start": 35.32,
+      "duration": 3.0
+    },
+    {
+      "text": "they, uh",
+      "start": 39.52,
+      "duration": 1.96
+    },
+    {
+      "text": "They have a story. There's, this is an RPG.",
+      "start": 41.48,
+      "duration": 2.94
+    },
+    {
+      "text": "Let's f***ing go. Mm-hmm.",
+      "start": 46.66,
+      "duration": 2.0
+    },
+    {
+      "text": "LFG, Dan. LFG. Okay. Who do you wanna play as?",
+      "start": 50.12,
+      "duration": 4.44
+    },
+    {
+      "text": "Uh, oh, this is, this is, I mean, your time to shine, man. Choose a body. Gotta go for the Mini. Of course. Name it.",
+      "start": 54.56,
+      "duration": 7.42
+    },
+    {
+      "text": "You get to name your car? Bruh.",
+      "start": 63.6,
+      "duration": 2.72
+    },
+    {
+      "text": "Why, why letters together suggestions? Why is there no U?",
+      "start": 69.18,
+      "duration": 4.72
+    },
+    {
+      "text": "What the f***?",
+      "start": 75.96,
+      "duration": 2.0
+    },
+    {
+      "text": "There's no lowercase U.",
+      "start": 78.48,
+      "duration": 2.0
+    },
+    {
+      "text": "Hmm. Am I insane? No. T, U, V, W. You gotta use the U with the little swervy on top.",
+      "start": 80.48,
+      "duration": 8.1
+    },
+    {
+      "text": "Grun.",
+      "start": 91.04,
+      "duration": 2.0
+    },
+    {
+      "text": "Grundle. Grundle. Welcome back to Game Grundles. End.",
+      "start": 95.94,
+      "duration": 4.86
+    },
+    {
+      "text": "End. Now loading. Excellent. Ah, this is adorable. Yeah, dude, right?",
+      "start": 100.8,
+      "duration": 7.76
+    },
+    {
+      "text": "I'm home. Honey. Oh. My son! F***!",
+      "start": 110.28,
+      "duration": 6.48
+    },
+    {
+      "text": "Oh, ran over his trophy. My son the trophy.",
+      "start": 120.0,
+      "duration": 3.58
+    },
+    {
+      "text": "Yo, Orasama's here. Wow, don't look so pale at my arrival.",
+      "start": 123.58,
+      "duration": 6.56
+    },
+    {
+      "text": "It's about time for the World Grand Prix. Oh, shit. I'm winning that cup you're so proud of this time.",
+      "start": 130.88,
+      "duration": 6.18
+    },
+    {
+      "text": "Where did you hide it anyway? Whatever. I'll get it soon enough. And it'll be in one piece. Yeah.",
+      "start": 137.74,
+      "duration": 5.86
+    },
+    {
+      "text": "Oops, we're out of fuel. Better get a refill at Q's across the street. Is this game like fossil fuel propaganda?",
+      "start": 143.6,
+      "duration": 6.5
+    },
+    {
+      "text": "There was a lot of exposition there. See you later. Also, my mom's dead.",
+      "start": 150.1,
+      "duration": 5.26
+    },
+    {
+      "text": "And I'm avenging who murdered her.",
+      "start": 156.3,
+      "duration": 2.84
+    },
+    {
+      "text": "You need Gaius, Arin. Okay, I'll get Gaius. Across the street. No, it's Q's factory.",
+      "start": 160.82,
+      "duration": 5.18
+    },
+    {
+      "text": "Gagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag.",
+      "start": 169.44,
+      "duration": 2.48
+    },
+    {
+      "text": "Oh my god. That was hard. Yeah.",
+      "start": 171.92,
+      "duration": 2.36
+    },
+    {
+      "text": "Oh, please. Oh, I've been out and about today and need fuel. Look at this fucking guy, hanging out with friends.",
+      "start": 174.28,
+      "duration": 9.56
+    },
+    {
+      "text": "Glad you could meet me here at the actory.",
+      "start": 183.84,
+      "duration": 2.0
+    },
+    {
+      "text": "Are you ready for the world grand prix? You can change parts, save, race, and refuel. Do what?",
+      "start": 186.28,
+      "duration": 6.36
+    },
+    {
+      "text": "Parts, save, race, and refuel. Gosh, nice job localization team. It's what do.",
+      "start": 194.12,
+      "duration": 5.32
+    },
+    {
+      "text": "The Red City Race is a road track with a dirt alley.",
+      "start": 199.44,
+      "duration": 4.24
+    },
+    {
+      "text": "If you place it in top three, you win a prize and can keep your chore IQ coins. Ready?",
+      "start": 204.28,
+      "duration": 4.72
+    },
+    {
+      "text": "The spacing is really all over the place. This was a fan translated. Really? Yeah. Did they have a malfunctioning space bar?",
+      "start": 209.32,
+      "duration": 6.88
+    },
+    {
+      "text": "No, I think it's because the Japanese characters, they just had to replace them. Oh, they take up different amounts of space.",
+      "start": 216.2,
+      "duration": 6.48
+    },
+    {
+      "text": "Yeah, I don't know man.",
+      "start": 222.68,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm just, I just work here.",
+      "start": 224.92,
+      "duration": 2.0
+    },
+    {
+      "text": "That's how I feel.",
+      "start": 226.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Shit.",
+      "start": 229.56,
+      "duration": 2.0
+    },
+    {
+      "text": "I didn't know all four would turn green at once.",
+      "start": 233.56,
+      "duration": 2.0
+    },
+    {
+      "text": "All right, we're racing.",
+      "start": 236.36,
+      "duration": 2.0
+    },
+    {
+      "text": "All right, eighth place.",
+      "start": 238.4,
+      "duration": 2.0
+    },
+    {
+      "text": "Is that good?",
+      "start": 241.16,
+      "duration": 1.52
+    },
+    {
+      "text": "No, no, no, no.",
+      "start": 242.68,
+      "duration": 2.0
+    },
+    {
+      "text": "Is this, is this it? Is there like, do I get nitro or something?",
+      "start": 245.44,
+      "duration": 4.28
+    },
+    {
+      "text": "I love this music. Right?",
+      "start": 251.28,
+      "duration": 2.0
+    },
+    {
+      "text": "I",
+      "start": 253.28,
+      "duration": 2.0
+    },
+    {
+      "text": "I could bang my head to this in a crowd of a thousand people. Yeah, I did headbanging for our",
+      "start": 255.76,
+      "duration": 5.76
+    },
+    {
+      "text": "10-minute power hour yesterday. Yeah, it wasn't like the crux of the episode or anything. It just happened to be funny, right? And",
+      "start": 262.96,
+      "duration": 7.8
+    },
+    {
+      "text": "You know what?",
+      "start": 271.68,
+      "duration": 1.6
+    },
+    {
+      "text": "Headbanging in your mid 40s is not nearly as much fun as it was once upon a time. Dude,",
+      "start": 273.28,
+      "duration": 5.96
+    },
+    {
+      "text": "I never liked it. It always hurt my head, gave me a headache. It immediately hurt. Yeah. My body was like, no, no, no,",
+      "start": 279.24,
+      "duration": 6.0
+    },
+    {
+      "text": "no, don't do that. How was like Metallica doing that in like their 50s?",
+      "start": 285.24,
+      "duration": 3.6
+    },
+    {
+      "text": "Metallica, I have no idea. Clearly they were born to do it, but",
+      "start": 290.28,
+      "duration": 4.72
+    },
+    {
+      "text": "I remember I saw Metallica and like my biggest,",
+      "start": 297.4,
+      "duration": 2.76
+    },
+    {
+      "text": "they were amazing, but my biggest pet peeve with the show was that like they were playing everything",
+      "start": 300.84,
+      "duration": 4.44
+    },
+    {
+      "text": "so fast that I couldn't headbang to it. Wow.",
+      "start": 305.28,
+      "duration": 4.28
+    },
+    {
+      "text": "Like I thought my my neck was gonna friggin spasm.",
+      "start": 313.3,
+      "duration": 3.7
+    },
+    {
+      "text": "Just like, whoa, whoa, whoa, whoa.",
+      "start": 321.0,
+      "duration": 2.0
+    },
+    {
+      "text": "You're gonna be a child. Oh, okay.",
+      "start": 323.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Please, James, slow down. Stop it!",
+      "start": 330.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Loras, why are you drumming so fast? That's, this is exactly why I'll never have street cred.",
+      "start": 333.0,
+      "duration": 6.44
+    },
+    {
+      "text": "Guys, play it slower and softer!",
+      "start": 339.44,
+      "duration": 4.0
+    },
+    {
+      "text": "It's one of those things where they're just like, all right, we're gonna play our next song, here we go, one, two, three, four.",
+      "start": 347.44,
+      "duration": 5.0
+    },
+    {
+      "text": "Keep it up, keep it up, keep it up!",
+      "start": 352.44,
+      "duration": 2.0
+    },
+    {
+      "text": "All right, next song. Yeah.",
+      "start": 354.88,
+      "duration": 2.0
+    },
+    {
+      "text": "Is that a Tesla dealership? Can't be. This is 1999. That was the, that was the D, man.",
+      "start": 356.88,
+      "duration": 6.5
+    },
+    {
+      "text": "Maybe Tesla got their idea from this game. Oh my god, you're so right.",
+      "start": 364.08,
+      "duration": 3.48
+    },
+    {
+      "text": "Fucking ChoroQ was the origination of every original idea ever. This is a super amazing course. Yeah, it's very interesting.",
+      "start": 368.36,
+      "duration": 7.52
+    },
+    {
+      "text": "There's a lot of things going on.",
+      "start": 375.88,
+      "duration": 1.8
+    },
+    {
+      "text": "Buildings, grass, plants. What is essentially a glorified circle?",
+      "start": 377.68,
+      "duration": 5.24
+    },
+    {
+      "text": "Yeah, it's like a circle that looks a little bit like Wisconsin. It's a circle that got punched in the dick.",
+      "start": 382.92,
+      "duration": 7.0
+    },
+    {
+      "text": "Arin, you really gotta learn how to break there. I tried, I tried.",
+      "start": 389.92,
+      "duration": 5.0
+    },
+    {
+      "text": "You slam head first in that wall every time. I know, but it's hard. Ah.",
+      "start": 394.92,
+      "duration": 4.0
+    },
+    {
+      "text": "I did it. I hadn't considered that. Fifth place. Fifth, what a shame.",
+      "start": 399.92,
+      "duration": 6.0
+    },
+    {
+      "text": "Do what? Cheer up.",
+      "start": 405.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Cheer up. Uh, I guess I'll give myself a better engine.",
+      "start": 408.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Red engine. I guess it's the only engine I can have. Let's check out that chest. Steer.",
+      "start": 412.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Transmission. Steer? Why would I need a cow in my car?",
+      "start": 417.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Steer the mail! Steer the mail!",
+      "start": 428.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Go to different places to gather in phone parts. See ya.",
+      "start": 431.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Fuck it. Would two gather or we're doing this together?",
+      "start": 434.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Oh, that's good though.",
+      "start": 439.92,
+      "duration": 3.0
+    },
+    {
+      "text": "You're a cheeky fuck. What if, oh man, that certainly would be, I'm not saying a friendship ender, but a friendship changer for sure.",
+      "start": 446.92,
+      "duration": 9.0
+    },
+    {
+      "text": "If I started doing cute little self-congratulatory laughs after everything I say. I said play the Metallica song softer.",
+      "start": 455.92,
+      "duration": 11.0
+    },
+    {
+      "text": "I want help with delivery to Gripper, but it requires technique.",
+      "start": 472.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Win top three in the race here, and I'll entrust you to deliver it.",
+      "start": 478.92,
+      "duration": 4.0
+    },
+    {
+      "text": "You got it. I'm fucking going. Top three, buddy.",
+      "start": 482.92,
+      "duration": 4.0
+    },
+    {
+      "text": "LFG. So do I have to now? No, I'm just driving through town.",
+      "start": 487.92,
+      "duration": 8.0
+    },
+    {
+      "text": "So I have to, I have to like do a bunch of races. Oh shit.",
+      "start": 496.92,
+      "duration": 3.0
+    },
+    {
+      "text": "The city seems large, but it's quite small. So you watch your ass.",
+      "start": 500.92,
+      "duration": 4.0
+    },
+    {
+      "text": "I got my fucking eyes on you. You purple fuck.",
+      "start": 505.92,
+      "duration": 3.0
+    },
+    {
+      "text": "It's like the beginning of Rambo where Brian Denny, he starts fucking with Rambo for no reason.",
+      "start": 508.92,
+      "duration": 5.0
+    },
+    {
+      "text": "You won't find better baked goods, even at the price of Black City. Good job. Bye.",
+      "start": 514.92,
+      "duration": 9.0
+    },
+    {
+      "text": "What's Bulk City? I think it's Black City. But what, like why stylize it? Just name the city.",
+      "start": 524.92,
+      "duration": 6.0
+    },
+    {
+      "text": "I think maybe it was like the character for Black in Japanese. Oh, that would make sense. Have you raced in Red City? Yes.",
+      "start": 530.92,
+      "duration": 8.0
+    },
+    {
+      "text": "Oh, and how was it? Wow. Did you still win? I bet so. Oh, fifth. Okay.",
+      "start": 539.92,
+      "duration": 6.0
+    },
+    {
+      "text": "Cool. That's, that's a, that's a different number. Starts kicking dirt.",
+      "start": 548.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Did you need anything? Okay. Yeah. Yeah. Can I, uh, what can I do to help you out of my store faster?",
+      "start": 552.92,
+      "duration": 7.0
+    },
+    {
+      "text": "Ooh, it's an Italiano place. Mama fucking Mia. Want some coffee?",
+      "start": 562.92,
+      "duration": 5.0
+    },
+    {
+      "text": "I heard better parts can be found in treasure chests around each city. Some are even hidden. Bye. Yeah. Do you want coffee?",
+      "start": 568.92,
+      "duration": 6.0
+    },
+    {
+      "text": "Wow, a hidden treasure chest. Amazing. I never would have guessed. Ooh, a camera shop.",
+      "start": 574.92,
+      "duration": 7.0
+    },
+    {
+      "text": "Oh my God. Welcome to the photo studio. I'll take your picture if you dress up for it. Oh, okay.",
+      "start": 584.92,
+      "duration": 6.0
+    },
+    {
+      "text": "Equipped parts look cool. Get it? You don't look cool. Maybe you will if you equip supplies, but not right now.",
+      "start": 591.92,
+      "duration": 10.0
+    },
+    {
+      "text": "Maybe the cop pulled you over cause you don't have a license plate. Oh word. Yeah. Yeah.",
+      "start": 601.92,
+      "duration": 6.0
+    },
+    {
+      "text": "Maybe in Chorok you land, you don't need license plates. Okay, cool. All right, here we go. I got to get the third place.",
+      "start": 608.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Welcome act to the actor. Race. Red City race roads with the dirt alley. He plays the top three winners. Okay.",
+      "start": 614.92,
+      "duration": 9.0
+    },
+    {
+      "text": "Yeah. Ready? I thought it said good Lord. You know what? I don't know why. I mean, there's tons of like anthropomorphic car things such as the movie cars, but for some reason I really buy these as like living things that have different personalities.",
+      "start": 623.92,
+      "duration": 18.0
+    },
+    {
+      "text": "Right? They're just cute little guys. Yeah. I don't know what it is. They're just sweet little guys. Hey.",
+      "start": 641.92,
+      "duration": 15.0
+    },
+    {
+      "text": "It's an uncontrollable self congratulatory chuckle. That's very funny. Well, you're in third now, so just remember to hit the brakes.",
+      "start": 656.92,
+      "duration": 18.0
+    },
+    {
+      "text": "You get to that absolute wall. It's this part. Yeah. Let's see how the other cars do it. They hit the brakes. The brakes are really slow though. There we go. Look how much better that was. It was still hit the wall. It did hit the wall.",
+      "start": 674.92,
+      "duration": 16.0
+    },
+    {
+      "text": "I'm in the grand pre. It's the race before the race.",
+      "start": 690.92,
+      "duration": 16.0
+    },
+    {
+      "text": "The exit looks a little more like grand prix. It's the worst character trait anyone could have.",
+      "start": 706.92,
+      "duration": 25.0
+    },
+    {
+      "text": "What can I get for you? Can I get a vanilla ice cream? Would you like any toppings? No, you're sweet enough.",
+      "start": 731.92,
+      "duration": 19.0
+    },
+    {
+      "text": "Oh man, I think we should stop. I think we should pull ourselves together. Well, that was the Tesla T. Right? I saw it that time. That's fucking weird. It's bizarre. Man, these cars handle so poorly. Is that right? Yeah. They weren't battle tested and ready for the road.",
+      "start": 750.92,
+      "duration": 22.0
+    },
+    {
+      "text": "Oh shit. They're like matchbox cars. Oh no, no, no, no, no, no, no, no. Third is fine. Third is fine. Third is fine. Third is fine. Is there? Oh. Yeah. Oh, there's one more lap. Oh shit. Oh, you took that really well though. Holy shit. Oh man, that was awesome. Yeah.",
+      "start": 772.92,
+      "duration": 21.0
+    },
+    {
+      "text": "We're going to black city and we're going to red city and blue city. Then we're going to Washington all the way to the white house.",
+      "start": 793.92,
+      "duration": 12.0
+    },
+    {
+      "text": "Oh my goodness. Top three in red city joined a race. Okay. You play seconds.",
+      "start": 805.92,
+      "duration": 17.0
+    },
+    {
+      "text": "You even found one coins. You crashed 13 times. You crashed 13 times. Do what? Well, I guess fix the car since it must be broken. You crashed 13 times. Bye.",
+      "start": 822.92,
+      "duration": 20.0
+    },
+    {
+      "text": "All right. So now I guess I can, uh, talk to this fucker over here. Yeah. A lot of good things happened if you came in third or better. Man, is this what the ChoroQ games have always been? They're kind of lovely. Yeah, they're wonderful. This is fucking fun as hell. Excuse me.",
+      "start": 842.92,
+      "duration": 16.0
+    },
+    {
+      "text": "Excuse me. Did you play Jim's cow game? I've heard it says the 20. What? Bye. Not the conversation I expected to have when we crashed into you. Oh, that's not a place to go. I thought it was a place to go.",
+      "start": 858.92,
+      "duration": 19.0
+    },
+    {
+      "text": "All right. Where the fuck was the place where they were like, good three and I'll talk. Oh, so busy. What? I need to deliver this mail. To who? Oh, it was the Tesla dealership. That's right. Post office.",
+      "start": 877.92,
+      "duration": 20.0
+    },
+    {
+      "text": "You proved your skill. I need you to deliver this to the manager of grip. You have to cross a spring bridge to get there. And you'll say best of luck to you.",
+      "start": 897.92,
+      "duration": 21.0
+    },
+    {
+      "text": "Notice. If you can't find it, ask the police. Like already left by myself in a room. Okay. So I got to get the grand perk. Yeah. Do you know where that is? No, but I, I'm sure I could find the police.",
+      "start": 918.92,
+      "duration": 29.0
+    },
+    {
+      "text": "Somewhere. Okay. They're always fucking me to gripper. They're always fucking trolling. Sure. Oh, sure. For patrolling. Yeah, I got it. They see me trolling, patrolling. Is that a police? Nope. Is that a police? Nope. That's just a regular car. Regular type car. 100 or 700. Last time I saw the police was up here. Now he's not here no more. Wendy's pretty reliable. If you ask me.",
+      "start": 948.92,
+      "duration": 27.0
+    },
+    {
+      "text": "Suck it down. No, this was like a coffee shop or something. Have you raced in? Have you even raced in red? So winning the city races to compete in the woods. Okay. So you got to win the race now. Now you got to come in first. No, I can't do that. When you need that dub dog. Well, first I got to get to grepper to get this, to get this notice out of my inventory. Notice.",
+      "start": 975.92,
+      "duration": 25.0
+    },
+    {
+      "text": "Where the fuck are the police dude? Do I need to cause a crime? There should be on a map or something. Oh, is that police? Is that police? It's police. Okay. Thank you for the help officer. Stop it. Maybe you follow them. Okay. Maybe they're on their way there.",
+      "start": 1000.92,
+      "duration": 24.0
+    },
+    {
+      "text": "Oh my God. Look at that cute little car. Oh, he's going like two miles an hour. Stop, stop, stop, stop, stop, stop, stop, stop, stop. Man. This is just like when there's a police officer driving next to you and you're afraid to go faster than he is, but he's going like three miles an hour. You're like, Oh.",
+      "start": 1024.92,
+      "duration": 22.0
+    },
+    {
+      "text": "Then you're like, fine, I'll pass you. And it's like, so do you know how long you're going to jail for? A hundred years. Sorry to give you an opportunity to answer, but it's a hundred. It's one whole hundred. All the hundred.",
+      "start": 1046.92,
+      "duration": 23.0
+    },
+    {
+      "text": "What's so funny?",
+      "start": 1069.92,
+      "duration": 23.0
+    },
+    {
+      "text": "What's so funny? Oh, God damn it. Where the fuck is grab her? You have to dress up for it. Whoa. No. Did you play Jim's cow game?",
+      "start": 1092.92,
+      "duration": 15.0
+    },
+    {
+      "text": "I don't care how many times I have to crash into your car. Somehow we got, you'll be playing that cow game. Is this the way to grab perk? I don't know. Just go into the places that we haven't been yet. Yeah. Hello. Remember jets? Yeah. They play in New York. I don't. Nothing forgets. They also play in Winnipeg if you meant the hockey jets. Was that a black car?",
+      "start": 1107.92,
+      "duration": 29.0
+    },
+    {
+      "text": "I believe it was actually blacksmith tools about interesting. I'll make you a sword.",
+      "start": 1137.92,
+      "duration": 11.0
+    },
+    {
+      "text": "Wait, where are you going? I wield the hammer of four.",
+      "start": 1149.92,
+      "duration": 9.0
+    },
+    {
+      "text": "Start. Where the fuck is grab perk? This isn't a place. Maybe if I just follow the road. Yeah, I think that's what you have to do. All right. Just follow the highway. Because grab perk sounds like a place more than it sounds like a, like a store you're driving to.",
+      "start": 1158.92,
+      "duration": 23.0
+    },
+    {
+      "text": "Right. Doesn't seem very grab perky. Could this be it? Okay. Grab perk? That Jim pisses me off. Moo moo this, moo moo that. He's a cow. Why hate Jim? Sorry, I've had a hard time in the past. My dad never really, okay.",
+      "start": 1181.92,
+      "duration": 25.0
+    },
+    {
+      "text": "This is Jim's cow game. Oh shit. All right. Listen here. Count how many cows are on my farm. I dropped some. Q coins. And if you guess right, you can keep them. Please don't hit my cows.",
+      "start": 1206.92,
+      "duration": 23.0
+    },
+    {
+      "text": "Please. Whatever you do. Deal. All right. You go for the coins. I'll count cows. Okay. One, two, three.",
+      "start": 1229.92,
+      "duration": 29.0
+    },
+    {
+      "text": "Or is that a cow? Oh my God. There's a kid. Oh, please don't hit my cows. Don't hit the cows.",
+      "start": 1259.92,
+      "duration": 12.0
+    },
+    {
+      "text": "I'm not going to hit the cow. Five, six, seven, eight, nine. Is that it? I don't know. Go right.",
+      "start": 1272.92,
+      "duration": 12.0
+    },
+    {
+      "text": "You win 20. Ooh, coin. Look at you. I think there are 10 cows and there's a coin dead straight ahead. Fuck yeah. Fuck yeah, gamer. It's either nine or 10.",
+      "start": 1284.92,
+      "duration": 17.0
+    },
+    {
+      "text": "Let's go again. Okay. Two, three cows we've seen. Four, five, six, seven, eight, nine, ten. I think there's 10 cows.",
+      "start": 1301.92,
+      "duration": 23.0
+    },
+    {
+      "text": "Yeah, I think there's 10. Cow here. Or coware. How many to guess? Boo. 13. I keep my Q coins. Okay, count carefully. The number of cows might change. Did it change while we were out there?",
+      "start": 1324.92,
+      "duration": 23.0
+    },
+    {
+      "text": "It couldn't have. That's, that's awful. There's two over there. The cluster of two cows. Maybe that's what you got to do. Maybe you got to group them. Oh shit. Oh shit.",
+      "start": 1347.92,
+      "duration": 12.0
+    },
+    {
+      "text": "All right. This is the cluster of two. Yep. Two cows. Oh God. They're getting ever farther away. First let's check the cows on the perimeter. Okay. Perimeter cows. Three.",
+      "start": 1359.92,
+      "duration": 23.0
+    },
+    {
+      "text": "Oh, there's more space up here. Is there? Oh God. That's fucked up. We can't get up there. That's so fucked up. Hold on, hold on. I bet I can go around the side.",
+      "start": 1382.92,
+      "duration": 12.0
+    },
+    {
+      "text": "How many was that on the perimeter so far? Three. Uh, three counting this one on the edge. One step closer. I don't think you can get up there. Shit, but what if there's cows up there? I don't think there are if you can't see them. Please. Don't hit the cows.",
+      "start": 1394.92,
+      "duration": 17.0
+    },
+    {
+      "text": "Four. Okay. Five. Yep. Six. Okay, so that's six perimeter cows. Yes. Now let's get the soft middle cows. The soft middle?",
+      "start": 1411.92,
+      "duration": 20.0
+    },
+    {
+      "text": "All right. Uh. One. Yep. Two. Two. Three. That's it. Right? I think so. One, two, three. So I think that, I think now there's nine cows. Nine cows? I think? Nine now brown cow.",
+      "start": 1431.92,
+      "duration": 23.0
+    },
+    {
+      "text": "Let's try to get up there one last time. Pick up the fucking speed. Yeah. Get it in. There were like 33 cows. Oh, hey. See? Oh, ten. That's fucking rude. We never had a chance.",
+      "start": 1454.92,
+      "duration": 18.0
+    },
+    {
+      "text": "We missed this whole fucking cow area. So ten? Oh, whoa, whoa, whoa. We can observe up here. Oh, nice. One, two, three, four, five, six, seven. Oh shit, hold on. One, two, three, four, five, six, seven. Seven to the left. Eight. Fuck. Ten. Wait, that's more than ten. Yeah, now it's eleven. Is it? I think so.",
+      "start": 1472.92,
+      "duration": 28.0
+    },
+    {
+      "text": "There's a one, two, three here. Holy shit, I gotta get back up there to get a bird's eye view of this shit, man. Okay. There's another coin up there as well. So there's one cow up on top. Yes, and one super close to the edge here who we might not see.",
+      "start": 1500.92,
+      "duration": 14.0
+    },
+    {
+      "text": "All right. All right, so we got one cow, two cow. Three, four, five. This is cluster five right there. Six, seven, eight, nine. And the tenth one up there. Yeah, so that's ten. I think it's ten.",
+      "start": 1514.92,
+      "duration": 29.0
+    },
+    {
+      "text": "There's one down here. No, nope. Oh, wait. I counted the two. Okay, cool. Ten? Yeah, ten cows. Ten cows! Uh, uh, uh. All right. Better be right about this.",
+      "start": 1544.92,
+      "duration": 13.0
+    },
+    {
+      "text": "Yeah! The Choro-Q coins are yours. It's free. Cow to cows. Stamp it in the book, baby. Fucking flip your hair back. Yeah, sorry. Cow to cows. Take a good long look at what a cow counter looks like.",
+      "start": 1557.92,
+      "duration": 19.0
+    },
+    {
+      "text": "Where does this go to? It looks locked. Rumor is it leads to a city. Grep Park? I don't think so. There's no way. They wouldn't lock us. That's probably like level two of the game. Yeah, dude. They wouldn't just fucking...",
+      "start": 1576.92,
+      "duration": 12.0
+    },
+    {
+      "text": "...right away say Grep Park and then just... Nope. Can't get there. Sorry. You suck. Can't get that from here. You just fucking suck. Fucking purple car. How do you get to Grep Park? Please, God. Just tell me how...",
+      "start": 1588.92,
+      "duration": 16.0
+    },
+    {
+      "text": "Can you tell me how to get to Grep Park? Are you perfect? Why don't you tell me? I like honesty.",
+      "start": 1605.92,
+      "duration": 11.0
+    },
+    {
+      "text": "Okay. Okay. Well, that was a great talk. Thanks. Thanks, sexy purple car lair. That was a fuck den. That was like a car fuck den, without a doubt. It did feel a little steamy. Yeah. Yeah. There's a lot of honking going on in there, you know? Oh, hello. Oh, oh, oh. If this van's a-rockin', don't go honkin'. Right hints that... All right. Right in your memos with your hands that you have.",
+      "start": 1616.92,
+      "duration": 29.0
+    },
+    {
+      "text": "It's pronounced memos. That's what I find so hilarious about this game is everyone's doing all this human shit.",
+      "start": 1647.92,
+      "duration": 6.0
+    },
+    {
+      "text": "Wait, this is the underground maze. Ask for directions before you enter. Ready? Yeah. If you get lost, retire. I'll come save you. Okay. Okay.",
+      "start": 1654.92,
+      "duration": 13.0
+    },
+    {
+      "text": "Okay. Okay. Oh, so it's like the Lost Woods. All right, I'm gonna go left. Okay. Oops. Missed that coin. Okay. It's more important to know where I'm going to get coins. Okay.",
+      "start": 1667.92,
+      "duration": 16.0
+    },
+    {
+      "text": "The direction in life is more important than the money you make along the way. Heavy. I'm gonna go straight. Okay. Okay, and then I'm gonna go right. All right.",
+      "start": 1683.92,
+      "duration": 13.0
+    },
+    {
+      "text": "So we went left, and then straight, and then right, and now we're going left. Yep. This is the way. Left, straight, right, left. Oh, God. What do you think, what do you think?",
+      "start": 1696.92,
+      "duration": 28.0
+    },
+    {
+      "text": "Straight. Okay. Left, straight, right, left, straight. Now let's do left. Okay. Straight. Okay. Oh my God, so many options.",
+      "start": 1724.92,
+      "duration": 14.0
+    },
+    {
+      "text": "I think we're gonna do it. I got a good feeling about this. Dead end. This is it. Really? This is, I mean, there's no, oh. Right. Okay.",
+      "start": 1738.92,
+      "duration": 15.0
+    },
+    {
+      "text": "Oh, yeah. Getting fucking real good at that drift, goddamn. Ever seen a drift like that before? Never. Not in a million years you never saw that one. That's a good drift. All this water's making me have to piss. Me too, actually. Interesting. Oh my God. What is with these forever tunnels?",
+      "start": 1753.92,
+      "duration": 27.0
+    },
+    {
+      "text": "170 kilometers an hour. Oh, we're just gonna have to sit there with graph paper and work this out. Old school Sierra. Oh my God. This feels like it, man. Yeah, they do, like, give you a lot of cheesy, insanely long tunnels.",
+      "start": 1780.92,
+      "duration": 27.0
+    },
+    {
+      "text": "Wow, my max speed is 217. Oh. Is this really gonna go on this long? This can't be infinite. There's no way the PlayStation has this much memory. They can render out something this long. Holy shit, are you kidding me?",
+      "start": 1807.92,
+      "duration": 21.0
+    },
+    {
+      "text": "Hi, Chihuahua Santa Maria. What is happening? No way. This is ridiculous. That must be, this must be a fail state. Really? Yeah, this must be like, you lost. We're just gonna put you in the infinite void. It feels like I'm going through the Holland Tunnel. Like, surely I'm gonna end up on 34th Street any morning. Oh, no, that's the Lincoln Tunnel. I'm embarrassed. Come on, come on. Let's see some progress.",
+      "start": 1828.92,
+      "duration": 29.0
+    },
+    {
+      "text": "Some progress. So close. So close. So close. I gotta give up. Well, thank you so much for joining us on Game Grumps today. Oh my God, that was it? Was it bad? That looked like it actually said, wah, sit bad. No matter where you enter, you always start the same. Wow. Ask for directions to get to another town. What a deep statement. We'll never get out. Oh, okay, that's a little more depressing. Alright, see you later, everyone. Good, smart choice.",
+      "start": 1858.92,
+      "duration": 28.0
+    },
+    {
+      "text": "Don't waste your life away on this tunnel, kid. You don't want to end up like me. Bye.",
+      "start": 1886.92,
+      "duration": 6.0
+    }
+  ]
+}

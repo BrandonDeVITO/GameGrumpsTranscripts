@@ -1,0 +1,358 @@
+{
+  "video_id": "-kCz4908nzQ",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "[D] You are Mario, are you not?",
+      "start": 4.96,
+      "duration": 3.4
+    },
+    {
+      "text": "[A] ...Yes!",
+      "start": 9.56,
+      "duration": 1.32
+    },
+    {
+      "text": "[D] It is pleasant to meet you.",
+      "start": 10.88,
+      "duration": 2.0
+    },
+    {
+      "text": "[A] Okay.",
+      "start": 13.12,
+      "duration": 0.54
+    },
+    {
+      "text": "[A] I've go– I leave now.\n[D] My–",
+      "start": 13.66,
+      "duration": 1.68
+    },
+    {
+      "text": "[D] I'm the main computer of this fortress.",
+      "start": 15.34,
+      "duration": 1.54
+    },
+    {
+      "text": "[D] I am TEC.",
+      "start": 17.4,
+      "duration": 1.48
+    },
+    {
+      "text": "[D] I must tell you something.",
+      "start": 19.48,
+      "duration": 1.74
+    },
+    {
+      "text": "[D] Princess...",
+      "start": 21.22,
+      "duration": 1.16
+    },
+    {
+      "text": "[D] Peach.",
+      "start": 22.38,
+      "duration": 0.88
+    },
+    {
+      "text": "[A] Princess Pee.",
+      "start": 23.26,
+      "duration": 0.8
+    },
+    {
+      "text": "[A] HI!\n[D] Uh...I–",
+      "start": 24.78,
+      "duration": 1.7
+    },
+    {
+      "text": "[D] am sus–",
+      "start": 26.48,
+      "duration": 1.64
+    },
+    {
+      "text": "[D] Sorry,\n[A] Hello! :D",
+      "start": 28.12,
+      "duration": 1.44
+    },
+    {
+      "text": "[D] Most of my Data was e-erased",
+      "start": 29.56,
+      "duration": 2.52
+    },
+    {
+      "text": "[D] And my main power unit was shut",
+      "start": 32.08,
+      "duration": 2.32
+    },
+    {
+      "text": "[D] ...Down.",
+      "start": 34.52,
+      "duration": 0.52
+    },
+    {
+      "text": "[A] Hi...",
+      "start": 35.04,
+      "duration": 0.8
+    },
+    {
+      "text": "[D] You know that Peach is not here, do you not?",
+      "start": 35.9,
+      "duration": 2.38
+    },
+    {
+      "text": "...",
+      "start": 38.28,
+      "duration": 0.9
+    },
+    {
+      "text": "[A] Who is Peach?",
+      "start": 39.18,
+      "duration": 0.88
+    },
+    {
+      "text": "[D] Please save...Peach.",
+      "start": 40.34,
+      "duration": 2.02
+    },
+    {
+      "text": "[D] Please.",
+      "start": 42.8,
+      "duration": 0.72
+    },
+    {
+      "text": "[D] PLEASE.",
+      "start": 43.52,
+      "duration": 0.96
+    },
+    {
+      "text": "[A] Should I get Chipotle...?",
+      "start": 44.78,
+      "duration": 2.18
+    },
+    {
+      "text": "Or....",
+      "start": 46.96,
+      "duration": 1.5
+    },
+    {
+      "text": "[A] Oh, the TV doesn't work anymore!",
+      "start": 49.72,
+      "duration": 2.0
+    },
+    {
+      "text": "[D] Ba–",
+      "start": 51.72,
+      "duration": 0.56
+    },
+    {
+      "text": "[D] Back-up power failing...",
+      "start": 52.28,
+      "duration": 2.0
+    },
+    {
+      "text": "[D] Mario, please hurry.",
+      "start": 54.64,
+      "duration": 1.88
+    },
+    {
+      "text": "[D] I will cease all Al functions",
+      "start": 56.52,
+      "duration": 2.26
+    },
+    {
+      "text": "[A] *laugh* Al functions?\n[D] To send power to the...teleporter for you",
+      "start": 58.78,
+      "duration": 1.34
+    },
+    {
+      "text": "[D] To send power to the...teleporter for you",
+      "start": 60.12,
+      "duration": 2.0
+    },
+    {
+      "text": "[D] Poor Al. :(",
+      "start": 62.42,
+      "duration": 1.76
+    },
+    {
+      "text": "[A] But what will happen to Al?!",
+      "start": 64.48,
+      "duration": 2.0
+    },
+    {
+      "text": "[D] When the power is all gone I will–",
+      "start": 68.5,
+      "duration": 2.12
+    },
+    {
+      "text": "[D] Cease to exist...",
+      "start": 71.14,
+      "duration": 1.539
+    },
+    {
+      "text": "[D] But if it will...save Peach,",
+      "start": 72.68,
+      "duration": 2.7
+    },
+    {
+      "text": "[D] I–\n[A] Computer Map-Quest to Chipotle!",
+      "start": 76.0,
+      "duration": 2.28
+    },
+    {
+      "text": "[D] Because I–",
+      "start": 78.28,
+      "duration": 1.539
+    },
+    {
+      "text": "[D] Really?",
+      "start": 79.819,
+      "duration": 1.29
+    },
+    {
+      "text": "[D] ...Map-Quest?",
+      "start": 81.109,
+      "duration": 1.53
+    },
+    {
+      "text": "[D] Because until I met Peach, I knew nothing of...love.",
+      "start": 82.64,
+      "duration": 4.08
+    },
+    {
+      "text": "[A] Why's Map-Quest being all emotional?",
+      "start": 87.38,
+      "duration": 2.4
+    },
+    {
+      "text": "[D] Do not worry about me, I am just a computer.",
+      "start": 89.78,
+      "duration": 2.96
+    },
+    {
+      "text": "[A] I know. Chipotle.",
+      "start": 92.74,
+      "duration": 2.0
+    },
+    {
+      "text": "[D] Mario, you must save Peach I ask you...please.",
+      "start": 94.9,
+      "duration": 3.94
+    },
+    {
+      "text": "[A] ALEXA.",
+      "start": 98.84,
+      "duration": 0.9
+    },
+    {
+      "text": "[D] And tell her...",
+      "start": 99.74,
+      "duration": 1.64
+    },
+    {
+      "text": "[D] The way to Chipotle is...",
+      "start": 101.38,
+      "duration": 2.66
+    },
+    {
+      "text": "[D] Aww, are these his last thoughts of her?",
+      "start": 104.8,
+      "duration": 2.62
+    },
+    {
+      "text": "[D] *Bzz* I will always remember her...",
+      "start": 108.7,
+      "duration": 1.86
+    },
+    {
+      "text": "MEMORY DELETED.",
+      "start": 110.56,
+      "duration": 1.6
+    },
+    {
+      "text": "[D] TEC System Failure Reported.",
+      "start": 112.56,
+      "duration": 2.24
+    },
+    {
+      "text": "[D] Oh...",
+      "start": 114.8,
+      "duration": 0.74
+    },
+    {
+      "text": "[D] That's so sad–",
+      "start": 115.54,
+      "duration": 1.42
+    },
+    {
+      "text": "[D] Mario. We're must to save the princess",
+      "start": 116.96,
+      "duration": 1.88
+    },
+    {
+      "text": "[D] For that tech fellow as well as ourselves!",
+      "start": 118.84,
+      "duration": 2.78
+    },
+    {
+      "text": "[D] But in the meantime...",
+      "start": 122.06,
+      "duration": 1.16
+    },
+    {
+      "text": "[A] What the heck was going on with the-the computer?",
+      "start": 123.22,
+      "duration": 2.7
+    },
+    {
+      "text": "[D] Yeah, you just...\n[A] It's just...",
+      "start": 125.92,
+      "duration": 1.18
+    },
+    {
+      "text": "[A] Wasn't giving me the GPS directions I needed...?",
+      "start": 127.1,
+      "duration": 3.22
+    },
+    {
+      "text": "[A] I need to catch up on my Amazon shopping!",
+      "start": 130.56,
+      "duration": 2.68
+    },
+    {
+      "text": "[D] Was it anything- oh there is something else down here.",
+      "start": 133.24,
+      "duration": 1.9
+    },
+    {
+      "text": "[A] That's her changing room.",
+      "start": 135.14,
+      "duration": 1.44
+    },
+    {
+      "text": "[D] Hell Yeah!",
+      "start": 136.58,
+      "duration": 1.74
+    },
+    {
+      "text": "[Sub to Game Grumps and Carl Doonan :D]",
+      "start": 139.28,
+      "duration": 5.18
+    },
+    {
+      "text": "[D] Goodbye...",
+      "start": 147.64,
+      "duration": 1.16
+    },
+    {
+      "text": "[D] You can't hear this but",
+      "start": 149.9,
+      "duration": 1.8
+    },
+    {
+      "text": "[D] PRRRRRRRRRRR.",
+      "start": 151.7,
+      "duration": 1.74
+    }
+  ]
+}

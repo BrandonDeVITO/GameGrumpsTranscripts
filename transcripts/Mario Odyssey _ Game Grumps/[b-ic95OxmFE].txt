@@ -1,0 +1,1433 @@
+{
+  "video_id": "b-ic95OxmFE",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Hey I'm Grump!",
+      "start": 0.0,
+      "duration": 0.96
+    },
+    {
+      "text": "I'm not so Grump!",
+      "start": 0.96,
+      "duration": 1.72
+    },
+    {
+      "text": "And we're the Game Grumps!",
+      "start": 2.68,
+      "duration": 2.0
+    },
+    {
+      "text": "A- Hey, welcome back! D- Hey, welcome back. We're fighting a doofy ass rabbit.",
+      "start": 5.36,
+      "duration": 3.42
+    },
+    {
+      "text": "A- Nah, he's gonna get fuckin' stomped on dude.",
+      "start": 9.86,
+      "duration": 1.96
+    },
+    {
+      "text": "A- This fucker is just, he's gonna die dude!",
+      "start": 11.82,
+      "duration": 3.96
+    },
+    {
+      "text": "D- He's gonna die. He's got that goin' for him.",
+      "start": 15.78,
+      "duration": 2.5
+    },
+    {
+      "text": "D- Although, he's got the fuckin' buzz saw, and he's kicking your ass.",
+      "start": 18.28,
+      "duration": 3.8
+    },
+    {
+      "text": "A- Yeah, he's dickin' me around dude.",
+      "start": 22.08,
+      "duration": 1.58
+    },
+    {
+      "text": "D- So I don't know if he's gonna die, actually.",
+      "start": 23.66,
+      "duration": 2.18
+    },
+    {
+      "text": "A- Throw it again, throw it again, you fucking loser!",
+      "start": 25.84,
+      "duration": 2.26
+    },
+    {
+      "text": "A- Gotcha!",
+      "start": 29.42,
+      "duration": 0.54
+    },
+    {
+      "text": "A- He's like, \"Oh, I hope he doesn't land on my head.\" Fuckin' too baaad!!",
+      "start": 31.18,
+      "duration": 4.18
+    },
+    {
+      "text": "D- \"What just happened?\"",
+      "start": 35.44,
+      "duration": 1.26
+    },
+    {
+      "text": "A- Now I just gotta stay away from him...",
+      "start": 37.72,
+      "duration": 1.16
+    },
+    {
+      "text": "D- Aw man...",
+      "start": 38.88,
+      "duration": 0.88
+    },
+    {
+      "text": "A- Why doesn't he just do that the whole time?",
+      "start": 40.88,
+      "duration": 1.44
+    },
+    {
+      "text": "D- I dunno, it's quite scary.",
+      "start": 42.32,
+      "duration": 1.26
+    },
+    {
+      "text": "(Danny makes scared noise)",
+      "start": 45.08,
+      "duration": 0.56
+    },
+    {
+      "text": "A- This time he's gonna throw-",
+      "start": 45.82,
+      "duration": 1.2
+    },
+    {
+      "text": "D- A dodee dodee fodee lodee de deh de hurr.",
+      "start": 47.02,
+      "duration": 2.74
+    },
+    {
+      "text": "D- Yeahhh! (Arin imitates Dan's weird chant)",
+      "start": 51.28,
+      "duration": 2.54
+    },
+    {
+      "text": "A- Got him! D- Nicely fuckin' done.",
+      "start": 54.24,
+      "duration": 2.16
+    },
+    {
+      "text": "A- Yeah, I do what I can.",
+      "start": 57.2,
+      "duration": 1.02
+    },
+    {
+      "text": "A- Y'know, I try to- I try to make it look easy for the people at home, so... y'know.",
+      "start": 59.0,
+      "duration": 5.18
+    },
+    {
+      "text": "A- So they're not yellin' at their screen and stuff and being like, \"Oh man, why doesnt he play games better?\"",
+      "start": 64.26,
+      "duration": 4.2
+    },
+    {
+      "text": "D- I think you've been doing very, very well in this game.",
+      "start": 69.06,
+      "duration": 2.0
+    },
+    {
+      "text": "A- Really? D- Yeah! A- I dunno man... D- Feels like you've been cruisin'.",
+      "start": 71.86,
+      "duration": 3.24
+    },
+    {
+      "text": "A- I guess so...",
+      "start": 76.32,
+      "duration": 1.26
+    },
+    {
+      "text": "D- It hasn't been- Broodals over the lake!",
+      "start": 77.58,
+      "duration": 1.42
+    },
+    {
+      "text": "D- Yeah, there hasn't been one uh...",
+      "start": 79.16,
+      "duration": 2.0
+    },
+    {
+      "text": "A- Hiccup? D- Yeah, or one boss that you've been stuck on for awhile or...",
+      "start": 81.48,
+      "duration": 3.44
+    },
+    {
+      "text": "A- Well, y'know, it's Mario, it's not TOO difficult.",
+      "start": 84.92,
+      "duration": 2.24
+    },
+    {
+      "text": "A- The difficult stuff is the stuff you impose on yourself.",
+      "start": 87.16,
+      "duration": 2.9
+    },
+    {
+      "text": "A- Where it's like, \"Oh, I wanna get up on top of that thing!' and then it takes a million years.",
+      "start": 90.9,
+      "duration": 4.18
+    },
+    {
+      "text": "A- Woah, its different!  I don't think I ever did this!",
+      "start": 95.74,
+      "duration": 2.32
+    },
+    {
+      "text": "A- I don't think I ever beat the boss of the stage, I think I just got enough moons from doin' random shit, and then I was just like, \"Alright I'm done.\"",
+      "start": 99.22,
+      "duration": 6.62
+    },
+    {
+      "text": "D- Wow.",
+      "start": 106.14,
+      "duration": 0.5
+    },
+    {
+      "text": "A- Cause this is- D- Enjoy it! A- I'm not used to this color pallet here...",
+      "start": 108.04,
+      "duration": 3.08
+    },
+    {
+      "text": "D- Are we making really good progress right now?",
+      "start": 111.12,
+      "duration": 2.52
+    },
+    {
+      "text": "A- I don't know about \"really\" good...",
+      "start": 114.7,
+      "duration": 2.82
+    },
+    {
+      "text": "D- No? Cause I mean, we've beaten all of the rabbit guys, right?",
+      "start": 117.58,
+      "duration": 2.6
+    },
+    {
+      "text": "D- That's pretty gud... A- Yeah, I guess...",
+      "start": 121.48,
+      "duration": 2.0
+    },
+    {
+      "text": "A- I-I-I don't know man, I mean, I haven't beaten this game yet, I don't know what comes after four rabbit guys...",
+      "start": 125.24,
+      "duration": 5.78
+    },
+    {
+      "text": "A- Maybe there's like...",
+      "start": 132.18,
+      "duration": 0.92
+    },
+    {
+      "text": "A- Like a 5th rabbit guy!",
+      "start": 133.84,
+      "duration": 1.46
+    },
+    {
+      "text": "A- And he's like an amalgamation of all the rabbit guys.",
+      "start": 136.54,
+      "duration": 2.64
+    },
+    {
+      "text": "D- Like Rab-Tron! Rab-Tron 5000",
+      "start": 139.5,
+      "duration": 2.68
+    },
+    {
+      "text": "A- Yeah, they drink, like, a goo, and then its like, (possessed sheep sound)",
+      "start": 142.7,
+      "duration": 3.06
+    },
+    {
+      "text": "A- And then it makes them merge, like it's just this slime puddle, and they're like",
+      "start": 145.76,
+      "duration": 3.64
+    },
+    {
+      "text": "A- \"AHH, KILL MEEE!\"",
+      "start": 149.4,
+      "duration": 2.0
+    },
+    {
+      "text": "D- Yeah...",
+      "start": 151.4,
+      "duration": 0.5
+    },
+    {
+      "text": "A- And then you have to fight it!",
+      "start": 151.9,
+      "duration": 1.28
+    },
+    {
+      "text": "D- It's like a cross between The Thing and Watership Down.",
+      "start": 153.18,
+      "duration": 2.32
+    },
+    {
+      "text": "(Both laugh)",
+      "start": 155.5,
+      "duration": 1.72
+    },
+    {
+      "text": "D- Woah, look at that!",
+      "start": 157.78,
+      "duration": 0.9
+    },
+    {
+      "text": "A- This next area is my favorite area",
+      "start": 158.68,
+      "duration": 2.32
+    },
+    {
+      "text": "D- The city?",
+      "start": 161.0,
+      "duration": 0.96
+    },
+    {
+      "text": "A- Yes, it's New Donk City.",
+      "start": 161.96,
+      "duration": 2.16
+    },
+    {
+      "text": "D- Oh, right!",
+      "start": 164.12,
+      "duration": 1.0
+    },
+    {
+      "text": "A- But I hafta- D- I remember, that's where you didn't go before!",
+      "start": 165.12,
+      "duration": 3.0
+    },
+    {
+      "text": "A- No...",
+      "start": 168.72,
+      "duration": 0.5
+    },
+    {
+      "text": "D- Oh no, we DID go there!",
+      "start": 170.18,
+      "duration": 0.92
+    },
+    {
+      "text": "A- What?",
+      "start": 171.58,
+      "duration": 0.5
+    },
+    {
+      "text": "D- We went to NDC.  A- Oh yeah, for like, a second, there was like, a warp there.",
+      "start": 172.38,
+      "duration": 3.06
+    },
+    {
+      "text": "A- Umm, but... It's gonna crash land me in another area that I have to clear before I can do it.",
+      "start": 176.22,
+      "duration": 4.56
+    },
+    {
+      "text": "A- And I don't particularly like this area. I think that's why they forced it on you.",
+      "start": 182.32,
+      "duration": 3.68
+    },
+    {
+      "text": "A- Like, \"Oh, welp, here it is!\" and its like, aww fuck...",
+      "start": 186.0,
+      "duration": 2.98
+    },
+    {
+      "text": "A- Cause if I had the CHOICE to go there, I would  hesitate a little bit, and then go there.",
+      "start": 189.88,
+      "duration": 5.22
+    },
+    {
+      "text": "A- If you catch my drift...",
+      "start": 196.2,
+      "duration": 1.24
+    },
+    {
+      "text": "D- I don't. (Laughter)",
+      "start": 197.44,
+      "duration": 2.0
+    },
+    {
+      "text": "A- I'm just saying, cause it...",
+      "start": 200.0,
+      "duration": 0.94
+    },
+    {
+      "text": "A- This game is linear so... D- Oh, I gotcha.",
+      "start": 201.84,
+      "duration": 1.62
+    },
+    {
+      "text": "A- It's like, you have to go there one way or another. D- Yes.",
+      "start": 204.02,
+      "duration": 2.22
+    },
+    {
+      "text": "A- It just doesn't give you the choice.",
+      "start": 206.24,
+      "duration": 2.0
+    },
+    {
+      "text": "D- Friend or foe...?",
+      "start": 209.2,
+      "duration": 2.1
+    },
+    {
+      "text": "A- (Apparently Mario) \"Let's fuckin\" kill them...\"",
+      "start": 212.66,
+      "duration": 1.2
+    },
+    {
+      "text": "A- Shoots a fuckin' heat seeking missle at him, like BFFFPHTH. (thats an explosion. ._.)",
+      "start": 215.36,
+      "duration": 3.44
+    },
+    {
+      "text": "D- Mario looks unusually shiny in this game",
+      "start": 218.8,
+      "duration": 2.54
+    },
+    {
+      "text": "A- I think that\"s just the Nintendo polish. (lol, much pun)",
+      "start": 221.34,
+      "duration": 2.0
+    },
+    {
+      "text": "D- Yeah, well they polished his nose and face. With oil. (kinky)",
+      "start": 223.52,
+      "duration": 3.58
+    },
+    {
+      "text": "A- Bee's oil?",
+      "start": 227.1,
+      "duration": 1.54
+    },
+    {
+      "text": "D- Woah, there you are, you son of a bitch...",
+      "start": 229.56,
+      "duration": 2.54
+    },
+    {
+      "text": "A- (old man Bowser?) Oh, my candy hat.",
+      "start": 232.86,
+      "duration": 3.04
+    },
+    {
+      "text": "A- I want it back!",
+      "start": 236.74,
+      "duration": 1.18
+    },
+    {
+      "text": "A- Am I gonna fight him or...? D- No words need to be said.",
+      "start": 240.34,
+      "duration": 1.36
+    },
+    {
+      "text": "A- Yeah...",
+      "start": 242.1,
+      "duration": 0.5
+    },
+    {
+      "text": "A- Oh, it's the cloud kingdom! How beautiful.",
+      "start": 244.4,
+      "duration": 2.24
+    },
+    {
+      "text": "D- Oh god.",
+      "start": 246.64,
+      "duration": 0.88
+    },
+    {
+      "text": "D- I'd love to get inside your nimbus arena...",
+      "start": 247.52,
+      "duration": 2.3
+    },
+    {
+      "text": "A- (laughs)",
+      "start": 249.82,
+      "duration": 1.52
+    },
+    {
+      "text": "A- Dude, c'mon, this is a family show!",
+      "start": 252.08,
+      "duration": 1.76
+    },
+    {
+      "text": "D- (laughs more.)",
+      "start": 253.84,
+      "duration": 0.8
+    },
+    {
+      "text": "A- This is a FUCKING family show, alright? (sure...)",
+      "start": 254.64,
+      "duration": 2.0
+    },
+    {
+      "text": "D- Yeah, yeah...",
+      "start": 256.64,
+      "duration": 0.58
+    },
+    {
+      "text": "D- Oh, fuck, I'm gonna cumulus!",
+      "start": 258.76,
+      "duration": 1.66
+    },
+    {
+      "text": "A- Oh",
+      "start": 261.52,
+      "duration": 0.5
+    },
+    {
+      "text": "A- OH",
+      "start": 262.02,
+      "duration": 0.64
+    },
+    {
+      "text": "A- All this stratus is making me so hot...",
+      "start": 263.12,
+      "duration": 2.0
+    },
+    {
+      "text": "A- Cumulonimbus",
+      "start": 266.74,
+      "duration": 1.32
+    },
+    {
+      "text": "A- There's only three types of clouds, right?",
+      "start": 268.82,
+      "duration": 1.18
+    },
+    {
+      "text": "D- Yeah, it's very few.",
+      "start": 270.0,
+      "duration": 1.52
+    },
+    {
+      "text": "A- Cumulus, stratus, and nimbus.",
+      "start": 271.52,
+      "duration": 2.0
+    },
+    {
+      "text": "D- I think that's it! A- And then there's cumulonimbus.",
+      "start": 273.52,
+      "duration": 2.0
+    },
+    {
+      "text": "D- Right",
+      "start": 276.08,
+      "duration": 0.5
+    },
+    {
+      "text": "A- Just cumulus and nimbus combined.",
+      "start": 276.58,
+      "duration": 2.48
+    },
+    {
+      "text": "D- And then there's calculus.",
+      "start": 279.06,
+      "duration": 0.66
+    },
+    {
+      "text": "A- There's cumulostratus",
+      "start": 279.72,
+      "duration": 1.4
+    },
+    {
+      "text": "D- It's a very math heavy type of cloud...",
+      "start": 281.12,
+      "duration": 2.0
+    },
+    {
+      "text": "A- Oh yeah, you do fight him, and then he throws his hat at you. Ah, its fun.",
+      "start": 284.22,
+      "duration": 3.02
+    },
+    {
+      "text": "D- COOL, spoil it for me. Nah, I'm just kidding.",
+      "start": 287.44,
+      "duration": 2.3
+    },
+    {
+      "text": "Both- Yes! A- My battle sombrero...",
+      "start": 292.04,
+      "duration": 2.0
+    },
+    {
+      "text": "D- (super scary voice) Adios amigo...",
+      "start": 294.04,
+      "duration": 2.0
+    },
+    {
+      "text": "A- Mari- Ow! Stop it. D- That's a very dangerous bouquet.",
+      "start": 298.0,
+      "duration": 2.1
+    },
+    {
+      "text": "A- Mari- OW, stop it!!",
+      "start": 300.52,
+      "duration": 1.28
+    },
+    {
+      "text": "A- Mario! D- I like your shoes.",
+      "start": 302.54,
+      "duration": 1.6
+    },
+    {
+      "text": "(boop boop)",
+      "start": 304.62,
+      "duration": 0.68
+    },
+    {
+      "text": "D- Yeah, that seems, uh...",
+      "start": 306.24,
+      "duration": 1.34
+    },
+    {
+      "text": "D- LIke a logical weapon.",
+      "start": 309.24,
+      "duration": 0.96
+    },
+    {
+      "text": "A- Oh, the hat boxing gloves? Nah, it's fucking cool dude.",
+      "start": 310.92,
+      "duration": 2.96
+    },
+    {
+      "text": "A- Watch...",
+      "start": 316.6,
+      "duration": 0.5
+    },
+    {
+      "text": "A- Now I get it!",
+      "start": 318.06,
+      "duration": 0.94
+    },
+    {
+      "text": "D- Ooohhhh shit!",
+      "start": 319.5,
+      "duration": 2.0
+    },
+    {
+      "text": "A- It's dope as hell.",
+      "start": 321.7,
+      "duration": 0.86
+    },
+    {
+      "text": "A- Ah shit..",
+      "start": 323.4,
+      "duration": 0.54
+    },
+    {
+      "text": "A- Watch this",
+      "start": 325.32,
+      "duration": 0.5
+    },
+    {
+      "text": "D- Punch HIIMM",
+      "start": 325.82,
+      "duration": 1.1
+    },
+    {
+      "text": "A- Fuck you!",
+      "start": 327.06,
+      "duration": 0.5
+    },
+    {
+      "text": "A- Fuck you! x2",
+      "start": 327.56,
+      "duration": 0.5
+    },
+    {
+      "text": "A- Fuck you! x3",
+      "start": 328.06,
+      "duration": 0.5
+    },
+    {
+      "text": "A- Fuck you! x4",
+      "start": 328.56,
+      "duration": 0.5
+    },
+    {
+      "text": "A- Fuck you! x5",
+      "start": 329.06,
+      "duration": 0.5
+    },
+    {
+      "text": "A- Fuck you! x6",
+      "start": 329.56,
+      "duration": 0.5
+    },
+    {
+      "text": "A- Fuck you! x7 D- Damn!",
+      "start": 330.06,
+      "duration": 0.5
+    },
+    {
+      "text": "A- Yeah, you actually get to punch Bowser, how fuckin' satisfying is that? D- It's gotta feel great.",
+      "start": 330.8,
+      "duration": 3.72
+    },
+    {
+      "text": "D- After all this time...",
+      "start": 334.9,
+      "duration": 0.92
+    },
+    {
+      "text": "D- In the first Mario Bros. you couldn't even touch him! You had to run under him.",
+      "start": 337.1,
+      "duration": 3.3
+    },
+    {
+      "text": "D- And then get an ax to make the bridge fall down.",
+      "start": 340.96,
+      "duration": 2.2
+    },
+    {
+      "text": "A- Oh yea! D- Now you get to fuckin' jack him up, right in the fuckin' head.",
+      "start": 344.28,
+      "duration": 2.98
+    },
+    {
+      "text": "A- Get to run right into his face",
+      "start": 347.26,
+      "duration": 0.82
+    },
+    {
+      "text": "A- I'm down with that, I'm down with the K.",
+      "start": 349.04,
+      "duration": 2.26
+    },
+    {
+      "text": "A- I'm D with the K bro.",
+      "start": 351.3,
+      "duration": 1.64
+    },
+    {
+      "text": "D- Like Donkey Kong.",
+      "start": 353.92,
+      "duration": 0.5
+    },
+    {
+      "text": "(Arin does his fuck you's again.)",
+      "start": 354.48,
+      "duration": 2.88
+    },
+    {
+      "text": "A- Yeah DUDE! D- Wow!",
+      "start": 357.36,
+      "duration": 1.8
+    },
+    {
+      "text": "A- DUDE feels GOOD! D- Nice!",
+      "start": 359.16,
+      "duration": 1.84
+    },
+    {
+      "text": "A- Feels GOOD.",
+      "start": 361.0,
+      "duration": 0.78
+    },
+    {
+      "text": "A- I'm gonna pour some sugar on me baby.",
+      "start": 363.3,
+      "duration": 1.38
+    },
+    {
+      "text": "D- Bowser's kind of got like a, fuckin' hipster haircut.",
+      "start": 365.4,
+      "duration": 2.36
+    },
+    {
+      "text": "A- Yeah, well he's trying to look nice for the wedding. D- I dont remember that being a thing...",
+      "start": 368.16,
+      "duration": 2.84
+    },
+    {
+      "text": "A- It's not, he's trying to look nice for the wedding.",
+      "start": 371.5,
+      "duration": 1.56
+    },
+    {
+      "text": "D- Welp, he looks great. (ikr?)",
+      "start": 373.38,
+      "duration": 1.26
+    },
+    {
+      "text": "A- So it's like, slicked back. It's normally just like, spikey.",
+      "start": 374.64,
+      "duration": 2.46
+    },
+    {
+      "text": "D- Right. A- But it's...",
+      "start": 377.74,
+      "duration": 1.06
+    },
+    {
+      "text": "A- He put a little goop in it so he looks nice for his bride!",
+      "start": 379.76,
+      "duration": 2.56
+    },
+    {
+      "text": "A- Which I think is respectable. D- He kinda looks like Jacksepticeye...",
+      "start": 382.76,
+      "duration": 2.4
+    },
+    {
+      "text": "D- Or like that hairstyle, like, swept to the side and like, shaved...",
+      "start": 385.46,
+      "duration": 3.02
+    },
+    {
+      "text": "D- But except for the top?",
+      "start": 389.48,
+      "duration": 1.08
+    },
+    {
+      "text": "D- It's a good look!",
+      "start": 391.34,
+      "duration": 0.62
+    },
+    {
+      "text": "D- Not a lot of people can pull it off.",
+      "start": 391.96,
+      "duration": 1.66
+    },
+    {
+      "text": "D- But Jack and Bowser do great.",
+      "start": 394.06,
+      "duration": 1.18
+    },
+    {
+      "text": "A- Isn't it called a Hitler Youth?",
+      "start": 396.04,
+      "duration": 1.12
+    },
+    {
+      "text": "D- I don't think either one would appreciate if you called it that.",
+      "start": 397.84,
+      "duration": 3.02
+    },
+    {
+      "text": "A- I'm pretty sure that's what it's called. D- Really?",
+      "start": 401.24,
+      "duration": 1.68
+    },
+    {
+      "text": "A- Yeah. D- Eh, well...",
+      "start": 402.92,
+      "duration": 1.72
+    },
+    {
+      "text": "A- I don't know why. Never really thought about that.",
+      "start": 407.28,
+      "duration": 2.0
+    },
+    {
+      "text": "A- Seems like a horrible name to call something.",
+      "start": 410.42,
+      "duration": 1.48
+    },
+    {
+      "text": "D- It undoubtedly is. Oh, FIRE!",
+      "start": 411.9,
+      "duration": 2.06
+    },
+    {
+      "text": "A- This hairstyle is called the young Stalin!",
+      "start": 414.68,
+      "duration": 1.78
+    },
+    {
+      "text": "D- Dude, have you seen pictures of young Stalin?",
+      "start": 418.02,
+      "duration": 2.0
+    },
+    {
+      "text": "D- That dude was handsome!...before he became one of the worlds worst mass murderers of all time...",
+      "start": 420.54,
+      "duration": 4.78
+    },
+    {
+      "text": "A- No, I didn't.",
+      "start": 427.22,
+      "duration": 0.56
+    },
+    {
+      "text": "A- It's like those pictures of Putin where he's shirtless and on a horse. (look it up)",
+      "start": 428.72,
+      "duration": 2.5
+    },
+    {
+      "text": "D- Yeah,  but that's a little more like...",
+      "start": 432.12,
+      "duration": 1.6
+    },
+    {
+      "text": "D- I'm already like, a world power guy.",
+      "start": 434.46,
+      "duration": 3.02
+    },
+    {
+      "text": "D- And now just... you have to look at me.",
+      "start": 437.82,
+      "duration": 2.3
+    },
+    {
+      "text": "D- But there's, uh...",
+      "start": 441.9,
+      "duration": 1.04
+    },
+    {
+      "text": "D- Yeah, I'll show you that picture of young Stalin. You'll be amazed.",
+      "start": 444.36,
+      "duration": 2.18
+    },
+    {
+      "text": "D- Matt and Ryan, put it up.",
+      "start": 446.92,
+      "duration": 0.88
+    },
+    {
+      "text": "D- Woah!!",
+      "start": 448.18,
+      "duration": 0.7
+    },
+    {
+      "text": "A- Damn, what a handsome guy! I can't believe I'm objectifying this horrible person.",
+      "start": 448.88,
+      "duration": 3.68
+    },
+    {
+      "text": "D- What a handsome piece of shit.",
+      "start": 452.56,
+      "duration": 0.98
+    },
+    {
+      "text": "A- (laughing) I took one of those this morning.",
+      "start": 455.74,
+      "duration": 2.18
+    },
+    {
+      "text": "D- Mkay, Arin...",
+      "start": 457.92,
+      "duration": 1.08
+    },
+    {
+      "text": "D- Look at this, this is awesome!",
+      "start": 459.72,
+      "duration": 1.52
+    },
+    {
+      "text": "D- I immediately love the stylization of uh...",
+      "start": 461.62,
+      "duration": 2.0
+    },
+    {
+      "text": "A- Yeah, it's visually cool, I just don't like the level very much.",
+      "start": 463.76,
+      "duration": 3.0
+    },
+    {
+      "text": "D- Oh, really?",
+      "start": 466.76,
+      "duration": 0.58
+    },
+    {
+      "text": "A- Actually...nnn...",
+      "start": 467.56,
+      "duration": 1.34
+    },
+    {
+      "text": "A- I like the Wigglers.",
+      "start": 469.92,
+      "duration": 0.88
+    },
+    {
+      "text": "(They were a good kids show, yes. x3)",
+      "start": 471.36,
+      "duration": 0.9
+    },
+    {
+      "text": "A- Don't take that out of context. D- Yeah, well...",
+      "start": 473.0,
+      "duration": 2.0
+    },
+    {
+      "text": "A- I like the Wigglers.",
+      "start": 475.68,
+      "duration": 1.1
+    },
+    {
+      "text": "A- Why am I just committed to this sombrero thing? I'm gonna pick something else.",
+      "start": 477.66,
+      "duration": 3.88
+    },
+    {
+      "text": "D- Yeah, I mean it's-  A- Gonna go buy another thing.",
+      "start": 481.54,
+      "duration": 2.0
+    },
+    {
+      "text": "D- It's been a long time. A- Yeah.",
+      "start": 483.58,
+      "duration": 1.38
+    },
+    {
+      "text": "A- I'm just like, really into the sombrero look.",
+      "start": 485.94,
+      "duration": 2.2
+    },
+    {
+      "text": "A- Ah, goddammit. I'm such a fuckin' horrible piece of garbage.",
+      "start": 489.56,
+      "duration": 3.02
+    },
+    {
+      "text": "(aww, don't say that.)",
+      "start": 492.58,
+      "duration": 0.6
+    },
+    {
+      "text": "D- Naw, you're fine. A- At like, everything. Just everything. Go ahead, post your comments, I don't care! (don't u guys dare...)",
+      "start": 493.52,
+      "duration": 4.38
+    },
+    {
+      "text": "A- I know I'm a horrible piece of garbage.",
+      "start": 498.12,
+      "duration": 1.54
+    },
+    {
+      "text": "A- I know it.",
+      "start": 500.3,
+      "duration": 0.52
+    },
+    {
+      "text": "D- There you are. Aim, then fire.",
+      "start": 502.76,
+      "duration": 2.22
+    },
+    {
+      "text": "A- And I just know how to show it.",
+      "start": 504.98,
+      "duration": 1.48
+    },
+    {
+      "text": "D- I like that you do the fuckin', quarter turn-flip forward.",
+      "start": 506.5,
+      "duration": 3.52
+    },
+    {
+      "text": "D- Just like, for style points. A- Oh yeah. Dude...",
+      "start": 510.52,
+      "duration": 2.06
+    },
+    {
+      "text": "A- Mario's...",
+      "start": 513.24,
+      "duration": 1.04
+    },
+    {
+      "text": "A- Mario's a pretty cool dude.",
+      "start": 515.02,
+      "duration": 0.98
+    },
+    {
+      "text": "D- Yeah, for a dumpy plumber, he really uh...",
+      "start": 516.0,
+      "duration": 2.0
+    },
+    {
+      "text": "A- Dumpy?! Dude, can you do all the shit that he's doing?",
+      "start": 518.32,
+      "duration": 2.48
+    },
+    {
+      "text": "D- No.",
+      "start": 520.9,
+      "duration": 0.56
+    },
+    {
+      "text": "A- He's not dumpy at all. That's all pure muscle",
+      "start": 522.16,
+      "duration": 1.94
+    },
+    {
+      "text": "D- Yeah. He's got the uh...",
+      "start": 524.1,
+      "duration": 2.02
+    },
+    {
+      "text": "A- His stomach sticks out so far because his abs are just like, fuckin' on fleek. ( i really just typed that...)",
+      "start": 526.26,
+      "duration": 3.58
+    },
+    {
+      "text": "D- Yeah, he's got the Brock Lesnar muscle gut.",
+      "start": 529.84,
+      "duration": 2.0
+    },
+    {
+      "text": "A- Oh, he is shredded.",
+      "start": 531.98,
+      "duration": 1.08
+    },
+    {
+      "text": "D- No, not Brock Lesnar, Chuck Liddell.",
+      "start": 534.64,
+      "duration": 1.58
+    },
+    {
+      "text": "A- Chuck Liddell? D- Is that... who am I thinking of...?",
+      "start": 537.72,
+      "duration": 2.28
+    },
+    {
+      "text": "The AMA guy. Retired awhile ago.",
+      "start": 540.54,
+      "duration": 2.9
+    },
+    {
+      "text": "A- AMA? D- Had the full on muscle gut. A- Ask me anything?",
+      "start": 544.24,
+      "duration": 2.74
+    },
+    {
+      "text": "D- Uhhhhh... A- That's from taking steroids isn't it?",
+      "start": 547.52,
+      "duration": 2.52
+    },
+    {
+      "text": "D- I don't think so? A- The muscle gut?",
+      "start": 550.72,
+      "duration": 1.92
+    },
+    {
+      "text": "D- I don't know.",
+      "start": 552.64,
+      "duration": 0.78
+    },
+    {
+      "text": "A- I don't know either.",
+      "start": 554.56,
+      "duration": 0.66
+    },
+    {
+      "text": "A- Like that bloated look.",
+      "start": 556.24,
+      "duration": 1.02
+    },
+    {
+      "text": "D- Yeah, I think it's probably from working out like a motherfucker and...",
+      "start": 558.68,
+      "duration": 3.94
+    },
+    {
+      "text": "D- Taking steroids does it too.",
+      "start": 563.84,
+      "duration": 1.48
+    },
+    {
+      "text": "A- Well, I mean, I work out like a motherfucker...",
+      "start": 566.82,
+      "duration": 2.34
+    },
+    {
+      "text": "D- And you take steroids! A- No, what? I don't- D- And they work for you.",
+      "start": 570.1,
+      "duration": 2.16
+    },
+    {
+      "text": "A- What- I don't take steroids.",
+      "start": 572.26,
+      "duration": 2.04
+    },
+    {
+      "text": "D- It's fine man. A- Wha...",
+      "start": 574.3,
+      "duration": 0.94
+    },
+    {
+      "text": "(secrets out..)",
+      "start": 575.24,
+      "duration": 0.5
+    },
+    {
+      "text": "A- I- I know it's fine, I'm just saying, I don't take steroids.",
+      "start": 575.74,
+      "duration": 3.48
+    },
+    {
+      "text": "D- Well, obviously not on record, but like... yeah!",
+      "start": 579.22,
+      "duration": 3.24
+    },
+    {
+      "text": "D- But like, off the records, you like, take a shot in the mouth with those steroids.",
+      "start": 583.4,
+      "duration": 3.94
+    },
+    {
+      "text": "A- What are you talking about man, I don't take ster-",
+      "start": 587.34,
+      "duration": 2.96
+    },
+    {
+      "text": "(fighting this a lot Arin. hmmm)",
+      "start": 590.3,
+      "duration": 0.5
+    },
+    {
+      "text": "A- What do you mean \"Off the record\"?",
+      "start": 590.8,
+      "duration": 1.74
+    },
+    {
+      "text": "D- Your head has ballooned to the size of a basketball in the last three months... (breaks character and laughs)",
+      "start": 592.54,
+      "duration": 3.24
+    },
+    {
+      "text": "A- Your acne is...",
+      "start": 597.54,
+      "duration": 1.1
+    },
+    {
+      "text": "Both- Out of control.",
+      "start": 599.26,
+      "duration": 1.06
+    },
+    {
+      "text": "D- Do you remember that-",
+      "start": 600.72,
+      "duration": 0.5
+    },
+    {
+      "text": "A- I mean, you say you're diarrhea-ing out of your ass? No, it's just you popping your acne zits.",
+      "start": 601.22,
+      "duration": 3.92
+    },
+    {
+      "text": "D- Do you remember, that's disgusting, do you remember uh, the Drawn Together episode where Captain Hero",
+      "start": 605.14,
+      "duration": 4.48
+    },
+    {
+      "text": "A- I couldn't have failed harder. D- Ye. Captain Hero takes the uh...",
+      "start": 609.62,
+      "duration": 3.5
+    },
+    {
+      "text": "D-  The steroids, he injects them, and immediately like, acne pops out of his cheeks,",
+      "start": 614.46,
+      "duration": 3.94
+    },
+    {
+      "text": "D- His dick shrinks, like, his muscles get huge, and his eyes go bloodshot?",
+      "start": 618.76,
+      "duration": 4.3
+    },
+    {
+      "text": "D- It's like... (makes gross noises describing this awful story, sounds like fucking a balloon)",
+      "start": 623.06,
+      "duration": 2.0
+    },
+    {
+      "text": "D- No? A- Nah.",
+      "start": 626.44,
+      "duration": 0.8
+    },
+    {
+      "text": "A- I don't remember much from that show.",
+      "start": 628.14,
+      "duration": 1.4
+    },
+    {
+      "text": "D- Aww, it's a wonderful show.",
+      "start": 629.54,
+      "duration": 1.64
+    },
+    {
+      "text": "(sounds like it. =_=)",
+      "start": 631.18,
+      "duration": 0.5
+    },
+    {
+      "text": "D- Boy, you straight up murdered that vulture.",
+      "start": 632.14,
+      "duration": 1.4
+    },
+    {
+      "text": "A- Well, he stole my fucking hat.",
+      "start": 633.54,
+      "duration": 1.48
+    },
+    {
+      "text": "D- Got that vulture culture goin'. (wha?)",
+      "start": 635.02,
+      "duration": 1.32
+    },
+    {
+      "text": "A- What did you expect? D- Idk...",
+      "start": 636.34,
+      "duration": 1.38
+    },
+    {
+      "text": "A- Alright, so check this out. Now I can steal this fucker, which is the coolest thing ever.",
+      "start": 639.18,
+      "duration": 4.76
+    },
+    {
+      "text": "D- Aww, look at him!",
+      "start": 643.94,
+      "duration": 2.0
+    },
+    {
+      "text": "D- Awww!! A- I love it!",
+      "start": 646.7,
+      "duration": 2.16
+    },
+    {
+      "text": "D- I love it too. Its adorable. A- It's one of my- Oops!",
+      "start": 649.02,
+      "duration": 2.0
+    },
+    {
+      "text": "A- And it makes an accordion sound too, when you do it.",
+      "start": 652.32,
+      "duration": 2.26
+    },
+    {
+      "text": "D- He is friggen cute!",
+      "start": 656.0,
+      "duration": 1.62
+    },
+    {
+      "text": "A- I know.",
+      "start": 658.18,
+      "duration": 0.5
+    },
+    {
+      "text": "A- Dan, you don't gotta tell me twice.",
+      "start": 658.68,
+      "duration": 2.0
+    },
+    {
+      "text": "A- I'm fuckin' aware.",
+      "start": 660.9,
+      "duration": 0.74
+    },
+    {
+      "text": "D- Holy crap.",
+      "start": 661.82,
+      "duration": 0.88
+    },
+    {
+      "text": "D- How long can it- Oh!",
+      "start": 663.1,
+      "duration": 1.14
+    },
+    {
+      "text": "A- That long.",
+      "start": 664.8,
+      "duration": 0.6
+    },
+    {
+      "text": "D- Yep.",
+      "start": 665.62,
+      "duration": 0.5
+    },
+    {
+      "text": "D- Noted.",
+      "start": 666.9,
+      "duration": 0.5
+    },
+    {
+      "text": "(rabbid bwah)",
+      "start": 669.42,
+      "duration": 0.76
+    },
+    {
+      "text": "D- I'll call ya.",
+      "start": 671.46,
+      "duration": 0.68
+    },
+    {
+      "text": "A- Yeah, maybe we'll get together some time.",
+      "start": 673.54,
+      "duration": 2.0
+    },
+    {
+      "text": "D- Ye, I was inside you.",
+      "start": 675.54,
+      "duration": 1.1
+    },
+    {
+      "text": "D- You got a MOON. (really? woah.)",
+      "start": 677.22,
+      "duration": 0.88
+    },
+    {
+      "text": "D- Hey, next time on Game Grumps.",
+      "start": 678.64,
+      "duration": 0.98
+    },
+    {
+      "text": "A- Yeah. I'll get more moons.",
+      "start": 679.74,
+      "duration": 1.14
+    },
+    {
+      "text": "D- Yeah!!",
+      "start": 680.88,
+      "duration": 0.5
+    },
+    {
+      "text": "D- See ya then everybody!",
+      "start": 681.74,
+      "duration": 0.94
+    },
+    {
+      "text": "A- And then you'll see...",
+      "start": 682.68,
+      "duration": 1.02
+    },
+    {
+      "text": "D- Heh, I'll show you all. Ha hah ha ha...",
+      "start": 683.7,
+      "duration": 2.66
+    },
+    {
+      "text": "(old tv power off sound)",
+      "start": 686.36,
+      "duration": 0.5
+    },
+    {
+      "text": "It's been a pleasure guys! Have a good one! X3",
+      "start": 686.96,
+      "duration": 0.98
+    },
+    {
+      "text": "A- (old man voice) I'm fifty!",
+      "start": 688.52,
+      "duration": 1.16
+    },
+    {
+      "text": "D- I'm a man! I'm forty!",
+      "start": 690.7,
+      "duration": 2.14
+    }
+  ]
+}

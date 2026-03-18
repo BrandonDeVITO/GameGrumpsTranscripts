@@ -1,0 +1,4873 @@
+{
+  "video_id": "RUhGBzpRWA8",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippets": [
+    {
+      "text": "You're watching Game Grumps, but you can",
+      "start": 0.08,
+      "duration": 2.72
+    },
+    {
+      "text": "find us at the Grumps at",
+      "start": 1.439,
+      "duration": 4.361
+    },
+    {
+      "text": "www.youtube.com/thegrumps.",
+      "start": 2.8,
+      "duration": 3.0
+    },
+    {
+      "text": "Aaron, what are you doing with those",
+      "start": 5.92,
+      "duration": 3.04
+    },
+    {
+      "text": "sweet tootsies of yours over there?",
+      "start": 7.52,
+      "duration": 3.6
+    },
+    {
+      "text": ">> There's a Doug trio in here.",
+      "start": 8.96,
+      "duration": 5.12
+    },
+    {
+      "text": ">> Grumps. Cool.",
+      "start": 11.12,
+      "duration": 7.8
+    },
+    {
+      "text": ">> Hey, I'm Grump. I'm not so grump.",
+      "start": 14.08,
+      "duration": 4.84
+    },
+    {
+      "text": ">> Hey everybody.",
+      "start": 19.68,
+      "duration": 2.56
+    },
+    {
+      "text": ">> Hello.",
+      "start": 21.119,
+      "duration": 2.4
+    },
+    {
+      "text": ">> Sacrifices must be made.",
+      "start": 22.24,
+      "duration": 4.32
+    },
+    {
+      "text": ">> No, sacrifices must be made.",
+      "start": 23.519,
+      "duration": 4.881
+    },
+    {
+      "text": ">> Ah, yeah. Nice. Nice.",
+      "start": 26.56,
+      "duration": 5.44
+    },
+    {
+      "text": ">> Thanks. Uh this is this is a game that",
+      "start": 28.4,
+      "duration": 7.76
+    },
+    {
+      "text": "uh I have heard is like kind of the",
+      "start": 32.0,
+      "duration": 6.559
+    },
+    {
+      "text": "inspiration behind a lot of games that",
+      "start": 36.16,
+      "duration": 6.239
+    },
+    {
+      "text": "are popular right now. Um Inscription I",
+      "start": 38.559,
+      "duration": 7.201
+    },
+    {
+      "text": "believe. Uh but it was a game jam game.",
+      "start": 42.399,
+      "duration": 4.64
+    },
+    {
+      "text": "Uh which is pretty cool.",
+      "start": 45.76,
+      "duration": 2.959
+    },
+    {
+      "text": ">> Is that what Ludum Dare 43 is?",
+      "start": 47.039,
+      "duration": 3.921
+    },
+    {
+      "text": ">> Ludum Dare is a game jam. Yeah. It's",
+      "start": 48.719,
+      "duration": 3.68
+    },
+    {
+      "text": "like a big ass game jam.",
+      "start": 50.96,
+      "duration": 2.16
+    },
+    {
+      "text": ">> Got it.",
+      "start": 52.399,
+      "duration": 1.68
+    },
+    {
+      "text": ">> Um",
+      "start": 53.12,
+      "duration": 3.919
+    },
+    {
+      "text": ">> meaning he he put this together in 48",
+      "start": 54.079,
+      "duration": 4.64
+    },
+    {
+      "text": "hours, something like that.",
+      "start": 57.039,
+      "duration": 3.921
+    },
+    {
+      "text": "Uh, I don't know the exact rules of Lud",
+      "start": 58.719,
+      "duration": 4.561
+    },
+    {
+      "text": "and Dare. Uh, it's been a it's been a",
+      "start": 60.96,
+      "duration": 5.199
+    },
+    {
+      "text": "minute since I I've had my nose deep in",
+      "start": 63.28,
+      "duration": 3.76
+    },
+    {
+      "text": "that stuff.",
+      "start": 66.159,
+      "duration": 3.881
+    },
+    {
+      "text": ">> Okay.",
+      "start": 67.04,
+      "duration": 3.0
+    },
+    {
+      "text": ">> Sacrifices must be",
+      "start": 70.72,
+      "duration": 3.6
+    },
+    {
+      "text": "made.",
+      "start": 73.439,
+      "duration": 2.561
+    },
+    {
+      "text": ">> Well done. All right, Daniel Mullins.",
+      "start": 74.32,
+      "duration": 3.6
+    },
+    {
+      "text": "We'll play your game. See what happens.",
+      "start": 76.0,
+      "duration": 3.28
+    },
+    {
+      "text": ">> All right, you bastard.",
+      "start": 77.92,
+      "duration": 3.28
+    },
+    {
+      "text": ">> Easy, man. Probably a very nice guy.",
+      "start": 79.28,
+      "duration": 3.36
+    },
+    {
+      "text": ">> I'm sorry I called you bastard.",
+      "start": 81.2,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Oh. Oh, okay.",
+      "start": 82.64,
+      "duration": 3.04
+    },
+    {
+      "text": ">> Right.",
+      "start": 85.2,
+      "duration": 1.36
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 85.68,
+      "duration": 2.72
+    },
+    {
+      "text": ">> Okay. Okay. Getting immediate bone saw",
+      "start": 86.56,
+      "duration": 2.559
+    },
+    {
+      "text": "vibes.",
+      "start": 88.4,
+      "duration": 3.2
+    },
+    {
+      "text": ">> Play that squirrel card. Don't tell me",
+      "start": 89.119,
+      "duration": 3.201
+    },
+    {
+      "text": "what to do.",
+      "start": 91.6,
+      "duration": 1.76
+    },
+    {
+      "text": ">> He's telling you.",
+      "start": 92.32,
+      "duration": 3.36
+    },
+    {
+      "text": ">> All right. Play the squirrel card.",
+      "start": 93.36,
+      "duration": 4.56
+    },
+    {
+      "text": "Squirrel is a shrewd creature but weak.",
+      "start": 95.68,
+      "duration": 5.36
+    },
+    {
+      "text": "Uh, sorry. Squirrel is a shrewd creature",
+      "start": 97.92,
+      "duration": 3.92
+    },
+    {
+      "text": "but weak.",
+      "start": 101.04,
+      "duration": 2.16
+    },
+    {
+      "text": ">> That's good. That's good.",
+      "start": 101.84,
+      "duration": 1.919
+    },
+    {
+      "text": ">> Okay.",
+      "start": 103.2,
+      "duration": 2.32
+    },
+    {
+      "text": ">> Okay.",
+      "start": 103.759,
+      "duration": 3.841
+    },
+    {
+      "text": ">> Okay. What do you want me to do?",
+      "start": 105.52,
+      "duration": 5.2
+    },
+    {
+      "text": ">> The end. Game jam.",
+      "start": 107.6,
+      "duration": 4.96
+    },
+    {
+      "text": ">> Oh.",
+      "start": 110.72,
+      "duration": 2.64
+    },
+    {
+      "text": "Okay.",
+      "start": 112.56,
+      "duration": 1.68
+    },
+    {
+      "text": ">> Oh, there you go.",
+      "start": 113.36,
+      "duration": 4.399
+    },
+    {
+      "text": ">> Now grab the double dart. Okay.",
+      "start": 114.24,
+      "duration": 5.519
+    },
+    {
+      "text": ">> Those cause one blood sacrifices must be",
+      "start": 117.759,
+      "duration": 2.481
+    },
+    {
+      "text": "made.",
+      "start": 119.759,
+      "duration": 2.881
+    },
+    {
+      "text": ">> Okay. So, you have to stab yourself.",
+      "start": 120.24,
+      "duration": 3.519
+    },
+    {
+      "text": ">> Uh, sure.",
+      "start": 122.64,
+      "duration": 2.72
+    },
+    {
+      "text": ">> I'll uh",
+      "start": 123.759,
+      "duration": 4.401
+    },
+    {
+      "text": ">> where my hand.",
+      "start": 125.36,
+      "duration": 4.879
+    },
+    {
+      "text": "Oh, I see.",
+      "start": 128.16,
+      "duration": 4.24
+    },
+    {
+      "text": "Okay. So, I got to stab you",
+      "start": 130.239,
+      "duration": 5.441
+    },
+    {
+      "text": ">> in the in the hand.",
+      "start": 132.4,
+      "duration": 4.88
+    },
+    {
+      "text": ">> Maybe you play it first.",
+      "start": 135.68,
+      "duration": 4.8
+    },
+    {
+      "text": ">> I'm trying to.",
+      "start": 137.28,
+      "duration": 5.12
+    },
+    {
+      "text": ">> Maybe you poke yourself in the hand.",
+      "start": 140.48,
+      "duration": 3.52
+    },
+    {
+      "text": ">> I'm trying to.",
+      "start": 142.4,
+      "duration": 4.8
+    },
+    {
+      "text": ">> Oh. Oh, the knife disappears.",
+      "start": 144.0,
+      "duration": 5.12
+    },
+    {
+      "text": "What the fuck? This game's hard.",
+      "start": 147.2,
+      "duration": 4.56
+    },
+    {
+      "text": ">> What the fuck? What the fuck is this",
+      "start": 149.12,
+      "duration": 6.0
+    },
+    {
+      "text": "world? This world is so fucking fucked",
+      "start": 151.76,
+      "duration": 3.68
+    },
+    {
+      "text": "up.",
+      "start": 155.12,
+      "duration": 0.96
+    },
+    {
+      "text": ">> Try putting",
+      "start": 155.44,
+      "duration": 2.159
+    },
+    {
+      "text": ">> Oh, I have to kill the squirrel.",
+      "start": 156.08,
+      "duration": 3.92
+    },
+    {
+      "text": ">> Oh, okay. An honorable death.",
+      "start": 157.599,
+      "duration": 4.481
+    },
+    {
+      "text": ">> I see. Wolves require two sacrifices. I",
+      "start": 160.0,
+      "duration": 2.8
+    },
+    {
+      "text": "don't have enough.",
+      "start": 162.08,
+      "duration": 1.36
+    },
+    {
+      "text": ">> Okay.",
+      "start": 162.8,
+      "duration": 2.719
+    },
+    {
+      "text": ">> All right. Well,",
+      "start": 163.44,
+      "duration": 5.68
+    },
+    {
+      "text": "hit the bell. Ding.",
+      "start": 165.519,
+      "duration": 5.761
+    },
+    {
+      "text": ">> All right. My sto has nothing to oppose",
+      "start": 169.12,
+      "duration": 4.32
+    },
+    {
+      "text": "it. I've often thought that the left",
+      "start": 171.28,
+      "duration": 3.44
+    },
+    {
+      "text": "number on the bottom is attack power",
+      "start": 173.44,
+      "duration": 1.84
+    },
+    {
+      "text": "one.",
+      "start": 174.72,
+      "duration": 1.12
+    },
+    {
+      "text": ">> Okay.",
+      "start": 175.28,
+      "duration": 1.12
+    },
+    {
+      "text": ">> Okay.",
+      "start": 175.84,
+      "duration": 3.84
+    },
+    {
+      "text": ">> Sting don't deal one damage. I add it to",
+      "start": 176.4,
+      "duration": 4.08
+    },
+    {
+      "text": "the scale.",
+      "start": 179.68,
+      "duration": 1.68
+    },
+    {
+      "text": ">> Okay.",
+      "start": 180.48,
+      "duration": 2.32
+    },
+    {
+      "text": ">> It's like Magic the Gathering",
+      "start": 181.36,
+      "duration": 1.92
+    },
+    {
+      "text": ">> little bit.",
+      "start": 182.8,
+      "duration": 2.159
+    },
+    {
+      "text": ">> If you win if you tip my side all the",
+      "start": 183.28,
+      "duration": 2.4
+    },
+    {
+      "text": "way down.",
+      "start": 184.959,
+      "duration": 2.0
+    },
+    {
+      "text": ">> Okay.",
+      "start": 185.68,
+      "duration": 3.04
+    },
+    {
+      "text": ">> Oh, so it's like a push pole.",
+      "start": 186.959,
+      "duration": 3.681
+    },
+    {
+      "text": ">> It's not just health points. It's not",
+      "start": 188.72,
+      "duration": 3.04
+    },
+    {
+      "text": "just life totals,",
+      "start": 190.64,
+      "duration": 1.76
+    },
+    {
+      "text": ">> right?",
+      "start": 191.76,
+      "duration": 3.04
+    },
+    {
+      "text": ">> Starving man faces your sto",
+      "start": 192.4,
+      "duration": 4.16
+    },
+    {
+      "text": ">> but it's got one defense.",
+      "start": 194.8,
+      "duration": 4.4
+    },
+    {
+      "text": ">> Okay. He will fight it as men do. He",
+      "start": 196.56,
+      "duration": 4.399
+    },
+    {
+      "text": "dealt it one damage. But did he not take",
+      "start": 199.2,
+      "duration": 2.8
+    },
+    {
+      "text": "one damage in the process?",
+      "start": 200.959,
+      "duration": 4.721
+    },
+    {
+      "text": ">> He fucking did. I'm assuming",
+      "start": 202.0,
+      "duration": 5.84
+    },
+    {
+      "text": "if it dies down.",
+      "start": 205.68,
+      "duration": 4.24
+    },
+    {
+      "text": ">> Okay, so the damage lasts.",
+      "start": 207.84,
+      "duration": 4.56
+    },
+    {
+      "text": ">> Oh, so it does not take It has like",
+      "start": 209.92,
+      "duration": 3.28
+    },
+    {
+      "text": "first strike,",
+      "start": 212.4,
+      "duration": 1.52
+    },
+    {
+      "text": ">> right? Right.",
+      "start": 213.2,
+      "duration": 1.52
+    },
+    {
+      "text": ">> That's crazy.",
+      "start": 213.92,
+      "duration": 2.399
+    },
+    {
+      "text": ">> Okay,",
+      "start": 214.72,
+      "duration": 3.04
+    },
+    {
+      "text": ">> I play squirrel.",
+      "start": 216.319,
+      "duration": 2.401
+    },
+    {
+      "text": ">> That poor squirrel.",
+      "start": 217.76,
+      "duration": 2.399
+    },
+    {
+      "text": ">> Now I can play wolf.",
+      "start": 218.72,
+      "duration": 3.04
+    },
+    {
+      "text": ">> But you got a stab. It requires two",
+      "start": 220.159,
+      "duration": 2.321
+    },
+    {
+      "text": "sacrifices.",
+      "start": 221.76,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Kill both of them.",
+      "start": 222.48,
+      "duration": 2.88
+    },
+    {
+      "text": "And now I",
+      "start": 224.64,
+      "duration": 3.76
+    },
+    {
+      "text": ">> Yo, this starving man is in trouble.",
+      "start": 225.36,
+      "duration": 6.159
+    },
+    {
+      "text": "Uh, and now I attack.",
+      "start": 228.4,
+      "duration": 3.52
+    },
+    {
+      "text": "Now I",
+      "start": 231.519,
+      "duration": 1.201
+    },
+    {
+      "text": ">> hit the bell. Hit the bell.",
+      "start": 231.92,
+      "duration": 4.08
+    },
+    {
+      "text": ">> Oh, right. Right. Right. Ding.",
+      "start": 232.72,
+      "duration": 4.96
+    },
+    {
+      "text": "Fuck it.",
+      "start": 236.0,
+      "duration": 3.04
+    },
+    {
+      "text": ">> Oh,",
+      "start": 237.68,
+      "duration": 3.36
+    },
+    {
+      "text": ">> damn. Okay.",
+      "start": 239.04,
+      "duration": 4.559
+    },
+    {
+      "text": ">> He's He's got starving men all over the",
+      "start": 241.04,
+      "duration": 3.04
+    },
+    {
+      "text": "place.",
+      "start": 243.599,
+      "duration": 4.161
+    },
+    {
+      "text": ">> Ding. Bang.",
+      "start": 244.08,
+      "duration": 5.68
+    },
+    {
+      "text": ">> Because you are passion.",
+      "start": 247.76,
+      "duration": 4.08
+    },
+    {
+      "text": ">> Oh, okay.",
+      "start": 249.76,
+      "duration": 5.199
+    },
+    {
+      "text": "Uh, I guess just attack. Oh, no. This",
+      "start": 251.84,
+      "duration": 6.799
+    },
+    {
+      "text": "the noble stone requires. There you go.",
+      "start": 254.959,
+      "duration": 5.441
+    },
+    {
+      "text": ">> But I don't want to sacrifice a wolf.",
+      "start": 258.639,
+      "duration": 3.12
+    },
+    {
+      "text": ">> Ring the bell, dog.",
+      "start": 260.4,
+      "duration": 4.32
+    },
+    {
+      "text": ">> I'm going for it. Damn. Look at that.",
+      "start": 261.759,
+      "duration": 5.44
+    },
+    {
+      "text": "Very good.",
+      "start": 264.72,
+      "duration": 6.8
+    },
+    {
+      "text": ">> That's very good. Oh, yes. Very good.",
+      "start": 267.199,
+      "duration": 6.321
+    },
+    {
+      "text": ">> You look terrible.",
+      "start": 271.52,
+      "duration": 5.76
+    },
+    {
+      "text": ">> Thanks, man. When did you like it? I",
+      "start": 273.52,
+      "duration": 5.84
+    },
+    {
+      "text": "play a squirrel. And then what's the",
+      "start": 277.28,
+      "duration": 4.88
+    },
+    {
+      "text": "cat? Cat needs one blood. So, I would",
+      "start": 279.36,
+      "duration": 4.72
+    },
+    {
+      "text": "sacrifice squirrel for cat. The",
+      "start": 282.16,
+      "duration": 3.68
+    },
+    {
+      "text": "tenacious cat. Oh, defense.",
+      "start": 284.08,
+      "duration": 3.679
+    },
+    {
+      "text": ">> Quite the blocker.",
+      "start": 285.84,
+      "duration": 4.079
+    },
+    {
+      "text": "Does not die when sacrificed. Really?",
+      "start": 287.759,
+      "duration": 3.521
+    },
+    {
+      "text": ">> Well, nine lives, man.",
+      "start": 289.919,
+      "duration": 2.081
+    },
+    {
+      "text": ">> Fuck yeah.",
+      "start": 291.28,
+      "duration": 1.84
+    },
+    {
+      "text": ">> Oh, that's great.",
+      "start": 292.0,
+      "duration": 2.56
+    },
+    {
+      "text": ">> Wait, so I can just sacrifice it",
+      "start": 293.12,
+      "duration": 2.799
+    },
+    {
+      "text": "constantly?",
+      "start": 294.56,
+      "duration": 1.919
+    },
+    {
+      "text": ">> Apparently.",
+      "start": 295.919,
+      "duration": 1.84
+    },
+    {
+      "text": ">> Oh, that's fucked up.",
+      "start": 296.479,
+      "duration": 3.201
+    },
+    {
+      "text": ">> Okay.",
+      "start": 297.759,
+      "duration": 2.961
+    },
+    {
+      "text": ">> Ring a ding dang.",
+      "start": 299.68,
+      "duration": 3.28
+    },
+    {
+      "text": ">> That's a little too strong.",
+      "start": 300.72,
+      "duration": 4.88
+    },
+    {
+      "text": ">> I'm sure it makes sense in the context",
+      "start": 302.96,
+      "duration": 3.36
+    },
+    {
+      "text": "of the game.",
+      "start": 305.6,
+      "duration": 2.879
+    },
+    {
+      "text": ">> The raven,",
+      "start": 306.32,
+      "duration": 4.08
+    },
+    {
+      "text": "it fly creature to attack. Oh, it says",
+      "start": 308.479,
+      "duration": 3.601
+    },
+    {
+      "text": "flying. It has flying.",
+      "start": 310.4,
+      "duration": 3.6
+    },
+    {
+      "text": ">> Excellent. But it requires two bloods.",
+      "start": 312.08,
+      "duration": 4.08
+    },
+    {
+      "text": ">> That's okay.",
+      "start": 314.0,
+      "duration": 3.6
+    },
+    {
+      "text": "Sack one.",
+      "start": 316.16,
+      "duration": 3.92
+    },
+    {
+      "text": ">> That's a mean looking raven.",
+      "start": 317.6,
+      "duration": 3.68
+    },
+    {
+      "text": "Cool face paint.",
+      "start": 320.08,
+      "duration": 3.52
+    },
+    {
+      "text": ">> Oh, so the t the the cat can't defend.",
+      "start": 321.28,
+      "duration": 4.56
+    },
+    {
+      "text": "So it's it just will die eventually. I",
+      "start": 323.6,
+      "duration": 2.56
+    },
+    {
+      "text": "see.",
+      "start": 325.84,
+      "duration": 1.12
+    },
+    {
+      "text": ">> Right.",
+      "start": 326.16,
+      "duration": 3.2
+    },
+    {
+      "text": ">> I will take this. The beehive. When you",
+      "start": 326.96,
+      "duration": 6.079
+    },
+    {
+      "text": "detect you will draw a bee. Okay.",
+      "start": 329.36,
+      "duration": 5.92
+    },
+    {
+      "text": "Cool.",
+      "start": 333.039,
+      "duration": 4.961
+    },
+    {
+      "text": "Okay. Awesome. I will remind you of my",
+      "start": 335.28,
+      "duration": 6.32
+    },
+    {
+      "text": "promise. If you win the final round,",
+      "start": 338.0,
+      "duration": 4.8
+    },
+    {
+      "text": ">> Reese's Pieces,",
+      "start": 341.6,
+      "duration": 5.12
+    },
+    {
+      "text": ">> I will feed you. Okay, got it. That's",
+      "start": 342.8,
+      "duration": 5.679
+    },
+    {
+      "text": "why I said you look terrible.",
+      "start": 346.72,
+      "duration": 3.28
+    },
+    {
+      "text": ">> You told me you were the only survivor",
+      "start": 348.479,
+      "duration": 4.56
+    },
+    {
+      "text": "of the crash. If that is true, then who",
+      "start": 350.0,
+      "duration": 5.44
+    },
+    {
+      "text": "is that behind you?",
+      "start": 353.039,
+      "duration": 4.321
+    },
+    {
+      "text": ">> I'm not going to look and let you see my",
+      "start": 355.44,
+      "duration": 4.24
+    },
+    {
+      "text": "squirrels and stos.",
+      "start": 357.36,
+      "duration": 6.16
+    },
+    {
+      "text": ">> My squirrels and stos. Uh, stoked.",
+      "start": 359.68,
+      "duration": 7.799
+    },
+    {
+      "text": ">> Sacrifice them both, man.",
+      "start": 363.52,
+      "duration": 3.959
+    },
+    {
+      "text": "Yep. Let's do a little ring a ding ding.",
+      "start": 368.96,
+      "duration": 4.799
+    },
+    {
+      "text": ">> Excellent.",
+      "start": 373.199,
+      "duration": 1.601
+    },
+    {
+      "text": ">> Don't that hurt.",
+      "start": 373.759,
+      "duration": 4.321
+    },
+    {
+      "text": ">> You dare lie to me in my forest.",
+      "start": 374.8,
+      "duration": 6.8
+    },
+    {
+      "text": ">> Oh. Uhoh. Uh-oh. Spaghettos.",
+      "start": 378.08,
+      "duration": 5.92
+    },
+    {
+      "text": ">> Aaron, what is that voice?",
+      "start": 381.6,
+      "duration": 3.599
+    },
+    {
+      "text": ">> Look at this.",
+      "start": 384.0,
+      "duration": 1.84
+    },
+    {
+      "text": ">> Okay.",
+      "start": 385.199,
+      "duration": 3.201
+    },
+    {
+      "text": ">> Attack me. I got a bee.",
+      "start": 385.84,
+      "duration": 4.88
+    },
+    {
+      "text": ">> Right.",
+      "start": 388.4,
+      "duration": 4.639
+    },
+    {
+      "text": ">> I use it as a blocker.",
+      "start": 390.72,
+      "duration": 3.12
+    },
+    {
+      "text": ">> It's pretty smart.",
+      "start": 393.039,
+      "duration": 1.121
+    },
+    {
+      "text": ">> Bang.",
+      "start": 393.84,
+      "duration": 1.84
+    },
+    {
+      "text": ">> Oh, man. He took two. Thank you for",
+      "start": 394.16,
+      "duration": 3.039
+    },
+    {
+      "text": ">> Oh, yeah. He does. He deals two. All",
+      "start": 395.68,
+      "duration": 2.4
+    },
+    {
+      "text": "right.",
+      "start": 397.199,
+      "duration": 4.081
+    },
+    {
+      "text": ">> And the beat goes here. It's a flyer,",
+      "start": 398.08,
+      "duration": 4.48
+    },
+    {
+      "text": "too, which is cool.",
+      "start": 401.28,
+      "duration": 2.639
+    },
+    {
+      "text": ">> That is cool.",
+      "start": 402.56,
+      "duration": 4.759
+    },
+    {
+      "text": ">> Kind of easily.",
+      "start": 403.919,
+      "duration": 3.4
+    },
+    {
+      "text": ">> I guess the sto I'm not going to play",
+      "start": 409.039,
+      "duration": 2.321
+    },
+    {
+      "text": "it.",
+      "start": 410.88,
+      "duration": 1.439
+    },
+    {
+      "text": ">> Okay.",
+      "start": 411.36,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Bang bang.",
+      "start": 412.319,
+      "duration": 5.761
+    },
+    {
+      "text": "You a stinky boy.",
+      "start": 415.36,
+      "duration": 3.36
+    },
+    {
+      "text": "Another bee.",
+      "start": 418.08,
+      "duration": 2.16
+    },
+    {
+      "text": ">> Dang.",
+      "start": 418.72,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Yes, please. Another bee.",
+      "start": 420.24,
+      "duration": 4.56
+    },
+    {
+      "text": "Uh, okay. So, squirrel. Yep.",
+      "start": 422.72,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Of course.",
+      "start": 424.8,
+      "duration": 2.88
+    },
+    {
+      "text": ">> This is interesting.",
+      "start": 426.72,
+      "duration": 2.879
+    },
+    {
+      "text": ">> Yeah, this is this is a fun game.",
+      "start": 427.68,
+      "duration": 5.2
+    },
+    {
+      "text": ">> And the grizzly cub squirrel.",
+      "start": 429.599,
+      "duration": 7.361
+    },
+    {
+      "text": ">> Um I will Oh, no. Wait. Grizzly cup is",
+      "start": 432.88,
+      "duration": 6.24
+    },
+    {
+      "text": "small. Why wasn't I able to see the Oh,",
+      "start": 436.96,
+      "duration": 6.0
+    },
+    {
+      "text": "I can look at the hand. Oh, man. Okay.",
+      "start": 439.12,
+      "duration": 6.96
+    },
+    {
+      "text": "Bang. Bang. Bang.",
+      "start": 442.96,
+      "duration": 5.44
+    },
+    {
+      "text": ">> Is that it? No. No.",
+      "start": 446.08,
+      "duration": 5.28
+    },
+    {
+      "text": ">> He's getting some mad hits on me.",
+      "start": 448.4,
+      "duration": 3.519
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 451.36,
+      "duration": 3.6
+    },
+    {
+      "text": ">> It's pretty nasty.",
+      "start": 451.919,
+      "duration": 3.68
+    },
+    {
+      "text": "Hm.",
+      "start": 454.96,
+      "duration": 2.639
+    },
+    {
+      "text": ">> Zippo cub.",
+      "start": 455.599,
+      "duration": 4.641
+    },
+    {
+      "text": ">> It's a one one.",
+      "start": 457.599,
+      "duration": 3.921
+    },
+    {
+      "text": "What's the one turn? What does that",
+      "start": 460.24,
+      "duration": 1.6
+    },
+    {
+      "text": "mean?",
+      "start": 461.52,
+      "duration": 1.04
+    },
+    {
+      "text": ">> I don't know.",
+      "start": 461.84,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Has to wait a turn to attack.",
+      "start": 462.56,
+      "duration": 4.4
+    },
+    {
+      "text": ">> Does it? Did the grizzly cub?",
+      "start": 464.72,
+      "duration": 5.919
+    },
+    {
+      "text": ">> No. H. Well, I'll lose if I get",
+      "start": 466.96,
+      "duration": 8.4
+    },
+    {
+      "text": "attacked. So, I have to put this here.",
+      "start": 470.639,
+      "duration": 6.721
+    },
+    {
+      "text": "Yeah. So, I think I got to take out the",
+      "start": 475.36,
+      "duration": 3.679
+    },
+    {
+      "text": "grizzly cub and then put the wolf cub",
+      "start": 477.36,
+      "duration": 4.559
+    },
+    {
+      "text": "here and then do a little attacky",
+      "start": 479.039,
+      "duration": 4.321
+    },
+    {
+      "text": "little attacky tobachi.",
+      "start": 481.919,
+      "duration": 4.4
+    },
+    {
+      "text": ">> Mhm. Uhoh. Uh-oh.",
+      "start": 483.36,
+      "duration": 4.64
+    },
+    {
+      "text": ">> Dude, you're getting wailed on.",
+      "start": 486.319,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Yeah, this is bad.",
+      "start": 488.0,
+      "duration": 4.479
+    },
+    {
+      "text": ">> You are losing.",
+      "start": 489.199,
+      "duration": 5.44
+    },
+    {
+      "text": ">> Tip the scales. What the hell?",
+      "start": 492.479,
+      "duration": 4.241
+    },
+    {
+      "text": ">> But I will allow what?",
+      "start": 494.639,
+      "duration": 3.601
+    },
+    {
+      "text": ">> Allow me to tip the scales.",
+      "start": 496.72,
+      "duration": 2.8
+    },
+    {
+      "text": ">> Uh,",
+      "start": 498.24,
+      "duration": 2.239
+    },
+    {
+      "text": ">> what does that mean?",
+      "start": 499.52,
+      "duration": 3.92
+    },
+    {
+      "text": ">> Uh, place it on your Oh, what the",
+      "start": 500.479,
+      "duration": 5.601
+    },
+    {
+      "text": ">> I can hurt myself. That ought to even",
+      "start": 503.44,
+      "duration": 4.319
+    },
+    {
+      "text": "things out. Okay. Oh, he took out your",
+      "start": 506.08,
+      "duration": 2.64
+    },
+    {
+      "text": "eye.",
+      "start": 507.759,
+      "duration": 1.921
+    },
+    {
+      "text": ">> Oh.",
+      "start": 508.72,
+      "duration": 2.56
+    },
+    {
+      "text": ">> Ow.",
+      "start": 509.68,
+      "duration": 2.239
+    },
+    {
+      "text": ">> Okay.",
+      "start": 511.28,
+      "duration": 1.84
+    },
+    {
+      "text": ">> Okay. Uh,",
+      "start": 511.919,
+      "duration": 2.161
+    },
+    {
+      "text": ">> I can't see this side.",
+      "start": 513.12,
+      "duration": 1.919
+    },
+    {
+      "text": ">> Oh, man.",
+      "start": 514.08,
+      "duration": 2.16
+    },
+    {
+      "text": ">> Oh, there's a bird over here. I know",
+      "start": 515.039,
+      "duration": 1.601
+    },
+    {
+      "text": "that",
+      "start": 516.24,
+      "duration": 1.679
+    },
+    {
+      "text": ">> there's a hawk.",
+      "start": 516.64,
+      "duration": 3.6
+    },
+    {
+      "text": ">> Uh, I need to sacrifice two though.",
+      "start": 517.919,
+      "duration": 3.521
+    },
+    {
+      "text": ">> Two two flyer,",
+      "start": 520.24,
+      "duration": 3.359
+    },
+    {
+      "text": ">> which I don't think I have.",
+      "start": 521.44,
+      "duration": 2.88
+    },
+    {
+      "text": ">> You don't have.",
+      "start": 523.599,
+      "duration": 3.521
+    },
+    {
+      "text": ">> I think I can just attack and win.",
+      "start": 524.32,
+      "duration": 4.24
+    },
+    {
+      "text": "Nope.",
+      "start": 527.12,
+      "duration": 3.04
+    },
+    {
+      "text": ">> That's not good.",
+      "start": 528.56,
+      "duration": 3.76
+    },
+    {
+      "text": ">> I'm fucked.",
+      "start": 530.16,
+      "duration": 2.799
+    },
+    {
+      "text": "Yeah,",
+      "start": 532.32,
+      "duration": 3.12
+    },
+    {
+      "text": ">> it's really not good.",
+      "start": 532.959,
+      "duration": 4.88
+    },
+    {
+      "text": "All right. Uh, Grizzly,",
+      "start": 535.44,
+      "duration": 7.48
+    },
+    {
+      "text": ">> quote the raven. You're beating my ass.",
+      "start": 537.839,
+      "duration": 5.081
+    },
+    {
+      "text": "Wait, why can't I use any of them? I",
+      "start": 543.2,
+      "duration": 4.16
+    },
+    {
+      "text": "just don't have enough to sacrifice.",
+      "start": 545.839,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Yeah, I think that's a problem.",
+      "start": 547.36,
+      "duration": 6.24
+    },
+    {
+      "text": ">> H. All right. Well, ding.",
+      "start": 549.839,
+      "duration": 5.921
+    },
+    {
+      "text": ">> I lose.",
+      "start": 553.6,
+      "duration": 4.4
+    },
+    {
+      "text": ">> Oh, bad.",
+      "start": 555.76,
+      "duration": 3.28
+    },
+    {
+      "text": ">> Oh, I lose bad.",
+      "start": 558.0,
+      "duration": 1.68
+    },
+    {
+      "text": ">> Oh, dude.",
+      "start": 559.04,
+      "duration": 3.44
+    },
+    {
+      "text": ">> Oh, I lose bad.",
+      "start": 559.68,
+      "duration": 7.04
+    },
+    {
+      "text": ">> You lose. Uh, I'm about to um",
+      "start": 562.48,
+      "duration": 8.4
+    },
+    {
+      "text": "um how you say uh jump off a bridge. How",
+      "start": 566.72,
+      "duration": 4.96
+    },
+    {
+      "text": "you say? Uh",
+      "start": 570.88,
+      "duration": 3.12
+    },
+    {
+      "text": ">> that was a rough hand. Had nothing but",
+      "start": 571.68,
+      "duration": 4.8
+    },
+    {
+      "text": "squirrels. Oh, unless this is exactly",
+      "start": 574.0,
+      "duration": 3.76
+    },
+    {
+      "text": "the same hand and you just have to",
+      "start": 576.48,
+      "duration": 2.08
+    },
+    {
+      "text": "figure out how to",
+      "start": 577.76,
+      "duration": 1.519
+    },
+    {
+      "text": ">> It is.",
+      "start": 578.56,
+      "duration": 1.44
+    },
+    {
+      "text": ">> Wow.",
+      "start": 579.279,
+      "duration": 3.441
+    },
+    {
+      "text": ">> Bang. Bang. Get two free hits. Of course",
+      "start": 580.0,
+      "duration": 3.68
+    },
+    {
+      "text": "you're going to have two free hits.",
+      "start": 582.72,
+      "duration": 2.88
+    },
+    {
+      "text": ">> You dare lie to me in my forest.",
+      "start": 583.68,
+      "duration": 2.88
+    },
+    {
+      "text": ">> I didn't lie to you. What are you",
+      "start": 585.6,
+      "duration": 1.28
+    },
+    {
+      "text": "talking about?",
+      "start": 586.56,
+      "duration": 1.52
+    },
+    {
+      "text": ">> I think you did.",
+      "start": 586.88,
+      "duration": 2.24
+    },
+    {
+      "text": ">> I did not lie at all.",
+      "start": 588.08,
+      "duration": 3.04
+    },
+    {
+      "text": ">> You did. You freaking did.",
+      "start": 589.12,
+      "duration": 4.48
+    },
+    {
+      "text": ">> You did. You freaking did. You did.",
+      "start": 591.12,
+      "duration": 4.08
+    },
+    {
+      "text": "All right. Well, the beehive is going to",
+      "start": 593.6,
+      "duration": 3.2
+    },
+    {
+      "text": "go here so I can get a bee.",
+      "start": 595.2,
+      "duration": 2.16
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 596.8,
+      "duration": 2.24
+    },
+    {
+      "text": ">> I'm going to do a little swang.",
+      "start": 597.36,
+      "duration": 5.2
+    },
+    {
+      "text": ">> Yeah. You got to figure out how to um",
+      "start": 599.04,
+      "duration": 4.08
+    },
+    {
+      "text": ">> Thank you.",
+      "start": 602.56,
+      "duration": 3.839
+    },
+    {
+      "text": ">> injure that hunter a little bit.",
+      "start": 603.12,
+      "duration": 6.8
+    },
+    {
+      "text": ">> Well, as long as I'm uh",
+      "start": 606.399,
+      "duration": 6.801
+    },
+    {
+      "text": "How about this? Wait, wait, wait, wait.",
+      "start": 609.92,
+      "duration": 4.4
+    },
+    {
+      "text": "A four five.",
+      "start": 613.2,
+      "duration": 2.8
+    },
+    {
+      "text": ">> Yeah. Yeah. And drop it in front of the",
+      "start": 614.32,
+      "duration": 4.68
+    },
+    {
+      "text": "hunter.",
+      "start": 616.0,
+      "duration": 3.0
+    },
+    {
+      "text": ">> Well, this will defend",
+      "start": 620.079,
+      "duration": 4.721
+    },
+    {
+      "text": "H",
+      "start": 623.04,
+      "duration": 3.76
+    },
+    {
+      "text": "I don't know if having a big creature is",
+      "start": 624.8,
+      "duration": 3.68
+    },
+    {
+      "text": "worth it.",
+      "start": 626.8,
+      "duration": 3.52
+    },
+    {
+      "text": ">> Well, he's going to put out that hawk,",
+      "start": 628.48,
+      "duration": 3.28
+    },
+    {
+      "text": "and if he has the hunter and the hawk at",
+      "start": 630.32,
+      "duration": 2.4
+    },
+    {
+      "text": "the same time, you're going to get",
+      "start": 631.76,
+      "duration": 1.6
+    },
+    {
+      "text": "overrun.",
+      "start": 632.72,
+      "duration": 2.96
+    },
+    {
+      "text": ">> All right, let's see. Let's see how this",
+      "start": 633.36,
+      "duration": 5.36
+    },
+    {
+      "text": "plays out cuz then I can get I can take",
+      "start": 635.68,
+      "duration": 4.24
+    },
+    {
+      "text": "out the hunter.",
+      "start": 638.72,
+      "duration": 3.76
+    },
+    {
+      "text": ">> Yeah,",
+      "start": 639.92,
+      "duration": 3.76
+    },
+    {
+      "text": ">> there's the hawk.",
+      "start": 642.48,
+      "duration": 3.44
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 643.68,
+      "duration": 4.88
+    },
+    {
+      "text": ">> Yeah, but shut up.",
+      "start": 645.92,
+      "duration": 5.12
+    },
+    {
+      "text": ">> I don't want it to the skills. I don't",
+      "start": 648.56,
+      "duration": 6.32
+    },
+    {
+      "text": "want to skills. Oh boy. Okay. So, four.",
+      "start": 651.04,
+      "duration": 5.76
+    },
+    {
+      "text": "So, I have a better clock than he does.",
+      "start": 654.88,
+      "duration": 2.16
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 656.8,
+      "duration": 1.2
+    },
+    {
+      "text": ">> But he's probably going to drop",
+      "start": 657.04,
+      "duration": 2.16
+    },
+    {
+      "text": "something that'll give us an equal",
+      "start": 658.0,
+      "duration": 2.32
+    },
+    {
+      "text": "clock.",
+      "start": 659.2,
+      "duration": 2.24
+    },
+    {
+      "text": ">> Uh, so I'll just",
+      "start": 660.32,
+      "duration": 2.32
+    },
+    {
+      "text": ">> Don't lose your eye just yet.",
+      "start": 661.44,
+      "duration": 5.32
+    },
+    {
+      "text": ">> I'll go for it and see what happens.",
+      "start": 662.64,
+      "duration": 4.12
+    },
+    {
+      "text": ">> Yeah. Okay. So, we have an equal clock",
+      "start": 667.12,
+      "duration": 2.24
+    },
+    {
+      "text": "right now.",
+      "start": 668.72,
+      "duration": 3.6
+    },
+    {
+      "text": ">> Uh-huh.",
+      "start": 669.36,
+      "duration": 5.76
+    },
+    {
+      "text": "Oh, not anymore.",
+      "start": 672.32,
+      "duration": 4.4
+    },
+    {
+      "text": "Well, you can just whail him again for",
+      "start": 675.12,
+      "duration": 3.44
+    },
+    {
+      "text": "four, hold your ground, and then have",
+      "start": 676.72,
+      "duration": 4.96
+    },
+    {
+      "text": "the grizzly and the raven next round.",
+      "start": 678.56,
+      "duration": 5.279
+    },
+    {
+      "text": ">> Yeah, I can block.",
+      "start": 681.68,
+      "duration": 4.48
+    },
+    {
+      "text": "I just uh",
+      "start": 683.839,
+      "duration": 6.081
+    },
+    {
+      "text": "put us on even terms for a turn.",
+      "start": 686.16,
+      "duration": 6.16
+    },
+    {
+      "text": ">> Oh, yeah. But you lost your sacrifice.",
+      "start": 689.92,
+      "duration": 3.359
+    },
+    {
+      "text": ">> That's okay.",
+      "start": 692.32,
+      "duration": 2.079
+    },
+    {
+      "text": ">> Is it?",
+      "start": 693.279,
+      "duration": 2.161
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 694.399,
+      "duration": 4.041
+    },
+    {
+      "text": ">> Okay.",
+      "start": 695.44,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh, yeah. He could be dropping blockers",
+      "start": 698.64,
+      "duration": 5.04
+    },
+    {
+      "text": "again. Dropping blockers.",
+      "start": 700.399,
+      "duration": 5.281
+    },
+    {
+      "text": "All right. I'm feeling this. I'm feeling",
+      "start": 703.68,
+      "duration": 2.88
+    },
+    {
+      "text": "this energy.",
+      "start": 705.68,
+      "duration": 4.36
+    },
+    {
+      "text": ">> It's very cool.",
+      "start": 706.56,
+      "duration": 3.48
+    },
+    {
+      "text": "Uh, well, we're even right now, so",
+      "start": 710.079,
+      "duration": 7.721
+    },
+    {
+      "text": "fine with that.",
+      "start": 714.32,
+      "duration": 3.48
+    },
+    {
+      "text": "Go ahead. Go ahead. Swing your stinky",
+      "start": 718.079,
+      "duration": 5.041
+    },
+    {
+      "text": "little swing at me. I don't care.",
+      "start": 720.16,
+      "duration": 5.52
+    },
+    {
+      "text": "You think I care?",
+      "start": 723.12,
+      "duration": 3.76
+    },
+    {
+      "text": ">> Oh, that's not good.",
+      "start": 725.68,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Yeah. Everything's real high. You need",
+      "start": 726.88,
+      "duration": 4.84
+    },
+    {
+      "text": "some squirrels.",
+      "start": 728.56,
+      "duration": 3.16
+    },
+    {
+      "text": "I need some squirrels.",
+      "start": 732.0,
+      "duration": 2.56
+    },
+    {
+      "text": "Damn.",
+      "start": 734.079,
+      "duration": 1.2
+    },
+    {
+      "text": ">> I think that might be it.",
+      "start": 734.56,
+      "duration": 2.56
+    },
+    {
+      "text": ">> Damn him and his army of starving men.",
+      "start": 735.279,
+      "duration": 5.12
+    },
+    {
+      "text": ">> I think I tips the scales. Yeah.",
+      "start": 737.12,
+      "duration": 4.24
+    },
+    {
+      "text": ">> All right. All right. All right. All",
+      "start": 740.399,
+      "duration": 2.401
+    },
+    {
+      "text": "right. All right. I'm learning.",
+      "start": 741.36,
+      "duration": 1.76
+    },
+    {
+      "text": ">> Uhhuh.",
+      "start": 742.8,
+      "duration": 2.0
+    },
+    {
+      "text": ">> I'm learning how this game freaking",
+      "start": 743.12,
+      "duration": 2.32
+    },
+    {
+      "text": "functions.",
+      "start": 744.8,
+      "duration": 2.96
+    },
+    {
+      "text": ">> We're having fun. We're having fun.",
+      "start": 745.44,
+      "duration": 2.959
+    },
+    {
+      "text": ">> All right.",
+      "start": 747.76,
+      "duration": 2.0
+    },
+    {
+      "text": ">> Squirrels and stos.",
+      "start": 748.399,
+      "duration": 5.281
+    },
+    {
+      "text": ">> Put out the squirrels. Put out the stos.",
+      "start": 749.76,
+      "duration": 8.44
+    },
+    {
+      "text": "Get the damage. Put out the sto.",
+      "start": 753.68,
+      "duration": 4.52
+    },
+    {
+      "text": "Eat it.",
+      "start": 759.2,
+      "duration": 3.12
+    },
+    {
+      "text": ">> Two cubes. Maybe the move is to hold on",
+      "start": 760.32,
+      "duration": 3.68
+    },
+    {
+      "text": "to one of the squirrels for sacrifices",
+      "start": 762.32,
+      "duration": 3.6
+    },
+    {
+      "text": "later.",
+      "start": 764.0,
+      "duration": 4.56
+    },
+    {
+      "text": ">> Well, I might as well put stuff out, you",
+      "start": 765.92,
+      "duration": 3.28
+    },
+    {
+      "text": "know.",
+      "start": 768.56,
+      "duration": 1.76
+    },
+    {
+      "text": ">> Sure.",
+      "start": 769.2,
+      "duration": 3.36
+    },
+    {
+      "text": ">> All right. So, block the hunter. Oh, I",
+      "start": 770.32,
+      "duration": 4.16
+    },
+    {
+      "text": "got to kill something.",
+      "start": 772.56,
+      "duration": 4.399
+    },
+    {
+      "text": "Block the hunter to get the beehive.",
+      "start": 774.48,
+      "duration": 5.88
+    },
+    {
+      "text": "Swing out.",
+      "start": 776.959,
+      "duration": 3.401
+    },
+    {
+      "text": "Uh-huh. So, I get the bee. Great.",
+      "start": 781.92,
+      "duration": 5.2
+    },
+    {
+      "text": "Wonderful.",
+      "start": 785.2,
+      "duration": 7.84
+    },
+    {
+      "text": ">> Uh, okay. I can play dubby.",
+      "start": 787.12,
+      "duration": 9.6
+    },
+    {
+      "text": "If I swing at, I kill the starving man.",
+      "start": 793.04,
+      "duration": 5.84
+    },
+    {
+      "text": ">> And I can get another B. And I get one",
+      "start": 796.72,
+      "duration": 4.799
+    },
+    {
+      "text": "damage. So, I'm just going to do that.",
+      "start": 798.88,
+      "duration": 3.84
+    },
+    {
+      "text": ">> That's pretty sick.",
+      "start": 801.519,
+      "duration": 2.32
+    },
+    {
+      "text": ">> Got to love that.",
+      "start": 802.72,
+      "duration": 3.44
+    },
+    {
+      "text": ">> Oh, wait. I swing over the hanger. Okay.",
+      "start": 803.839,
+      "duration": 6.0
+    },
+    {
+      "text": ">> Cuz you're flying. That's right.",
+      "start": 806.16,
+      "duration": 4.88
+    },
+    {
+      "text": ">> Oh, cat.",
+      "start": 809.839,
+      "duration": 1.921
+    },
+    {
+      "text": ">> That's nice.",
+      "start": 811.04,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Kat Oh, that's right. I can sack it as",
+      "start": 811.76,
+      "duration": 2.879
+    },
+    {
+      "text": "much as I want.",
+      "start": 813.92,
+      "duration": 1.76
+    },
+    {
+      "text": ">> Mhm.",
+      "start": 814.639,
+      "duration": 1.44
+    },
+    {
+      "text": ">> That's",
+      "start": 815.68,
+      "duration": 4.88
+    },
+    {
+      "text": ">> And you can use it as a sacrifice.",
+      "start": 816.079,
+      "duration": 4.481
+    },
+    {
+      "text": "All right.",
+      "start": 821.839,
+      "duration": 3.12
+    },
+    {
+      "text": ">> I'm I'm just I'm just making cat sack",
+      "start": 822.88,
+      "duration": 4.32
+    },
+    {
+      "text": "jokes, bro. Just having fun with him.",
+      "start": 824.959,
+      "duration": 4.241
+    },
+    {
+      "text": ">> Come on. Come on. You're making me",
+      "start": 827.2,
+      "duration": 4.879
+    },
+    {
+      "text": "giggle over here. What the fuck?",
+      "start": 829.2,
+      "duration": 4.639
+    },
+    {
+      "text": "Uh",
+      "start": 832.079,
+      "duration": 3.921
+    },
+    {
+      "text": "oh. I need to I need to sacrifice for",
+      "start": 833.839,
+      "duration": 3.841
+    },
+    {
+      "text": "the cat.",
+      "start": 836.0,
+      "duration": 4.68
+    },
+    {
+      "text": "Uh,",
+      "start": 837.68,
+      "duration": 3.0
+    },
+    {
+      "text": "I guess I'll do the",
+      "start": 841.68,
+      "duration": 3.719
+    },
+    {
+      "text": "I guess it doesn't matter either way. If",
+      "start": 847.12,
+      "duration": 3.519
+    },
+    {
+      "text": "I'm going to play the cat, then I need",
+      "start": 849.44,
+      "duration": 5.36
+    },
+    {
+      "text": "to And then if I play the wolf. Whoops.",
+      "start": 850.639,
+      "duration": 7.2
+    },
+    {
+      "text": "Wolf is a three three.",
+      "start": 854.8,
+      "duration": 6.08
+    },
+    {
+      "text": "Hunter goes after it.",
+      "start": 857.839,
+      "duration": 5.281
+    },
+    {
+      "text": "Yeah, that's fun.",
+      "start": 860.88,
+      "duration": 4.72
+    },
+    {
+      "text": "Yeah, that's fun. Let's do that. Okay.",
+      "start": 863.12,
+      "duration": 3.92
+    },
+    {
+      "text": "Bang. Bang.",
+      "start": 865.6,
+      "duration": 4.4
+    },
+    {
+      "text": "Play the wolf. Going for the swing. Kill",
+      "start": 867.04,
+      "duration": 3.359
+    },
+    {
+      "text": "it.",
+      "start": 870.0,
+      "duration": 3.399
+    },
+    {
+      "text": ">> Good.",
+      "start": 870.399,
+      "duration": 3.0
+    },
+    {
+      "text": ">> Sure. Sure. Sure. Sure. Sure. Sure.",
+      "start": 874.079,
+      "duration": 2.481
+    },
+    {
+      "text": "Sure. Sure.",
+      "start": 875.519,
+      "duration": 2.161
+    },
+    {
+      "text": ">> I know I'm losing.",
+      "start": 876.56,
+      "duration": 2.639
+    },
+    {
+      "text": ">> Yeah, this is happening a lot.",
+      "start": 877.68,
+      "duration": 3.279
+    },
+    {
+      "text": ">> Come down.",
+      "start": 879.199,
+      "duration": 3.681
+    },
+    {
+      "text": "Come the freak down.",
+      "start": 880.959,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Not just yet.",
+      "start": 882.88,
+      "duration": 3.519
+    },
+    {
+      "text": ">> Oh, squirrel.",
+      "start": 883.839,
+      "duration": 4.24
+    },
+    {
+      "text": "I think you might have to use the scale",
+      "start": 886.399,
+      "duration": 3.281
+    },
+    {
+      "text": "tipper at some point.",
+      "start": 888.079,
+      "duration": 3.521
+    },
+    {
+      "text": ">> Oh man.",
+      "start": 889.68,
+      "duration": 3.519
+    },
+    {
+      "text": "But I don't freaking want to.",
+      "start": 891.6,
+      "duration": 2.56
+    },
+    {
+      "text": ">> I know.",
+      "start": 893.199,
+      "duration": 2.241
+    },
+    {
+      "text": ">> So, those will block. None of us want to",
+      "start": 894.16,
+      "duration": 2.88
+    },
+    {
+      "text": "have our eyeballs pulled out, Aaron. But",
+      "start": 895.44,
+      "duration": 3.28
+    },
+    {
+      "text": "you know what?",
+      "start": 897.04,
+      "duration": 2.479
+    },
+    {
+      "text": "Win in Rome.",
+      "start": 898.72,
+      "duration": 2.239
+    },
+    {
+      "text": ">> Well, I've got a turn, so I'm just going",
+      "start": 899.519,
+      "duration": 2.721
+    },
+    {
+      "text": "to let it let it ride.",
+      "start": 900.959,
+      "duration": 3.761
+    },
+    {
+      "text": ">> Okay.",
+      "start": 902.24,
+      "duration": 3.839
+    },
+    {
+      "text": ">> Oh, no.",
+      "start": 904.72,
+      "duration": 2.16
+    },
+    {
+      "text": ">> That's bad.",
+      "start": 906.079,
+      "duration": 3.281
+    },
+    {
+      "text": ">> That's a flyer.",
+      "start": 906.88,
+      "duration": 4.399
+    },
+    {
+      "text": "Is that all the way? Oh, man.",
+      "start": 909.36,
+      "duration": 2.64
+    },
+    {
+      "text": ">> Oh, bet.",
+      "start": 911.279,
+      "duration": 2.881
+    },
+    {
+      "text": ">> Fucking playing the hawk. Playing the",
+      "start": 912.0,
+      "duration": 4.56
+    },
+    {
+      "text": "hawk all day, all night. This",
+      "start": 914.16,
+      "duration": 3.44
+    },
+    {
+      "text": "motherfucker. Oh,",
+      "start": 916.56,
+      "duration": 5.279
+    },
+    {
+      "text": ">> squirrels and stos. Yeah. Yeah. Yeah.",
+      "start": 917.6,
+      "duration": 7.919
+    },
+    {
+      "text": "Sto it up.",
+      "start": 921.839,
+      "duration": 6.56
+    },
+    {
+      "text": "All right, mother freicker. Take it.",
+      "start": 925.519,
+      "duration": 4.0
+    },
+    {
+      "text": "Take my money.",
+      "start": 928.399,
+      "duration": 3.041
+    },
+    {
+      "text": ">> Boom. Boom jams.",
+      "start": 929.519,
+      "duration": 2.801
+    },
+    {
+      "text": ">> Take my money.",
+      "start": 931.44,
+      "duration": 5.199
+    },
+    {
+      "text": ">> Yeah, I dare lie to you in your forest.",
+      "start": 932.32,
+      "duration": 5.44
+    },
+    {
+      "text": ">> I'm going to place the beehive over",
+      "start": 936.639,
+      "duration": 2.081
+    },
+    {
+      "text": "here. Oh,",
+      "start": 937.76,
+      "duration": 4.36
+    },
+    {
+      "text": ">> slapping bastard.",
+      "start": 938.72,
+      "duration": 3.4
+    },
+    {
+      "text": "See, I'm supposed to behave over here.",
+      "start": 944.0,
+      "duration": 3.76
+    },
+    {
+      "text": ">> Okay,",
+      "start": 945.6,
+      "duration": 5.599
+    },
+    {
+      "text": ">> we'll trade shots for a second. Oh boy.",
+      "start": 947.76,
+      "duration": 5.12
+    },
+    {
+      "text": "Ah,",
+      "start": 951.199,
+      "duration": 2.721
+    },
+    {
+      "text": ">> could have a B right now.",
+      "start": 952.88,
+      "duration": 3.12
+    },
+    {
+      "text": ">> Oh, you got a raven.",
+      "start": 953.92,
+      "duration": 4.159
+    },
+    {
+      "text": ">> Raven. What's a raven? A two two in the",
+      "start": 956.0,
+      "duration": 2.56
+    },
+    {
+      "text": "air.",
+      "start": 958.079,
+      "duration": 3.481
+    },
+    {
+      "text": ">> Mhm.",
+      "start": 958.56,
+      "duration": 3.0
+    },
+    {
+      "text": ">> Okay. How about this?",
+      "start": 971.12,
+      "duration": 2.639
+    },
+    {
+      "text": ">> It's interesting because of the scoring",
+      "start": 972.16,
+      "duration": 3.44
+    },
+    {
+      "text": "system,",
+      "start": 973.759,
+      "duration": 3.681
+    },
+    {
+      "text": "your offense is part of your defense,",
+      "start": 975.6,
+      "duration": 2.239
+    },
+    {
+      "text": "you know.",
+      "start": 977.44,
+      "duration": 3.399
+    },
+    {
+      "text": ">> Yes.",
+      "start": 977.839,
+      "duration": 3.0
+    },
+    {
+      "text": "I forgot it soarses over. That was a",
+      "start": 981.839,
+      "duration": 5.601
+    },
+    {
+      "text": "really bad play. I know I'm losing. All",
+      "start": 983.92,
+      "duration": 7.039
+    },
+    {
+      "text": "right, I'll use the fucking thing.",
+      "start": 987.44,
+      "duration": 5.36
+    },
+    {
+      "text": ">> He take your eyeball.",
+      "start": 990.959,
+      "duration": 3.361
+    },
+    {
+      "text": ">> That ought to even things out. That's",
+      "start": 992.8,
+      "duration": 3.12
+    },
+    {
+      "text": "all I got. I can't play this fucking",
+      "start": 994.32,
+      "duration": 3.439
+    },
+    {
+      "text": "wolf.",
+      "start": 995.92,
+      "duration": 6.12
+    },
+    {
+      "text": "I got to keep going. I'm going to lose.",
+      "start": 997.759,
+      "duration": 4.281
+    },
+    {
+      "text": "Oh, he's got four units on the board.",
+      "start": 1004.88,
+      "duration": 3.44
+    },
+    {
+      "text": ">> Good,",
+      "start": 1007.519,
+      "duration": 2.161
+    },
+    {
+      "text": ">> man. I can't win this one.",
+      "start": 1008.32,
+      "duration": 4.079
+    },
+    {
+      "text": ">> No, this is looking bad.",
+      "start": 1009.68,
+      "duration": 5.519
+    },
+    {
+      "text": ">> Um",
+      "start": 1012.399,
+      "duration": 4.721
+    },
+    {
+      "text": "Huh.",
+      "start": 1015.199,
+      "duration": 4.56
+    },
+    {
+      "text": "How about I play",
+      "start": 1017.12,
+      "duration": 5.519
+    },
+    {
+      "text": "nothing?",
+      "start": 1019.759,
+      "duration": 5.361
+    },
+    {
+      "text": ">> You may be wondering what I'm up to.",
+      "start": 1022.639,
+      "duration": 3.44
+    },
+    {
+      "text": ">> Oh my god.",
+      "start": 1025.12,
+      "duration": 3.919
+    },
+    {
+      "text": ">> Perhaps you'll Oh,",
+      "start": 1026.079,
+      "duration": 4.321
+    },
+    {
+      "text": ">> I'm getting fucked. This is",
+      "start": 1029.039,
+      "duration": 2.081
+    },
+    {
+      "text": "embarrassing.",
+      "start": 1030.4,
+      "duration": 2.88
+    },
+    {
+      "text": ">> It's uh it's it's four losses in a row.",
+      "start": 1031.12,
+      "duration": 3.36
+    },
+    {
+      "text": ">> I feel like I should be figuring out",
+      "start": 1033.28,
+      "duration": 3.759
+    },
+    {
+      "text": "this game faster.",
+      "start": 1034.48,
+      "duration": 4.88
+    },
+    {
+      "text": "Uh, okay.",
+      "start": 1037.039,
+      "duration": 5.52
+    },
+    {
+      "text": ">> It Yeah. Yeah. I'm Oh, okay.",
+      "start": 1039.36,
+      "duration": 3.679
+    },
+    {
+      "text": ">> What",
+      "start": 1042.559,
+      "duration": 1.76
+    },
+    {
+      "text": ">> I was going to say maybe hold on to one",
+      "start": 1043.039,
+      "duration": 1.92
+    },
+    {
+      "text": "of those squirrels,",
+      "start": 1044.319,
+      "duration": 2.561
+    },
+    {
+      "text": ">> but if it dies, then I can't use it",
+      "start": 1044.959,
+      "duration": 2.48
+    },
+    {
+      "text": "anymore.",
+      "start": 1046.88,
+      "duration": 3.2
+    },
+    {
+      "text": ">> I know, but um this strategy isn't",
+      "start": 1047.439,
+      "duration": 4.161
+    },
+    {
+      "text": "working. So, maybe it will work as a",
+      "start": 1050.08,
+      "duration": 6.32
+    },
+    {
+      "text": "sacrifice later or um",
+      "start": 1051.6,
+      "duration": 5.36
+    },
+    {
+      "text": "I don't know.",
+      "start": 1056.4,
+      "duration": 1.279
+    },
+    {
+      "text": ">> The way I see it,",
+      "start": 1056.96,
+      "duration": 2.0
+    },
+    {
+      "text": ">> I would I would mix things up a little",
+      "start": 1057.679,
+      "duration": 3.521
+    },
+    {
+      "text": "bit.",
+      "start": 1058.96,
+      "duration": 7.32
+    },
+    {
+      "text": "I'm I'm mix up. What?",
+      "start": 1061.2,
+      "duration": 5.08
+    },
+    {
+      "text": ">> You know what? I'll let you cook.",
+      "start": 1066.64,
+      "duration": 5.52
+    },
+    {
+      "text": ">> So, we got the bee. That's great. The",
+      "start": 1070.0,
+      "duration": 5.28
+    },
+    {
+      "text": "raven can",
+      "start": 1072.16,
+      "duration": 5.04
+    },
+    {
+      "text": "if I I got a second bee on the defense",
+      "start": 1075.28,
+      "duration": 3.759
+    },
+    {
+      "text": "for the beehive. So, I might as well",
+      "start": 1077.2,
+      "duration": 3.52
+    },
+    {
+      "text": "just play the bee and swing with it.",
+      "start": 1079.039,
+      "duration": 4.321
+    },
+    {
+      "text": "Okay.",
+      "start": 1080.72,
+      "duration": 5.76
+    },
+    {
+      "text": ">> I think my problem is that I'm I'm not",
+      "start": 1083.36,
+      "duration": 4.88
+    },
+    {
+      "text": "considering how much value is in like a",
+      "start": 1086.48,
+      "duration": 3.6
+    },
+    {
+      "text": "free hit.",
+      "start": 1088.24,
+      "duration": 5.2
+    },
+    {
+      "text": "And I got another B, which is great.",
+      "start": 1090.08,
+      "duration": 6.32
+    },
+    {
+      "text": "Technically, I'm losing. Yeah,",
+      "start": 1093.44,
+      "duration": 5.599
+    },
+    {
+      "text": "but fucking You know what I'm saying?",
+      "start": 1096.4,
+      "duration": 3.84
+    },
+    {
+      "text": "All right, here's what here's what we",
+      "start": 1099.039,
+      "duration": 4.64
+    },
+    {
+      "text": "got going on here. This is great. I'm",
+      "start": 1100.24,
+      "duration": 4.559
+    },
+    {
+      "text": "going to beat it up.",
+      "start": 1103.679,
+      "duration": 1.601
+    },
+    {
+      "text": ">> Okay,",
+      "start": 1104.799,
+      "duration": 4.24
+    },
+    {
+      "text": ">> play little B. Wolf Cub is a 1-1. And I",
+      "start": 1105.28,
+      "duration": 5.44
+    },
+    {
+      "text": "don't know what this means. Does that",
+      "start": 1109.039,
+      "duration": 3.361
+    },
+    {
+      "text": "mean it dies eventually or I",
+      "start": 1110.72,
+      "duration": 2.4
+    },
+    {
+      "text": ">> don't know.",
+      "start": 1112.4,
+      "duration": 2.8
+    },
+    {
+      "text": ">> It gets one defense every turn or some",
+      "start": 1113.12,
+      "duration": 5.919
+    },
+    {
+      "text": "shit? The point is",
+      "start": 1115.2,
+      "duration": 6.0
+    },
+    {
+      "text": "this raven.",
+      "start": 1119.039,
+      "duration": 5.121
+    },
+    {
+      "text": "I feel like I got to take out this hawk.",
+      "start": 1121.2,
+      "duration": 3.2
+    },
+    {
+      "text": ">> Okay.",
+      "start": 1124.16,
+      "duration": 2.48
+    },
+    {
+      "text": ">> But then that hunter's free to fucking",
+      "start": 1124.4,
+      "duration": 4.88
+    },
+    {
+      "text": "roam around all he wants. So, let's do",
+      "start": 1126.64,
+      "duration": 4.399
+    },
+    {
+      "text": "this.",
+      "start": 1129.28,
+      "duration": 3.279
+    },
+    {
+      "text": "Let's kill the bees. Bring out the",
+      "start": 1131.039,
+      "duration": 2.161
+    },
+    {
+      "text": "raven.",
+      "start": 1132.559,
+      "duration": 1.761
+    },
+    {
+      "text": ">> Mhm.",
+      "start": 1133.2,
+      "duration": 3.52
+    },
+    {
+      "text": ">> Do a little swang.",
+      "start": 1134.32,
+      "duration": 5.2
+    },
+    {
+      "text": "Oh, flying doesn't hit flying. It just",
+      "start": 1136.72,
+      "duration": 4.0
+    },
+    {
+      "text": "goes over. Period.",
+      "start": 1139.52,
+      "duration": 2.399
+    },
+    {
+      "text": ">> Okay, cool.",
+      "start": 1140.72,
+      "duration": 4.24
+    },
+    {
+      "text": ">> All right, fine. That's not at all what",
+      "start": 1141.919,
+      "duration": 5.921
+    },
+    {
+      "text": "I wanted, but okay. Yeah, it a it ain't",
+      "start": 1144.96,
+      "duration": 5.68
+    },
+    {
+      "text": "magic. Fuck.",
+      "start": 1147.84,
+      "duration": 5.68
+    },
+    {
+      "text": "This is not good.",
+      "start": 1150.64,
+      "duration": 5.24
+    },
+    {
+      "text": "So, if",
+      "start": 1153.52,
+      "duration": 4.48
+    },
+    {
+      "text": "[Music]",
+      "start": 1155.88,
+      "duration": 3.88
+    },
+    {
+      "text": "swing with the stove man dies, swing",
+      "start": 1158.0,
+      "duration": 4.799
+    },
+    {
+      "text": "with the raven goes over,",
+      "start": 1159.76,
+      "duration": 5.6
+    },
+    {
+      "text": "then they get two, four, five, which",
+      "start": 1162.799,
+      "duration": 5.281
+    },
+    {
+      "text": "will probably tip the scales.",
+      "start": 1165.36,
+      "duration": 5.84
+    },
+    {
+      "text": "Mother freicker. This is freaking me off",
+      "start": 1168.08,
+      "duration": 7.44
+    },
+    {
+      "text": "right now. This is bumping me off.",
+      "start": 1171.2,
+      "duration": 8.359
+    },
+    {
+      "text": "I could swing at the hawk",
+      "start": 1175.52,
+      "duration": 4.039
+    },
+    {
+      "text": "and that would kill it.",
+      "start": 1180.08,
+      "duration": 5.28
+    },
+    {
+      "text": "Ayay.",
+      "start": 1183.2,
+      "duration": 5.2
+    },
+    {
+      "text": "Okay. If I bang If I bang. If I move I",
+      "start": 1185.36,
+      "duration": 5.92
+    },
+    {
+      "text": "move. Let's see what the wolf cup does.",
+      "start": 1188.4,
+      "duration": 4.639
+    },
+    {
+      "text": ">> Okay.",
+      "start": 1191.28,
+      "duration": 4.0
+    },
+    {
+      "text": ">> No.",
+      "start": 1193.039,
+      "duration": 4.801
+    },
+    {
+      "text": "Let's",
+      "start": 1195.28,
+      "duration": 6.44
+    },
+    {
+      "text": "Let's get rid of this hunter.",
+      "start": 1197.84,
+      "duration": 3.88
+    },
+    {
+      "text": "and then",
+      "start": 1202.0,
+      "duration": 4.72
+    },
+    {
+      "text": "go for it. Okay, I lost. It's fine",
+      "start": 1203.84,
+      "duration": 3.199
+    },
+    {
+      "text": "though.",
+      "start": 1206.72,
+      "duration": 1.839
+    },
+    {
+      "text": ">> Yeah, those hawks are killers.",
+      "start": 1207.039,
+      "duration": 3.601
+    },
+    {
+      "text": ">> Yeah. Yeah, it's fine. It's fine. He",
+      "start": 1208.559,
+      "duration": 3.761
+    },
+    {
+      "text": "just has a better deck, obviously, and I",
+      "start": 1210.64,
+      "duration": 3.52
+    },
+    {
+      "text": "need to gouge out my eye or something.",
+      "start": 1212.32,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Lucky number six.",
+      "start": 1214.16,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Okay. Is this the sixth play?",
+      "start": 1216.0,
+      "duration": 2.72
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 1217.84,
+      "duration": 2.719
+    },
+    {
+      "text": ">> Um Well, here I'll do what you want to",
+      "start": 1218.72,
+      "duration": 3.839
+    },
+    {
+      "text": "do. You just want to sacrifice one?",
+      "start": 1220.559,
+      "duration": 5.48
+    },
+    {
+      "text": ">> I Yeah.",
+      "start": 1222.559,
+      "duration": 3.48
+    },
+    {
+      "text": ">> Okay.",
+      "start": 1227.36,
+      "duration": 5.799
+    },
+    {
+      "text": "All right.",
+      "start": 1230.08,
+      "duration": 3.079
+    },
+    {
+      "text": "Yep.",
+      "start": 1233.2,
+      "duration": 6.08
+    },
+    {
+      "text": "I know. Uh I know I'm losing,",
+      "start": 1235.039,
+      "duration": 6.161
+    },
+    {
+      "text": ">> dude. Boy, he he really gives you that",
+      "start": 1239.28,
+      "duration": 4.08
+    },
+    {
+      "text": "option immediately.",
+      "start": 1241.2,
+      "duration": 4.24
+    },
+    {
+      "text": ">> Okay,",
+      "start": 1243.36,
+      "duration": 3.76
+    },
+    {
+      "text": ">> man. So, it is exactly the same every",
+      "start": 1245.44,
+      "duration": 3.04
+    },
+    {
+      "text": "time. I thought we got a grizzly bear",
+      "start": 1247.12,
+      "duration": 2.08
+    },
+    {
+      "text": "one time. Same",
+      "start": 1248.48,
+      "duration": 3.04
+    },
+    {
+      "text": ">> draw.",
+      "start": 1249.2,
+      "duration": 3.92
+    },
+    {
+      "text": "All right,",
+      "start": 1251.52,
+      "duration": 3.76
+    },
+    {
+      "text": "let's uh",
+      "start": 1253.12,
+      "duration": 3.039
+    },
+    {
+      "text": "swing around.",
+      "start": 1255.28,
+      "duration": 3.519
+    },
+    {
+      "text": ">> Oh, yep.",
+      "start": 1256.159,
+      "duration": 4.961
+    },
+    {
+      "text": "Can you sacrifice the beehive to create",
+      "start": 1258.799,
+      "duration": 4.081
+    },
+    {
+      "text": "the sto the second sto or would that",
+      "start": 1261.12,
+      "duration": 2.96
+    },
+    {
+      "text": "kill the beehive?",
+      "start": 1262.88,
+      "duration": 3.679
+    },
+    {
+      "text": ">> Well, what I can do is I can I can hold",
+      "start": 1264.08,
+      "duration": 4.079
+    },
+    {
+      "text": "the beehive while I take the hits from",
+      "start": 1266.559,
+      "duration": 4.48
+    },
+    {
+      "text": "the hunter and then when he places a one",
+      "start": 1268.159,
+      "duration": 5.441
+    },
+    {
+      "text": "one then I can get more bees out of the",
+      "start": 1271.039,
+      "duration": 4.401
+    },
+    {
+      "text": "beehive getting hit. I only get two bees",
+      "start": 1273.6,
+      "duration": 2.88
+    },
+    {
+      "text": "because he has a two,",
+      "start": 1275.44,
+      "duration": 1.84
+    },
+    {
+      "text": ">> right?",
+      "start": 1276.48,
+      "duration": 4.4
+    },
+    {
+      "text": ">> Um which is a little annoying.",
+      "start": 1277.28,
+      "duration": 7.68
+    },
+    {
+      "text": "All right, I'll throw the bee down here.",
+      "start": 1280.88,
+      "duration": 6.56
+    },
+    {
+      "text": "Hm. Is it worth it to kill the stone and",
+      "start": 1284.96,
+      "duration": 5.04
+    },
+    {
+      "text": "the bee for the raven?",
+      "start": 1287.44,
+      "duration": 6.84
+    },
+    {
+      "text": "I mean, yeah. Well,",
+      "start": 1290.0,
+      "duration": 4.28
+    },
+    {
+      "text": "I think it's good to have units right",
+      "start": 1294.4,
+      "duration": 3.759
+    },
+    {
+      "text": "now. Okay.",
+      "start": 1295.919,
+      "duration": 4.961
+    },
+    {
+      "text": "But if they die because they're blocked.",
+      "start": 1298.159,
+      "duration": 4.241
+    },
+    {
+      "text": "Sort of I'm sort of like working out the",
+      "start": 1300.88,
+      "duration": 4.4
+    },
+    {
+      "text": "value in my head of like is it better to",
+      "start": 1302.4,
+      "duration": 4.72
+    },
+    {
+      "text": "have a blocker or is it better to have",
+      "start": 1305.28,
+      "duration": 4.16
+    },
+    {
+      "text": "an attacker?",
+      "start": 1307.12,
+      "duration": 5.799
+    },
+    {
+      "text": "Uh, okay.",
+      "start": 1309.44,
+      "duration": 3.479
+    },
+    {
+      "text": "I love the way this tastes. Yes.",
+      "start": 1313.919,
+      "duration": 8.321
+    },
+    {
+      "text": "I love the way this tastes on my belly.",
+      "start": 1318.32,
+      "duration": 6.4
+    },
+    {
+      "text": ">> What? What?",
+      "start": 1322.24,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Get up off of that thing.",
+      "start": 1324.72,
+      "duration": 4.8
+    },
+    {
+      "text": ">> Get up off of this thing.",
+      "start": 1326.24,
+      "duration": 6.88
+    },
+    {
+      "text": ">> I can speak with vocal fry.",
+      "start": 1329.52,
+      "duration": 4.88
+    },
+    {
+      "text": ">> All right, I'm going to",
+      "start": 1333.12,
+      "duration": 2.08
+    },
+    {
+      "text": ">> having fun over here.",
+      "start": 1334.4,
+      "duration": 3.279
+    },
+    {
+      "text": ">> So, the bee will block the hunter. Will",
+      "start": 1335.2,
+      "duration": 4.64
+    },
+    {
+      "text": "chump the blocker, as they say. I'll",
+      "start": 1337.679,
+      "duration": 4.081
+    },
+    {
+      "text": "kill this bee. add this wolf cub so I",
+      "start": 1339.84,
+      "duration": 6.16
+    },
+    {
+      "text": "can swing and get that starving man",
+      "start": 1341.76,
+      "duration": 5.6
+    },
+    {
+      "text": "and then I'll figure out whatever the",
+      "start": 1346.0,
+      "duration": 4.24
+    },
+    {
+      "text": "fuck this is.",
+      "start": 1347.36,
+      "duration": 6.48
+    },
+    {
+      "text": ">> Okay, take two. Oh, it turns into a",
+      "start": 1350.24,
+      "duration": 4.72
+    },
+    {
+      "text": "thing.",
+      "start": 1353.84,
+      "duration": 2.319
+    },
+    {
+      "text": ">> That's fucking great.",
+      "start": 1354.96,
+      "duration": 3.44
+    },
+    {
+      "text": ">> Okay, excellent. Oh, yeah. The cub",
+      "start": 1356.159,
+      "duration": 4.961
+    },
+    {
+      "text": "becomes a full-blown wolf.",
+      "start": 1358.4,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Oh, dude.",
+      "start": 1361.12,
+      "duration": 1.84
+    },
+    {
+      "text": ">> Excellent.",
+      "start": 1362.4,
+      "duration": 1.759
+    },
+    {
+      "text": ">> That's nice.",
+      "start": 1362.96,
+      "duration": 2.959
+    },
+    {
+      "text": ">> What was that? One turn.",
+      "start": 1364.159,
+      "duration": 2.64
+    },
+    {
+      "text": ">> Uh",
+      "start": 1365.919,
+      "duration": 3.361
+    },
+    {
+      "text": ">> I think so. It must have just been dying",
+      "start": 1366.799,
+      "duration": 4.88
+    },
+    {
+      "text": "so fast every time.",
+      "start": 1369.28,
+      "duration": 4.16
+    },
+    {
+      "text": ">> All right, I I I think I got to take the",
+      "start": 1371.679,
+      "duration": 4.641
+    },
+    {
+      "text": "eye shot,",
+      "start": 1373.44,
+      "duration": 6.0
+    },
+    {
+      "text": "the raven. If I take two, that's a Okay,",
+      "start": 1376.32,
+      "duration": 4.88
+    },
+    {
+      "text": "so I'll hit with three. I'll kill the",
+      "start": 1379.44,
+      "duration": 4.479
+    },
+    {
+      "text": "star man. I'll take an extra one plus",
+      "start": 1381.2,
+      "duration": 4.64
+    },
+    {
+      "text": "extra. So, let's just do the eye thing.",
+      "start": 1383.919,
+      "duration": 5.921
+    },
+    {
+      "text": ">> Just remember what the Oh, okay.",
+      "start": 1385.84,
+      "duration": 4.8
+    },
+    {
+      "text": ">> Yeah. Yeah. Yeah.",
+      "start": 1389.84,
+      "duration": 1.92
+    },
+    {
+      "text": ">> Jeez.",
+      "start": 1390.64,
+      "duration": 3.6
+    },
+    {
+      "text": ">> Swing.",
+      "start": 1391.76,
+      "duration": 5.039
+    },
+    {
+      "text": ">> He takes three.",
+      "start": 1394.24,
+      "duration": 4.4
+    },
+    {
+      "text": "Oh man.",
+      "start": 1396.799,
+      "duration": 4.401
+    },
+    {
+      "text": ">> Okay.",
+      "start": 1398.64,
+      "duration": 4.8
+    },
+    {
+      "text": "Six.",
+      "start": 1401.2,
+      "duration": 4.32
+    },
+    {
+      "text": ">> Why did I take six? Is there one here?",
+      "start": 1403.44,
+      "duration": 4.08
+    },
+    {
+      "text": "No. Oh, he might have played like a",
+      "start": 1405.52,
+      "duration": 2.56
+    },
+    {
+      "text": "flyer.",
+      "start": 1407.52,
+      "duration": 1.039
+    },
+    {
+      "text": ">> Got to be.",
+      "start": 1408.08,
+      "duration": 1.839
+    },
+    {
+      "text": ">> Okay, so that's a hawk there.",
+      "start": 1408.559,
+      "duration": 2.081
+    },
+    {
+      "text": ">> Yep.",
+      "start": 1409.919,
+      "duration": 3.201
+    },
+    {
+      "text": ">> Um, so if I swing in with the wolf,",
+      "start": 1410.64,
+      "duration": 5.12
+    },
+    {
+      "text": "it'll die. Uh, what is this? We got a",
+      "start": 1413.12,
+      "duration": 4.4
+    },
+    {
+      "text": "wolf and a cat. Fuck yeah. Cat's",
+      "start": 1415.76,
+      "duration": 2.48
+    },
+    {
+      "text": "awesome.",
+      "start": 1417.52,
+      "duration": 2.24
+    },
+    {
+      "text": ">> I think I have to sack for a cat,",
+      "start": 1418.24,
+      "duration": 4.559
+    },
+    {
+      "text": "though. I do.",
+      "start": 1419.76,
+      "duration": 5.84
+    },
+    {
+      "text": "Um,",
+      "start": 1422.799,
+      "duration": 3.601
+    },
+    {
+      "text": "all right. All right. Well, I can't",
+      "start": 1425.6,
+      "duration": 2.319
+    },
+    {
+      "text": "block in the air anyway, so I'll put the",
+      "start": 1426.4,
+      "duration": 6.08
+    },
+    {
+      "text": "cat here. Uh, I can sack one for",
+      "start": 1427.919,
+      "duration": 6.64
+    },
+    {
+      "text": "a sto to deal some damage.",
+      "start": 1432.48,
+      "duration": 2.64
+    },
+    {
+      "text": ">> Mhm.",
+      "start": 1434.559,
+      "duration": 5.681
+    },
+    {
+      "text": ">> A wolf is two to sack for, right? So,",
+      "start": 1435.12,
+      "duration": 7.6
+    },
+    {
+      "text": "I'll play the sto here. Sack the cat.",
+      "start": 1440.24,
+      "duration": 6.799
+    },
+    {
+      "text": "Place a stote. Uh, nice blocker. So, I",
+      "start": 1442.72,
+      "duration": 5.92
+    },
+    {
+      "text": "can bang. Swing in. Swing in.",
+      "start": 1447.039,
+      "duration": 4.601
+    },
+    {
+      "text": ">> Mhm.",
+      "start": 1448.64,
+      "duration": 3.0
+    },
+    {
+      "text": ">> I'll take three. I think I lose.",
+      "start": 1451.919,
+      "duration": 3.601
+    },
+    {
+      "text": ">> Dang.",
+      "start": 1454.08,
+      "duration": 4.16
+    },
+    {
+      "text": "Oh my god, this is crazy.",
+      "start": 1455.52,
+      "duration": 6.32
+    },
+    {
+      "text": ">> Yeah. Yeah. For a for a second round.",
+      "start": 1458.24,
+      "duration": 7.2
+    },
+    {
+      "text": ">> Oh man. All right.",
+      "start": 1461.84,
+      "duration": 6.64
+    },
+    {
+      "text": "I think it's best to just get the stoke",
+      "start": 1465.44,
+      "duration": 3.359
+    },
+    {
+      "text": "on.",
+      "start": 1468.48,
+      "duration": 1.28
+    },
+    {
+      "text": ">> Yeah, just go for it",
+      "start": 1468.799,
+      "duration": 3.041
+    },
+    {
+      "text": ">> cuz I get two hits right away.",
+      "start": 1469.76,
+      "duration": 5.039
+    },
+    {
+      "text": ">> It is a race.",
+      "start": 1471.84,
+      "duration": 5.36
+    },
+    {
+      "text": ">> Okay.",
+      "start": 1474.799,
+      "duration": 4.0
+    },
+    {
+      "text": "Shut up. I don't care about your dang",
+      "start": 1477.2,
+      "duration": 4.479
+    },
+    {
+      "text": "forest, bro. Your dang forest is pissing",
+      "start": 1478.799,
+      "duration": 6.081
+    },
+    {
+      "text": "me the the freak off. Um, I'm just Yeah,",
+      "start": 1481.679,
+      "duration": 4.401
+    },
+    {
+      "text": "I'm just going to hold the beehive.",
+      "start": 1484.88,
+      "duration": 3.919
+    },
+    {
+      "text": ">> Yeah, it's not getting much bang for",
+      "start": 1486.08,
+      "duration": 3.76
+    },
+    {
+      "text": "your buck.",
+      "start": 1488.799,
+      "duration": 2.24
+    },
+    {
+      "text": ">> Yeah, because then I can place it in",
+      "start": 1489.84,
+      "duration": 4.8
+    },
+    {
+      "text": "front of the starving man.",
+      "start": 1491.039,
+      "duration": 5.601
+    },
+    {
+      "text": "Uh oh, and I can play a cat",
+      "start": 1494.64,
+      "duration": 3.519
+    },
+    {
+      "text": ">> in front of the hunter.",
+      "start": 1496.64,
+      "duration": 3.519
+    },
+    {
+      "text": ">> Well,",
+      "start": 1498.159,
+      "duration": 5.921
+    },
+    {
+      "text": "that means I'll only really get one sack",
+      "start": 1500.159,
+      "duration": 6.241
+    },
+    {
+      "text": "uh out of it. No, I get a block and a",
+      "start": 1504.08,
+      "duration": 5.76
+    },
+    {
+      "text": "sack, which is some good value. Uh, all",
+      "start": 1506.4,
+      "duration": 7.879
+    },
+    {
+      "text": "right. I'll",
+      "start": 1509.84,
+      "duration": 4.439
+    },
+    {
+      "text": "All right. Yes, I'll do this. So then I",
+      "start": 1514.64,
+      "duration": 5.519
+    },
+    {
+      "text": "can get the sack from the cat.",
+      "start": 1518.32,
+      "duration": 4.32
+    },
+    {
+      "text": ">> I'll get the bee and I'll get two blocks",
+      "start": 1520.159,
+      "duration": 3.601
+    },
+    {
+      "text": "out of the cat",
+      "start": 1522.64,
+      "duration": 3.919
+    },
+    {
+      "text": ">> and another sack. So that is good value.",
+      "start": 1523.76,
+      "duration": 4.96
+    },
+    {
+      "text": "I'm okay with that.",
+      "start": 1526.559,
+      "duration": 6.081
+    },
+    {
+      "text": ">> I'm okay with cat. Right.",
+      "start": 1528.72,
+      "duration": 9.12
+    },
+    {
+      "text": ">> Okay. Uh all right. Wolf cub I can",
+      "start": 1532.64,
+      "duration": 7.2
+    },
+    {
+      "text": "and hawk will swing over wolf cub. Yeah,",
+      "start": 1537.84,
+      "duration": 3.199
+    },
+    {
+      "text": "just put him where he'll live.",
+      "start": 1539.84,
+      "duration": 2.959
+    },
+    {
+      "text": ">> So, I'll get him here. He can do an",
+      "start": 1541.039,
+      "duration": 4.161
+    },
+    {
+      "text": "attack on Hawk and then I'll just place",
+      "start": 1542.799,
+      "duration": 4.321
+    },
+    {
+      "text": "the B. Swing in.",
+      "start": 1545.2,
+      "duration": 2.479
+    },
+    {
+      "text": ">> Okay.",
+      "start": 1547.12,
+      "duration": 3.52
+    },
+    {
+      "text": ">> Bang. Wolf Cub deals the damage. All",
+      "start": 1547.679,
+      "duration": 4.401
+    },
+    {
+      "text": "right. I feel like this is this is going",
+      "start": 1550.64,
+      "duration": 1.84
+    },
+    {
+      "text": "to be",
+      "start": 1552.08,
+      "duration": 1.04
+    },
+    {
+      "text": ">> Feeling better.",
+      "start": 1552.48,
+      "duration": 3.04
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 1553.12,
+      "duration": 4.08
+    },
+    {
+      "text": "And then I have to take two. That's",
+      "start": 1555.52,
+      "duration": 4.48
+    },
+    {
+      "text": "fine. Wolf transform. Got a",
+      "start": 1557.2,
+      "duration": 4.8
+    },
+    {
+      "text": ">> whole ass wolf.",
+      "start": 1560.0,
+      "duration": 3.279
+    },
+    {
+      "text": ">> Yeah. Yeah. Yeah. Tip the scales. Blah",
+      "start": 1562.0,
+      "duration": 2.32
+    },
+    {
+      "text": "blah blah blah blah. Great. Great.",
+      "start": 1563.279,
+      "duration": 4.241
+    },
+    {
+      "text": "Great. Great. Good for you. Um, okay.",
+      "start": 1564.32,
+      "duration": 4.959
+    },
+    {
+      "text": "So,",
+      "start": 1567.52,
+      "duration": 3.92
+    },
+    {
+      "text": "I can chump",
+      "start": 1569.279,
+      "duration": 6.0
+    },
+    {
+      "text": "Hunter with the squirrel,",
+      "start": 1571.44,
+      "duration": 8.88
+    },
+    {
+      "text": ">> and I can chump Starving Man with the B.",
+      "start": 1575.279,
+      "duration": 6.88
+    },
+    {
+      "text": ">> Well, we can trade, actually.",
+      "start": 1580.32,
+      "duration": 3.44
+    },
+    {
+      "text": ">> Oh, this is great. And then I'll get a",
+      "start": 1582.159,
+      "duration": 4.321
+    },
+    {
+      "text": "B. I can outpace him on units if I keep",
+      "start": 1583.76,
+      "duration": 6.039
+    },
+    {
+      "text": "getting bees.",
+      "start": 1586.48,
+      "duration": 3.319
+    },
+    {
+      "text": "All right.",
+      "start": 1590.559,
+      "duration": 2.72
+    },
+    {
+      "text": ">> Oh. Oh, man. Your loyal army of bees.",
+      "start": 1591.12,
+      "duration": 3.6
+    },
+    {
+      "text": ">> No, it's good. It's good, though. It's",
+      "start": 1593.279,
+      "duration": 2.88
+    },
+    {
+      "text": "good.",
+      "start": 1594.72,
+      "duration": 3.199
+    },
+    {
+      "text": "Uh, play the B",
+      "start": 1596.159,
+      "duration": 4.081
+    },
+    {
+      "text": ">> B Raven",
+      "start": 1597.919,
+      "duration": 5.76
+    },
+    {
+      "text": "that, and I say this with the utmost",
+      "start": 1600.24,
+      "duration": 8.2
+    },
+    {
+      "text": "respect, is so Raven.",
+      "start": 1603.679,
+      "duration": 4.761
+    },
+    {
+      "text": "Um, all right. I'm outpacing him right",
+      "start": 1608.64,
+      "duration": 5.039
+    },
+    {
+      "text": "now on damage.",
+      "start": 1610.48,
+      "duration": 5.28
+    },
+    {
+      "text": "This is good. You want to gouge your",
+      "start": 1613.679,
+      "duration": 3.041
+    },
+    {
+      "text": "eyes out or whatever the",
+      "start": 1615.76,
+      "duration": 2.48
+    },
+    {
+      "text": ">> No, I don't think I need to.",
+      "start": 1616.72,
+      "duration": 2.959
+    },
+    {
+      "text": ">> No, no, I was talking to him.",
+      "start": 1618.24,
+      "duration": 3.6
+    },
+    {
+      "text": ">> Oh. Oh, yeah.",
+      "start": 1619.679,
+      "duration": 4.641
+    },
+    {
+      "text": ">> What do you think?",
+      "start": 1621.84,
+      "duration": 3.6
+    },
+    {
+      "text": "Um, how you feeling?",
+      "start": 1624.32,
+      "duration": 4.4
+    },
+    {
+      "text": ">> I think I can just",
+      "start": 1625.44,
+      "duration": 4.239
+    },
+    {
+      "text": ">> attack and win.",
+      "start": 1628.72,
+      "duration": 3.12
+    },
+    {
+      "text": ">> Well, I'll take two and I'm I'm in the",
+      "start": 1629.679,
+      "duration": 4.48
+    },
+    {
+      "text": "lead.",
+      "start": 1631.84,
+      "duration": 6.0
+    },
+    {
+      "text": "All right, I'm going to do it.",
+      "start": 1634.159,
+      "duration": 5.281
+    },
+    {
+      "text": "I'll chump the hunter. Okay,",
+      "start": 1637.84,
+      "duration": 3.839
+    },
+    {
+      "text": ">> take the two.",
+      "start": 1639.44,
+      "duration": 4.32
+    },
+    {
+      "text": "And now we're even.",
+      "start": 1641.679,
+      "duration": 4.801
+    },
+    {
+      "text": "I've got a wolf here now and a raven.",
+      "start": 1643.76,
+      "duration": 5.039
+    },
+    {
+      "text": "Well, this isn't good. So, now he",
+      "start": 1646.48,
+      "duration": 4.64
+    },
+    {
+      "text": "outpaces me. So, what I can do is gouge",
+      "start": 1648.799,
+      "duration": 4.48
+    },
+    {
+      "text": "my eye out and then maybe win. Okay,",
+      "start": 1651.12,
+      "duration": 4.67
+    },
+    {
+      "text": "give it a shot.",
+      "start": 1653.279,
+      "duration": 5.441
+    },
+    {
+      "text": "[Music]",
+      "start": 1655.79,
+      "duration": 3.41
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 1658.72,
+      "duration": 2.48
+    },
+    {
+      "text": ">> Yes.",
+      "start": 1659.2,
+      "duration": 4.079
+    },
+    {
+      "text": "Great job, Aaron. And all it took you",
+      "start": 1661.2,
+      "duration": 4.88
+    },
+    {
+      "text": "was blindness in one eye.",
+      "start": 1663.279,
+      "duration": 4.081
+    },
+    {
+      "text": ">> I'll take the blind one.",
+      "start": 1666.08,
+      "duration": 3.599
+    },
+    {
+      "text": ">> The adder damage from his poison bite",
+      "start": 1667.36,
+      "duration": 3.04
+    },
+    {
+      "text": "has always",
+      "start": 1669.679,
+      "duration": 2.321
+    },
+    {
+      "text": ">> Oh, it's got death touch. Okay. This",
+      "start": 1670.4,
+      "duration": 3.36
+    },
+    {
+      "text": "clearly a magic gathering player.",
+      "start": 1672.0,
+      "duration": 4.48
+    },
+    {
+      "text": ">> Yeah. One more round, human.",
+      "start": 1673.76,
+      "duration": 6.24
+    },
+    {
+      "text": ">> Okay, I can do one more round.",
+      "start": 1676.48,
+      "duration": 4.72
+    },
+    {
+      "text": ">> How is your new eye?",
+      "start": 1680.0,
+      "duration": 1.919
+    },
+    {
+      "text": ">> Uh, it's green.",
+      "start": 1681.2,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Good. Thank you. Its previous owner",
+      "start": 1681.919,
+      "duration": 5.281
+    },
+    {
+      "text": "won't miss it. I see your child there",
+      "start": 1684.08,
+      "duration": 6.0
+    },
+    {
+      "text": "behind you. It also looks hungry.",
+      "start": 1687.2,
+      "duration": 6.64
+    },
+    {
+      "text": ">> It if you beat me now, we will eat.",
+      "start": 1690.08,
+      "duration": 4.079
+    },
+    {
+      "text": ">> Okay.",
+      "start": 1693.84,
+      "duration": 2.559
+    },
+    {
+      "text": ">> Like dress in a way that makes people",
+      "start": 1694.159,
+      "duration": 5.24
+    },
+    {
+      "text": "jealous.",
+      "start": 1696.399,
+      "duration": 3.0
+    },
+    {
+      "text": ">> All right. I'm going to",
+      "start": 1699.52,
+      "duration": 5.44
+    },
+    {
+      "text": ">> I'm We will eat.",
+      "start": 1701.12,
+      "duration": 9.08
+    },
+    {
+      "text": ">> Oh, we will eat and leave no crumbs.",
+      "start": 1704.96,
+      "duration": 5.24
+    },
+    {
+      "text": ">> M. Okay,",
+      "start": 1710.72,
+      "duration": 4.4
+    },
+    {
+      "text": "so the adder is a 1-1 death toucher.",
+      "start": 1712.96,
+      "duration": 3.28
+    },
+    {
+      "text": "That's pretty funny.",
+      "start": 1715.12,
+      "duration": 2.08
+    },
+    {
+      "text": ">> Okay.",
+      "start": 1716.24,
+      "duration": 4.72
+    },
+    {
+      "text": ">> Uh pretty pretty good. Uh okay, so Oh,",
+      "start": 1717.2,
+      "duration": 5.04
+    },
+    {
+      "text": "he placed it there, which means he's",
+      "start": 1720.96,
+      "duration": 2.88
+    },
+    {
+      "text": "going to play it there. That's",
+      "start": 1722.24,
+      "duration": 3.2
+    },
+    {
+      "text": "interesting.",
+      "start": 1723.84,
+      "duration": 2.88
+    },
+    {
+      "text": ">> All right, here's what I'll do anyway.",
+      "start": 1725.44,
+      "duration": 4.32
+    },
+    {
+      "text": "I'll place the beehive here and then we",
+      "start": 1726.72,
+      "duration": 6.92
+    },
+    {
+      "text": "will ring a ding-ding.",
+      "start": 1729.76,
+      "duration": 3.88
+    },
+    {
+      "text": "I didn't realize he was queuing cards",
+      "start": 1734.0,
+      "duration": 2.0
+    },
+    {
+      "text": "up.",
+      "start": 1735.679,
+      "duration": 1.36
+    },
+    {
+      "text": ">> Yeah, that helps.",
+      "start": 1736.0,
+      "duration": 2.72
+    },
+    {
+      "text": ">> Huge information.",
+      "start": 1737.039,
+      "duration": 3.441
+    },
+    {
+      "text": "Um, I don't need the knife, but thank",
+      "start": 1738.72,
+      "duration": 4.079
+    },
+    {
+      "text": "you for the offer. Uh, really",
+      "start": 1740.48,
+      "duration": 5.12
+    },
+    {
+      "text": "appreciated",
+      "start": 1742.799,
+      "duration": 5.76
+    },
+    {
+      "text": ">> still.",
+      "start": 1745.6,
+      "duration": 5.439
+    },
+    {
+      "text": ">> Okay, the sto is",
+      "start": 1748.559,
+      "duration": 4.081
+    },
+    {
+      "text": "All right, so here's what I want to do.",
+      "start": 1751.039,
+      "duration": 4.601
+    },
+    {
+      "text": "Um,",
+      "start": 1752.64,
+      "duration": 3.0
+    },
+    {
+      "text": "I want to get this STO dealing damage to",
+      "start": 1756.559,
+      "duration": 5.921
+    },
+    {
+      "text": "the Hawk right away.",
+      "start": 1759.12,
+      "duration": 4.48
+    },
+    {
+      "text": ">> Good job.",
+      "start": 1762.48,
+      "duration": 3.919
+    },
+    {
+      "text": ">> Fuck. Oh, this is bad.",
+      "start": 1763.6,
+      "duration": 6.0
+    },
+    {
+      "text": "Sto's going to swing.",
+      "start": 1766.399,
+      "duration": 7.841
+    },
+    {
+      "text": "Oh my god, that sucks. That sucks.",
+      "start": 1769.6,
+      "duration": 7.84
+    },
+    {
+      "text": ">> That's fine. It's all good. It's all",
+      "start": 1774.24,
+      "duration": 6.799
+    },
+    {
+      "text": "good. I'll place the squirrel.",
+      "start": 1777.44,
+      "duration": 4.64
+    },
+    {
+      "text": "And you know what? I'll place the",
+      "start": 1781.039,
+      "duration": 2.64
+    },
+    {
+      "text": "fucking beehive right away cuz now I",
+      "start": 1782.08,
+      "duration": 2.4
+    },
+    {
+      "text": "know that there's going to be something",
+      "start": 1783.679,
+      "duration": 1.36
+    },
+    {
+      "text": "there.",
+      "start": 1784.48,
+      "duration": 1.199
+    },
+    {
+      "text": ">> Yeah, sure.",
+      "start": 1785.039,
+      "duration": 2.88
+    },
+    {
+      "text": ">> So, that's great.",
+      "start": 1785.679,
+      "duration": 4.561
+    },
+    {
+      "text": ">> I guess that's part of the strat.",
+      "start": 1787.919,
+      "duration": 6.321
+    },
+    {
+      "text": ">> Great. Um, that's going to be a hawk.",
+      "start": 1790.24,
+      "duration": 6.88
+    },
+    {
+      "text": "So, let's spit on that thing.",
+      "start": 1794.24,
+      "duration": 5.679
+    },
+    {
+      "text": ">> Mhm.",
+      "start": 1797.12,
+      "duration": 5.76
+    },
+    {
+      "text": "How many hawks? Two up.",
+      "start": 1799.919,
+      "duration": 4.561
+    },
+    {
+      "text": ">> Great.",
+      "start": 1802.88,
+      "duration": 3.36
+    },
+    {
+      "text": ">> Uh,",
+      "start": 1804.48,
+      "duration": 3.12
+    },
+    {
+      "text": "stood out.",
+      "start": 1806.24,
+      "duration": 3.76
+    },
+    {
+      "text": ">> Go ahead. Get a little swing in.",
+      "start": 1807.6,
+      "duration": 4.559
+    },
+    {
+      "text": ">> That's what it says on your hand.",
+      "start": 1810.0,
+      "duration": 3.679
+    },
+    {
+      "text": ">> Stoer.",
+      "start": 1812.159,
+      "duration": 4.801
+    },
+    {
+      "text": ">> And now it says stabby, I think.",
+      "start": 1813.679,
+      "duration": 4.641
+    },
+    {
+      "text": ">> Okay. I don't need the knife. Here's",
+      "start": 1816.96,
+      "duration": 3.439
+    },
+    {
+      "text": "what's going to happen. I know. I I get",
+      "start": 1818.32,
+      "duration": 3.839
+    },
+    {
+      "text": "it. I hear you. I hear you. I hear you.",
+      "start": 1820.399,
+      "duration": 5.201
+    },
+    {
+      "text": "I hear you. And I think it's like go off",
+      "start": 1822.159,
+      "duration": 5.441
+    },
+    {
+      "text": "queen, go off.",
+      "start": 1825.6,
+      "duration": 3.76
+    },
+    {
+      "text": ">> Uh, but I'm going to play a B.",
+      "start": 1827.6,
+      "duration": 2.319
+    },
+    {
+      "text": ">> Okay,",
+      "start": 1829.36,
+      "duration": 3.28
+    },
+    {
+      "text": ">> I'm going to play a squirrel.",
+      "start": 1829.919,
+      "duration": 6.24
+    },
+    {
+      "text": "Uh, I'm going to",
+      "start": 1832.64,
+      "duration": 6.88
+    },
+    {
+      "text": "play the adder. Bang. Bang.",
+      "start": 1836.159,
+      "duration": 6.161
+    },
+    {
+      "text": "Get that Adder out there.",
+      "start": 1839.52,
+      "duration": 4.879
+    },
+    {
+      "text": "Then",
+      "start": 1842.32,
+      "duration": 3.599
+    },
+    {
+      "text": "I don't mind taking the hit.",
+      "start": 1844.399,
+      "duration": 3.041
+    },
+    {
+      "text": ">> Mhm.",
+      "start": 1845.919,
+      "duration": 3.681
+    },
+    {
+      "text": ">> Because I'm going to get another B and",
+      "start": 1847.44,
+      "duration": 3.52
+    },
+    {
+      "text": "I'm going to get Starving Man out. So",
+      "start": 1849.6,
+      "duration": 3.679
+    },
+    {
+      "text": "I'll take the hit. Boom.",
+      "start": 1850.96,
+      "duration": 5.839
+    },
+    {
+      "text": "Take out the fucking hawk.",
+      "start": 1853.279,
+      "duration": 6.0
+    },
+    {
+      "text": "Hunter's out. No problem. I'll take the",
+      "start": 1856.799,
+      "duration": 6.961
+    },
+    {
+      "text": "two. Easy peasy.",
+      "start": 1859.279,
+      "duration": 6.88
+    },
+    {
+      "text": "A lot of small guys.",
+      "start": 1863.76,
+      "duration": 5.36
+    },
+    {
+      "text": "Yeah. Yeah.",
+      "start": 1866.159,
+      "duration": 6.801
+    },
+    {
+      "text": "Um I'll play the squirrel.",
+      "start": 1869.12,
+      "duration": 7.32
+    },
+    {
+      "text": "Play the bee.",
+      "start": 1872.96,
+      "duration": 3.48
+    },
+    {
+      "text": "Uh the bee will chump the hunter. The",
+      "start": 1876.96,
+      "duration": 4.8
+    },
+    {
+      "text": "squirrel will chump the starving man.",
+      "start": 1880.159,
+      "duration": 2.801
+    },
+    {
+      "text": "Well, actually, I can kill the starving",
+      "start": 1881.76,
+      "duration": 2.72
+    },
+    {
+      "text": "man with a sto.",
+      "start": 1882.96,
+      "duration": 2.959
+    },
+    {
+      "text": ">> So, let's kill the squirrel and get the",
+      "start": 1884.48,
+      "duration": 2.319
+    },
+    {
+      "text": "sto in there.",
+      "start": 1885.919,
+      "duration": 1.921
+    },
+    {
+      "text": ">> Okay.",
+      "start": 1886.799,
+      "duration": 3.521
+    },
+    {
+      "text": ">> Um,",
+      "start": 1887.84,
+      "duration": 4.48
+    },
+    {
+      "text": "yeah, let's get some Let's get some",
+      "start": 1890.32,
+      "duration": 5.4
+    },
+    {
+      "text": "tempo going.",
+      "start": 1892.32,
+      "duration": 3.4
+    },
+    {
+      "text": "So, B will get",
+      "start": 1896.72,
+      "duration": 3.28
+    },
+    {
+      "text": "All right.",
+      "start": 1899.2,
+      "duration": 2.479
+    },
+    {
+      "text": ">> Mhm.",
+      "start": 1900.0,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Then",
+      "start": 1901.679,
+      "duration": 3.84
+    },
+    {
+      "text": "there's going to be a hunter there.",
+      "start": 1904.0,
+      "duration": 4.24
+    },
+    {
+      "text": "Okay. Okay. So, I can afford to lose the",
+      "start": 1905.519,
+      "duration": 6.16
+    },
+    {
+      "text": "STO here. Uh, I won't do damage, though.",
+      "start": 1908.24,
+      "duration": 4.96
+    },
+    {
+      "text": "which will be a shame.",
+      "start": 1911.679,
+      "duration": 3.041
+    },
+    {
+      "text": ">> God, it's wild watching you play stuff",
+      "start": 1913.2,
+      "duration": 3.599
+    },
+    {
+      "text": "like this. I can actually see the",
+      "start": 1914.72,
+      "duration": 6.079
+    },
+    {
+      "text": "thoughts like shooting out of your head.",
+      "start": 1916.799,
+      "duration": 6.161
+    },
+    {
+      "text": "It's just it it just gets the gears",
+      "start": 1920.799,
+      "duration": 4.641
+    },
+    {
+      "text": "turning so much for you.",
+      "start": 1922.96,
+      "duration": 5.439
+    },
+    {
+      "text": ">> If I play",
+      "start": 1925.44,
+      "duration": 5.52
+    },
+    {
+      "text": "All right, I could sack and I could take",
+      "start": 1928.399,
+      "duration": 5.921
+    },
+    {
+      "text": "out this hunter, which would be huge.",
+      "start": 1930.96,
+      "duration": 8.439
+    },
+    {
+      "text": "Um, I will have to take damage though",
+      "start": 1934.32,
+      "duration": 5.079
+    },
+    {
+      "text": "and then I there's no guarantee I'll",
+      "start": 1939.76,
+      "duration": 4.159
+    },
+    {
+      "text": "have something to sack next round. Um,",
+      "start": 1941.679,
+      "duration": 4.801
+    },
+    {
+      "text": "all right. So, I will",
+      "start": 1943.919,
+      "duration": 5.841
+    },
+    {
+      "text": "I'll sack the STO. Can put another sto",
+      "start": 1946.48,
+      "duration": 5.12
+    },
+    {
+      "text": "here so I can take out starving man be",
+      "start": 1949.76,
+      "duration": 3.84
+    },
+    {
+      "text": "chomp and I'll take the hunter hit which",
+      "start": 1951.6,
+      "duration": 5.199
+    },
+    {
+      "text": "is a shame.",
+      "start": 1953.6,
+      "duration": 4.959
+    },
+    {
+      "text": ">> Okay,",
+      "start": 1956.799,
+      "duration": 2.961
+    },
+    {
+      "text": "double hunter action.",
+      "start": 1958.559,
+      "duration": 2.561
+    },
+    {
+      "text": ">> Yeah,",
+      "start": 1959.76,
+      "duration": 3.84
+    },
+    {
+      "text": ">> triple hunter action. Oh boy, that's",
+      "start": 1961.12,
+      "duration": 3.84
+    },
+    {
+      "text": "really nasty. Oh",
+      "start": 1963.6,
+      "duration": 4.0
+    },
+    {
+      "text": ">> god.",
+      "start": 1964.96,
+      "duration": 3.839
+    },
+    {
+      "text": ">> Can I win with this?",
+      "start": 1967.6,
+      "duration": 3.28
+    },
+    {
+      "text": ">> I don't think so.",
+      "start": 1968.799,
+      "duration": 3.281
+    },
+    {
+      "text": ">> Big eyeball.",
+      "start": 1970.88,
+      "duration": 1.679
+    },
+    {
+      "text": ">> Oh yeah.",
+      "start": 1972.08,
+      "duration": 1.52
+    },
+    {
+      "text": ">> Oh, it's my hand.",
+      "start": 1972.559,
+      "duration": 2.401
+    },
+    {
+      "text": ">> A heavy hand.",
+      "start": 1973.6,
+      "duration": 5.04
+    },
+    {
+      "text": ">> And then swing. That should do it.",
+      "start": 1974.96,
+      "duration": 6.0
+    },
+    {
+      "text": ">> You've done it.",
+      "start": 1978.64,
+      "duration": 3.519
+    },
+    {
+      "text": "Well, what happens when you lose your",
+      "start": 1980.96,
+      "duration": 1.52
+    },
+    {
+      "text": "hand?",
+      "start": 1982.159,
+      "duration": 3.281
+    },
+    {
+      "text": ">> Uh, I don't know. I think that's it.",
+      "start": 1982.48,
+      "duration": 5.28
+    },
+    {
+      "text": ">> Please choose our menu. Oh, starving man",
+      "start": 1985.44,
+      "duration": 3.44
+    },
+    {
+      "text": "or hungry child.",
+      "start": 1987.76,
+      "duration": 2.159
+    },
+    {
+      "text": ">> Oh, your your call, bud.",
+      "start": 1988.88,
+      "duration": 2.72
+    },
+    {
+      "text": ">> I'll take the starving man. How very",
+      "start": 1989.919,
+      "duration": 4.161
+    },
+    {
+      "text": "noble.",
+      "start": 1991.6,
+      "duration": 4.959
+    },
+    {
+      "text": ">> Much like the sto.",
+      "start": 1994.08,
+      "duration": 4.88
+    },
+    {
+      "text": "The stoe's a weasel. Oh,",
+      "start": 1996.559,
+      "duration": 2.801
+    },
+    {
+      "text": ">> that was it.",
+      "start": 1998.96,
+      "duration": 1.199
+    },
+    {
+      "text": ">> Oh, that was it.",
+      "start": 1999.36,
+      "duration": 1.439
+    },
+    {
+      "text": ">> Hell yeah.",
+      "start": 2000.159,
+      "duration": 1.681
+    },
+    {
+      "text": ">> Hey,",
+      "start": 2000.799,
+      "duration": 2.48
+    },
+    {
+      "text": ">> you know what? A great game.",
+      "start": 2001.84,
+      "duration": 3.6
+    },
+    {
+      "text": ">> Yeah, it was a fun little uh fun little",
+      "start": 2003.279,
+      "duration": 3.28
+    },
+    {
+      "text": "magic variant there.",
+      "start": 2005.44,
+      "duration": 5.2
+    },
+    {
+      "text": ">> Yeah. Um that's uh I want to know more.",
+      "start": 2006.559,
+      "duration": 7.201
+    },
+    {
+      "text": "I want to know who uh who eyeball dude",
+      "start": 2010.64,
+      "duration": 3.759
+    },
+    {
+      "text": "is.",
+      "start": 2013.76,
+      "duration": 2.32
+    },
+    {
+      "text": ">> Well, Dan, you can play more of this",
+      "start": 2014.399,
+      "duration": 3.201
+    },
+    {
+      "text": "game in description. It's kind of like",
+      "start": 2016.08,
+      "duration": 3.439
+    },
+    {
+      "text": "it, I think. I haven't played Incription",
+      "start": 2017.6,
+      "duration": 3.919
+    },
+    {
+      "text": "though, but it inspired it. Uh,",
+      "start": 2019.519,
+      "duration": 4.801
+    },
+    {
+      "text": ">> good job, Daniel. Daniel Muggin.",
+      "start": 2021.519,
+      "duration": 4.241
+    },
+    {
+      "text": ">> Daniel Muggin.",
+      "start": 2024.32,
+      "duration": 2.4
+    },
+    {
+      "text": ">> Mullins. Mullins.",
+      "start": 2025.76,
+      "duration": 2.0
+    },
+    {
+      "text": ">> Daniel Mugggin.",
+      "start": 2026.72,
+      "duration": 3.6
+    },
+    {
+      "text": ">> I was I was thinking of Elf",
+      "start": 2027.76,
+      "duration": 4.0
+    },
+    {
+      "text": "when he when he calls people",
+      "start": 2030.32,
+      "duration": 3.04
+    },
+    {
+      "text": "cottonheaded nin mugggins.",
+      "start": 2031.76,
+      "duration": 2.32
+    },
+    {
+      "text": ">> Oh,",
+      "start": 2033.36,
+      "duration": 2.08
+    },
+    {
+      "text": ">> yeah.",
+      "start": 2034.08,
+      "duration": 5.36
+    },
+    {
+      "text": ">> Daniel Mugggin. That's a great name.",
+      "start": 2035.44,
+      "duration": 5.2
+    },
+    {
+      "text": ">> I'm going to use that for something.",
+      "start": 2039.44,
+      "duration": 3.359
+    },
+    {
+      "text": ">> By all means. By all means.",
+      "start": 2040.64,
+      "duration": 3.279
+    },
+    {
+      "text": ">> All right. Well, have a wonderful day,",
+      "start": 2042.799,
+      "duration": 2.401
+    },
+    {
+      "text": "everybody. That was great.",
+      "start": 2043.919,
+      "duration": 2.081
+    },
+    {
+      "text": ">> Yeah, it was really fun.",
+      "start": 2045.2,
+      "duration": 4.479
+    },
+    {
+      "text": ">> Pick up Inscription or that one.",
+      "start": 2046.0,
+      "duration": 3.679
+    },
+    {
+      "text": "Oh, later everyone. Bye.",
+      "start": 2051.679,
+      "duration": 7.641
+    },
+    {
+      "text": "I'm missing me. I'm missing me.",
+      "start": 2055.04,
+      "duration": 4.28
+    }
+  ]
+}

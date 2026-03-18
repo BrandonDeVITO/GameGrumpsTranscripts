@@ -1,0 +1,2933 @@
+{
+  "video_id": "9gsTOV3wMlU",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Last time on Game Grumps!",
+      "start": 0.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Blood!",
+      "start": 4.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It's like purple blood, like grimace got shot in the vestibule.",
+      "start": 8.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh no, b-b-b-bronum. Help me.",
+      "start": 11.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Hey I'm Grump! I'm not so Grump!",
+      "start": 15.0,
+      "duration": 2.0
+    },
+    {
+      "text": "And we're the Game Grumps!",
+      "start": 17.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Dan, tell me about something.",
+      "start": 20.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay.",
+      "start": 22.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Tell me what your favorite color flavor is.",
+      "start": 23.0,
+      "duration": 4.0
+    },
+    {
+      "text": "My favorite color flavor?",
+      "start": 27.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Okay, favorite color flavor person in the world.",
+      "start": 28.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Who's your favorite person color in the world?",
+      "start": 31.0,
+      "duration": 3.0
+    },
+    {
+      "text": "My favorite color is sky blue.",
+      "start": 34.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Sky blue.",
+      "start": 36.0,
+      "duration": 1.0
+    },
+    {
+      "text": "But my favorite color flavor is probably purple because I like grape stuff.",
+      "start": 37.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Yeah, right?",
+      "start": 41.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, it changes everything, doesn't it?",
+      "start": 42.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That's so true.",
+      "start": 44.0,
+      "duration": 1.0
+    },
+    {
+      "text": "And my favorite color flavor person, well I don't even know what you're asking me there.",
+      "start": 45.0,
+      "duration": 4.0
+    },
+    {
+      "text": "So, let's play spectator.",
+      "start": 49.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Spectator!",
+      "start": 51.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Alright.",
+      "start": 52.0,
+      "duration": 1.0
+    },
+    {
+      "text": "We're gonna make a viral video today, Dan.",
+      "start": 53.0,
+      "duration": 2.0
+    },
+    {
+      "text": "We're gonna play-",
+      "start": 55.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Oh my god.",
+      "start": 59.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm gonna put it on hard mode and we're gonna go to Freddy Fazbear's Pizzeria.",
+      "start": 61.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Pizzeria, alright.",
+      "start": 65.0,
+      "duration": 2.0
+    },
+    {
+      "text": "This should be fun.",
+      "start": 67.0,
+      "duration": 2.0
+    },
+    {
+      "text": "We were doing- oh god.",
+      "start": 69.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Look, it's-",
+      "start": 72.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Boy, I feel like I'm watching a remix of like three different games.",
+      "start": 74.0,
+      "duration": 5.0
+    },
+    {
+      "text": "Arin, click through so we can see what the normal rooms look like.",
+      "start": 79.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Spled-librate.",
+      "start": 81.0,
+      "duration": 1.0
+    },
+    {
+      "text": "You always do this, you silly bear.",
+      "start": 82.0,
+      "duration": 2.0
+    },
+    {
+      "text": "We got robot, we got hats, lots of hats.",
+      "start": 84.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh huh.",
+      "start": 86.0,
+      "duration": 1.0
+    },
+    {
+      "text": "We got, uh, heads.",
+      "start": 87.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay, okay.",
+      "start": 89.0,
+      "duration": 1.0
+    },
+    {
+      "text": "We got this thing.",
+      "start": 90.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yup.",
+      "start": 92.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Utility closets.",
+      "start": 93.0,
+      "duration": 1.0
+    },
+    {
+      "text": "We got a fridge with an open door.",
+      "start": 94.0,
+      "duration": 3.0
+    },
+    {
+      "text": "And cups.",
+      "start": 97.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, shit!",
+      "start": 98.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, something has happened.",
+      "start": 99.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Blood, blood, blood.",
+      "start": 100.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Where?",
+      "start": 101.0,
+      "duration": 1.0
+    },
+    {
+      "text": "In the pot.",
+      "start": 102.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, well, maybe it's cooking.",
+      "start": 103.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Heh, heh.",
+      "start": 105.0,
+      "duration": 1.0
+    },
+    {
+      "text": "We got a flashlight and a picture and a doop-a-doop-a-doop-a-doop-a-doop-doop-doop.",
+      "start": 106.0,
+      "duration": 5.0
+    },
+    {
+      "text": "Okay, we got seven pictures.",
+      "start": 111.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It's like an anomaly now.",
+      "start": 113.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, shit.",
+      "start": 114.0,
+      "duration": 1.0
+    },
+    {
+      "text": "I don't remember that drink.",
+      "start": 115.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Uh, uh, head.",
+      "start": 118.0,
+      "duration": 3.0
+    },
+    {
+      "text": "What the fuck is the sound?",
+      "start": 121.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Oh, oh.",
+      "start": 125.0,
+      "duration": 1.0
+    },
+    {
+      "text": "What?",
+      "start": 126.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, no.",
+      "start": 127.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Is that blood on the floor?",
+      "start": 128.0,
+      "duration": 1.0
+    },
+    {
+      "text": "No, probably not, it's just dirt near the plank.",
+      "start": 129.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That picture wasn't there.",
+      "start": 131.0,
+      "duration": 1.0
+    },
+    {
+      "text": "That picture was not there.",
+      "start": 132.0,
+      "duration": 1.0
+    },
+    {
+      "text": "That's an extra object.",
+      "start": 133.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Love that.",
+      "start": 135.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, I guess it's a pizza box?",
+      "start": 136.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Is there blood on the pizza dripping?",
+      "start": 138.0,
+      "duration": 2.0
+    },
+    {
+      "text": "No, in the painting?",
+      "start": 140.0,
+      "duration": 1.0
+    },
+    {
+      "text": "No, I guess not.",
+      "start": 141.0,
+      "duration": 1.0
+    },
+    {
+      "text": "You would be wrong, Dan.",
+      "start": 142.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Alright.",
+      "start": 145.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Well, there's still an anomaly.",
+      "start": 146.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Was the freezer always open?",
+      "start": 148.0,
+      "duration": 2.0
+    },
+    {
+      "text": "The freezer?",
+      "start": 150.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yes, it was.",
+      "start": 152.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Okay.",
+      "start": 153.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Um, I don't remember this plank being there.",
+      "start": 154.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Or do I?",
+      "start": 156.0,
+      "duration": 2.0
+    },
+    {
+      "text": "An extra object.",
+      "start": 158.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay.",
+      "start": 160.0,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm gonna kiss your...",
+      "start": 161.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Don't.",
+      "start": 163.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Shit.",
+      "start": 166.0,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm gonna kiss your...",
+      "start": 167.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Father?",
+      "start": 169.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Father?",
+      "start": 170.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm gonna kiss your...",
+      "start": 172.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Were the...",
+      "start": 175.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, man.",
+      "start": 176.0,
+      "duration": 1.0
+    },
+    {
+      "text": "What?",
+      "start": 177.0,
+      "duration": 1.0
+    },
+    {
+      "text": "The eyes...",
+      "start": 178.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Are they all...",
+      "start": 179.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Is one missing eyes that had eyes before?",
+      "start": 180.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Whoa.",
+      "start": 182.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, there's blood.",
+      "start": 183.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 185.0,
+      "duration": 1.0
+    },
+    {
+      "text": "So that's different.",
+      "start": 186.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Looking at the blood.",
+      "start": 187.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Let's do a little blood action.",
+      "start": 189.0,
+      "duration": 5.0
+    },
+    {
+      "text": "Is this picture...",
+      "start": 194.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Is that new?",
+      "start": 197.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know.",
+      "start": 199.0,
+      "duration": 1.0
+    },
+    {
+      "text": "I don't think so.",
+      "start": 200.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Talk Reiki?",
+      "start": 202.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I can't read that.",
+      "start": 204.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know.",
+      "start": 206.0,
+      "duration": 5.0
+    },
+    {
+      "text": "Cool.",
+      "start": 211.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Another mystery solved.",
+      "start": 212.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Let's...",
+      "start": 215.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Pictures, pictures, pictures.",
+      "start": 216.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Planks of wood.",
+      "start": 218.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Guy in desk.",
+      "start": 219.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Celebrate the fun.",
+      "start": 221.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Does this feel different?",
+      "start": 224.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh.",
+      "start": 226.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, camera.",
+      "start": 227.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Seems chill.",
+      "start": 231.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I feel like one of them had eyes before.",
+      "start": 233.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I feel like one's missing or something.",
+      "start": 235.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Could that be other?",
+      "start": 238.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Disappear other?",
+      "start": 240.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Or missing object maybe?",
+      "start": 243.0,
+      "duration": 2.0
+    },
+    {
+      "text": "We tried missing.",
+      "start": 245.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, yeah, missing object.",
+      "start": 246.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "start": 247.0,
+      "duration": 1.0
+    },
+    {
+      "text": "I was gonna try that next.",
+      "start": 248.0,
+      "duration": 1.0
+    },
+    {
+      "text": "No, we tried that.",
+      "start": 249.0,
+      "duration": 1.0
+    },
+    {
+      "text": "We did?",
+      "start": 250.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Okay.",
+      "start": 251.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, right?",
+      "start": 252.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Didn't we?",
+      "start": 253.0,
+      "duration": 1.0
+    },
+    {
+      "text": "There's no missing object.",
+      "start": 254.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Disappearance.",
+      "start": 255.0,
+      "duration": 1.0
+    },
+    {
+      "text": "I feel like two of them had eyes.",
+      "start": 256.0,
+      "duration": 2.0
+    },
+    {
+      "text": "But, I mean, you know.",
+      "start": 258.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Maybe you feel like that.",
+      "start": 260.0,
+      "duration": 2.0
+    },
+    {
+      "text": "But, according to the game.",
+      "start": 262.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, many anomalies.",
+      "start": 264.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Where?",
+      "start": 266.0,
+      "duration": 1.0
+    },
+    {
+      "text": "No, the heart rate went up.",
+      "start": 267.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Picture changed.",
+      "start": 268.0,
+      "duration": 1.0
+    },
+    {
+      "text": "I think this picture changed.",
+      "start": 269.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Really?",
+      "start": 270.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Okay.",
+      "start": 271.0,
+      "duration": 1.0
+    },
+    {
+      "text": "I think so.",
+      "start": 272.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, god.",
+      "start": 273.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, fard.",
+      "start": 274.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Celebrate.",
+      "start": 275.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Um.",
+      "start": 276.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Um.",
+      "start": 277.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Chairs?",
+      "start": 278.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Chairs?",
+      "start": 279.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Heads?",
+      "start": 280.0,
+      "duration": 1.0
+    },
+    {
+      "text": "The door's closed.",
+      "start": 281.0,
+      "duration": 5.0
+    },
+    {
+      "text": "The door's closed.",
+      "start": 286.0,
+      "duration": 5.0
+    },
+    {
+      "text": "Oh, no.",
+      "start": 291.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Pizza gone!",
+      "start": 294.0,
+      "duration": 3.0
+    },
+    {
+      "text": "No one.",
+      "start": 297.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, and what do you mean no one anomaly?",
+      "start": 298.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh.",
+      "start": 301.0,
+      "duration": 1.0
+    },
+    {
+      "text": "What?",
+      "start": 302.0,
+      "duration": 1.0
+    },
+    {
+      "text": "That door was definitely.",
+      "start": 303.0,
+      "duration": 1.0
+    },
+    {
+      "text": "You thought it was open?",
+      "start": 304.0,
+      "duration": 3.0
+    },
+    {
+      "text": "I thought so.",
+      "start": 307.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Maybe I'm confusing it.",
+      "start": 308.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, maybe I am confusing it.",
+      "start": 309.0,
+      "duration": 1.0
+    },
+    {
+      "text": "It was never open.",
+      "start": 310.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow.",
+      "start": 312.0,
+      "duration": 1.0
+    },
+    {
+      "text": "It was never open.",
+      "start": 313.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright, Arin.",
+      "start": 315.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Extra object.",
+      "start": 318.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Was the floor blue and black like that?",
+      "start": 319.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Blue and black.",
+      "start": 322.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, yeah, floor different.",
+      "start": 324.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 325.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, you're right.",
+      "start": 326.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, you're right though.",
+      "start": 327.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Um.",
+      "start": 328.0,
+      "duration": 1.0
+    },
+    {
+      "text": "I guess it's other.",
+      "start": 329.0,
+      "duration": 1.0
+    },
+    {
+      "text": "The light on the left.",
+      "start": 330.0,
+      "duration": 1.0
+    },
+    {
+      "text": "The light?",
+      "start": 331.0,
+      "duration": 1.0
+    },
+    {
+      "text": "What?",
+      "start": 332.0,
+      "duration": 1.0
+    },
+    {
+      "text": "That used to be on in the room.",
+      "start": 333.0,
+      "duration": 1.0
+    },
+    {
+      "text": "No, not here.",
+      "start": 334.0,
+      "duration": 1.0
+    },
+    {
+      "text": "In the guy room.",
+      "start": 335.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, there was a light in the window.",
+      "start": 336.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Wait, what the fuck?",
+      "start": 337.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Was it always blue?",
+      "start": 338.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, it was always blue.",
+      "start": 339.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Alright, I guess so.",
+      "start": 340.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, what the hell?",
+      "start": 341.0,
+      "duration": 1.0
+    },
+    {
+      "text": "I thought you were right, dude.",
+      "start": 342.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, I didn't.",
+      "start": 343.0,
+      "duration": 1.0
+    },
+    {
+      "text": "My brain hadn't registered it.",
+      "start": 344.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Light.",
+      "start": 347.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Okay.",
+      "start": 348.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Iggy.",
+      "start": 349.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Iggy.",
+      "start": 350.0,
+      "duration": 1.0
+    },
+    {
+      "text": "I don't know what's different about this room or this room.",
+      "start": 351.0,
+      "duration": 6.0
+    },
+    {
+      "text": "Fuck.",
+      "start": 357.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, we're gonna fail this one so fast.",
+      "start": 358.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Yeah, hard as it turns out is difficult.",
+      "start": 361.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I think there's an extra.",
+      "start": 363.0,
+      "duration": 1.0
+    },
+    {
+      "text": "I think this is.",
+      "start": 364.0,
+      "duration": 1.0
+    },
+    {
+      "text": "That does feel different.",
+      "start": 365.0,
+      "duration": 1.0
+    },
+    {
+      "text": "I don't think there was something in there.",
+      "start": 366.0,
+      "duration": 5.0
+    },
+    {
+      "text": "No.",
+      "start": 371.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh dear.",
+      "start": 373.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh god.",
+      "start": 375.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh god.",
+      "start": 378.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh there's blood.",
+      "start": 380.0,
+      "duration": 3.0
+    },
+    {
+      "text": "There is blood.",
+      "start": 383.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Tum-ti-tum-ti-tum.",
+      "start": 387.0,
+      "duration": 3.0
+    },
+    {
+      "text": "It's out",
+      "start": 390.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Also go back to the room with the blood were those plates there what the fuck this was always there try extra object",
+      "start": 395.08,
+      "duration": 6.56
+    },
+    {
+      "text": "God I think there was a present there, too. Oh",
+      "start": 403.0,
+      "duration": 2.2
+    },
+    {
+      "text": "Man part is way harder. Yeah",
+      "start": 407.12,
+      "duration": 2.6
+    },
+    {
+      "text": "Okay, let's see you nuts hand to us. Oh that picture is different which one in the in the room with the man",
+      "start": 411.72,
+      "duration": 5.74
+    },
+    {
+      "text": "Oh",
+      "start": 417.46,
+      "duration": 2.0
+    },
+    {
+      "text": "It's so is it's so very is",
+      "start": 419.62,
+      "duration": 2.8
+    },
+    {
+      "text": "Yo when you write you write though, thank you",
+      "start": 424.42,
+      "duration": 2.76
+    },
+    {
+      "text": "Think that's a camera malfunction. No. No, it's it does that whenever a new anomaly in the room or just in general",
+      "start": 431.94,
+      "duration": 7.02
+    },
+    {
+      "text": "No, it's only when you're in the room. Oh, really? Yeah",
+      "start": 439.14,
+      "duration": 2.16
+    },
+    {
+      "text": "But what was it?",
+      "start": 442.46,
+      "duration": 2.0
+    },
+    {
+      "text": "extra hats",
+      "start": 444.46,
+      "duration": 2.0
+    },
+    {
+      "text": "Show me extra hats",
+      "start": 449.54,
+      "duration": 2.0
+    },
+    {
+      "text": "White red white red white white present present. Did the picture in the hallway in the far back change?",
+      "start": 452.74,
+      "duration": 6.16
+    },
+    {
+      "text": "I don't maybe think so, but you shot give it up do it do it to it",
+      "start": 458.9,
+      "duration": 4.4
+    },
+    {
+      "text": "Um extra beer no only one",
+      "start": 464.86,
+      "duration": 3.26
+    },
+    {
+      "text": "Wow, was that it the picture in the back?",
+      "start": 468.86,
+      "duration": 2.32
+    },
+    {
+      "text": "Yeah, it was a slightly different god dang",
+      "start": 471.18,
+      "duration": 4.02
+    },
+    {
+      "text": "This shit that's something changed here man, really, I don't know like I just got to be right",
+      "start": 478.36,
+      "duration": 4.74
+    },
+    {
+      "text": "All I know oh, oh that's new",
+      "start": 488.32,
+      "duration": 2.88
+    },
+    {
+      "text": "Let's go ahead and do that something changed are these wood planks different",
+      "start": 491.2,
+      "duration": 7.12
+    },
+    {
+      "text": "Yeah is that an extra wood plank?",
+      "start": 498.32,
+      "duration": 2.0
+    },
+    {
+      "text": "I think it might be",
+      "start": 500.32,
+      "duration": 2.0
+    },
+    {
+      "text": "I think it might be blood blood blood. Are you sure that's not yak? Maybe he just spilled his slurpee",
+      "start": 505.28,
+      "duration": 6.4
+    },
+    {
+      "text": "Can't believe this wasn't I didn't see this. Oh god, it's getting bad again",
+      "start": 514.72,
+      "duration": 3.44
+    },
+    {
+      "text": "Okay",
+      "start": 518.16,
+      "duration": 2.0
+    },
+    {
+      "text": "Dude all I know he's got a hat now was that there? Yeah, I think so. He's a monkey with a hat fuck",
+      "start": 524.44,
+      "duration": 4.56
+    },
+    {
+      "text": "All I can tell you is that we were crushing it. Oh big big big. Oh, yeah big cup",
+      "start": 531.04,
+      "duration": 4.54
+    },
+    {
+      "text": "And now it's only 243 and we're getting straight jacked",
+      "start": 536.6,
+      "duration": 3.52
+    },
+    {
+      "text": "Dude, honestly, I'm pissed. I don't know if I can take this man",
+      "start": 540.96,
+      "duration": 5.2
+    },
+    {
+      "text": "It's a lot of pressure right now",
+      "start": 546.16,
+      "duration": 3.06
+    },
+    {
+      "text": "Lot of pressure on my boner",
+      "start": 551.32,
+      "duration": 2.0
+    },
+    {
+      "text": "That could be the sign of a swollen prostate",
+      "start": 555.04,
+      "duration": 3.46
+    },
+    {
+      "text": "You're going to have to go open. You're gonna have to go to the doctor's",
+      "start": 559.12,
+      "duration": 4.46
+    },
+    {
+      "text": "So he can put his finger or another preferred digit",
+      "start": 565.24,
+      "duration": 4.44
+    },
+    {
+      "text": "Inside of you preferred digit. Yeah, I actually prefer I tell my doctor to mix it up",
+      "start": 569.68,
+      "duration": 6.44
+    },
+    {
+      "text": "Yeah, let's play it by ear. I like the big toe. Oh god. I feel like that gets the most data",
+      "start": 576.12,
+      "duration": 5.96
+    },
+    {
+      "text": "Put my foot in your ass",
+      "start": 585.4,
+      "duration": 2.0
+    },
+    {
+      "text": "Is there like did this change is that maybe we're looking at my monitor, let's try it",
+      "start": 590.88,
+      "duration": 4.96
+    },
+    {
+      "text": "Why not?",
+      "start": 596.92,
+      "duration": 1.44
+    },
+    {
+      "text": "Everything's getting crazy and we're almost effed. We're so effed",
+      "start": 598.36,
+      "duration": 4.28
+    },
+    {
+      "text": "Yeah, I was thinking that too, I think maybe the speaker moved or something",
+      "start": 605.32,
+      "duration": 3.16
+    },
+    {
+      "text": "Oh boy, oh boy. Oh picture. Wow, that's a very upsetting one. Oh, oh, oh crapity",
+      "start": 611.56,
+      "duration": 7.08
+    },
+    {
+      "text": "He loves it, dude. Yeah, he's having a good time",
+      "start": 619.56,
+      "duration": 2.6
+    },
+    {
+      "text": "Are you still alive, I don't know reboot generally doesn't mean it's over no also we've never lost",
+      "start": 622.16,
+      "duration": 8.88
+    },
+    {
+      "text": "Hey, we're still alive. Hey",
+      "start": 631.28,
+      "duration": 2.0
+    },
+    {
+      "text": "Girl kisses and hugs. I think that was a fail. I think that might have been a fail state",
+      "start": 634.04,
+      "duration": 6.82
+    },
+    {
+      "text": "No, I don't think so back down to normal again, we're still playing it's still 309 I know but it was like it was this",
+      "start": 642.44,
+      "duration": 6.12
+    },
+    {
+      "text": "Oh, all right, and then we rebooted and it wasn't that",
+      "start": 648.56,
+      "duration": 3.78
+    },
+    {
+      "text": "I'm gonna say object",
+      "start": 652.96,
+      "duration": 2.0
+    },
+    {
+      "text": "Cuz I'm just randomly door door door door door",
+      "start": 655.52,
+      "duration": 3.52
+    },
+    {
+      "text": "The door is open door is open door is open quick",
+      "start": 659.88,
+      "duration": 2.58
+    },
+    {
+      "text": "Probably die. Yeah, if I had to yes, was it like a shadow like that before in here? No, no, let's try it out",
+      "start": 666.0,
+      "duration": 8.2
+    },
+    {
+      "text": "Oh, let a memory",
+      "start": 674.2,
+      "duration": 3.24
+    },
+    {
+      "text": "This is upsetting, oh man, I hate being like right on the line all the time maybe",
+      "start": 680.8,
+      "duration": 6.72
+    },
+    {
+      "text": "Picture different no",
+      "start": 692.08,
+      "duration": 2.0
+    },
+    {
+      "text": "Picture different no",
+      "start": 695.2,
+      "duration": 2.0
+    },
+    {
+      "text": "Soup",
+      "start": 698.44,
+      "duration": 2.0
+    },
+    {
+      "text": "So tables gone right evil's gone. We are we're like we're like fucking",
+      "start": 700.44,
+      "duration": 7.88
+    },
+    {
+      "text": "Twiddling the dick of it, dude. I don't know what that means in this",
+      "start": 708.8,
+      "duration": 2.98
+    },
+    {
+      "text": "Contact, you know, sure. I think maybe the pizza box big is that no, no, it's just it's a drag. It's a real drag",
+      "start": 711.78,
+      "duration": 23.48
+    },
+    {
+      "text": "Oh",
+      "start": 735.26,
+      "duration": 2.0
+    },
+    {
+      "text": "Maybe you get three reboots. Is that possible? I don't know because it wasn't at its peak when that happened",
+      "start": 740.78,
+      "duration": 4.8
+    },
+    {
+      "text": "Was it I don't know",
+      "start": 746.82,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay, wait is the door you can see through the hallway and the I",
+      "start": 753.94,
+      "duration": 4.92
+    },
+    {
+      "text": "Just tried that yeah, okay",
+      "start": 760.58,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, it's not no",
+      "start": 762.58,
+      "duration": 2.0
+    },
+    {
+      "text": "That is rang",
+      "start": 766.14,
+      "duration": 2.0
+    },
+    {
+      "text": "Very so is the ketchup behind the pizza box? Yeah",
+      "start": 769.78,
+      "duration": 3.36
+    },
+    {
+      "text": "Yeah, heart is too hard Aaron. It's a little difficult. It's a little difficult",
+      "start": 774.58,
+      "duration": 6.24
+    },
+    {
+      "text": "Just gonna say right now, ah",
+      "start": 782.78,
+      "duration": 2.0
+    },
+    {
+      "text": "Hi, I think that's the end of the game. I think so. I'm rebooting. I'm rebooting.",
+      "start": 784.78,
+      "duration": 12.0
+    },
+    {
+      "text": "This is a nightmare, I wish it would just let us end the night",
+      "start": 798.5,
+      "duration": 2.44
+    },
+    {
+      "text": "Yeah, it's like I don't know I",
+      "start": 803.62,
+      "duration": 2.0
+    },
+    {
+      "text": "Almost like want to restart just to see like the normal",
+      "start": 806.3,
+      "duration": 2.72
+    },
+    {
+      "text": "States of everything, you know. Mm-hmm. I'm so used to what it is now, but I'm probably used to things that are wrong",
+      "start": 809.02,
+      "duration": 6.48
+    },
+    {
+      "text": "That's why those those first 15 seconds are so important I know but it's like I can't take in enough",
+      "start": 817.7,
+      "duration": 5.88
+    },
+    {
+      "text": "So you kind of have to like choose one",
+      "start": 823.58,
+      "duration": 2.0
+    },
+    {
+      "text": "And the things are coming to laugh at us every fucking five minutes until 6 a.m.",
+      "start": 828.86,
+      "duration": 4.48
+    },
+    {
+      "text": "I don't even know what the fuck is wrong, dude. I have no idea. No, I'm stumped. Oh,",
+      "start": 833.34,
+      "duration": 6.0
+    },
+    {
+      "text": "Things are missing from that shelf. It's missing",
+      "start": 839.5,
+      "duration": 2.88
+    },
+    {
+      "text": "disappearance",
+      "start": 842.94,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm gonna kiss your dad tomorrow. Please don't but if I don't then don't be mad I",
+      "start": 846.78,
+      "duration": 7.44
+    },
+    {
+      "text": "Keep my promises",
+      "start": 854.98,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm gonna keep my promises. I'm gonna keep the other in here cuz like why the fuck not right? Yeah, it's like",
+      "start": 856.98,
+      "duration": 7.88
+    },
+    {
+      "text": "You gotta be bumping me",
+      "start": 864.86,
+      "duration": 2.0
+    },
+    {
+      "text": "That's a different pizza, yeah. Yeah. Oh, wow. Yeah, that's a Gieger pizza",
+      "start": 869.22,
+      "duration": 4.84
+    },
+    {
+      "text": "Hr. Gizza",
+      "start": 877.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, hello camera now funky",
+      "start": 879.66,
+      "duration": 5.9
+    },
+    {
+      "text": "Camera malfunction key. Oh",
+      "start": 887.38,
+      "duration": 2.0
+    },
+    {
+      "text": "God oh god",
+      "start": 892.5,
+      "duration": 2.46
+    },
+    {
+      "text": "Please don't tease me",
+      "start": 897.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah",
+      "start": 900.66,
+      "duration": 1.28
+    },
+    {
+      "text": "Please don't tease me. Oh",
+      "start": 901.94,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, no, oh the picture on the side, that's I don't want that pizza either",
+      "start": 903.94,
+      "duration": 6.36
+    },
+    {
+      "text": "I'm partial to it",
+      "start": 913.62,
+      "duration": 2.0
+    },
+    {
+      "text": "Was this always open yes",
+      "start": 918.86,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, he he he he try picture on that room with seven pictures",
+      "start": 920.86,
+      "duration": 8.6
+    },
+    {
+      "text": "I've been doing that the whole oh really like just give it a shot every now and then hair just doesn't care",
+      "start": 930.7,
+      "duration": 5.84
+    },
+    {
+      "text": "No",
+      "start": 939.02,
+      "duration": 1.76
+    },
+    {
+      "text": "Shit, I know big big what's big can't beer big can't can is big can is big",
+      "start": 940.78,
+      "duration": 6.62
+    },
+    {
+      "text": "Oh",
+      "start": 947.4,
+      "duration": 2.0
+    },
+    {
+      "text": "Pizza is this a light anomaly probably not but whatever give it a shot",
+      "start": 957.76,
+      "duration": 3.9
+    },
+    {
+      "text": "It's like I'm not losing anything. No no and there's so much to gain",
+      "start": 962.68,
+      "duration": 4.6
+    },
+    {
+      "text": "Presence open open",
+      "start": 969.78,
+      "duration": 2.0
+    },
+    {
+      "text": "Does that count as an opening I think so I mean it is open or movement if not that",
+      "start": 971.78,
+      "duration": 5.48
+    },
+    {
+      "text": "We should win a streamy for most smartest oh, we're about to lose",
+      "start": 987.48,
+      "duration": 5.26
+    },
+    {
+      "text": "YouTube help us out Oh pictures different pictures. Yeah, finally",
+      "start": 992.74,
+      "duration": 8.06
+    },
+    {
+      "text": "That should be seven poorly drawn heads of ugly children",
+      "start": 1002.42,
+      "duration": 4.04
+    },
+    {
+      "text": "You're so right Dan of course oh",
+      "start": 1008.78,
+      "duration": 2.76
+    },
+    {
+      "text": "I",
+      "start": 1012.42,
+      "duration": 1.4
+    },
+    {
+      "text": "Don't know disappearance. Why not let's just start fucking going crazy this one something changed as I move to it hmm. Oh",
+      "start": 1013.82,
+      "duration": 7.2
+    },
+    {
+      "text": "Oh, that's big. That's big. That is big. That is big",
+      "start": 1021.02,
+      "duration": 4.08
+    },
+    {
+      "text": "Big hat hat is big",
+      "start": 1026.82,
+      "duration": 2.0
+    },
+    {
+      "text": "So smart, thank you, that's why you won that streamy I did yeah, you won the streamy for most smartest YouTube",
+      "start": 1030.02,
+      "duration": 7.16
+    },
+    {
+      "text": "Well I'd like to thank the Academy",
+      "start": 1038.9,
+      "duration": 2.52
+    },
+    {
+      "text": "Lots of performance",
+      "start": 1043.02,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm gonna kiss everybody in the room",
+      "start": 1045.02,
+      "duration": 4.32
+    },
+    {
+      "text": "Everybody except or where what door door closed in the room",
+      "start": 1052.14,
+      "duration": 3.62
+    },
+    {
+      "text": "Thank you. Good job. Don't know what?",
+      "start": 1056.94,
+      "duration": 3.32
+    },
+    {
+      "text": "It's like skirting on the edge, it's like dangling your wiener over a cup of salsa",
+      "start": 1063.14,
+      "duration": 6.92
+    },
+    {
+      "text": "Um you don't know when it's gonna happen, but you know when you do. It's gonna be spicy",
+      "start": 1070.06,
+      "duration": 6.08
+    },
+    {
+      "text": "Swinging too fast on I'm sorry. I'm just I'm sorry, but I'm sorry I understand I understand",
+      "start": 1079.9,
+      "duration": 5.44
+    },
+    {
+      "text": "It's like what I can't I?",
+      "start": 1086.06,
+      "duration": 1.64
+    },
+    {
+      "text": "Look at things and I see them and I look at them",
+      "start": 1087.7,
+      "duration": 2.12
+    },
+    {
+      "text": "And I can't see them",
+      "start": 1089.82,
+      "duration": 0.84
+    },
+    {
+      "text": "And I don't know what they are and I look at them just strange, and I'm confused and scared and I want to pee",
+      "start": 1090.66,
+      "duration": 4.64
+    },
+    {
+      "text": "maybe picture",
+      "start": 1096.58,
+      "duration": 2.0
+    },
+    {
+      "text": "It's not blood yes, yes, I was like something's different something's different",
+      "start": 1098.58,
+      "duration": 4.76
+    },
+    {
+      "text": "Bled I but",
+      "start": 1107.7,
+      "duration": 2.36
+    },
+    {
+      "text": "Shovels tiny shovels tiny tiny shovel. God you're amazing",
+      "start": 1111.78,
+      "duration": 5.3
+    },
+    {
+      "text": "Okay",
+      "start": 1123.58,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay, all right. Oh god. Just please let us get down to a relaxed heart rate just once oh",
+      "start": 1125.58,
+      "duration": 7.32
+    },
+    {
+      "text": "We're all the way there again",
+      "start": 1134.66,
+      "duration": 2.36
+    },
+    {
+      "text": "Did you don't like make daddy scared",
+      "start": 1139.82,
+      "duration": 3.94
+    },
+    {
+      "text": "Go back to the room full heads room full of heads fuck nevermind",
+      "start": 1145.82,
+      "duration": 5.0
+    },
+    {
+      "text": "Okay, something seems off though. This is rotated a little bit. Okay. Yeah movement",
+      "start": 1150.82,
+      "duration": 6.88
+    },
+    {
+      "text": "No, maybe I'm wrong. He's God",
+      "start": 1158.46,
+      "duration": 2.0
+    },
+    {
+      "text": "Skew PTP",
+      "start": 1162.3,
+      "duration": 2.0
+    },
+    {
+      "text": "Shit, oh god. We're going to failed and we're so close and we're going to know",
+      "start": 1164.54,
+      "duration": 5.24
+    },
+    {
+      "text": "What's her door here? Yes? Oh was there no maybe oh god?",
+      "start": 1170.7,
+      "duration": 5.12
+    },
+    {
+      "text": "No, oh",
+      "start": 1176.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Hurry up a pen pen pen pen fuck pen late",
+      "start": 1178.66,
+      "duration": 4.52
+    },
+    {
+      "text": "Pen damn you",
+      "start": 1184.78,
+      "duration": 2.0
+    },
+    {
+      "text": "God we were so close",
+      "start": 1188.06,
+      "duration": 2.0
+    },
+    {
+      "text": "30 anomalies we did really well actually oh god. We were like five minutes away",
+      "start": 1190.42,
+      "duration": 6.2
+    },
+    {
+      "text": "Should we go again? Fuck yeah?",
+      "start": 1197.58,
+      "duration": 2.16
+    },
+    {
+      "text": "All right, yeah skim through quick and all right",
+      "start": 1201.74,
+      "duration": 2.84
+    },
+    {
+      "text": "Okay",
+      "start": 1204.58,
+      "duration": 2.0
+    },
+    {
+      "text": "And the fan move quickly quickly, okay, okay?",
+      "start": 1208.02,
+      "duration": 2.56
+    },
+    {
+      "text": "Uh-huh everything looks the same hurry",
+      "start": 1215.82,
+      "duration": 2.04
+    },
+    {
+      "text": "Okay fine, okay",
+      "start": 1220.86,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay",
+      "start": 1224.14,
+      "duration": 1.52
+    },
+    {
+      "text": "The wood was just bigger. Yes. Oh, it was a resize. Yeah, okay, all right",
+      "start": 1225.66,
+      "duration": 5.32
+    },
+    {
+      "text": "Oh farge, okay, okay extra. Yeah, he'd fuck him for eating",
+      "start": 1230.98,
+      "duration": 6.4
+    },
+    {
+      "text": "This bastard",
+      "start": 1239.7,
+      "duration": 2.0
+    },
+    {
+      "text": "What is the order post made to this place god, that's why we could never get it down below",
+      "start": 1242.58,
+      "duration": 5.28
+    },
+    {
+      "text": "Uh whatever because the dude's cup was going crazy overfloweth something's amiss",
+      "start": 1247.86,
+      "duration": 15.04
+    },
+    {
+      "text": "Go back is that a note on the floor is that it has always been there. That's always oh wow really",
+      "start": 1269.78,
+      "duration": 6.28
+    },
+    {
+      "text": "Yeah, hmm. I learned something",
+      "start": 1276.06,
+      "duration": 2.32
+    },
+    {
+      "text": "Nothing strange just",
+      "start": 1283.82,
+      "duration": 2.0
+    },
+    {
+      "text": "Can we is that light in the background in the through the door could we always see that this yeah the party room well",
+      "start": 1286.5,
+      "duration": 7.0
+    },
+    {
+      "text": "That was the last time yeah. Well. There's a Sun in that thing what in the back. Oh",
+      "start": 1293.5,
+      "duration": 4.48
+    },
+    {
+      "text": "Yeah, I don't even know what that is drawing",
+      "start": 1298.54,
+      "duration": 2.96
+    },
+    {
+      "text": "Wow, that was good on you. Oh, that's speaker. Oh, yeah speaker big",
+      "start": 1301.5,
+      "duration": 6.24
+    },
+    {
+      "text": "Okay, it didn't give us credit for the Sun thing, but that's definitely new it's lighting then right yeah, probably yeah, let's try that",
+      "start": 1310.14,
+      "duration": 6.64
+    },
+    {
+      "text": "Late anomaly not this trick again",
+      "start": 1319.26,
+      "duration": 3.12
+    },
+    {
+      "text": "Not this trick again were those plates always there yes our come on man",
+      "start": 1322.38,
+      "duration": 7.28
+    },
+    {
+      "text": "What is it with the light with the Sun in the room? Are you sure that's new? I never saw it before with extra object",
+      "start": 1329.66,
+      "duration": 7.12
+    },
+    {
+      "text": "door door",
+      "start": 1337.58,
+      "duration": 2.0
+    },
+    {
+      "text": "Hodor door is gone door gone",
+      "start": 1340.22,
+      "duration": 3.12
+    },
+    {
+      "text": "And then door",
+      "start": 1345.98,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, it was not the Sun has that always been there I",
+      "start": 1347.98,
+      "duration": 6.32
+    },
+    {
+      "text": "Mean I try feel like I'm taking crazy pills",
+      "start": 1355.74,
+      "duration": 2.16
+    },
+    {
+      "text": "It fixed something there was some extra object there. It was all right",
+      "start": 1359.18,
+      "duration": 5.08
+    },
+    {
+      "text": "Wait oh his chair was small that's why",
+      "start": 1366.7,
+      "duration": 3.24
+    },
+    {
+      "text": "Oh, okay, that's weird so it was a resize sure was we got lucky",
+      "start": 1369.94,
+      "duration": 7.6
+    },
+    {
+      "text": "We got lucky like twice monkey blood monkey blood from the monkey head",
+      "start": 1377.54,
+      "duration": 4.8
+    },
+    {
+      "text": "Object",
+      "start": 1394.02,
+      "duration": 2.0
+    },
+    {
+      "text": "Something new I",
+      "start": 1396.02,
+      "duration": 3.04
+    },
+    {
+      "text": "Will say this game doesn't jump scare you quite as much as I'm on observation duty true dat dawg. I mean oh",
+      "start": 1400.1,
+      "duration": 6.8
+    },
+    {
+      "text": "Extra plank under the planks no those that's always been there. Yeah, you mean to tell me",
+      "start": 1407.74,
+      "duration": 5.48
+    },
+    {
+      "text": "With a straight goddamn face. I'll report it all right",
+      "start": 1413.98,
+      "duration": 3.28
+    },
+    {
+      "text": "It's always been there, bro. Oh God my stomach is churning",
+      "start": 1417.26,
+      "duration": 12.48
+    },
+    {
+      "text": "My urethra is yearning for what exactly for P",
+      "start": 1431.14,
+      "duration": 5.92
+    },
+    {
+      "text": "Huh",
+      "start": 1438.94,
+      "duration": 1.36
+    },
+    {
+      "text": "was the",
+      "start": 1440.3,
+      "duration": 1.76
+    },
+    {
+      "text": "Second was the first beer can always turned away like that. Yeah, I think so, okay?",
+      "start": 1442.06,
+      "duration": 5.72
+    },
+    {
+      "text": "Yeah, I feel like with hard mode they're like doing a little subtler with the changes yeah for sure blood on the painting",
+      "start": 1449.9,
+      "duration": 5.64
+    },
+    {
+      "text": "That is so subtle. That's what I thought, but I don't I think that's part of the painting is it really yeah, yeah",
+      "start": 1455.54,
+      "duration": 4.52
+    },
+    {
+      "text": "Shit, I mean I at least said that before",
+      "start": 1461.5,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, yeah, oh",
+      "start": 1463.5,
+      "duration": 4.0
+    },
+    {
+      "text": "Hello hello there other",
+      "start": 1468.9,
+      "duration": 3.48
+    },
+    {
+      "text": "Don't want to look at your scary face number",
+      "start": 1473.34,
+      "duration": 2.0
+    },
+    {
+      "text": "maybe maybe when that",
+      "start": 1476.22,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughing bear shows up, and you have to reboot it. Just like wastes your time. Oh, yeah, maybe",
+      "start": 1479.14,
+      "duration": 5.16
+    },
+    {
+      "text": "I feel like I never really paid attention to the left side of this",
+      "start": 1484.3,
+      "duration": 8.24
+    },
+    {
+      "text": "Wasn't there something on the ground next to the shovel?",
+      "start": 1493.3,
+      "duration": 2.56
+    },
+    {
+      "text": "Try missing object mmm. Do it for daddy",
+      "start": 1496.94,
+      "duration": 3.2
+    },
+    {
+      "text": "disappearance",
+      "start": 1501.26,
+      "duration": 2.0
+    },
+    {
+      "text": "Rowing and rowing and rowing and rowing row that goddamn boat I",
+      "start": 1508.3,
+      "duration": 3.4
+    },
+    {
+      "text": "I",
+      "start": 1511.7,
+      "duration": 1.56
+    },
+    {
+      "text": "Don't know that there's anything",
+      "start": 1513.26,
+      "duration": 2.16
+    },
+    {
+      "text": "I mean there's very little wrong like the heart rates at a good spot",
+      "start": 1516.82,
+      "duration": 3.92
+    },
+    {
+      "text": "It's just one thing that we're missing well geese while",
+      "start": 1522.86,
+      "duration": 3.98
+    },
+    {
+      "text": "Did the",
+      "start": 1530.84,
+      "duration": 1.42
+    },
+    {
+      "text": "Go back to the headroom",
+      "start": 1532.26,
+      "duration": 2.0
+    },
+    {
+      "text": "Do you always have an open mouth the purple one this one? Yeah? Yeah? I think so. Okay great. What would that be opening? Yeah?",
+      "start": 1534.26,
+      "duration": 8.2
+    },
+    {
+      "text": "Merrily merrily merrily merrily life is by dream shit",
+      "start": 1545.46,
+      "duration": 4.24
+    },
+    {
+      "text": "Following oh",
+      "start": 1551.42,
+      "duration": 2.0
+    },
+    {
+      "text": "That's the camera malfunction. I think one of the seven pictures is a little different. No, maybe not try it anyway",
+      "start": 1553.46,
+      "duration": 7.64
+    },
+    {
+      "text": "This one the one below it felt different, but that one I always remember, okay",
+      "start": 1561.1,
+      "duration": 5.48
+    },
+    {
+      "text": "Oopy-doopy Oh planks gone yeah",
+      "start": 1570.74,
+      "duration": 3.04
+    },
+    {
+      "text": "That whole that whole bench is there is gone rather that sticks out of the wall yeah",
+      "start": 1576.7,
+      "duration": 5.36
+    },
+    {
+      "text": "Well, it was just a plank",
+      "start": 1583.3,
+      "duration": 2.0
+    },
+    {
+      "text": "I stick it out of the wall. Yeah, yeah, yeah, oh it moved. I say I say",
+      "start": 1585.3,
+      "duration": 6.52
+    },
+    {
+      "text": "Big hat hat is big Oh hat is big",
+      "start": 1596.42,
+      "duration": 3.04
+    },
+    {
+      "text": "Funny big hat big hat funny big hat fun having fun at Freddy's big hat make me smile",
+      "start": 1601.9,
+      "duration": 7.36
+    },
+    {
+      "text": "Smiling cause a big hat",
+      "start": 1611.34,
+      "duration": 2.0
+    },
+    {
+      "text": "a",
+      "start": 1613.34,
+      "duration": 1.44
+    },
+    {
+      "text": "big hat",
+      "start": 1614.78,
+      "duration": 1.76
+    },
+    {
+      "text": "Just like you pretty cool",
+      "start": 1616.54,
+      "duration": 2.0
+    },
+    {
+      "text": "big cat",
+      "start": 1619.74,
+      "duration": 1.6
+    },
+    {
+      "text": "big hat",
+      "start": 1621.34,
+      "duration": 2.0
+    },
+    {
+      "text": "That's good big plank big plank plank is big",
+      "start": 1623.9,
+      "duration": 4.76
+    },
+    {
+      "text": "You're just like going home, how was your day big plank plank is big",
+      "start": 1632.42,
+      "duration": 4.4
+    },
+    {
+      "text": "Sleep time bed normal size",
+      "start": 1636.82,
+      "duration": 4.2
+    },
+    {
+      "text": "Click light anomaly",
+      "start": 1645.1,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah does that",
+      "start": 1653.66,
+      "duration": 1.76
+    },
+    {
+      "text": "Something feels weird about what I would just do it. Yeah pictures. I don't know good enough for me",
+      "start": 1655.42,
+      "duration": 6.44
+    },
+    {
+      "text": "Okay, something feels weird",
+      "start": 1661.86,
+      "duration": 3.52
+    },
+    {
+      "text": "Fuck what nothing okay? I'm not there's no way. Oh planks. We're gone. Don't play planks planks are gone place gone under beer yes",
+      "start": 1668.18,
+      "duration": 7.62
+    },
+    {
+      "text": "Plank on gone is plank plank plank on we're plank oh",
+      "start": 1678.34,
+      "duration": 4.3
+    },
+    {
+      "text": "Is that fridge freezer door closed now it is",
+      "start": 1683.9,
+      "duration": 2.84
+    },
+    {
+      "text": "Brodeo my god, you're so servant. Oh, we're doing well. This is going much better this time",
+      "start": 1686.74,
+      "duration": 7.16
+    },
+    {
+      "text": "Yeah, dude. We're killing it now. Now. We have a feel for the rooms, dude. I'm so happy",
+      "start": 1693.9,
+      "duration": 4.32
+    },
+    {
+      "text": "I could kiss you. I will kiss you don't ask me to not kiss you. I will kiss you",
+      "start": 1698.22,
+      "duration": 5.32
+    },
+    {
+      "text": "great a",
+      "start": 1704.98,
+      "duration": 1.68
+    },
+    {
+      "text": "lot of good options",
+      "start": 1706.66,
+      "duration": 1.8
+    },
+    {
+      "text": "picture is different",
+      "start": 1708.46,
+      "duration": 2.0
+    },
+    {
+      "text": "different picture",
+      "start": 1710.5,
+      "duration": 1.48
+    },
+    {
+      "text": "See this is why I always want to kiss you",
+      "start": 1711.98,
+      "duration": 2.68
+    },
+    {
+      "text": "Thank this exact thing he his pay. It's the picture from the other room",
+      "start": 1714.66,
+      "duration": 4.56
+    },
+    {
+      "text": "What see that picture in the background through the door that was what was over his thing. They moved around look at that. That's cute",
+      "start": 1720.22,
+      "duration": 7.84
+    },
+    {
+      "text": "It's okay. Oh, oh",
+      "start": 1729.58,
+      "duration": 2.16
+    },
+    {
+      "text": "I'm gonna diarrhea, okay",
+      "start": 1734.58,
+      "duration": 2.48
+    },
+    {
+      "text": "There's there's still time oh dear other I guess other what for the Chuck E. Cheese guy he didn't he's",
+      "start": 1737.06,
+      "duration": 10.2
+    },
+    {
+      "text": "Little wiggle I'll file that under miscellaneous. I mean that's movement, dude",
+      "start": 1752.3,
+      "duration": 4.0
+    },
+    {
+      "text": "In the logic of the game, okay, it didn't follow the rules",
+      "start": 1756.3,
+      "duration": 11.08
+    },
+    {
+      "text": "pipes",
+      "start": 1768.7,
+      "duration": 2.0
+    },
+    {
+      "text": "No",
+      "start": 1771.1,
+      "duration": 1.56
+    },
+    {
+      "text": "There's always been to buy has been to why to pipe is though",
+      "start": 1772.66,
+      "duration": 3.92
+    },
+    {
+      "text": "There's only one type of water to carry away all the pizza shits that people",
+      "start": 1776.58,
+      "duration": 4.04
+    },
+    {
+      "text": "Thank you. You're a pizza. She's nice. Oh",
+      "start": 1780.62,
+      "duration": 4.52
+    },
+    {
+      "text": "Clicky clicky clicky um",
+      "start": 1789.5,
+      "duration": 3.24
+    },
+    {
+      "text": "Don't be so picky start with a clicky",
+      "start": 1794.18,
+      "duration": 2.52
+    },
+    {
+      "text": "Clicky clicky piggy",
+      "start": 1797.82,
+      "duration": 2.0
+    },
+    {
+      "text": "story Randall's",
+      "start": 1800.06,
+      "duration": 2.0
+    },
+    {
+      "text": "Coming soon to a thing",
+      "start": 1802.34,
+      "duration": 2.0
+    },
+    {
+      "text": "Missing objects was this always just two beers. Yeah, just try it",
+      "start": 1804.34,
+      "duration": 5.54
+    },
+    {
+      "text": "Does the door mean it's like a clock time or does it yeah, I mean, okay a new hour",
+      "start": 1814.76,
+      "duration": 4.72
+    },
+    {
+      "text": "Very relaxing very lovely just like the power hour",
+      "start": 1820.88,
+      "duration": 3.12
+    },
+    {
+      "text": "Oh, yeah YouTube show you should go and subscribe to the grumps freshest borf",
+      "start": 1824.0,
+      "duration": 8.8
+    },
+    {
+      "text": "Cleanest dumpster door open open his door and speaking of which",
+      "start": 1834.36,
+      "duration": 5.4
+    },
+    {
+      "text": "Going to the grumps you should go to cameo comm slash hello",
+      "start": 1840.32,
+      "duration": 4.28
+    },
+    {
+      "text": "I'm Aaron get a cameo from your boy Aaron Aaron, please don't pimp your stuff right now",
+      "start": 1844.6,
+      "duration": 5.56
+    },
+    {
+      "text": "It's not the right time especially when people could also go to cameo comm slash Dan Avedon",
+      "start": 1850.16,
+      "duration": 4.82
+    },
+    {
+      "text": "You're so right",
+      "start": 1857.4,
+      "duration": 2.0
+    },
+    {
+      "text": "No no extra it's an extra chair what it's an extra chair, what do you mean?",
+      "start": 1870.24,
+      "duration": 3.72
+    },
+    {
+      "text": "It's an extra chair in the bloodstain they moved well move didn't work. No. It did it is like it worked",
+      "start": 1873.96,
+      "duration": 5.6
+    },
+    {
+      "text": "It worked",
+      "start": 1879.56,
+      "duration": 2.0
+    },
+    {
+      "text": "There's the eyes don't love those eyes, I don't love those",
+      "start": 1884.16,
+      "duration": 5.74
+    },
+    {
+      "text": "Who are these puppets look at them looking through my soul?",
+      "start": 1890.76,
+      "duration": 3.96
+    },
+    {
+      "text": "I",
+      "start": 1894.72,
+      "duration": 2.0
+    },
+    {
+      "text": "Got a pee and it opened up my weenie gotta pee",
+      "start": 1898.04,
+      "duration": 4.2
+    },
+    {
+      "text": "When I pee while stand",
+      "start": 1908.56,
+      "duration": 2.0
+    },
+    {
+      "text": "Well done",
+      "start": 1911.84,
+      "duration": 2.0
+    },
+    {
+      "text": "Was this like this rate this I think like a barcode yeah, I think so is weird Do you kiss your dad with those laps?",
+      "start": 1913.84,
+      "duration": 13.32
+    },
+    {
+      "text": "Wait go back was the plank big no planks normal normal",
+      "start": 1931.56,
+      "duration": 3.6
+    },
+    {
+      "text": "Don't try to convince me plank was big. I'm sorry. I'm sorry",
+      "start": 1937.96,
+      "duration": 2.56
+    },
+    {
+      "text": "Was was there always a door behind the planks?",
+      "start": 1940.52,
+      "duration": 3.96
+    },
+    {
+      "text": "Yeah, okay",
+      "start": 1946.64,
+      "duration": 2.0
+    },
+    {
+      "text": "Door door door behind the planks door door door door door",
+      "start": 1950.28,
+      "duration": 5.56
+    },
+    {
+      "text": "Behind the blue",
+      "start": 1958.16,
+      "duration": 2.0
+    },
+    {
+      "text": "And there's two of them about three in the room the what missing oh, yeah, yeah, it's something nothing on the top shelf",
+      "start": 1960.16,
+      "duration": 7.16
+    },
+    {
+      "text": "There's a lot. There's like one here and here. Yeah",
+      "start": 1967.64,
+      "duration": 3.08
+    },
+    {
+      "text": "Let's see what it looks like when it comes back. They were creaks",
+      "start": 1971.96,
+      "duration": 2.76
+    },
+    {
+      "text": "Yes, yes, right you are all of the cranes were gone and I didn't know what to do. The fridge is too well lit. I can see the pizzas.",
+      "start": 1974.72,
+      "duration": 17.28
+    },
+    {
+      "text": "I think something else happened in here. Yeah our next room over next room over. Oh, yeah",
+      "start": 1992.0,
+      "duration": 5.8
+    },
+    {
+      "text": "Flashlight is on",
+      "start": 1999.24,
+      "duration": 2.0
+    },
+    {
+      "text": "When I can see the pizza",
+      "start": 2001.48,
+      "duration": 2.0
+    },
+    {
+      "text": "Wait wait wait the light is on in this room too through the doors",
+      "start": 2003.48,
+      "duration": 4.52
+    },
+    {
+      "text": "What this all right? It's always like that. Oh those big white strips are always there these yeah, yeah, oh my god",
+      "start": 2008.76,
+      "duration": 6.56
+    },
+    {
+      "text": "All right, well, I'm gonna call a hospital",
+      "start": 2016.32,
+      "duration": 2.0
+    },
+    {
+      "text": "Something's changed",
+      "start": 2018.32,
+      "duration": 2.0
+    },
+    {
+      "text": "Paul blood Oh",
+      "start": 2033.6,
+      "duration": 2.48
+    },
+    {
+      "text": "Stinky smelly warm blood",
+      "start": 2038.04,
+      "duration": 2.0
+    },
+    {
+      "text": "Mm-hmm slurp it up",
+      "start": 2040.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Paul is you in this place?",
+      "start": 2043.04,
+      "duration": 2.4
+    },
+    {
+      "text": "Where is Paul Blart mole cap, it's a war wolf",
+      "start": 2045.44,
+      "duration": 6.12
+    },
+    {
+      "text": "Have you ever seen the werewolf episode of Mystery Science Theater 3000? Big Cup is big",
+      "start": 2052.12,
+      "duration": 4.64
+    },
+    {
+      "text": "Big Cup. I don't I probably have that is one of the funniest I've ever seen",
+      "start": 2057.4,
+      "duration": 4.04
+    },
+    {
+      "text": "I think I've seen like every episode of Mystery Science Theater",
+      "start": 2061.44,
+      "duration": 2.56
+    },
+    {
+      "text": "They're wonderful. It's been a while. The last time I watched it was when we were signing the first Starbomb CDs",
+      "start": 2064.0,
+      "duration": 5.56
+    },
+    {
+      "text": "I mean there were the people we patterned our careers after yeah, that's true. I",
+      "start": 2069.56,
+      "duration": 3.28
+    },
+    {
+      "text": "I",
+      "start": 2072.84,
+      "duration": 1.6
+    },
+    {
+      "text": "literally just showed a",
+      "start": 2074.44,
+      "duration": 1.84
+    },
+    {
+      "text": "Showed someone the the stream that we did where we did game grumps with oh yeah",
+      "start": 2076.28,
+      "duration": 4.32
+    },
+    {
+      "text": "We met Joel a pizza exit extra pizza pizza is here. Yeah",
+      "start": 2080.6,
+      "duration": 4.6
+    },
+    {
+      "text": "And we did game graphs with crow with the like the little silhouette. That was really fun so fun",
+      "start": 2085.92,
+      "duration": 4.32
+    },
+    {
+      "text": "Yeah, we did that shit. That was seven years ago. I gotta like write that shit down",
+      "start": 2090.24,
+      "duration": 4.0
+    },
+    {
+      "text": "I just like forget it, and I'm like man. How could I forget that if it weren't for Instagram?",
+      "start": 2094.24,
+      "duration": 4.24
+    },
+    {
+      "text": "I would have forgotten the last eight years of my life. What the fuck?",
+      "start": 2098.48,
+      "duration": 5.0
+    },
+    {
+      "text": "Well, what's that because there's like a sound is that a thing what just like sound I",
+      "start": 2105.04,
+      "duration": 6.52
+    },
+    {
+      "text": "Don't think I can't be right. No. I don't believe that to be true one bit",
+      "start": 2112.68,
+      "duration": 5.56
+    },
+    {
+      "text": "Things you know what things have been much calmer this round well. We've been like really on top",
+      "start": 2120.32,
+      "duration": 4.72
+    },
+    {
+      "text": "Yeah, I think we just know I were less freaked out to every time doll plates",
+      "start": 2125.04,
+      "duration": 5.16
+    },
+    {
+      "text": "Plates have moved or they're new they're new yeah, they're new okay, so those were new last time, huh?",
+      "start": 2132.24,
+      "duration": 5.38
+    },
+    {
+      "text": "Okay",
+      "start": 2139.68,
+      "duration": 2.0
+    },
+    {
+      "text": "Good",
+      "start": 2142.28,
+      "duration": 2.0
+    },
+    {
+      "text": "To the pictures good all right all right all right other other",
+      "start": 2144.28,
+      "duration": 6.2
+    },
+    {
+      "text": "Christmas that wasn't very Christmassy at all",
+      "start": 2151.72,
+      "duration": 3.0
+    },
+    {
+      "text": "Have a holly jolly monkey",
+      "start": 2158.68,
+      "duration": 2.92
+    },
+    {
+      "text": "He's laughing in your face",
+      "start": 2162.52,
+      "duration": 2.28
+    },
+    {
+      "text": "Skip scops Gabby Dibby doop dab dabby doom be dim damn",
+      "start": 2166.0,
+      "duration": 3.84
+    },
+    {
+      "text": "my ass",
+      "start": 2170.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh",
+      "start": 2172.66,
+      "duration": 2.0
+    },
+    {
+      "text": "We do was there movement in the hats that are closest to us",
+      "start": 2181.22,
+      "duration": 3.16
+    },
+    {
+      "text": "Like we're weren't they more evenly distributed. I might be losing my mind what these yeah, Oh present open",
+      "start": 2185.34,
+      "duration": 7.28
+    },
+    {
+      "text": "Why thank you",
+      "start": 2193.52,
+      "duration": 1.62
+    },
+    {
+      "text": "You I know you're trying to give me a present",
+      "start": 2195.14,
+      "duration": 3.92
+    },
+    {
+      "text": "Oh",
+      "start": 2199.06,
+      "duration": 2.0
+    },
+    {
+      "text": "What's inside it's existential horror",
+      "start": 2202.0,
+      "duration": 3.04
+    },
+    {
+      "text": "Maybe something missing here",
+      "start": 2205.64,
+      "duration": 1.6
+    },
+    {
+      "text": "Let's just try some willy-nilly shit because this is baseline for us and that means there's something wrong that we're getting acclimated to that",
+      "start": 2207.24,
+      "duration": 6.8
+    },
+    {
+      "text": "We didn't realize was wrong",
+      "start": 2214.9,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay",
+      "start": 2216.96,
+      "duration": 2.0
+    },
+    {
+      "text": "Holy jelly Christmas you",
+      "start": 2218.96,
+      "duration": 4.24
+    },
+    {
+      "text": "I'm nervous. Oh pizza large pizza man in on right poster is pizza. Oh",
+      "start": 2226.28,
+      "duration": 6.92
+    },
+    {
+      "text": "Pizza large pizza man on right poster is pizza Dan evident. Yeah, 22 put it on my tombstone",
+      "start": 2235.96,
+      "duration": 6.9
+    },
+    {
+      "text": "Oh",
+      "start": 2242.86,
+      "duration": 2.0
+    },
+    {
+      "text": "Plate move plate move move movie plate",
+      "start": 2247.22,
+      "duration": 3.88
+    },
+    {
+      "text": "This Chuck E. Cheese is under control was that Sun always there. I don't know",
+      "start": 2256.3,
+      "duration": 6.82
+    },
+    {
+      "text": "what if we beat this let's come back and",
+      "start": 2263.64,
+      "duration": 3.86
+    },
+    {
+      "text": "Restart it just to see if that's how the Sun just is wait",
+      "start": 2267.5,
+      "duration": 4.52
+    },
+    {
+      "text": "Go back. Oh was that present always there the this one. Yeah. Yes, okay",
+      "start": 2273.42,
+      "duration": 6.16
+    },
+    {
+      "text": "Skipper",
+      "start": 2282.18,
+      "duration": 1.44
+    },
+    {
+      "text": "Well, I got half an hour to go man. What is like shine always here that now we're getting very",
+      "start": 2283.62,
+      "duration": 5.56
+    },
+    {
+      "text": "Nitty picky man. I don't know. I mean it's on hard. Oh pizza demon pizza in poster",
+      "start": 2290.18,
+      "duration": 5.48
+    },
+    {
+      "text": "Oh",
+      "start": 2295.66,
+      "duration": 1.86
+    },
+    {
+      "text": "Pizza demon pizza in poster. Mm-hmm indeed, Dan",
+      "start": 2297.52,
+      "duration": 4.9
+    },
+    {
+      "text": "Yeah, I think if there's one thing we can all relate to has his fan moved at all",
+      "start": 2302.42,
+      "duration": 5.48
+    },
+    {
+      "text": "No, is it further left than it was? I don't think ever so slightly I can try it",
+      "start": 2307.9,
+      "duration": 4.84
+    },
+    {
+      "text": "But I don't think it's gonna be",
+      "start": 2313.26,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh",
+      "start": 2315.26,
+      "duration": 2.0
+    },
+    {
+      "text": "Blood there's blood in the pot",
+      "start": 2325.94,
+      "duration": 2.3
+    },
+    {
+      "text": "Just like La Cucaracha",
+      "start": 2330.34,
+      "duration": 1.8
+    },
+    {
+      "text": "Is that bear in space different bear in space with the balloons with yeah has he always been there",
+      "start": 2332.14,
+      "duration": 6.84
+    },
+    {
+      "text": "Ah, let's try a shot. Let's give it a shot. You know, I think he was but you know, who knows nobody can ever know feels new",
+      "start": 2338.98,
+      "duration": 6.76
+    },
+    {
+      "text": "to me",
+      "start": 2345.74,
+      "duration": 1.84
+    },
+    {
+      "text": "Shit, wait, did we get one for the moving one? I?",
+      "start": 2347.58,
+      "duration": 2.52
+    },
+    {
+      "text": "Don't know. What's that? What just happened? No. No, we got one for something else. We did like an obvious thing Oh",
+      "start": 2351.18,
+      "duration": 5.48
+    },
+    {
+      "text": "New head who dis",
+      "start": 2358.06,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, it says hey it says hat",
+      "start": 2360.06,
+      "duration": 6.8
+    },
+    {
+      "text": "They misspelled hat it's stupid",
+      "start": 2368.62,
+      "duration": 2.68
+    },
+    {
+      "text": "We did really well that time",
+      "start": 2375.98,
+      "duration": 2.0
+    },
+    {
+      "text": "Good job everyone. Thank you",
+      "start": 2379.7,
+      "duration": 2.0
+    },
+    {
+      "text": "Thank you me and you do you want to do one more of these do one? I'm really enjoying this. What the fuck?",
+      "start": 2382.14,
+      "duration": 5.0
+    },
+    {
+      "text": "Hey, all right. Next time on Game Grumps. Let's get out of here",
+      "start": 2387.14,
+      "duration": 2.64
+    },
+    {
+      "text": "Bruh",
+      "start": 2391.38,
+      "duration": 2.0
+    },
+    {
+      "text": "broke",
+      "start": 2393.38,
+      "duration": 28.0
+    }
+  ]
+}

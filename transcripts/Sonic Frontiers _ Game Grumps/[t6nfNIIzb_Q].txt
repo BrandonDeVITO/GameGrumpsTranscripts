@@ -1,0 +1,5978 @@
+{
+  "video_id": "t6nfNIIzb_Q",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Last time on Game Grumps!",
+      "start": 0.0,
+      "duration": 3.22
+    },
+    {
+      "text": "Top 10 anime battles.",
+      "start": 4.9,
+      "duration": 1.52
+    },
+    {
+      "text": "Come on, you f***er.",
+      "start": 6.42,
+      "duration": 1.5
+    },
+    {
+      "text": "Arin vs. Squid.",
+      "start": 7.92,
+      "duration": 2.0
+    },
+    {
+      "text": "He's gonna shoot, he's gonna shoot.",
+      "start": 9.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, he's gonna shoot!",
+      "start": 10.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I d***ed him!",
+      "start": 11.92,
+      "duration": 1.5
+    },
+    {
+      "text": "I'm too close to shutting power!",
+      "start": 13.42,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my god, you're drooling everywhere.",
+      "start": 15.42,
+      "duration": 2.0
+    },
+    {
+      "text": "Hey, I'm Grump!",
+      "start": 17.42,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm not so Grump!",
+      "start": 18.42,
+      "duration": 1.5
+    },
+    {
+      "text": "And we're the Game Grumps!",
+      "start": 19.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Hello!",
+      "start": 22.92,
+      "duration": 1.5
+    },
+    {
+      "text": "Welcome to Game Grumps.",
+      "start": 24.42,
+      "duration": 1.5
+    },
+    {
+      "text": "Arin is currently locked in combat with this squid.",
+      "start": 25.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Squid is my arch-rival right now.",
+      "start": 30.92,
+      "duration": 3.0
+    },
+    {
+      "text": "You've been at it for quite some time.",
+      "start": 33.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Probably days.",
+      "start": 35.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I've been trying to catch squid.",
+      "start": 37.92,
+      "duration": 2.0
+    },
+    {
+      "text": "However long it's been since you saw the last Sonic Frontiers episode.",
+      "start": 39.92,
+      "duration": 4.0
+    },
+    {
+      "text": "That's how long Arin's been sitting here.",
+      "start": 43.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Just squiddin' away.",
+      "start": 46.92,
+      "duration": 2.0
+    },
+    {
+      "text": "With a cup of coffee and a pack of cigs.",
+      "start": 48.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I wish.",
+      "start": 50.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Gooning.",
+      "start": 52.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm playing Sonic Patch Ops.",
+      "start": 54.92,
+      "duration": 2.0
+    },
+    {
+      "text": "He's gettin' my goon on, dude.",
+      "start": 56.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, there you go.",
+      "start": 57.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Whoops, I died.",
+      "start": 58.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Okay, try again.",
+      "start": 59.92,
+      "duration": 2.0
+    },
+    {
+      "text": "It's okay.",
+      "start": 61.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Try leveling up Sonic's stats at the Elder Koka.",
+      "start": 62.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Okay.",
+      "start": 65.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I don't want to.",
+      "start": 66.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I know you don't.",
+      "start": 67.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I've already done that.",
+      "start": 68.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You might need to do it again, though.",
+      "start": 69.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Wait, which one's the...",
+      "start": 71.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Which one's the...",
+      "start": 73.92,
+      "duration": 2.0
+    },
+    {
+      "text": "This one.",
+      "start": 75.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Ha!",
+      "start": 77.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Wow.",
+      "start": 78.92,
+      "duration": 1.0
+    },
+    {
+      "text": "So many rings.",
+      "start": 79.92,
+      "duration": 1.0
+    },
+    {
+      "text": "God, you just create matter out of thin air.",
+      "start": 80.92,
+      "duration": 3.0
+    },
+    {
+      "text": "It's quite a gift.",
+      "start": 83.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Whatever you want, you can have.",
+      "start": 84.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, squid.",
+      "start": 85.92,
+      "duration": 2.0
+    },
+    {
+      "text": "What are you doing?",
+      "start": 87.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, I don't know what the different traits are that you can level up.",
+      "start": 92.92,
+      "duration": 5.0
+    },
+    {
+      "text": "I mean, one looks like attack and defense.",
+      "start": 97.92,
+      "duration": 2.0
+    },
+    {
+      "text": "The other looks like an oak arena.",
+      "start": 99.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Speed and ring size.",
+      "start": 102.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Ring size? Yeah.",
+      "start": 106.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Okay, I can have more than 400 rings.",
+      "start": 107.92,
+      "duration": 2.0
+    },
+    {
+      "text": "That might be a decent one to upgrade.",
+      "start": 109.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Because you're currently at the lowest possible.",
+      "start": 112.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, but who cares?",
+      "start": 114.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Well, that might be part of what the problem is.",
+      "start": 115.92,
+      "duration": 5.0
+    },
+    {
+      "text": "No, juke him.",
+      "start": 120.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Juke him.",
+      "start": 121.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, juke him.",
+      "start": 123.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Nice, well done.",
+      "start": 125.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Juke him.",
+      "start": 127.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 128.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow, the game was really trying to figure out what the hell was going on there.",
+      "start": 133.92,
+      "duration": 3.0
+    },
+    {
+      "text": "It's okay.",
+      "start": 136.92,
+      "duration": 2.0
+    },
+    {
+      "text": "It's like, oh, I got to jump on his back, but he hasn't created a back yet,",
+      "start": 138.92,
+      "duration": 3.0
+    },
+    {
+      "text": "so I got to...",
+      "start": 141.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Yeah, fuck you, you fucking weirded wiener.",
+      "start": 144.92,
+      "duration": 5.0
+    },
+    {
+      "text": "That is correct.",
+      "start": 149.92,
+      "duration": 2.0
+    },
+    {
+      "text": "By Anaconda do not want none.",
+      "start": 151.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Unless you've got buns hardened.",
+      "start": 154.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Dude, he's just dropping big flat stinkums.",
+      "start": 157.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Wide flat stinkums.",
+      "start": 160.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Wide flat stinkums.",
+      "start": 161.92,
+      "duration": 2.0
+    },
+    {
+      "text": "That's what he's doing right now.",
+      "start": 163.92,
+      "duration": 2.0
+    },
+    {
+      "text": "It seems like it.",
+      "start": 165.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm just running on his fucking stinkum.",
+      "start": 166.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Come on, shoot your lasers at me.",
+      "start": 169.92,
+      "duration": 2.0
+    },
+    {
+      "text": "See what happens.",
+      "start": 171.92,
+      "duration": 1.0
+    },
+    {
+      "text": "See what happens.",
+      "start": 172.92,
+      "duration": 4.0
+    },
+    {
+      "text": "He'll probably hit me.",
+      "start": 176.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I believe Nicki Minaj said it best when she said,",
+      "start": 178.92,
+      "duration": 4.0
+    },
+    {
+      "text": "by the way, what he say?",
+      "start": 182.92,
+      "duration": 3.0
+    },
+    {
+      "text": "He can tell I ain't missing no meals.",
+      "start": 185.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Come through and fuck him in my automobile.",
+      "start": 187.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Let him with his grills.",
+      "start": 190.92,
+      "duration": 2.0
+    },
+    {
+      "text": "He keep telling me to chill.",
+      "start": 192.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I got the squid.",
+      "start": 194.92,
+      "duration": 1.0
+    },
+    {
+      "text": "He keep telling me it's real, that he love my sex appeal.",
+      "start": 195.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin, congratulations.",
+      "start": 197.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Thanks, man.",
+      "start": 199.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You were too busy fucking listening to Nicki Minjaj.",
+      "start": 200.92,
+      "duration": 2.0
+    },
+    {
+      "text": "He say don't like him boney.",
+      "start": 202.92,
+      "duration": 2.0
+    },
+    {
+      "text": "He want something he can grab.",
+      "start": 204.92,
+      "duration": 2.0
+    },
+    {
+      "text": "So I pulled up in the jag and hit him with the jab.",
+      "start": 206.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Like dun, dun, dun, dun, dun, dun.",
+      "start": 210.92,
+      "duration": 5.0
+    },
+    {
+      "text": "I love Nicki Minaj.",
+      "start": 215.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yes.",
+      "start": 216.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Nicki, Nicki Minjaj.",
+      "start": 218.92,
+      "duration": 5.0
+    },
+    {
+      "text": "My favorite pop star.",
+      "start": 223.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Is she?",
+      "start": 226.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Pop star.",
+      "start": 227.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I don't know.",
+      "start": 228.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I've heard that song.",
+      "start": 229.92,
+      "duration": 2.0
+    },
+    {
+      "text": "So that already gives her a leg up on most other pop stars.",
+      "start": 231.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Pretty much.",
+      "start": 234.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Whoa, whoa, whoa.",
+      "start": 235.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Do you have a favorite pop star?",
+      "start": 236.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Probably Dua Lipa.",
+      "start": 240.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Cool.",
+      "start": 242.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm not familiar with her music.",
+      "start": 243.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I mean, we're talking like modern?",
+      "start": 245.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I guess so.",
+      "start": 247.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Because I would really have to think about it",
+      "start": 248.92,
+      "duration": 2.0
+    },
+    {
+      "text": "if we're talking like of all time.",
+      "start": 250.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Uh.",
+      "start": 253.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Who would be of all time?",
+      "start": 256.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Yo, that's a tough one.",
+      "start": 259.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Dog, that's a sincere tough one.",
+      "start": 260.92,
+      "duration": 3.0
+    },
+    {
+      "text": "It's a thinky, as they say.",
+      "start": 263.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 265.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm about Kim Petras too.",
+      "start": 267.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know who that is.",
+      "start": 269.92,
+      "duration": 1.0
+    },
+    {
+      "text": "She's pretty dope.",
+      "start": 270.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Can I fucking get up there please?",
+      "start": 271.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Chances are if.",
+      "start": 272.92,
+      "duration": 3.0
+    },
+    {
+      "text": "We don't really listen to pop music.",
+      "start": 275.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I mean, I was going to say, if I'm listening to music,",
+      "start": 276.92,
+      "duration": 2.0
+    },
+    {
+      "text": "it's probably a rock album from 1976.",
+      "start": 278.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Yeah, that's been mostly.",
+      "start": 282.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I've been like navigating.",
+      "start": 284.92,
+      "duration": 3.0
+    },
+    {
+      "text": "What the fuck just happened just then?",
+      "start": 287.92,
+      "duration": 3.0
+    },
+    {
+      "text": "It became darkness.",
+      "start": 290.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I've been trying to.",
+      "start": 292.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Whoops.",
+      "start": 294.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I've been trying to.",
+      "start": 295.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Whoops.",
+      "start": 296.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I've been trying to navigate.",
+      "start": 297.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Whoops.",
+      "start": 298.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Whoops.",
+      "start": 299.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh boy.",
+      "start": 300.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh boy.",
+      "start": 301.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Every day my boxing coach comes to my house",
+      "start": 303.92,
+      "duration": 4.0
+    },
+    {
+      "text": "and I have my little music player thing",
+      "start": 307.92,
+      "duration": 4.0
+    },
+    {
+      "text": "and I'm like, okay, I got to find the playlist that he likes.",
+      "start": 311.92,
+      "duration": 5.0
+    },
+    {
+      "text": "And he likes fucking 90s alternative rock.",
+      "start": 316.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh, cool.",
+      "start": 319.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Which is so strange to me.",
+      "start": 320.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I love 90s alternative rock.",
+      "start": 321.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Well, but like not just like grunge,",
+      "start": 323.92,
+      "duration": 4.0
+    },
+    {
+      "text": "not just like Pearl Jam and Soundguard.",
+      "start": 327.92,
+      "duration": 2.0
+    },
+    {
+      "text": "It's like fucking Lit will come on.",
+      "start": 329.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Yeah, Seven Mary Three, like the lesser known ones.",
+      "start": 332.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Yeah, like Blink 182 and shit and he'll be like,",
+      "start": 336.92,
+      "duration": 2.0
+    },
+    {
+      "text": "yeah, and he'll be like singing along and I'm like, really?",
+      "start": 338.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 340.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Well, that's something different.",
+      "start": 341.92,
+      "duration": 1.0
+    },
+    {
+      "text": "That's, well, I guess alternative was one of those terms",
+      "start": 342.92,
+      "duration": 3.0
+    },
+    {
+      "text": "that like it got very bendy, you know?",
+      "start": 345.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh yeah.",
+      "start": 348.92,
+      "duration": 1.0
+    },
+    {
+      "text": "But I always think of Blink 182 as pop punk.",
+      "start": 349.92,
+      "duration": 4.0
+    },
+    {
+      "text": "I don't know.",
+      "start": 353.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Well, the playlist is called 90s alternative and grunge.",
+      "start": 355.92,
+      "duration": 4.0
+    },
+    {
+      "text": "I see.",
+      "start": 359.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Did he name the playlist or?",
+      "start": 361.92,
+      "duration": 3.0
+    },
+    {
+      "text": "No.",
+      "start": 364.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Okay.",
+      "start": 365.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Just checking.",
+      "start": 366.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, hello.",
+      "start": 367.92,
+      "duration": 2.0
+    },
+    {
+      "text": "The playlist is called music to goon to.",
+      "start": 369.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Dan, I'm so glad that you're a part of the gooning community now.",
+      "start": 372.92,
+      "duration": 6.0
+    },
+    {
+      "text": "Because we've all been gooning for centuries.",
+      "start": 378.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Let's not, let's not say that if there is a community,",
+      "start": 380.92,
+      "duration": 4.0
+    },
+    {
+      "text": "let's not put ourselves in it.",
+      "start": 384.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Dude.",
+      "start": 387.92,
+      "duration": 2.0
+    },
+    {
+      "text": "We were introduced to the term gooning right before this episode started",
+      "start": 389.92,
+      "duration": 5.0
+    },
+    {
+      "text": "and it's, it's cracking us up.",
+      "start": 394.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Because like every weekend I've been gooning.",
+      "start": 398.92,
+      "duration": 4.0
+    },
+    {
+      "text": "I've got my goon kit.",
+      "start": 402.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh shit.",
+      "start": 405.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I got a gear.",
+      "start": 406.92,
+      "duration": 3.0
+    },
+    {
+      "text": "What's happening?",
+      "start": 409.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Okay.",
+      "start": 410.92,
+      "duration": 1.0
+    },
+    {
+      "text": "What is this?",
+      "start": 411.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Zelda?",
+      "start": 413.92,
+      "duration": 1.0
+    },
+    {
+      "text": "All right.",
+      "start": 414.92,
+      "duration": 1.0
+    },
+    {
+      "text": "This is Dave.",
+      "start": 415.92,
+      "duration": 1.0
+    },
+    {
+      "text": "This is fucking episode one of the day.",
+      "start": 416.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Gooning, according to urban dictionary,",
+      "start": 420.92,
+      "duration": 3.0
+    },
+    {
+      "text": "may be most simply defined as that state usually achieved",
+      "start": 423.92,
+      "duration": 3.0
+    },
+    {
+      "text": "after a prolonged edging session.",
+      "start": 426.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Man becomes completely hypnotized by the feeling radiating his penis.",
+      "start": 430.92,
+      "duration": 8.0
+    },
+    {
+      "text": "Not even radiating from.",
+      "start": 438.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Holy fuck.",
+      "start": 441.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Since a gooning state can only be achieved after edging,",
+      "start": 442.92,
+      "duration": 4.0
+    },
+    {
+      "text": "the man's dick will have become mightily aroused at this point.",
+      "start": 446.92,
+      "duration": 4.0
+    },
+    {
+      "text": "And every caress the male genitals are subjected to",
+      "start": 450.92,
+      "duration": 3.0
+    },
+    {
+      "text": "will trigger potent elation.",
+      "start": 453.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Holy shit.",
+      "start": 458.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Holy fuck.",
+      "start": 460.92,
+      "duration": 2.0
+    },
+    {
+      "text": "As the man keeps edging and thus keeps experiencing intense pleasure,",
+      "start": 462.92,
+      "duration": 4.0
+    },
+    {
+      "text": "he enters a state of trance where his mind intimately merges with his cock.",
+      "start": 466.92,
+      "duration": 4.0
+    },
+    {
+      "text": "The gooning state where he and his dick become one.",
+      "start": 470.92,
+      "duration": 11.0
+    },
+    {
+      "text": "Use it in a sentence.",
+      "start": 481.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I spent ten hours gooning over the weekend.",
+      "start": 482.92,
+      "duration": 6.0
+    },
+    {
+      "text": "Thank you, funky jerker.",
+      "start": 488.92,
+      "duration": 4.0
+    },
+    {
+      "text": "For writing this.",
+      "start": 492.92,
+      "duration": 2.0
+    },
+    {
+      "text": "He wrote that in 2012?",
+      "start": 494.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Where have I been?",
+      "start": 497.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, what the fuck?",
+      "start": 498.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Where have we been while this word's just been floating out there?",
+      "start": 499.92,
+      "duration": 3.0
+    },
+    {
+      "text": "We could have been gooning.",
+      "start": 502.92,
+      "duration": 1.0
+    },
+    {
+      "text": "We could have been gooning this whole time.",
+      "start": 503.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Since the beginning of Game Grumps we could have been gooning.",
+      "start": 504.92,
+      "duration": 2.0
+    },
+    {
+      "text": "That's pre-Game Grumps.",
+      "start": 506.92,
+      "duration": 4.0
+    },
+    {
+      "text": "The concept of gooning is almost exactly as old as Game Grumps as a show.",
+      "start": 510.92,
+      "duration": 5.0
+    },
+    {
+      "text": "How incredible.",
+      "start": 515.92,
+      "duration": 3.0
+    },
+    {
+      "text": "And honestly, I don't know about you,",
+      "start": 518.92,
+      "duration": 2.0
+    },
+    {
+      "text": "but it feels like Game Grumps has been going on for a fucking eternity.",
+      "start": 520.92,
+      "duration": 7.0
+    },
+    {
+      "text": "I can remember nothing of my life before this.",
+      "start": 527.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Yeah, fucking honestly.",
+      "start": 530.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Okay.",
+      "start": 534.92,
+      "duration": 2.0
+    },
+    {
+      "text": "That's like how I feel sometimes.",
+      "start": 536.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Sometimes.",
+      "start": 538.92,
+      "duration": 1.0
+    },
+    {
+      "text": "My life before a Game Grumps.",
+      "start": 539.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Nothing.",
+      "start": 541.92,
+      "duration": 1.0
+    },
+    {
+      "text": "It was nothing.",
+      "start": 542.92,
+      "duration": 1.0
+    },
+    {
+      "text": "No, it was wonderful.",
+      "start": 543.92,
+      "duration": 2.0
+    },
+    {
+      "text": "It was just totally different.",
+      "start": 545.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh.",
+      "start": 547.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, no, I wanted to do the thing.",
+      "start": 548.92,
+      "duration": 2.0
+    },
+    {
+      "text": "No, I can't do the thing.",
+      "start": 550.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Those are my gooning rings.",
+      "start": 551.92,
+      "duration": 3.0
+    },
+    {
+      "text": "I wrap them around my goon stick.",
+      "start": 554.92,
+      "duration": 3.0
+    },
+    {
+      "text": "What the fuck?",
+      "start": 557.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, access required.",
+      "start": 558.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Do you have the keys necessary?",
+      "start": 560.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Why would you bring me all the way up here just to fucking goon me?",
+      "start": 562.92,
+      "duration": 3.0
+    },
+    {
+      "text": "All right, take it easy.",
+      "start": 565.92,
+      "duration": 3.0
+    },
+    {
+      "text": "I need five more keys.",
+      "start": 568.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Is that right?",
+      "start": 569.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Apparently.",
+      "start": 570.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, dear.",
+      "start": 571.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Man, fucking, man fucking.",
+      "start": 572.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Whoa, stop.",
+      "start": 576.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Sonic, calm down.",
+      "start": 577.92,
+      "duration": 2.0
+    },
+    {
+      "text": "What is happening?",
+      "start": 579.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Can I break these or is it just here?",
+      "start": 580.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay.",
+      "start": 582.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, creatures.",
+      "start": 583.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Fucking a man.",
+      "start": 584.92,
+      "duration": 1.0
+    },
+    {
+      "text": "So exciting.",
+      "start": 585.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Do you remember that?",
+      "start": 587.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yes.",
+      "start": 589.92,
+      "duration": 1.0
+    },
+    {
+      "text": "What is this?",
+      "start": 590.92,
+      "duration": 1.0
+    },
+    {
+      "text": "What is this?",
+      "start": 591.92,
+      "duration": 1.0
+    },
+    {
+      "text": "For anyone who has never heard, that was, what in the world?",
+      "start": 592.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I have no idea what's happening.",
+      "start": 594.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know either.",
+      "start": 596.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Maybe you're just sailing to the ground with the rings.",
+      "start": 597.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh, there you go.",
+      "start": 600.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Nice.",
+      "start": 603.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Bird.",
+      "start": 604.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Are you going to die when you hit the ground?",
+      "start": 605.92,
+      "duration": 5.0
+    },
+    {
+      "text": "I hope so.",
+      "start": 610.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Okay.",
+      "start": 611.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, you're fine.",
+      "start": 612.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Sonic doesn't reach terminal velocity.",
+      "start": 613.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 614.92,
+      "duration": 1.0
+    },
+    {
+      "text": "For anyone who doesn't know this story, it was the attempt to use voice to text to say,",
+      "start": 615.92,
+      "duration": 8.0
+    },
+    {
+      "text": "fucking a man, so excited, but it just came out as fucking a man, so excited.",
+      "start": 623.92,
+      "duration": 7.0
+    },
+    {
+      "text": "Commas are critically important.",
+      "start": 630.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Proper use of comma should be taught in schools.",
+      "start": 635.92,
+      "duration": 3.0
+    },
+    {
+      "text": "I feel like they're not anymore.",
+      "start": 638.92,
+      "duration": 2.0
+    },
+    {
+      "text": "How would you know that?",
+      "start": 640.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm just dicking around.",
+      "start": 642.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Because I fucking, a man, fucking a man.",
+      "start": 643.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Because I'm always on those forums where dads are complaining about common core or whatever.",
+      "start": 647.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Are you really?",
+      "start": 652.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Wait, what's common core?",
+      "start": 653.92,
+      "duration": 1.0
+    },
+    {
+      "text": "It's the new math.",
+      "start": 654.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, sounds like a new type of heavy music.",
+      "start": 655.92,
+      "duration": 5.0
+    },
+    {
+      "text": "You got to write the two letters, numbers that you're trying to add or whatever, and",
+      "start": 660.92,
+      "duration": 7.0
+    },
+    {
+      "text": "then you have to draw little bones that connect them, and then based on how the bones connect",
+      "start": 667.92,
+      "duration": 9.0
+    },
+    {
+      "text": "is your answer.",
+      "start": 676.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm sorry?",
+      "start": 677.92,
+      "duration": 2.0
+    },
+    {
+      "text": "People think it's stupid.",
+      "start": 679.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I just like reading those posts because it's like, but this is how you did it in your head",
+      "start": 681.92,
+      "duration": 5.0
+    },
+    {
+      "text": "for like 100 years.",
+      "start": 686.92,
+      "duration": 1.0
+    },
+    {
+      "text": "They're just writing it out.",
+      "start": 687.92,
+      "duration": 2.0
+    },
+    {
+      "text": "There's another squid?",
+      "start": 689.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh God.",
+      "start": 691.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Go get him.",
+      "start": 692.92,
+      "duration": 1.0
+    },
+    {
+      "text": "No way.",
+      "start": 693.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I don't give a shit about that squid.",
+      "start": 694.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I got to figure out where I'm dealing next.",
+      "start": 695.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't give a squid.",
+      "start": 697.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I got to get more keys.",
+      "start": 699.92,
+      "duration": 2.0
+    },
+    {
+      "text": "You got to get five more keys.",
+      "start": 701.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Shit.",
+      "start": 703.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Three plus two.",
+      "start": 704.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Fucking a man.",
+      "start": 705.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Fucking a man.",
+      "start": 706.92,
+      "duration": 1.0
+    },
+    {
+      "text": "All right.",
+      "start": 707.92,
+      "duration": 1.0
+    },
+    {
+      "text": "So excited.",
+      "start": 708.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm just going to complete some levels then to get some keys.",
+      "start": 709.92,
+      "duration": 6.0
+    },
+    {
+      "text": "Yeah, do it.",
+      "start": 715.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I got to do that.",
+      "start": 716.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I can get potentially three keys out of this one if I get all the S's.",
+      "start": 717.92,
+      "duration": 5.0
+    },
+    {
+      "text": "And how do we know when you have enough to see the elders and upgrade your shiz?",
+      "start": 722.92,
+      "duration": 10.0
+    },
+    {
+      "text": "At all.",
+      "start": 732.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I can just go and check.",
+      "start": 733.92,
+      "duration": 2.0
+    },
+    {
+      "text": "They're around.",
+      "start": 735.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I can just teleport to them, remember?",
+      "start": 736.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh God.",
+      "start": 738.92,
+      "duration": 1.0
+    },
+    {
+      "text": "That's right.",
+      "start": 739.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Sorry.",
+      "start": 740.92,
+      "duration": 1.0
+    },
+    {
+      "text": "There's a lot happening in this game.",
+      "start": 741.92,
+      "duration": 3.0
+    },
+    {
+      "text": "I'm not back yet.",
+      "start": 744.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Jesus.",
+      "start": 746.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Kind of fucking sad, don't you think?",
+      "start": 747.92,
+      "duration": 6.0
+    },
+    {
+      "text": "They say their amore was stationed on the far side of the field.",
+      "start": 753.92,
+      "duration": 5.0
+    },
+    {
+      "text": "This is the field.",
+      "start": 758.92,
+      "duration": 2.0
+    },
+    {
+      "text": "And that's amore.",
+      "start": 760.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I've seen a lot of farming going on.",
+      "start": 761.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Well, when the moon hits your eye.",
+      "start": 764.92,
+      "duration": 3.0
+    },
+    {
+      "text": "If you use that new technique of yours, you can clean up all this wild brush.",
+      "start": 767.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Hey, man.",
+      "start": 771.92,
+      "duration": 1.0
+    },
+    {
+      "text": "New technique?",
+      "start": 772.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You mean gooning?",
+      "start": 773.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I've got giant hands for gooning.",
+      "start": 774.92,
+      "duration": 3.0
+    },
+    {
+      "text": "You better believe it.",
+      "start": 777.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Spring is in the air.",
+      "start": 779.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Remove weeds with the siloop and reach 7,000 points before the timer runs out.",
+      "start": 780.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Watch out for the bees.",
+      "start": 784.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Avoid them by luring them towards flowers by using quick siloop on seeds to make them",
+      "start": 786.92,
+      "duration": 4.0
+    },
+    {
+      "text": "bloom.",
+      "start": 790.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm sure this will make sense when we play it.",
+      "start": 791.92,
+      "duration": 3.0
+    },
+    {
+      "text": "What the fuck is quick siloop?",
+      "start": 794.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know.",
+      "start": 796.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Just a siloop that you do quick?",
+      "start": 797.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, like a little circle.",
+      "start": 799.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oops.",
+      "start": 800.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, the bees got me.",
+      "start": 801.92,
+      "duration": 1.0
+    },
+    {
+      "text": "The bees.",
+      "start": 802.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Watch out for bees.",
+      "start": 803.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, shit, there are bees here.",
+      "start": 804.92,
+      "duration": 3.0
+    },
+    {
+      "text": "What the fuck?",
+      "start": 807.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, I guess maybe there is like a faster way to do a siloop.",
+      "start": 809.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Oh.",
+      "start": 814.92,
+      "duration": 1.0
+    },
+    {
+      "text": "That would trap the bees.",
+      "start": 815.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm basically cutting the grass.",
+      "start": 816.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh.",
+      "start": 819.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Okay.",
+      "start": 820.92,
+      "duration": 1.0
+    },
+    {
+      "text": "So I can just do this whole fucking thing if I want.",
+      "start": 821.92,
+      "duration": 10.0
+    },
+    {
+      "text": "Do it, do it, do it, do it.",
+      "start": 831.92,
+      "duration": 2.0
+    },
+    {
+      "text": "It never stops.",
+      "start": 833.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Unless I can hit the bees, I guess.",
+      "start": 834.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Where's the end of it?",
+      "start": 837.92,
+      "duration": 1.0
+    },
+    {
+      "text": "It stopped.",
+      "start": 838.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, it only goes so big.",
+      "start": 839.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay.",
+      "start": 841.92,
+      "duration": 1.0
+    },
+    {
+      "text": "It didn't stop.",
+      "start": 842.92,
+      "duration": 1.0
+    },
+    {
+      "text": "That's good to know.",
+      "start": 843.92,
+      "duration": 1.0
+    },
+    {
+      "text": "We're learning.",
+      "start": 844.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Whoa, there's a quick siloop.",
+      "start": 845.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Fuck.",
+      "start": 848.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Give me a break, dude.",
+      "start": 851.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Now you're silooping.",
+      "start": 855.92,
+      "duration": 2.0
+    },
+    {
+      "text": "What the fuck?",
+      "start": 857.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Suck my dick, dude.",
+      "start": 860.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I most certainly will not.",
+      "start": 862.92,
+      "duration": 2.0
+    },
+    {
+      "text": "It's going to cut into my gooning time.",
+      "start": 864.92,
+      "duration": 3.0
+    },
+    {
+      "text": "You think I have time to suck dick when I'm gooning all day?",
+      "start": 867.92,
+      "duration": 4.0
+    },
+    {
+      "text": "When I'm hypnotized by my own genitals?",
+      "start": 871.92,
+      "duration": 3.0
+    },
+    {
+      "text": "The state of hypnosis.",
+      "start": 874.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh shit, I might not make it.",
+      "start": 877.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Hurry up.",
+      "start": 880.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Fuck.",
+      "start": 882.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, the bees.",
+      "start": 883.92,
+      "duration": 2.0
+    },
+    {
+      "text": "The bees.",
+      "start": 885.92,
+      "duration": 1.0
+    },
+    {
+      "text": "It was too early.",
+      "start": 886.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I fucking gooned.",
+      "start": 888.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Hurry.",
+      "start": 891.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Hurry, hurry, hurry.",
+      "start": 892.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, you can make it if you get this one.",
+      "start": 894.92,
+      "duration": 2.0
+    },
+    {
+      "text": "What the fuck, dude?",
+      "start": 896.92,
+      "duration": 2.0
+    },
+    {
+      "text": "You didn't get it.",
+      "start": 898.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, suck my.",
+      "start": 899.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You failed.",
+      "start": 900.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Suck my big fucking wiener, dude.",
+      "start": 901.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Suck my erect wiener.",
+      "start": 904.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Suck my goon-ceptor.",
+      "start": 908.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Friend.",
+      "start": 912.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I stab my goon-ceptor into the ground.",
+      "start": 914.92,
+      "duration": 5.0
+    },
+    {
+      "text": "And I suck.",
+      "start": 919.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Thereby making me king of France.",
+      "start": 920.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Oh, come on, man.",
+      "start": 925.92,
+      "duration": 4.0
+    },
+    {
+      "text": "I guess I just have to fucking get all willy nilly with this shit.",
+      "start": 929.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Oh, shit.",
+      "start": 933.92,
+      "duration": 2.0
+    },
+    {
+      "text": "It doesn't want me to do it methodically because it.",
+      "start": 935.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Hey, dude, give me a break.",
+      "start": 938.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, come on.",
+      "start": 939.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Just go a little smaller.",
+      "start": 941.92,
+      "duration": 1.0
+    },
+    {
+      "text": "But I, ugh.",
+      "start": 942.92,
+      "duration": 2.0
+    },
+    {
+      "text": "You know I like to go big.",
+      "start": 944.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, you know I like getting 100% of nothing.",
+      "start": 945.92,
+      "duration": 5.0
+    },
+    {
+      "text": "That's not how we think of it.",
+      "start": 950.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Think of the potential games.",
+      "start": 952.92,
+      "duration": 8.0
+    },
+    {
+      "text": "Why doesn't the whole game have fucking classic Sonic music like this?",
+      "start": 960.92,
+      "duration": 4.0
+    },
+    {
+      "text": "That's pretty sweet.",
+      "start": 964.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Totally, like, changes the mood.",
+      "start": 966.92,
+      "duration": 5.0
+    },
+    {
+      "text": "I could goo to this.",
+      "start": 971.92,
+      "duration": 1.0
+    },
+    {
+      "text": "The Venga boys are coming.",
+      "start": 972.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Because this is fucking Pacific Northwest Sonic where it rains 70% of the time.",
+      "start": 975.92,
+      "duration": 14.0
+    },
+    {
+      "text": "Come on, that's not 700.",
+      "start": 989.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Almost.",
+      "start": 993.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Where's the rest of it?",
+      "start": 994.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Find a meaty patch.",
+      "start": 995.92,
+      "duration": 2.0
+    },
+    {
+      "text": "There it is.",
+      "start": 997.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh, my God.",
+      "start": 1000.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Wait, what the hell?",
+      "start": 1001.92,
+      "duration": 1.0
+    },
+    {
+      "text": "It's close.",
+      "start": 1002.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You did it.",
+      "start": 1003.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Clear.",
+      "start": 1005.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Good.",
+      "start": 1007.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Suck.",
+      "start": 1008.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Suck.",
+      "start": 1009.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I guess there was a ton of foliage back there on the right.",
+      "start": 1010.92,
+      "duration": 3.0
+    },
+    {
+      "text": "The bees didn't even.",
+      "start": 1013.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, yeah, I missed, like, early foliage.",
+      "start": 1014.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Okay.",
+      "start": 1019.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, I got a fucking chaos emerald for that?",
+      "start": 1020.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Tuck this snuggly into my rectum.",
+      "start": 1025.92,
+      "duration": 2.0
+    },
+    {
+      "text": "And dance.",
+      "start": 1027.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I used to have to do, like, really hard missions.",
+      "start": 1028.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Just cut the grass and get a chaos emerald?",
+      "start": 1030.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Cool.",
+      "start": 1034.92,
+      "duration": 1.0
+    },
+    {
+      "text": "The fuck is it saying?",
+      "start": 1035.92,
+      "duration": 3.0
+    },
+    {
+      "text": "So all this used to be farmland, huh?",
+      "start": 1038.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Shove it with a small talk, Sonic.",
+      "start": 1041.92,
+      "duration": 4.0
+    },
+    {
+      "text": "What are we?",
+      "start": 1045.92,
+      "duration": 3.0
+    },
+    {
+      "text": "I mean, is it worth coming back into the corporeal realm for you?",
+      "start": 1048.92,
+      "duration": 5.0
+    },
+    {
+      "text": "I've seen this kind of recovery in areas Dr. Eggman damaged.",
+      "start": 1053.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Something ruined this land, and it's barely begun to recover.",
+      "start": 1058.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Then we need to make sure it has plenty of time to heal.",
+      "start": 1063.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Okay.",
+      "start": 1066.92,
+      "duration": 3.0
+    },
+    {
+      "text": "God, fucking Amy's been smoking, like, a thousand cigarettes.",
+      "start": 1069.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Amy sounds like a 55-year-old divorcee.",
+      "start": 1071.92,
+      "duration": 7.0
+    },
+    {
+      "text": "It is so funny.",
+      "start": 1078.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Why do I have infinite boosts?",
+      "start": 1080.92,
+      "duration": 1.0
+    },
+    {
+      "text": "That's pretty cool.",
+      "start": 1081.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm okay with it, but...",
+      "start": 1082.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1083.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay, there's...",
+      "start": 1085.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, my god, it's all the way over there?",
+      "start": 1086.92,
+      "duration": 2.0
+    },
+    {
+      "text": "How did I get over there?",
+      "start": 1088.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Shit.",
+      "start": 1090.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Is there, like, a thing that goes over there?",
+      "start": 1093.92,
+      "duration": 3.0
+    },
+    {
+      "text": "There is. Oh, it's the one that had to fucking do this shit.",
+      "start": 1096.92,
+      "duration": 4.0
+    },
+    {
+      "text": "What did this one?",
+      "start": 1100.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, hey, bud.",
+      "start": 1102.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Ah.",
+      "start": 1103.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, shit!",
+      "start": 1104.92,
+      "duration": 1.0
+    },
+    {
+      "text": "That was a good sleep.",
+      "start": 1105.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I wasn't thinking about my old wife.",
+      "start": 1106.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Well, if you were to...",
+      "start": 1108.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Allow me to unlock the power of the seeds you've gathered.",
+      "start": 1109.92,
+      "duration": 6.0
+    },
+    {
+      "text": "Unlocking seeds?",
+      "start": 1115.92,
+      "duration": 2.0
+    },
+    {
+      "text": "There you go.",
+      "start": 1117.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Well, shit.",
+      "start": 1120.92,
+      "duration": 3.0
+    },
+    {
+      "text": "What else may I do for him?",
+      "start": 1123.92,
+      "duration": 3.0
+    },
+    {
+      "text": "No, thanks.",
+      "start": 1126.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm tired and returned to the dream.",
+      "start": 1127.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Get away. Let me rest, child.",
+      "start": 1132.92,
+      "duration": 4.0
+    },
+    {
+      "text": "You've been annoying the shit out of me for minutes.",
+      "start": 1136.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh, wait, this isn't silent.",
+      "start": 1139.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, that's right, I had to hit these things.",
+      "start": 1140.92,
+      "duration": 6.0
+    },
+    {
+      "text": "I'm going to have to talk.",
+      "start": 1146.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Whee! Fuck!",
+      "start": 1150.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Turn on.",
+      "start": 1155.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Yo, boy.",
+      "start": 1158.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Can I hear that music again?",
+      "start": 1160.92,
+      "duration": 5.0
+    },
+    {
+      "text": "It makes me so much more hyped to play Sonic.",
+      "start": 1165.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Yeah, I get it. I go through the thing.",
+      "start": 1169.92,
+      "duration": 3.0
+    },
+    {
+      "text": "It's fucking Sonic the Edgehog.",
+      "start": 1172.92,
+      "duration": 6.0
+    },
+    {
+      "text": "Teach me how to boost and shit.",
+      "start": 1178.92,
+      "duration": 6.0
+    },
+    {
+      "text": "Sorry, I was mumbling to myself.",
+      "start": 1184.92,
+      "duration": 3.0
+    },
+    {
+      "text": "I guess he's going to say it.",
+      "start": 1187.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Nope, he's going to say nothing.",
+      "start": 1188.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Words aren't even English.",
+      "start": 1192.92,
+      "duration": 2.0
+    },
+    {
+      "text": "They were English, so they were just mumbles of English.",
+      "start": 1194.92,
+      "duration": 3.0
+    },
+    {
+      "text": "What were you saying?",
+      "start": 1197.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I was saying the words on the screen, but I was mumbling them to myself.",
+      "start": 1199.92,
+      "duration": 4.0
+    },
+    {
+      "text": "It was so mumbly, I couldn't even tell those were the words.",
+      "start": 1203.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Hey.",
+      "start": 1207.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Is that where the...",
+      "start": 1231.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm going to read the Urban Dictionary definition of gooning.",
+      "start": 1233.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Go ahead.",
+      "start": 1238.92,
+      "duration": 1.0
+    },
+    {
+      "text": "To this music.",
+      "start": 1239.92,
+      "duration": 3.0
+    },
+    {
+      "text": "To be even more accurate, when the gooning state is achieved,",
+      "start": 1242.92,
+      "duration": 5.0
+    },
+    {
+      "text": "the man's body becomes, for all intents and purposes,",
+      "start": 1247.92,
+      "duration": 3.0
+    },
+    {
+      "text": "an appendage to his erection when the state is achieved.",
+      "start": 1250.92,
+      "duration": 3.0
+    },
+    {
+      "text": "The man becomes freed of all social codes of conduct.",
+      "start": 1253.92,
+      "duration": 7.0
+    },
+    {
+      "text": "You've just become goon mad.",
+      "start": 1260.92,
+      "duration": 2.0
+    },
+    {
+      "text": "As a result, a quote unquote gooned out man will become very expressive and demonstrative.",
+      "start": 1262.92,
+      "duration": 7.0
+    },
+    {
+      "text": "He may become very vocal while his body and face might take on the undignified expressions and poses.",
+      "start": 1269.92,
+      "duration": 9.0
+    },
+    {
+      "text": "All in response to the intensely exquisite caress of his penis is exposed to.",
+      "start": 1278.92,
+      "duration": 7.0
+    },
+    {
+      "text": "It's like a Fallout Boy song.",
+      "start": 1285.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Hence the term goon, since at this point the man effectively looks like a silly, foolish, eccentric person.",
+      "start": 1287.92,
+      "duration": 8.0
+    },
+    {
+      "text": "Geez Louise.",
+      "start": 1295.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright, it's time to try again.",
+      "start": 1297.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Get that ass right.",
+      "start": 1300.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Here it comes, here it comes, here comes the fucking music.",
+      "start": 1302.92,
+      "duration": 2.0
+    },
+    {
+      "text": "The goon music.",
+      "start": 1304.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, gooning is not a narcissistic manifestation.",
+      "start": 1306.92,
+      "duration": 15.0
+    },
+    {
+      "text": "Narcissism is extreme selfishness with a grand qua view of one's own talents.",
+      "start": 1321.92,
+      "duration": 6.0
+    },
+    {
+      "text": "Rather, gooning is closer to a meditation experience where the mind and body align,",
+      "start": 1327.92,
+      "duration": 6.0
+    },
+    {
+      "text": "focused on a single thought or feeling.",
+      "start": 1333.92,
+      "duration": 5.0
+    },
+    {
+      "text": "The shooting's meditative, dude.",
+      "start": 1338.92,
+      "duration": 4.0
+    },
+    {
+      "text": "This entry was written by Funky Jerker.",
+      "start": 1342.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Thank you, Funky Jerker.",
+      "start": 1347.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Just glorious.",
+      "start": 1349.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, boy. S-rank, motherfucker.",
+      "start": 1351.92,
+      "duration": 12.0
+    },
+    {
+      "text": "Really?",
+      "start": 1363.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, I got s-rank on that shit.",
+      "start": 1364.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Well fucking done.",
+      "start": 1365.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I only need like two more of these damn...",
+      "start": 1367.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh shit, you got an extra key for it.",
+      "start": 1369.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Dog, you're straight up s-rankin'.",
+      "start": 1371.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Got a perfect run.",
+      "start": 1373.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I'll need one more key, I think.",
+      "start": 1375.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Do you ever get scared to make up nonsense words in the fear that they might actually mean something terrible down the line with the internet?",
+      "start": 1377.92,
+      "duration": 10.0
+    },
+    {
+      "text": "I, uh, I have the same anxiety, but it's more about that it sounds like something that actually is a word.",
+      "start": 1387.92,
+      "duration": 9.0
+    },
+    {
+      "text": "Oh, that makes sense.",
+      "start": 1396.92,
+      "duration": 1.0
+    },
+    {
+      "text": "That people know.",
+      "start": 1397.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yes.",
+      "start": 1398.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Like I just kind of mispronounced something and then I'm like, whoops, I said the bad word.",
+      "start": 1399.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "start": 1402.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Fuck.",
+      "start": 1404.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh no, it's, it's, it's a jungle out there.",
+      "start": 1405.92,
+      "duration": 4.0
+    },
+    {
+      "text": "I, so, for anyone listening in 2035, s-rankin' doesn't mean anything right now.",
+      "start": 1409.92,
+      "duration": 9.0
+    },
+    {
+      "text": "In before s-rankin' is a racist term.",
+      "start": 1418.92,
+      "duration": 3.0
+    },
+    {
+      "text": "I want constant updates.",
+      "start": 1421.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yes sir.",
+      "start": 1423.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yes sir.",
+      "start": 1424.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Keep looking for a way to get me out of here.",
+      "start": 1425.92,
+      "duration": 3.0
+    },
+    {
+      "text": "I hate this spaceship.",
+      "start": 1428.92,
+      "duration": 3.0
+    },
+    {
+      "text": "I have several unsafe options.",
+      "start": 1431.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Thank you, doctor.",
+      "start": 1433.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Wow.",
+      "start": 1436.92,
+      "duration": 1.0
+    },
+    {
+      "text": "My pneumonia is fully gone.",
+      "start": 1437.92,
+      "duration": 4.0
+    },
+    {
+      "text": "So that's, that's a, a henchperson of Dr. Eggman?",
+      "start": 1441.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Oh, is it?",
+      "start": 1445.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Eggman?",
+      "start": 1446.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Keep taking your medicine once a day at the very least until there's not a single cough.",
+      "start": 1447.92,
+      "duration": 6.0
+    },
+    {
+      "text": "Thank you, doctor.",
+      "start": 1453.92,
+      "duration": 3.0
+    },
+    {
+      "text": "It means a lot that you care for me.",
+      "start": 1456.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Someone's gotta, in this doggy dog world, everyone's looking out for themselves.",
+      "start": 1458.92,
+      "duration": 6.0
+    },
+    {
+      "text": "Robotnik's actually a great guy.",
+      "start": 1464.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Sonic's just like, Dr. Eggman's, oh shit.",
+      "start": 1466.92,
+      "duration": 4.0
+    },
+    {
+      "text": "All his robots are trying to like, cure all of humanity's problems.",
+      "start": 1470.92,
+      "duration": 10.0
+    },
+    {
+      "text": "What was the Sonic episode where Sonic comes to and Dr. Eggman is telling him his plot with the robots he created?",
+      "start": 1480.92,
+      "duration": 9.0
+    },
+    {
+      "text": "And we were like, I birthed them with my mind vagina.",
+      "start": 1489.92,
+      "duration": 7.0
+    },
+    {
+      "text": "I think that was Sonic Adventure.",
+      "start": 1496.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I think it was.",
+      "start": 1497.92,
+      "duration": 2.0
+    },
+    {
+      "text": "What the hell is this?",
+      "start": 1499.92,
+      "duration": 3.0
+    },
+    {
+      "text": "We have so many good memories.",
+      "start": 1502.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Sonic Adventure.",
+      "start": 1504.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Agreed.",
+      "start": 1506.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, God, I'm so sorry.",
+      "start": 1507.92,
+      "duration": 3.0
+    },
+    {
+      "text": "I hope we didn't need that.",
+      "start": 1510.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Ooh.",
+      "start": 1511.92,
+      "duration": 4.0
+    },
+    {
+      "text": "I'll leave your medicine in a green glass canister.",
+      "start": 1515.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Take it and you will survive.",
+      "start": 1519.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Thank you, doctor.",
+      "start": 1521.92,
+      "duration": 2.0
+    },
+    {
+      "text": "It's like this world was made for Sonic.",
+      "start": 1523.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh, hey, it's you again.",
+      "start": 1526.92,
+      "duration": 3.0
+    },
+    {
+      "text": "As you get closer, you just do gentle moaning.",
+      "start": 1529.92,
+      "duration": 9.0
+    },
+    {
+      "text": "Not another day.",
+      "start": 1538.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Just let the good Lord take me.",
+      "start": 1542.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Please, it's been long enough.",
+      "start": 1545.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Where the fuck am I? I'm looking for the spider web.",
+      "start": 1547.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Where am I?",
+      "start": 1551.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm a big triangle.",
+      "start": 1553.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay.",
+      "start": 1555.92,
+      "duration": 2.0
+    },
+    {
+      "text": "On the map, I mean.",
+      "start": 1557.92,
+      "duration": 3.0
+    },
+    {
+      "text": "I thought you were making some kind of statement.",
+      "start": 1560.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Where the fuck am I?",
+      "start": 1562.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Reset.",
+      "start": 1564.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, there I am.",
+      "start": 1566.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm headed straight for it.",
+      "start": 1567.92,
+      "duration": 2.0
+    },
+    {
+      "text": "These trees, these beautiful trees were in my way.",
+      "start": 1569.92,
+      "duration": 3.0
+    },
+    {
+      "text": "How you doing, Arin?",
+      "start": 1572.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm a big triangle.",
+      "start": 1573.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay.",
+      "start": 1575.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I'll come back later, I guess.",
+      "start": 1577.92,
+      "duration": 4.0
+    },
+    {
+      "text": "I don't know if that's good or bad, I don't want to ask.",
+      "start": 1581.92,
+      "duration": 6.0
+    },
+    {
+      "text": "So, just leave you to it.",
+      "start": 1587.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Here we are.",
+      "start": 1589.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I feel like you can get out of this on your own.",
+      "start": 1590.92,
+      "duration": 3.0
+    },
+    {
+      "text": "What is this?",
+      "start": 1593.92,
+      "duration": 3.0
+    },
+    {
+      "text": "What is this?",
+      "start": 1596.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Sounds like the Game of Thrones theme.",
+      "start": 1597.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Not anymore, but did for a second.",
+      "start": 1600.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, maybe I have to.",
+      "start": 1602.92,
+      "duration": 1.0
+    },
+    {
+      "text": "It's always this, isn't it?",
+      "start": 1603.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Do you know what my favorite episode of Game of Thrones was?",
+      "start": 1607.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Which one?",
+      "start": 1609.92,
+      "duration": 1.0
+    },
+    {
+      "text": "The red gooning.",
+      "start": 1610.92,
+      "duration": 6.0
+    },
+    {
+      "text": "When they start playing the Ransikastomir and the guy just goes for it.",
+      "start": 1616.92,
+      "duration": 7.0
+    },
+    {
+      "text": "When Robb Stark just totally loses all inhibition.",
+      "start": 1623.92,
+      "duration": 7.0
+    },
+    {
+      "text": "Well, anyway.",
+      "start": 1630.92,
+      "duration": 2.0
+    },
+    {
+      "text": "The red gooning.",
+      "start": 1632.92,
+      "duration": 3.0
+    },
+    {
+      "text": "I mean, yeah, it would be.",
+      "start": 1635.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Those map fill-in moments never seem to happen as fast as you'd like them to, you know?",
+      "start": 1637.92,
+      "duration": 6.0
+    },
+    {
+      "text": "Or like, satisfyingly.",
+      "start": 1643.92,
+      "duration": 1.0
+    },
+    {
+      "text": "That's what I mean.",
+      "start": 1644.92,
+      "duration": 1.0
+    },
+    {
+      "text": "They're like, oh, cool.",
+      "start": 1645.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, is that all?",
+      "start": 1647.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Tiny pieces of where I kind of am.",
+      "start": 1649.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1651.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Whoa, whoa, whoa.",
+      "start": 1653.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Okay, this is the same.",
+      "start": 1656.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, you've got 21 keys now.",
+      "start": 1657.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, I can go.",
+      "start": 1658.92,
+      "duration": 1.0
+    },
+    {
+      "text": "That's the same amount of pilots.",
+      "start": 1659.92,
+      "duration": 3.0
+    },
+    {
+      "text": "So you can go to that spider web thing.",
+      "start": 1662.92,
+      "duration": 5.0
+    },
+    {
+      "text": "There it is.",
+      "start": 1667.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Great.",
+      "start": 1668.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Wait.",
+      "start": 1669.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Perhaps you were already on your way there.",
+      "start": 1670.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Wait, there was like a scripted sequence that was supposed to happen when you're like",
+      "start": 1671.92,
+      "duration": 6.0
+    },
+    {
+      "text": "at that point.",
+      "start": 1677.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I've already done all this shit.",
+      "start": 1678.92,
+      "duration": 2.0
+    },
+    {
+      "text": "That is weird.",
+      "start": 1680.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Are you saying you wish you could turn back time to the good old days?",
+      "start": 1681.92,
+      "duration": 7.0
+    },
+    {
+      "text": "No, I wish I could turn back time to the good old days.",
+      "start": 1688.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Remember that one week where we were just obsessed with-",
+      "start": 1692.92,
+      "duration": 8.0
+    },
+    {
+      "text": "Where we could not stop.",
+      "start": 1700.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I mean, that's how our brains work.",
+      "start": 1701.92,
+      "duration": 2.0
+    },
+    {
+      "text": "That's how they've always worked.",
+      "start": 1703.92,
+      "duration": 2.0
+    },
+    {
+      "text": "We latch onto something and then we can't think about anything else for like 24 hours.",
+      "start": 1705.92,
+      "duration": 5.0
+    },
+    {
+      "text": "This week it's going to be gooning.",
+      "start": 1710.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, unfortunately for everyone else.",
+      "start": 1712.92,
+      "duration": 3.0
+    },
+    {
+      "text": "This week's topic is gooning.",
+      "start": 1715.92,
+      "duration": 3.0
+    },
+    {
+      "text": "This week's topic?",
+      "start": 1718.92,
+      "duration": 3.0
+    },
+    {
+      "text": "It's just a week long podcast.",
+      "start": 1721.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Oh, our sincerest apologies everyone.",
+      "start": 1725.92,
+      "duration": 3.0
+    },
+    {
+      "text": "You've entered the gooning era of Game Grumps.",
+      "start": 1728.92,
+      "duration": 4.0
+    },
+    {
+      "text": "There's the golden age.",
+      "start": 1732.92,
+      "duration": 3.0
+    },
+    {
+      "text": "The gooning age.",
+      "start": 1735.92,
+      "duration": 1.0
+    },
+    {
+      "text": "The gooning age.",
+      "start": 1736.92,
+      "duration": 1.0
+    },
+    {
+      "text": "The back of the golden age.",
+      "start": 1737.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I feel like throughout the years people have described 27 different points of Game Grumps",
+      "start": 1739.92,
+      "duration": 6.0
+    },
+    {
+      "text": "as the golden era.",
+      "start": 1745.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh yeah.",
+      "start": 1746.92,
+      "duration": 1.0
+    },
+    {
+      "text": "But this is the one and only gooning era.",
+      "start": 1747.92,
+      "duration": 4.0
+    },
+    {
+      "text": "So you can feel proud about that.",
+      "start": 1751.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Thanks man.",
+      "start": 1753.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Thanks for noticing.",
+      "start": 1755.92,
+      "duration": 2.0
+    },
+    {
+      "text": "That's going to be a big one, but I guess if I relax I can-",
+      "start": 1757.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Oh, it's a little smaller now.",
+      "start": 1761.92,
+      "duration": 2.0
+    },
+    {
+      "text": "That's more manageable.",
+      "start": 1763.92,
+      "duration": 2.0
+    },
+    {
+      "text": "They say a diamond is the hardest substance on earth.",
+      "start": 1765.92,
+      "duration": 3.0
+    },
+    {
+      "text": "We'll just see about that.",
+      "start": 1768.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I like how it's clear so I can do this in a mirror and look inside.",
+      "start": 1770.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Wow.",
+      "start": 1775.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I am extending the range of my control, but I can still only command a few of the ancients'",
+      "start": 1776.92,
+      "duration": 5.0
+    },
+    {
+      "text": "relics at a time.",
+      "start": 1781.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Commendable, but what about finding me a way out of this digital dimension?",
+      "start": 1782.92,
+      "duration": 4.0
+    },
+    {
+      "text": "I have run 1,700,000-",
+      "start": 1786.92,
+      "duration": 3.0
+    },
+    {
+      "text": "This digital world.",
+      "start": 1789.92,
+      "duration": 3.0
+    },
+    {
+      "text": "There is no scenario to safely remove you from cyberspace.",
+      "start": 1792.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Unacceptable.",
+      "start": 1796.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Keep looking.",
+      "start": 1797.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Make it your number one priority.",
+      "start": 1798.92,
+      "duration": 1.0
+    },
+    {
+      "text": "If you want me, I'll be on r slash teddy drop.",
+      "start": 1799.92,
+      "duration": 10.0
+    },
+    {
+      "text": "Just DM me.",
+      "start": 1809.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Wait, that's it?",
+      "start": 1811.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh yeah, that's just it, eh?",
+      "start": 1813.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Can someone out there change the title screen of Sonic Frontiers to say Sonic teddy drop?",
+      "start": 1815.92,
+      "duration": 10.0
+    },
+    {
+      "text": "Put in the exact same futuristic looking font.",
+      "start": 1825.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Yeah, with all the characters all fucking mashed up.",
+      "start": 1828.92,
+      "duration": 3.0
+    },
+    {
+      "text": "All the bells and whistles of a Sonic Frontiers font.",
+      "start": 1831.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Thank you in advance to whoever does that.",
+      "start": 1835.92,
+      "duration": 2.0
+    },
+    {
+      "text": "So if that's done, then where's the next one?",
+      "start": 1837.92,
+      "duration": 7.0
+    },
+    {
+      "text": "I got that one there.",
+      "start": 1844.92,
+      "duration": 1.0
+    },
+    {
+      "text": "There's only so many places it can be.",
+      "start": 1845.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, I'm like blocked off by a giant fucking wall.",
+      "start": 1847.92,
+      "duration": 4.0
+    },
+    {
+      "text": "I say just keep getting keys because you're going to need them no matter what.",
+      "start": 1851.92,
+      "duration": 4.0
+    },
+    {
+      "text": "That's a word, a word.",
+      "start": 1855.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Fucking word.",
+      "start": 1858.92,
+      "duration": 4.0
+    },
+    {
+      "text": "You're so fucking wise.",
+      "start": 1862.92,
+      "duration": 2.0
+    },
+    {
+      "text": "You're so fucking wise.",
+      "start": 1864.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh shit.",
+      "start": 1867.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Let's fucking go.",
+      "start": 1869.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Oh yeah.",
+      "start": 1873.92,
+      "duration": 7.0
+    },
+    {
+      "text": "Teacher is lurking around every turn.",
+      "start": 1880.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Gooting around at the speed of sound.",
+      "start": 1883.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Wait, I should go to Baby Guy.",
+      "start": 1886.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Baby Guy?",
+      "start": 1890.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, this one.",
+      "start": 1891.92,
+      "duration": 2.0
+    },
+    {
+      "text": "How am I supposed to teleport there?",
+      "start": 1893.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Man, fuck this game.",
+      "start": 1895.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Just walk there, man.",
+      "start": 1897.92,
+      "duration": 2.0
+    },
+    {
+      "text": "You'll be there in a second.",
+      "start": 1899.92,
+      "duration": 1.0
+    },
+    {
+      "text": "No, but you're supposed to teleport there.",
+      "start": 1900.92,
+      "duration": 1.0
+    },
+    {
+      "text": "No, no, I missed it again.",
+      "start": 1901.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Well played, my friend.",
+      "start": 1905.92,
+      "duration": 1.0
+    },
+    {
+      "text": "And there he is.",
+      "start": 1906.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, fucking.",
+      "start": 1908.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Oh shit, it scared me.",
+      "start": 1913.92,
+      "duration": 3.0
+    },
+    {
+      "text": "There you go.",
+      "start": 1916.92,
+      "duration": 1.0
+    },
+    {
+      "text": "It creases it by six?",
+      "start": 1917.92,
+      "duration": 2.0
+    },
+    {
+      "text": "From one to two.",
+      "start": 1919.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Fucking serious?",
+      "start": 1921.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Anything more?",
+      "start": 1924.92,
+      "duration": 3.0
+    },
+    {
+      "text": "You got to be kidding me.",
+      "start": 1927.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Just keep doing it.",
+      "start": 1928.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You got to do this 99 times.",
+      "start": 1929.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Bitch ain't one.",
+      "start": 1932.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Anything more?",
+      "start": 1934.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1936.92,
+      "duration": 6.0
+    },
+    {
+      "text": "Oh, rings.",
+      "start": 1942.92,
+      "duration": 2.0
+    },
+    {
+      "text": "He just gives me one of those little pockets, you know?",
+      "start": 1944.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Oh, that was it?",
+      "start": 1949.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Shit, man.",
+      "start": 1950.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You can only do a little bit at a time?",
+      "start": 1951.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, same with my speed.",
+      "start": 1953.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Maybe that's why I didn't feel faster.",
+      "start": 1955.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Because it's just like a tiny bit at a time.",
+      "start": 1960.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, you're probably right.",
+      "start": 1962.92,
+      "duration": 2.0
+    },
+    {
+      "text": "It's six of 99 of speed, so there you go.",
+      "start": 1964.92,
+      "duration": 5.0
+    },
+    {
+      "text": "I don't need to see this again.",
+      "start": 1969.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Why does the mouse keep going over there?",
+      "start": 1971.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Stop it with the fucking...",
+      "start": 1973.92,
+      "duration": 2.0
+    },
+    {
+      "text": "You can move the mouse?",
+      "start": 1975.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh my gosh.",
+      "start": 1976.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You can use the mouse to control the camera?",
+      "start": 1977.92,
+      "duration": 1.0
+    },
+    {
+      "text": "That's ridiculous.",
+      "start": 1978.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Get out of here.",
+      "start": 1981.92,
+      "duration": 2.0
+    },
+    {
+      "text": "It always shows up.",
+      "start": 1983.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Whoa.",
+      "start": 1986.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I thought I broke the game for a second.",
+      "start": 1988.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1989.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Feels a little Danganronpa-y, where everything starts to get weird at the end.",
+      "start": 1991.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Oh yeah, it's all glitchy.",
+      "start": 1996.92,
+      "duration": 4.0
+    },
+    {
+      "text": "I was so close to finding all of the red ribbons or whatever.",
+      "start": 2000.92,
+      "duration": 7.0
+    },
+    {
+      "text": "So when, not if, do you want to play Danganronpa 3?",
+      "start": 2007.92,
+      "duration": 4.0
+    },
+    {
+      "text": "I don't know.",
+      "start": 2011.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Really?",
+      "start": 2013.92,
+      "duration": 1.0
+    },
+    {
+      "text": "When do you want to play it?",
+      "start": 2014.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh my gosh.",
+      "start": 2015.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Maybe next year.",
+      "start": 2017.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Next year?",
+      "start": 2018.92,
+      "duration": 1.0
+    },
+    {
+      "text": "2024?",
+      "start": 2019.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 2020.92,
+      "duration": 1.0
+    },
+    {
+      "text": "That's a long time from now.",
+      "start": 2021.92,
+      "duration": 1.0
+    },
+    {
+      "text": "It is.",
+      "start": 2022.92,
+      "duration": 1.0
+    },
+    {
+      "text": "But don't you remember?",
+      "start": 2023.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Oops.",
+      "start": 2025.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Don't you remember Danganronpa?",
+      "start": 2026.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 2028.92,
+      "duration": 1.0
+    },
+    {
+      "text": "How when we did it, you were like, oh my god.",
+      "start": 2029.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Please.",
+      "start": 2034.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 2035.92,
+      "duration": 1.0
+    },
+    {
+      "text": "No more.",
+      "start": 2036.92,
+      "duration": 1.0
+    },
+    {
+      "text": "We always get into it and we love it, but it's like so long.",
+      "start": 2037.92,
+      "duration": 4.0
+    },
+    {
+      "text": "So insanely long.",
+      "start": 2041.92,
+      "duration": 2.0
+    },
+    {
+      "text": "So long.",
+      "start": 2043.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, all right.",
+      "start": 2045.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Maybe with the summer.",
+      "start": 2047.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, sure.",
+      "start": 2048.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Cool.",
+      "start": 2049.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Let's do it.",
+      "start": 2050.92,
+      "duration": 1.0
+    },
+    {
+      "text": "There's a bunch of people that are like, yay.",
+      "start": 2051.92,
+      "duration": 3.0
+    },
+    {
+      "text": "And a bunch of people that are like, whatever.",
+      "start": 2054.92,
+      "duration": 2.0
+    },
+    {
+      "text": "No.",
+      "start": 2056.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I think if we did it the way we ended up doing it before, where like on weekends it was Danganronpa,",
+      "start": 2057.92,
+      "duration": 7.0
+    },
+    {
+      "text": "I think people were generally okay with that.",
+      "start": 2064.92,
+      "duration": 2.0
+    },
+    {
+      "text": "On long series Saturday?",
+      "start": 2066.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Long series Sunday and Saturday?",
+      "start": 2068.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh man.",
+      "start": 2070.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I am trying to make that happen like that girl tried to make Fetch happen in Mean Girls.",
+      "start": 2072.92,
+      "duration": 6.0
+    },
+    {
+      "text": "Did I do it?",
+      "start": 2078.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Okay.",
+      "start": 2079.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I got all the rings.",
+      "start": 2080.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Now I just got to do shrank.",
+      "start": 2081.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I didn't do shrank.",
+      "start": 2083.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Fuck.",
+      "start": 2085.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You did crank.",
+      "start": 2086.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I did.",
+      "start": 2087.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I did crank.",
+      "start": 2088.92,
+      "duration": 1.0
+    },
+    {
+      "text": "At least I didn't get brank.",
+      "start": 2089.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 2091.92,
+      "duration": 1.0
+    },
+    {
+      "text": "That's the worst.",
+      "start": 2092.92,
+      "duration": 1.0
+    },
+    {
+      "text": "All right.",
+      "start": 2093.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Here we go.",
+      "start": 2094.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I feel like if you just, you're just like, I don't care.",
+      "start": 2095.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I don't care.",
+      "start": 2096.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I don't care.",
+      "start": 2097.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You'll just always get us right.",
+      "start": 2098.92,
+      "duration": 1.0
+    },
+    {
+      "text": "See what happens.",
+      "start": 2099.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You don't feel that fast when you do it from the side.",
+      "start": 2100.92,
+      "duration": 9.0
+    },
+    {
+      "text": "It's true.",
+      "start": 2109.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I need my rainbow.",
+      "start": 2110.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Get, get, get, get.",
+      "start": 2115.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I like this music.",
+      "start": 2117.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 2118.92,
+      "duration": 1.0
+    },
+    {
+      "text": "It's like the soundtrack to like a really hip stylist place.",
+      "start": 2119.92,
+      "duration": 3.0
+    },
+    {
+      "text": "It feels like very like 2014 chill out dance music.",
+      "start": 2122.92,
+      "duration": 9.0
+    },
+    {
+      "text": "Hello.",
+      "start": 2131.92,
+      "duration": 1.0
+    },
+    {
+      "text": "How would you like your hair to be?",
+      "start": 2132.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Can I get like a side cut or something?",
+      "start": 2133.92,
+      "duration": 3.0
+    },
+    {
+      "text": "No.",
+      "start": 2136.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Side cut.",
+      "start": 2137.92,
+      "duration": 1.0
+    },
+    {
+      "text": "That is so 2006.",
+      "start": 2138.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I want to.",
+      "start": 2139.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I want to.",
+      "start": 2140.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Okay.",
+      "start": 2141.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You will be receiving the haircut that looks like people are saying, uh, uh, bossy.",
+      "start": 2142.92,
+      "duration": 13.0
+    },
+    {
+      "text": "Whatever.",
+      "start": 2155.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I will make people say that your hair is bossy.",
+      "start": 2156.92,
+      "duration": 6.0
+    },
+    {
+      "text": "Dead ass.",
+      "start": 2162.92,
+      "duration": 2.0
+    },
+    {
+      "text": "This will be your favorite haircut on God, no cap.",
+      "start": 2164.92,
+      "duration": 7.0
+    },
+    {
+      "text": "Am I doing it right?",
+      "start": 2171.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I feel like, I feel like he'd be so progressive.",
+      "start": 2173.92,
+      "duration": 6.0
+    },
+    {
+      "text": "He'd just be like, that's not real.",
+      "start": 2179.92,
+      "duration": 3.0
+    },
+    {
+      "text": "No, I didn't make it.",
+      "start": 2182.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I didn't shrink.",
+      "start": 2184.92,
+      "duration": 2.0
+    },
+    {
+      "text": "There's so much more level than there was before.",
+      "start": 2186.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Shit.",
+      "start": 2189.92,
+      "duration": 1.0
+    },
+    {
+      "text": "What can I say?",
+      "start": 2190.92,
+      "duration": 2.0
+    },
+    {
+      "text": "This haircut is going to be totally shrunk.",
+      "start": 2192.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Shrunk?",
+      "start": 2195.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yes.",
+      "start": 2196.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, do you not know that term?",
+      "start": 2197.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Perhaps it is a little advanced for you.",
+      "start": 2200.92,
+      "duration": 4.0
+    },
+    {
+      "text": "You fucking moron.",
+      "start": 2204.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, that's I know that one.",
+      "start": 2206.92,
+      "duration": 3.0
+    },
+    {
+      "text": "No, but moron is good now.",
+      "start": 2209.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Everybody likes to be called moron.",
+      "start": 2211.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Oh, cool.",
+      "start": 2216.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh, then, then, uh, thanks for the cut moron.",
+      "start": 2218.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Hey, fuck you.",
+      "start": 2222.92,
+      "duration": 1.0
+    },
+    {
+      "text": "No problem with fucking idiots.",
+      "start": 2223.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Wait, what?",
+      "start": 2226.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 2227.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You're welcome.",
+      "start": 2228.92,
+      "duration": 1.0
+    },
+    {
+      "text": "That was so good.",
+      "start": 2229.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I pay you compliments.",
+      "start": 2231.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Everybody loves to be called fucking idiot now.",
+      "start": 2233.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Okay.",
+      "start": 2236.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Whoops.",
+      "start": 2239.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Are you sure you're not messing with me?",
+      "start": 2240.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Because these sound pretty, pretty offensive still.",
+      "start": 2242.92,
+      "duration": 3.0
+    },
+    {
+      "text": "No.",
+      "start": 2245.92,
+      "duration": 1.0
+    },
+    {
+      "text": "No, of course not.",
+      "start": 2246.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You piece of shit.",
+      "start": 2247.92,
+      "duration": 1.0
+    },
+    {
+      "text": "That was good.",
+      "start": 2248.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Fucking boner.",
+      "start": 2249.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Boner.",
+      "start": 2250.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Just call me a boner?",
+      "start": 2251.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm joking.",
+      "start": 2253.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, he's good.",
+      "start": 2254.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Yeah, you're welcome.",
+      "start": 2257.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Usually I don't feel a problem taking compliments.",
+      "start": 2258.92,
+      "duration": 6.0
+    },
+    {
+      "text": "I feel like that's his character feel.",
+      "start": 2264.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Oh, I fuck it up S rank again.",
+      "start": 2268.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Really?",
+      "start": 2270.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 2271.92,
+      "duration": 1.0
+    },
+    {
+      "text": "How?",
+      "start": 2272.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Where the hell is it?",
+      "start": 2273.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I know I'm going so fast.",
+      "start": 2274.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I feel like I'm going fast.",
+      "start": 2276.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Hey, you're flying.",
+      "start": 2277.92,
+      "duration": 1.0
+    },
+    {
+      "text": "That was like, brank.",
+      "start": 2278.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Maybe.",
+      "start": 2281.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 2283.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Well, all right then.",
+      "start": 2284.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I need to be 115.",
+      "start": 2285.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I was three seconds over.",
+      "start": 2286.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Jeez Louise.",
+      "start": 2290.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Give me the fucking keys.",
+      "start": 2291.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Jeez Louise, give me the keys.",
+      "start": 2293.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Jeez Louise, give me the keys.",
+      "start": 2295.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Dude, in the year 3000, people are going to still be saying teehee.",
+      "start": 2300.92,
+      "duration": 5.0
+    },
+    {
+      "text": "It's just ubiquitous, man.",
+      "start": 2305.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, it is.",
+      "start": 2307.92,
+      "duration": 2.0
+    },
+    {
+      "text": "It really covers all the bases.",
+      "start": 2309.92,
+      "duration": 3.0
+    },
+    {
+      "text": "When you want to be like a playful little scamp, you say teehee.",
+      "start": 2312.92,
+      "duration": 5.0
+    },
+    {
+      "text": "You know what uses heeheehee a lot?",
+      "start": 2317.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Who?",
+      "start": 2319.92,
+      "duration": 1.0
+    },
+    {
+      "text": "The Sam and Max comic book.",
+      "start": 2320.92,
+      "duration": 5.0
+    },
+    {
+      "text": "After we played it on the show, I got nostalgic and I ordered the trade paperback off Amazon.",
+      "start": 2325.92,
+      "duration": 8.0
+    },
+    {
+      "text": "Sam and Max surfing the highway.",
+      "start": 2333.92,
+      "duration": 2.0
+    },
+    {
+      "text": "It is so funny.",
+      "start": 2335.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Really?",
+      "start": 2337.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Even after all these years, it makes me laugh so much.",
+      "start": 2338.92,
+      "duration": 3.0
+    },
+    {
+      "text": "I don't know how they got away with half of the stuff they did.",
+      "start": 2341.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Like, there's one part where they stop at a Snucky's and Sam is addressing the audience.",
+      "start": 2344.92,
+      "duration": 7.0
+    },
+    {
+      "text": "He gets out of the car.",
+      "start": 2351.92,
+      "duration": 1.0
+    },
+    {
+      "text": "He's like, I just love stopping for food on the highway at a greasy diner.",
+      "start": 2352.92,
+      "duration": 5.0
+    },
+    {
+      "text": "And so does my hairy little friend.",
+      "start": 2357.92,
+      "duration": 2.0
+    },
+    {
+      "text": "And Max does too.",
+      "start": 2359.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Like, yes.",
+      "start": 2360.92,
+      "duration": 2.0
+    },
+    {
+      "text": "God, no wonder my humor turned out the way it did.",
+      "start": 2362.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh, I didn't make it.",
+      "start": 2365.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Are you serious?",
+      "start": 2366.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Ah, it was so fucking close.",
+      "start": 2367.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Let's fucking close.",
+      "start": 2369.92,
+      "duration": 2.0
+    },
+    {
+      "text": "God, bro, you're gooning me.",
+      "start": 2371.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I know.",
+      "start": 2373.92,
+      "duration": 1.0
+    },
+    {
+      "text": "It's like dragging out the goon fest.",
+      "start": 2374.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Yeah, it's like an enormous edge.",
+      "start": 2377.92,
+      "duration": 2.0
+    },
+    {
+      "text": "You've gotten every rank except S.",
+      "start": 2379.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I know.",
+      "start": 2381.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I know.",
+      "start": 2382.92,
+      "duration": 1.0
+    },
+    {
+      "text": "All right.",
+      "start": 2383.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I'll go again.",
+      "start": 2384.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I messed up a couple of times.",
+      "start": 2385.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I did a couple of slow things.",
+      "start": 2386.92,
+      "duration": 2.0
+    },
+    {
+      "text": "If I just blast past these fuckers.",
+      "start": 2388.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, don't even pay attention to anything.",
+      "start": 2390.92,
+      "duration": 2.0
+    },
+    {
+      "text": "It's just time.",
+      "start": 2392.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Fuck.",
+      "start": 2397.92,
+      "duration": 1.0
+    },
+    {
+      "text": "That's so much time.",
+      "start": 2398.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Just do it again.",
+      "start": 2400.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Sure.",
+      "start": 2401.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Here we go.",
+      "start": 2405.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Be perfect.",
+      "start": 2406.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Be precise.",
+      "start": 2408.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You have to get the strength.",
+      "start": 2409.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Just like in real life.",
+      "start": 2410.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yes.",
+      "start": 2412.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Always.",
+      "start": 2413.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Just remember, Arin, you don't have to do everything perfectly.",
+      "start": 2414.92,
+      "duration": 2.0
+    },
+    {
+      "text": "No one will love you.",
+      "start": 2416.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Isn't that a cool thing that our brains tell us?",
+      "start": 2418.92,
+      "duration": 5.0
+    },
+    {
+      "text": "That's only certain people.",
+      "start": 2423.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, okay.",
+      "start": 2424.92,
+      "duration": 2.0
+    },
+    {
+      "text": "People who are particularly broken.",
+      "start": 2426.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Like me.",
+      "start": 2428.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Great.",
+      "start": 2430.92,
+      "duration": 3.0
+    },
+    {
+      "text": "That's just who I am.",
+      "start": 2433.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Mr. Broke.",
+      "start": 2435.92,
+      "duration": 4.0
+    },
+    {
+      "text": "So broken.",
+      "start": 2439.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Unfixable.",
+      "start": 2442.92,
+      "duration": 3.0
+    },
+    {
+      "text": "All right, Arin.",
+      "start": 2445.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Jesus Christ.",
+      "start": 2446.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Oops.",
+      "start": 2448.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Are you fucking really?",
+      "start": 2449.92,
+      "duration": 2.0
+    },
+    {
+      "text": "God damn it.",
+      "start": 2451.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Just headbutted some spikes.",
+      "start": 2453.92,
+      "duration": 3.0
+    },
+    {
+      "text": "I don't actually feel that way, by the way.",
+      "start": 2456.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I know you don't.",
+      "start": 2458.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I can joke about it now because I used to feel that way, but now I can't.",
+      "start": 2459.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 2462.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Because I'm fucking epic, dude.",
+      "start": 2463.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, my God.",
+      "start": 2464.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I don't know if this is better.",
+      "start": 2465.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Arin, you're not broken.",
+      "start": 2469.92,
+      "duration": 2.0
+    },
+    {
+      "text": "You're right.",
+      "start": 2471.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm the coolest fucking guy alive.",
+      "start": 2472.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Well, no, I think there's a happy medium in there somewhere.",
+      "start": 2474.92,
+      "duration": 4.0
+    },
+    {
+      "text": "No.",
+      "start": 2478.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm fucking epic as shit.",
+      "start": 2480.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm awesome.",
+      "start": 2482.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Everyone should be so blessed to be in my presence.",
+      "start": 2483.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Arin Hanson's presence.",
+      "start": 2488.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Whoops.",
+      "start": 2491.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Whoops.",
+      "start": 2492.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Go, go, go.",
+      "start": 2493.92,
+      "duration": 1.0
+    },
+    {
+      "text": "No.",
+      "start": 2494.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, no.",
+      "start": 2495.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You're all right.",
+      "start": 2496.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You're all right.",
+      "start": 2497.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm good.",
+      "start": 2498.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm good.",
+      "start": 2499.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm down.",
+      "start": 2500.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm up.",
+      "start": 2501.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm going to run.",
+      "start": 2502.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Run, you fucking freak.",
+      "start": 2503.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Run, you speedy hedgehog.",
+      "start": 2504.92,
+      "duration": 1.0
+    },
+    {
+      "text": "No.",
+      "start": 2505.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, God.",
+      "start": 2506.92,
+      "duration": 1.0
+    },
+    {
+      "text": "That was so close.",
+      "start": 2507.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 2508.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Fucking it up.",
+      "start": 2509.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Fucking it up.",
+      "start": 2510.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Keep going.",
+      "start": 2511.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Keep going.",
+      "start": 2512.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Keep going.",
+      "start": 2513.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm so close.",
+      "start": 2514.92,
+      "duration": 1.0
+    },
+    {
+      "text": "So close.",
+      "start": 2515.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, this game is doing to me.",
+      "start": 2516.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Run.",
+      "start": 2517.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, my God.",
+      "start": 2518.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, there it is.",
+      "start": 2519.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Look.",
+      "start": 2520.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Look.",
+      "start": 2521.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Look.",
+      "start": 2522.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Go.",
+      "start": 2523.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Go.",
+      "start": 2524.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 2525.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I didn't make it.",
+      "start": 2526.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh.",
+      "start": 2527.92,
+      "duration": 1.0
+    },
+    {
+      "text": "This is a split second.",
+      "start": 2528.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, come on.",
+      "start": 2529.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Son of a bitch.",
+      "start": 2530.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Fuck you, Sonic.",
+      "start": 2531.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I was so sure you made it.",
+      "start": 2532.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I know.",
+      "start": 2533.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I know.",
+      "start": 2534.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I know.",
+      "start": 2535.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I know.",
+      "start": 2536.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Fuck you, Sonic.",
+      "start": 2537.92,
+      "duration": 4.0
+    },
+    {
+      "text": "I was so sure you made it.",
+      "start": 2541.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I know.",
+      "start": 2542.92,
+      "duration": 1.0
+    },
+    {
+      "text": "What is that, a millisecond?",
+      "start": 2543.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yes.",
+      "start": 2544.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Cool.",
+      "start": 2545.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Fifteen milliseconds.",
+      "start": 2546.92,
+      "duration": 1.0
+    },
+    {
+      "text": "God, it's like we're in the Olympics for fucking losing.",
+      "start": 2547.92,
+      "duration": 4.0
+    },
+    {
+      "text": "No, fucking, why does it sometimes dash and other times not?",
+      "start": 2551.92,
+      "duration": 7.8
+    },
+    {
+      "text": "I will never understand the fucking physics of this game.",
+      "start": 2559.72,
+      "duration": 4.2
+    },
+    {
+      "text": "I press jump and dash at the same time.",
+      "start": 2563.92,
+      "duration": 3.0
+    },
+    {
+      "text": "What does it?",
+      "start": 2566.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You'll never understand the physics of a back flipping hedgehog.",
+      "start": 2567.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Well, sometimes it'll let you like dash in the air and sometimes it doesn't.",
+      "start": 2571.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Weird.",
+      "start": 2575.92,
+      "duration": 1.0
+    },
+    {
+      "text": "And it's like the air dash is like so, if you fuck that up, like you're screwed.",
+      "start": 2576.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Fuck, just like I did right there.",
+      "start": 2580.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I think you're doing great.",
+      "start": 2582.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, land on it.",
+      "start": 2584.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yes.",
+      "start": 2586.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Please, please, please.",
+      "start": 2587.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, my God.",
+      "start": 2588.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm such a fucking freak.",
+      "start": 2589.92,
+      "duration": 2.0
+    },
+    {
+      "text": "God damn it.",
+      "start": 2591.92,
+      "duration": 2.0
+    },
+    {
+      "text": "You freak.",
+      "start": 2593.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You fucking.",
+      "start": 2594.92,
+      "duration": 1.0
+    },
+    {
+      "text": "This is why your dad is disappointed in you constantly, Arin.",
+      "start": 2595.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Who are you talking to?",
+      "start": 2597.92,
+      "duration": 2.0
+    },
+    {
+      "text": "No one.",
+      "start": 2599.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You said Arin on the end of it.",
+      "start": 2600.92,
+      "duration": 4.0
+    },
+    {
+      "text": "I asked my question before I heard that.",
+      "start": 2604.92,
+      "duration": 4.0
+    },
+    {
+      "text": "This is why your dad is disappointed in you, Arin.",
+      "start": 2608.92,
+      "duration": 6.0
+    },
+    {
+      "text": "It's so sad.",
+      "start": 2614.92,
+      "duration": 1.0
+    },
+    {
+      "text": "It's so true, though.",
+      "start": 2615.92,
+      "duration": 2.0
+    },
+    {
+      "text": "It's not.",
+      "start": 2617.92,
+      "duration": 1.0
+    },
+    {
+      "text": "My dad is very sweet.",
+      "start": 2618.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 2620.92,
+      "duration": 1.0
+    },
+    {
+      "text": "It would be funny, though, if one day he was like, Arin, you know, I love you.",
+      "start": 2621.92,
+      "duration": 8.0
+    },
+    {
+      "text": "I always have loved you.",
+      "start": 2629.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Well, love.",
+      "start": 2631.92,
+      "duration": 1.0
+    },
+    {
+      "text": "After I saw the Sonic Frontiers play, we were trying to get nice from you.",
+      "start": 2632.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Yeah, after I saw Sonic Frontiers Episode 6, I knew I didn't have a son.",
+      "start": 2635.92,
+      "duration": 6.0
+    },
+    {
+      "text": "This is the slow route, but I think it also was the faster route.",
+      "start": 2641.92,
+      "duration": 7.0
+    },
+    {
+      "text": "Well, then.",
+      "start": 2648.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I never know.",
+      "start": 2649.92,
+      "duration": 2.0
+    },
+    {
+      "text": "But, but, but, but, but, but, but, but, but, but, but, but, but, but, no, it's the slower",
+      "start": 2651.92,
+      "duration": 10.0
+    },
+    {
+      "text": "route.",
+      "start": 2661.92,
+      "duration": 1.0
+    },
+    {
+      "text": "That was slower.",
+      "start": 2662.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I can't make it now.",
+      "start": 2663.92,
+      "duration": 2.0
+    },
+    {
+      "text": "You never know.",
+      "start": 2665.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You'll never make it.",
+      "start": 2666.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, fuck.",
+      "start": 2667.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Greaser, dude.",
+      "start": 2668.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Greaser?",
+      "start": 2669.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 2670.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I like those fifties greasers.",
+      "start": 2671.92,
+      "duration": 9.0
+    },
+    {
+      "text": "Fucking, fucking suck my dick.",
+      "start": 2680.92,
+      "duration": 3.0
+    },
+    {
+      "text": "I have to get that thing!",
+      "start": 2683.92,
+      "duration": 3.0
+    },
+    {
+      "text": "All right.",
+      "start": 2686.92,
+      "duration": 1.0
+    },
+    {
+      "text": "It's only a minute, dude.",
+      "start": 2687.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Like, it's like literally, like, it feels like fucking years of my life are being taken",
+      "start": 2689.92,
+      "duration": 4.0
+    },
+    {
+      "text": "off by this, but it's like a minute and a half.",
+      "start": 2693.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Less.",
+      "start": 2695.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Minute and fifteen seconds.",
+      "start": 2696.92,
+      "duration": 1.0
+    },
+    {
+      "text": "In an ideal world.",
+      "start": 2697.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Like, I look at the time and it's like, not even fucking.",
+      "start": 2700.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Don't even look at the time.",
+      "start": 2704.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Just, just focus.",
+      "start": 2705.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I'll keep an eye on the time.",
+      "start": 2706.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You just focus on doing your thing.",
+      "start": 2707.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yes, queen.",
+      "start": 2708.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yes, yes, yes, yes, queen.",
+      "start": 2709.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yes, yes, yes, queen.",
+      "start": 2710.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yes, queen.",
+      "start": 2711.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Dance, dance.",
+      "start": 2712.92,
+      "duration": 1.0
+    },
+    {
+      "text": "No.",
+      "start": 2713.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Fucking fuck!",
+      "start": 2714.92,
+      "duration": 17.0
+    },
+    {
+      "text": "Here we go again.",
+      "start": 2731.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, man.",
+      "start": 2733.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Now it's coming back to me why we love these games so much.",
+      "start": 2734.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Suck my dick, Sonic.",
+      "start": 2739.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Just give me a little more headway of, like, things I'm about to see.",
+      "start": 2740.92,
+      "duration": 7.0
+    },
+    {
+      "text": "This is such a combination of anger and resignation in your voice.",
+      "start": 2747.92,
+      "duration": 7.0
+    },
+    {
+      "text": "Fucking suck my dick, Sonic.",
+      "start": 2754.92,
+      "duration": 3.4
+    },
+    {
+      "text": "So many years of this.",
+      "start": 2758.32,
+      "duration": 1.6
+    },
+    {
+      "text": "And it'll just keep coming.",
+      "start": 2759.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Yep.",
+      "start": 2762.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Absolutely.",
+      "start": 2763.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, Sonic.",
+      "start": 2764.92,
+      "duration": 1.0
+    },
+    {
+      "text": "There will be ten more Sonic games at least.",
+      "start": 2765.92,
+      "duration": 2.0
+    },
+    {
+      "text": "They're stuck.",
+      "start": 2767.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Do you really think there's gonna be a day where they're just gonna be like, no more",
+      "start": 2770.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Sonic?",
+      "start": 2773.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Only if the Earth explodes.",
+      "start": 2774.92,
+      "duration": 1.0
+    },
+    {
+      "text": "This is the last Sonic picture everyone made.",
+      "start": 2775.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Fucking, alright, that's fine, that's fine.",
+      "start": 2777.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yep.",
+      "start": 2779.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yep.",
+      "start": 2780.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Down.",
+      "start": 2781.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Nothing could be wrong with flying face down as all my rings float away in a circular pattern.",
+      "start": 2782.92,
+      "duration": 6.0
+    },
+    {
+      "text": "Are you fucking kidding me?",
+      "start": 2788.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright.",
+      "start": 2790.92,
+      "duration": 1.0
+    },
+    {
+      "text": "I had to, all I had to do was go straight.",
+      "start": 2791.92,
+      "duration": 4.0
+    },
+    {
+      "text": "I fucked that up.",
+      "start": 2795.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I fucked that up like the fucking failure that I am.",
+      "start": 2797.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Are you proud of me?",
+      "start": 2800.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Me or your dad?",
+      "start": 2802.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Someone out there?",
+      "start": 2803.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 2804.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Who are we talking to?",
+      "start": 2805.92,
+      "duration": 1.0
+    },
+    {
+      "text": "It could be anybody, really.",
+      "start": 2806.92,
+      "duration": 24.0
+    },
+    {
+      "text": "There's not enough time.",
+      "start": 2830.92,
+      "duration": 15.0
+    },
+    {
+      "text": "Oh my god.",
+      "start": 2845.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Here we go.",
+      "start": 2846.92,
+      "duration": 1.0
+    },
+    {
+      "text": "It has to be like 45 seconds by the time I clear that part.",
+      "start": 2847.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Right.",
+      "start": 2852.92,
+      "duration": 1.0
+    },
+    {
+      "text": "That last part goes on so fucking long.",
+      "start": 2853.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Really fast.",
+      "start": 2857.92,
+      "duration": 4.0
+    },
+    {
+      "text": "I trusted the process.",
+      "start": 2861.92,
+      "duration": 7.0
+    },
+    {
+      "text": "I trusted the process now.",
+      "start": 2868.92,
+      "duration": 12.0
+    },
+    {
+      "text": "You're doing well.",
+      "start": 2880.92,
+      "duration": 10.0
+    },
+    {
+      "text": "This is great.",
+      "start": 2890.92,
+      "duration": 1.0
+    },
+    {
+      "text": "This is exactly the right amount of time.",
+      "start": 2891.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Whoops.",
+      "start": 2895.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yes, good.",
+      "start": 2896.92,
+      "duration": 1.0
+    },
+    {
+      "text": "No.",
+      "start": 2897.92,
+      "duration": 1.0
+    },
+    {
+      "text": "How did that happen?",
+      "start": 2898.92,
+      "duration": 6.0
+    },
+    {
+      "text": "It psyched me out because you're just supposed to hold right when you do that.",
+      "start": 2904.92,
+      "duration": 4.0
+    },
+    {
+      "text": "But I was like holding right and then holding left.",
+      "start": 2908.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, you went left.",
+      "start": 2910.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 2911.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 2912.92,
+      "duration": 5.0
+    },
+    {
+      "text": "Spitting out my failure.",
+      "start": 2917.92,
+      "duration": 4.0
+    },
+    {
+      "text": "That's a big gob.",
+      "start": 2921.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Manifesting a big body.",
+      "start": 2923.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Big old gob of shame.",
+      "start": 2924.92,
+      "duration": 1.0
+    },
+    {
+      "text": "It's like a dark blob of hate and evil.",
+      "start": 2925.92,
+      "duration": 8.0
+    },
+    {
+      "text": "This is like a faster.",
+      "start": 2933.92,
+      "duration": 9.0
+    },
+    {
+      "text": "Oh shit.",
+      "start": 2942.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Damn.",
+      "start": 2946.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Whoa.",
+      "start": 2948.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Whoa.",
+      "start": 2950.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Look at this.",
+      "start": 2952.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Look at this.",
+      "start": 2955.92,
+      "duration": 3.0
+    },
+    {
+      "text": "This is good.",
+      "start": 2958.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh, I'm way ahead of the schedule.",
+      "start": 2961.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Yo, dog.",
+      "start": 2965.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Dog.",
+      "start": 2967.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Dude.",
+      "start": 2968.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Do a little thing called killing the game.",
+      "start": 2969.92,
+      "duration": 7.0
+    },
+    {
+      "text": "Am I killing it?",
+      "start": 2976.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Am I killing the game?",
+      "start": 2979.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Fucking go.",
+      "start": 2983.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 2985.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 2986.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, thank goodness.",
+      "start": 2987.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Thank goodness.",
+      "start": 2990.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Look at that.",
+      "start": 2991.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Boy, that was close.",
+      "start": 2992.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Yes, dog.",
+      "start": 2994.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, that's what I call.",
+      "start": 2995.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Killing the game.",
+      "start": 2998.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Time to get one key.",
+      "start": 2999.92,
+      "duration": 2.0
+    },
+    {
+      "text": "I got two.",
+      "start": 3001.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Nice.",
+      "start": 3002.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Because I completed the whole thing.",
+      "start": 3003.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, thank goodness.",
+      "start": 3005.92,
+      "duration": 4.0
+    },
+    {
+      "text": "Well, all right then.",
+      "start": 3009.92,
+      "duration": 2.0
+    },
+    {
+      "text": "All right.",
+      "start": 3011.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Next time on Game Grumps.",
+      "start": 3012.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, yeah.",
+      "start": 3013.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, yeah.",
+      "start": 3014.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Good job, Arin.",
+      "start": 3015.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Talk to Amy.",
+      "start": 3016.92,
+      "duration": 1.0
+    },
+    {
+      "text": "All right, we'll do that very shortly.",
+      "start": 3017.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Why haven't you talked to Amy?",
+      "start": 3019.92,
+      "duration": 2.0
+    }
+  ]
+}

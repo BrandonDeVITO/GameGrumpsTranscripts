@@ -1,0 +1,2553 @@
+{
+  "video_id": "pN7g1UvgZow",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Hey, I'm grump!",
+      "start": 0.03,
+      "duration": 0.81
+    },
+    {
+      "text": "I'm not so grump!",
+      "start": 0.84,
+      "duration": 1.6
+    },
+    {
+      "text": "And we're the Game Grumps!",
+      "start": 2.44,
+      "duration": 3.0
+    },
+    {
+      "text": "Hi, welcome back",
+      "start": 5.18,
+      "duration": 0.74
+    },
+    {
+      "text": "Hello! Welcome back to Doki Doki literature club.",
+      "start": 5.92,
+      "duration": 3.4
+    },
+    {
+      "text": "ARIN: Dokey smokey.\nDAN: The game is gradually getting fucking weirder.",
+      "start": 9.02,
+      "duration": 3.56
+    },
+    {
+      "text": "Dokey Smokey.",
+      "start": 9.32,
+      "duration": 0.5
+    },
+    {
+      "text": "The game is gradually getting fucking weirder.",
+      "start": 9.82,
+      "duration": 2.32
+    },
+    {
+      "text": "Hey, watch this",
+      "start": 12.14,
+      "duration": 0.5
+    },
+    {
+      "text": "ARIN: Hey, watch this. Boop!",
+      "start": 12.58,
+      "duration": 1.66
+    },
+    {
+      "text": "Boop!",
+      "start": 13.34,
+      "duration": 0.5
+    },
+    {
+      "text": "Awww. (Arin keeps booping) That's the teeniest snoot you can boop.",
+      "start": 13.84,
+      "duration": 4.44
+    },
+    {
+      "text": "DAN: Aww.\nARIN: Boop!",
+      "start": 14.24,
+      "duration": 1.48
+    },
+    {
+      "text": "DAN: That's the teeniest snoot you can boop!\nARIN: Oh I booped that snoot.",
+      "start": 15.72,
+      "duration": 3.68
+    },
+    {
+      "text": "DAN: Nothing weird has happened with Monica, right?",
+      "start": 19.92,
+      "duration": 2.04
+    },
+    {
+      "text": "ARIN: Uhh...",
+      "start": 21.96,
+      "duration": 0.72
+    },
+    {
+      "text": "Uhhh, well she appeared in front of the text for a second",
+      "start": 22.14,
+      "duration": 2.06
+    },
+    {
+      "text": "Well she appeared in front of the text-",
+      "start": 22.68,
+      "duration": 1.52
+    },
+    {
+      "text": "DAN: She did, she did. That was weird...\nARIN: -for a sec.",
+      "start": 24.2,
+      "duration": 1.62
+    },
+    {
+      "text": "She did, she did -  that was weird, but nothing with her like, face or anything, [like what happened] with the other girls",
+      "start": 24.21,
+      "duration": 5.04
+    },
+    {
+      "text": "DAN: But nothing with her, like, face or anything...",
+      "start": 25.82,
+      "duration": 2.18
+    },
+    {
+      "text": "ARIN: No... I don't think so.\nDAN: -like with the other girls.",
+      "start": 28.0,
+      "duration": 2.36
+    },
+    {
+      "text": "Nooo... I don't think so...",
+      "start": 29.25,
+      "duration": 1.34
+    },
+    {
+      "text": "DAN:  Alright.",
+      "start": 30.36,
+      "duration": 0.98
+    },
+    {
+      "text": "Alright- \n(Arin starts reading from the screen)",
+      "start": 30.59,
+      "duration": 0.89
+    },
+    {
+      "text": "ARIN (as Monika): Hi FriendArin, having a good time so far?",
+      "start": 31.34,
+      "duration": 3.16
+    },
+    {
+      "text": "ARIN (as FriendArin): Uh, yeah.",
+      "start": 34.5,
+      "duration": 1.38
+    },
+    {
+      "text": "ARIN (as Monika): Good, glad to hear it.",
+      "start": 35.88,
+      "duration": 1.96
+    },
+    {
+      "text": "By the way, since you're new and everything, if you ever have any suggestions for the club...",
+      "start": 37.84,
+      "duration": 4.36
+    },
+    {
+      "text": "...like new activities or things we can do better, I'm always listening.",
+      "start": 42.2,
+      "duration": 4.38
+    },
+    {
+      "text": "Don't be afraid to bring things up, okay?",
+      "start": 46.74,
+      "duration": 2.28
+    },
+    {
+      "text": "ARIN (as FriendArin): All right, I'll keep that in mind.",
+      "start": 49.16,
+      "duration": 2.28
+    },
+    {
+      "text": "DAN: Maybe, uhh... to start with you can tell me what the fuck is going on.",
+      "start": 51.44,
+      "duration": 4.0
+    },
+    {
+      "text": "Maybe- uhhh, to start with",
+      "start": 51.46,
+      "duration": 1.56
+    },
+    {
+      "text": "you can tell me what the fuck is going on. How 'bout that?",
+      "start": 53.06,
+      "duration": 3.48
+    },
+    {
+      "text": "ARIN: I'm starting to-\nDAN: How about that?",
+      "start": 55.44,
+      "duration": 1.02
+    },
+    {
+      "text": "ARIN: I'm starting to think like...",
+      "start": 56.46,
+      "duration": 1.24
+    },
+    {
+      "text": "I'm starting to think we should start taking everything - sort of - more literally..?",
+      "start": 56.78,
+      "duration": 4.92
+    },
+    {
+      "text": "Yes.",
+      "start": 62.3,
+      "duration": 0.66
+    },
+    {
+      "text": "DAN: Yes.\nARIN: Like when she said I'm always listening....",
+      "start": 62.7,
+      "duration": 2.9
+    },
+    {
+      "text": "Like when she said I'm always listening-",
+      "start": 63.04,
+      "duration": 2.88
+    },
+    {
+      "text": "ARIN: I'm- I'm thinking maybe she is always listening?\nDAN: She's always listening?",
+      "start": 66.18,
+      "duration": 2.32
+    },
+    {
+      "text": "I'm Thinking maybe she IS always listening...?",
+      "start": 66.52,
+      "duration": 2.0
+    },
+    {
+      "text": "DAN: Oh yeah, I mean I wouldn't... I think all bets are off at this point",
+      "start": 68.58,
+      "duration": 4.1
+    },
+    {
+      "text": "Oh yeah. I mean- I wouldn't .. I think all bets are off at this point.",
+      "start": 68.74,
+      "duration": 3.78
+    },
+    {
+      "text": "Arin begins reading out the dialogue",
+      "start": 72.58,
+      "duration": 0.88
+    },
+    {
+      "text": "ARIN: All right, let's...",
+      "start": 73.26,
+      "duration": 1.18
+    },
+    {
+      "text": "ARIN (as FriendArin): All right, I'll keep that in mind.",
+      "start": 74.44,
+      "duration": 1.76
+    },
+    {
+      "text": "Of course I'll be afraid to bring things up.",
+      "start": 76.3,
+      "duration": 1.78
+    },
+    {
+      "text": "I'm much better off just going with the flow until I'm more settled in.",
+      "start": 78.08,
+      "duration": 3.1
+    },
+    {
+      "text": "ARIN (as Monika): Anyway, I want to sha- want to share your poem with me?",
+      "start": 81.26,
+      "duration": 3.84
+    },
+    {
+      "text": "ARIN (as FriendArin): It's kind of embarrassing, but I guess I have to.",
+      "start": 85.1,
+      "duration": 2.66
+    },
+    {
+      "text": "*robotic laughter*",
+      "start": 87.76,
+      "duration": 1.58
+    },
+    {
+      "text": "But it's that sort of barrier that we'll all learn to get past soon.",
+      "start": 94.48,
+      "duration": 3.62
+    },
+    {
+      "text": "ARIN (as FriendArin): Yeah, that's true, heh...",
+      "start": 98.4,
+      "duration": 1.9
+    },
+    {
+      "text": "I hand Monica my poem.",
+      "start": 100.3,
+      "duration": 1.9
+    },
+    {
+      "text": "ARIN (as Monika): Mm-hmm.",
+      "start": 102.68,
+      "duration": 1.64
+    },
+    {
+      "text": "as much as a robot can like anything- !! I mean PERSON",
+      "start": 106.0,
+      "duration": 3.12
+    },
+    {
+      "text": "DAN: Mm-hm.\nI mean, person.",
+      "start": 107.48,
+      "duration": 1.88
+    },
+    {
+      "text": "mmmmhMMM o_O",
+      "start": 109.12,
+      "duration": 0.98
+    },
+    {
+      "text": "DAN: ...Mm-hm...\nARIN (as FriendArin): Really?",
+      "start": 109.36,
+      "duration": 2.02
+    },
+    {
+      "text": "ARIN (as Monika): It's a lot cuter than I expected.",
+      "start": 111.38,
+      "duration": 2.4
+    },
+    {
+      "text": "*robotic laughter*\nDAN: *human laughter*",
+      "start": 114.04,
+      "duration": 2.0
+    },
+    {
+      "text": "ARIN (as FriendArin): Oh jeez.",
+      "start": 116.82,
+      "duration": 1.56
+    },
+    {
+      "text": "ARIN (as Monika): No, no.",
+      "start": 118.38,
+      "duration": 2.0
+    },
+    {
+      "text": "It kind of makes me think of something Natsuki would write, and she's a good writer, too.",
+      "start": 120.66,
+      "duration": 4.9
+    },
+    {
+      "text": "(imitating Natsuki) People can talk.\nDAN: *laughter*",
+      "start": 125.88,
+      "duration": 2.06
+    },
+    {
+      "text": "ARIN (as Monika): So take that as a complimeeeeen....",
+      "start": 127.94,
+      "duration": 2.16
+    },
+    {
+      "text": "ARIN (as FriendArin): Hahaha, if you say so... *nervous laughter*",
+      "start": 130.72,
+      "duration": 2.68
+    },
+    {
+      "text": "ARIN (as Monika): Yeah, if you're interested in Natsuki then always keep a snack on you.",
+      "start": 133.58,
+      "duration": 4.18
+    },
+    {
+      "text": "DAN: *chuckles*",
+      "start": 140.34,
+      "duration": 0.7
+    },
+    {
+      "text": "*robotic laughter*",
+      "start": 141.06,
+      "duration": 1.56
+    },
+    {
+      "text": "But sometimes she just loses all of her strength and shuts doooown.",
+      "start": 148.96,
+      "duration": 2.94
+    },
+    {
+      "text": "DAN & ARIN: *laughter*",
+      "start": 151.9,
+      "duration": 1.589
+    },
+    {
+      "text": "...her malnutrition is interfering with her adolescent growth.\nDAN: What the fuck?",
+      "start": 157.12,
+      "duration": 3.26
+    },
+    {
+      "text": "What the fuck?",
+      "start": 159.24,
+      "duration": 0.82
+    },
+    {
+      "text": "I don't - I don't know that she said that last time.",
+      "start": 160.06,
+      "duration": 3.18
+    },
+    {
+      "text": "ARIN: I don't... I don't know that she said that last time.",
+      "start": 160.38,
+      "duration": 2.58
+    },
+    {
+      "text": "DAN: Yeah, that do- I do not recall that.\nARIN: *quietly laughs*",
+      "start": 162.96,
+      "duration": 2.9
+    },
+    {
+      "text": "Yeah, I do not recall that",
+      "start": 163.24,
+      "duration": 2.18
+    },
+    {
+      "text": "She DEFINITELY did not say this.",
+      "start": 168.16,
+      "duration": 1.82
+    },
+    {
+      "text": "ARIN (as Monika): Sorry. Just trying to look at the bright side.",
+      "start": 170.06,
+      "duration": 2.32
+    },
+    {
+      "text": "Anyway, do you want to read my poem now?",
+      "start": 172.56,
+      "duration": 1.86
+    },
+    {
+      "text": "DAN: Yes, I do, gradually getting fucking weirder girl.",
+      "start": 174.42,
+      "duration": 3.5
+    },
+    {
+      "text": "\"Yes, I DO, gradually-getting-fucking-weirder-girl!\"",
+      "start": 174.52,
+      "duration": 3.2
+    },
+    {
+      "text": "ARIN (as Monika): Don't worry. I'm not very good.",
+      "start": 177.92,
+      "duration": 1.96
+    },
+    {
+      "text": "ARIN (as FriendArin): You sound pretty confident for someone who claims to not be very good.",
+      "start": 179.88,
+      "duration": 4.26
+    },
+    {
+      "text": "Well, that's because I have to sound confident....... in order to blend in",
+      "start": 184.08,
+      "duration": 3.9
+    },
+    {
+      "text": "ARIN (as Monika): Well, that's because I have to sound confident... in order to blend in.",
+      "start": 184.14,
+      "duration": 4.28
+    },
+    {
+      "text": "DAN: *laughs*\nARIN (as Monika): That doesn't mean I always feel that way, you know.",
+      "start": 188.62,
+      "duration": 2.72
+    },
+    {
+      "text": "ARIN (as FriendArin): I see. Well, let's read it then.",
+      "start": 191.34,
+      "duration": 2.94
+    },
+    {
+      "text": "ARIN (as Monika): SHHHHHH hole in wall, but she wa-\nDAN: *brrrt*",
+      "start": 194.76,
+      "duration": 3.34
+    },
+    {
+      "text": "-sudden hyperfocused silence-",
+      "start": 198.2,
+      "duration": 0.86
+    },
+    {
+      "text": "ARIN: But- okay, I thought the capital letters were, like, spelling something-\nDAN: Oh, no.",
+      "start": 199.26,
+      "duration": 4.56
+    },
+    {
+      "text": "Oh- no.",
+      "start": 202.98,
+      "duration": 0.62
+    },
+    {
+      "text": "ARIN (as Monika): Hole in Wall-\nDAN: Yeah!",
+      "start": 203.82,
+      "duration": 1.26
+    },
+    {
+      "text": "yeAH! (oh boy)",
+      "start": 203.88,
+      "duration": 0.62
+    },
+    {
+      "text": "thuhb-",
+      "start": 205.06,
+      "duration": 0.5
+    },
+    {
+      "text": "DAN: Hubcub- *laughs*\nARIN: *laughs*",
+      "start": 205.28,
+      "duration": 2.16
+    },
+    {
+      "text": "kuhb",
+      "start": 205.56,
+      "duration": 0.5
+    },
+    {
+      "text": "buh",
+      "start": 206.06,
+      "duration": 0.5
+    },
+    {
+      "text": "-laughter- (what a horrible anagram)",
+      "start": 206.56,
+      "duration": 1.06
+    },
+    {
+      "text": "ARIN: Well I saw- I saw like boat, and I was like, whoa what?\nDAN: Oh, gotcha.",
+      "start": 207.44,
+      "duration": 2.8
+    },
+    {
+      "text": "Well, I saw, I saw like, \"boat\" and I was like, \"whoa what?\"",
+      "start": 207.66,
+      "duration": 1.88
+    },
+    {
+      "text": "Ohhh, I get you.",
+      "start": 209.54,
+      "duration": 0.82
+    },
+    {
+      "text": "ARIN: Um...",
+      "start": 210.24,
+      "duration": 1.06
+    },
+    {
+      "text": "um-",
+      "start": 210.38,
+      "duration": 0.5
+    },
+    {
+      "text": "(Arin begins reading the poem)",
+      "start": 210.88,
+      "duration": 0.5
+    },
+    {
+      "text": "(as Monika) Hole in Wall\nBut he wasn't looking at me",
+      "start": 211.3,
+      "duration": 2.24
+    },
+    {
+      "text": "Confused, I frantically glanced at my surroundings.",
+      "start": 213.54,
+      "duration": 2.04
+    },
+    {
+      "text": "But my burned eyes can no longer see color.",
+      "start": 215.58,
+      "duration": 2.42
+    },
+    {
+      "text": "Are there others in the room? Are they talking?",
+      "start": 218.0,
+      "duration": 2.32
+    },
+    {
+      "text": "Or are they simply poems on flat sheets of paper?",
+      "start": 220.32,
+      "duration": 2.42
+    },
+    {
+      "text": "The sound of frantic scrawling playing tricks on my ears?",
+      "start": 222.74,
+      "duration": 2.72
+    },
+    {
+      "text": "The mu- the room begins to crinkle.\nClosing in on me.",
+      "start": 225.46,
+      "duration": 2.98
+    },
+    {
+      "text": "The air I breathe dissipates before it reaches my lungs.",
+      "start": 228.44,
+      "duration": 2.42
+    },
+    {
+      "text": "I panic. There must be a way out.",
+      "start": 230.86,
+      "duration": 1.74
+    },
+    {
+      "text": "It's right there. He's right there.",
+      "start": 232.6,
+      "duration": 1.72
+    },
+    {
+      "text": "Swallowing my fears, I brandish my pen.",
+      "start": 234.32,
+      "duration": 2.2
+    },
+    {
+      "text": "ARIN: That wasn't the one last time.\nDAN: What the fuck... Yeah, yeah.",
+      "start": 236.52,
+      "duration": 3.58
+    },
+    {
+      "text": "... That wasn't the one last time...",
+      "start": 236.54,
+      "duration": 2.48
+    },
+    {
+      "text": "-uneasily- uhh yeah.....",
+      "start": 239.02,
+      "duration": 0.94
+    },
+    {
+      "text": "This- also",
+      "start": 241.44,
+      "duration": 1.64
+    },
+    {
+      "text": "mmmmMMM.......",
+      "start": 243.38,
+      "duration": 1.28
+    },
+    {
+      "text": "DAN: Mmmmmm... Yes.\nARIN: Yeah?",
+      "start": 243.4,
+      "duration": 3.44
+    },
+    {
+      "text": "....yes.....",
+      "start": 244.84,
+      "duration": 0.74
+    },
+    {
+      "text": "yeah?",
+      "start": 246.06,
+      "duration": 0.58
+    },
+    {
+      "text": "(Danny and Arin analyzing the poem silently)",
+      "start": 247.08,
+      "duration": 0.96
+    },
+    {
+      "text": "ARIN: He, I'm... There's gotta be some code in here or something.",
+      "start": 248.2,
+      "duration": 2.8
+    },
+    {
+      "text": "DAN: Yeah.\nARIN: I'm feeling like there's some code or something here.",
+      "start": 251.0,
+      "duration": 2.76
+    },
+    {
+      "text": "I'm feeling like there's some code or something here...",
+      "start": 251.26,
+      "duration": 2.36
+    },
+    {
+      "text": "ARIN: But, confused, but, our, or, the...",
+      "start": 253.76,
+      "duration": 2.44
+    },
+    {
+      "text": "\"But, Confused, But, Are, Or, The [...]\"",
+      "start": 253.82,
+      "duration": 2.12
+    },
+    {
+      "text": "Me, surroundings, colors, uh- no...",
+      "start": 256.3,
+      "duration": 2.98
+    },
+    {
+      "text": "Alright-",
+      "start": 259.22,
+      "duration": 0.62
+    },
+    {
+      "text": "DAN: Are- are there others in this room, are they talking...",
+      "start": 259.28,
+      "duration": 3.3
+    },
+    {
+      "text": "\"Are there others in this room? Are they talking?\"",
+      "start": 260.08,
+      "duration": 2.22
+    },
+    {
+      "text": "...or are they simply poems on flat sheets or paper...",
+      "start": 262.58,
+      "duration": 3.1
+    },
+    {
+      "text": "\"Or are they simply poems on flat sheets of paper...\"",
+      "start": 262.74,
+      "duration": 2.66
+    },
+    {
+      "text": "Oh, man >:\\",
+      "start": 265.94,
+      "duration": 1.4
+    },
+    {
+      "text": "Oh man.",
+      "start": 266.0,
+      "duration": 1.56
+    },
+    {
+      "text": "Oh man, this is getting weird.\nARIN: All right, well let's just leave it be.",
+      "start": 268.54,
+      "duration": 3.28
+    },
+    {
+      "text": "Oh, mAN-  this is getting weirrrd",
+      "start": 268.64,
+      "duration": 1.72
+    },
+    {
+      "text": "Alright, well, let's just do this.. Okay, yeah.",
+      "start": 270.44,
+      "duration": 1.18
+    },
+    {
+      "text": "DAN: Haha!",
+      "start": 271.82,
+      "duration": 1.28
+    },
+    {
+      "text": "\"So... what do you think?\"",
+      "start": 273.02,
+      "duration": 1.5
+    },
+    {
+      "text": "ARIN (as Monika): So what do you think?\nDAN: I love it!",
+      "start": 273.1,
+      "duration": 2.0
+    },
+    {
+      "text": "\"I LOVE IT\"",
+      "start": 274.58,
+      "duration": 0.7
+    },
+    {
+      "text": "ARIN (as Monika): So funny, huh?\nARIN & DAN: *laughter*",
+      "start": 275.1,
+      "duration": 1.94
+    },
+    {
+      "text": "\"Funny, huh?\"",
+      "start": 275.28,
+      "duration": 0.7
+    },
+    {
+      "text": "-laughter-",
+      "start": 276.06,
+      "duration": 1.3
+    },
+    {
+      "text": "DAN: Funny, funny stuff!",
+      "start": 277.04,
+      "duration": 2.0
+    },
+    {
+      "text": "Funny, funny stuff.",
+      "start": 277.36,
+      "duration": 1.46
+    },
+    {
+      "text": "-bleeting like a sheep-",
+      "start": 278.82,
+      "duration": 0.78
+    },
+    {
+      "text": "*robotic laughter*",
+      "start": 284.38,
+      "duration": 1.12
+    },
+    {
+      "text": "ARIN (as Monika): It's okay, yeah.",
+      "start": 285.5,
+      "duration": 2.1
+    },
+    {
+      "text": "DAN: There's literally nowhere I want to be less than right here, right now, in front of you!",
+      "start": 287.6,
+      "duration": 4.0
+    },
+    {
+      "text": "There's literally nowhere I want to be LESS",
+      "start": 287.62,
+      "duration": 1.3
+    },
+    {
+      "text": "than right here, right now, in front of you!",
+      "start": 288.92,
+      "duration": 2.58
+    },
+    {
+      "text": "ARIN: I'm so scared!",
+      "start": 291.6,
+      "duration": 1.66
+    },
+    {
+      "text": "I'm so scared! (reading more)",
+      "start": 291.64,
+      "duration": 1.62
+    },
+    {
+      "text": "ARIN (as Monika): Yeah, that kind of style has gotten to be pretty popular nowadaaays.",
+      "start": 293.54,
+      "duration": 3.14
+    },
+    {
+      "text": "When performed out loud, it can be really powerful.",
+      "start": 300.84,
+      "duration": 2.42
+    },
+    {
+      "text": "ARIN (as Monika): Ah...",
+      "start": 306.96,
+      "duration": 1.02
+    },
+    {
+      "text": "Well, I'm not sure I know how to put it.",
+      "start": 308.32,
+      "duration": 2.26
+    },
+    {
+      "text": "ARIN (as FriendArin): An epiphany?",
+      "start": 316.54,
+      "duration": 1.06
+    },
+    {
+      "text": "I'm kind of nervous to talk about deep stuff like that because it's kind of coming on strongly.",
+      "start": 319.72,
+      "duration": 3.659
+    },
+    {
+      "text": "No, please, tell me. *Burping*",
+      "start": 323.44,
+      "duration": 2.0
+    },
+    {
+      "text": "*burp*",
+      "start": 324.82,
+      "duration": 0.58
+    },
+    {
+      "text": "ARIN (as Monika): Maybe after everyone is better friends with each other. Anyway...\nDAN: Oh boy.",
+      "start": 325.4,
+      "duration": 3.68
+    },
+    {
+      "text": "ARIN (as Monika): Here's Monica's writing tip of the day.",
+      "start": 329.2,
+      "duration": 2.24
+    },
+    {
+      "text": "Sometimes when you're writing a poem or a story, your brain gets too fixated on a specific point.",
+      "start": 331.44,
+      "duration": 5.08
+    },
+    {
+      "text": "Because Sayori's dead.",
+      "start": 336.2,
+      "duration": 1.42
+    },
+    {
+      "text": "DAN: Like how Sayori's dead.",
+      "start": 336.52,
+      "duration": 1.22
+    },
+    {
+      "text": "ARIN (as Monika): If you try so hard to make it perf- SHUTTING DOWN",
+      "start": 337.74,
+      "duration": 2.5
+    },
+    {
+      "text": "\"if you try so hard to make it perfect SHUT IT DOWN\"",
+      "start": 337.94,
+      "duration": 2.66
+    },
+    {
+      "text": "ARIN (as Monika): *demonic voice* SAYORI IS NOT ALIVE\nDAN: *laughs, wow how rude*",
+      "start": 340.84,
+      "duration": 2.46
+    },
+    {
+      "text": "-laughter and more reading-",
+      "start": 342.76,
+      "duration": 1.16
+    },
+    {
+      "text": "ARIN (as Monika): If you try so hard to make it perfect, then you will never make any progress.",
+      "start": 343.3,
+      "duration": 3.28
+    },
+    {
+      "text": "Just force yourself to get something down on paper and tidy it up later.",
+      "start": 346.58,
+      "duration": 3.24
+    },
+    {
+      "text": "If you keep your pen in the same spot for too long, you'll just get a big dark puddle of ink.",
+      "start": 352.2,
+      "duration": 3.72
+    },
+    {
+      "text": "So just move your hand and go with the floooow.",
+      "start": 355.92,
+      "duration": 2.12
+    },
+    {
+      "text": "That's my advice for today. Thanks for listeniiiiii...",
+      "start": 358.12,
+      "duration": 3.28
+    },
+    {
+      "text": "DAN: No, thank you, Monika.",
+      "start": 361.4,
+      "duration": 1.84
+    },
+    {
+      "text": "No- thank YOU, Monika.",
+      "start": 361.42,
+      "duration": 1.52
+    },
+    {
+      "text": "ARIN (as FriendArin): Whew, I'm scared as shit.\nDAN: Oh boy.",
+      "start": 363.88,
+      "duration": 2.86
+    },
+    {
+      "text": "\"I'm scared to shit.\"",
+      "start": 365.22,
+      "duration": 1.6
+    },
+    {
+      "text": "DAN: *laughs*",
+      "start": 366.74,
+      "duration": 1.1
+    },
+    {
+      "text": "ARIN (as FriendArin): I glance around the room. That was a little more stressful than I anticipated.",
+      "start": 367.84,
+      "duration": 3.6
+    },
+    {
+      "text": "It's as if everyone is judging me for my mediocre writing abilities and also trying to scare me at any moment.",
+      "start": 371.44,
+      "duration": 5.76
+    },
+    {
+      "text": "\"It's as if everyone is judging me for my mediocre writing abilities and also trying to scare me at any moment.\"",
+      "start": 371.56,
+      "duration": 5.0
+    },
+    {
+      "text": "This is a literature club, after all.",
+      "start": 381.1,
+      "duration": 2.6
+    },
+    {
+      "text": "I sigh.",
+      "start": 384.04,
+      "duration": 1.26
+    },
+    {
+      "text": "\"I can sigh\"",
+      "start": 385.04,
+      "duration": 1.1
+    },
+    {
+      "text": "(imitating Natsuki) I can sigh.",
+      "start": 385.3,
+      "duration": 1.18
+    },
+    {
+      "text": "I guess that's what I ended up getting myself into.",
+      "start": 386.48,
+      "duration": 2.86
+    },
+    {
+      "text": "Across the room, Monica's writing something in her notebook.",
+      "start": 389.34,
+      "duration": 3.04
+    },
+    {
+      "text": "My eyes land on Yuri and Natsuki.",
+      "start": 392.38,
+      "duration": 2.32
+    },
+    {
+      "text": "DAN: Frantically crawling out of a pile of potatoes.",
+      "start": 395.14,
+      "duration": 2.48
+    },
+    {
+      "text": "frantically crawling out of a pile of potatoes *squelchey noises*",
+      "start": 395.24,
+      "duration": 2.94
+    },
+    {
+      "text": "*vomit sound*",
+      "start": 397.62,
+      "duration": 0.9
+    },
+    {
+      "text": "They gingerly exchanged sheets of paper, sharing their respective poems.",
+      "start": 398.52,
+      "duration": 4.38
+    },
+    {
+      "text": "As they read in tandem, I watch each of their expressions change.",
+      "start": 402.9,
+      "duration": 3.32
+    },
+    {
+      "text": "Natsuki's eyebrows furrow in frustration. Is that all that happens?",
+      "start": 406.26,
+      "duration": 3.52
+    },
+    {
+      "text": "Is that ALL that happens?",
+      "start": 408.68,
+      "duration": 1.4
+    },
+    {
+      "text": "DAN: Yeah, imagine- imagine it.",
+      "start": 409.78,
+      "duration": 1.48
+    },
+    {
+      "text": "yeah, imagine...",
+      "start": 410.08,
+      "duration": 0.94
+    },
+    {
+      "text": "ARIN (as FriendArin): Meanwhile, Yuri smiled sadly.",
+      "start": 411.26,
+      "duration": 2.42
+    },
+    {
+      "text": "ARIN (as Natsuki): *hushed* What's with this language?",
+      "start": 413.8,
+      "duration": 1.64
+    },
+    {
+      "text": "DAN (as Yuri): Eh?\n(normal) Oh, sorry.",
+      "start": 416.72,
+      "duration": 1.44
+    },
+    {
+      "text": "DAN (as Yuri): Um, did you say something?",
+      "start": 418.16,
+      "duration": 1.56
+    },
+    {
+      "text": "ARIN (as Natsuki): Uh, it's nothing.",
+      "start": 419.72,
+      "duration": 1.6
+    },
+    {
+      "text": "ARIN (as FriendArin): Natsuki dismissively returns the poem to the desk with one hand.",
+      "start": 421.52,
+      "duration": 3.94
+    },
+    {
+      "text": "ARIN (as Natsuki): I guess you could say it's fancy.",
+      "start": 425.46,
+      "duration": 2.2
+    },
+    {
+      "text": "DAN (as Yuri): Ah, thanks.",
+      "start": 428.02,
+      "duration": 1.72
+    },
+    {
+      "text": "ARIN (as Natsuki): CUTE?!",
+      "start": 432.64,
+      "duration": 1.7
+    },
+    {
+      "text": "Did you completely miss the symbolism or something?!?",
+      "start": 434.34,
+      "duration": 2.12
+    },
+    {
+      "text": "People can miss.",
+      "start": 436.46,
+      "duration": 1.86
+    },
+    {
+      "text": "\"PEOPLE CAN MISS\"",
+      "start": 436.7,
+      "duration": 1.2
+    },
+    {
+      "text": "DAN: *laughs*\nARIN (as Natsuki, while trying not to laugh): It's clearly about the feeling of giving up.",
+      "start": 438.32,
+      "duration": 2.98
+    },
+    {
+      "text": "ARIN (as Natsuki): How can that be cute?",
+      "start": 442.06,
+      "duration": 1.68
+    },
+    {
+      "text": "DAN (as Yuri): Uh, I know that. I just meant... the language, I guess.",
+      "start": 443.74,
+      "duration": 4.94
+    },
+    {
+      "text": "I was trying to... say something nice.",
+      "start": 448.68,
+      "duration": 2.32
+    },
+    {
+      "text": "ARIN (as Natsuki): Eh?!",
+      "start": 451.0,
+      "duration": 0.84
+    },
+    {
+      "text": "You mean you have to try so hard to come up with something nice to say?",
+      "start": 451.84,
+      "duration": 2.86
+    },
+    {
+      "text": "DAN (as Yuri): Yeah!\nARIN (as Natsuki): Thanks, but it really didn't come out nice at all.",
+      "start": 454.7,
+      "duration": 2.4
+    },
+    {
+      "text": "DAN (as Yuri): No I agree, it sucks, um...",
+      "start": 457.1,
+      "duration": 2.48
+    },
+    {
+      "text": "No! I agree! it sucks! - umMmm..",
+      "start": 457.28,
+      "duration": 2.36
+    },
+    {
+      "text": "Well I do have a couple of suggestions.",
+      "start": 460.16,
+      "duration": 2.42
+    },
+    {
+      "text": "ARIN (as Yuri): One, stop being a bitch all the time.\nDAN (as Yuri): Yeah.",
+      "start": 462.58,
+      "duration": 1.8
+    },
+    {
+      "text": "ARIN (as Natsuki): Hmph.",
+      "start": 464.38,
+      "duration": 1.36
+    },
+    {
+      "text": "If I was looking for suggestions, I would have asked someone who actually liked it, which people did by the way.",
+      "start": 465.92,
+      "duration": 4.5
+    },
+    {
+      "text": "\"Which people did, by the way! EVERYBODY liked it, there's SOO many people in this club.\"",
+      "start": 468.64,
+      "duration": 4.56
+    },
+    {
+      "text": "DAN (as Natsuki): Everybody liked it, there's so many people in this club.\nARIN: *laughs*",
+      "start": 470.42,
+      "duration": 3.56
+    },
+    {
+      "text": "ARIN (as Natsuki): Monika liked it. And FriendArin too.",
+      "start": 474.14,
+      "duration": 2.58
+    },
+    {
+      "text": "So based on that, I'll gladly give some suggestions of my own. First of all...",
+      "start": 476.72,
+      "duration": 4.18
+    },
+    {
+      "text": "DAN (as Yuri): Excuse me? I appreciate the offer, but I've spent a long time establishing my writing style.",
+      "start": 481.56,
+      "duration": 5.94
+    },
+    {
+      "text": "I don't expect it to change anytime soon, unless of course, I come across something particularly inspiring...",
+      "start": 487.5,
+      "duration": 5.9
+    },
+    {
+      "text": "...or, you cease to have eyes and a mouth for whatever reason, which I haven't yet.",
+      "start": 493.4,
+      "duration": 5.16
+    },
+    {
+      "text": "OR, you cease to have eyes and a mouth for- WHATEVER reason. WHICH I HAVEN'T YET.",
+      "start": 493.66,
+      "duration": 4.92
+    },
+    {
+      "text": "ARIN (as Natsuki): Nn...!",
+      "start": 500.1,
+      "duration": 1.3
+    },
+    {
+      "text": "DAN (as Yuri): And FriendArin liked my poem too, you know. He even told me he was impressed by it.",
+      "start": 501.74,
+      "duration": 5.08
+    },
+    {
+      "text": "ARIN (as FriendArin): Natsuki suddenly stands up",
+      "start": 507.26,
+      "duration": 2.34
+    },
+    {
+      "text": "ARIN (as Natsuki): Oh? I didn't realize you were so invested in trying to impress our new member, Yuri.",
+      "start": 510.14,
+      "duration": 3.82
+    },
+    {
+      "text": "DAN (as Yuri): E-eh?!",
+      "start": 513.96,
+      "duration": 1.78
+    },
+    {
+      "text": "That's not what I... Uuh...You- you just...",
+      "start": 515.74,
+      "duration": 3.22
+    },
+    {
+      "text": "ARIN (as FriendArin): Yur- Yuri stands up as well!",
+      "start": 519.74,
+      "duration": 2.0
+    },
+    {
+      "text": "ARIN (as Natsuki): Huh! And how do you know he didn't appreciate my advice more? Are you that full of yourself?",
+      "start": 526.52,
+      "duration": 4.36
+    },
+    {
+      "text": "DAN (as Yuri): Uh... No...!",
+      "start": 531.34,
+      "duration": 1.92
+    },
+    {
+      "text": "If I was full of myself...",
+      "start": 533.32,
+      "duration": 1.5
+    },
+    {
+      "text": "ARIN (as Yuri): There'd be some tiny little me's crawling around inside me!",
+      "start": 534.86,
+      "duration": 2.7
+    },
+    {
+      "text": "There's been a tiny little Me's crawling around inside me!",
+      "start": 534.87,
+      "duration": 2.69
+    },
+    {
+      "text": "Yeah! I would deliberately go out of my way to make everything I do overly cutesy",
+      "start": 537.56,
+      "duration": 4.2
+    },
+    {
+      "text": "ARIN (as Natsuki): UUUUUU!",
+      "start": 541.84,
+      "duration": 1.18
+    },
+    {
+      "text": "like a dUmb bETch!",
+      "start": 542.67,
+      "duration": 2.0
+    },
+    {
+      "text": "DAN (as Yuri): Like a dumb bitch!\nARIN: *laughs*",
+      "start": 543.02,
+      "duration": 2.0
+    },
+    {
+      "text": "ARIN (as Yuri): Named Natsuki!",
+      "start": 545.02,
+      "duration": 2.0
+    },
+    {
+      "text": "ME NATSUKI",
+      "start": 545.2,
+      "duration": 0.72
+    },
+    {
+      "text": "ARIN (as Natsuki): Well, you know what?",
+      "start": 547.02,
+      "duration": 1.5
+    },
+    {
+      "text": "I wasn't the one whose boobs magically grew a size bigger as soon as FriendArin started showing up!",
+      "start": 548.52,
+      "duration": 4.86
+    },
+    {
+      "text": "DAN (as Yuri): N-Natsuki!",
+      "start": 553.38,
+      "duration": 1.96
+    },
+    {
+      "text": "ARIN (as Monika): Um, Natsuki, that's a little...",
+      "start": 555.34,
+      "duration": 2.28
+    },
+    {
+      "text": "ARIN (as Natsuki): This doesn't involve you!\nDAN (as Yuri): This doesn't involve you!",
+      "start": 557.62,
+      "duration": 2.3
+    },
+    {
+      "text": "DAN (as Yuri): Taking out your own insecurities on others like that... and their tissue paper boobs...",
+      "start": 560.92,
+      "duration": 4.74
+    },
+    {
+      "text": "and their tissue-paper boobs-",
+      "start": 564.04,
+      "duration": 2.08
+    },
+    {
+      "text": "ARIN: *chuckle*",
+      "start": 565.66,
+      "duration": 1.14
+    },
+    {
+      "text": "DAN (as Yuri): You really act as young as you look, Natsuki.",
+      "start": 566.8,
+      "duration": 2.7
+    },
+    {
+      "text": "DAN: Whoa.. Whoa...\nARIN (as Natsuki): Me? Look who's talking, you wannabe edgy bitch.",
+      "start": 569.5,
+      "duration": 2.98
+    },
+    {
+      "text": "WOAH",
+      "start": 569.64,
+      "duration": 0.5
+    },
+    {
+      "text": "WOAH- WOAH",
+      "start": 570.3,
+      "duration": 0.54
+    },
+    {
+      "text": "oh my god",
+      "start": 572.2,
+      "duration": 0.56
+    },
+    {
+      "text": "DAN: Oh my god, edgy?",
+      "start": 572.48,
+      "duration": 1.42
+    },
+    {
+      "text": "OHH GOD this music is getting weirrd",
+      "start": 574.82,
+      "duration": 1.78
+    },
+    {
+      "text": "DAN (as Yuri): Sorry that my lifestyle is too much for someone of your mental age to comprehend.",
+      "start": 577.06,
+      "duration": 3.48
+    },
+    {
+      "text": "ARIN (as Natsuki): See?? Just saying that proves my point!\nDAN: Oh my god.",
+      "start": 580.54,
+      "duration": 3.12
+    },
+    {
+      "text": "oh my god.",
+      "start": 583.0,
+      "duration": 0.64
+    },
+    {
+      "text": "ARIN (as Natsuki): Most people learn to get over themselves after they graduate middle school, you know!",
+      "start": 583.66,
+      "duration": 2.96
+    },
+    {
+      "text": "DAN: Oh god, I'm freaked out.\nDAN (as Yuri): If you want to prove anything then stop harassing others with your sickening attitude!",
+      "start": 586.62,
+      "duration": 4.62
+    },
+    {
+      "text": "oooh god I'm frEAked ouT",
+      "start": 586.7,
+      "duration": 1.6
+    },
+    {
+      "text": "You think you can counterbalance your toxic personality just by dressing and acting cute?",
+      "start": 591.98,
+      "duration": 4.24
+    },
+    {
+      "text": "DAN: Oh fuck.\nDAN (as Yuri): The only cute thing about you is how hard you try!",
+      "start": 596.22,
+      "duration": 3.58
+    },
+    {
+      "text": "oh fuck",
+      "start": 596.44,
+      "duration": 0.66
+    },
+    {
+      "text": "ARIN (as Natsuki): Wow, be careful, you might cut yourself on that edge, Yuri. Oh my bad, you already do, don't you?",
+      "start": 599.9,
+      "duration": 5.1
+    },
+    {
+      "text": "ARIN (as Natsuki): Yeah, go on!\nDAN: Oh boy...",
+      "start": 609.02,
+      "duration": 1.3
+    },
+    {
+      "text": "ARIN (as Natsuki): Let FriendArin hear everything you really think! I'm sure he'll head over heels for - be head over heels for you after this!",
+      "start": 610.32,
+      "duration": 5.38
+    },
+    {
+      "text": "DAN (as Yuri): U-uh..!",
+      "start": 615.7,
+      "duration": 1.12
+    },
+    {
+      "text": "ARIN (as FriendArin): Suddenly Yuri turns towards me as if she noticed I was standing here. What's with all the fuzz?!",
+      "start": 616.82,
+      "duration": 4.32
+    },
+    {
+      "text": "DAN (as Yuri): FriendArin...!",
+      "start": 621.14,
+      "duration": 1.44
+    },
+    {
+      "text": "She- she's just trying to make me look bad!",
+      "start": 622.58,
+      "duration": 2.02
+    },
+    {
+      "text": "ARIN (as Natsuki): That's not true! She started it!",
+      "start": 624.6,
+      "duration": 2.28
+    },
+    {
+      "text": "DAN (as FriendArin): Fred!",
+      "start": 626.88,
+      "duration": 1.22
+    },
+    {
+      "text": "Ą͇̩͕̞͎͉̤͈̌̽̑̿͡R̯̼̻̣̬̞͓͒̀͛̎̾͋Ì̢̡̥̰͖͕̪̂͌̑̔̚͠͞N̷̘̹̥̱̳̝̤̱̪̔͗͂͛͐̎͝ (̘͍̱͚̬̾̈̏͂̊̓͗̂̅̚ͅȧ̡̛̫̫̥̦͛̊͑̚̚͠ṣ̨̗̗̺̜͕͈͕̾̔̋̚̕͞͠͡͝ F̶̺̩̰̗̰̳̺̲̅̃̉̐́̓̆̓̃̕r̵̳͖̳͕̬͕̈́̋͗́̀̕͘͞i̴̛̪͚͉͔̯̖̲̬̳̟̋̂͑̅͠e̶̛͔͚͙͎̳̜̜̽̉̐̎̿͡n̛͙̘̼͔̣̣͕̏̾̑̋̅̓͢d̜̙͍̪͚̣̄̿́̔͠ͅĄ̶̯̦̫͓̻̾̈̃̅̌̈́̀̕͠r̵̗̠̳̜̬̾̓̑̑́̋̄̚͞ĩ̵̼̞͍͉̰̀͒͑̀̐͞ṋ̴̡̨͈͕̰̘̞̘̐̊̐̒̄͟͝͡)̨̧̧̖̉̅̽̃̑͘ͅ:̢̛̭͕̻̰͑̑͐̈́̈̇̚ H̶̦͇͇̰̮͕͖̮͐̀͑̃̌̈͌͞͝͝O̵͙̰̭̰̤̭̖̙͒͗̀̉͋̄̿̀͐̒W͖͈̣͈̦̏̓̓̊̾͟D͕̟͚̮̤̤̫͙̉̃͐͗͋͑̉̃͘Î̧͈̗̘̩̋̃͐̏͜D̶̢̨͙̹̘͚̣͎́͌͋̄̚͠I̶̢̢̦̲̥̣̐̔̉̓̕͠G̷̛̠͉̖̪͓̞̠̰̼͑̅̑̽̓͊̃͡͝Ẹ͇̦̮͓̓̈́̍̾̍̃̃̓̊͡T̨̖̞̲̼̯͍̍̉̌̾͢͡D̸̖̤͇͍̩̈́̌͗̏̈́͐̈́̽͂͞R̴̨̛̪͍͎̤̃̔͌̌̆́̓͜͟͠A̶̧̭̣̟̝̼͖͒̊̀̆͐̄̇̃̃͠G̴̡̛̟͙͈͆̀̔͌̒̓̈́̿ͅG̶͈͍̬̝̘̘͓̠̅̌̋̿̈́̚͢͜E̮͈̬̠̜̞̪̙̓̎͛͒̃̏̅͑D̛̞̼̬̣̻͇̩̂̒̈́͌ͅI̶͈̬̻̪̰̣̤͉̅͗̓͛͊̇̕N̠̥̬̺̯̾͊̉͗̏͟T̵̛̘̟̯͈̜͔̗̟͕́͒͛͋́͑͠Ồ̥̞͈̫̝̦̅̿̇́͂̃́͊T̴̼̺̣͎̭̀̂̃̂̊̃́̐ͅH̴̘̟͚̮͇̫͉͈̣͍̓̀͗̾̌̌̈͗̕͝İ̴͍̝͉̪͔̘̘̇́͂̎͡S̶̙͎̠̺̤̯̘͗̓̃̒̓̊̎͋Ḧ͕̙̘̞̤̗̞̾͐̈̀E̸͓͈̣͍̩̦̘͖̔͋̄͒͑͘L̸̡̫̭͇͎̟̼̇͂̄̽́͛̂͘P̨̬̹̼͔͗͌͊̓̕͜Ṁ̵̧̛̩̱̪͎̫̬̗̭̎͛̄̈̽̈́̕Ȩ̵͇͓̙͖̬́͋̑̔̈́͐͘͜͡O̸̧͎̘̙̪͑͆̈̒͂̒͡Ḩ̲̗̘̥̟̒͒̀͑̀̎͂͘Ǵ̭̝̙̖͔͂̍̎̎O̖͈̠͇͓̻̅̓́̊̑͜D̢̯͚͖̰̺̑̎̓͆̌̋̅͟͡Í̶̛̛͇̻̠̬̼̰̳̦͋̋̚͘͡Ņ̩̣̼͔̥̟̼̲͈͊͒́̀͊̽̐͛̀H̯̱̻̹̱͎̻̎͋̓̓͝ͅĘ̘̲̥̻̤̽̌̏͐̇̃̿̀͜͟A̞̖͙͎̝͛͋̏̅̌͌̎V̶͓͇͈̙̦̇͋͌́̒͐͑Ȩ̷͖̣̺̪͎͉͒̂̆̑̀̏̚̕͘͢Ņ̗͎̙̙͓̮͓͆̀͗́͠A̷̮̱̜̖̻͍͔̎̓̆́̓͜B̨̻͕̣͓̈̽̑̀͘Ơ̸̞̖͕̪͙̯̩̊̓͌̐̀V̷̨͍̯̥̺͎̝̾̓̑̀͐̐̆͠͠Ẹ̲͖͍̻͔̰͙̠̓̽̌̈́͌̃͛͟P̛̘̤̬̣̙̆̔̆͂́̿̅̔͜͠L̫̹̩̭̞̩̈́̉̒́̏̉̚͠ͅĘ̛͕̰̪̰̮̓̽̔̐͐̃̽͒̓Ả̭̲̟̦̣̐̊͛̈̍͂S̷̨̠̣̯̥̆͂̈́̉͟͢͢͝Ě̡̡̺͇̮̤̦́̒͂͘ͅͅͅS̴̫̺̟̼̰͖̟̫̻̲̈́̃̂͌̓̓͡A̼̫͈̬̠̼̯̎̆̀̀̐̔̆̃̓V̨̛̖͍̼̠͉͖̟̝̪͗̋̾͂Ȩ̪̬̳̩̖̭̓̎̀̌̑̇̉̃̚͡M̧͚̱̺̜̰͚̤͆͋͑̑̈̄̓̆͐E̡̱͓̥̮͈͍̞̫̠͒̓̉͛͋̿̕̕̚",
+      "start": 628.7,
+      "duration": 1.02
+    },
+    {
+      "text": "Whoa",
+      "start": 629.06,
+      "duration": 0.5
+    },
+    {
+      "text": "WOAH",
+      "start": 629.68,
+      "duration": 0.5
+    },
+    {
+      "text": "Ī͇̟̱̳̬̱̥̒͆͌̌̓Ď̴̻̯̖͉͍̤̦̦̬̒͐̍̋̽͜͠O̧̪̗̜̦̩͍̼͚͊́́͌̒̓͊N̡͇̙̦͖̰͊͊̓̔̍͒̍̔̑̈́T̵̟̝̳̣͑̿̐̾̽͟͞ͅK̡̨̙̝͓̱̼͑̒͊͛͢͞͠N̸͍̝̤͙͚͔̤̔͆̈̄͛Ơ͎͓̞͙̻͈̪̱̍͗̍̓́̈̐̆͢W̡̡̛͕͕̲̮̺͗͊̓̇̓̄̕̚S̷̨͇̹̥͓̦͗̽̆̄̽̈̄̎͘͠H̸̢͕̱͇̭̩͑̊̅͊̍͗̓̃͡͞Ǫ̛̩̳̱̻̺̫̬̜̩͋̃̈́̔S̖͔̬̮̲̩̮͑̇͌̀̈́̄̈̂E̱̰̜̮͖̺͙̪̽̄͋̎̂͐͘S̢̛͍̗͍̪̼͔̓͆̆̽̎͘͢Ȉ̷̦̼̦̺̟̰͖̠̈̃͒̅̀̀̄͘͡D̶̡͕̮̩̞̪̗̳̈̓͋̇́̃ͅÈ̡̧̢͉͇͕̫̭̔̄͂̾̏̀̚ͅͅS̘̣̹̤̘̤̰͚̎̄̾̐̌H̨͈͖̼͉̺̖̏͂̿͌̽͌ͅO̶̢̺̪͇̖̗͈͍̅̀̐̍̅̔̅͌͝Ü̸̡͉̯̹̿̇̒̑͟L̶̤͈̲̭̞̆͐͊̏͊͑̂͋̎͘D̨̡̟̠̪̯̳̺̟͐͒̅͊̍͛Í̧̻͎͈̬̜͋̿̋̏́̊̎̇͜Ç̸͇̼̙̻͇͎̺̤̇̅͐̇̏͂̕H̳̰̠̪̗͍̞̘̽̂̎̈̃̐̔͘͢͝͞O̢͈͙̺̟̰̬̐̋̍͌͗̍́̀̚͟Ȏ̧̜̼̺̼͉̤̘̍́̕̕͞S̢̨̖͍̦̺̤͍̓̀̏̂́͞É̥͓̳̩͎͕̦̗̽̔͂̿̅̚͢͞Ḩ̡̧̮̞̥̜͕̅̋͒͛̏̑̽̅͌͜͞E̶̢͚̗̯̠͍̜͐͂̔̿̂̀̃͢͢͟͠L̴͚̪̰̲͊̏̈͐͑́͗̚͜͠L̵̨̳͙̪͔͚̽́̀̏̑͜O͍̗̦̝̺̻̲̙͇͗̓̉̂̀D̲͍͔̳̭̦̩̑̕͘͡͡ͅͅÓ̶̠̦̟͓͎̜̣̲̀̈̀͋̊̀͂͞K̢̛͎̜̝̹̗̅͊̃͐͜I̡̧̛̳͎̤͈͚͔͆͆͌̏̎̂͗͗͟ͅM̢̡̥̦̥͈͙͈̤͎̍͒̔͗̍͘͞Y̡̘̩̬̦̼̤͚͐̑̎̈́͋́̄̃̽̚O̢͖̗̳͈̙̯̦͛͋̍͋̈́L̵̛̮̤̰͖̞̘͋͊̀̉̚͢͟͠D̷̢̛̗͔̳̤̖͓̩́̓̌͝F̸̖̹̟̜͓͂̋̌̍̀͑͑͋͠Ŕ̡͚̯̭̻̥̤̲̄̾́̀̕͘I̷̦̼̙̠̩͉̝͕̋̓̓̋̈́̈́͒̓Ē̥̺̖͕̠̹͎̦̈́̉̕͝Ṅ̡̹̣͇͚̋̊̇̊̄̈́̕D̷̨̛͙̹͇͖̎͗̽̍̎̂̔͘͜͢Í̸̡̧̲̜͕̬́́͆̒͐͑͛̊͗͜Ṿ̸̛̣̮̥̰̈́͆͛̏̃́Ë̲͍͖̻̲́͑͊̍̀̿̾͐̅̏Ċ̸̨̘̬̣̜̥̘̰͊̇̃̀̊̍̎̚͞Ò̷͈̲̮̦͙͋͋̍͑̌̏̒̕ͅM̧̡͙̟̞̜̬̮̼͊̑̉͋̓͌͊̒Ę̟͓̰̼̆̈͋̀̈͝T̡̹̤̞̭͇̘͙̏̈͛͂̊́́͞Ö̬̖̜͎͍̣͚́̓̽̐̕ͅṰ̶̢̭̝̟̠̳͊̀͆̔̑̀̀͌͜A͙̗̱̞͇̟̠̳͉̼͌̽͆̑̎͛̕L̡̛̹̙̹͔̣̝̀̀̈͂͊͗̏͠K̷̢̜̳͔͊͗͗̔̎̓̐͘̚͢W̸̧̗̪̖̺̲͕͍͈͐̑͊̃̈̕͠I͍̩̗̮̼̅͂̽͊̒͌T̵͓̞͉̯́̌̔̌͊̅̅̀̉͟Ḩ̥͕͉͖̦̺͂͑̐͌͊͠ͅY̶̢̨̛͉̬͋̓̆̎̇͒̆͟Ọ̡̮͖̘̎̎̊̍͟͠͞Ṵ̢̱͎͂̎̇̅͂̓̊̿̂͢Ả̧̨̩͉̹̮͚͕͕̍͂̍̄̚G̡̛̛̯̰̘͙͍̤̭͛͌͂̆͐̕͘ͅA̡̪͉̩͇̙͚͂͌̍͋̐͑̂͢͠Ĭ̼͇̙̣̥̇̄̽̍͆͟N̵̛̥̘̹̠͇̗̳̑̅̈̆̽͠͝",
+      "start": 629.72,
+      "duration": 1.02
+    },
+    {
+      "text": "woAH",
+      "start": 630.18,
+      "duration": 0.5
+    },
+    {
+      "text": "WOAH",
+      "start": 630.68,
+      "duration": 0.5
+    },
+    {
+      "text": "DAN: Whoa.",
+      "start": 630.76,
+      "duration": 1.1
+    },
+    {
+      "text": "Uhhhh, uhhhh...\nARIN: Uhh, uh, uh...",
+      "start": 631.86,
+      "duration": 2.7
+    },
+    {
+      "text": "UHHHHH?!!! UH UH UH UHHH????!!",
+      "start": 631.92,
+      "duration": 2.4
+    },
+    {
+      "text": "Hah haha???!?",
+      "start": 634.36,
+      "duration": 0.96
+    },
+    {
+      "text": "DAN: *nervously laughs*\nARIN: Uh, yuhh, yeauhh...",
+      "start": 634.56,
+      "duration": 1.98
+    },
+    {
+      "text": "da blah bah da",
+      "start": 635.32,
+      "duration": 0.66
+    },
+    {
+      "text": "Natsuki? Yuri,,?! I don't know! UH - I DON'T",
+      "start": 636.0,
+      "duration": 1.9
+    },
+    {
+      "text": "Make your choice dude!",
+      "start": 637.9,
+      "duration": 0.66
+    },
+    {
+      "text": "ARIN: Natsuki!\nDAN: Okay!",
+      "start": 638.54,
+      "duration": 1.56
+    },
+    {
+      "text": "UUUH NATSUKI!!",
+      "start": 638.56,
+      "duration": 0.76
+    },
+    {
+      "text": "'kay!-",
+      "start": 639.32,
+      "duration": 0.5
+    },
+    {
+      "text": "I CAN'T \noh boy",
+      "start": 641.02,
+      "duration": 0.84
+    },
+    {
+      "text": "I CAN'T!",
+      "start": 641.86,
+      "duration": 0.5
+    },
+    {
+      "text": "ohhh boy",
+      "start": 642.36,
+      "duration": 0.5
+    },
+    {
+      "text": "I CAN'T!!",
+      "start": 642.86,
+      "duration": 0.5
+    },
+    {
+      "text": "OHH BOY",
+      "start": 643.38,
+      "duration": 0.5
+    },
+    {
+      "text": "I CAN'T!!!!",
+      "start": 643.88,
+      "duration": 0.5
+    },
+    {
+      "text": "OhhH bOy",
+      "start": 644.38,
+      "duration": 0.5
+    },
+    {
+      "text": "ARIN: I- I- Yuri! YURI!\nDAN: *more nervous laughter*",
+      "start": 645.04,
+      "duration": 1.72
+    },
+    {
+      "text": "YURI!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "start": 645.94,
+      "duration": 0.6
+    },
+    {
+      "text": "DAN & ARIN: AAAH!",
+      "start": 646.76,
+      "duration": 0.8
+    },
+    {
+      "text": "-laughter-",
+      "start": 647.26,
+      "duration": 0.72
+    },
+    {
+      "text": "DAN & ARIN: *laughing*",
+      "start": 647.56,
+      "duration": 1.52
+    },
+    {
+      "text": "sssshhhHHHHHIT!",
+      "start": 648.56,
+      "duration": 1.64
+    },
+    {
+      "text": "DAN: Ssshhhhhhhit!",
+      "start": 649.08,
+      "duration": 2.0
+    },
+    {
+      "text": "-more laughter-",
+      "start": 651.0,
+      "duration": 1.12
+    },
+    {
+      "text": "ARIN: *laughs*\nDAN: This fuckin' game!",
+      "start": 651.08,
+      "duration": 3.04
+    },
+    {
+      "text": "this fucking gaame",
+      "start": 652.4,
+      "duration": 1.16
+    },
+    {
+      "text": "AH HA HA HA!",
+      "start": 654.08,
+      "duration": 1.38
+    },
+    {
+      "text": "ARIN: *laughs harder*",
+      "start": 654.12,
+      "duration": 2.0
+    },
+    {
+      "text": "..uMMM",
+      "start": 655.98,
+      "duration": 0.5
+    },
+    {
+      "text": "DAN: Um...",
+      "start": 656.12,
+      "duration": 1.12
+    },
+    {
+      "text": "ARIN: *still dying of laughter*",
+      "start": 657.24,
+      "duration": 1.24
+    },
+    {
+      "text": "Um?",
+      "start": 658.26,
+      "duration": 0.66
+    },
+    {
+      "text": "ARIN (as Monika): Um...",
+      "start": 658.48,
+      "duration": 0.96
+    },
+    {
+      "text": "Hey FriendArin. Why don't we step outside for a little bit, okay?",
+      "start": 659.44,
+      "duration": 4.44
+    },
+    {
+      "text": "yeah, why don't we, Monika?",
+      "start": 663.38,
+      "duration": 1.98
+    },
+    {
+      "text": "ARIN (as Monika): Sorry about that. They really shouldn't have tried to get you involved.",
+      "start": 665.66,
+      "duration": 3.04
+    },
+    {
+      "text": "It's probably better for us to stay out of this. Well, we'll go back inside once they're done yelling.",
+      "start": 668.7,
+      "duration": 4.54
+    },
+    {
+      "text": "*robotic laughter*",
+      "start": 673.24,
+      "duration": 1.22
+    },
+    {
+      "text": "I just wish I was able to be a little more assertive sometimes.",
+      "start": 678.62,
+      "duration": 3.28
+    },
+    {
+      "text": "But I never have it in me to put my foot down against others.",
+      "start": 681.9,
+      "duration": 3.22
+    },
+    {
+      "text": "with my robot feet",
+      "start": 685.0,
+      "duration": 1.2
+    },
+    {
+      "text": "DAN (as Monika): My robot feet.\nARIN: I think...",
+      "start": 685.12,
+      "duration": 2.54
+    },
+    {
+      "text": "I think,",
+      "start": 686.54,
+      "duration": 0.76
+    },
+    {
+      "text": "ARIN: I think there's more truth to the fact that we gave her a robot voice than-\nDAN: Yeah...",
+      "start": 688.7,
+      "duration": 4.2
+    },
+    {
+      "text": "Yeah- I'm getting- like I'm starting to get the sense that like- she's like controlling everything ?",
+      "start": 692.9,
+      "duration": 4.46
+    },
+    {
+      "text": "O-or.. Something's .. not right with her-",
+      "start": 697.42,
+      "duration": 2.34
+    },
+    {
+      "text": "DAN: O- or, the- something's not right with her.",
+      "start": 697.46,
+      "duration": 2.48
+    },
+    {
+      "text": "because I think she's, like, every time the game, like, fucks up-",
+      "start": 699.76,
+      "duration": 2.64
+    },
+    {
+      "text": "ARIN: 'Cause I- I think she's like... every time the game, like, fucks up, she like just kind of butts in?",
+      "start": 699.94,
+      "duration": 4.48
+    },
+    {
+      "text": "She like just kind of butts in ?",
+      "start": 702.4,
+      "duration": 2.06
+    },
+    {
+      "text": "DAN: Yeah, and she's like, \"Oh look over here!\"\nARIN: \"Yeah, there's no big deal.\"",
+      "start": 704.42,
+      "duration": 3.04
+    },
+    {
+      "text": "yeah, and she's like, \"Oh look over here!~ There's no big deal. :)\"",
+      "start": 704.46,
+      "duration": 2.54
+    },
+    {
+      "text": "Yeah..",
+      "start": 707.0,
+      "duration": 1.3
+    },
+    {
+      "text": "DAN: Yeah.",
+      "start": 707.46,
+      "duration": 0.74
+    },
+    {
+      "text": "ARIN: *sighs* Okay...",
+      "start": 708.2,
+      "duration": 1.0
+    },
+    {
+      "text": "*sigh* okay...",
+      "start": 708.3,
+      "duration": 0.9
+    },
+    {
+      "text": "Boy oh boy.",
+      "start": 709.2,
+      "duration": 1.1
+    },
+    {
+      "text": "ARIN (as Monika): If this makes you want to spend less time with the others, then that's fine.",
+      "start": 712.2,
+      "duration": 3.46
+    },
+    {
+      "text": "I'd be happy to spend time with you instead.\nDAN: Oh, good.",
+      "start": 715.66,
+      "duration": 2.8
+    },
+    {
+      "text": ":| ohh gooood",
+      "start": 717.32,
+      "duration": 0.88
+    },
+    {
+      "text": "ARIN (as FriendArin): Suddenly Natsuki runs out of the classroom.",
+      "start": 718.46,
+      "duration": 2.62
+    },
+    {
+      "text": "ARIN (as Natsuki): Fred...\nDAN: *snickers*",
+      "start": 721.52,
+      "duration": 2.0
+    },
+    {
+      "text": "ARIN (as FriendArin): She quickly runs away.\nDAN: Bye!",
+      "start": 723.52,
+      "duration": 1.82
+    },
+    {
+      "text": "ARIN (as Monica): Oh dear, so it looks like they're done.\nDAN: Shoooom!",
+      "start": 725.34,
+      "duration": 2.96
+    },
+    {
+      "text": "DAN (as Yuri): I didn't mean it... I didn't mean it... I didn't mean it...",
+      "start": 730.34,
+      "duration": 3.78
+    },
+    {
+      "text": "ARIN (as FriendArin): Yuri is rocking back and forth on her desk with her palms on her forehead.",
+      "start": 734.12,
+      "duration": 4.02
+    },
+    {
+      "text": "ARIN (as FriendArin): Yuri?\nDAN (as Yuri): I didn't mean it...",
+      "start": 738.14,
+      "duration": 1.94
+    },
+    {
+      "text": "ARIN (as FriendArin): I- I believe you!",
+      "start": 740.64,
+      "duration": 1.58
+    },
+    {
+      "text": "I have no idea what Yuri might have said, uh, to Natsuki, or did.",
+      "start": 742.22,
+      "duration": 4.64
+    },
+    {
+      "text": "DAN (as Yuri): FriendArin, please don't hate me... please.",
+      "start": 747.02,
+      "duration": 3.48
+    },
+    {
+      "text": "I'm not like this. There's something wrong with me today.",
+      "start": 750.5,
+      "duration": 3.12
+    },
+    {
+      "text": "ARIN (as Monika): It's fine, Yuri. We know you didn't mean iiiit.",
+      "start": 753.92,
+      "duration": 3.14
+    },
+    {
+      "text": "Completely.",
+      "start": 760.38,
+      "duration": 1.88
+    },
+    {
+      "text": "DAN (as Yuri): Fred...",
+      "start": 762.44,
+      "duration": 1.44
+    },
+    {
+      "text": "ARIN: What the fuck does 'completely' mean?\nDAN (as Yuri): Fredddd...",
+      "start": 767.2,
+      "duration": 2.6
+    },
+    {
+      "text": "what the fuck does \"completely\" mean?",
+      "start": 767.34,
+      "duration": 2.36
+    },
+    {
+      "text": "...Yeah....",
+      "start": 769.7,
+      "duration": 0.74
+    },
+    {
+      "text": "DAN: Yeah...",
+      "start": 769.8,
+      "duration": 1.439
+    },
+    {
+      "text": "ARIN (as FriendArin): Yuri looks at me like she wants to say something, but she keeps glancing at Monika.",
+      "start": 771.24,
+      "duration": 5.12
+    },
+    {
+      "text": "DAN (as Yuri): Y-you can go first, Monika.",
+      "start": 776.64,
+      "duration": 2.02
+    },
+    {
+      "text": "I'd like to stay a little bit longer.",
+      "start": 778.66,
+      "duration": 2.16
+    },
+    {
+      "text": "ARIN (as Monika): I'm the president so I should be the last one out. I'll wait for you to be done.",
+      "start": 780.9,
+      "duration": 3.86
+    },
+    {
+      "text": "DAN (as Yuri): Freddd...",
+      "start": 785.46,
+      "duration": 1.4
+    },
+    {
+      "text": "Well, I'm vice president, so...",
+      "start": 787.74,
+      "duration": 2.86
+    },
+    {
+      "text": "Please let me take that responsibility today.\nARIN: Yeah...",
+      "start": 790.64,
+      "duration": 3.06
+    },
+    {
+      "text": "Arin (as Monika): That kind of sounds like you don't want me around for something, Yuuuri.",
+      "start": 793.82,
+      "duration": 3.18
+    },
+    {
+      "text": "DAN (as Yuri): I-it's not that!",
+      "start": 797.0,
+      "duration": 1.54
+    },
+    {
+      "text": "It's not that...",
+      "start": 798.54,
+      "duration": 1.5
+    },
+    {
+      "text": "I just...",
+      "start": 800.04,
+      "duration": 0.86
+    },
+    {
+      "text": "I didn't get much of a chance to discuss my book with FriendArin...",
+      "start": 800.9,
+      "duration": 3.92
+    },
+    {
+      "text": "It would just be embarrassing with you listening.",
+      "start": 805.04,
+      "duration": 2.9
+    },
+    {
+      "text": "ARIN (as Yuri): It's a porno book.",
+      "start": 807.94,
+      "duration": 1.22
+    },
+    {
+      "text": "ARIN (as Monika): Sigh...",
+      "start": 809.58,
+      "duration": 1.18
+    },
+    {
+      "text": "I guess I don't really have a choice, do I?",
+      "start": 810.76,
+      "duration": 2.1
+    },
+    {
+      "text": "DAN (as Yuri): I'm sorry for causing trouble...",
+      "start": 812.86,
+      "duration": 2.86
+    },
+    {
+      "text": "DAN (as Yuri): But I really appre- oooh! She- ah- under-\nARIN: *warbling*",
+      "start": 815.78,
+      "duration": 1.96
+    },
+    {
+      "text": "WOOOAHWEOHHH",
+      "start": 816.0,
+      "duration": 0.86
+    },
+    {
+      "text": "OH SHIT",
+      "start": 816.86,
+      "duration": 0.54
+    },
+    {
+      "text": "...oh.....",
+      "start": 817.72,
+      "duration": 0.74
+    },
+    {
+      "text": "DAN: Whoa...",
+      "start": 817.74,
+      "duration": 0.92
+    },
+    {
+      "text": "DAN: Fffffffffffucking goddamn it.",
+      "start": 819.3,
+      "duration": 2.84
+    },
+    {
+      "text": "Fucking goddamn it.",
+      "start": 819.68,
+      "duration": 2.12
+    },
+    {
+      "text": "ARIN: Doki doki!\nDAN: Oh my god! *laughs*",
+      "start": 822.14,
+      "duration": 2.16
+    },
+    {
+      "text": "Doki-Doki!",
+      "start": 822.28,
+      "duration": 0.76
+    },
+    {
+      "text": "DAN: I hate this!\nARIN: Party!",
+      "start": 824.3,
+      "duration": 2.0
+    },
+    {
+      "text": "Party!!",
+      "start": 824.6,
+      "duration": 0.78
+    },
+    {
+      "text": "Vivid~",
+      "start": 826.3,
+      "duration": 1.02
+    },
+    {
+      "text": "ARIN: Vivid!",
+      "start": 826.4,
+      "duration": 0.94
+    },
+    {
+      "text": "ARIN & DAN: Happiness!\nDAN: *laughs*",
+      "start": 828.22,
+      "duration": 1.78
+    },
+    {
+      "text": "Happiness~~",
+      "start": 828.28,
+      "duration": 0.88
+    },
+    {
+      "text": "DAN: Wonderful!\nARIN: Dazzle!",
+      "start": 830.0,
+      "duration": 2.06
+    },
+    {
+      "text": "!!Wonderful~",
+      "start": 830.14,
+      "duration": 0.96
+    },
+    {
+      "text": ":> Dazzle!",
+      "start": 831.3,
+      "duration": 0.52
+    },
+    {
+      "text": "DAN: Mashmallow!\nARIN: Marshmalloooooow!",
+      "start": 832.06,
+      "duration": 2.74
+    },
+    {
+      "text": "mmmershmallow! C:",
+      "start": 832.1,
+      "duration": 0.98
+    },
+    {
+      "text": "Marshmallowwww! :D",
+      "start": 833.08,
+      "duration": 1.28
+    },
+    {
+      "text": "mmmmfffRR",
+      "start": 834.36,
+      "duration": 0.6
+    },
+    {
+      "text": "DAN: Ribbon.\nARIN: Ribbon!",
+      "start": 834.9,
+      "duration": 2.08
+    },
+    {
+      "text": "rrrribbon!~",
+      "start": 834.96,
+      "duration": 0.8
+    },
+    {
+      "text": "RIBBON!!!",
+      "start": 835.76,
+      "duration": 0.84
+    },
+    {
+      "text": "LLLLUCKYYYY!",
+      "start": 836.6,
+      "duration": 1.42
+    },
+    {
+      "text": "DAN: Lllllucky!\nARIN: Lllllucky!",
+      "start": 837.04,
+      "duration": 2.5
+    },
+    {
+      "text": "Luckyyyyy. c:",
+      "start": 838.02,
+      "duration": 1.06
+    },
+    {
+      "text": "Cheer~",
+      "start": 839.08,
+      "duration": 0.92
+    },
+    {
+      "text": "DAN: Cheer!\nARIN: Cheer.",
+      "start": 839.62,
+      "duration": 1.74
+    },
+    {
+      "text": "c:",
+      "start": 840.0,
+      "duration": 0.5
+    },
+    {
+      "text": "Cheer....~",
+      "start": 840.54,
+      "duration": 0.64
+    },
+    {
+      "text": "DAN: Poof!\nARIN: Heh, poof!",
+      "start": 841.42,
+      "duration": 1.88
+    },
+    {
+      "text": "POOF!~",
+      "start": 841.5,
+      "duration": 0.5
+    },
+    {
+      "text": "heheh!~",
+      "start": 842.1,
+      "duration": 0.5
+    },
+    {
+      "text": "poof!",
+      "start": 842.64,
+      "duration": 0.5
+    },
+    {
+      "text": "heh heh!",
+      "start": 843.14,
+      "duration": 0.5
+    },
+    {
+      "text": "DAN: Mmmmmmm...",
+      "start": 843.56,
+      "duration": 1.88
+    },
+    {
+      "text": "mmMMMmmmm..",
+      "start": 843.64,
+      "duration": 1.84
+    },
+    {
+      "text": "DAN: Fun!\nARIN: Fun!",
+      "start": 845.44,
+      "duration": 1.92
+    },
+    {
+      "text": "fuuUn",
+      "start": 845.6,
+      "duration": 0.5
+    },
+    {
+      "text": "FUN!",
+      "start": 846.1,
+      "duration": 1.26
+    },
+    {
+      "text": "DAN: Bliss!\nARIN: Bliss.",
+      "start": 847.38,
+      "duration": 2.34
+    },
+    {
+      "text": "Bliss :)",
+      "start": 847.54,
+      "duration": 0.5
+    },
+    {
+      "text": "blissss",
+      "start": 848.04,
+      "duration": 1.42
+    },
+    {
+      "text": "DAN: *breathes out* Huuuummm.",
+      "start": 849.72,
+      "duration": 1.94
+    },
+    {
+      "text": "uhhh...",
+      "start": 850.32,
+      "duration": 1.0
+    },
+    {
+      "text": "disoriented! ~",
+      "start": 851.32,
+      "duration": 1.42
+    },
+    {
+      "text": "ARIN: Disoriented!\nDAN: Yeah, I like...",
+      "start": 851.66,
+      "duration": 1.98
+    },
+    {
+      "text": "ha yeaaah..",
+      "start": 852.8,
+      "duration": 0.8
+    },
+    {
+      "text": "DAN: Kitty!\nARIN: Kitty!",
+      "start": 853.74,
+      "duration": 1.86
+    },
+    {
+      "text": "kitTY",
+      "start": 853.84,
+      "duration": 0.5
+    },
+    {
+      "text": "kitttyyyy!",
+      "start": 854.74,
+      "duration": 0.8
+    },
+    {
+      "text": "DAN: *laughing* Suicide!\nARIN: Suicide!",
+      "start": 855.6,
+      "duration": 2.3
+    },
+    {
+      "text": "Suicide~~",
+      "start": 855.62,
+      "duration": 0.74
+    },
+    {
+      "text": "SUICIDE!",
+      "start": 856.44,
+      "duration": 1.06
+    },
+    {
+      "text": "uhHHHH",
+      "start": 857.74,
+      "duration": 1.02
+    },
+    {
+      "text": "DAN: Uuuhh...!",
+      "start": 857.9,
+      "duration": 0.84
+    },
+    {
+      "text": "Ohh, why was Yuri... Destiny?",
+      "start": 858.74,
+      "duration": 2.7
+    },
+    {
+      "text": "oh, why was Yuri-?",
+      "start": 858.88,
+      "duration": 1.28
+    },
+    {
+      "text": "Destiny....?",
+      "start": 860.2,
+      "duration": 0.74
+    },
+    {
+      "text": "deeEStinYYY",
+      "start": 861.5,
+      "duration": 0.86
+    },
+    {
+      "text": "ARIN: Destiny!",
+      "start": 861.56,
+      "duration": 1.04
+    },
+    {
+      "text": "uhHHHhhhhhHHH?",
+      "start": 862.82,
+      "duration": 1.12
+    },
+    {
+      "text": "DAN: Duuhhhmmmm..",
+      "start": 862.84,
+      "duration": 1.58
+    },
+    {
+      "text": "Melancholy",
+      "start": 864.02,
+      "duration": 1.82
+    },
+    {
+      "text": "...melancholy.",
+      "start": 864.46,
+      "duration": 1.4
+    },
+    {
+      "text": "ARIN: Melancholy.",
+      "start": 866.48,
+      "duration": 1.9
+    },
+    {
+      "text": "Agonizing?",
+      "start": 868.34,
+      "duration": 1.04
+    },
+    {
+      "text": "DAN: Agonizing...\nARIN: Agonizing.",
+      "start": 868.38,
+      "duration": 2.22
+    },
+    {
+      "text": "agonizing.",
+      "start": 869.38,
+      "duration": 1.2
+    },
+    {
+      "text": "DAN: Death...! Oh boy...\nARIN: Death.",
+      "start": 870.6,
+      "duration": 2.28
+    },
+    {
+      "text": "death ?",
+      "start": 870.78,
+      "duration": 0.5
+    },
+    {
+      "text": "death.",
+      "start": 871.28,
+      "duration": 0.5
+    },
+    {
+      "text": "oh boy",
+      "start": 871.78,
+      "duration": 0.86
+    },
+    {
+      "text": "lllllUSt-",
+      "start": 873.24,
+      "duration": 0.8
+    },
+    {
+      "text": "DAN: Lust!\nARIN: Lust!",
+      "start": 873.26,
+      "duration": 1.86
+    },
+    {
+      "text": "Lust! hell yeah.",
+      "start": 874.72,
+      "duration": 1.44
+    },
+    {
+      "text": "DAN: Hell yeah. Oh boy...\nARIN: *laughing* Parfait!",
+      "start": 875.12,
+      "duration": 3.32
+    },
+    {
+      "text": "PARFAIT! Ohhhh boy.",
+      "start": 876.32,
+      "duration": 1.56
+    },
+    {
+      "text": "ARIN (as FriendArin): Another day passes and it's time for the club meeting already.\nDAN: Jeez.",
+      "start": 878.84,
+      "duration": 3.42
+    },
+    {
+      "text": "jeez",
+      "start": 881.56,
+      "duration": 0.78
+    },
+    {
+      "text": "ARIN (as FriendArin): I've gotten a little more comfortable here over the past-\nDAN: So wait, what the fuck happened?",
+      "start": 882.26,
+      "duration": 3.58
+    },
+    {
+      "text": "So wait- what the fuck happened?",
+      "start": 884.62,
+      "duration": 1.58
+    },
+    {
+      "text": "ARIN: I was ri-\nDAN: Yuri wa- Yuri wanted to stay and talk to us, and then she just glitched?",
+      "start": 885.92,
+      "duration": 3.8
+    },
+    {
+      "text": "yuri- yuri wanted to stay and talk to us and then-",
+      "start": 886.2,
+      "duration": 2.68
+    },
+    {
+      "text": "she just glitched?",
+      "start": 888.88,
+      "duration": 0.74
+    },
+    {
+      "text": "ARIN: Sure.",
+      "start": 889.72,
+      "duration": 1.1
+    },
+    {
+      "text": "sure",
+      "start": 889.92,
+      "duration": 0.5
+    },
+    {
+      "text": "DAN: Oh boy.\nARIN: Monica didn't want us to spend time with her.",
+      "start": 891.3,
+      "duration": 2.76
+    },
+    {
+      "text": "Monica didn't want us to spend time with her..",
+      "start": 891.82,
+      "duration": 2.28
+    },
+    {
+      "text": "DAN: Yeah, it did seem that way, didn't it... Oh boy.\nARIN: Yeah.",
+      "start": 894.06,
+      "duration": 2.96
+    },
+    {
+      "text": "Yeah, it did seem that way didn't it?\nyeah. \nOh boy",
+      "start": 894.1,
+      "duration": 2.68
+    },
+    {
+      "text": "ARIN (as FriendArin): I've gotten a little more comfortable over here the past couple days-\nDAN: Okay. I haven't.",
+      "start": 897.06,
+      "duration": 5.22
+    },
+    {
+      "text": "OhKAy I hAven'T. That makes fuckin' one of us",
+      "start": 900.6,
+      "duration": 3.24
+    },
+    {
+      "text": "DAN: That makes fuckin' one of us. Uhh... How about next time on Game Grumps?",
+      "start": 902.28,
+      "duration": 3.74
+    },
+    {
+      "text": "How 'bout next time on game grumps?",
+      "start": 904.14,
+      "duration": 2.278
+    },
+    {
+      "text": "ARIN: Alright.\nDAN: Oh boy...",
+      "start": 906.02,
+      "duration": 1.66
+    },
+    {
+      "text": "alright.",
+      "start": 906.418,
+      "duration": 0.5
+    },
+    {
+      "text": "Oh boy",
+      "start": 906.92,
+      "duration": 0.54
+    },
+    {
+      "text": "*click*",
+      "start": 907.68,
+      "duration": 0.88
+    },
+    {
+      "text": "*sizzle*",
+      "start": 908.56,
+      "duration": 2.0
+    },
+    {
+      "text": "ARIN: Do do doo do do do do do doo.\nDAN: I have to make tinkle tankles. Be right back.",
+      "start": 910.56,
+      "duration": 2.74
+    },
+    {
+      "text": "Oh! Great! Let's do it together <3\nDAN: That's fun.",
+      "start": 913.3,
+      "duration": 2.6
+    },
+    {
+      "text": "DAN: That's fun.",
+      "start": 915.16,
+      "duration": 1.08
+    },
+    {
+      "text": "ARIN: What if I did it up your butt?\nDAN: No, what?!",
+      "start": 916.44,
+      "duration": 2.2
+    },
+    {
+      "text": "ARIN: What if I- what if I just, like, as a prank, like I just-",
+      "start": 918.9,
+      "duration": 2.14
+    },
+    {
+      "text": "ARIN: What if I- what if I just, like, as a prank, like I just-",
+      "start": 918.96,
+      "duration": 1.28
+    },
+    {
+      "text": "DAN: *laughing* As a prank?\nARIN: -put my penis in your butt?",
+      "start": 920.3,
+      "duration": 2.0
+    },
+    {
+      "text": "DAN: Yeah.",
+      "start": 922.7,
+      "duration": 0.5
+    },
+    {
+      "text": "And then started peeing inside you-\n (AAAAAAA)",
+      "start": 923.2,
+      "duration": 0.98
+    },
+    {
+      "text": "as YOU were peeing?",
+      "start": 924.38,
+      "duration": 0.94
+    },
+    {
+      "text": "DAN: It's not gay, it's a prank!",
+      "start": 925.52,
+      "duration": 1.28
+    },
+    {
+      "text": "ARIN: So it's sort of like cleaning out your- your colon!",
+      "start": 926.8,
+      "duration": 2.18
+    },
+    {
+      "text": "DAN: Please stop talking ;--;",
+      "start": 931.0,
+      "duration": 1.0
+    }
+  ]
+}

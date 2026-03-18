@@ -1,0 +1,28 @@
+{
+  "video_id": "YrsqOuX0XWw",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippets": [
+    {
+      "text": "[Music]",
+      "start": 0.0,
+      "duration": 3.439
+    },
+    {
+      "text": "[Music]",
+      "start": 6.78,
+      "duration": 7.499
+    },
+    {
+      "text": "[Music]",
+      "start": 36.79,
+      "duration": 3.109
+    },
+    {
+      "text": "[Music]",
+      "start": 76.75,
+      "duration": 3.299
+    }
+  ]
+}

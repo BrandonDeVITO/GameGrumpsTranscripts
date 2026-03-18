@@ -1,0 +1,7063 @@
+{
+  "video_id": "pYoNzPoD5_4",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Just, uh, move it a little bit, and click.",
+      "start": 0.0,
+      "duration": 3.12
+    },
+    {
+      "text": "Just move it a little bit more, and click.",
+      "start": 3.12,
+      "duration": 2.4
+    },
+    {
+      "text": "What are you doing here, Arin?",
+      "start": 5.52,
+      "duration": 1.12
+    },
+    {
+      "text": "Oh, I'm making a claymation cartoon.",
+      "start": 6.64,
+      "duration": 2.04
+    },
+    {
+      "text": "Have you ever heard of it?",
+      "start": 8.68,
+      "duration": 1.12
+    },
+    {
+      "text": "Yes, actually.",
+      "start": 9.8,
+      "duration": 1.96
+    },
+    {
+      "text": "I don't know how to break this to you.",
+      "start": 11.76,
+      "duration": 2.4
+    },
+    {
+      "text": "But we're clay.",
+      "start": 14.16,
+      "duration": 1.16
+    },
+    {
+      "text": "What?",
+      "start": 16.24,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh my god, could you imagine how crazy that would be?",
+      "start": 19.12,
+      "duration": 2.32
+    },
+    {
+      "text": "Dude, if we were clay.",
+      "start": 21.44,
+      "duration": 1.52
+    },
+    {
+      "text": "Right?",
+      "start": 22.96,
+      "duration": 0.84
+    },
+    {
+      "text": "That would be nuts.",
+      "start": 23.8,
+      "duration": 1.28
+    },
+    {
+      "text": "Weird.",
+      "start": 25.08,
+      "duration": 0.84
+    },
+    {
+      "text": "That's a really small clay model",
+      "start": 25.92,
+      "duration": 1.48
+    },
+    {
+      "text": "for the clay model to be making a clay model.",
+      "start": 27.4,
+      "duration": 2.84
+    },
+    {
+      "text": "Did you make that?",
+      "start": 30.24,
+      "duration": 0.92
+    },
+    {
+      "text": "Um.",
+      "start": 32.48,
+      "duration": 0.84
+    },
+    {
+      "text": "Wow, we're huge!",
+      "start": 35.6,
+      "duration": 1.68
+    },
+    {
+      "text": "Also, GameGrumps.com slash merch.",
+      "start": 37.28,
+      "duration": 2.28
+    },
+    {
+      "text": "Hey, I'm Ghoul.",
+      "start": 40.48,
+      "duration": 1.12
+    },
+    {
+      "text": "What?",
+      "start": 41.6,
+      "duration": 1.32
+    },
+    {
+      "text": "And we're the Ghoul Grumps!",
+      "start": 42.92,
+      "duration": 2.72
+    },
+    {
+      "text": "Hey, I'm nice as hell.",
+      "start": 45.64,
+      "duration": 2.32
+    },
+    {
+      "text": "Da da da da da, welcome to Gus' Ghoul Grumps.",
+      "start": 47.96,
+      "duration": 3.4
+    },
+    {
+      "text": "Oh, did we start?",
+      "start": 51.36,
+      "duration": 1.08
+    },
+    {
+      "text": "Yeah.",
+      "start": 52.44,
+      "duration": 0.84
+    },
+    {
+      "text": "Great.",
+      "start": 53.28,
+      "duration": 0.82
+    },
+    {
+      "text": "Welcome to Paradisocial nuts.",
+      "start": 54.1,
+      "duration": 3.22
+    },
+    {
+      "text": "Okay, alright.",
+      "start": 58.16,
+      "duration": 1.72
+    },
+    {
+      "text": "Alright, an actual Game Grumps high five.",
+      "start": 59.88,
+      "duration": 2.48
+    },
+    {
+      "text": "Oh my god.",
+      "start": 62.36,
+      "duration": 0.84
+    },
+    {
+      "text": "Haven't had one of those in a long time.",
+      "start": 63.2,
+      "duration": 0.92
+    },
+    {
+      "text": "Okay, check this out.",
+      "start": 64.12,
+      "duration": 1.36
+    },
+    {
+      "text": "Alright, check this out.",
+      "start": 65.48,
+      "duration": 1.36
+    },
+    {
+      "text": "Alright, check it out.",
+      "start": 66.84,
+      "duration": 1.16
+    },
+    {
+      "text": "Alright.",
+      "start": 68.0,
+      "duration": 0.88
+    },
+    {
+      "text": "This is a game about being a streamer.",
+      "start": 68.88,
+      "duration": 2.6
+    },
+    {
+      "text": "Oh, is that right?",
+      "start": 71.48,
+      "duration": 0.84
+    },
+    {
+      "text": "It's a horror game about being a streamer.",
+      "start": 72.32,
+      "duration": 2.12
+    },
+    {
+      "text": "They could just recreate the streaming process",
+      "start": 74.44,
+      "duration": 2.8
+    },
+    {
+      "text": "and it would be just as scary.",
+      "start": 77.24,
+      "duration": 1.72
+    },
+    {
+      "text": "I mean, I mean, I mean, I mean, I mean.",
+      "start": 78.96,
+      "duration": 3.44
+    },
+    {
+      "text": "Yeah, it's busy.",
+      "start": 82.4,
+      "duration": 0.84
+    },
+    {
+      "text": "It's a horror game and the horror is just finding out",
+      "start": 84.64,
+      "duration": 2.24
+    },
+    {
+      "text": "how long the upload times are.",
+      "start": 87.4,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah.",
+      "start": 88.24,
+      "duration": 0.84
+    },
+    {
+      "text": "No!",
+      "start": 89.08,
+      "duration": 1.48
+    },
+    {
+      "text": "Oh.",
+      "start": 90.56,
+      "duration": 0.84
+    },
+    {
+      "text": "The hell was that?",
+      "start": 93.64,
+      "duration": 1.0
+    },
+    {
+      "text": "The alarm?",
+      "start": 94.64,
+      "duration": 0.84
+    },
+    {
+      "text": "It's the alarm, the alarm is ringing.",
+      "start": 95.48,
+      "duration": 1.96
+    },
+    {
+      "text": "Okay.",
+      "start": 97.44,
+      "duration": 0.84
+    },
+    {
+      "text": "It's time to stream.",
+      "start": 98.28,
+      "duration": 0.82
+    },
+    {
+      "text": "It's already some crazy time that's past human times.",
+      "start": 100.52,
+      "duration": 4.16
+    },
+    {
+      "text": "It can't be later than 1230.",
+      "start": 104.68,
+      "duration": 1.6
+    },
+    {
+      "text": "That's crazy, that's crazy.",
+      "start": 106.28,
+      "duration": 1.44
+    },
+    {
+      "text": "It's happening, what's happening?",
+      "start": 109.28,
+      "duration": 2.28
+    },
+    {
+      "text": "I don't know, it's just like telling me the game.",
+      "start": 111.56,
+      "duration": 2.32
+    },
+    {
+      "text": "Oh my god, oh my god.",
+      "start": 113.88,
+      "duration": 1.44
+    },
+    {
+      "text": "What an awesome room you have.",
+      "start": 115.32,
+      "duration": 1.08
+    },
+    {
+      "text": "I'm gonna turn down the sensitivity on this shit.",
+      "start": 116.96,
+      "duration": 1.84
+    },
+    {
+      "text": "I have a new message from, oh, I see.",
+      "start": 118.8,
+      "duration": 5.0
+    },
+    {
+      "text": "Wait, was Chillis Cafe, wasn't that the name of the cafe",
+      "start": 124.36,
+      "duration": 4.52
+    },
+    {
+      "text": "that replaced Starbucks in that other horror game?",
+      "start": 128.88,
+      "duration": 1.92
+    },
+    {
+      "text": "I think so.",
+      "start": 130.8,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh.",
+      "start": 131.64,
+      "duration": 0.82
+    },
+    {
+      "text": "It's the same people.",
+      "start": 132.46,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay.",
+      "start": 133.3,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh cool, they introduced a new menu item.",
+      "start": 134.14,
+      "duration": 2.34
+    },
+    {
+      "text": "Good to hear from them again.",
+      "start": 136.48,
+      "duration": 1.26
+    },
+    {
+      "text": "They always make us smile with their games.",
+      "start": 137.74,
+      "duration": 1.86
+    },
+    {
+      "text": "The Niku Jaga I made is in the fridge",
+      "start": 139.6,
+      "duration": 2.16
+    },
+    {
+      "text": "so heat it up and enjoy it.",
+      "start": 141.76,
+      "duration": 1.4
+    },
+    {
+      "text": "Okay, thank you.",
+      "start": 143.16,
+      "duration": 1.04
+    },
+    {
+      "text": "What is Niku Jaga?",
+      "start": 144.2,
+      "duration": 1.24
+    },
+    {
+      "text": "Sounds delicious.",
+      "start": 145.44,
+      "duration": 1.16
+    },
+    {
+      "text": "Great.",
+      "start": 146.6,
+      "duration": 0.84
+    },
+    {
+      "text": "Sounds fucking great.",
+      "start": 147.44,
+      "duration": 1.04
+    },
+    {
+      "text": "Whoa, jeez, everything happens so fast.",
+      "start": 148.48,
+      "duration": 1.68
+    },
+    {
+      "text": "Eat the Niku Jaga made by a suka.",
+      "start": 150.16,
+      "duration": 2.44
+    },
+    {
+      "text": "In the fridge, great.",
+      "start": 152.6,
+      "duration": 1.8
+    },
+    {
+      "text": "Cold Niku Jaga.",
+      "start": 154.4,
+      "duration": 0.84
+    },
+    {
+      "text": "Beep, beep, beep.",
+      "start": 155.24,
+      "duration": 2.24
+    },
+    {
+      "text": "Put it in the Miku Vave, wow.",
+      "start": 157.48,
+      "duration": 1.96
+    },
+    {
+      "text": "Did you remove the plastic wrapping?",
+      "start": 160.9,
+      "duration": 1.86
+    },
+    {
+      "text": "It didn't look like it.",
+      "start": 162.76,
+      "duration": 1.0
+    },
+    {
+      "text": "It doesn't matter, it keeps these steaming.",
+      "start": 163.76,
+      "duration": 1.8
+    },
+    {
+      "text": "Oh my god.",
+      "start": 165.56,
+      "duration": 0.84
+    },
+    {
+      "text": "Steaming, steaming, steaming.",
+      "start": 167.64,
+      "duration": 3.08
+    },
+    {
+      "text": "Oh my god.",
+      "start": 171.64,
+      "duration": 1.36
+    },
+    {
+      "text": "Remember from Good Game?",
+      "start": 173.0,
+      "duration": 0.84
+    },
+    {
+      "text": "It all makes sense, yeah.",
+      "start": 173.84,
+      "duration": 1.12
+    },
+    {
+      "text": "Warm Niku Jaga.",
+      "start": 176.16,
+      "duration": 1.48
+    },
+    {
+      "text": "Oh, it looks delicious.",
+      "start": 177.64,
+      "duration": 2.36
+    },
+    {
+      "text": "I take this Niku Jaga and I eat it.",
+      "start": 180.0,
+      "duration": 2.96
+    },
+    {
+      "text": "Whoops.",
+      "start": 184.0,
+      "duration": 1.32
+    },
+    {
+      "text": "I guess I'll take it to the table, yeah.",
+      "start": 185.32,
+      "duration": 2.68
+    },
+    {
+      "text": "Take it to the table.",
+      "start": 188.0,
+      "duration": 1.24
+    },
+    {
+      "text": "One munch this time, um.",
+      "start": 190.36,
+      "duration": 2.62
+    },
+    {
+      "text": "Two munches this time, yum, yum.",
+      "start": 192.98,
+      "duration": 2.38
+    },
+    {
+      "text": "Oh my god, put the Niku Jaga on the table.",
+      "start": 195.36,
+      "duration": 2.06
+    },
+    {
+      "text": "You want to?",
+      "start": 198.84,
+      "duration": 1.24
+    },
+    {
+      "text": "Yes.",
+      "start": 200.08,
+      "duration": 1.36
+    },
+    {
+      "text": "I'm gonna use the pssss.",
+      "start": 201.44,
+      "duration": 2.18
+    },
+    {
+      "text": "Make sure to run before stream.",
+      "start": 203.62,
+      "duration": 1.62
+    },
+    {
+      "text": "One virtue of me, have a game ready, hit stream.",
+      "start": 206.08,
+      "duration": 2.16
+    },
+    {
+      "text": "Okay.",
+      "start": 208.24,
+      "duration": 0.84
+    },
+    {
+      "text": "All right.",
+      "start": 209.08,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, it's me.",
+      "start": 209.92,
+      "duration": 1.12
+    },
+    {
+      "text": "Oh.",
+      "start": 211.04,
+      "duration": 0.82
+    },
+    {
+      "text": "Oh, I'm cute.",
+      "start": 211.86,
+      "duration": 1.18
+    },
+    {
+      "text": "Okay.",
+      "start": 213.04,
+      "duration": 0.84
+    },
+    {
+      "text": "Congratulations, Arin.",
+      "start": 213.88,
+      "duration": 0.82
+    },
+    {
+      "text": "Yeah, well, it's living my dream",
+      "start": 214.7,
+      "duration": 1.18
+    },
+    {
+      "text": "of being a cute streamer girl.",
+      "start": 215.88,
+      "duration": 1.68
+    },
+    {
+      "text": "If I remember correctly, this game has no saves.",
+      "start": 217.56,
+      "duration": 1.84
+    },
+    {
+      "text": "You were so close.",
+      "start": 219.4,
+      "duration": 1.0
+    },
+    {
+      "text": "This sucks.",
+      "start": 220.4,
+      "duration": 1.84
+    },
+    {
+      "text": "Okay, well, then I'll just stream then.",
+      "start": 222.24,
+      "duration": 2.36
+    },
+    {
+      "text": "Please launch, I did.",
+      "start": 226.16,
+      "duration": 1.28
+    },
+    {
+      "text": "What?",
+      "start": 231.08,
+      "duration": 0.84
+    },
+    {
+      "text": "Transform.",
+      "start": 232.92,
+      "duration": 1.08
+    },
+    {
+      "text": "Oh.",
+      "start": 235.0,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, you're a V-Tuber.",
+      "start": 235.84,
+      "duration": 1.16
+    },
+    {
+      "text": "I see.",
+      "start": 237.0,
+      "duration": 1.04
+    },
+    {
+      "text": "Okay.",
+      "start": 238.04,
+      "duration": 1.16
+    },
+    {
+      "text": "Senranina is a great name, too.",
+      "start": 239.2,
+      "duration": 2.04
+    },
+    {
+      "text": "Oh, since I know I'm a girl.",
+      "start": 242.28,
+      "duration": 1.12
+    },
+    {
+      "text": "Let's enjoy streaming today.",
+      "start": 243.4,
+      "duration": 1.8
+    },
+    {
+      "text": "Aim for 10,000 subscribers.",
+      "start": 245.2,
+      "duration": 1.92
+    },
+    {
+      "text": "In one day?",
+      "start": 247.12,
+      "duration": 0.84
+    },
+    {
+      "text": "That's a lot of subscribers.",
+      "start": 247.96,
+      "duration": 0.82
+    },
+    {
+      "text": "Damn, way to go.",
+      "start": 248.78,
+      "duration": 1.3
+    },
+    {
+      "text": "Okay, play the game, stream.",
+      "start": 250.08,
+      "duration": 2.92
+    },
+    {
+      "text": "Stream started.",
+      "start": 253.0,
+      "duration": 1.84
+    },
+    {
+      "text": "I'll do my best today.",
+      "start": 254.84,
+      "duration": 1.2
+    },
+    {
+      "text": "All right, I'll do my best today.",
+      "start": 256.04,
+      "duration": 2.28
+    },
+    {
+      "text": "That's what I think every time I wake up.",
+      "start": 258.32,
+      "duration": 2.16
+    },
+    {
+      "text": "All we I need to do is deliver these two pieces of paper.",
+      "start": 260.52,
+      "duration": 4.88
+    },
+    {
+      "text": "Okay.",
+      "start": 265.4,
+      "duration": 0.92
+    },
+    {
+      "text": "I hope I can clear this today.",
+      "start": 266.32,
+      "duration": 1.64
+    },
+    {
+      "text": "That's all we I need to do.",
+      "start": 270.16,
+      "duration": 1.32
+    },
+    {
+      "text": "That's all we I need to do.",
+      "start": 271.48,
+      "duration": 2.06
+    },
+    {
+      "text": "Just two more says nah.",
+      "start": 274.86,
+      "duration": 2.34
+    },
+    {
+      "text": "Nah.",
+      "start": 277.2,
+      "duration": 0.84
+    },
+    {
+      "text": "So you're playing a video game within a video game.",
+      "start": 278.04,
+      "duration": 2.72
+    },
+    {
+      "text": "Very interesting.",
+      "start": 280.76,
+      "duration": 1.04
+    },
+    {
+      "text": "Yeah.",
+      "start": 281.8,
+      "duration": 1.12
+    },
+    {
+      "text": "Only a bit to go.",
+      "start": 282.92,
+      "duration": 1.2
+    },
+    {
+      "text": "We've seen stuff like that before.",
+      "start": 284.12,
+      "duration": 2.18
+    },
+    {
+      "text": "Like in the blood wash and stuff like that.",
+      "start": 286.3,
+      "duration": 3.76
+    },
+    {
+      "text": "Oh.",
+      "start": 290.56,
+      "duration": 0.84
+    },
+    {
+      "text": "She has two more pieces of paper to deliver.",
+      "start": 292.32,
+      "duration": 2.92
+    },
+    {
+      "text": "Man.",
+      "start": 295.24,
+      "duration": 0.84
+    },
+    {
+      "text": "Is there a game where you're playing a game",
+      "start": 296.08,
+      "duration": 0.82
+    },
+    {
+      "text": "within a game within a game?",
+      "start": 296.9,
+      "duration": 1.26
+    },
+    {
+      "text": "Probably.",
+      "start": 298.16,
+      "duration": 1.08
+    },
+    {
+      "text": "Bet there must be.",
+      "start": 299.24,
+      "duration": 1.68
+    },
+    {
+      "text": "I've got 200, I've got 500 viewers right now.",
+      "start": 300.92,
+      "duration": 2.84
+    },
+    {
+      "text": "That's a lot of viewers.",
+      "start": 303.76,
+      "duration": 1.12
+    },
+    {
+      "text": "Yeah, it is.",
+      "start": 304.88,
+      "duration": 0.84
+    },
+    {
+      "text": "It's pretty good.",
+      "start": 305.72,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay, I can look at other stuff.",
+      "start": 306.56,
+      "duration": 1.44
+    },
+    {
+      "text": "Hi, everybody.",
+      "start": 308.0,
+      "duration": 0.84
+    },
+    {
+      "text": "It's so funny with like YouTube view counts",
+      "start": 310.24,
+      "duration": 3.88
+    },
+    {
+      "text": "and streamer numbers and stuff",
+      "start": 314.12,
+      "duration": 1.12
+    },
+    {
+      "text": "because once it gets past like,",
+      "start": 315.24,
+      "duration": 2.24
+    },
+    {
+      "text": "I don't know, whatever, a certain number,",
+      "start": 317.48,
+      "duration": 2.92
+    },
+    {
+      "text": "once it gets past six digits,",
+      "start": 320.72,
+      "duration": 1.4
+    },
+    {
+      "text": "like you can't even conceive of how many people that is.",
+      "start": 322.12,
+      "duration": 3.52
+    },
+    {
+      "text": "Like it's more people than you'll ever meet in your life.",
+      "start": 325.64,
+      "duration": 1.98
+    },
+    {
+      "text": "So it almost doesn't feel like anything.",
+      "start": 327.62,
+      "duration": 2.14
+    },
+    {
+      "text": "But if you know that there are 500 people watching you,",
+      "start": 329.76,
+      "duration": 3.32
+    },
+    {
+      "text": "you're like, oh God, 500?",
+      "start": 333.08,
+      "duration": 3.92
+    },
+    {
+      "text": "Like you can just imagine it.",
+      "start": 337.0,
+      "duration": 1.18
+    },
+    {
+      "text": "So it makes it more real.",
+      "start": 338.18,
+      "duration": 1.18
+    },
+    {
+      "text": "So true.",
+      "start": 339.36,
+      "duration": 1.22
+    },
+    {
+      "text": "Bestie.",
+      "start": 340.58,
+      "duration": 0.94
+    },
+    {
+      "text": "Oh, thank you.",
+      "start": 341.52,
+      "duration": 1.16
+    },
+    {
+      "text": "I was gonna say it, but I was like, maybe I shouldn't.",
+      "start": 342.68,
+      "duration": 2.4
+    },
+    {
+      "text": "But you did it.",
+      "start": 345.08,
+      "duration": 0.94
+    },
+    {
+      "text": "Oh, scary game.",
+      "start": 347.56,
+      "duration": 1.78
+    },
+    {
+      "text": "Oh, ghost is coming.",
+      "start": 350.22,
+      "duration": 1.4
+    },
+    {
+      "text": "Run away, ghost is following me.",
+      "start": 351.62,
+      "duration": 2.28
+    },
+    {
+      "text": "Ghost, oh no.",
+      "start": 353.9,
+      "duration": 0.84
+    },
+    {
+      "text": "Arin, you haven't delivered any pieces of paper.",
+      "start": 354.74,
+      "duration": 2.36
+    },
+    {
+      "text": "Well, dude, it's hard.",
+      "start": 357.1,
+      "duration": 0.84
+    },
+    {
+      "text": "This game's hard, okay?",
+      "start": 357.94,
+      "duration": 1.04
+    },
+    {
+      "text": "Okay.",
+      "start": 358.98,
+      "duration": 1.56
+    },
+    {
+      "text": "Don't get caught here.",
+      "start": 360.54,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, paper.",
+      "start": 361.54,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, these are the other papers that I delivered.",
+      "start": 363.92,
+      "duration": 2.18
+    },
+    {
+      "text": "Oh, okay.",
+      "start": 366.1,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay.",
+      "start": 366.94,
+      "duration": 1.0
+    },
+    {
+      "text": "So I just gotta find the red one and the blue one.",
+      "start": 367.94,
+      "duration": 1.88
+    },
+    {
+      "text": "You're in danger.",
+      "start": 369.82,
+      "duration": 1.12
+    },
+    {
+      "text": "Oh, it got me.",
+      "start": 371.86,
+      "duration": 2.28
+    },
+    {
+      "text": "You're dead.",
+      "start": 374.14,
+      "duration": 0.84
+    },
+    {
+      "text": "Aw.",
+      "start": 374.98,
+      "duration": 1.0
+    },
+    {
+      "text": "Aw, cool stuff.",
+      "start": 377.82,
+      "duration": 0.96
+    },
+    {
+      "text": "Streaming is fun.",
+      "start": 379.26,
+      "duration": 1.12
+    },
+    {
+      "text": "I just came.",
+      "start": 380.38,
+      "duration": 0.84
+    },
+    {
+      "text": "Is it over?",
+      "start": 381.22,
+      "duration": 1.04
+    },
+    {
+      "text": "All right.",
+      "start": 382.26,
+      "duration": 0.84
+    },
+    {
+      "text": "Like you just came into the stream.",
+      "start": 384.22,
+      "duration": 1.28
+    },
+    {
+      "text": "Oh, okay.",
+      "start": 385.5,
+      "duration": 0.92
+    },
+    {
+      "text": "Right, right.",
+      "start": 386.42,
+      "duration": 0.98
+    },
+    {
+      "text": "I died.",
+      "start": 387.4,
+      "duration": 0.94
+    },
+    {
+      "text": "We have to start from the beginning again.",
+      "start": 388.34,
+      "duration": 1.38
+    },
+    {
+      "text": "No saves is too cool.",
+      "start": 389.72,
+      "duration": 1.38
+    },
+    {
+      "text": "You don't know.",
+      "start": 391.1,
+      "duration": 0.84
+    },
+    {
+      "text": "This game is not suited for me.",
+      "start": 393.02,
+      "duration": 1.84
+    },
+    {
+      "text": "Do you have any other recommendations?",
+      "start": 394.86,
+      "duration": 1.48
+    },
+    {
+      "text": "Chat.",
+      "start": 396.34,
+      "duration": 0.84
+    },
+    {
+      "text": "Is there anything?",
+      "start": 399.7,
+      "duration": 1.88
+    },
+    {
+      "text": "If you'd be interested, try this.",
+      "start": 401.58,
+      "duration": 1.7
+    },
+    {
+      "text": "Oh, shit.",
+      "start": 403.28,
+      "duration": 0.84
+    },
+    {
+      "text": "Uh-oh.",
+      "start": 404.12,
+      "duration": 0.82
+    },
+    {
+      "text": "Okay, new games.",
+      "start": 404.94,
+      "duration": 1.12
+    },
+    {
+      "text": "Nice.",
+      "start": 406.06,
+      "duration": 0.82
+    },
+    {
+      "text": "Nina games.",
+      "start": 406.88,
+      "duration": 1.46
+    },
+    {
+      "text": "Horror game only for Senranina.",
+      "start": 408.74,
+      "duration": 1.44
+    },
+    {
+      "text": "Oh, boy.",
+      "start": 410.18,
+      "duration": 0.84
+    },
+    {
+      "text": "I don't like that.",
+      "start": 411.02,
+      "duration": 1.68
+    },
+    {
+      "text": "I don't know about that.",
+      "start": 412.7,
+      "duration": 0.84
+    },
+    {
+      "text": "Let's take a look.",
+      "start": 413.54,
+      "duration": 1.12
+    },
+    {
+      "text": "Ah, new game site.",
+      "start": 414.66,
+      "duration": 1.56
+    },
+    {
+      "text": "It's a site I always use.",
+      "start": 416.22,
+      "duration": 1.5
+    },
+    {
+      "text": "Let's try this game.",
+      "start": 417.72,
+      "duration": 1.32
+    },
+    {
+      "text": "Nothing could possibly go wrong.",
+      "start": 420.04,
+      "duration": 2.12
+    },
+    {
+      "text": "You should have a piece of tape over that camera lens.",
+      "start": 423.98,
+      "duration": 3.04
+    },
+    {
+      "text": "No, I'm streaming.",
+      "start": 427.02,
+      "duration": 1.64
+    },
+    {
+      "text": "But, oh, I see.",
+      "start": 428.66,
+      "duration": 3.56
+    },
+    {
+      "text": "So the VTuber avatar mimics the movements",
+      "start": 432.22,
+      "duration": 5.0
+    },
+    {
+      "text": "of the person's recording?",
+      "start": 437.42,
+      "duration": 0.84
+    },
+    {
+      "text": "Yes, that is correct.",
+      "start": 438.26,
+      "duration": 0.84
+    },
+    {
+      "text": "That makes sense.",
+      "start": 439.1,
+      "duration": 1.12
+    },
+    {
+      "text": "I never really thought about it.",
+      "start": 440.22,
+      "duration": 1.96
+    },
+    {
+      "text": "A new game has been installed.",
+      "start": 442.18,
+      "duration": 2.26
+    },
+    {
+      "text": "Yeah.",
+      "start": 444.44,
+      "duration": 1.1
+    },
+    {
+      "text": "Oh, boy.",
+      "start": 445.54,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, boy. What the fuck?",
+      "start": 447.38,
+      "duration": 1.44
+    },
+    {
+      "text": "Oh, I hate this.",
+      "start": 450.5,
+      "duration": 2.68
+    },
+    {
+      "text": "Hmm.",
+      "start": 453.18,
+      "duration": 0.84
+    },
+    {
+      "text": "Scared, what the fuck?",
+      "start": 455.38,
+      "duration": 1.88
+    },
+    {
+      "text": "What the fuck is going on?",
+      "start": 459.64,
+      "duration": 1.1
+    },
+    {
+      "text": "What's happening?",
+      "start": 460.74,
+      "duration": 0.96
+    },
+    {
+      "text": "Is that a person on the ground?",
+      "start": 463.46,
+      "duration": 1.72
+    },
+    {
+      "text": "Is that supposed to be like a mirror of my room?",
+      "start": 465.26,
+      "duration": 3.28
+    },
+    {
+      "text": "Is it?",
+      "start": 468.54,
+      "duration": 0.9
+    },
+    {
+      "text": "I don't know.",
+      "start": 469.44,
+      "duration": 0.84
+    },
+    {
+      "text": "No, no, your room doesn't look like that.",
+      "start": 470.28,
+      "duration": 2.06
+    },
+    {
+      "text": "Okay.",
+      "start": 473.54,
+      "duration": 0.84
+    },
+    {
+      "text": "Four.",
+      "start": 474.38,
+      "duration": 1.44
+    },
+    {
+      "text": "I like the number four.",
+      "start": 475.82,
+      "duration": 1.12
+    },
+    {
+      "text": "I did it.",
+      "start": 476.94,
+      "duration": 1.08
+    },
+    {
+      "text": "E.",
+      "start": 478.02,
+      "duration": 0.84
+    },
+    {
+      "text": "E.",
+      "start": 478.86,
+      "duration": 0.84
+    },
+    {
+      "text": "This fucking,",
+      "start": 482.98,
+      "duration": 1.04
+    },
+    {
+      "text": "dude, this game you sent me is broken, bro.",
+      "start": 484.02,
+      "duration": 2.56
+    },
+    {
+      "text": "Can you get out?",
+      "start": 486.58,
+      "duration": 0.84
+    },
+    {
+      "text": "Maybe check the entrance.",
+      "start": 487.42,
+      "duration": 1.28
+    },
+    {
+      "text": "I think this is the entrance.",
+      "start": 488.7,
+      "duration": 1.56
+    },
+    {
+      "text": "Okay.",
+      "start": 492.34,
+      "duration": 0.84
+    },
+    {
+      "text": "Hm.",
+      "start": 495.78,
+      "duration": 4.28
+    },
+    {
+      "text": "Was there a number somewhere?",
+      "start": 500.06,
+      "duration": 1.4
+    },
+    {
+      "text": "Oh, I don't know.",
+      "start": 501.46,
+      "duration": 0.92
+    },
+    {
+      "text": "That's fine.",
+      "start": 503.68,
+      "duration": 0.84
+    },
+    {
+      "text": "Four colors.",
+      "start": 504.52,
+      "duration": 1.54
+    },
+    {
+      "text": "Oh.",
+      "start": 506.06,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, oh, I see.",
+      "start": 506.9,
+      "duration": 0.82
+    },
+    {
+      "text": "The green is four.",
+      "start": 507.72,
+      "duration": 0.86
+    },
+    {
+      "text": "Got it.",
+      "start": 509.62,
+      "duration": 1.04
+    },
+    {
+      "text": "Four.",
+      "start": 510.66,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, yeah, okay.",
+      "start": 511.5,
+      "duration": 1.3
+    },
+    {
+      "text": "Oh, chat's helping me out.",
+      "start": 512.8,
+      "duration": 1.3
+    },
+    {
+      "text": "Oh, here we go, red.",
+      "start": 515.32,
+      "duration": 1.46
+    },
+    {
+      "text": "It looks pretty easy to understand.",
+      "start": 516.78,
+      "duration": 1.52
+    },
+    {
+      "text": "Maybe you haven't met us.",
+      "start": 518.3,
+      "duration": 1.6
+    },
+    {
+      "text": "Five is red.",
+      "start": 519.9,
+      "duration": 1.6
+    },
+    {
+      "text": "Yep.",
+      "start": 521.5,
+      "duration": 0.84
+    },
+    {
+      "text": "Wait, there were only four though, weren't there?",
+      "start": 522.34,
+      "duration": 1.88
+    },
+    {
+      "text": "Oh, there's one on the table.",
+      "start": 524.26,
+      "duration": 0.84
+    },
+    {
+      "text": "There's one on the chair.",
+      "start": 525.1,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah, a chair.",
+      "start": 525.94,
+      "duration": 0.84
+    },
+    {
+      "text": "That's a chair.",
+      "start": 526.78,
+      "duration": 0.84
+    },
+    {
+      "text": "That is a chair.",
+      "start": 527.62,
+      "duration": 0.82
+    },
+    {
+      "text": "Seven.",
+      "start": 529.74,
+      "duration": 0.84
+    },
+    {
+      "text": "Yep.",
+      "start": 530.58,
+      "duration": 0.82
+    },
+    {
+      "text": "Is blue.",
+      "start": 531.4,
+      "duration": 0.84
+    },
+    {
+      "text": "I guess it could just be four numbers.",
+      "start": 532.24,
+      "duration": 0.98
+    },
+    {
+      "text": "They don't have to be one through four.",
+      "start": 533.22,
+      "duration": 1.76
+    },
+    {
+      "text": "Oh, I suppose you're right.",
+      "start": 534.98,
+      "duration": 1.88
+    },
+    {
+      "text": "Ah, I suppose you're right.",
+      "start": 536.86,
+      "duration": 0.84
+    },
+    {
+      "text": "Hm, hm, hm, hm, hm.",
+      "start": 537.7,
+      "duration": 0.84
+    },
+    {
+      "text": "Smarty pants, hm.",
+      "start": 538.54,
+      "duration": 0.84
+    },
+    {
+      "text": "What would a genie.",
+      "start": 540.74,
+      "duration": 0.98
+    },
+    {
+      "text": "Oh, oh, it's up there.",
+      "start": 541.72,
+      "duration": 1.26
+    },
+    {
+      "text": "Up on the ceiling?",
+      "start": 542.98,
+      "duration": 0.84
+    },
+    {
+      "text": "I think so.",
+      "start": 543.82,
+      "duration": 0.82
+    },
+    {
+      "text": "That's what it looked like.",
+      "start": 544.64,
+      "duration": 1.66
+    },
+    {
+      "text": "The sliding doors?",
+      "start": 546.3,
+      "duration": 1.52
+    },
+    {
+      "text": "Sliding doors.",
+      "start": 547.82,
+      "duration": 1.56
+    },
+    {
+      "text": "I already did that one.",
+      "start": 549.38,
+      "duration": 1.76
+    },
+    {
+      "text": "Oh, maybe if they close,",
+      "start": 551.14,
+      "duration": 1.72
+    },
+    {
+      "text": "if you close them, it'll be there.",
+      "start": 552.86,
+      "duration": 1.16
+    },
+    {
+      "text": "Oh.",
+      "start": 554.86,
+      "duration": 1.46
+    },
+    {
+      "text": "No.",
+      "start": 556.32,
+      "duration": 0.84
+    },
+    {
+      "text": "Dang it.",
+      "start": 557.16,
+      "duration": 1.42
+    },
+    {
+      "text": "No.",
+      "start": 558.58,
+      "duration": 0.84
+    },
+    {
+      "text": "Dang it.",
+      "start": 559.42,
+      "duration": 0.84
+    },
+    {
+      "text": "So far, it's green, red, blue.",
+      "start": 560.26,
+      "duration": 2.4
+    },
+    {
+      "text": "The garbage bag at the back of the room.",
+      "start": 564.28,
+      "duration": 1.64
+    },
+    {
+      "text": "Oh, thank you guys.",
+      "start": 565.92,
+      "duration": 1.4
+    },
+    {
+      "text": "Which back of which room?",
+      "start": 571.28,
+      "duration": 1.34
+    },
+    {
+      "text": "Yeah, right?",
+      "start": 572.62,
+      "duration": 0.84
+    },
+    {
+      "text": "The garbage bag at the back of the room.",
+      "start": 575.7,
+      "duration": 1.92
+    },
+    {
+      "text": "With the boo, boo, boo, boo, boo, boo, boo, boo, boo.",
+      "start": 577.62,
+      "duration": 2.4
+    },
+    {
+      "text": "I think it was on the wall next to the,",
+      "start": 580.02,
+      "duration": 1.12
+    },
+    {
+      "text": "yeah, I already got that one.",
+      "start": 581.14,
+      "duration": 1.46
+    },
+    {
+      "text": "Three.",
+      "start": 584.52,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, three.",
+      "start": 585.36,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay, three yellow.",
+      "start": 586.2,
+      "duration": 1.14
+    },
+    {
+      "text": "So.",
+      "start": 587.34,
+      "duration": 0.84
+    },
+    {
+      "text": "Yellow three, green four.",
+      "start": 588.18,
+      "duration": 1.78
+    },
+    {
+      "text": "Red five, blue seven.",
+      "start": 589.96,
+      "duration": 1.98
+    },
+    {
+      "text": "Okay.",
+      "start": 593.26,
+      "duration": 0.84
+    },
+    {
+      "text": "Put them in, dog.",
+      "start": 594.1,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay.",
+      "start": 599.1,
+      "duration": 1.32
+    },
+    {
+      "text": "Oh, so red.",
+      "start": 600.42,
+      "duration": 1.0
+    },
+    {
+      "text": "I have to be like lined up perfectly.",
+      "start": 601.42,
+      "duration": 1.84
+    },
+    {
+      "text": "It's, uh, oh.",
+      "start": 604.18,
+      "duration": 2.24
+    },
+    {
+      "text": "Oh my god.",
+      "start": 607.3,
+      "duration": 0.82
+    },
+    {
+      "text": "I just want to line myself up.",
+      "start": 609.14,
+      "duration": 1.4
+    },
+    {
+      "text": "Okay.",
+      "start": 610.54,
+      "duration": 1.28
+    },
+    {
+      "text": "There we go.",
+      "start": 611.82,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay.",
+      "start": 612.66,
+      "duration": 0.82
+    },
+    {
+      "text": "Five, seven, three, four.",
+      "start": 613.88,
+      "duration": 2.16
+    },
+    {
+      "text": "Five, seven, three, four.",
+      "start": 616.04,
+      "duration": 4.16
+    },
+    {
+      "text": "Awesome.",
+      "start": 621.24,
+      "duration": 0.84
+    },
+    {
+      "text": "Awesome.",
+      "start": 622.08,
+      "duration": 1.1
+    },
+    {
+      "text": "We opened a door.",
+      "start": 623.18,
+      "duration": 1.02
+    },
+    {
+      "text": "Cleared, wow.",
+      "start": 624.2,
+      "duration": 1.12
+    },
+    {
+      "text": "I came now.",
+      "start": 625.32,
+      "duration": 0.84
+    },
+    {
+      "text": "I came now.",
+      "start": 626.16,
+      "duration": 0.82
+    },
+    {
+      "text": "Okay.",
+      "start": 626.98,
+      "duration": 0.84
+    },
+    {
+      "text": "Congratulations.",
+      "start": 627.82,
+      "duration": 1.06
+    },
+    {
+      "text": "On purpose, I'm just, I cleared it.",
+      "start": 628.88,
+      "duration": 2.4
+    },
+    {
+      "text": "It was somewhat scary.",
+      "start": 633.08,
+      "duration": 1.38
+    },
+    {
+      "text": "There is a continuation.",
+      "start": 635.56,
+      "duration": 1.24
+    },
+    {
+      "text": "Your face is getting exposed.",
+      "start": 636.8,
+      "duration": 1.76
+    },
+    {
+      "text": "What?",
+      "start": 638.56,
+      "duration": 0.84
+    },
+    {
+      "text": "I think it's saying your face is getting exposed.",
+      "start": 640.36,
+      "duration": 1.88
+    },
+    {
+      "text": "Oh.",
+      "start": 642.24,
+      "duration": 0.84
+    },
+    {
+      "text": "I came to do a face reveal.",
+      "start": 643.64,
+      "duration": 0.84
+    },
+    {
+      "text": "What do you mean face?",
+      "start": 644.48,
+      "duration": 0.82
+    },
+    {
+      "text": "Whoa.",
+      "start": 645.3,
+      "duration": 0.84
+    },
+    {
+      "text": "Ugh.",
+      "start": 649.14,
+      "duration": 0.84
+    },
+    {
+      "text": "No.",
+      "start": 651.98,
+      "duration": 0.84
+    },
+    {
+      "text": "That's not good.",
+      "start": 653.72,
+      "duration": 1.58
+    },
+    {
+      "text": "Oh, what a nightmare.",
+      "start": 655.3,
+      "duration": 1.1
+    },
+    {
+      "text": "Well, everyone knows I'm a cute girl now.",
+      "start": 657.82,
+      "duration": 3.1
+    },
+    {
+      "text": "Okay.",
+      "start": 660.92,
+      "duration": 0.84
+    },
+    {
+      "text": "Shit.",
+      "start": 663.08,
+      "duration": 1.56
+    },
+    {
+      "text": "You have a new message.",
+      "start": 664.64,
+      "duration": 0.84
+    },
+    {
+      "text": "Unknown.",
+      "start": 665.48,
+      "duration": 1.36
+    },
+    {
+      "text": "Man, they're good at these.",
+      "start": 666.84,
+      "duration": 1.4
+    },
+    {
+      "text": "Oh man.",
+      "start": 669.12,
+      "duration": 1.12
+    },
+    {
+      "text": "Oh no.",
+      "start": 670.24,
+      "duration": 1.56
+    },
+    {
+      "text": "Oh boy.",
+      "start": 671.8,
+      "duration": 0.92
+    },
+    {
+      "text": "Block.",
+      "start": 673.72,
+      "duration": 0.84
+    },
+    {
+      "text": "Otherwise, bad things happen.",
+      "start": 675.88,
+      "duration": 2.6
+    },
+    {
+      "text": "Okay, thank you.",
+      "start": 678.48,
+      "duration": 1.96
+    },
+    {
+      "text": "The Niku Jaga I made is in the fridge,",
+      "start": 680.44,
+      "duration": 1.52
+    },
+    {
+      "text": "so eat it up and eat it.",
+      "start": 681.96,
+      "duration": 1.92
+    },
+    {
+      "text": "This is bad.",
+      "start": 683.88,
+      "duration": 0.84
+    },
+    {
+      "text": "My face got exposed during this dream.",
+      "start": 684.72,
+      "duration": 1.04
+    },
+    {
+      "text": "I also got a transmission disorder,",
+      "start": 685.76,
+      "duration": 1.16
+    },
+    {
+      "text": "so what should I do?",
+      "start": 686.92,
+      "duration": 0.84
+    },
+    {
+      "text": "I'm scared.",
+      "start": 687.76,
+      "duration": 0.84
+    },
+    {
+      "text": "Asuka doesn't reply.",
+      "start": 690.08,
+      "duration": 1.44
+    },
+    {
+      "text": "No.",
+      "start": 691.52,
+      "duration": 0.84
+    },
+    {
+      "text": "Ethan Niku Jaga.",
+      "start": 694.08,
+      "duration": 2.28
+    },
+    {
+      "text": "What?",
+      "start": 696.36,
+      "duration": 1.16
+    },
+    {
+      "text": "From Asuka.",
+      "start": 697.52,
+      "duration": 0.88
+    },
+    {
+      "text": "It's like a,",
+      "start": 699.88,
+      "duration": 0.84
+    },
+    {
+      "text": "can we meet tomorrow?",
+      "start": 701.8,
+      "duration": 0.84
+    },
+    {
+      "text": "I hear you out in person tomorrow.",
+      "start": 703.04,
+      "duration": 0.84
+    },
+    {
+      "text": "Don't overthink it.",
+      "start": 703.88,
+      "duration": 1.08
+    },
+    {
+      "text": "Yeah, thanks.",
+      "start": 704.96,
+      "duration": 1.18
+    },
+    {
+      "text": "Oh man.",
+      "start": 707.36,
+      "duration": 0.84
+    },
+    {
+      "text": "Well, that sucks.",
+      "start": 708.2,
+      "duration": 1.46
+    },
+    {
+      "text": "Time to go jump off the bridge.",
+      "start": 712.2,
+      "duration": 2.32
+    },
+    {
+      "text": "What is this?",
+      "start": 716.38,
+      "duration": 0.84
+    },
+    {
+      "text": "What is this?",
+      "start": 717.22,
+      "duration": 0.82
+    },
+    {
+      "text": "What is this?",
+      "start": 718.04,
+      "duration": 0.84
+    },
+    {
+      "text": "What is this?",
+      "start": 718.88,
+      "duration": 1.24
+    },
+    {
+      "text": "This is upsetting.",
+      "start": 720.12,
+      "duration": 1.72
+    },
+    {
+      "text": "Oh man, they did this in the other game too",
+      "start": 721.84,
+      "duration": 2.24
+    },
+    {
+      "text": "where you go outside and...",
+      "start": 724.08,
+      "duration": 1.56
+    },
+    {
+      "text": "There's somebody there.",
+      "start": 726.84,
+      "duration": 0.96
+    },
+    {
+      "text": "Not really cool.",
+      "start": 727.8,
+      "duration": 1.56
+    },
+    {
+      "text": "Oh, it looks like there's somebody there.",
+      "start": 729.36,
+      "duration": 1.64
+    },
+    {
+      "text": "Where?",
+      "start": 731.0,
+      "duration": 0.84
+    },
+    {
+      "text": "See the two legs and their heads kind of moving?",
+      "start": 732.0,
+      "duration": 2.08
+    },
+    {
+      "text": "Oh dear.",
+      "start": 734.08,
+      "duration": 1.48
+    },
+    {
+      "text": "Oh dear.",
+      "start": 737.12,
+      "duration": 0.84
+    },
+    {
+      "text": "Must be nothing.",
+      "start": 739.08,
+      "duration": 1.4
+    },
+    {
+      "text": "Everything is chill.",
+      "start": 742.76,
+      "duration": 1.8
+    },
+    {
+      "text": "Everything is good and it's good",
+      "start": 744.56,
+      "duration": 2.48
+    },
+    {
+      "text": "and everything is good.",
+      "start": 747.04,
+      "duration": 2.56
+    },
+    {
+      "text": "What can I do now?",
+      "start": 749.6,
+      "duration": 1.84
+    },
+    {
+      "text": "Let's look outside.",
+      "start": 751.44,
+      "duration": 1.32
+    },
+    {
+      "text": "Hello?",
+      "start": 755.12,
+      "duration": 0.92
+    },
+    {
+      "text": "Okay.",
+      "start": 758.68,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay.",
+      "start": 759.52,
+      "duration": 1.52
+    },
+    {
+      "text": "I'm a little scaredy cat, short and stout.",
+      "start": 761.08,
+      "duration": 2.92
+    },
+    {
+      "text": "Here is my scaredy, here is my cat.",
+      "start": 764.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Your cat?",
+      "start": 767.0,
+      "duration": 0.92
+    },
+    {
+      "text": "Oh, I get it.",
+      "start": 767.92,
+      "duration": 1.84
+    },
+    {
+      "text": "Oh.",
+      "start": 769.76,
+      "duration": 1.38
+    },
+    {
+      "text": "The mailman is so friendly.",
+      "start": 771.14,
+      "duration": 1.66
+    },
+    {
+      "text": "Oh, he's just trying to keep me safe, you know.",
+      "start": 774.04,
+      "duration": 2.24
+    },
+    {
+      "text": "Making sure all my packages arrive on time.",
+      "start": 777.36,
+      "duration": 2.88
+    },
+    {
+      "text": "He's always watching.",
+      "start": 780.24,
+      "duration": 1.2
+    },
+    {
+      "text": "Whoops.",
+      "start": 782.36,
+      "duration": 0.84
+    },
+    {
+      "text": "My communicator!",
+      "start": 788.72,
+      "duration": 1.84
+    },
+    {
+      "text": "Rangers, get down to the headquarters immediately.",
+      "start": 790.56,
+      "duration": 2.16
+    },
+    {
+      "text": "Aye aye aye.",
+      "start": 792.72,
+      "duration": 0.84
+    },
+    {
+      "text": "I have to go.",
+      "start": 794.44,
+      "duration": 0.84
+    },
+    {
+      "text": "What's wrong Zordon?",
+      "start": 797.88,
+      "duration": 1.88
+    },
+    {
+      "text": "No current threats.",
+      "start": 799.76,
+      "duration": 1.64
+    },
+    {
+      "text": "Oh, I beg to differ.",
+      "start": 801.4,
+      "duration": 1.52
+    },
+    {
+      "text": "Trash pickup day.",
+      "start": 802.92,
+      "duration": 1.72
+    },
+    {
+      "text": "Collect garbage from bins around the house.",
+      "start": 804.64,
+      "duration": 2.12
+    },
+    {
+      "text": "All right.",
+      "start": 806.76,
+      "duration": 0.84
+    },
+    {
+      "text": "All right.",
+      "start": 810.96,
+      "duration": 0.96
+    },
+    {
+      "text": "Oh, it's a beautiful day.",
+      "start": 811.92,
+      "duration": 1.24
+    },
+    {
+      "text": "Collect garbage, collect garbage.",
+      "start": 813.16,
+      "duration": 3.76
+    },
+    {
+      "text": "Collect all the garbage.",
+      "start": 816.92,
+      "duration": 1.48
+    },
+    {
+      "text": "Collect garbage.",
+      "start": 819.36,
+      "duration": 2.24
+    },
+    {
+      "text": "What the, oh.",
+      "start": 822.6,
+      "duration": 0.92
+    },
+    {
+      "text": "Making song about garbage.",
+      "start": 823.52,
+      "duration": 2.64
+    },
+    {
+      "text": "Looking over and seeing you and how disengaged you are",
+      "start": 829.6,
+      "duration": 2.96
+    },
+    {
+      "text": "as you sing this makes it five times funnier.",
+      "start": 832.56,
+      "duration": 4.16
+    },
+    {
+      "text": "Collect garbage.",
+      "start": 836.72,
+      "duration": 1.76
+    },
+    {
+      "text": "Just like full frowning.",
+      "start": 838.48,
+      "duration": 1.48
+    },
+    {
+      "text": "Collect garbage.",
+      "start": 840.96,
+      "duration": 1.56
+    },
+    {
+      "text": "Every day I die on the one side.",
+      "start": 842.52,
+      "duration": 1.76
+    },
+    {
+      "text": "Gather all the trash and you can eat the trash.",
+      "start": 844.28,
+      "duration": 2.48
+    },
+    {
+      "text": "I think I might have fucking bugged it out.",
+      "start": 846.8,
+      "duration": 1.68
+    },
+    {
+      "text": "Really?",
+      "start": 848.48,
+      "duration": 0.96
+    },
+    {
+      "text": "Yeah.",
+      "start": 849.44,
+      "duration": 0.84
+    },
+    {
+      "text": "Well, if we can't gather the trash together,",
+      "start": 851.56,
+      "duration": 5.0
+    },
+    {
+      "text": "how are we gonna get murdered by this scary ass stalker?",
+      "start": 857.68,
+      "duration": 2.72
+    },
+    {
+      "text": "You don't know if we're gonna get murdered",
+      "start": 860.4,
+      "duration": 1.08
+    },
+    {
+      "text": "by the end of it, you don't know that.",
+      "start": 861.48,
+      "duration": 1.72
+    },
+    {
+      "text": "You have no idea if that's the truth or not.",
+      "start": 863.2,
+      "duration": 2.08
+    },
+    {
+      "text": "I don't know, that's what happened last time.",
+      "start": 865.28,
+      "duration": 2.68
+    },
+    {
+      "text": "Was it?",
+      "start": 867.96,
+      "duration": 1.4
+    },
+    {
+      "text": "Yeah, things did not work out well",
+      "start": 869.36,
+      "duration": 1.92
+    },
+    {
+      "text": "in the Starbucks coffee shop game.",
+      "start": 871.28,
+      "duration": 2.76
+    },
+    {
+      "text": "It was one of those like everything turned out okay",
+      "start": 874.04,
+      "duration": 5.0
+    },
+    {
+      "text": "and then he like comes out of the closet.",
+      "start": 879.52,
+      "duration": 2.48
+    },
+    {
+      "text": "I think something fucked up.",
+      "start": 882.0,
+      "duration": 1.68
+    },
+    {
+      "text": "I mean the murderer comes out of the closet.",
+      "start": 883.68,
+      "duration": 1.88
+    },
+    {
+      "text": "To murder, not to announce his sexuality",
+      "start": 885.56,
+      "duration": 4.32
+    },
+    {
+      "text": "which would have been fine.",
+      "start": 889.88,
+      "duration": 1.4
+    },
+    {
+      "text": "Why is it with all these fucking games",
+      "start": 892.52,
+      "duration": 1.28
+    },
+    {
+      "text": "bugging out on us all the time?",
+      "start": 893.8,
+      "duration": 1.6
+    },
+    {
+      "text": "Maybe it's, maybe it's, maybe it's to tell you",
+      "start": 897.56,
+      "duration": 2.84
+    },
+    {
+      "text": "you have a gathered rash.",
+      "start": 900.4,
+      "duration": 1.88
+    },
+    {
+      "text": "Yeah Dan, I think that's what it's saying.",
+      "start": 902.28,
+      "duration": 4.08
+    },
+    {
+      "text": "Oh no.",
+      "start": 906.36,
+      "duration": 1.08
+    },
+    {
+      "text": "I got a fucking gathered rash on me.",
+      "start": 907.44,
+      "duration": 2.08
+    },
+    {
+      "text": "I knew it dude, I told you.",
+      "start": 909.52,
+      "duration": 1.88
+    },
+    {
+      "text": "I told you to stop playing around with those sand pits",
+      "start": 913.52,
+      "duration": 3.44
+    },
+    {
+      "text": "but you couldn't stop yourself.",
+      "start": 916.96,
+      "duration": 1.92
+    },
+    {
+      "text": "And I told you specifically, I said there,",
+      "start": 918.88,
+      "duration": 2.0
+    },
+    {
+      "text": "you're gonna get a rash and it's gonna be gathered.",
+      "start": 920.88,
+      "duration": 3.04
+    },
+    {
+      "text": "And you're gonna say no.",
+      "start": 923.92,
+      "duration": 2.04
+    },
+    {
+      "text": "Options.",
+      "start": 928.24,
+      "duration": 1.6
+    },
+    {
+      "text": "Mouse sensitivity, yeah come way down.",
+      "start": 929.84,
+      "duration": 2.6
+    },
+    {
+      "text": "Options, like there's a button for like game works.",
+      "start": 932.44,
+      "duration": 3.48
+    },
+    {
+      "text": "Click.",
+      "start": 937.16,
+      "duration": 1.48
+    },
+    {
+      "text": "Interact, crouch, oh I can crouch.",
+      "start": 938.64,
+      "duration": 3.46
+    },
+    {
+      "text": "Maybe that'll fix things.",
+      "start": 942.1,
+      "duration": 1.3
+    },
+    {
+      "text": "All right, resume, whoa is it so much brighter now?",
+      "start": 946.52,
+      "duration": 2.36
+    },
+    {
+      "text": "What the fuck, did I bug out the lighting?",
+      "start": 948.88,
+      "duration": 3.52
+    },
+    {
+      "text": "I might have bugged out the lighting now.",
+      "start": 952.4,
+      "duration": 1.24
+    },
+    {
+      "text": "You didn't change that?",
+      "start": 953.64,
+      "duration": 0.92
+    },
+    {
+      "text": "No.",
+      "start": 954.56,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh man.",
+      "start": 955.4,
+      "duration": 0.84
+    },
+    {
+      "text": "Wait, did I?",
+      "start": 956.24,
+      "duration": 3.92
+    },
+    {
+      "text": "Is there a brightness option?",
+      "start": 960.16,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, but you just clicked off it.",
+      "start": 961.16,
+      "duration": 1.64
+    },
+    {
+      "text": "Don't sync VHS filter.",
+      "start": 963.84,
+      "duration": 1.98
+    },
+    {
+      "text": "Don't sync.",
+      "start": 968.24,
+      "duration": 1.0
+    },
+    {
+      "text": "Okay.",
+      "start": 970.52,
+      "duration": 1.56
+    },
+    {
+      "text": "Apply.",
+      "start": 972.08,
+      "duration": 1.48
+    },
+    {
+      "text": "Don't sync.",
+      "start": 973.56,
+      "duration": 0.84
+    },
+    {
+      "text": "Graphic quality.",
+      "start": 974.4,
+      "duration": 0.84
+    },
+    {
+      "text": "Ultra.",
+      "start": 975.24,
+      "duration": 0.84
+    },
+    {
+      "text": "Just saying.",
+      "start": 976.08,
+      "duration": 1.76
+    },
+    {
+      "text": "Oh okay.",
+      "start": 977.84,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay, oh there we go.",
+      "start": 978.68,
+      "duration": 1.56
+    },
+    {
+      "text": "All right.",
+      "start": 980.24,
+      "duration": 1.62
+    },
+    {
+      "text": "Oh I should v-sync actually.",
+      "start": 981.86,
+      "duration": 2.16
+    },
+    {
+      "text": "Cause it's getting a little choppy.",
+      "start": 984.02,
+      "duration": 1.8
+    },
+    {
+      "text": "Every second v-bank.",
+      "start": 987.42,
+      "duration": 1.6
+    },
+    {
+      "text": "Okay.",
+      "start": 989.02,
+      "duration": 0.84
+    },
+    {
+      "text": "As I always do with my video games.",
+      "start": 989.86,
+      "duration": 2.04
+    },
+    {
+      "text": "I always think about this.",
+      "start": 991.9,
+      "duration": 0.84
+    },
+    {
+      "text": "Whoa, nevermind.",
+      "start": 992.74,
+      "duration": 1.82
+    },
+    {
+      "text": "I'm just gonna not sync.",
+      "start": 997.02,
+      "duration": 1.88
+    },
+    {
+      "text": "Maybe I'll set it to high",
+      "start": 998.9,
+      "duration": 1.72
+    },
+    {
+      "text": "and then I'll sync every second v-bank.",
+      "start": 1000.62,
+      "duration": 2.58
+    },
+    {
+      "text": "Happy Halloween everybody.",
+      "start": 1005.02,
+      "duration": 1.4
+    },
+    {
+      "text": "Is there any trash in this room?",
+      "start": 1009.42,
+      "duration": 1.72
+    },
+    {
+      "text": "I'm still crouching.",
+      "start": 1011.14,
+      "duration": 1.64
+    },
+    {
+      "text": "Is this trash?",
+      "start": 1012.78,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh trash.",
+      "start": 1013.62,
+      "duration": 0.82
+    },
+    {
+      "text": "Oh man.",
+      "start": 1014.44,
+      "duration": 0.84
+    },
+    {
+      "text": "Ah.",
+      "start": 1015.28,
+      "duration": 0.82
+    },
+    {
+      "text": "It's rooms like this that make a house a home.",
+      "start": 1016.1,
+      "duration": 2.2
+    },
+    {
+      "text": "Oh, I'm depositing the trash into this bin.",
+      "start": 1019.9,
+      "duration": 4.12
+    },
+    {
+      "text": "So it wasn't bugging out.",
+      "start": 1024.02,
+      "duration": 1.48
+    },
+    {
+      "text": "Oh okay.",
+      "start": 1025.5,
+      "duration": 0.92
+    },
+    {
+      "text": "I just was being callous.",
+      "start": 1026.42,
+      "duration": 2.72
+    },
+    {
+      "text": "Where is the bin?",
+      "start": 1029.14,
+      "duration": 1.36
+    },
+    {
+      "text": "The bin is in the center of the house.",
+      "start": 1030.5,
+      "duration": 2.48
+    },
+    {
+      "text": "It's this one.",
+      "start": 1032.98,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay, so I guess there's one more trash somewhere.",
+      "start": 1035.82,
+      "duration": 2.84
+    },
+    {
+      "text": "Yeah.",
+      "start": 1038.66,
+      "duration": 0.84
+    },
+    {
+      "text": "Wow, you produce a lot of trash",
+      "start": 1039.5,
+      "duration": 1.36
+    },
+    {
+      "text": "for someone living in a one room apartment.",
+      "start": 1040.86,
+      "duration": 1.84
+    },
+    {
+      "text": "Dude, sometimes man.",
+      "start": 1043.54,
+      "duration": 1.0
+    },
+    {
+      "text": "When Susie goes away to visit family or something",
+      "start": 1046.34,
+      "duration": 2.52
+    },
+    {
+      "text": "and I'm still behind because I gotta work or whatever.",
+      "start": 1048.86,
+      "duration": 3.04
+    },
+    {
+      "text": "I'll fucking, I'll be like, damn this is a lot of stuff.",
+      "start": 1051.9,
+      "duration": 2.96
+    },
+    {
+      "text": "It's mostly because I cook a lot.",
+      "start": 1055.94,
+      "duration": 2.1
+    },
+    {
+      "text": "I'd close your door.",
+      "start": 1058.04,
+      "duration": 1.1
+    },
+    {
+      "text": "There you go.",
+      "start": 1060.12,
+      "duration": 0.84
+    },
+    {
+      "text": "Chush, chush, chush, chush.",
+      "start": 1062.04,
+      "duration": 2.34
+    },
+    {
+      "text": "Friendly blue house.",
+      "start": 1064.38,
+      "duration": 1.58
+    },
+    {
+      "text": "Friendly blue house.",
+      "start": 1065.96,
+      "duration": 1.38
+    },
+    {
+      "text": "Oh god, is that that person moving in next door to you?",
+      "start": 1068.82,
+      "duration": 2.4
+    },
+    {
+      "text": "Hell yeah.",
+      "start": 1071.22,
+      "duration": 0.96
+    },
+    {
+      "text": "Bad times.",
+      "start": 1072.5,
+      "duration": 0.9
+    },
+    {
+      "text": "This looks like the balcony that we met the king of yellow",
+      "start": 1073.4,
+      "duration": 3.34
+    },
+    {
+      "text": "in the Cthulhu game, doesn't it?",
+      "start": 1076.74,
+      "duration": 2.24
+    },
+    {
+      "text": "Yeah.",
+      "start": 1078.98,
+      "duration": 0.94
+    },
+    {
+      "text": "Yeah, yeah.",
+      "start": 1079.92,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah, it sure does.",
+      "start": 1080.76,
+      "duration": 1.6
+    },
+    {
+      "text": "Maybe it's just like a Japanese-y kind of.",
+      "start": 1082.36,
+      "duration": 2.86
+    },
+    {
+      "text": "Yeah, kaboo.",
+      "start": 1085.22,
+      "duration": 1.4
+    },
+    {
+      "text": "Whoa, whoa, whoa, whoa.",
+      "start": 1086.62,
+      "duration": 1.08
+    },
+    {
+      "text": "Did we de-sink? That was fast.",
+      "start": 1087.7,
+      "duration": 0.94
+    },
+    {
+      "text": "What happened?",
+      "start": 1088.64,
+      "duration": 1.22
+    },
+    {
+      "text": "Okay, oh.",
+      "start": 1089.86,
+      "duration": 0.88
+    },
+    {
+      "text": "Hello.",
+      "start": 1090.74,
+      "duration": 0.82
+    },
+    {
+      "text": "Hi.",
+      "start": 1091.56,
+      "duration": 1.18
+    },
+    {
+      "text": "Stop looking at me.",
+      "start": 1092.74,
+      "duration": 0.96
+    },
+    {
+      "text": "Oh man.",
+      "start": 1093.7,
+      "duration": 0.98
+    },
+    {
+      "text": "Do you want to, it's okay.",
+      "start": 1096.4,
+      "duration": 2.54
+    },
+    {
+      "text": "Oh man.",
+      "start": 1098.94,
+      "duration": 0.96
+    },
+    {
+      "text": "In the previous game we played by them,",
+      "start": 1100.9,
+      "duration": 3.16
+    },
+    {
+      "text": "the murderer was like in plain sight at the beginning.",
+      "start": 1104.06,
+      "duration": 2.64
+    },
+    {
+      "text": "So that could be, no.",
+      "start": 1107.86,
+      "duration": 1.66
+    },
+    {
+      "text": "Do I leave it here or?",
+      "start": 1110.54,
+      "duration": 1.6
+    },
+    {
+      "text": "Is that a friendly trash collecting policeman?",
+      "start": 1112.14,
+      "duration": 2.12
+    },
+    {
+      "text": "Yeah.",
+      "start": 1114.26,
+      "duration": 0.84
+    },
+    {
+      "text": "Good morning.",
+      "start": 1115.1,
+      "duration": 0.82
+    },
+    {
+      "text": "You look like you want to ask why is a policeman",
+      "start": 1115.92,
+      "duration": 2.28
+    },
+    {
+      "text": "doing something like this in the middle of the day?",
+      "start": 1118.2,
+      "duration": 2.62
+    },
+    {
+      "text": "It's because I'm not a policeman.",
+      "start": 1120.82,
+      "duration": 1.84
+    },
+    {
+      "text": "Just volunteering.",
+      "start": 1122.66,
+      "duration": 1.08
+    },
+    {
+      "text": "My station happens to be nearby.",
+      "start": 1123.74,
+      "duration": 2.22
+    },
+    {
+      "text": "So I thought I'd pick up some trash while I'm at it.",
+      "start": 1125.96,
+      "duration": 2.14
+    },
+    {
+      "text": "This is a costume I wear.",
+      "start": 1128.1,
+      "duration": 1.38
+    },
+    {
+      "text": "God, it gives me a lot of power.",
+      "start": 1130.0,
+      "duration": 1.84
+    },
+    {
+      "text": "Ah, judging by your trash bag,",
+      "start": 1131.84,
+      "duration": 1.48
+    },
+    {
+      "text": "today is your trash collection day, isn't it?",
+      "start": 1133.32,
+      "duration": 2.16
+    },
+    {
+      "text": "I see you live in this condo.",
+      "start": 1135.48,
+      "duration": 2.14
+    },
+    {
+      "text": "Do you live alone?",
+      "start": 1137.62,
+      "duration": 1.06
+    },
+    {
+      "text": "No.",
+      "start": 1139.6,
+      "duration": 1.0
+    },
+    {
+      "text": "Nope.",
+      "start": 1140.6,
+      "duration": 1.64
+    },
+    {
+      "text": "Is that so?",
+      "start": 1142.24,
+      "duration": 1.26
+    },
+    {
+      "text": "Nevertheless, please be careful.",
+      "start": 1143.5,
+      "duration": 2.16
+    },
+    {
+      "text": "Anything could happen,",
+      "start": 1145.66,
+      "duration": 0.84
+    },
+    {
+      "text": "especially to a young lady like you.",
+      "start": 1146.5,
+      "duration": 1.5
+    },
+    {
+      "text": "How relaxing.",
+      "start": 1148.0,
+      "duration": 0.84
+    },
+    {
+      "text": "Please be sure to come to my station nearby.",
+      "start": 1148.84,
+      "duration": 2.36
+    },
+    {
+      "text": "We'll hear you out.",
+      "start": 1151.2,
+      "duration": 1.84
+    },
+    {
+      "text": "Awfully presumptuous of a police officer.",
+      "start": 1153.04,
+      "duration": 2.48
+    },
+    {
+      "text": "Will you take my trash or?",
+      "start": 1155.52,
+      "duration": 1.5
+    },
+    {
+      "text": "I don't know where the trash pickup area is.",
+      "start": 1158.02,
+      "duration": 2.0
+    },
+    {
+      "text": "Maybe that blue bin?",
+      "start": 1160.02,
+      "duration": 1.2
+    },
+    {
+      "text": "That's a vending machine, dude.",
+      "start": 1162.36,
+      "duration": 1.46
+    },
+    {
+      "text": "Oh, you're right, it is.",
+      "start": 1163.82,
+      "duration": 1.2
+    },
+    {
+      "text": "We could get that coffee I love.",
+      "start": 1166.2,
+      "duration": 2.7
+    },
+    {
+      "text": "Boss coffee?",
+      "start": 1168.9,
+      "duration": 0.84
+    },
+    {
+      "text": "Boss coffee.",
+      "start": 1169.74,
+      "duration": 1.36
+    },
+    {
+      "text": "Oh, so good.",
+      "start": 1171.1,
+      "duration": 1.18
+    },
+    {
+      "text": "There you go.",
+      "start": 1173.82,
+      "duration": 0.84
+    },
+    {
+      "text": "Hi.",
+      "start": 1174.66,
+      "duration": 0.82
+    },
+    {
+      "text": "Hi there.",
+      "start": 1175.48,
+      "duration": 1.46
+    },
+    {
+      "text": "Everyone looks so friendly.",
+      "start": 1176.94,
+      "duration": 1.4
+    },
+    {
+      "text": "You're not gonna talk to them?",
+      "start": 1179.52,
+      "duration": 1.18
+    },
+    {
+      "text": "It didn't let me.",
+      "start": 1180.7,
+      "duration": 1.02
+    },
+    {
+      "text": "Oh.",
+      "start": 1181.72,
+      "duration": 0.84
+    },
+    {
+      "text": "Get some boss coffee.",
+      "start": 1183.5,
+      "duration": 1.08
+    },
+    {
+      "text": "That's what it's parodying right here.",
+      "start": 1184.58,
+      "duration": 1.24
+    },
+    {
+      "text": "Oh yeah.",
+      "start": 1185.82,
+      "duration": 1.14
+    },
+    {
+      "text": "Suntory, chief.",
+      "start": 1187.74,
+      "duration": 0.84
+    },
+    {
+      "text": "Chief.",
+      "start": 1188.58,
+      "duration": 0.84
+    },
+    {
+      "text": "Suntory.",
+      "start": 1189.42,
+      "duration": 0.82
+    },
+    {
+      "text": "Can I get some or?",
+      "start": 1191.6,
+      "duration": 2.68
+    },
+    {
+      "text": "No?",
+      "start": 1194.28,
+      "duration": 1.04
+    },
+    {
+      "text": "No, but those vending machines do make me nostalgic.",
+      "start": 1195.32,
+      "duration": 3.32
+    },
+    {
+      "text": "Yeah, they're very accurate,",
+      "start": 1198.64,
+      "duration": 1.16
+    },
+    {
+      "text": "aside from the fact that it doesn't say boss",
+      "start": 1199.8,
+      "duration": 1.56
+    },
+    {
+      "text": "and it says chief.",
+      "start": 1201.36,
+      "duration": 1.0
+    },
+    {
+      "text": "I do, I freaking love Japan, man.",
+      "start": 1202.36,
+      "duration": 2.92
+    },
+    {
+      "text": "Same, bro.",
+      "start": 1205.28,
+      "duration": 1.38
+    },
+    {
+      "text": "I wanna go back there.",
+      "start": 1206.66,
+      "duration": 0.94
+    },
+    {
+      "text": "Freaking same.",
+      "start": 1207.6,
+      "duration": 1.92
+    },
+    {
+      "text": "Could you imagine living in a place",
+      "start": 1209.52,
+      "duration": 0.96
+    },
+    {
+      "text": "where all you have to do to get somewhere is walk?",
+      "start": 1210.48,
+      "duration": 2.48
+    },
+    {
+      "text": "It's crazy.",
+      "start": 1212.96,
+      "duration": 1.32
+    },
+    {
+      "text": "I do, my house.",
+      "start": 1214.28,
+      "duration": 1.26
+    },
+    {
+      "text": "No, but like a city where you can just get on a train",
+      "start": 1217.96,
+      "duration": 4.2
+    },
+    {
+      "text": "and you can just go somewhere.",
+      "start": 1222.16,
+      "duration": 2.08
+    },
+    {
+      "text": "Man, I hate that you left your apartment unattended.",
+      "start": 1224.24,
+      "duration": 2.6
+    },
+    {
+      "text": "And yes, also, that would be wonderful.",
+      "start": 1228.48,
+      "duration": 2.4
+    },
+    {
+      "text": "Okay.",
+      "start": 1230.88,
+      "duration": 0.84
+    },
+    {
+      "text": "What's up, Asuka?",
+      "start": 1231.72,
+      "duration": 1.7
+    },
+    {
+      "text": "You wanna be Asuka?",
+      "start": 1234.8,
+      "duration": 0.84
+    },
+    {
+      "text": "You're just right in the house, okay.",
+      "start": 1235.64,
+      "duration": 1.8
+    },
+    {
+      "text": "Why is she a voice actor?",
+      "start": 1238.84,
+      "duration": 1.04
+    },
+    {
+      "text": "Like she's a person.",
+      "start": 1239.88,
+      "duration": 1.04
+    },
+    {
+      "text": "Winky.",
+      "start": 1241.96,
+      "duration": 0.84
+    },
+    {
+      "text": "Like in movies, they would be like,",
+      "start": 1242.8,
+      "duration": 1.56
+    },
+    {
+      "text": "I'm coming over.",
+      "start": 1244.44,
+      "duration": 1.04
+    },
+    {
+      "text": "When it shows the fucking text on the screen.",
+      "start": 1245.48,
+      "duration": 1.68
+    },
+    {
+      "text": "Oh, yeah.",
+      "start": 1247.16,
+      "duration": 0.84
+    },
+    {
+      "text": "Wait for Asuka to arrive like here or like?",
+      "start": 1249.2,
+      "duration": 3.8
+    },
+    {
+      "text": "No, she said wait inside your house.",
+      "start": 1253.0,
+      "duration": 2.16
+    },
+    {
+      "text": "Oh, she did?",
+      "start": 1255.16,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah.",
+      "start": 1256.0,
+      "duration": 1.28
+    },
+    {
+      "text": "That was like the only thing her text said.",
+      "start": 1257.28,
+      "duration": 1.84
+    },
+    {
+      "text": "Oh.",
+      "start": 1259.12,
+      "duration": 0.84
+    },
+    {
+      "text": "I'm smart.",
+      "start": 1261.08,
+      "duration": 0.84
+    },
+    {
+      "text": "It's okay.",
+      "start": 1261.92,
+      "duration": 0.82
+    },
+    {
+      "text": "Let me just check the...",
+      "start": 1262.74,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah, check all the things.",
+      "start": 1263.58,
+      "duration": 2.26
+    },
+    {
+      "text": "Okay, nobody in there.",
+      "start": 1265.84,
+      "duration": 1.24
+    },
+    {
+      "text": "Somebody in the room.",
+      "start": 1269.0,
+      "duration": 1.72
+    },
+    {
+      "text": "Shower time.",
+      "start": 1270.72,
+      "duration": 1.92
+    },
+    {
+      "text": "Shao, shao.",
+      "start": 1272.64,
+      "duration": 1.58
+    },
+    {
+      "text": "Damn, what a nice fucking Japanese style.",
+      "start": 1275.06,
+      "duration": 3.0
+    },
+    {
+      "text": "That wet room style.",
+      "start": 1278.06,
+      "duration": 1.32
+    },
+    {
+      "text": "Yeah, it's nice.",
+      "start": 1279.38,
+      "duration": 1.16
+    },
+    {
+      "text": "Ah, okay, we're good.",
+      "start": 1280.54,
+      "duration": 1.86
+    },
+    {
+      "text": "I'm here.",
+      "start": 1283.52,
+      "duration": 1.14
+    },
+    {
+      "text": "Okay.",
+      "start": 1284.66,
+      "duration": 0.84
+    },
+    {
+      "text": "I'm here.",
+      "start": 1286.5,
+      "duration": 0.84
+    },
+    {
+      "text": "Please be Asuka?",
+      "start": 1289.5,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay.",
+      "start": 1290.34,
+      "duration": 0.82
+    },
+    {
+      "text": "It's Asuka.",
+      "start": 1291.16,
+      "duration": 0.84
+    },
+    {
+      "text": "She looks just like the picture behind her.",
+      "start": 1292.0,
+      "duration": 1.66
+    },
+    {
+      "text": "Yeah, Asuka.",
+      "start": 1293.66,
+      "duration": 1.14
+    },
+    {
+      "text": "Is that how you say it?",
+      "start": 1294.8,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah.",
+      "start": 1295.64,
+      "duration": 0.84
+    },
+    {
+      "text": "Asuka.",
+      "start": 1296.48,
+      "duration": 0.82
+    },
+    {
+      "text": "Asuka, come in.",
+      "start": 1298.26,
+      "duration": 0.84
+    },
+    {
+      "text": "Hey, girl.",
+      "start": 1300.86,
+      "duration": 0.84
+    },
+    {
+      "text": "Hey.",
+      "start": 1301.7,
+      "duration": 0.84
+    },
+    {
+      "text": "I know you're here.",
+      "start": 1303.94,
+      "duration": 1.36
+    },
+    {
+      "text": "You're saying it with your mouth.",
+      "start": 1305.3,
+      "duration": 1.74
+    },
+    {
+      "text": "You wanna do her or?",
+      "start": 1308.58,
+      "duration": 1.12
+    },
+    {
+      "text": "No, I'm doing the main character.",
+      "start": 1309.7,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay.",
+      "start": 1310.54,
+      "duration": 1.0
+    },
+    {
+      "text": "You okay?",
+      "start": 1311.54,
+      "duration": 1.24
+    },
+    {
+      "text": "Did you sleep at all?",
+      "start": 1312.78,
+      "duration": 1.28
+    },
+    {
+      "text": "You don't look too good.",
+      "start": 1314.06,
+      "duration": 1.36
+    },
+    {
+      "text": "We'll talk later.",
+      "start": 1315.42,
+      "duration": 1.0
+    },
+    {
+      "text": "Bye.",
+      "start": 1316.42,
+      "duration": 0.96
+    },
+    {
+      "text": "It's probably better for us to see the sun right now.",
+      "start": 1317.38,
+      "duration": 2.12
+    },
+    {
+      "text": "What?",
+      "start": 1319.5,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay, she's taking you out for a walk.",
+      "start": 1320.34,
+      "duration": 1.32
+    },
+    {
+      "text": "Oh.",
+      "start": 1321.66,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, that's nice.",
+      "start": 1322.5,
+      "duration": 1.04
+    },
+    {
+      "text": "Oh, hey, we're at the coffee place.",
+      "start": 1323.54,
+      "duration": 1.16
+    },
+    {
+      "text": "Oh, God, no.",
+      "start": 1324.7,
+      "duration": 1.5
+    },
+    {
+      "text": "Sheila's coffee.",
+      "start": 1326.2,
+      "duration": 0.84
+    },
+    {
+      "text": "No.",
+      "start": 1327.04,
+      "duration": 1.54
+    },
+    {
+      "text": "Hell yeah.",
+      "start": 1328.58,
+      "duration": 1.48
+    },
+    {
+      "text": "Oh, gee, it looks good.",
+      "start": 1330.06,
+      "duration": 1.5
+    },
+    {
+      "text": "I gotta say, the place looks bruised up.",
+      "start": 1332.28,
+      "duration": 1.76
+    },
+    {
+      "text": "I think it's because I have the graphics up on high.",
+      "start": 1334.04,
+      "duration": 3.0
+    },
+    {
+      "text": "What's up?",
+      "start": 1337.04,
+      "duration": 1.2
+    },
+    {
+      "text": "Asuka, what's up?",
+      "start": 1338.24,
+      "duration": 0.92
+    },
+    {
+      "text": "Wow.",
+      "start": 1339.16,
+      "duration": 0.84
+    },
+    {
+      "text": "Are you just looking at Instagram there?",
+      "start": 1340.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Geez, and now you're ordering instead of filling orders.",
+      "start": 1342.0,
+      "duration": 5.0
+    },
+    {
+      "text": "How are the turntables?",
+      "start": 1347.48,
+      "duration": 1.28
+    },
+    {
+      "text": "I'll be happy to take your order.",
+      "start": 1348.76,
+      "duration": 1.68
+    },
+    {
+      "text": "I'll take an iced coffee.",
+      "start": 1352.1,
+      "duration": 1.42
+    },
+    {
+      "text": "He does have very shiny eyes.",
+      "start": 1353.52,
+      "duration": 1.98
+    },
+    {
+      "text": "Okay, iced coffee.",
+      "start": 1355.5,
+      "duration": 1.9
+    },
+    {
+      "text": "Will that be all?",
+      "start": 1357.4,
+      "duration": 1.8
+    },
+    {
+      "text": "Yeah, food menu, matcha cake.",
+      "start": 1359.2,
+      "duration": 1.88
+    },
+    {
+      "text": "Okay, matcha cake.",
+      "start": 1361.48,
+      "duration": 1.08
+    },
+    {
+      "text": "Please grab your order from the counter on the right.",
+      "start": 1363.44,
+      "duration": 2.36
+    },
+    {
+      "text": "Fuck.",
+      "start": 1365.8,
+      "duration": 1.04
+    },
+    {
+      "text": "Finished ordering?",
+      "start": 1366.84,
+      "duration": 1.48
+    },
+    {
+      "text": "I'm still debating on what to order.",
+      "start": 1368.32,
+      "duration": 1.82
+    },
+    {
+      "text": "Could you hang around a bit until he decide?",
+      "start": 1370.14,
+      "duration": 1.7
+    },
+    {
+      "text": "Okay, yes, okay.",
+      "start": 1371.84,
+      "duration": 2.56
+    },
+    {
+      "text": "Scoop-a-doop-a-doo.",
+      "start": 1374.4,
+      "duration": 2.36
+    },
+    {
+      "text": "Just hanging around a bit.",
+      "start": 1376.76,
+      "duration": 1.76
+    },
+    {
+      "text": "It's been a while, how have you been?",
+      "start": 1378.52,
+      "duration": 1.72
+    },
+    {
+      "text": "It's been since Rachel's graduation.",
+      "start": 1380.24,
+      "duration": 1.72
+    },
+    {
+      "text": "How are you guys doing?",
+      "start": 1381.96,
+      "duration": 2.4
+    },
+    {
+      "text": "It's been a long time.",
+      "start": 1384.36,
+      "duration": 1.2
+    },
+    {
+      "text": "Too bad we couldn't go to the same college.",
+      "start": 1385.56,
+      "duration": 2.76
+    },
+    {
+      "text": "We're really updating a random listener",
+      "start": 1388.32,
+      "duration": 2.72
+    },
+    {
+      "text": "on our lives, aren't we?",
+      "start": 1391.04,
+      "duration": 1.8
+    },
+    {
+      "text": "We were always together in our high school days.",
+      "start": 1392.84,
+      "duration": 2.48
+    },
+    {
+      "text": "Time really flies.",
+      "start": 1395.32,
+      "duration": 1.36
+    },
+    {
+      "text": "Lately I've been trying my best to learn",
+      "start": 1396.68,
+      "duration": 1.54
+    },
+    {
+      "text": "from my seniors at work.",
+      "start": 1398.22,
+      "duration": 1.62
+    },
+    {
+      "text": "How about you, Mayumi?",
+      "start": 1399.84,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, work's been fine for me as well.",
+      "start": 1401.84,
+      "duration": 2.18
+    },
+    {
+      "text": "Actually, I've been eyeing someone.",
+      "start": 1404.02,
+      "duration": 1.58
+    },
+    {
+      "text": "He's my colleague.",
+      "start": 1405.6,
+      "duration": 0.96
+    },
+    {
+      "text": "He's both handsome and hardworking.",
+      "start": 1406.56,
+      "duration": 2.0
+    },
+    {
+      "text": "He's a murderer.",
+      "start": 1408.56,
+      "duration": 1.68
+    },
+    {
+      "text": "He said he liked skinny girls.",
+      "start": 1410.24,
+      "duration": 2.8
+    },
+    {
+      "text": "And he said he liked two skin girls.",
+      "start": 1413.04,
+      "duration": 2.58
+    },
+    {
+      "text": "Oh, really?",
+      "start": 1415.62,
+      "duration": 1.12
+    },
+    {
+      "text": "Hmm, but you're eating all of that?",
+      "start": 1417.74,
+      "duration": 2.16
+    },
+    {
+      "text": "Yep, I'm in the mood for sweets.",
+      "start": 1419.9,
+      "duration": 2.2
+    },
+    {
+      "text": "Um, so I'm seeing that you're trying",
+      "start": 1422.1,
+      "duration": 2.44
+    },
+    {
+      "text": "to convince the murderer to like the real you.",
+      "start": 1424.54,
+      "duration": 2.88
+    },
+    {
+      "text": "Not really, I don't fucking care.",
+      "start": 1427.42,
+      "duration": 2.08
+    },
+    {
+      "text": "I do wanna be his ideal woman.",
+      "start": 1429.5,
+      "duration": 1.4
+    },
+    {
+      "text": "I'm only gonna be alive for three more days anyway.",
+      "start": 1430.9,
+      "duration": 2.32
+    },
+    {
+      "text": "Then you should stop.",
+      "start": 1433.22,
+      "duration": 1.36
+    },
+    {
+      "text": "But that's different from this.",
+      "start": 1434.58,
+      "duration": 2.2
+    },
+    {
+      "text": "That's not different, you're gonna gain weight.",
+      "start": 1436.78,
+      "duration": 2.8
+    },
+    {
+      "text": "It'll be fine, a bite or two won't make me fat.",
+      "start": 1439.58,
+      "duration": 2.0
+    },
+    {
+      "text": "I'll just eat the whole thing.",
+      "start": 1441.58,
+      "duration": 0.96
+    },
+    {
+      "text": "Hey, you're already fat,",
+      "start": 1442.54,
+      "duration": 2.8
+    },
+    {
+      "text": "and I can't stand you gaining even more.",
+      "start": 1445.34,
+      "duration": 1.64
+    },
+    {
+      "text": "This is the time when you'd be like,",
+      "start": 1446.98,
+      "duration": 1.36
+    },
+    {
+      "text": "I think I should step away from this conversation.",
+      "start": 1448.34,
+      "duration": 2.12
+    },
+    {
+      "text": "Oscar, what's going on over here?",
+      "start": 1450.46,
+      "duration": 1.76
+    },
+    {
+      "text": "Yeah, yeah, you almost done with that order?",
+      "start": 1452.22,
+      "duration": 1.52
+    },
+    {
+      "text": "Okay.",
+      "start": 1453.74,
+      "duration": 1.08
+    },
+    {
+      "text": "I'm actually gonna turn the graphics down",
+      "start": 1454.82,
+      "duration": 1.28
+    },
+    {
+      "text": "because this little area.",
+      "start": 1456.1,
+      "duration": 1.12
+    },
+    {
+      "text": "It's messing with you?",
+      "start": 1457.22,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah, it's a little intense.",
+      "start": 1458.06,
+      "duration": 1.8
+    },
+    {
+      "text": "Okay.",
+      "start": 1459.86,
+      "duration": 0.82
+    },
+    {
+      "text": "Oh my god, it's still choppy.",
+      "start": 1462.98,
+      "duration": 1.34
+    },
+    {
+      "text": "All right.",
+      "start": 1464.32,
+      "duration": 1.62
+    },
+    {
+      "text": "Oh, might as well put it up, then.",
+      "start": 1465.94,
+      "duration": 0.96
+    },
+    {
+      "text": "Fucking hair looks different.",
+      "start": 1466.9,
+      "duration": 1.48
+    },
+    {
+      "text": "Wait, really?",
+      "start": 1469.96,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah, why not?",
+      "start": 1470.8,
+      "duration": 0.84
+    },
+    {
+      "text": "Her hair was like that much different from that.",
+      "start": 1471.64,
+      "duration": 2.22
+    },
+    {
+      "text": "It's him.",
+      "start": 1476.34,
+      "duration": 2.12
+    },
+    {
+      "text": "Oh, I did have it on very high.",
+      "start": 1478.46,
+      "duration": 1.72
+    },
+    {
+      "text": "Oh, where's my shit?",
+      "start": 1480.18,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, man.",
+      "start": 1482.26,
+      "duration": 0.84
+    },
+    {
+      "text": "You didn't make it yet?",
+      "start": 1483.1,
+      "duration": 1.08
+    },
+    {
+      "text": "Yo, bro, fuck's my shit?",
+      "start": 1485.22,
+      "duration": 2.48
+    },
+    {
+      "text": "Hopefully people can't hear me chewing.",
+      "start": 1487.7,
+      "duration": 2.08
+    },
+    {
+      "text": "I think I just gotta like check in",
+      "start": 1491.9,
+      "duration": 1.18
+    },
+    {
+      "text": "with everybody around here.",
+      "start": 1493.08,
+      "duration": 0.98
+    },
+    {
+      "text": "Chewing the tapioca balls.",
+      "start": 1494.06,
+      "duration": 1.8
+    },
+    {
+      "text": "Oh, scary guy.",
+      "start": 1495.86,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, oh, oh, oh.",
+      "start": 1496.86,
+      "duration": 1.12
+    },
+    {
+      "text": "Hooded man.",
+      "start": 1498.98,
+      "duration": 0.88
+    },
+    {
+      "text": "Chapstick.",
+      "start": 1500.98,
+      "duration": 0.84
+    },
+    {
+      "text": "It's a ringwraith.",
+      "start": 1501.82,
+      "duration": 1.12
+    },
+    {
+      "text": "Hey.",
+      "start": 1502.94,
+      "duration": 0.84
+    },
+    {
+      "text": "Rrrr.",
+      "start": 1504.78,
+      "duration": 0.84
+    },
+    {
+      "text": "Hasuku-san, where have you gone?",
+      "start": 1506.62,
+      "duration": 3.16
+    },
+    {
+      "text": "You haven't finished teaching me yet.",
+      "start": 1509.78,
+      "duration": 2.24
+    },
+    {
+      "text": "I can't go on without you, Hasuku-san.",
+      "start": 1512.02,
+      "duration": 2.54
+    },
+    {
+      "text": "Hasaku.",
+      "start": 1514.56,
+      "duration": 0.84
+    },
+    {
+      "text": "Hasaku.",
+      "start": 1515.4,
+      "duration": 0.9
+    },
+    {
+      "text": "If you see two, then you gotta kinda like lean on it",
+      "start": 1516.3,
+      "duration": 3.12
+    },
+    {
+      "text": "for a second.",
+      "start": 1519.42,
+      "duration": 0.84
+    },
+    {
+      "text": "Hasaku.",
+      "start": 1520.26,
+      "duration": 0.84
+    },
+    {
+      "text": "Hasaku.",
+      "start": 1521.1,
+      "duration": 0.84
+    },
+    {
+      "text": "Hasaku.",
+      "start": 1521.94,
+      "duration": 1.36
+    },
+    {
+      "text": "There's still so much to learn.",
+      "start": 1523.3,
+      "duration": 1.16
+    },
+    {
+      "text": "Oh my god.",
+      "start": 1524.46,
+      "duration": 1.04
+    },
+    {
+      "text": "When Japanese people speak Japanese",
+      "start": 1525.5,
+      "duration": 3.76
+    },
+    {
+      "text": "in like the very like quiet way,",
+      "start": 1529.26,
+      "duration": 1.62
+    },
+    {
+      "text": "like Hasuku takatapaku.",
+      "start": 1530.88,
+      "duration": 1.62
+    },
+    {
+      "text": "It's like the most ASMR triggering thing for me.",
+      "start": 1532.54,
+      "duration": 2.76
+    },
+    {
+      "text": "Wow.",
+      "start": 1535.3,
+      "duration": 0.84
+    },
+    {
+      "text": "Please keep saying that.",
+      "start": 1536.14,
+      "duration": 1.92
+    },
+    {
+      "text": "Read the VCR manual.",
+      "start": 1538.06,
+      "duration": 1.72
+    },
+    {
+      "text": "I don't care what it is.",
+      "start": 1539.78,
+      "duration": 1.48
+    },
+    {
+      "text": "Why?",
+      "start": 1542.18,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay.",
+      "start": 1544.18,
+      "duration": 0.84
+    },
+    {
+      "text": "All right, so that was fun.",
+      "start": 1545.02,
+      "duration": 1.2
+    },
+    {
+      "text": "He's handsome.",
+      "start": 1547.1,
+      "duration": 0.84
+    },
+    {
+      "text": "Everyone in these worlds are so friendly.",
+      "start": 1547.94,
+      "duration": 2.38
+    },
+    {
+      "text": "Except for the ones that wanna kill you",
+      "start": 1550.32,
+      "duration": 1.26
+    },
+    {
+      "text": "and marry you.",
+      "start": 1551.58,
+      "duration": 1.24
+    },
+    {
+      "text": "Wish everyone that way.",
+      "start": 1552.82,
+      "duration": 1.08
+    },
+    {
+      "text": "Excuse me, young lady.",
+      "start": 1553.9,
+      "duration": 1.52
+    },
+    {
+      "text": "Good evening.",
+      "start": 1555.42,
+      "duration": 1.4
+    },
+    {
+      "text": "I would like to ask you a quick question.",
+      "start": 1556.82,
+      "duration": 1.76
+    },
+    {
+      "text": "It's like two in the afternoon.",
+      "start": 1558.58,
+      "duration": 1.36
+    },
+    {
+      "text": "Is that person over there your friend?",
+      "start": 1559.98,
+      "duration": 2.52
+    },
+    {
+      "text": "Yes.",
+      "start": 1562.5,
+      "duration": 1.48
+    },
+    {
+      "text": "That's good to hear.",
+      "start": 1563.98,
+      "duration": 1.2
+    },
+    {
+      "text": "I happen to be quite a fan of the coffee they serve here.",
+      "start": 1565.18,
+      "duration": 2.92
+    },
+    {
+      "text": "But the taste tends to change",
+      "start": 1568.1,
+      "duration": 1.34
+    },
+    {
+      "text": "before something is about to happen.",
+      "start": 1569.44,
+      "duration": 1.78
+    },
+    {
+      "text": "What?",
+      "start": 1571.22,
+      "duration": 0.84
+    },
+    {
+      "text": "I had to begin to taste off again.",
+      "start": 1572.06,
+      "duration": 1.56
+    },
+    {
+      "text": "I can't help but find him suspicious.",
+      "start": 1575.18,
+      "duration": 2.28
+    },
+    {
+      "text": "Does he have a weird scar on his neck?",
+      "start": 1577.46,
+      "duration": 2.16
+    },
+    {
+      "text": "I don't know if that's intentional.",
+      "start": 1580.54,
+      "duration": 1.68
+    },
+    {
+      "text": "Oh, okay.",
+      "start": 1582.22,
+      "duration": 1.08
+    },
+    {
+      "text": "No matter how safe Japan may be,",
+      "start": 1583.3,
+      "duration": 2.98
+    },
+    {
+      "text": "not everyone is in the right mind.",
+      "start": 1586.28,
+      "duration": 1.98
+    },
+    {
+      "text": "Plus, this is Canada.",
+      "start": 1588.3,
+      "duration": 1.42
+    },
+    {
+      "text": "So we must not let our guard down.",
+      "start": 1590.98,
+      "duration": 2.76
+    },
+    {
+      "text": "I have, yes, it's fucking James.",
+      "start": 1593.74,
+      "duration": 1.92
+    },
+    {
+      "text": "I have a feeling we will meet again.",
+      "start": 1596.66,
+      "duration": 2.04
+    },
+    {
+      "text": "Until then, take care.",
+      "start": 1598.7,
+      "duration": 1.96
+    },
+    {
+      "text": "James out.",
+      "start": 1600.66,
+      "duration": 1.2
+    },
+    {
+      "text": "I have to go grab my order.",
+      "start": 1602.9,
+      "duration": 2.04
+    },
+    {
+      "text": "Oh shit.",
+      "start": 1604.94,
+      "duration": 0.84
+    },
+    {
+      "text": "Here's your order, ma'am.",
+      "start": 1608.98,
+      "duration": 1.02
+    },
+    {
+      "text": "Thank you.",
+      "start": 1610.0,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, they really made you the matcha cake.",
+      "start": 1610.84,
+      "duration": 2.26
+    },
+    {
+      "text": "How nice.",
+      "start": 1613.1,
+      "duration": 0.84
+    },
+    {
+      "text": "Can you a matcha?",
+      "start": 1615.22,
+      "duration": 0.92
+    },
+    {
+      "text": "A matcha all the people.",
+      "start": 1617.14,
+      "duration": 3.18
+    },
+    {
+      "text": "You said your face got exposed during a stream.",
+      "start": 1621.34,
+      "duration": 2.12
+    },
+    {
+      "text": "What happened?",
+      "start": 1623.46,
+      "duration": 0.84
+    },
+    {
+      "text": "Well, my face got exposed.",
+      "start": 1624.3,
+      "duration": 1.32
+    },
+    {
+      "text": "Yeah, like, you just answered your own question.",
+      "start": 1625.62,
+      "duration": 3.04
+    },
+    {
+      "text": "How is it even possible?",
+      "start": 1628.66,
+      "duration": 1.48
+    },
+    {
+      "text": "Have you checked for viruses?",
+      "start": 1630.14,
+      "duration": 1.54
+    },
+    {
+      "text": "I did and I found nothing, nothing.",
+      "start": 1632.54,
+      "duration": 3.44
+    },
+    {
+      "text": "Is that so?",
+      "start": 1635.98,
+      "duration": 1.72
+    },
+    {
+      "text": "Is it possible that your PC got hacked?",
+      "start": 1637.7,
+      "duration": 2.36
+    },
+    {
+      "text": "Yeah.",
+      "start": 1640.06,
+      "duration": 1.28
+    },
+    {
+      "text": "Do you remember what you did during your stream?",
+      "start": 1641.34,
+      "duration": 1.56
+    },
+    {
+      "text": "I downloaded some shit that I've never seen before.",
+      "start": 1642.9,
+      "duration": 2.64
+    },
+    {
+      "text": "That has to be it.",
+      "start": 1647.14,
+      "duration": 2.24
+    },
+    {
+      "text": "They may be your fans,",
+      "start": 1649.38,
+      "duration": 0.86
+    },
+    {
+      "text": "but you don't know who they are at the end of the day.",
+      "start": 1650.24,
+      "duration": 2.46
+    },
+    {
+      "text": "You can't open random files like that.",
+      "start": 1652.7,
+      "duration": 2.28
+    },
+    {
+      "text": "Don't play that game anymore, yeah.",
+      "start": 1654.98,
+      "duration": 2.7
+    },
+    {
+      "text": "Yeah, I want to stop, but.",
+      "start": 1657.68,
+      "duration": 1.72
+    },
+    {
+      "text": "But?",
+      "start": 1660.9,
+      "duration": 1.12
+    },
+    {
+      "text": "Is there a problem?",
+      "start": 1662.02,
+      "duration": 0.96
+    },
+    {
+      "text": "I just love it.",
+      "start": 1662.98,
+      "duration": 2.24
+    },
+    {
+      "text": "I received a threat message, fuck, sorry,",
+      "start": 1665.22,
+      "duration": 2.68
+    },
+    {
+      "text": "after mounting the stream.",
+      "start": 1667.9,
+      "duration": 2.0
+    },
+    {
+      "text": "He told me to keep streaming the game.",
+      "start": 1669.9,
+      "duration": 2.6
+    },
+    {
+      "text": "So that's what you meant by a strange message.",
+      "start": 1672.5,
+      "duration": 1.96
+    },
+    {
+      "text": "Yes, whoa, hooded man.",
+      "start": 1674.46,
+      "duration": 3.0
+    },
+    {
+      "text": "Is that hooded man?",
+      "start": 1677.46,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah, uh-oh, why is he coming over here?",
+      "start": 1678.3,
+      "duration": 3.52
+    },
+    {
+      "text": "That's what you meant by a strange message.",
+      "start": 1681.82,
+      "duration": 2.14
+    },
+    {
+      "text": "Much cake, much cake, much cake.",
+      "start": 1683.96,
+      "duration": 1.5
+    },
+    {
+      "text": "What the fuck?",
+      "start": 1685.46,
+      "duration": 1.6
+    },
+    {
+      "text": "Oh, good.",
+      "start": 1687.06,
+      "duration": 1.28
+    },
+    {
+      "text": "That's terrifying.",
+      "start": 1688.34,
+      "duration": 1.52
+    },
+    {
+      "text": "Oh no, hooded man's over there.",
+      "start": 1690.82,
+      "duration": 1.84
+    },
+    {
+      "text": "Hooded man, hooded man, hooded man.",
+      "start": 1692.66,
+      "duration": 2.32
+    },
+    {
+      "text": "Ignoring it might make things worse.",
+      "start": 1697.74,
+      "duration": 2.64
+    },
+    {
+      "text": "If the game itself seems okay,",
+      "start": 1700.38,
+      "duration": 1.92
+    },
+    {
+      "text": "it might be better to continue streaming it.",
+      "start": 1702.3,
+      "duration": 2.92
+    },
+    {
+      "text": "We come in the mornings and I like pizza.",
+      "start": 1705.22,
+      "duration": 3.6
+    },
+    {
+      "text": "In hindsight, isn't making your streamer name",
+      "start": 1708.82,
+      "duration": 2.92
+    },
+    {
+      "text": "Sandra Nina taken by your real name Nina",
+      "start": 1711.74,
+      "duration": 2.84
+    },
+    {
+      "text": "a bit too straightforward?",
+      "start": 1714.58,
+      "duration": 1.98
+    },
+    {
+      "text": "Sorry, I know it's too late.",
+      "start": 1716.56,
+      "duration": 1.62
+    },
+    {
+      "text": "Yeah, well, it's all I can come up with at the time,",
+      "start": 1719.14,
+      "duration": 1.36
+    },
+    {
+      "text": "you fucking cheese.",
+      "start": 1720.5,
+      "duration": 1.76
+    },
+    {
+      "text": "Yeah.",
+      "start": 1722.26,
+      "duration": 1.36
+    },
+    {
+      "text": "Either way, you won't be in that much trouble",
+      "start": 1723.62,
+      "duration": 2.34
+    },
+    {
+      "text": "just because some fans saw your face, right?",
+      "start": 1725.96,
+      "duration": 2.42
+    },
+    {
+      "text": "What's the worst that could happen?",
+      "start": 1728.38,
+      "duration": 1.8
+    },
+    {
+      "text": "Your house has auto-lock doors too,",
+      "start": 1730.18,
+      "duration": 1.54
+    },
+    {
+      "text": "so security seems great.",
+      "start": 1732.0,
+      "duration": 1.32
+    },
+    {
+      "text": "Yeah, sure.",
+      "start": 1733.32,
+      "duration": 0.84
+    },
+    {
+      "text": "Don't think too much about it.",
+      "start": 1734.16,
+      "duration": 1.62
+    },
+    {
+      "text": "It's not like you're in a game called parasocial.",
+      "start": 1735.78,
+      "duration": 3.3
+    },
+    {
+      "text": "Oh, he's watching a VTuber.",
+      "start": 1740.58,
+      "duration": 2.02
+    },
+    {
+      "text": "Oh boy, I guess so.",
+      "start": 1742.6,
+      "duration": 2.36
+    },
+    {
+      "text": "There's no use overthinking what's already happened, right?",
+      "start": 1745.92,
+      "duration": 2.96
+    },
+    {
+      "text": "Oh, by the way, didn't you say",
+      "start": 1748.88,
+      "duration": 1.68
+    },
+    {
+      "text": "you broke up with your boyfriend?",
+      "start": 1750.56,
+      "duration": 1.2
+    },
+    {
+      "text": "No.",
+      "start": 1751.76,
+      "duration": 1.0
+    },
+    {
+      "text": "So you're super single and living alone right now?",
+      "start": 1752.76,
+      "duration": 3.32
+    },
+    {
+      "text": "Just wanted to say that in your shot",
+      "start": 1756.08,
+      "duration": 1.36
+    },
+    {
+      "text": "of the strange hooded man.",
+      "start": 1757.44,
+      "duration": 2.0
+    },
+    {
+      "text": "Why did you?",
+      "start": 1759.44,
+      "duration": 1.28
+    },
+    {
+      "text": "Sorry if I'm being insensitive.",
+      "start": 1760.72,
+      "duration": 1.92
+    },
+    {
+      "text": "We just weren't a good match.",
+      "start": 1762.64,
+      "duration": 1.48
+    },
+    {
+      "text": "I see, is that a good matcha cake?",
+      "start": 1765.76,
+      "duration": 2.84
+    },
+    {
+      "text": "Anyway, you're being stalked.",
+      "start": 1770.84,
+      "duration": 1.44
+    },
+    {
+      "text": "Shit happens, right?",
+      "start": 1774.28,
+      "duration": 1.92
+    },
+    {
+      "text": "Well, if there's ever anything else, you can let me know.",
+      "start": 1776.2,
+      "duration": 2.76
+    },
+    {
+      "text": "Oh boy, oh boy.",
+      "start": 1780.24,
+      "duration": 2.64
+    },
+    {
+      "text": "Well then, should we get going?",
+      "start": 1783.72,
+      "duration": 1.6
+    },
+    {
+      "text": "Huh, what's wrong?",
+      "start": 1785.32,
+      "duration": 4.96
+    },
+    {
+      "text": "Behind you.",
+      "start": 1790.28,
+      "duration": 1.68
+    },
+    {
+      "text": "Behind?",
+      "start": 1791.96,
+      "duration": 0.84
+    },
+    {
+      "text": "Where?",
+      "start": 1794.24,
+      "duration": 1.0
+    },
+    {
+      "text": "What happened?",
+      "start": 1795.24,
+      "duration": 1.76
+    },
+    {
+      "text": "Don't scare me like that.",
+      "start": 1797.0,
+      "duration": 1.68
+    },
+    {
+      "text": "I'm getting the creeps, let's go home.",
+      "start": 1798.68,
+      "duration": 1.92
+    },
+    {
+      "text": "What about hooded man?",
+      "start": 1800.6,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah.",
+      "start": 1801.44,
+      "duration": 0.84
+    },
+    {
+      "text": "Hooded man.",
+      "start": 1802.28,
+      "duration": 0.84
+    },
+    {
+      "text": "I don't know, there's so many possibilities",
+      "start": 1804.16,
+      "duration": 1.76
+    },
+    {
+      "text": "of murderers around here.",
+      "start": 1805.92,
+      "duration": 2.28
+    },
+    {
+      "text": "I think this is a good place to stop living.",
+      "start": 1808.2,
+      "duration": 2.4
+    },
+    {
+      "text": "No, walk me up to my place.",
+      "start": 1810.6,
+      "duration": 1.76
+    },
+    {
+      "text": "It was great talking to you.",
+      "start": 1812.36,
+      "duration": 1.68
+    },
+    {
+      "text": "Call me again any time, okay?",
+      "start": 1814.08,
+      "duration": 1.84
+    },
+    {
+      "text": "See you later then.",
+      "start": 1815.92,
+      "duration": 1.16
+    },
+    {
+      "text": "Don't get killed.",
+      "start": 1821.6,
+      "duration": 1.68
+    },
+    {
+      "text": "Don't die.",
+      "start": 1823.28,
+      "duration": 1.16
+    },
+    {
+      "text": "Yeah, just.",
+      "start": 1824.44,
+      "duration": 0.84
+    },
+    {
+      "text": "Don't die.",
+      "start": 1826.36,
+      "duration": 1.92
+    },
+    {
+      "text": "She's good.",
+      "start": 1828.28,
+      "duration": 0.84
+    },
+    {
+      "text": "Oscar, Oscar, Oscar.",
+      "start": 1829.12,
+      "duration": 1.32
+    },
+    {
+      "text": "Okay, you better get to your room.",
+      "start": 1830.44,
+      "duration": 1.8
+    },
+    {
+      "text": "Down.",
+      "start": 1839.6,
+      "duration": 1.08
+    },
+    {
+      "text": "Doesn't matter.",
+      "start": 1840.68,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay.",
+      "start": 1841.52,
+      "duration": 0.84
+    },
+    {
+      "text": "I don't think.",
+      "start": 1842.36,
+      "duration": 0.84
+    },
+    {
+      "text": "Well, it does if you're growing up.",
+      "start": 1843.2,
+      "duration": 2.32
+    },
+    {
+      "text": "Hello.",
+      "start": 1848.64,
+      "duration": 0.84
+    },
+    {
+      "text": "Is it coming down or?",
+      "start": 1851.84,
+      "duration": 1.32
+    },
+    {
+      "text": "Excuse me.",
+      "start": 1854.16,
+      "duration": 0.96
+    },
+    {
+      "text": "I don't think it's working.",
+      "start": 1858.52,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh man, are you gonna have to take the stairs?",
+      "start": 1859.36,
+      "duration": 1.32
+    },
+    {
+      "text": "Oh, thank God.",
+      "start": 1860.68,
+      "duration": 0.84
+    },
+    {
+      "text": "Eighth floor.",
+      "start": 1862.96,
+      "duration": 1.04
+    },
+    {
+      "text": "This came, oh shit!",
+      "start": 1864.0,
+      "duration": 2.2
+    },
+    {
+      "text": "Oh, no, no, no, no.",
+      "start": 1866.2,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, this is so upsetting.",
+      "start": 1867.2,
+      "duration": 2.56
+    },
+    {
+      "text": "This is so upsetting.",
+      "start": 1869.76,
+      "duration": 2.12
+    },
+    {
+      "text": "He's looking away.",
+      "start": 1871.88,
+      "duration": 1.16
+    },
+    {
+      "text": "Oh, God, no.",
+      "start": 1873.04,
+      "duration": 2.36
+    },
+    {
+      "text": "It's just generally very upsetting.",
+      "start": 1876.32,
+      "duration": 2.0
+    },
+    {
+      "text": "What the fuck?",
+      "start": 1879.84,
+      "duration": 1.2
+    },
+    {
+      "text": "Phone?",
+      "start": 1881.04,
+      "duration": 0.84
+    },
+    {
+      "text": "Phone.",
+      "start": 1881.88,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, time to stream.",
+      "start": 1882.72,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, God.",
+      "start": 1883.56,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, cool.",
+      "start": 1884.4,
+      "duration": 1.64
+    },
+    {
+      "text": "Stream, time to stream.",
+      "start": 1886.04,
+      "duration": 0.84
+    },
+    {
+      "text": "What could be more fun?",
+      "start": 1886.88,
+      "duration": 0.84
+    },
+    {
+      "text": "Buh-duh-buh-duh, buh.",
+      "start": 1887.72,
+      "duration": 1.16
+    },
+    {
+      "text": "Use PC.",
+      "start": 1890.0,
+      "duration": 0.96
+    },
+    {
+      "text": "Get out of bed and play self-adventure.",
+      "start": 1890.96,
+      "duration": 2.12
+    },
+    {
+      "text": "Why would I wanna use horse tranquilizers?",
+      "start": 1893.08,
+      "duration": 1.92
+    },
+    {
+      "text": "No, not PCP, just the PC.",
+      "start": 1895.0,
+      "duration": 2.16
+    },
+    {
+      "text": "Let the fun begin, it's time to let down your head.",
+      "start": 1899.24,
+      "duration": 2.56
+    },
+    {
+      "text": "Whoa.",
+      "start": 1901.8,
+      "duration": 0.84
+    },
+    {
+      "text": "All right.",
+      "start": 1903.96,
+      "duration": 1.24
+    },
+    {
+      "text": "I'm gonna continue.",
+      "start": 1905.2,
+      "duration": 1.04
+    },
+    {
+      "text": "I'm gonna continue yesterday's game today.",
+      "start": 1906.24,
+      "duration": 2.04
+    },
+    {
+      "text": "Why?",
+      "start": 1908.28,
+      "duration": 0.84
+    },
+    {
+      "text": "I'm supposed to help a lady not get caught by the police.",
+      "start": 1909.12,
+      "duration": 2.56
+    },
+    {
+      "text": "Scoop-a-doop-a-doop.",
+      "start": 1911.68,
+      "duration": 0.88
+    },
+    {
+      "text": "Oh, not the, okay, got it.",
+      "start": 1912.56,
+      "duration": 2.4
+    },
+    {
+      "text": "Not the game that caused her face to get revealed.",
+      "start": 1914.96,
+      "duration": 3.0
+    },
+    {
+      "text": "No, it was, it is.",
+      "start": 1917.96,
+      "duration": 1.0
+    },
+    {
+      "text": "It is?",
+      "start": 1918.96,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah.",
+      "start": 1919.8,
+      "duration": 0.84
+    },
+    {
+      "text": "You're not going to show your face today?",
+      "start": 1920.64,
+      "duration": 1.16
+    },
+    {
+      "text": "Shut up.",
+      "start": 1921.8,
+      "duration": 0.84
+    },
+    {
+      "text": "Cool.",
+      "start": 1922.64,
+      "duration": 0.84
+    },
+    {
+      "text": "Maybe she's a princess.",
+      "start": 1924.96,
+      "duration": 1.16
+    },
+    {
+      "text": "Hold on, you read the chat while I'm...",
+      "start": 1928.36,
+      "duration": 2.12
+    },
+    {
+      "text": "Okay.",
+      "start": 1930.52,
+      "duration": 0.84
+    },
+    {
+      "text": "Nice atmosphere.",
+      "start": 1931.36,
+      "duration": 1.6
+    },
+    {
+      "text": "Thanks.",
+      "start": 1932.96,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, you mean the game.",
+      "start": 1935.04,
+      "duration": 0.84
+    },
+    {
+      "text": "Good luck.",
+      "start": 1935.88,
+      "duration": 1.36
+    },
+    {
+      "text": "Okay.",
+      "start": 1937.24,
+      "duration": 1.4
+    },
+    {
+      "text": "Thank you.",
+      "start": 1938.64,
+      "duration": 1.64
+    },
+    {
+      "text": "Minks, minks, minks, minks.",
+      "start": 1940.28,
+      "duration": 1.44
+    },
+    {
+      "text": "Minks, minks, minks, minks.",
+      "start": 1941.72,
+      "duration": 1.16
+    },
+    {
+      "text": "I'm gonna find a police officer.",
+      "start": 1946.32,
+      "duration": 2.16
+    },
+    {
+      "text": "Why would we be playing the game that...",
+      "start": 1948.48,
+      "duration": 2.6
+    },
+    {
+      "text": "Because the guy said if you don't play it,",
+      "start": 1951.08,
+      "duration": 1.76
+    },
+    {
+      "text": "bad things are gonna happen.",
+      "start": 1952.84,
+      "duration": 1.12
+    },
+    {
+      "text": "Oh.",
+      "start": 1953.96,
+      "duration": 1.84
+    },
+    {
+      "text": "Well, good things are happening left and right.",
+      "start": 1955.8,
+      "duration": 2.36
+    },
+    {
+      "text": "We're getting stalked.",
+      "start": 1959.16,
+      "duration": 1.04
+    },
+    {
+      "text": "It's awful.",
+      "start": 1960.2,
+      "duration": 0.96
+    },
+    {
+      "text": "It's a maze.",
+      "start": 1966.12,
+      "duration": 1.32
+    },
+    {
+      "text": "You, I've got so many views.",
+      "start": 1967.44,
+      "duration": 4.56
+    },
+    {
+      "text": "Yeah, you got a lot more views today than yesterday.",
+      "start": 1972.0,
+      "duration": 3.04
+    },
+    {
+      "text": "Thank you.",
+      "start": 1975.04,
+      "duration": 0.84
+    },
+    {
+      "text": "In the game.",
+      "start": 1977.16,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, there's the police officer.",
+      "start": 1978.0,
+      "duration": 1.16
+    },
+    {
+      "text": "Hello, friendly policeman.",
+      "start": 1979.16,
+      "duration": 1.44
+    },
+    {
+      "text": "Get out of here, you freak.",
+      "start": 1981.84,
+      "duration": 2.4
+    },
+    {
+      "text": "What was the goal?",
+      "start": 1984.24,
+      "duration": 1.0
+    },
+    {
+      "text": "Was the old lady from a policeman or something?",
+      "start": 1985.24,
+      "duration": 1.84
+    },
+    {
+      "text": "I don't know.",
+      "start": 1987.28,
+      "duration": 0.84
+    },
+    {
+      "text": "I guess follow a policeman.",
+      "start": 1989.4,
+      "duration": 1.56
+    },
+    {
+      "text": "Hello, friendly policeman.",
+      "start": 1990.96,
+      "duration": 1.72
+    },
+    {
+      "text": "Oh, that's bad.",
+      "start": 1992.68,
+      "duration": 1.56
+    },
+    {
+      "text": "Okay, you don't wanna.",
+      "start": 1994.24,
+      "duration": 1.92
+    },
+    {
+      "text": "Okay.",
+      "start": 1996.16,
+      "duration": 0.84
+    },
+    {
+      "text": "Next, next.",
+      "start": 1997.0,
+      "duration": 0.84
+    },
+    {
+      "text": "Good luck.",
+      "start": 1997.84,
+      "duration": 0.84
+    },
+    {
+      "text": "My bad.",
+      "start": 1998.68,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay.",
+      "start": 1999.52,
+      "duration": 1.4
+    },
+    {
+      "text": "Can I run?",
+      "start": 2000.92,
+      "duration": 1.2
+    },
+    {
+      "text": "Oh, I can run.",
+      "start": 2002.12,
+      "duration": 0.84
+    },
+    {
+      "text": "Wee.",
+      "start": 2002.96,
+      "duration": 0.84
+    },
+    {
+      "text": "Wow.",
+      "start": 2003.8,
+      "duration": 0.84
+    },
+    {
+      "text": "Run, run, run, run.",
+      "start": 2004.64,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay, so avoid policeman.",
+      "start": 2005.48,
+      "duration": 2.28
+    },
+    {
+      "text": "Yeah, no thank you.",
+      "start": 2007.76,
+      "duration": 1.64
+    },
+    {
+      "text": "Runnin', runnin', runnin', runnin'.",
+      "start": 2009.4,
+      "duration": 2.52
+    },
+    {
+      "text": "Oh yeah, it's called Unknown Game.",
+      "start": 2013.44,
+      "duration": 2.04
+    },
+    {
+      "text": "What fun.",
+      "start": 2015.48,
+      "duration": 1.2
+    },
+    {
+      "text": "Mysterious viewers game continuation.",
+      "start": 2017.16,
+      "duration": 1.8
+    },
+    {
+      "text": "Oh yes.",
+      "start": 2020.2,
+      "duration": 1.24
+    },
+    {
+      "text": "Oh, police.",
+      "start": 2021.44,
+      "duration": 1.56
+    },
+    {
+      "text": "I guess, yeah.",
+      "start": 2023.0,
+      "duration": 1.84
+    },
+    {
+      "text": "A terrifying stalker would create a game",
+      "start": 2026.08,
+      "duration": 4.76
+    },
+    {
+      "text": "where you have to avoid the police, you know?",
+      "start": 2030.84,
+      "duration": 2.16
+    },
+    {
+      "text": "Yeah.",
+      "start": 2033.0,
+      "duration": 0.84
+    },
+    {
+      "text": "Maybe you're supposed to lower it.",
+      "start": 2033.84,
+      "duration": 0.88
+    },
+    {
+      "text": "I did.",
+      "start": 2034.72,
+      "duration": 0.84
+    },
+    {
+      "text": "Thank you.",
+      "start": 2035.56,
+      "duration": 1.64
+    },
+    {
+      "text": "What's gonna happen?",
+      "start": 2037.2,
+      "duration": 1.04
+    },
+    {
+      "text": "I don't know, I don't know.",
+      "start": 2038.24,
+      "duration": 1.36
+    },
+    {
+      "text": "That looks relevant.",
+      "start": 2040.52,
+      "duration": 1.2
+    },
+    {
+      "text": "What looks relevant?",
+      "start": 2041.72,
+      "duration": 0.84
+    },
+    {
+      "text": "Probably the lever.",
+      "start": 2042.56,
+      "duration": 0.88
+    },
+    {
+      "text": "They're fucking way behind, dude.",
+      "start": 2043.44,
+      "duration": 1.36
+    },
+    {
+      "text": "I go to Chilla's Coffee too.",
+      "start": 2044.84,
+      "duration": 2.08
+    },
+    {
+      "text": "Oh, that's nice.",
+      "start": 2046.92,
+      "duration": 1.8
+    },
+    {
+      "text": "Wait, what?",
+      "start": 2048.72,
+      "duration": 0.84
+    },
+    {
+      "text": "What is it?",
+      "start": 2050.92,
+      "duration": 1.12
+    },
+    {
+      "text": "How does he know that I go to Chilla's Coffee?",
+      "start": 2052.04,
+      "duration": 1.84
+    },
+    {
+      "text": "Oh.",
+      "start": 2053.88,
+      "duration": 1.04
+    },
+    {
+      "text": "Oh, that's not good, actually.",
+      "start": 2056.32,
+      "duration": 2.4
+    },
+    {
+      "text": "Is that a woman?",
+      "start": 2058.72,
+      "duration": 1.08
+    },
+    {
+      "text": "A lady?",
+      "start": 2059.8,
+      "duration": 1.12
+    },
+    {
+      "text": "I didn't see a lady.",
+      "start": 2060.92,
+      "duration": 0.84
+    },
+    {
+      "text": "I didn't see a lady either.",
+      "start": 2061.76,
+      "duration": 1.36
+    },
+    {
+      "text": "Woman's toilet, oh.",
+      "start": 2065.24,
+      "duration": 1.68
+    },
+    {
+      "text": "That's what the sign is.",
+      "start": 2066.92,
+      "duration": 2.04
+    },
+    {
+      "text": "Maybe you bring them here?",
+      "start": 2068.96,
+      "duration": 2.24
+    },
+    {
+      "text": "Oh, I see.",
+      "start": 2071.2,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, there's the lady.",
+      "start": 2072.04,
+      "duration": 1.24
+    },
+    {
+      "text": "Okay.",
+      "start": 2073.28,
+      "duration": 0.84
+    },
+    {
+      "text": "Arigato.",
+      "start": 2075.2,
+      "duration": 0.84
+    },
+    {
+      "text": "Ah, shit.",
+      "start": 2077.6,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh.",
+      "start": 2078.44,
+      "duration": 1.16
+    },
+    {
+      "text": "Okay, now avoid the police.",
+      "start": 2079.6,
+      "duration": 2.12
+    },
+    {
+      "text": "I gotta bring them to the door.",
+      "start": 2081.72,
+      "duration": 0.84
+    },
+    {
+      "text": "Do you help this person?",
+      "start": 2082.56,
+      "duration": 1.0
+    },
+    {
+      "text": "Bringing the woman to the door to the door.",
+      "start": 2085.44,
+      "duration": 2.44
+    },
+    {
+      "text": "Pretty cute.",
+      "start": 2087.88,
+      "duration": 1.0
+    },
+    {
+      "text": "She's still with me, eh?",
+      "start": 2090.0,
+      "duration": 0.96
+    },
+    {
+      "text": "Kinda looks like a ghost.",
+      "start": 2090.96,
+      "duration": 2.36
+    },
+    {
+      "text": "Took her here.",
+      "start": 2094.2,
+      "duration": 1.32
+    },
+    {
+      "text": "All right.",
+      "start": 2095.52,
+      "duration": 0.84
+    },
+    {
+      "text": "Are you happy?",
+      "start": 2096.36,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah, is everything cool?",
+      "start": 2097.2,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, police.",
+      "start": 2098.2,
+      "duration": 0.84
+    },
+    {
+      "text": "Yay.",
+      "start": 2100.64,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah, well done.",
+      "start": 2101.48,
+      "duration": 1.64
+    },
+    {
+      "text": "My face is still a V-Tuber.",
+      "start": 2103.12,
+      "duration": 1.68
+    },
+    {
+      "text": "Congratulations.",
+      "start": 2105.8,
+      "duration": 2.08
+    },
+    {
+      "text": "You did your best.",
+      "start": 2107.88,
+      "duration": 1.0
+    },
+    {
+      "text": "Thanks.",
+      "start": 2108.88,
+      "duration": 0.84
+    },
+    {
+      "text": "Good job.",
+      "start": 2109.72,
+      "duration": 0.84
+    },
+    {
+      "text": "Yay.",
+      "start": 2110.56,
+      "duration": 0.84
+    },
+    {
+      "text": "Congrats.",
+      "start": 2111.4,
+      "duration": 0.84
+    },
+    {
+      "text": "We cleared it.",
+      "start": 2112.24,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, that's true, sorry.",
+      "start": 2113.08,
+      "duration": 1.0
+    },
+    {
+      "text": "Seems like this is the end of the stage.",
+      "start": 2114.08,
+      "duration": 2.0
+    },
+    {
+      "text": "I enjoyed the depth of the game systems",
+      "start": 2116.08,
+      "duration": 1.84
+    },
+    {
+      "text": "compared to the last one.",
+      "start": 2117.92,
+      "duration": 1.44
+    },
+    {
+      "text": "Well then, we've cleared the mission,",
+      "start": 2119.36,
+      "duration": 2.0
+    },
+    {
+      "text": "so we will end the stream for today.",
+      "start": 2121.36,
+      "duration": 1.8
+    },
+    {
+      "text": "Short stream.",
+      "start": 2124.36,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah, that was a quick one.",
+      "start": 2125.2,
+      "duration": 2.04
+    },
+    {
+      "text": "Cha-ching.",
+      "start": 2127.24,
+      "duration": 1.12
+    },
+    {
+      "text": "Well.",
+      "start": 2129.28,
+      "duration": 1.32
+    },
+    {
+      "text": "You have earned $30,000.",
+      "start": 2130.6,
+      "duration": 2.56
+    },
+    {
+      "text": "I'm exhausted.",
+      "start": 2133.16,
+      "duration": 1.04
+    },
+    {
+      "text": "I should take a bath.",
+      "start": 2134.2,
+      "duration": 1.68
+    },
+    {
+      "text": "No.",
+      "start": 2135.88,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah.",
+      "start": 2136.72,
+      "duration": 0.84
+    },
+    {
+      "text": "It feels like it's running like butter now.",
+      "start": 2138.56,
+      "duration": 1.36
+    },
+    {
+      "text": "Don't, ugh.",
+      "start": 2139.92,
+      "duration": 1.56
+    },
+    {
+      "text": "Hi, me.",
+      "start": 2141.48,
+      "duration": 0.92
+    },
+    {
+      "text": "This isn't scary at all.",
+      "start": 2143.24,
+      "duration": 1.44
+    },
+    {
+      "text": "Yeah.",
+      "start": 2144.68,
+      "duration": 2.68
+    },
+    {
+      "text": "If I saw myself moving like that in the mirror,",
+      "start": 2147.36,
+      "duration": 1.84
+    },
+    {
+      "text": "I'd be like, hum.",
+      "start": 2149.2,
+      "duration": 1.56
+    },
+    {
+      "text": "Now I don't have a reflection.",
+      "start": 2150.76,
+      "duration": 1.96
+    },
+    {
+      "text": "Cool.",
+      "start": 2152.72,
+      "duration": 0.84
+    },
+    {
+      "text": "I don't wanna be in the bath at all vulnerable.",
+      "start": 2154.68,
+      "duration": 2.24
+    },
+    {
+      "text": "Bath room.",
+      "start": 2156.96,
+      "duration": 1.16
+    },
+    {
+      "text": "Bath room.",
+      "start": 2158.12,
+      "duration": 0.84
+    },
+    {
+      "text": "Bath.",
+      "start": 2158.96,
+      "duration": 0.84
+    },
+    {
+      "text": "Bath.",
+      "start": 2159.8,
+      "duration": 0.84
+    },
+    {
+      "text": "Bath room.",
+      "start": 2160.64,
+      "duration": 0.88
+    },
+    {
+      "text": "Bath.",
+      "start": 2161.52,
+      "duration": 1.0
+    },
+    {
+      "text": "Bath room.",
+      "start": 2162.52,
+      "duration": 1.12
+    },
+    {
+      "text": "Arin.",
+      "start": 2163.64,
+      "duration": 0.84
+    },
+    {
+      "text": "Bath.",
+      "start": 2164.48,
+      "duration": 0.84
+    },
+    {
+      "text": "How do I bath?",
+      "start": 2165.32,
+      "duration": 1.44
+    },
+    {
+      "text": "How do I bath?",
+      "start": 2166.76,
+      "duration": 1.04
+    },
+    {
+      "text": "How do I bath?",
+      "start": 2167.8,
+      "duration": 2.16
+    },
+    {
+      "text": "How do I bath?",
+      "start": 2169.96,
+      "duration": 1.16
+    },
+    {
+      "text": "How do I bath?",
+      "start": 2172.6,
+      "duration": 0.96
+    },
+    {
+      "text": "Okay.",
+      "start": 2176.44,
+      "duration": 0.84
+    },
+    {
+      "text": "Conditioner?",
+      "start": 2178.68,
+      "duration": 0.84
+    },
+    {
+      "text": "Where could it be?",
+      "start": 2180.48,
+      "duration": 1.08
+    },
+    {
+      "text": "Shampoo?",
+      "start": 2184.88,
+      "duration": 0.84
+    },
+    {
+      "text": "Uh-oh.",
+      "start": 2187.4,
+      "duration": 0.84
+    },
+    {
+      "text": "Huh?",
+      "start": 2188.24,
+      "duration": 0.84
+    },
+    {
+      "text": "Uh-oh.",
+      "start": 2189.08,
+      "duration": 0.84
+    },
+    {
+      "text": "Is the key broken?",
+      "start": 2189.92,
+      "duration": 0.84
+    },
+    {
+      "text": "I think I had a screwdriver somewhere.",
+      "start": 2190.76,
+      "duration": 2.28
+    },
+    {
+      "text": "Screwdriver, screwdriver, screwdriver.",
+      "start": 2193.04,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, man.",
+      "start": 2193.88,
+      "duration": 0.84
+    },
+    {
+      "text": "Is someone in your turlet?",
+      "start": 2194.72,
+      "duration": 1.96
+    },
+    {
+      "text": "Where's the screwdriver?",
+      "start": 2196.68,
+      "duration": 2.36
+    },
+    {
+      "text": "Where the frick is the screwdriver?",
+      "start": 2199.04,
+      "duration": 1.8
+    },
+    {
+      "text": "Oh, fucking.",
+      "start": 2200.84,
+      "duration": 1.0
+    },
+    {
+      "text": "There's gonna be someone in the house.",
+      "start": 2203.24,
+      "duration": 1.68
+    },
+    {
+      "text": "Oh, no.",
+      "start": 2204.92,
+      "duration": 1.8
+    },
+    {
+      "text": "40 degrees Celsius.",
+      "start": 2207.88,
+      "duration": 1.2
+    },
+    {
+      "text": "That's really hot.",
+      "start": 2209.08,
+      "duration": 1.36
+    },
+    {
+      "text": "Oh, yeah.",
+      "start": 2211.48,
+      "duration": 0.84
+    },
+    {
+      "text": "It is really hot.",
+      "start": 2212.32,
+      "duration": 0.84
+    },
+    {
+      "text": "Can we turn a light on, please?",
+      "start": 2214.16,
+      "duration": 2.76
+    },
+    {
+      "text": "Screwdriver.",
+      "start": 2218.28,
+      "duration": 0.88
+    },
+    {
+      "text": "Oh, good.",
+      "start": 2219.16,
+      "duration": 0.84
+    },
+    {
+      "text": "Stab with that.",
+      "start": 2220.0,
+      "duration": 0.84
+    },
+    {
+      "text": "Nope, apparently I can't.",
+      "start": 2222.92,
+      "duration": 1.24
+    },
+    {
+      "text": "Okay.",
+      "start": 2224.16,
+      "duration": 0.84
+    },
+    {
+      "text": "Can you fucking?",
+      "start": 2226.36,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, dear.",
+      "start": 2229.6,
+      "duration": 0.84
+    },
+    {
+      "text": "Open.",
+      "start": 2230.44,
+      "duration": 1.44
+    },
+    {
+      "text": "Bathroom?",
+      "start": 2231.88,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay.",
+      "start": 2234.24,
+      "duration": 1.56
+    },
+    {
+      "text": "Well, bath time.",
+      "start": 2235.8,
+      "duration": 1.16
+    },
+    {
+      "text": "Oh, dear.",
+      "start": 2236.96,
+      "duration": 0.84
+    },
+    {
+      "text": "Doop-a-doop-ooh.",
+      "start": 2239.2,
+      "duration": 2.04
+    },
+    {
+      "text": "I took a bath.",
+      "start": 2241.24,
+      "duration": 1.44
+    },
+    {
+      "text": "So cute.",
+      "start": 2243.32,
+      "duration": 0.84
+    },
+    {
+      "text": "It was very nice.",
+      "start": 2244.16,
+      "duration": 1.32
+    },
+    {
+      "text": "Just ready for a nice bath.",
+      "start": 2245.48,
+      "duration": 1.4
+    },
+    {
+      "text": "Ugh, this is like every horror movie.",
+      "start": 2247.96,
+      "duration": 2.64
+    },
+    {
+      "text": "I'm vulnerable.",
+      "start": 2250.6,
+      "duration": 0.84
+    },
+    {
+      "text": "No peeking.",
+      "start": 2255.28,
+      "duration": 0.84
+    },
+    {
+      "text": "Doop-a-doop-a-doo.",
+      "start": 2259.16,
+      "duration": 2.16
+    },
+    {
+      "text": "Just enjoying bath.",
+      "start": 2261.32,
+      "duration": 2.2
+    },
+    {
+      "text": "Everything is fine,",
+      "start": 2263.52,
+      "duration": 1.52
+    },
+    {
+      "text": "and nobody is going to sneak into my bathroom.",
+      "start": 2265.04,
+      "duration": 4.04
+    },
+    {
+      "text": "Closing the door.",
+      "start": 2270.12,
+      "duration": 1.32
+    },
+    {
+      "text": "Did I do that?",
+      "start": 2273.0,
+      "duration": 1.28
+    },
+    {
+      "text": "No, yes, I did.",
+      "start": 2274.28,
+      "duration": 0.88
+    },
+    {
+      "text": "Okay, great.",
+      "start": 2275.16,
+      "duration": 0.84
+    },
+    {
+      "text": "You see bubbles just raise up?",
+      "start": 2277.6,
+      "duration": 2.2
+    },
+    {
+      "text": "Oops.",
+      "start": 2279.8,
+      "duration": 0.84
+    },
+    {
+      "text": "Don't mind me.",
+      "start": 2281.88,
+      "duration": 1.24
+    },
+    {
+      "text": "Time to get out of the bath.",
+      "start": 2283.12,
+      "duration": 1.64
+    },
+    {
+      "text": "Or not.",
+      "start": 2284.76,
+      "duration": 1.08
+    },
+    {
+      "text": "What's that sound?",
+      "start": 2285.84,
+      "duration": 1.72
+    },
+    {
+      "text": "I don't know.",
+      "start": 2287.56,
+      "duration": 0.92
+    },
+    {
+      "text": "Oh, fuck.",
+      "start": 2290.0,
+      "duration": 1.2
+    },
+    {
+      "text": "Doop-a-doop-a-doo.",
+      "start": 2291.2,
+      "duration": 2.08
+    },
+    {
+      "text": "Enjoying the bath.",
+      "start": 2293.28,
+      "duration": 1.28
+    },
+    {
+      "text": "Oh, I dislike this so very much.",
+      "start": 2294.56,
+      "duration": 3.0
+    },
+    {
+      "text": "Fun in the sun.",
+      "start": 2297.56,
+      "duration": 1.84
+    },
+    {
+      "text": "There's gonna be a guy.",
+      "start": 2299.4,
+      "duration": 1.16
+    },
+    {
+      "text": "Closing the door.",
+      "start": 2301.56,
+      "duration": 1.88
+    },
+    {
+      "text": "Oh, what a relaxing bath.",
+      "start": 2304.88,
+      "duration": 1.8
+    },
+    {
+      "text": "Whoa, what was that?",
+      "start": 2306.68,
+      "duration": 1.48
+    },
+    {
+      "text": "Was that you?",
+      "start": 2308.16,
+      "duration": 0.84
+    },
+    {
+      "text": "I think that was a glitch.",
+      "start": 2309.0,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, okay.",
+      "start": 2309.84,
+      "duration": 0.84
+    },
+    {
+      "text": "Jeez, I hate the glitches too.",
+      "start": 2310.68,
+      "duration": 1.64
+    },
+    {
+      "text": "I mean, maybe it wasn't, I don't know.",
+      "start": 2313.88,
+      "duration": 1.64
+    },
+    {
+      "text": "It didn't look like particularly scary though.",
+      "start": 2315.52,
+      "duration": 2.72
+    },
+    {
+      "text": "Maybe you.",
+      "start": 2318.24,
+      "duration": 1.12
+    },
+    {
+      "text": "Like on purpose.",
+      "start": 2319.36,
+      "duration": 1.16
+    },
+    {
+      "text": "Right.",
+      "start": 2320.52,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh God, you have to walk around like all nude.",
+      "start": 2323.52,
+      "duration": 2.28
+    },
+    {
+      "text": "I'm gonna relax and watch some television.",
+      "start": 2326.88,
+      "duration": 1.76
+    },
+    {
+      "text": "No.",
+      "start": 2328.64,
+      "duration": 0.84
+    },
+    {
+      "text": "Flowers, flowers, flowers.",
+      "start": 2330.6,
+      "duration": 1.36
+    },
+    {
+      "text": "I should clean this.",
+      "start": 2333.92,
+      "duration": 1.68
+    },
+    {
+      "text": "Yeah, so nice.",
+      "start": 2338.48,
+      "duration": 1.16
+    },
+    {
+      "text": "Should I sit down?",
+      "start": 2341.52,
+      "duration": 1.16
+    },
+    {
+      "text": "It's a little awkward.",
+      "start": 2344.44,
+      "duration": 1.12
+    },
+    {
+      "text": "Maybe I'll make some dinner.",
+      "start": 2346.68,
+      "duration": 2.32
+    },
+    {
+      "text": "Nope, guess not.",
+      "start": 2349.0,
+      "duration": 1.48
+    },
+    {
+      "text": "Just enjoying some.",
+      "start": 2352.64,
+      "duration": 0.92
+    },
+    {
+      "text": "I might stop talking completely",
+      "start": 2353.56,
+      "duration": 1.4
+    },
+    {
+      "text": "because I'm so upset by this.",
+      "start": 2354.96,
+      "duration": 1.64
+    },
+    {
+      "text": "Should I eat that big macaroon on my couch?",
+      "start": 2356.6,
+      "duration": 4.72
+    },
+    {
+      "text": "Nom, nom, nom.",
+      "start": 2361.32,
+      "duration": 1.44
+    },
+    {
+      "text": "Macaron, sorry.",
+      "start": 2362.76,
+      "duration": 1.36
+    },
+    {
+      "text": "Macaron.",
+      "start": 2364.12,
+      "duration": 0.84
+    },
+    {
+      "text": "Macaw.",
+      "start": 2364.96,
+      "duration": 1.08
+    },
+    {
+      "text": "Macaron, macaron.",
+      "start": 2366.04,
+      "duration": 1.24
+    },
+    {
+      "text": "Ah, nothing like a relaxing day.",
+      "start": 2369.96,
+      "duration": 3.08
+    },
+    {
+      "text": "I know, seriously.",
+      "start": 2373.04,
+      "duration": 1.88
+    },
+    {
+      "text": "You step out on your balcony.",
+      "start": 2374.92,
+      "duration": 2.08
+    },
+    {
+      "text": "Stepping out of the balcony.",
+      "start": 2377.0,
+      "duration": 2.52
+    },
+    {
+      "text": "I don't think I can.",
+      "start": 2379.52,
+      "duration": 0.96
+    },
+    {
+      "text": "Oh, oh.",
+      "start": 2380.48,
+      "duration": 1.24
+    },
+    {
+      "text": "What?",
+      "start": 2381.72,
+      "duration": 0.84
+    },
+    {
+      "text": "TV went off.",
+      "start": 2382.56,
+      "duration": 0.84
+    },
+    {
+      "text": "I guess I was done.",
+      "start": 2385.04,
+      "duration": 1.0
+    },
+    {
+      "text": "Cool.",
+      "start": 2387.0,
+      "duration": 0.84
+    },
+    {
+      "text": "Closing the blinds.",
+      "start": 2389.88,
+      "duration": 1.84
+    },
+    {
+      "text": "Let's go home.",
+      "start": 2391.72,
+      "duration": 2.24
+    },
+    {
+      "text": "Let's go to bed.",
+      "start": 2393.96,
+      "duration": 1.12
+    },
+    {
+      "text": "Can I fucking turn it down a little bit?",
+      "start": 2395.08,
+      "duration": 2.04
+    },
+    {
+      "text": "It's hot as dicks in here.",
+      "start": 2397.12,
+      "duration": 1.6
+    },
+    {
+      "text": "Yeah, you should change back.",
+      "start": 2400.28,
+      "duration": 1.44
+    },
+    {
+      "text": "Bedtime?",
+      "start": 2403.0,
+      "duration": 0.84
+    },
+    {
+      "text": "Dead time?",
+      "start": 2405.48,
+      "duration": 1.04
+    },
+    {
+      "text": "No.",
+      "start": 2406.52,
+      "duration": 0.84
+    },
+    {
+      "text": "I hate this.",
+      "start": 2409.56,
+      "duration": 1.44
+    },
+    {
+      "text": "No, you don't, it's great.",
+      "start": 2411.0,
+      "duration": 1.44
+    },
+    {
+      "text": "Oh, I don't even know what we're supposed to do.",
+      "start": 2412.44,
+      "duration": 2.48
+    },
+    {
+      "text": "Check out the window.",
+      "start": 2415.92,
+      "duration": 1.88
+    },
+    {
+      "text": "Do you have to shoot poopies?",
+      "start": 2417.8,
+      "duration": 1.48
+    },
+    {
+      "text": "Someone's at the door.",
+      "start": 2420.52,
+      "duration": 1.12
+    },
+    {
+      "text": "Closet.",
+      "start": 2422.96,
+      "duration": 0.84
+    },
+    {
+      "text": "Does this get darker?",
+      "start": 2425.16,
+      "duration": 0.92
+    },
+    {
+      "text": "How do you put on clothing?",
+      "start": 2426.08,
+      "duration": 1.48
+    },
+    {
+      "text": "I don't know.",
+      "start": 2427.56,
+      "duration": 0.84
+    },
+    {
+      "text": "I would like to be clothed when the murderer arrives.",
+      "start": 2429.36,
+      "duration": 1.96
+    },
+    {
+      "text": "That's what I'm trying to figure out, Dan.",
+      "start": 2431.32,
+      "duration": 2.04
+    },
+    {
+      "text": "Hi.",
+      "start": 2434.64,
+      "duration": 1.4
+    },
+    {
+      "text": "Oh, there we go.",
+      "start": 2436.04,
+      "duration": 0.84
+    },
+    {
+      "text": "Ah, laundry.",
+      "start": 2436.88,
+      "duration": 1.92
+    },
+    {
+      "text": "It was getting laundered.",
+      "start": 2438.8,
+      "duration": 1.8
+    },
+    {
+      "text": "That makes sense.",
+      "start": 2441.64,
+      "duration": 1.48
+    },
+    {
+      "text": "Clothes laundering.",
+      "start": 2443.16,
+      "duration": 1.08
+    },
+    {
+      "text": "Another beautiful day.",
+      "start": 2447.92,
+      "duration": 2.08
+    },
+    {
+      "text": "I sleep in a full hoodie in fucking 40 degrees Celsius.",
+      "start": 2450.0,
+      "duration": 3.6
+    },
+    {
+      "text": "I was so scared I could sleep.",
+      "start": 2453.6,
+      "duration": 1.16
+    },
+    {
+      "text": "I can't imagine why.",
+      "start": 2454.76,
+      "duration": 1.08
+    },
+    {
+      "text": "I was so scared I could sleep.",
+      "start": 2455.84,
+      "duration": 1.6
+    },
+    {
+      "text": "That was a psychic phenomenon yesterday, right?",
+      "start": 2457.44,
+      "duration": 2.52
+    },
+    {
+      "text": "I don't think I have spiritual senses.",
+      "start": 2459.96,
+      "duration": 2.16
+    },
+    {
+      "text": "What are you talking about?",
+      "start": 2462.12,
+      "duration": 0.84
+    },
+    {
+      "text": "Should I ask someone?",
+      "start": 2462.96,
+      "duration": 1.2
+    },
+    {
+      "text": "What's she talking about?",
+      "start": 2464.16,
+      "duration": 0.84
+    },
+    {
+      "text": "The elevator encounter, perhaps?",
+      "start": 2465.0,
+      "duration": 1.96
+    },
+    {
+      "text": "Oh, maybe.",
+      "start": 2466.96,
+      "duration": 1.32
+    },
+    {
+      "text": "Oh, cool.",
+      "start": 2468.28,
+      "duration": 1.52
+    },
+    {
+      "text": "Chilis residents, I'm Miyamoto,",
+      "start": 2469.8,
+      "duration": 1.72
+    },
+    {
+      "text": "the manager of the condominium.",
+      "start": 2471.52,
+      "duration": 1.64
+    },
+    {
+      "text": "Please get in touch with me anytime",
+      "start": 2473.16,
+      "duration": 1.36
+    },
+    {
+      "text": "if there are any problems.",
+      "start": 2474.52,
+      "duration": 1.24
+    },
+    {
+      "text": "Contact us.",
+      "start": 2475.76,
+      "duration": 0.84
+    },
+    {
+      "text": "I don't think that's the guy.",
+      "start": 2476.6,
+      "duration": 1.92
+    },
+    {
+      "text": "Should I call the manager?",
+      "start": 2479.56,
+      "duration": 1.0
+    },
+    {
+      "text": "Uh, wait and see.",
+      "start": 2480.56,
+      "duration": 2.32
+    },
+    {
+      "text": "Yeah.",
+      "start": 2482.88,
+      "duration": 0.84
+    },
+    {
+      "text": "Stream.",
+      "start": 2485.36,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay, I guess I'll go stream.",
+      "start": 2487.12,
+      "duration": 1.52
+    },
+    {
+      "text": "Then I go fucking stream.",
+      "start": 2489.92,
+      "duration": 2.56
+    },
+    {
+      "text": "Use PC, yes.",
+      "start": 2492.48,
+      "duration": 2.2
+    },
+    {
+      "text": "I mean, I clicked it, didn't I?",
+      "start": 2494.68,
+      "duration": 1.36
+    },
+    {
+      "text": "I'm Skyward.",
+      "start": 2496.04,
+      "duration": 1.04
+    },
+    {
+      "text": "That's me.",
+      "start": 2498.08,
+      "duration": 0.84
+    },
+    {
+      "text": "Owen, I'm Skyward.",
+      "start": 2498.92,
+      "duration": 1.24
+    },
+    {
+      "text": "No, that's me.",
+      "start": 2500.2,
+      "duration": 1.4
+    },
+    {
+      "text": "Hold me, Owen.",
+      "start": 2502.88,
+      "duration": 1.72
+    },
+    {
+      "text": "I'm holding you.",
+      "start": 2506.6,
+      "duration": 1.28
+    },
+    {
+      "text": "I need to be Howard.",
+      "start": 2508.88,
+      "duration": 1.52
+    },
+    {
+      "text": "I'm gonna continue yesterday's game today.",
+      "start": 2511.32,
+      "duration": 1.84
+    },
+    {
+      "text": "Are you helping the lady again today?",
+      "start": 2513.16,
+      "duration": 1.56
+    },
+    {
+      "text": "How about today?",
+      "start": 2514.72,
+      "duration": 0.84
+    },
+    {
+      "text": "Are you showing your face?",
+      "start": 2515.56,
+      "duration": 1.48
+    },
+    {
+      "text": "First time I'm watching, looking forward to it.",
+      "start": 2517.04,
+      "duration": 1.92
+    },
+    {
+      "text": "I wanna see your face.",
+      "start": 2518.96,
+      "duration": 1.56
+    },
+    {
+      "text": "It seems similar to yesterday.",
+      "start": 2520.52,
+      "duration": 2.28
+    },
+    {
+      "text": "Is this a convenience store?",
+      "start": 2522.8,
+      "duration": 1.16
+    },
+    {
+      "text": "Good luck.",
+      "start": 2523.96,
+      "duration": 0.84
+    },
+    {
+      "text": "Walking around.",
+      "start": 2527.72,
+      "duration": 1.04
+    },
+    {
+      "text": "Oh, there's the lady.",
+      "start": 2528.76,
+      "duration": 1.6
+    },
+    {
+      "text": "Peeking over.",
+      "start": 2530.36,
+      "duration": 1.12
+    },
+    {
+      "text": "It's pretty not scary.",
+      "start": 2533.12,
+      "duration": 1.44
+    },
+    {
+      "text": "Doop-a-doop-a-doop.",
+      "start": 2535.96,
+      "duration": 1.36
+    },
+    {
+      "text": "Doop-doop-a-doop-a-doop.",
+      "start": 2537.32,
+      "duration": 1.64
+    },
+    {
+      "text": "Doop-doop-a-doop-a-doop.",
+      "start": 2538.96,
+      "duration": 1.96
+    },
+    {
+      "text": "Boy, they sell a lot of the same product.",
+      "start": 2540.92,
+      "duration": 1.56
+    },
+    {
+      "text": "Oh!",
+      "start": 2542.48,
+      "duration": 0.84
+    },
+    {
+      "text": "Nice, you dodged.",
+      "start": 2544.92,
+      "duration": 1.48
+    },
+    {
+      "text": "Dude, I fucking 180'd him, dude.",
+      "start": 2546.4,
+      "duration": 2.24
+    },
+    {
+      "text": "Well done.",
+      "start": 2548.64,
+      "duration": 0.84
+    },
+    {
+      "text": "Do-do-do-do-do-do-do-do.",
+      "start": 2551.04,
+      "duration": 1.6
+    },
+    {
+      "text": "Helping the lady.",
+      "start": 2552.64,
+      "duration": 1.6
+    },
+    {
+      "text": "Helping the lady.",
+      "start": 2554.24,
+      "duration": 1.08
+    },
+    {
+      "text": "There she is, there she is.",
+      "start": 2555.32,
+      "duration": 1.04
+    },
+    {
+      "text": "Do-do-do-do-do-do-do-do.",
+      "start": 2556.36,
+      "duration": 1.68
+    },
+    {
+      "text": "Yeah.",
+      "start": 2558.08,
+      "duration": 0.84
+    },
+    {
+      "text": "Do-do-do-do-do-do-do.",
+      "start": 2558.92,
+      "duration": 1.6
+    },
+    {
+      "text": "Dude, uh-oh.",
+      "start": 2560.52,
+      "duration": 0.88
+    },
+    {
+      "text": "Oh, I found Reiko.",
+      "start": 2561.4,
+      "duration": 1.2
+    },
+    {
+      "text": "I found Reiko.",
+      "start": 2562.6,
+      "duration": 1.84
+    },
+    {
+      "text": "Oh no, she behind a, she has no eyes.",
+      "start": 2564.44,
+      "duration": 3.68
+    },
+    {
+      "text": "That's nice.",
+      "start": 2568.12,
+      "duration": 1.52
+    },
+    {
+      "text": "Okay, how do I get, how do I get there?",
+      "start": 2569.64,
+      "duration": 2.0
+    },
+    {
+      "text": "LMAO, that's the same name as my friend, LMAO.",
+      "start": 2572.6,
+      "duration": 3.12
+    },
+    {
+      "text": "So you were Reiko-san.",
+      "start": 2575.72,
+      "duration": 1.48
+    },
+    {
+      "text": "You named her Reiko, what Reiko?",
+      "start": 2577.2,
+      "duration": 1.56
+    },
+    {
+      "text": "Oh shit.",
+      "start": 2578.76,
+      "duration": 0.84
+    },
+    {
+      "text": "Ah, Reiko is the name.",
+      "start": 2579.6,
+      "duration": 1.12
+    },
+    {
+      "text": "Oh shit.",
+      "start": 2580.72,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay, well how the fuck do I get her out?",
+      "start": 2583.44,
+      "duration": 1.6
+    },
+    {
+      "text": "I need a key?",
+      "start": 2585.04,
+      "duration": 0.84
+    },
+    {
+      "text": "Yo, this game's harder than the fuckin' real game.",
+      "start": 2586.88,
+      "duration": 2.64
+    },
+    {
+      "text": "Woof woof woof.",
+      "start": 2592.8,
+      "duration": 1.44
+    },
+    {
+      "text": "Shit shit shit shit shit shit shit.",
+      "start": 2594.24,
+      "duration": 1.44
+    },
+    {
+      "text": "Uh, these controls suck ass.",
+      "start": 2598.0,
+      "duration": 2.24
+    },
+    {
+      "text": "These controls are super sucky assy.",
+      "start": 2600.24,
+      "duration": 2.16
+    },
+    {
+      "text": "What could be more relaxing than a game made by your stalker about, uh, finding a girl,",
+      "start": 2602.4,
+      "duration": 7.36
+    },
+    {
+      "text": "grabbing her, avoiding police, and taking her to an unknown location?",
+      "start": 2609.76,
+      "duration": 3.84
+    },
+    {
+      "text": "Over the lever, oh that's right, there's a lever.",
+      "start": 2614.52,
+      "duration": 1.6
+    },
+    {
+      "text": "Oh, that, that's, okay, got it.",
+      "start": 2616.92,
+      "duration": 2.16
+    },
+    {
+      "text": "That's what lets her out of the, out of the cage.",
+      "start": 2619.08,
+      "duration": 2.64
+    },
+    {
+      "text": "Out of the, out of my cage.",
+      "start": 2621.72,
+      "duration": 1.2
+    },
+    {
+      "text": "Person jail.",
+      "start": 2623.88,
+      "duration": 0.8
+    },
+    {
+      "text": "You mean jail?",
+      "start": 2626.44,
+      "duration": 0.72
+    },
+    {
+      "text": "I guess, yeah, I guess you could just say jail for short.",
+      "start": 2627.16,
+      "duration": 2.08
+    },
+    {
+      "text": "Uh, the lever is over here.",
+      "start": 2630.76,
+      "duration": 2.32
+    },
+    {
+      "text": "Nope.",
+      "start": 2635.32,
+      "duration": 0.48
+    },
+    {
+      "text": "Did you say three a lever?",
+      "start": 2635.8,
+      "duration": 1.12
+    },
+    {
+      "text": "Yeah, man.",
+      "start": 2639.48,
+      "duration": 0.48
+    },
+    {
+      "text": "Down is the position of my lever.",
+      "start": 2639.96,
+      "duration": 3.76
+    },
+    {
+      "text": "Yeah, yeah.",
+      "start": 2643.72,
+      "duration": 1.04
+    },
+    {
+      "text": "Fuck.",
+      "start": 2644.76,
+      "duration": 2.48
+    },
+    {
+      "text": "Okay.",
+      "start": 2647.24,
+      "duration": 2.96
+    },
+    {
+      "text": "You can help the woman now.",
+      "start": 2650.2,
+      "duration": 1.68
+    },
+    {
+      "text": "Yeah, I don't know why I gave her a girl voice.",
+      "start": 2651.88,
+      "duration": 2.52
+    },
+    {
+      "text": "You can do it, woo!",
+      "start": 2654.4,
+      "duration": 3.8
+    },
+    {
+      "text": "If it's the same as yesterday, you have to take the woman to the door.",
+      "start": 2658.2,
+      "duration": 5.52
+    },
+    {
+      "text": "Yes, yes, I fucking get it.",
+      "start": 2663.72,
+      "duration": 1.28
+    },
+    {
+      "text": "Oh my god, did you enjoy your bath yesterday?",
+      "start": 2665.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I love Nina is a problem.",
+      "start": 2667.0,
+      "duration": 1.96
+    },
+    {
+      "text": "Yeah, I love Nina is the issue.",
+      "start": 2668.96,
+      "duration": 1.52
+    },
+    {
+      "text": "Yeah.",
+      "start": 2670.48,
+      "duration": 0.32
+    },
+    {
+      "text": "Ugh.",
+      "start": 2673.36,
+      "duration": 0.32
+    },
+    {
+      "text": "Oh fuck, it's dead end, oh fuck.",
+      "start": 2680.08,
+      "duration": 1.92
+    },
+    {
+      "text": "Is it behind me?",
+      "start": 2682.0,
+      "duration": 0.88
+    },
+    {
+      "text": "Fuck yeah.",
+      "start": 2682.88,
+      "duration": 0.48
+    },
+    {
+      "text": "Oh, I'm awesome.",
+      "start": 2684.32,
+      "duration": 0.72
+    },
+    {
+      "text": "God, I'm fucking amazing.",
+      "start": 2686.08,
+      "duration": 1.04
+    },
+    {
+      "text": "Okay, okay.",
+      "start": 2688.16,
+      "duration": 0.64
+    },
+    {
+      "text": "Lower the lever, open the gate, and take the woman to the door.",
+      "start": 2693.12,
+      "duration": 2.48
+    },
+    {
+      "text": "I'm fucking doing that, dude.",
+      "start": 2695.6,
+      "duration": 0.88
+    },
+    {
+      "text": "Take it easy, dude.",
+      "start": 2696.48,
+      "duration": 0.88
+    },
+    {
+      "text": "Arigato!",
+      "start": 2699.76,
+      "duration": 0.48
+    },
+    {
+      "text": "She's fucking creepy.",
+      "start": 2701.6,
+      "duration": 0.88
+    },
+    {
+      "text": "All right.",
+      "start": 2703.28,
+      "duration": 0.32
+    },
+    {
+      "text": "What?",
+      "start": 2703.6,
+      "duration": 0.24
+    },
+    {
+      "text": "People with no eyes aren't inherently scary?",
+      "start": 2703.84,
+      "duration": 2.24
+    },
+    {
+      "text": "It's just the way she moves, too.",
+      "start": 2706.08,
+      "duration": 1.2
+    },
+    {
+      "text": "Rico, thank you for keeping up.",
+      "start": 2709.76,
+      "duration": 1.52
+    },
+    {
+      "text": "Took away, took away, took away.",
+      "start": 2712.32,
+      "duration": 1.2
+    },
+    {
+      "text": "Where is he?",
+      "start": 2715.76,
+      "duration": 0.56
+    },
+    {
+      "text": "There he is.",
+      "start": 2716.32,
+      "duration": 0.72
+    },
+    {
+      "text": "Okay, great.",
+      "start": 2717.04,
+      "duration": 0.56
+    },
+    {
+      "text": "Okay.",
+      "start": 2717.6,
+      "duration": 0.24
+    },
+    {
+      "text": "Oh, jeez!",
+      "start": 2719.84,
+      "duration": 0.72
+    },
+    {
+      "text": "Whoa, that fucking scared the shit out of me.",
+      "start": 2721.28,
+      "duration": 1.84
+    },
+    {
+      "text": "Damn it!",
+      "start": 2723.92,
+      "duration": 0.72
+    },
+    {
+      "text": "I knew this would happen!",
+      "start": 2724.64,
+      "duration": 0.96
+    },
+    {
+      "text": "No, next time on Game Grumps.",
+      "start": 2727.04,
+      "duration": 1.76
+    },
+    {
+      "text": "What, really?",
+      "start": 2728.8,
+      "duration": 0.64
+    },
+    {
+      "text": "No, I don't know.",
+      "start": 2729.44,
+      "duration": 0.8
+    },
+    {
+      "text": "I just don't want to play this anymore.",
+      "start": 2730.24,
+      "duration": 1.36
+    },
+    {
+      "text": "This sucks.",
+      "start": 2735.2,
+      "duration": 0.64
+    },
+    {
+      "text": "I hate this.",
+      "start": 2735.84,
+      "duration": 3.76
+    }
+  ]
+}

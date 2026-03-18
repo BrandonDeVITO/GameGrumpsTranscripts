@@ -1,0 +1,18 @@
+{
+  "video_id": "VpSwMR7GkK0",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippets": [
+    {
+      "text": "he",
+      "start": 0.68,
+      "duration": 3.0
+    },
+    {
+      "text": "[Music]",
+      "start": 4.12,
+      "duration": 3.11
+    }
+  ]
+}

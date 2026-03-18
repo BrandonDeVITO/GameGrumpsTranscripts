@@ -1,0 +1,853 @@
+{
+  "video_id": "5hChkhZazYM",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Hey, I'm Grump",
+      "start": 0.0,
+      "duration": 1.08
+    },
+    {
+      "text": "I'm Not So Grump",
+      "start": 1.08,
+      "duration": 1.44
+    },
+    {
+      "text": "and we're the Game Grumps!",
+      "start": 2.52,
+      "duration": 1.48
+    },
+    {
+      "text": "So handsome! Hello and welcome to Game Grumps. Did they take the picture? Oh shit, I wasn't turned around.  Fuck, I was looking away.",
+      "start": 5.34,
+      "duration": 7.04
+    },
+    {
+      "text": "At least my axe has a lovely floral print on it. Yeah, it is kind of pretty. It's nice, yeah.",
+      "start": 12.94,
+      "duration": 4.13
+    },
+    {
+      "text": "You can buy it at your local Gamestop. Welcome back to Game Grumps, everybody.",
+      "start": 17.07,
+      "duration": 3.539
+    },
+    {
+      "text": "Yeah, welcome back. We're going home, apparently.",
+      "start": 21.67,
+      "duration": 2.989
+    },
+    {
+      "text": "So, I hope everyone enjoyed this playthrough of God of War 4.",
+      "start": 25.449,
+      "duration": 3.56
+    },
+    {
+      "text": "Oho, like that's it, we're going home. Yeah.",
+      "start": 31.119,
+      "duration": 2.0
+    },
+    {
+      "text": "You are not ready, but perhaps you will be in God of War Five! Enemy stun bar, mm-hmm.",
+      "start": 33.58,
+      "duration": 7.22
+    },
+    {
+      "text": "Uuuh, I didn't read it. Kratos can switch to bare-handed",
+      "start": 42.32,
+      "duration": 2.66
+    },
+    {
+      "text": "attacks by throwing the axe.",
+      "start": 44.98,
+      "duration": 2.32
+    },
+    {
+      "text": "I just kind of looked at the words and then",
+      "start": 48.55,
+      "duration": 2.0
+    },
+    {
+      "text": "mentally checked out.",
+      "start": 51.12,
+      "duration": 2.0
+    },
+    {
+      "text": "Hup!",
+      "start": 53.78,
+      "duration": 0.5
+    },
+    {
+      "text": "Ah... got him stunned",
+      "start": 54.6,
+      "duration": 1.94
+    },
+    {
+      "text": "That is good",
+      "start": 56.74,
+      "duration": 2.0
+    },
+    {
+      "text": "Interesting. Why don't I just beat the shit out of him, he sucks. So, were you always like a commander of ice?",
+      "start": 59.289,
+      "duration": 5.09
+    },
+    {
+      "text": "Like is that... I don't know, man. Oh, okay, sorry.",
+      "start": 65.14,
+      "duration": 2.0
+    },
+    {
+      "text": "God of War is not exactly my specialty.",
+      "start": 68.22,
+      "duration": 1.7
+    },
+    {
+      "text": "Fair enough. okay, I mean that's certainly how it seems. Mow you want to ask me about Street Fighter lore pre-Street Fighter 4...",
+      "start": 71.14,
+      "duration": 6.47
+    },
+    {
+      "text": "Oh, yeah.",
+      "start": 78.159,
+      "duration": 1.651
+    },
+    {
+      "text": "I can do that shit.",
+      "start": 79.81,
+      "duration": 1.949
+    },
+    {
+      "text": "I'm just gonna keep throwing my axe at you, dude. Yeah, I'm not gonna stop. It's much safer.",
+      "start": 81.759,
+      "duration": 5.18
+    },
+    {
+      "text": "Who's your favorite Street Fighter character? Vega. Really? Yeah. Mine too. Yeah, he's the bomb. Oh, fuck.",
+      "start": 86.95,
+      "duration": 6.139
+    },
+    {
+      "text": "I've never met another person who he was their favorite.",
+      "start": 93.09,
+      "duration": 2.069
+    },
+    {
+      "text": "Yeah, he's dope.",
+      "start": 95.71,
+      "duration": 1.35
+    },
+    {
+      "text": "Yay. I don't like playing as him, but I like him as a character. Right. Yeah, well. Yeah, he's",
+      "start": 97.06,
+      "duration": 4.37
+    },
+    {
+      "text": "not - like, his",
+      "start": 102.22,
+      "duration": 2.0
+    },
+    {
+      "text": "Punches and kicks didn't do enough damage. He's fast as fuck, though.",
+      "start": 104.59,
+      "duration": 2.84
+    },
+    {
+      "text": "Yeah, and then and if you could pull off that like fence jump. Oh.",
+      "start": 107.95,
+      "duration": 4.25
+    },
+    {
+      "text": "Everyone in the arcade would think you were so cool.",
+      "start": 113.35,
+      "duration": 2.449
+    },
+    {
+      "text": "Then Alex is my next favorite character. Alex. Yeah, he's from Street Fighter 3. Oh, I was thinking of the boxing dinosaur from Tekken.",
+      "start": 117.6,
+      "duration": 5.97
+    },
+    {
+      "text": "I love that guy, too.  Whoa!",
+      "start": 124.94,
+      "duration": 2.58
+    },
+    {
+      "text": "Gotcha, bitch, haha!",
+      "start": 130.58,
+      "duration": 1.44
+    },
+    {
+      "text": "Nyohr!",
+      "start": 132.96,
+      "duration": 1.95
+    },
+    {
+      "text": "What did I pick up? Hacksilver? Ugh. Embarrassing. Oh, this thing is made of ice.",
+      "start": 134.91,
+      "duration": 5.21
+    },
+    {
+      "text": "Oh, he's new.",
+      "start": 140.22,
+      "duration": 1.0
+    },
+    {
+      "text": "Oooh.",
+      "start": 142.5,
+      "duration": 0.5
+    },
+    {
+      "text": "Whup! Wait, so he doesn't...",
+      "start": 143.1,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, dunno.",
+      "start": 145.26,
+      "duration": 1.199
+    },
+    {
+      "text": "Maybe he can't be stunned by your icy axe. Oh, yeah. Yeah some enemies are resistant to the Leviathan Axe.",
+      "start": 146.46,
+      "duration": 7.0
+    },
+    {
+      "text": "I gotta put it away, and then fight them with my hands.",
+      "start": 153.54,
+      "duration": 2.24
+    },
+    {
+      "text": "Damn, that's a... do you like my fist? That's a bitch.",
+      "start": 158.31,
+      "duration": 2.33
+    },
+    {
+      "text": "You're gonna need a fiery weapon.",
+      "start": 161.97,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm sure I'll get one at some point. Boy, in the meantime, you are beating the shit out of this guy.",
+      "start": 164.34,
+      "duration": 6.02
+    },
+    {
+      "text": "Ow, my head!",
+      "start": 171.86,
+      "duration": 0.8
+    },
+    {
+      "text": "I think you had a chance to pull some kind of finishing move. Yeah, whatever. Okay.",
+      "start": 172.66,
+      "duration": 4.0
+    },
+    {
+      "text": "I don't need to finish these dudes off; I do it with my fists.",
+      "start": 176.7,
+      "duration": 3.11
+    },
+    {
+      "text": "Arin Hanson finishes dudes off with his fists.",
+      "start": 182.91,
+      "duration": 2.029
+    },
+    {
+      "text": "I just ball up my fingers, and",
+      "start": 187.739,
+      "duration": 2.0
+    },
+    {
+      "text": "Curl them around whatever's there and",
+      "start": 190.59,
+      "duration": 2.0
+    },
+    {
+      "text": "Finish the job. I did it!",
+      "start": 193.079,
+      "duration": 2.57
+    },
+    {
+      "text": "Proud of you, Arin.",
+      "start": 196.319,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm beating this game with pure anger.",
+      "start": 198.359,
+      "duration": 2.15
+    },
+    {
+      "text": "It's a bad time filled with rage.",
+      "start": 201.75,
+      "duration": 2.0
+    },
+    {
+      "text": "When are you gonna shut up?",
+      "start": 207.9,
+      "duration": 2.0
+    },
+    {
+      "text": "Where you can continue to be silent.",
+      "start": 215.25,
+      "duration": 2.029
+    },
+    {
+      "text": "Yeah, goddamn. Oh is that where your wife was? I really fi- is it? Yeah, it looks like it.",
+      "start": 219.32,
+      "duration": 4.34
+    },
+    {
+      "text": "Uuuh, oh yeah. Wait, yes? Yeah yeah yeah, right here. Cool.",
+      "start": 225.24,
+      "duration": 5.56
+    },
+    {
+      "text": "Now, go scoop up your mother.",
+      "start": 231.68,
+      "duration": 2.0
+    },
+    {
+      "text": "God I really feel for this kid. Yeah, they have a warm relationship. Having a shitty dad. \"No, he cares for him.\"",
+      "start": 236.13,
+      "duration": 6.859
+    },
+    {
+      "text": "Hmm, yep. Still dead. I bet I could still fuck her. I wish I hadn't said that, I'm sorry.",
+      "start": 246.9,
+      "duration": 5.8
+    },
+    {
+      "text": "*Squelching noises*",
+      "start": 259.2,
+      "duration": 2.08
+    },
+    {
+      "text": "Just rub this on me. Make a great bouillon for stew.",
+      "start": 261.62,
+      "duration": 3.92
+    },
+    {
+      "text": "Ah, tastes like old love.",
+      "start": 268.34,
+      "duration": 2.0
+    },
+    {
+      "text": "Memories.",
+      "start": 272.44,
+      "duration": 0.5
+    },
+    {
+      "text": "Is he gonna make, like, a little sand wife?",
+      "start": 273.56,
+      "duration": 2.5
+    },
+    {
+      "text": "Boy, bring my shovel and pail.",
+      "start": 278.86,
+      "duration": 2.38
+    },
+    {
+      "text": "Yes, the blue one with the stars on it, I'm gonna make a tiny castle out of your mother.",
+      "start": 284.18,
+      "duration": 5.06
+    },
+    {
+      "text": "Heh...",
+      "start": 291.1,
+      "duration": 0.82
+    },
+    {
+      "text": "Almost smiled.",
+      "start": 293.94,
+      "duration": 1.86
+    },
+    {
+      "text": "That was close.",
+      "start": 295.88,
+      "duration": 1.04
+    },
+    {
+      "text": "Woof, yikes. I am slipping in my old age.",
+      "start": 299.82,
+      "duration": 4.669
+    },
+    {
+      "text": "Cameraman follow me in? Shit, he's here.",
+      "start": 311.58,
+      "duration": 2.57
+    },
+    {
+      "text": "Are you doing fun things boy? What are you so down about? What's the big deal?",
+      "start": 316.52,
+      "duration": 5.06
+    },
+    {
+      "text": "Idiot.",
+      "start": 333.5,
+      "duration": 0.5
+    },
+    {
+      "text": "Sick with...?",
+      "start": 343.04,
+      "duration": 1.5
+    },
+    {
+      "text": "Pattycake, pattycake, Baker's man.",
+      "start": 344.55,
+      "duration": 4.37
+    },
+    {
+      "text": "I want you to accept the germs on this hand and get sick again.",
+      "start": 348.92,
+      "duration": 4.769
+    },
+    {
+      "text": "But you're just gonna slap my hand.",
+      "start": 356.88,
+      "duration": 2.0
+    },
+    {
+      "text": "Hit him high, hit him low. We be fast, you be slow.",
+      "start": 364.23,
+      "duration": 4.129
+    },
+    {
+      "text": "Oh, look who's not sick. Nice control of your anger.",
+      "start": 372.36,
+      "duration": 3.14
+    },
+    {
+      "text": "I'm sure my parenting skills aren't adding to your anger.",
+      "start": 389.12,
+      "duration": 2.34
+    },
+    {
+      "text": "It's the therapist. Lock the doors. Shit. It's the counselor.",
+      "start": 398.5,
+      "duration": 6.559
+    },
+    {
+      "text": "You're right, I've changed my mind. \"What's beneath the floor?\" Damn it, forgot this isn't soundproofed.",
+      "start": 420.159,
+      "duration": 7.22
+    },
+    {
+      "text": "Just talking to my carpet. Is that Captain Jack Sparrow out there? Sounds drunk.",
+      "start": 431.11,
+      "duration": 6.26
+    },
+    {
+      "text": "Oh, shit. Uh, sorry, wrong house.",
+      "start": 441.069,
+      "duration": 2.0
+    },
+    {
+      "text": "We don't believe in shirts around these parts.",
+      "start": 445.599,
+      "duration": 2.96
+    },
+    {
+      "text": "Shirt, maybe? Jacket? Lite-Brite pieces for my beard?",
+      "start": 461.229,
+      "duration": 3.47
+    },
+    {
+      "text": "How did he know I was Jewish?",
+      "start": 475.12,
+      "duration": 2.089
+    },
+    {
+      "text": "Anyway, I'm gonna go back to my wood shack. Yeah.",
+      "start": 489.039,
+      "duration": 2.089
+    },
+    {
+      "text": "Mmmm. That's a terrible idea. You're a very early character in this game",
+      "start": 500.66,
+      "duration": 4.82
+    },
+    {
+      "text": "Mmm. It's gonna be tough.",
+      "start": 516.68,
+      "duration": 3.11
+    },
+    {
+      "text": "Titty twister! Oh, damn.",
+      "start": 526.52,
+      "duration": 2.149
+    },
+    {
+      "text": "Punch the beard right off of him. Yeah.",
+      "start": 530.0,
+      "duration": 1.84
+    },
+    {
+      "text": "I slapped the tattoos off you.",
+      "start": 534.92,
+      "duration": 2.0
+    },
+    {
+      "text": "How is he not concussed? Yeah, I think he probably is.",
+      "start": 540.38,
+      "duration": 2.84
+    },
+    {
+      "text": "Damn, son.",
+      "start": 548.9,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow, did not expect that. Okay, uh, we got ourselves a fight here.",
+      "start": 555.679,
+      "duration": 6.2
+    },
+    {
+      "text": "I'm the Norse god of Asshole. Yeah. The Strangler?! Oh, no, stranger. Sorry. I put an L in there.",
+      "start": 568.1,
+      "duration": 7.3
+    },
+    {
+      "text": "Zoom-zoom-zoom-zoom",
+      "start": 577.48,
+      "duration": 1.14
+    },
+    {
+      "text": "Owies!",
+      "start": 578.88,
+      "duration": 0.5
+    },
+    {
+      "text": "Ah-zoom-zoom-zoom..",
+      "start": 580.76,
+      "duration": 0.96
+    },
+    {
+      "text": "Whoa, whoa, hello, hello, EY, OH OH",
+      "start": 581.92,
+      "duration": 2.12
+    },
+    {
+      "text": "Damn, this dude's fast. He's like Vega. Dude, I'm fighting here.",
+      "start": 585.68,
+      "duration": 4.34
+    },
+    {
+      "text": "Wahoo!",
+      "start": 591.0,
+      "duration": 0.5
+    },
+    {
+      "text": "Ow, owie! Yeah. Hurts, don't it?",
+      "start": 593.74,
+      "duration": 2.4
+    },
+    {
+      "text": "Yeah, I'm winning. Yeah, I'm slicing your fucking face open with an axe.",
+      "start": 598.129,
+      "duration": 4.669
+    },
+    {
+      "text": "Damn damn damn are you even try-ow, ow ow!",
+      "start": 604.249,
+      "duration": 2.869
+    },
+    {
+      "text": "Come on what?",
+      "start": 610.82,
+      "duration": 2.0
+    },
+    {
+      "text": "Owie!",
+      "start": 613.5,
+      "duration": 0.5
+    },
+    {
+      "text": "My infinite power...",
+      "start": 614.4,
+      "duration": 1.44
+    },
+    {
+      "text": "Ooh ah ooh ah ooh ah!",
+      "start": 618.88,
+      "duration": 2.02
+    },
+    {
+      "text": "One of my fucking favourite Game Grumps jokes of all time.",
+      "start": 622.82,
+      "duration": 2.46
+    },
+    {
+      "text": "Oah!",
+      "start": 626.38,
+      "duration": 1.16
+    },
+    {
+      "text": "Oh, dude, I like that though. Like, the the wounds, like, stay on the character.",
+      "start": 628.7,
+      "duration": 5.14
+    },
+    {
+      "text": "Oh, I can hold it to block. I forgot. Okay, that's a great idea.",
+      "start": 637.77,
+      "duration": 4.019
+    },
+    {
+      "text": "Ow ow",
+      "start": 644.4,
+      "duration": 1.38
+    },
+    {
+      "text": "That's clever. That's clever. They made it a little dialogue thing.",
+      "start": 646.36,
+      "duration": 3.1
+    },
+    {
+      "text": "I like that.",
+      "start": 650.78,
+      "duration": 0.8
+    },
+    {
+      "text": "Damn, oh, oh and then they fucking subvert it. Yeah, just goes right through.",
+      "start": 651.94,
+      "duration": 5.18
+    },
+    {
+      "text": "Cool cutscene, though. Titty twister!",
+      "start": 657.82,
+      "duration": 2.269
+    },
+    {
+      "text": "What do you want? Uh, well, I want a new roof!",
+      "start": 663.82,
+      "duration": 4.519
+    },
+    {
+      "text": "Because I fuck all the time!",
+      "start": 670.87,
+      "duration": 2.0
+    },
+    {
+      "text": "And then I don't like sleeping in the same bed with her! Sometimes I like a weekend bed. Oh my god. Oh my god.",
+      "start": 673.58,
+      "duration": 7.56
+    },
+    {
+      "text": "Oh, the backwards suplex!",
+      "start": 687.32,
+      "duration": 2.22
+    },
+    {
+      "text": "Who is this guy? Captain Crunch?",
+      "start": 691.75,
+      "duration": 2.809
+    },
+    {
+      "text": "Well, you're about to die, so yeah.",
+      "start": 698.64,
+      "duration": 2.6
+    },
+    {
+      "text": "Ooooh!",
+      "start": 702.46,
+      "duration": 1.32
+    },
+    {
+      "text": "I love it.",
+      "start": 705.08,
+      "duration": 1.34
+    },
+    {
+      "text": "Oh",
+      "start": 709.62,
+      "duration": 0.64
+    },
+    {
+      "text": "Oh, shit, oh shit. Oh, man, after all that work? That's not good.",
+      "start": 720.06,
+      "duration": 5.44
+    },
+    {
+      "text": "Ow OW ow OW ow",
+      "start": 730.48,
+      "duration": 2.0
+    },
+    {
+      "text": "Is this fucking Dragon Ball-Z all of a sudden? Yeah, right?",
+      "start": 734.87,
+      "duration": 2.84
+    },
+    {
+      "text": "Just wanted to go back to my roots. Spartan' rays! See, get it, roots? Whup, WHOA!",
+      "start": 744.56,
+      "duration": 5.99
+    },
+    {
+      "text": "Didn't count on my spartan rage! I'm using rage as a weapon, haha. Have another tree!",
+      "start": 752.81,
+      "duration": 7.25
+    },
+    {
+      "text": "Gosh",
+      "start": 765.22,
+      "duration": 2.0
+    },
+    {
+      "text": "Yah-dah da dee da",
+      "start": 770.46,
+      "duration": 1.46
+    },
+    {
+      "text": "Damn, you still haven't done any fucking damage to this guy.",
+      "start": 772.76,
+      "duration": 2.7
+    },
+    {
+      "text": "Eh ow ow ow",
+      "start": 777.0,
+      "duration": 2.0
+    },
+    {
+      "text": "My infinite power...",
+      "start": 779.62,
+      "duration": 1.82
+    },
+    {
+      "text": "Yah!",
+      "start": 783.22,
+      "duration": 0.5
+    },
+    {
+      "text": "I've got spartan rage!",
+      "start": 784.58,
+      "duration": 1.52
+    },
+    {
+      "text": "Wow! I'm going crazy up in here! I'm so dang cross!",
+      "start": 786.1,
+      "duration": 4.94
+    },
+    {
+      "text": "Yahyahyahyah!",
+      "start": 794.46,
+      "duration": 1.5
+    },
+    {
+      "text": "Oh my god.",
+      "start": 796.46,
+      "duration": 0.64
+    },
+    {
+      "text": "My power is infinite!",
+      "start": 797.12,
+      "duration": 1.44
+    },
+    {
+      "text": "Holy shit, dude. Dude, stop it.",
+      "start": 802.52,
+      "duration": 2.2
+    },
+    {
+      "text": "Ooof.",
+      "start": 807.32,
+      "duration": 1.16
+    },
+    {
+      "text": "Yeah, just stand there and get hit by my axe. Yeah, do it, everybody's doing it. Ow, stop. It's the new hotness.",
+      "start": 809.52,
+      "duration": 5.8
+    },
+    {
+      "text": "Haha, niiice. Fuck you! Great fucking job. That's called leading a shot.",
+      "start": 816.84,
+      "duration": 4.84
+    },
+    {
+      "text": "Yadada.",
+      "start": 825.28,
+      "duration": 0.5
+    },
+    {
+      "text": "YADADADA.",
+      "start": 826.18,
+      "duration": 0.84
+    },
+    {
+      "text": "That's your battle cry. Gooooh! Ah, shit. Yeah, that would have been perfect.",
+      "start": 828.3,
+      "duration": 4.48
+    },
+    {
+      "text": "Try it again!",
+      "start": 833.32,
+      "duration": 0.58
+    },
+    {
+      "text": "Ah, shit, yeah. Gooo BYE BYE!",
+      "start": 834.1,
+      "duration": 2.76
+    },
+    {
+      "text": "Aw, yeah. Excellent tagline. Oh, fuck.",
+      "start": 836.94,
+      "duration": 3.9
+    },
+    {
+      "text": "This guy, I mean he just came to your house, and he was a dick right off the bat. Oh yeah.",
+      "start": 843.27,
+      "duration": 5.63
+    },
+    {
+      "text": "He could've easily been way cooler.",
+      "start": 850.71,
+      "duration": 2.0
+    },
+    {
+      "text": "Rocks.",
+      "start": 854.72,
+      "duration": 2.0
+    },
+    {
+      "text": "Ooooh, man.",
+      "start": 858.48,
+      "duration": 2.72
+    },
+    {
+      "text": "Well",
+      "start": 864.62,
+      "duration": 1.06
+    },
+    {
+      "text": "Alright, the interrogation can finally begin.",
+      "start": 866.58,
+      "duration": 2.72
+    },
+    {
+      "text": "Wait why is that - why was it doing that? Alright, next time on Game Grumps. Good job, Arin. You killed a man. Yeah, yeah. Well.",
+      "start": 870.54,
+      "duration": 7.8
+    },
+    {
+      "text": "Yep.",
+      "start": 880.54,
+      "duration": 0.5
+    },
+    {
+      "text": "Take a picture of that.",
+      "start": 883.52,
+      "duration": 1.52
+    },
+    {
+      "text": "We sure had some good times today. Whoa. That's a Wednesday.",
+      "start": 885.04,
+      "duration": 3.58
+    },
+    {
+      "text": "Yep.",
+      "start": 889.02,
+      "duration": 0.5
+    }
+  ]
+}

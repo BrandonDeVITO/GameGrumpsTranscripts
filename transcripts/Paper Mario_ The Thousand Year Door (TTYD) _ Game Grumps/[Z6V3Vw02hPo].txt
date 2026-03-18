@@ -1,0 +1,3218 @@
+{
+  "video_id": "Z6V3Vw02hPo",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Arin: Hi, I didn't see you there.",
+      "start": 1.46,
+      "duration": 1.52
+    },
+    {
+      "text": "My name's Arin and I'm going to be on Scare To Care",
+      "start": 3.22,
+      "duration": 3.2
+    },
+    {
+      "text": "a charity event stream where we'll be raising money",
+      "start": 6.64,
+      "duration": 3.44
+    },
+    {
+      "text": "for Camp Kesem",
+      "start": 10.08,
+      "duration": 2.06
+    },
+    {
+      "text": "which is a beautiful charity",
+      "start": 12.14,
+      "duration": 1.06
+    },
+    {
+      "text": "you should check it out",
+      "start": 13.2,
+      "duration": 1.52
+    },
+    {
+      "text": "ANYWAY",
+      "start": 14.72,
+      "duration": 0.52
+    },
+    {
+      "text": "Barry and I... Right? (forgets English) Barry and I..?",
+      "start": 15.24,
+      "duration": 2.12
+    },
+    {
+      "text": "Barry and I",
+      "start": 17.64,
+      "duration": 0.5
+    },
+    {
+      "text": "heh",
+      "start": 18.14,
+      "duration": 0.5
+    },
+    {
+      "text": "are going to be on Scare To Care",
+      "start": 18.64,
+      "duration": 1.48
+    },
+    {
+      "text": "at 6PM.. PDT.. That's Pacific..",
+      "start": 20.24,
+      "duration": 3.82
+    },
+    {
+      "text": "T-",
+      "start": 24.62,
+      "duration": 0.5
+    },
+    {
+      "text": "....Time.........",
+      "start": 25.2,
+      "duration": 1.2
+    },
+    {
+      "text": "And we're going to be playing scary games",
+      "start": 26.4,
+      "duration": 1.8
+    },
+    {
+      "text": "for you",
+      "start": 28.34,
+      "duration": 0.5
+    },
+    {
+      "text": "FOR YOU",
+      "start": 29.06,
+      "duration": 0.54
+    },
+    {
+      "text": "Log on, twitch.tv/scaretocare",
+      "start": 29.88,
+      "duration": 2.98
+    },
+    {
+      "text": "THAT'S TODAY it's happening TODAY",
+      "start": 32.86,
+      "duration": 2.16
+    },
+    {
+      "text": "At 6...........",
+      "start": 35.02,
+      "duration": 0.5
+    },
+    {
+      "text": "PDT",
+      "start": 35.52,
+      "duration": 0.86
+    },
+    {
+      "text": "..that's pacific time",
+      "start": 36.38,
+      "duration": 1.34
+    },
+    {
+      "text": "(allegedly)",
+      "start": 37.72,
+      "duration": 0.5
+    },
+    {
+      "text": "converted to your time zone",
+      "start": 38.22,
+      "duration": 1.52
+    },
+    {
+      "text": "Me and Barry :^)",
+      "start": 40.26,
+      "duration": 1.1
+    },
+    {
+      "text": "scary games",
+      "start": 41.36,
+      "duration": 0.8
+    },
+    {
+      "text": "Scare To Care",
+      "start": 42.16,
+      "duration": 0.74
+    },
+    {
+      "text": "charity",
+      "start": 43.06,
+      "duration": 0.56
+    },
+    {
+      "text": "it's Vernon's charity!",
+      "start": 44.02,
+      "duration": 1.6
+    },
+    {
+      "text": "so...",
+      "start": 45.62,
+      "duration": 0.68
+    },
+    {
+      "text": "if",
+      "start": 46.3,
+      "duration": 0.58
+    },
+    {
+      "text": "If that all- if-",
+      "start": 46.88,
+      "duration": 0.74
+    },
+    {
+      "text": "if that adds to the reasons to go, then",
+      "start": 47.62,
+      "duration": 2.48
+    },
+    {
+      "text": "by all means",
+      "start": 50.24,
+      "duration": 1.3
+    },
+    {
+      "text": "B E   T H E R E",
+      "start": 51.54,
+      "duration": 1.08
+    },
+    {
+      "text": "or be square",
+      "start": 52.64,
+      "duration": 0.94
+    },
+    {
+      "text": "DING",
+      "start": 54.28,
+      "duration": 0.5
+    },
+    {
+      "text": "B E   T H E R E",
+      "start": 55.3,
+      "duration": 0.84
+    },
+    {
+      "text": "HEY I'M GRUMP",
+      "start": 56.14,
+      "duration": 1.04
+    },
+    {
+      "text": "I'M NOT SO GRUMP,",
+      "start": 57.22,
+      "duration": 1.5
+    },
+    {
+      "text": "AND WE'RE THE GAME GRUMPS",
+      "start": 58.92,
+      "duration": 1.68
+    },
+    {
+      "text": "(echoing silence)",
+      "start": 60.78,
+      "duration": 1.04
+    },
+    {
+      "text": "Arin: HEY welcome back",
+      "start": 61.82,
+      "duration": 0.82
+    },
+    {
+      "text": "Danny: Welcome back HO",
+      "start": 62.64,
+      "duration": 0.66
+    },
+    {
+      "text": "..okay",
+      "start": 63.84,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: It's the moon again-",
+      "start": 64.38,
+      "duration": 0.9
+    },
+    {
+      "text": "Danny: BOOPITY BOOPITY BOOP",
+      "start": 65.28,
+      "duration": 1.32
+    },
+    {
+      "text": "oH there's a s- there's a shard",
+      "start": 66.6,
+      "duration": 1.58
+    },
+    {
+      "text": "Arin: Oh you can just roll around wherever you wanna go",
+      "start": 68.18,
+      "duration": 2.12
+    },
+    {
+      "text": "Danny: WEEEEEEEEEHEEEEEEEEEEeeohhH",
+      "start": 70.3,
+      "duration": 2.36
+    },
+    {
+      "text": "Uh h",
+      "start": 73.32,
+      "duration": 0.48
+    },
+    {
+      "text": "Arin: Well don't unravel underneath the tree",
+      "start": 73.8,
+      "duration": 1.52
+    },
+    {
+      "text": "you might get squished",
+      "start": 75.32,
+      "duration": 1.0
+    },
+    {
+      "text": "Danny: (as my jewish mother) You're right",
+      "start": 76.32,
+      "duration": 1.18
+    },
+    {
+      "text": "that's a good call",
+      "start": 77.5,
+      "duration": 0.76
+    },
+    {
+      "text": "Arin: You might unravel and DIE",
+      "start": 78.26,
+      "duration": 0.92
+    },
+    {
+      "text": "Danny: uh so Arin and I just got back from",
+      "start": 79.6,
+      "duration": 2.56
+    },
+    {
+      "text": "WAIT",
+      "start": 82.16,
+      "duration": 0.5
+    },
+    {
+      "text": "what the h",
+      "start": 82.72,
+      "duration": 0.68
+    },
+    {
+      "text": "Mario:HAH",
+      "start": 83.8,
+      "duration": 0.72
+    },
+    {
+      "text": "Arin: What the h-e-double-hockey-sticks is going on here",
+      "start": 84.92,
+      "duration": 2.18
+    },
+    {
+      "text": "Danny: k- hh ALRIGHT",
+      "start": 88.06,
+      "duration": 1.36
+    },
+    {
+      "text": "get the booby ghost heheh",
+      "start": 89.78,
+      "duration": 2.16
+    },
+    {
+      "text": "Arin: hahaHA",
+      "start": 92.04,
+      "duration": 0.98
+    },
+    {
+      "text": "BOOB GHOST",
+      "start": 93.66,
+      "duration": 1.04
+    },
+    {
+      "text": "SAD TURTLE..",
+      "start": 94.82,
+      "duration": 0.88
+    },
+    {
+      "text": "(danny cracking up)",
+      "start": 96.06,
+      "duration": 1.36
+    },
+    {
+      "text": "angry dinosaur and useless goomba..",
+      "start": 98.36,
+      "duration": 2.72
+    },
+    {
+      "text": "Danny: Yeh.. Dinosaur baby, booby ghost",
+      "start": 101.52,
+      "duration": 2.94
+    },
+    {
+      "text": "(Grump Giggles)",
+      "start": 104.6,
+      "duration": 1.46
+    },
+    {
+      "text": "Arin: We were just on tooourr",
+      "start": 106.44,
+      "duration": 1.28
+    },
+    {
+      "text": "Danny: Yeah, we went on the Ninja Sex Party Tour",
+      "start": 107.8,
+      "duration": 2.4
+    },
+    {
+      "text": "Shout out to the delightful cities of:",
+      "start": 110.2,
+      "duration": 2.08
+    },
+    {
+      "text": "uh Nashville, Charlotte, Orlando and Atlanta",
+      "start": 112.28,
+      "duration": 2.6
+    },
+    {
+      "text": "um who treated us so well",
+      "start": 114.88,
+      "duration": 1.54
+    },
+    {
+      "text": "That was a dream come true those shoes",
+      "start": 116.78,
+      "duration": 1.74
+    },
+    {
+      "text": "Those shows* (autocorrect irl)",
+      "start": 118.52,
+      "duration": 0.54
+    },
+    {
+      "text": "HAHHHOH",
+      "start": 119.22,
+      "duration": 0.66
+    },
+    {
+      "text": "Arin: oh yeah they were awsome",
+      "start": 119.88,
+      "duration": 0.78
+    },
+    {
+      "text": "Danny: Are you friend or- nope.",
+      "start": 121.48,
+      "duration": 0.92
+    },
+    {
+      "text": "Nope. You're a nightmare.",
+      "start": 122.4,
+      "duration": 0.68
+    },
+    {
+      "text": "Arin: Good show. um. Good people.",
+      "start": 123.16,
+      "duration": 3.88
+    },
+    {
+      "text": "Danny: (suffering) yayy..",
+      "start": 127.04,
+      "duration": 0.74
+    },
+    {
+      "text": "Arin: uhm good venues..",
+      "start": 127.78,
+      "duration": 1.42
+    },
+    {
+      "text": "Danny: GOOD TIMES",
+      "start": 129.2,
+      "duration": 0.62
+    },
+    {
+      "text": "Arin: Just all around good stuff yeah :)",
+      "start": 129.84,
+      "duration": 1.72
+    },
+    {
+      "text": "We took a tour bus for the first time,",
+      "start": 131.58,
+      "duration": 1.48
+    },
+    {
+      "text": "that was crazy.",
+      "start": 133.06,
+      "duration": 0.86
+    },
+    {
+      "text": "Danny: Yeah",
+      "start": 134.2,
+      "duration": 0.6
+    },
+    {
+      "text": "Living on that tour bus was fucking bananas",
+      "start": 134.9,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: I??",
+      "start": 136.9,
+      "duration": 0.58
+    },
+    {
+      "text": "actually loved it..?",
+      "start": 137.48,
+      "duration": 0.66
+    },
+    {
+      "text": "and got some of the best sleep of my life",
+      "start": 138.14,
+      "duration": 1.56
+    },
+    {
+      "text": "Danny: really?",
+      "start": 139.7,
+      "duration": 0.56
+    },
+    {
+      "text": "Arin: yeah",
+      "start": 140.3,
+      "duration": 0.5
+    },
+    {
+      "text": "I love sleepin in those bunks",
+      "start": 141.26,
+      "duration": 1.64
+    },
+    {
+      "text": "Danny: holy crap o_o",
+      "start": 143.04,
+      "duration": 0.5
+    },
+    {
+      "text": "um... they were just like........",
+      "start": 144.04,
+      "duration": 1.46
+    },
+    {
+      "text": "well the weird thing is they're-",
+      "start": 146.5,
+      "duration": 0.98
+    },
+    {
+      "text": "they're like black out curtains too?",
+      "start": 147.52,
+      "duration": 1.42
+    },
+    {
+      "text": "And uh..",
+      "start": 149.8,
+      "duration": 0.7
+    },
+    {
+      "text": "so we'd be like drivin around-",
+      "start": 150.58,
+      "duration": 1.3
+    },
+    {
+      "text": "so we'd fall asleep",
+      "start": 151.88,
+      "duration": 0.74
+    },
+    {
+      "text": "and then we'd drive...",
+      "start": 152.64,
+      "duration": 1.24
+    },
+    {
+      "text": "to another city",
+      "start": 154.2,
+      "duration": 0.84
+    },
+    {
+      "text": "and then we'd wake up in another city right?",
+      "start": 155.04,
+      "duration": 1.32
+    },
+    {
+      "text": "Danny:YES",
+      "start": 156.62,
+      "duration": 0.52
+    },
+    {
+      "text": "Arin: um.. so ..",
+      "start": 157.14,
+      "duration": 1.14
+    },
+    {
+      "text": "Arin: We-",
+      "start": 159.04,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: CRAZEE DAYZEE",
+      "start": 159.54,
+      "duration": 1.24
+    },
+    {
+      "text": "(giggling)",
+      "start": 160.78,
+      "duration": 1.06
+    },
+    {
+      "text": "Arin: u craazyy",
+      "start": 162.76,
+      "duration": 1.3
+    },
+    {
+      "text": "uh",
+      "start": 164.8,
+      "duration": 0.5
+    },
+    {
+      "text": "so",
+      "start": 166.04,
+      "duration": 0.72
+    },
+    {
+      "text": "wywywhhhhhh",
+      "start": 167.64,
+      "duration": 1.26
+    },
+    {
+      "text": "we would wake up a-an' I would fall asleep",
+      "start": 169.12,
+      "duration": 2.68
+    },
+    {
+      "text": "and I would wake up and it would be just PITCH BLACK",
+      "start": 171.8,
+      "duration": 1.12
+    },
+    {
+      "text": "but then I realize it's like TWO",
+      "start": 173.46,
+      "duration": 1.78
+    },
+    {
+      "text": "Danny: (not paying attention) Yea-uh t-",
+      "start": 175.24,
+      "duration": 1.12
+    },
+    {
+      "text": "Arin: Because we would perform at night..",
+      "start": 176.36,
+      "duration": 1.48
+    },
+    {
+      "text": "and then we'd be up for a long time",
+      "start": 177.84,
+      "duration": 1.46
+    },
+    {
+      "text": "Danny: YES",
+      "start": 179.3,
+      "duration": 0.56
+    },
+    {
+      "text": "Arin: and then we'd end up going to sleep at like five",
+      "start": 179.86,
+      "duration": 1.24
+    },
+    {
+      "text": "and then I'd fall asleep and then I'd wake up",
+      "start": 182.16,
+      "duration": 1.62
+    },
+    {
+      "text": "fuckin'",
+      "start": 183.8,
+      "duration": 0.56
+    },
+    {
+      "text": "two but it'd be like pitch black in the fuckin'",
+      "start": 184.76,
+      "duration": 1.7
+    },
+    {
+      "text": "bus",
+      "start": 186.46,
+      "duration": 0.5
+    },
+    {
+      "text": "s'just black out all around",
+      "start": 187.62,
+      "duration": 1.4
+    },
+    {
+      "text": "Danny:the whole thing was bananas",
+      "start": 189.02,
+      "duration": 1.34
+    },
+    {
+      "text": "i-it was a very",
+      "start": 190.36,
+      "duration": 0.78
+    },
+    {
+      "text": "it's a very strange and unique experience but",
+      "start": 191.86,
+      "duration": 2.12
+    },
+    {
+      "text": "um",
+      "start": 193.98,
+      "duration": 0.5
+    },
+    {
+      "text": "definitely like just.. fuckin' .. fabulous to..",
+      "start": 194.92,
+      "duration": 3.62
+    },
+    {
+      "text": "to feel",
+      "start": 199.38,
+      "duration": 0.5
+    },
+    {
+      "text": "y'know?",
+      "start": 200.14,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Yeah",
+      "start": 200.64,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: Like the- the",
+      "start": 201.14,
+      "duration": 0.52
+    },
+    {
+      "text": "the LOVE from those crowds was insane",
+      "start": 202.0,
+      "duration": 2.28
+    },
+    {
+      "text": "and like..",
+      "start": 204.48,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Oh man for sure..",
+      "start": 205.04,
+      "duration": 0.98
+    },
+    {
+      "text": "Danny: yeah",
+      "start": 206.02,
+      "duration": 0.66
+    },
+    {
+      "text": "Arin: Jus-just crazy energy",
+      "start": 207.66,
+      "duration": 1.72
+    },
+    {
+      "text": "Danny: uh m howdoi- ?",
+      "start": 209.78,
+      "duration": 1.08
+    },
+    {
+      "text": "How do I",
+      "start": 210.86,
+      "duration": 0.5
+    },
+    {
+      "text": "how do i.",
+      "start": 211.42,
+      "duration": 0.5
+    },
+    {
+      "text": "how do i?",
+      "start": 211.92,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Looks like you're fucked.",
+      "start": 212.42,
+      "duration": 0.88
+    },
+    {
+      "text": "Looks like you're absolutely fucked.",
+      "start": 213.3,
+      "duration": 0.94
+    },
+    {
+      "text": "Look at that",
+      "start": 214.24,
+      "duration": 0.5
+    },
+    {
+      "text": "look at this right here.",
+      "start": 214.74,
+      "duration": 0.72
+    },
+    {
+      "text": "Um.",
+      "start": 216.8,
+      "duration": 0.58
+    },
+    {
+      "text": "Arin: whatwerewetalkinabout",
+      "start": 218.18,
+      "duration": 0.9
+    },
+    {
+      "text": "about touring though it was- something brought it up",
+      "start": 219.08,
+      "duration": 1.72
+    },
+    {
+      "text": "Danny: UHH",
+      "start": 221.44,
+      "duration": 0.58
+    },
+    {
+      "text": "Arin: OH we were jackin' off in our bunks",
+      "start": 222.02,
+      "duration": 2.02
+    },
+    {
+      "text": "Danny:Y- NO we were NOT jackin off",
+      "start": 224.04,
+      "duration": 0.96
+    },
+    {
+      "text": "Arin: Yeah that doesn- that doesn't happen",
+      "start": 225.0,
+      "duration": 1.26
+    },
+    {
+      "text": "you're just too close to other people",
+      "start": 226.26,
+      "duration": 2.08
+    },
+    {
+      "text": "Danny: Yeah",
+      "start": 228.52,
+      "duration": 0.52
+    },
+    {
+      "text": "Arin:Any slight like",
+      "start": 229.36,
+      "duration": 1.02
+    },
+    {
+      "text": "(obscene mouth noises courtesy Arin)",
+      "start": 230.7,
+      "duration": 0.58
+    },
+    {
+      "text": "would be absolutely heard",
+      "start": 231.28,
+      "duration": 1.38
+    },
+    {
+      "text": "by the person next to you.",
+      "start": 232.66,
+      "duration": 1.4
+    },
+    {
+      "text": "Danny: Far too many.",
+      "start": 234.06,
+      "duration": 1.02
+    },
+    {
+      "text": "Arin: Yeah so there's- there's no way",
+      "start": 235.08,
+      "duration": 1.36
+    },
+    {
+      "text": "Danny: Um.. I have to- wait.",
+      "start": 236.88,
+      "duration": 1.6
+    },
+    {
+      "text": "Arin: So whol- whole week and a half",
+      "start": 239.1,
+      "duration": 0.86
+    },
+    {
+      "text": "without J-in' O",
+      "start": 240.02,
+      "duration": 0.9
+    },
+    {
+      "text": "Danny: I need a quick story from you",
+      "start": 241.22,
+      "duration": 1.36
+    },
+    {
+      "text": "Arin: OK",
+      "start": 242.9,
+      "duration": 0.56
+    },
+    {
+      "text": "Danny: so I can press a with  perfect timing",
+      "start": 243.6,
+      "duration": 1.06
+    },
+    {
+      "text": "Arin: OH okay",
+      "start": 244.66,
+      "duration": 0.68
+    },
+    {
+      "text": "UH",
+      "start": 245.76,
+      "duration": 0.5
+    },
+    {
+      "text": "One dayy..",
+      "start": 246.38,
+      "duration": 0.62
+    },
+    {
+      "text": "my wife Sandra- this is a made up story-",
+      "start": 247.46,
+      "duration": 3.26
+    },
+    {
+      "text": "uh told me that she wasn't satisfied",
+      "start": 251.16,
+      "duration": 2.48
+    },
+    {
+      "text": "with my -sexual- endeavors",
+      "start": 253.64,
+      "duration": 2.6
+    },
+    {
+      "text": "so I told her well then maybe you should be invited to them HAH",
+      "start": 256.68,
+      "duration": 4.0
+    },
+    {
+      "text": "(Arin laughing at own joke)",
+      "start": 260.68,
+      "duration": 1.3
+    },
+    {
+      "text": "Danny: (giggling) Yayy!",
+      "start": 261.98,
+      "duration": 1.9
+    },
+    {
+      "text": "Arin: ahh boy.",
+      "start": 263.92,
+      "duration": 0.82
+    },
+    {
+      "text": "Danny: Excellent.",
+      "start": 264.74,
+      "duration": 0.7
+    },
+    {
+      "text": "Arin: That was a good one.",
+      "start": 265.44,
+      "duration": 0.98
+    },
+    {
+      "text": "Danny: Boy your stories are really helping me",
+      "start": 266.42,
+      "duration": 0.98
+    },
+    {
+      "text": "rock this shit",
+      "start": 267.94,
+      "duration": 0.96
+    },
+    {
+      "text": "Arin: Yeah man.",
+      "start": 269.08,
+      "duration": 0.96
+    },
+    {
+      "text": "Six six six six",
+      "start": 270.08,
+      "duration": 1.04
+    },
+    {
+      "text": "Danny: God dammit..",
+      "start": 271.16,
+      "duration": 0.68
+    },
+    {
+      "text": "Arin: it's the- it's the number of the Devil's brother heh",
+      "start": 271.84,
+      "duration": 3.28
+    },
+    {
+      "text": "the number of the Devil's next-door neighbor",
+      "start": 275.24,
+      "duration": 2.54
+    },
+    {
+      "text": "Danny: The Devil's area code",
+      "start": 277.84,
+      "duration": 1.22
+    },
+    {
+      "text": "Arin: no that's 6666",
+      "start": 279.36,
+      "duration": 1.3
+    },
+    {
+      "text": "Danny: oh you're right",
+      "start": 280.66,
+      "duration": 0.6
+    },
+    {
+      "text": "(???)",
+      "start": 281.26,
+      "duration": 0.5
+    },
+    {
+      "text": "Kay, just blown them away.",
+      "start": 282.72,
+      "duration": 0.82
+    },
+    {
+      "text": "Arin: Get 'em",
+      "start": 284.62,
+      "duration": 0.88
+    },
+    {
+      "text": "GET 'em",
+      "start": 285.7,
+      "duration": 0.54
+    },
+    {
+      "text": "GET 'EM",
+      "start": 286.8,
+      "duration": 0.54
+    },
+    {
+      "text": "Danny: You can't fuckin'..",
+      "start": 287.74,
+      "duration": 1.12
+    },
+    {
+      "text": "deal with this shit you're DAISIES",
+      "start": 288.86,
+      "duration": 1.58
+    },
+    {
+      "text": "PEACE OUT BITCHES",
+      "start": 291.6,
+      "duration": 1.2
+    },
+    {
+      "text": "(arin cackles)",
+      "start": 292.9,
+      "duration": 1.04
+    },
+    {
+      "text": "Arin: PEEEACE",
+      "start": 294.5,
+      "duration": 0.96
+    },
+    {
+      "text": "you muthafuckin'-",
+      "start": 297.06,
+      "duration": 0.66
+    },
+    {
+      "text": "Danny: (perfectly in time with music) Bitch!",
+      "start": 297.72,
+      "duration": 0.58
+    },
+    {
+      "text": "Arin: Stamin-ass motherfuckahhhh",
+      "start": 298.66,
+      "duration": 2.08
+    },
+    {
+      "text": "Danny: Stamin!",
+      "start": 300.94,
+      "duration": 0.68
+    },
+    {
+      "text": "Arin: John STAMIN",
+      "start": 301.76,
+      "duration": 1.14
+    },
+    {
+      "text": "Danny: John Stamin..",
+      "start": 302.9,
+      "duration": 0.8
+    },
+    {
+      "text": "Arin: Yeah",
+      "start": 303.7,
+      "duration": 0.72
+    },
+    {
+      "text": "Danny: Um..",
+      "start": 304.56,
+      "duration": 0.58
+    },
+    {
+      "text": "Yeah it was uh..",
+      "start": 305.64,
+      "duration": 1.2
+    },
+    {
+      "text": "It was unreal. Like I h-",
+      "start": 307.7,
+      "duration": 1.16
+    },
+    {
+      "text": "I- I'm really looking forward to",
+      "start": 308.86,
+      "duration": 1.84
+    },
+    {
+      "text": "Oh and you know what,",
+      "start": 310.7,
+      "duration": 1.26
+    },
+    {
+      "text": "this is a good chance to say it-",
+      "start": 311.96,
+      "duration": 1.7
+    },
+    {
+      "text": "let me apologize.. um.. to anyone.. uhh",
+      "start": 313.96,
+      "duration": 2.9
+    },
+    {
+      "text": "who",
+      "start": 317.6,
+      "duration": 0.5
+    },
+    {
+      "text": "oh fuck, wait",
+      "start": 318.38,
+      "duration": 0.76
+    },
+    {
+      "text": "How do I deal with these green guys again?",
+      "start": 319.36,
+      "duration": 1.88
+    },
+    {
+      "text": "Arin: You just gotta use GROUND techniques, bro",
+      "start": 321.24,
+      "duration": 1.86
+    },
+    {
+      "text": "Danny: That's, right",
+      "start": 323.18,
+      "duration": 0.96
+    },
+    {
+      "text": "um",
+      "start": 324.7,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: You can't jump on 'em.",
+      "start": 325.2,
+      "duration": 0.7
+    },
+    {
+      "text": "Danny: I think it's-",
+      "start": 326.5,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: You gotta use the quake hammer",
+      "start": 327.0,
+      "duration": 0.62
+    },
+    {
+      "text": "Danny: I think I should just keep using this.. jam",
+      "start": 327.62,
+      "duration": 1.94
+    },
+    {
+      "text": "Until..",
+      "start": 330.02,
+      "duration": 0.88
+    },
+    {
+      "text": "Uh..",
+      "start": 332.14,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Yeah why not?",
+      "start": 332.66,
+      "duration": 0.52
+    },
+    {
+      "text": "Danny: Yeah it- It's SO effective.",
+      "start": 333.18,
+      "duration": 1.22
+    },
+    {
+      "text": "Arin: OKAY,",
+      "start": 334.4,
+      "duration": 0.56
+    },
+    {
+      "text": "uh Larry's older brother",
+      "start": 335.74,
+      "duration": 1.68
+    },
+    {
+      "text": "Cindy was unfortunately named after a girl",
+      "start": 338.06,
+      "duration": 3.44
+    },
+    {
+      "text": "He didn't mind though because he thought Cindy was a pretty name",
+      "start": 341.92,
+      "duration": 2.96
+    },
+    {
+      "text": "and whenever he'd tell people that they'd say",
+      "start": 345.08,
+      "duration": 1.7
+    },
+    {
+      "text": "\"OH what a pretty name CINDY is!\"",
+      "start": 346.78,
+      "duration": 1.88
+    },
+    {
+      "text": "Then one day he met a Cindy",
+      "start": 348.92,
+      "duration": 1.68
+    },
+    {
+      "text": "who was a TOTAL BITCH",
+      "start": 350.66,
+      "duration": 1.68
+    },
+    {
+      "text": "The end.",
+      "start": 352.8,
+      "duration": 0.74
+    },
+    {
+      "text": "Danny: .. Wow. Arin.",
+      "start": 354.06,
+      "duration": 1.3
+    },
+    {
+      "text": "Arin: hehe yeah",
+      "start": 355.36,
+      "duration": 0.56
+    },
+    {
+      "text": "Danny: You are helping me CRUSH this shit.",
+      "start": 356.0,
+      "duration": 1.64
+    },
+    {
+      "text": "Um.",
+      "start": 359.52,
+      "duration": 0.5
+    },
+    {
+      "text": "(whispering with great triumph) yes..",
+      "start": 360.94,
+      "duration": 1.06
+    },
+    {
+      "text": "Arin: Yeah killed 'em.",
+      "start": 362.34,
+      "duration": 0.72
+    },
+    {
+      "text": "Danny: Awesome.",
+      "start": 363.06,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Okay so, you wanted to apologize",
+      "start": 363.56,
+      "duration": 2.12
+    },
+    {
+      "text": "Danny: OH YEAH I wanted to apologize",
+      "start": 365.68,
+      "duration": 1.0
+    },
+    {
+      "text": "to uh.. fans that wait for us after the shows?",
+      "start": 366.74,
+      "duration": 3.2
+    },
+    {
+      "text": "Um.",
+      "start": 370.18,
+      "duration": 0.5
+    },
+    {
+      "text": "Sometimes I'll try to do like a running high five",
+      "start": 370.68,
+      "duration": 2.8
+    },
+    {
+      "text": "to everyone if I can?",
+      "start": 373.48,
+      "duration": 1.24
+    },
+    {
+      "text": "I am on, uh, STRICT uh orders from uh",
+      "start": 375.06,
+      "duration": 4.38
+    },
+    {
+      "text": "my voice teacher and vocal doctor",
+      "start": 379.98,
+      "duration": 2.24
+    },
+    {
+      "text": "not to, um,",
+      "start": 382.48,
+      "duration": 1.12
+    },
+    {
+      "text": "Arin: Get sick basically.",
+      "start": 384.56,
+      "duration": 1.62
+    },
+    {
+      "text": "Danny:Well no, but it's- it's more about speaking",
+      "start": 386.18,
+      "duration": 1.9
+    },
+    {
+      "text": "after I sing like that at a show",
+      "start": 388.08,
+      "duration": 1.88
+    },
+    {
+      "text": "Arin: Ohh yeah.",
+      "start": 390.0,
+      "duration": 0.58
+    },
+    {
+      "text": "Danny: 'Cause I'm still like..",
+      "start": 390.58,
+      "duration": 1.32
+    },
+    {
+      "text": "um",
+      "start": 392.04,
+      "duration": 0.5
+    },
+    {
+      "text": "I had- I had all kinds of vocal problems for years",
+      "start": 392.82,
+      "duration": 2.48
+    },
+    {
+      "text": "because I was singing incorrectly",
+      "start": 395.3,
+      "duration": 1.5
+    },
+    {
+      "text": "And I'm like",
+      "start": 397.04,
+      "duration": 0.54
+    },
+    {
+      "text": "I'm essentially in vocal therapy now..",
+      "start": 398.22,
+      "duration": 2.04
+    },
+    {
+      "text": "And..",
+      "start": 400.44,
+      "duration": 0.58
+    },
+    {
+      "text": "I'm way better, like,",
+      "start": 401.44,
+      "duration": 1.16
+    },
+    {
+      "text": "these shows were like much easier",
+      "start": 402.6,
+      "duration": 1.86
+    },
+    {
+      "text": "than - uh..",
+      "start": 404.98,
+      "duration": 0.84
+    },
+    {
+      "text": "Hmm.",
+      "start": 406.16,
+      "duration": 0.5
+    },
+    {
+      "text": "Than I've ever-",
+      "start": 407.06,
+      "duration": 0.84
+    },
+    {
+      "text": "A much easier time than I've ever had performing before.",
+      "start": 408.04,
+      "duration": 2.2
+    },
+    {
+      "text": "Uh singing wise.",
+      "start": 410.9,
+      "duration": 1.12
+    },
+    {
+      "text": "But, that's um",
+      "start": 412.12,
+      "duration": 1.56
+    },
+    {
+      "text": "How do I do this?",
+      "start": 414.88,
+      "duration": 0.64
+    },
+    {
+      "text": "What am I",
+      "start": 415.52,
+      "duration": 0.5
+    },
+    {
+      "text": "What am I missing here",
+      "start": 416.02,
+      "duration": 0.82
+    },
+    {
+      "text": "Arin: Well, I can tell you, um",
+      "start": 417.32,
+      "duration": 2.42
+    },
+    {
+      "text": "while you figure this out-",
+      "start": 419.9,
+      "duration": 1.06
+    },
+    {
+      "text": "I- Ooh",
+      "start": 421.4,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: Ohhh",
+      "start": 421.9,
+      "duration": 0.52
+    },
+    {
+      "text": "Arin: What the fuck",
+      "start": 422.42,
+      "duration": 0.74
+    },
+    {
+      "text": "Danny: I figured it out!",
+      "start": 423.16,
+      "duration": 0.74
+    },
+    {
+      "text": "Arin: How the hell did you figure that out?",
+      "start": 423.9,
+      "duration": 1.44
+    },
+    {
+      "text": "Danny: I just pushed a button.",
+      "start": 425.34,
+      "duration": 1.08
+    },
+    {
+      "text": "woah",
+      "start": 426.66,
+      "duration": 0.5
+    },
+    {
+      "text": "UH so, yeah, so,",
+      "start": 427.16,
+      "duration": 1.3
+    },
+    {
+      "text": "I-it is not that I don't wanna meet you all",
+      "start": 429.28,
+      "duration": 2.06
+    },
+    {
+      "text": "after a show..",
+      "start": 431.34,
+      "duration": 0.96
+    },
+    {
+      "text": "or-or like if- if people were yelling at me",
+      "start": 432.3,
+      "duration": 2.58
+    },
+    {
+      "text": "and I just like jumped onto the bus after like waving or whatever",
+      "start": 434.9,
+      "duration": 2.46
+    },
+    {
+      "text": "like THAT'S the reason",
+      "start": 437.36,
+      "duration": 1.46
+    },
+    {
+      "text": "It's just because I- I am",
+      "start": 438.82,
+      "duration": 1.92
+    },
+    {
+      "text": "I WILL fuck up my voice if I talk too much after shows",
+      "start": 441.36,
+      "duration": 3.62
+    },
+    {
+      "text": "I mean you saw me",
+      "start": 444.98,
+      "duration": 0.76
+    },
+    {
+      "text": "I'd just go to the back of the bus and like breathe steam for a while",
+      "start": 445.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Arin: Yeah.. um",
+      "start": 448.78,
+      "duration": 1.34
+    },
+    {
+      "text": "For me it's- it's similar",
+      "start": 450.26,
+      "duration": 1.68
+    },
+    {
+      "text": "It's um, you might notice I sound a little nasally",
+      "start": 452.24,
+      "duration": 3.28
+    },
+    {
+      "text": "in the last couple episodes",
+      "start": 455.52,
+      "duration": 1.64
+    },
+    {
+      "text": "That's because I went out and met fans",
+      "start": 457.62,
+      "duration": 2.62
+    },
+    {
+      "text": "on one venue.",
+      "start": 460.56,
+      "duration": 0.88
+    },
+    {
+      "text": "Danny: Oh yeah, that's all it takes.",
+      "start": 461.82,
+      "duration": 1.28
+    },
+    {
+      "text": "Arin: And the next day I woke up sick.",
+      "start": 463.16,
+      "duration": 1.52
+    },
+    {
+      "text": "So.. it's- it's a real, true thing",
+      "start": 465.38,
+      "duration": 2.24
+    },
+    {
+      "text": "and a very unfortunate thing because I love meeting people.",
+      "start": 467.86,
+      "duration": 3.14
+    },
+    {
+      "text": "but",
+      "start": 471.0,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: That's how you get sick-",
+      "start": 471.5,
+      "duration": 1.24
+    },
+    {
+      "text": "Arin: Every single tour I've ever been on",
+      "start": 472.74,
+      "duration": 2.1
+    },
+    {
+      "text": "I've gotten sick :(",
+      "start": 474.84,
+      "duration": 0.7
+    },
+    {
+      "text": "Um. And it's just because",
+      "start": 476.24,
+      "duration": 1.64
+    },
+    {
+      "text": "I- y'know?",
+      "start": 477.88,
+      "duration": 0.72
+    },
+    {
+      "text": "You never can tell, like",
+      "start": 478.74,
+      "duration": 1.66
+    },
+    {
+      "text": "you're always shakin' hands, you're always",
+      "start": 480.78,
+      "duration": 1.34
+    },
+    {
+      "text": "givin' hugs and I love doin' that",
+      "start": 482.12,
+      "duration": 1.24
+    },
+    {
+      "text": "but",
+      "start": 483.36,
+      "duration": 0.5
+    },
+    {
+      "text": "it's just it's so tough on my immune system.",
+      "start": 484.34,
+      "duration": 2.3
+    },
+    {
+      "text": "I'm j- I have a weak shitty immune system.",
+      "start": 486.66,
+      "duration": 2.04
+    },
+    {
+      "text": "Danny: HMM",
+      "start": 488.7,
+      "duration": 0.72
+    },
+    {
+      "text": "Godammit why does every..",
+      "start": 490.1,
+      "duration": 1.36
+    },
+    {
+      "text": "Arin: I am straight up Bubble Boy, man.",
+      "start": 491.46,
+      "duration": 1.94
+    },
+    {
+      "text": "Danny: tchh",
+      "start": 493.88,
+      "duration": 0.8
+    },
+    {
+      "text": "Snurglez: (flying noises)",
+      "start": 494.68,
+      "duration": 0.86
+    },
+    {
+      "text": "Danny: Does it have something to do with this...?",
+      "start": 495.54,
+      "duration": 1.9
+    },
+    {
+      "text": "Arin: I mean it's gotta, right?",
+      "start": 497.44,
+      "duration": 1.84
+    },
+    {
+      "text": "Danny: Umm..",
+      "start": 500.2,
+      "duration": 0.88
+    },
+    {
+      "text": "I",
+      "start": 501.9,
+      "duration": 0.5
+    },
+    {
+      "text": "I cannot understand what I'm missing here.",
+      "start": 502.54,
+      "duration": 1.68
+    },
+    {
+      "text": "Can you help me out with this..?",
+      "start": 505.3,
+      "duration": 1.26
+    },
+    {
+      "text": "Arin: uHM",
+      "start": 507.02,
+      "duration": 0.52
+    },
+    {
+      "text": "Danny: Goombella, I don't even remember",
+      "start": 507.54,
+      "duration": 1.3
+    },
+    {
+      "text": "what you look like",
+      "start": 508.84,
+      "duration": 0.86
+    },
+    {
+      "text": "Arin: Le- lemme- hehehe",
+      "start": 509.7,
+      "duration": 0.78
+    },
+    {
+      "text": "Danny: Wh- uhh",
+      "start": 510.68,
+      "duration": 0.72
+    },
+    {
+      "text": "Arin: Let me rack my brain",
+      "start": 512.32,
+      "duration": 1.5
+    },
+    {
+      "text": "Danny: OH I got it I got it I got it",
+      "start": 513.82,
+      "duration": 0.9
+    },
+    {
+      "text": "Arin: Oh there you go.",
+      "start": 514.72,
+      "duration": 0.62
+    },
+    {
+      "text": "Danny: Okay.",
+      "start": 515.42,
+      "duration": 0.62
+    },
+    {
+      "text": "Oh I-",
+      "start": 517.14,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: How the fuck would you ever",
+      "start": 517.86,
+      "duration": 1.1
+    },
+    {
+      "text": "even even even?",
+      "start": 518.96,
+      "duration": 1.4
+    },
+    {
+      "text": "Danny: I mean there's only so many things you can do, right?",
+      "start": 520.36,
+      "duration": 2.02
+    },
+    {
+      "text": "Arin: I guess so..",
+      "start": 522.38,
+      "duration": 0.88
+    },
+    {
+      "text": "Danny: ..And there's a- there's a pound DOWN",
+      "start": 523.88,
+      "duration": 1.9
+    },
+    {
+      "text": "..thing.. isn't there?",
+      "start": 525.78,
+      "duration": 0.68
+    },
+    {
+      "text": "Arin: Uhh yeah! It's just with Mario though isn't it?",
+      "start": 527.16,
+      "duration": 2.4
+    },
+    {
+      "text": "Danny: Oh maybe it is.",
+      "start": 529.82,
+      "duration": 0.82
+    },
+    {
+      "text": "Oh look at that :O",
+      "start": 530.9,
+      "duration": 0.72
+    },
+    {
+      "text": "Arin: Just the ground pound",
+      "start": 531.8,
+      "duration": 0.92
+    },
+    {
+      "text": "Typical-",
+      "start": 532.84,
+      "duration": 0.56
+    },
+    {
+      "text": "Typical Mario style ground-pound.",
+      "start": 533.4,
+      "duration": 1.9
+    },
+    {
+      "text": "Danny: Excuse me",
+      "start": 535.3,
+      "duration": 0.5
+    },
+    {
+      "text": "No! :(",
+      "start": 537.08,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Pound that ground, baby",
+      "start": 537.9,
+      "duration": 0.98
+    },
+    {
+      "text": "Pound that shit.",
+      "start": 539.08,
+      "duration": 0.72
+    },
+    {
+      "text": "It's one of the R's or L's",
+      "start": 540.58,
+      "duration": 1.08
+    },
+    {
+      "text": "Isn't it?",
+      "start": 541.66,
+      "duration": 0.56
+    },
+    {
+      "text": "when you're up in the air..?",
+      "start": 543.9,
+      "duration": 1.14
+    },
+    {
+      "text": "Danny: God there's so many buttons",
+      "start": 546.08,
+      "duration": 1.4
+    },
+    {
+      "text": "Arin: It's like.. mid-jump.",
+      "start": 547.48,
+      "duration": 1.14
+    },
+    {
+      "text": "Danny: Mmmm >:(",
+      "start": 549.14,
+      "duration": 0.76
+    },
+    {
+      "text": "Arin: There you go.",
+      "start": 550.74,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: There we- I did it!",
+      "start": 551.24,
+      "duration": 1.18
+    },
+    {
+      "text": "It's both buttons.",
+      "start": 552.8,
+      "duration": 0.9
+    },
+    {
+      "text": "Arin: WooOAHHH DUDE",
+      "start": 553.7,
+      "duration": 1.66
+    },
+    {
+      "text": "Danny: Look how far back I am",
+      "start": 555.52,
+      "duration": 1.32
+    },
+    {
+      "text": "Arin: (Grubba style) You gotta jump over that rock",
+      "start": 556.94,
+      "duration": 0.98
+    },
+    {
+      "text": "nice and quicklyyy",
+      "start": 558.18,
+      "duration": 1.04
+    },
+    {
+      "text": "Oh you can't do it",
+      "start": 559.42,
+      "duration": 0.9
+    },
+    {
+      "text": "OHH MY GODDD",
+      "start": 561.14,
+      "duration": 2.2
+    },
+    {
+      "text": "Danny: Holy",
+      "start": 563.4,
+      "duration": 0.58
+    },
+    {
+      "text": "fucking shizz.",
+      "start": 564.02,
+      "duration": 0.98
+    },
+    {
+      "text": "Arin: How the fucking SHIT",
+      "start": 565.86,
+      "duration": 1.36
+    },
+    {
+      "text": "this is the weirdest god damn level.",
+      "start": 567.54,
+      "duration": 2.02
+    },
+    {
+      "text": "Danny: Yeah this is apples and bananas right now.",
+      "start": 569.56,
+      "duration": 2.22
+    },
+    {
+      "text": "Arin: (weak burp) what is that..?",
+      "start": 572.6,
+      "duration": 0.6
+    },
+    {
+      "text": "Danny: Yeah",
+      "start": 573.54,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Apples and banay-nays?",
+      "start": 574.04,
+      "duration": 0.58
+    },
+    {
+      "text": "Danny: HAH",
+      "start": 574.78,
+      "duration": 0.5
+    },
+    {
+      "text": "hOH",
+      "start": 575.28,
+      "duration": 0.5
+    },
+    {
+      "text": "Fuck you.",
+      "start": 576.02,
+      "duration": 0.64
+    },
+    {
+      "text": "Arin: Apples and Bano-nos?",
+      "start": 576.88,
+      "duration": 1.74
+    },
+    {
+      "text": "Danny: Yes. Upples and Banu-nus?",
+      "start": 578.62,
+      "duration": 1.98
+    },
+    {
+      "text": "Arin: Ayples and Banay-nays?",
+      "start": 581.42,
+      "duration": 1.14
+    },
+    {
+      "text": "(Careful with the copyright guys)",
+      "start": 582.56,
+      "duration": 1.2
+    },
+    {
+      "text": "Danny: Ohh we made it to the Creepy Steeple.",
+      "start": 583.76,
+      "duration": 1.9
+    },
+    {
+      "text": "Arin: That's as creepy a steeple I've ever seen",
+      "start": 585.66,
+      "duration": 2.02
+    },
+    {
+      "text": "Danny: It's kinda pretty actually",
+      "start": 587.68,
+      "duration": 0.98
+    },
+    {
+      "text": "Arin: It's a steepy creeple!",
+      "start": 588.66,
+      "duration": 0.7
+    },
+    {
+      "text": "Danny: Yeah.",
+      "start": 589.36,
+      "duration": 0.5
+    },
+    {
+      "text": "Uhh.",
+      "start": 590.7,
+      "duration": 0.64
+    },
+    {
+      "text": "Arin: Stevie Meeple",
+      "start": 591.92,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Yeah, this is Creepy Steeple-\"",
+      "start": 592.42,
+      "duration": 1.32
+    },
+    {
+      "text": "Danny: Oh that's right I just gave him the normal..",
+      "start": 594.44,
+      "duration": 1.72
+    },
+    {
+      "text": "\"Yeah this is Creepy Steeple.",
+      "start": 596.6,
+      "duration": 1.26
+    },
+    {
+      "text": "That nasty monster's place...",
+      "start": 597.92,
+      "duration": 1.5
+    },
+    {
+      "text": "This place wigs me out.",
+      "start": 599.42,
+      "duration": 0.84
+    },
+    {
+      "text": "Danny: \"Look Gonzales-\"",
+      "start": 601.26,
+      "duration": 0.74
+    },
+    {
+      "text": "Arin: Bap bap bap bap bap",
+      "start": 602.0,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"let's just get that Crystal Star",
+      "start": 602.72,
+      "duration": 1.12
+    },
+    {
+      "text": "and get out of here... fast.\"",
+      "start": 603.88,
+      "duration": 1.6
+    },
+    {
+      "text": "Mario: Okay, Hi!",
+      "start": 605.88,
+      "duration": 0.96
+    },
+    {
+      "text": "Danny: Yeah it's like",
+      "start": 606.84,
+      "duration": 0.66
+    },
+    {
+      "text": "if you mean by fast, uh,",
+      "start": 607.56,
+      "duration": 1.54
+    },
+    {
+      "text": "Fuckin'..",
+      "start": 609.1,
+      "duration": 0.7
+    },
+    {
+      "text": "TEN episodes then YEAH",
+      "start": 609.8,
+      "duration": 1.44
+    },
+    {
+      "text": "This is gonna be fast as shit",
+      "start": 611.46,
+      "duration": 0.96
+    },
+    {
+      "text": "Arin: Yeah",
+      "start": 612.42,
+      "duration": 0.5
+    },
+    {
+      "text": "as quickly as possible.",
+      "start": 613.14,
+      "duration": 1.32
+    },
+    {
+      "text": "Danny: Nice.",
+      "start": 615.0,
+      "duration": 0.54
+    },
+    {
+      "text": "Arin: It'll take another twenty episodes but",
+      "start": 615.64,
+      "duration": 1.06
+    },
+    {
+      "text": "i-it's fine",
+      "start": 617.0,
+      "duration": 0.54
+    },
+    {
+      "text": "Danny: It's gonna be sweet.",
+      "start": 617.54,
+      "duration": 0.68
+    },
+    {
+      "text": "Arin: Yeah. We'll just turn it into a",
+      "start": 618.36,
+      "duration": 0.96
+    },
+    {
+      "text": "best of compilation",
+      "start": 619.32,
+      "duration": 0.94
+    },
+    {
+      "text": "48 minute long best of compilation.",
+      "start": 620.92,
+      "duration": 1.78
+    },
+    {
+      "text": "Danny: Do not touch the mormory card in shlot A",
+      "start": 622.92,
+      "duration": 2.76
+    },
+    {
+      "text": "Arin: WELL don't tell me what to do alright",
+      "start": 625.68,
+      "duration": 1.58
+    },
+    {
+      "text": "I'll do whatever I want",
+      "start": 627.3,
+      "duration": 0.72
+    },
+    {
+      "text": "I'll touch whatever fucking memory card I FEEL.",
+      "start": 628.02,
+      "duration": 1.7
+    },
+    {
+      "text": "Danny: cool.",
+      "start": 629.96,
+      "duration": 0.5
+    },
+    {
+      "text": "\"Lame, it won't open!\"",
+      "start": 630.78,
+      "duration": 1.3
+    },
+    {
+      "text": "Arin: Hyeah..",
+      "start": 632.24,
+      "duration": 0.6
+    },
+    {
+      "text": "hyeah",
+      "start": 633.98,
+      "duration": 0.5
+    },
+    {
+      "text": "I guess it won't, huh.",
+      "start": 635.16,
+      "duration": 1.14
+    },
+    {
+      "text": "Tch. Huh.",
+      "start": 637.26,
+      "duration": 0.58
+    },
+    {
+      "text": "Danny: Oh!",
+      "start": 638.34,
+      "duration": 0.5
+    },
+    {
+      "text": "Okay. Uh- oh",
+      "start": 639.32,
+      "duration": 1.02
+    },
+    {
+      "text": "What is this.",
+      "start": 640.58,
+      "duration": 0.88
+    },
+    {
+      "text": "The rolly..",
+      "start": 641.54,
+      "duration": 0.9
+    },
+    {
+      "text": "There we go.",
+      "start": 643.24,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Oh nice.",
+      "start": 643.74,
+      "duration": 0.98
+    },
+    {
+      "text": "That makes sense, you just learned it so obviously you' d be using it a lot",
+      "start": 645.22,
+      "duration": 3.28
+    },
+    {
+      "text": "Danny: But ofcyourse!",
+      "start": 648.5,
+      "duration": 1.08
+    },
+    {
+      "text": "Arin: So go inside ze door..",
+      "start": 650.2,
+      "duration": 1.48
+    },
+    {
+      "text": "Danny: It's gonna be great!",
+      "start": 651.68,
+      "duration": 0.78
+    },
+    {
+      "text": "Oh and a special shout out to Orlando",
+      "start": 652.46,
+      "duration": 1.78
+    },
+    {
+      "text": "for throwing uh.. 75 bras on stage.",
+      "start": 654.96,
+      "duration": 3.3
+    },
+    {
+      "text": "Arin: Oh shit.",
+      "start": 658.26,
+      "duration": 0.96
+    },
+    {
+      "text": "Yeah, I helped pick up a lot of them.",
+      "start": 660.08,
+      "duration": 1.22
+    },
+    {
+      "text": "Danny: Yeah, uh",
+      "start": 661.36,
+      "duration": 1.0
+    },
+    {
+      "text": "up until recently Chicago,",
+      "start": 662.36,
+      "duration": 2.02
+    },
+    {
+      "text": "The Aragon Ballroom had held the record",
+      "start": 664.38,
+      "duration": 2.12
+    },
+    {
+      "text": "for uh.. Most bras thrown on stage by women with 11",
+      "start": 666.62,
+      "duration": 4.22
+    },
+    {
+      "text": "Arin: yes",
+      "start": 670.92,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: And then uh, Orlando",
+      "start": 671.52,
+      "duration": 1.3
+    },
+    {
+      "text": "Boy they really took it upon themselves to uh",
+      "start": 673.38,
+      "duration": 2.16
+    },
+    {
+      "text": "up the ante a little bit",
+      "start": 675.96,
+      "duration": 1.26
+    },
+    {
+      "text": "Arin: Oh yeah.",
+      "start": 677.22,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: And I just like a- I can't describe",
+      "start": 677.82,
+      "duration": 1.84
+    },
+    {
+      "text": "to you what it was like looking on stage cause",
+      "start": 679.66,
+      "duration": 2.62
+    },
+    {
+      "text": "no one could throw the bras like from the back",
+      "start": 682.3,
+      "duration": 1.96
+    },
+    {
+      "text": "all the way up?",
+      "start": 684.26,
+      "duration": 0.84
+    },
+    {
+      "text": "so like",
+      "start": 685.44,
+      "duration": 0.5
+    },
+    {
+      "text": "they would be thrown and then caught",
+      "start": 686.14,
+      "duration": 1.6
+    },
+    {
+      "text": "by someone ahead of them",
+      "start": 687.74,
+      "duration": 1.44
+    },
+    {
+      "text": "Arin: And we were- we were like",
+      "start": 689.58,
+      "duration": 1.46
+    },
+    {
+      "text": "obviously we were looking into the audience?",
+      "start": 691.26,
+      "duration": 1.94
+    },
+    {
+      "text": "Danny: Yeah- so it was just WAVES of bras",
+      "start": 693.2,
+      "duration": 2.38
+    },
+    {
+      "text": "flying at us.",
+      "start": 695.58,
+      "duration": 0.88
+    },
+    {
+      "text": "\"My friends are all gone I'm so very lonely.\"",
+      "start": 696.96,
+      "duration": 1.96
+    },
+    {
+      "text": "Arin: I didn't see one person",
+      "start": 699.3,
+      "duration": 1.04
+    },
+    {
+      "text": "Danny: Alright good door-",
+      "start": 700.34,
+      "duration": 0.66
+    },
+    {
+      "text": "good door opening.",
+      "start": 701.24,
+      "duration": 0.74
+    },
+    {
+      "text": "Arin: Heh heh",
+      "start": 702.24,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: Okay.",
+      "start": 702.92,
+      "duration": 0.66
+    },
+    {
+      "text": "Arin: I didn't see one person",
+      "start": 703.64,
+      "duration": 1.02
+    },
+    {
+      "text": "ever actually TAKE OFF a bra",
+      "start": 704.66,
+      "duration": 1.94
+    },
+    {
+      "text": "Danny: No- well",
+      "start": 706.78,
+      "duration": 0.62
+    },
+    {
+      "text": "Arin: We just they just we just",
+      "start": 707.4,
+      "duration": 1.04
+    },
+    {
+      "text": "saw bras..",
+      "start": 708.66,
+      "duration": 1.28
+    },
+    {
+      "text": "Danny: W-Yeah. Ladies are good at that",
+      "start": 709.94,
+      "duration": 1.9
+    },
+    {
+      "text": "Arin: Um",
+      "start": 712.6,
+      "duration": 0.56
+    },
+    {
+      "text": "So that's great.",
+      "start": 713.16,
+      "duration": 0.72
+    },
+    {
+      "text": "Danny: Oh it was fuckin' hilarious",
+      "start": 714.24,
+      "duration": 1.46
+    },
+    {
+      "text": "Oh but le-lemme just say-",
+      "start": 717.1,
+      "duration": 1.12
+    },
+    {
+      "text": "(Interrupts self) Ice smash..",
+      "start": 718.22,
+      "duration": 0.96
+    },
+    {
+      "text": "I'm going to uh",
+      "start": 719.96,
+      "duration": 0.86
+    },
+    {
+      "text": "Arin: You smash?",
+      "start": 720.82,
+      "duration": 0.6
+    },
+    {
+      "text": "Danny: I'm going to say.. um",
+      "start": 722.14,
+      "duration": 1.48
+    },
+    {
+      "text": "Oh a cookbook:)",
+      "start": 724.4,
+      "duration": 0.56
+    },
+    {
+      "text": "Maitre Delish!",
+      "start": 725.98,
+      "duration": 0.96
+    },
+    {
+      "text": "Arin: haha!",
+      "start": 727.86,
+      "duration": 0.62
+    },
+    {
+      "text": "Aaand there you go.",
+      "start": 730.36,
+      "duration": 1.28
+    },
+    {
+      "text": "Danny: Yeahhh I did it",
+      "start": 731.64,
+      "duration": 1.1
+    },
+    {
+      "text": "Arin: I know you were trying hard",
+      "start": 732.8,
+      "duration": 0.9
+    },
+    {
+      "text": "and you did your best",
+      "start": 733.7,
+      "duration": 0.54
+    },
+    {
+      "text": "Danny: Collecting these will help",
+      "start": 734.24,
+      "duration": 0.82
+    },
+    {
+      "text": "OH YEAH",
+      "start": 735.06,
+      "duration": 0.5
+    },
+    {
+      "text": "I can upgrade characters right",
+      "start": 735.56,
+      "duration": 1.1
+    },
+    {
+      "text": "with my shine sprites?",
+      "start": 736.66,
+      "duration": 0.6
+    },
+    {
+      "text": "Arin: Yeah dude",
+      "start": 737.28,
+      "duration": 0.52
+    },
+    {
+      "text": "Danny: That's what someone was telling me.",
+      "start": 738.14,
+      "duration": 0.8
+    },
+    {
+      "text": "Arin: Chyeah dude.",
+      "start": 738.94,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: Ch- heh. Chyeah dude",
+      "start": 740.14,
+      "duration": 0.9
+    },
+    {
+      "text": "Arin: I mean I was just going along with you",
+      "start": 741.36,
+      "duration": 1.12
+    },
+    {
+      "text": "I don't know one way or another.",
+      "start": 742.48,
+      "duration": 1.12
+    },
+    {
+      "text": "Danny: Yeah,",
+      "start": 743.6,
+      "duration": 0.5
+    },
+    {
+      "text": "I'll do that at some point soon",
+      "start": 744.1,
+      "duration": 1.9
+    },
+    {
+      "text": "Arin: Okay cool.",
+      "start": 746.0,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: But yeah",
+      "start": 746.5,
+      "duration": 0.76
+    },
+    {
+      "text": "lemme just say uh",
+      "start": 747.54,
+      "duration": 1.02
+    },
+    {
+      "text": "let's- let's keep the bra contest at that.",
+      "start": 748.68,
+      "duration": 2.52
+    },
+    {
+      "text": "Because uh..",
+      "start": 751.72,
+      "duration": 0.88
+    },
+    {
+      "text": "Like.",
+      "start": 753.44,
+      "duration": 0.5
+    },
+    {
+      "text": "We c- if we go anywhere further from here",
+      "start": 754.76,
+      "duration": 2.42
+    },
+    {
+      "text": "like.",
+      "start": 757.56,
+      "duration": 0.5
+    },
+    {
+      "text": "It's just gonna be someone like",
+      "start": 758.64,
+      "duration": 2.08
+    },
+    {
+      "text": "bringing a fuckin dump truck filled with bras to a future show",
+      "start": 761.06,
+      "duration": 2.94
+    },
+    {
+      "text": "and just",
+      "start": 764.0,
+      "duration": 0.56
+    },
+    {
+      "text": "L-",
+      "start": 765.3,
+      "duration": 0.5
+    },
+    {
+      "text": "like leaving 'em all on",
+      "start": 766.08,
+      "duration": 1.16
+    },
+    {
+      "text": "so we should-",
+      "start": 767.82,
+      "duration": 0.58
+    },
+    {
+      "text": "Arin: Yeah",
+      "start": 768.62,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: Let's put an end to the bra thing",
+      "start": 769.24,
+      "duration": 1.22
+    },
+    {
+      "text": "Arin: That was- that was the one thing that was uh",
+      "start": 770.66,
+      "duration": 2.42
+    },
+    {
+      "text": "that was um",
+      "start": 773.98,
+      "duration": 0.92
+    },
+    {
+      "text": "odd about that whole situation",
+      "start": 776.02,
+      "duration": 1.54
+    },
+    {
+      "text": "'cause maybe about 7 of the bras were intended to be on stage",
+      "start": 777.6,
+      "duration": 4.2
+    },
+    {
+      "text": "Danny: Oh yeah no, most of them were just whipped off",
+      "start": 782.1,
+      "duration": 2.3
+    },
+    {
+      "text": "Arin: Yeah.",
+      "start": 784.42,
+      "duration": 0.7
+    },
+    {
+      "text": "Danny: It was- it was hot I can't lie to you.",
+      "start": 785.12,
+      "duration": 2.06
+    },
+    {
+      "text": "Arin: It was it wah th- uh",
+      "start": 787.18,
+      "duration": 0.9
+    },
+    {
+      "text": "Danny: It was exciting.",
+      "start": 788.08,
+      "duration": 0.54
+    },
+    {
+      "text": "Arin: Everyone was goin' free and easy that night that's for sure",
+      "start": 788.62,
+      "duration": 2.32
+    },
+    {
+      "text": "Danny: Yeah yeah heh it was a lot of flyin' free.",
+      "start": 790.94,
+      "duration": 1.76
+    },
+    {
+      "text": "Arin: And you're on the spring.",
+      "start": 794.04,
+      "duration": 0.94
+    },
+    {
+      "text": "Danny: Oh wow look at this.",
+      "start": 794.98,
+      "duration": 1.06
+    },
+    {
+      "text": "Arin: Nicely done.",
+      "start": 796.04,
+      "duration": 0.58
+    },
+    {
+      "text": "Danny: And that'll just bring me back up",
+      "start": 796.74,
+      "duration": 1.4
+    },
+    {
+      "text": "Arin: Right on!",
+      "start": 798.14,
+      "duration": 0.68
+    },
+    {
+      "text": "Danny: Okay. Noted, noted.",
+      "start": 798.82,
+      "duration": 1.34
+    },
+    {
+      "text": "Arin: You are learning things..",
+      "start": 800.18,
+      "duration": 1.24
+    },
+    {
+      "text": "Danny: Just checkin and learnin",
+      "start": 801.42,
+      "duration": 0.86
+    },
+    {
+      "text": "Arin: ..One by one",
+      "start": 802.28,
+      "duration": 0.62
+    },
+    {
+      "text": "About this creepy haunted mansion",
+      "start": 802.92,
+      "duration": 1.42
+    },
+    {
+      "text": "The Steepy Creeple.",
+      "start": 804.34,
+      "duration": 0.84
+    },
+    {
+      "text": "the Creepy Steeple.",
+      "start": 805.98,
+      "duration": 0.54
+    },
+    {
+      "text": "Danny: That is one Steepy Creeple.",
+      "start": 806.52,
+      "duration": 1.76
+    },
+    {
+      "text": "Arin: Open the box, what do you find?",
+      "start": 809.18,
+      "duration": 1.2
+    },
+    {
+      "text": "heheh, s-uh you're in a bind!",
+      "start": 810.44,
+      "duration": 1.94
+    },
+    {
+      "text": "Danny: (Giggling)",
+      "start": 812.38,
+      "duration": 1.16
+    },
+    {
+      "text": "Arin: Oh no I'm- you're losing your mind!",
+      "start": 813.54,
+      "duration": 1.44
+    },
+    {
+      "text": "Danny:The unending waves of the damned! :D",
+      "start": 814.98,
+      "duration": 1.22
+    },
+    {
+      "text": "(Arin chuckles)",
+      "start": 816.28,
+      "duration": 0.88
+    },
+    {
+      "text": "Holy shit that was a lot of ghosts",
+      "start": 818.08,
+      "duration": 1.52
+    },
+    {
+      "text": "Danny: \"Okay it's quiz time interloper!\"",
+      "start": 820.88,
+      "duration": 1.94
+    },
+    {
+      "text": "(Arin guffaws)",
+      "start": 822.82,
+      "duration": 0.84
+    },
+    {
+      "text": "Danny: \"Just now when the box opened,",
+      "start": 824.04,
+      "duration": 1.22
+    },
+    {
+      "text": "how many of us boos came out-?\"",
+      "start": 825.26,
+      "duration": 1.04
+    },
+    {
+      "text": "Arin: OHH GOD",
+      "start": 826.32,
+      "duration": 1.38
+    },
+    {
+      "text": "Danny: Jeez.",
+      "start": 827.7,
+      "duration": 0.68
+    },
+    {
+      "text": "Arin: That was way more than 50.",
+      "start": 828.38,
+      "duration": 1.14
+    },
+    {
+      "text": "Danny: Yeah, I'm gonna say 100",
+      "start": 829.52,
+      "duration": 0.7
+    },
+    {
+      "text": "\"Too bad foolish mortal, the correct answer was 200.\"",
+      "start": 831.86,
+      "duration": 2.1
+    },
+    {
+      "text": "\"But we'll send you home with this parting gift.\"",
+      "start": 834.8,
+      "duration": 1.46
+    },
+    {
+      "text": "Arin: ugh",
+      "start": 836.34,
+      "duration": 0.5
+    },
+    {
+      "text": "Pbbt",
+      "start": 837.18,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"see ya sucker!\"",
+      "start": 837.98,
+      "duration": 0.64
+    },
+    {
+      "text": "Arin: Damn he just diarrhea'd out that coin no problem.",
+      "start": 838.84,
+      "duration": 1.96
+    },
+    {
+      "text": "Danny: Yeah, I'll take it.",
+      "start": 840.8,
+      "duration": 0.74
+    },
+    {
+      "text": "Arin: Nice.",
+      "start": 842.46,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: I wonder what I would've gotten if I'd gotten it right.",
+      "start": 842.96,
+      "duration": 1.32
+    },
+    {
+      "text": "Arin: Uh, I don't know.",
+      "start": 845.36,
+      "duration": 0.74
+    },
+    {
+      "text": "it's locked from the inside.",
+      "start": 846.3,
+      "duration": 1.1
+    },
+    {
+      "text": "But I bet that boo's all happy now.",
+      "start": 847.64,
+      "duration": 2.0
+    },
+    {
+      "text": "Um.",
+      "start": 850.34,
+      "duration": 0.5
+    },
+    {
+      "text": "Oh you know what?",
+      "start": 851.14,
+      "duration": 1.12
+    },
+    {
+      "text": "And..",
+      "start": 852.34,
+      "duration": 0.5
+    },
+    {
+      "text": "Lot of people don't know this but",
+      "start": 854.06,
+      "duration": 1.7
+    },
+    {
+      "text": "Ninja Brian, whenever someone throws their bra",
+      "start": 855.76,
+      "duration": 2.5
+    },
+    {
+      "text": "on stage Ninja Brian likes to put them down his pants",
+      "start": 858.26,
+      "duration": 2.24
+    },
+    {
+      "text": "Arin: Yes.",
+      "start": 860.5,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: And so he had quite uhh a task in front of him",
+      "start": 861.0,
+      "duration": 3.86
+    },
+    {
+      "text": "Arin: Oh yes.",
+      "start": 864.86,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: To uh.. put 70+ bras down his pants",
+      "start": 865.36,
+      "duration": 3.58
+    },
+    {
+      "text": "um..",
+      "start": 869.34,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Quite the display..",
+      "start": 869.84,
+      "duration": 0.96
+    },
+    {
+      "text": "Danny: Yeah and so let's put up a picture!",
+      "start": 870.8,
+      "duration": 1.66
+    },
+    {
+      "text": "Matt and Ryan- BOOM!",
+      "start": 872.88,
+      "duration": 0.94
+    },
+    {
+      "text": "There's Ninja Brian with all the bras in his pants.",
+      "start": 873.84,
+      "duration": 1.74
+    },
+    {
+      "text": "Arin: wrowww",
+      "start": 875.58,
+      "duration": 0.52
+    },
+    {
+      "text": "Danny: What a time.",
+      "start": 876.26,
+      "duration": 0.6
+    },
+    {
+      "text": "what a time",
+      "start": 876.94,
+      "duration": 0.68
+    },
+    {
+      "text": "Arin: Yeah it looks like he has a horrible disease.",
+      "start": 878.34,
+      "duration": 2.46
+    },
+    {
+      "text": "Danny: Thank you for going-",
+      "start": 880.8,
+      "duration": 0.82
+    },
+    {
+      "text": "yeah it does",
+      "start": 881.62,
+      "duration": 0.68
+    },
+    {
+      "text": "elephantitus don't even get me started..",
+      "start": 882.78,
+      "duration": 1.86
+    },
+    {
+      "text": "Arin: heh don't even get me started.",
+      "start": 884.64,
+      "duration": 1.24
+    },
+    {
+      "text": "Danny: A flower saver!",
+      "start": 885.98,
+      "duration": 1.18
+    },
+    {
+      "text": "Arin: mm.",
+      "start": 887.78,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: Mm!",
+      "start": 888.28,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: That sounds delicious.",
+      "start": 889.08,
+      "duration": 1.24
+    },
+    {
+      "text": "Delightful.",
+      "start": 890.6,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: Um but yeah thanks for coming to those shows everybody",
+      "start": 891.1,
+      "duration": 3.38
+    },
+    {
+      "text": "and uh,",
+      "start": 894.58,
+      "duration": 0.68
+    },
+    {
+      "text": "please continue to come to them cause like,",
+      "start": 895.46,
+      "duration": 2.42
+    },
+    {
+      "text": "we're havin' a blast and they're amazing",
+      "start": 897.88,
+      "duration": 2.16
+    },
+    {
+      "text": "and I think we'll just play bigger venues in new cities",
+      "start": 900.74,
+      "duration": 2.6
+    },
+    {
+      "text": "and it's gonna be unreal.",
+      "start": 903.34,
+      "duration": 1.46
+    },
+    {
+      "text": "Arin: Yeah so hopefully a lot of people can go",
+      "start": 904.8,
+      "duration": 1.56
+    },
+    {
+      "text": "I know a lot of people weren't able to get in, so",
+      "start": 906.36,
+      "duration": 1.94
+    },
+    {
+      "text": "Danny: I'm ex-cited!",
+      "start": 908.3,
+      "duration": 0.9
+    },
+    {
+      "text": "Arin: Hopefully the bigger venues will let people- more people get in.",
+      "start": 909.2,
+      "duration": 2.18
+    },
+    {
+      "text": "Ugh",
+      "start": 912.12,
+      "duration": 0.5
+    },
+    {
+      "text": "\"Are you going to be mean to me?\"",
+      "start": 912.84,
+      "duration": 1.46
+    },
+    {
+      "text": "Danny: Yes.",
+      "start": 914.3,
+      "duration": 0.58
+    },
+    {
+      "text": "Arin: I don't know",
+      "start": 914.88,
+      "duration": 0.88
+    },
+    {
+      "text": "that's up to you.",
+      "start": 915.78,
+      "duration": 0.64
+    },
+    {
+      "text": "Danny: I like my victims to really know what's coming.",
+      "start": 916.42,
+      "duration": 1.98
+    },
+    {
+      "text": "No.",
+      "start": 919.38,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"PROMISE?!? AH HAH HAH\"",
+      "start": 920.72,
+      "duration": 1.96
+    },
+    {
+      "text": "heh \"come on out guys!\"",
+      "start": 923.2,
+      "duration": 1.68
+    },
+    {
+      "text": "Oh you should've said yes!",
+      "start": 925.26,
+      "duration": 1.04
+    },
+    {
+      "text": "ohhhHH lord have mercy",
+      "start": 927.5,
+      "duration": 2.76
+    },
+    {
+      "text": "Danny: Huh.",
+      "start": 930.58,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Are they-",
+      "start": 932.12,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: Well then.",
+      "start": 932.62,
+      "duration": 0.56
+    },
+    {
+      "text": "Arin: Oh god.",
+      "start": 933.18,
+      "duration": 1.0
+    },
+    {
+      "text": "This is a nightmare.",
+      "start": 934.52,
+      "duration": 1.14
+    },
+    {
+      "text": "Arin: That's spooktacular.",
+      "start": 935.8,
+      "duration": 1.08
+    },
+    {
+      "text": "Oh ho ho mwahaha hehehe",
+      "start": 938.58,
+      "duration": 4.64
+    },
+    {
+      "text": "Is that supposed to be 'scary'?",
+      "start": 943.7,
+      "duration": 1.28
+    },
+    {
+      "text": "Danny: I don't know, I think they're being friendly.",
+      "start": 945.16,
+      "duration": 1.22
+    },
+    {
+      "text": "Arin: Oh shit they're taking you!",
+      "start": 946.4,
+      "duration": 1.68
+    },
+    {
+      "text": "Danny: Okay!",
+      "start": 948.08,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: They're taking you!",
+      "start": 948.8,
+      "duration": 1.2
+    },
+    {
+      "text": "Danny: haha Okay!",
+      "start": 950.0,
+      "duration": 0.5
+    },
+    {
+      "text": "Oh those bastards.",
+      "start": 951.0,
+      "duration": 1.22
+    },
+    {
+      "text": "(Arin noise)",
+      "start": 952.88,
+      "duration": 0.5
+    },
+    {
+      "text": "Alright!",
+      "start": 953.4,
+      "duration": 0.54
+    },
+    {
+      "text": "Next time on fucking Game Grumps,",
+      "start": 954.52,
+      "duration": 1.04
+    },
+    {
+      "text": "I'm gonna be mean to those assholes.",
+      "start": 955.56,
+      "duration": 1.5
+    },
+    {
+      "text": "Arin: You got it.",
+      "start": 957.06,
+      "duration": 0.56
+    },
+    {
+      "text": "Danny: I'm gonna be mean as fuck to them.",
+      "start": 958.16,
+      "duration": 1.24
+    },
+    {
+      "text": "Arin: You got it!",
+      "start": 959.42,
+      "duration": 0.72
+    },
+    {
+      "text": "Danny: oh my god",
+      "start": 962.1,
+      "duration": 1.04
+    },
+    {
+      "text": "That's what I get.",
+      "start": 963.14,
+      "duration": 1.0
+    },
+    {
+      "text": "That's what I get!",
+      "start": 964.14,
+      "duration": 0.66
+    },
+    {
+      "text": "That's what I get for being a delightful dude!",
+      "start": 965.06,
+      "duration": 1.68
+    },
+    {
+      "text": "(Grumps snickering)",
+      "start": 967.0,
+      "duration": 1.44
+    }
+  ]
+}

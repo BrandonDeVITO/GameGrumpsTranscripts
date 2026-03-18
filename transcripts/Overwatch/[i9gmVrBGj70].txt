@@ -1,0 +1,1718 @@
+{
+  "video_id": "i9gmVrBGj70",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Arin: Hey I'm Grump",
+      "start": 0.0,
+      "duration": 0.88
+    },
+    {
+      "text": "Dan: I'm Not So Grump",
+      "start": 0.88,
+      "duration": 1.48
+    },
+    {
+      "text": "Both: And we're the Game Grumps!",
+      "start": 2.36,
+      "duration": 2.1
+    },
+    {
+      "text": "Arin: Hey, welcome back to Game Grumps!",
+      "start": 5.62,
+      "duration": 1.2
+    },
+    {
+      "text": "Dan: Hello,welcome back!",
+      "start": 6.82,
+      "duration": 0.96
+    },
+    {
+      "text": "Arin: This is another edition of Dan Learns Overwatch",
+      "start": 7.84,
+      "duration": 2.72
+    },
+    {
+      "text": "Dan: The shitshow, part two",
+      "start": 10.56,
+      "duration": 1.5
+    },
+    {
+      "text": "Arin: Um so on this episode you - in the last episode you learned heals from Suzie",
+      "start": 12.3,
+      "duration": 4.06
+    },
+    {
+      "text": "Dan: Okay\nArin: On this episode, we're going to teach you defense",
+      "start": 16.46,
+      "duration": 4.04
+    },
+    {
+      "text": "Dan: Sounds good\nArin: Defense heroes",
+      "start": 20.5,
+      "duration": 2.14
+    },
+    {
+      "text": "Dan: This looks like a class photo. I love it",
+      "start": 22.72,
+      "duration": 2.64
+    },
+    {
+      "text": "Arin: It kinda is, a little bit\nDan: Yeah",
+      "start": 25.48,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: It's the one for the anniversary so",
+      "start": 27.48,
+      "duration": 1.62
+    },
+    {
+      "text": "Dan: I'll never forget summer camp\nArin: *laughs*",
+      "start": 29.1,
+      "duration": 1.94
+    },
+    {
+      "text": "Dan: Where I murdered forty people",
+      "start": 31.32,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: I hung out with a giant horse lady and sat on top of my Japanese mech",
+      "start": 33.48,
+      "duration": 4.62
+    },
+    {
+      "text": "Dan: And whatever the fuck that is on the back left",
+      "start": 38.12,
+      "duration": 2.3
+    },
+    {
+      "text": "Arin: That's uh - a gun",
+      "start": 41.12,
+      "duration": 2.06
+    },
+    {
+      "text": "Dan: No, no - like the gas-masked thing holding the gun",
+      "start": 43.24,
+      "duration": 3.96
+    },
+    {
+      "text": "Arin: Oh, that's the evil goldfish",
+      "start": 47.22,
+      "duration": 1.82
+    },
+    {
+      "text": "Dan: Ohhh, yeah now I recognize that bastard\nArin: *laughs*",
+      "start": 49.14,
+      "duration": 3.24
+    },
+    {
+      "text": "Arin: Alright, so I'm going to have you play - uhh...",
+      "start": 52.54,
+      "duration": 2.58
+    },
+    {
+      "text": "Arin: So there's four classes in this game, right?\nDan: Right",
+      "start": 55.12,
+      "duration": 2.14
+    },
+    {
+      "text": "Arin: There's healer or support, um.. defense, offense and tank",
+      "start": 57.48,
+      "duration": 4.6
+    },
+    {
+      "text": "Dan: Okay\nArin: Okay, and they all serve different roles",
+      "start": 62.4,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: So I'm going to go ahead and teach you defense right now, so ahead and go to hero gallery",
+      "start": 64.5,
+      "duration": 3.78
+    },
+    {
+      "text": "Dan: Okay",
+      "start": 68.28,
+      "duration": 0.84
+    },
+    {
+      "text": "Arin: And right in the center, on the bottom there's Torbjorn",
+      "start": 69.62,
+      "duration": 2.84
+    },
+    {
+      "text": "Dan: Torbjorn!\nArin: The evil Santa Claus",
+      "start": 72.46,
+      "duration": 1.78
+    },
+    {
+      "text": "Dan: Yes! I love him\nArin: So you can spin him around if you want",
+      "start": 74.24,
+      "duration": 2.94
+    },
+    {
+      "text": "Dan (old man voice): Mm, I've been mining for diamonds all day!",
+      "start": 77.18,
+      "duration": 2.22
+    },
+    {
+      "text": "Dan: Sorry\nArin: *laughs* So this is Torbjorn",
+      "start": 79.4,
+      "duration": 1.6
+    },
+    {
+      "text": "Arin: So he is a very interesting character because his damage comes mostly from his turret",
+      "start": 81.04,
+      "duration": 5.12
+    },
+    {
+      "text": "Arin: So you can build and maintain a turret that will automatically shoot at enemies",
+      "start": 86.16,
+      "duration": 4.58
+    },
+    {
+      "text": "Dan: Okay\nArin: And you can lay down shields for your teammates",
+      "start": 90.84,
+      "duration": 4.76
+    },
+    {
+      "text": "Arin: So they can have a little bit more health *sighs*",
+      "start": 95.74,
+      "duration": 2.02
+    },
+    {
+      "text": "Dan: Are you getting a emotional here?\nArin: A little bit - I'm going to be choked up",
+      "start": 98.62,
+      "duration": 3.92
+    },
+    {
+      "text": "Arin: Torbjorn really makes me feel so good\nDan: Okay",
+      "start": 102.54,
+      "duration": 1.52
+    },
+    {
+      "text": "Arin: The tattoo really speaks to me",
+      "start": 104.06,
+      "duration": 2.5
+    },
+    {
+      "text": "Dan *fake crying*: What happened to his arm?",
+      "start": 106.56,
+      "duration": 1.42
+    },
+    {
+      "text": "Arin: Alright, so just go ahead and hit back\nDan: Uhhhhhhh.. back?",
+      "start": 108.02,
+      "duration": 2.38
+    },
+    {
+      "text": "Arin: Yup\nDan: Back as in.. oh, down there",
+      "start": 110.52,
+      "duration": 2.5
+    },
+    {
+      "text": "Arin: And then back again\nDan: Okay",
+      "start": 113.02,
+      "duration": 2.58
+    },
+    {
+      "text": "Arin: And then go to training",
+      "start": 115.6,
+      "duration": 3.32
+    },
+    {
+      "text": "Dan: *exhales*\nArin: And then practice range",
+      "start": 118.92,
+      "duration": 2.12
+    },
+    {
+      "text": "Arin: Let's do it\nDan: Yeah",
+      "start": 121.04,
+      "duration": 1.82
+    },
+    {
+      "text": "Arin: And I will show you how Torbjorn works",
+      "start": 122.92,
+      "duration": 2.66
+    },
+    {
+      "text": "Arin: He's a good boy, uh.. he's dead center",
+      "start": 126.02,
+      "duration": 2.2
+    },
+    {
+      "text": "Dan: Okay - ah yes\nArin: Then continue",
+      "start": 128.4,
+      "duration": 3.16
+    },
+    {
+      "text": "Arin: *weird nails-on-chalkboard sound*",
+      "start": 131.56,
+      "duration": 1.72
+    },
+    {
+      "text": "Arin: So he has a normal gun so if you hit left click it's like a one-shot thing of like molten whatever-the-fuck",
+      "start": 133.52,
+      "duration": 8.02
+    },
+    {
+      "text": "Dan: Sure\nArin: And that's actually pretty strong",
+      "start": 141.6,
+      "duration": 3.3
+    },
+    {
+      "text": "Arin: Um, if you get headshots it's pretty strong",
+      "start": 145.02,
+      "duration": 2.0
+    },
+    {
+      "text": "Dan: Wow!\nArin: Yeah",
+      "start": 147.02,
+      "duration": 1.74
+    },
+    {
+      "text": "Arin: And then if you hit right click it's like a flak cannon where he shoots a bunch of them at once",
+      "start": 148.94,
+      "duration": 4.06
+    },
+    {
+      "text": "Dan: Oh!\nArin: Those don't do a lot of damage on their own",
+      "start": 153.08,
+      "duration": 3.14
+    },
+    {
+      "text": "Arin: But as a group they do a ton so if you get really close to somebody",
+      "start": 156.32,
+      "duration": 3.8
+    },
+    {
+      "text": "Arin: Like if you headshot those guys point-blank it'll probably kill them in one hit",
+      "start": 160.28,
+      "duration": 3.38
+    },
+    {
+      "text": "Dan: Hi! *shoots robot* Yaayyy!",
+      "start": 163.92,
+      "duration": 2.96
+    },
+    {
+      "text": "Dan: Hello! *shoots robot* Hurrah!",
+      "start": 166.88,
+      "duration": 1.8
+    },
+    {
+      "text": "Arin: So he's pretty dang strong already, right?\nDan: Yeah",
+      "start": 168.82,
+      "duration": 2.64
+    },
+    {
+      "text": "Arin: Um, so if you hit left shift which was the fly button for Mercy -",
+      "start": 171.46,
+      "duration": 3.64
+    },
+    {
+      "text": "Arin: You can put down a turret if you click again",
+      "start": 175.2,
+      "duration": 3.14
+    },
+    {
+      "text": "*turret noises*",
+      "start": 178.34,
+      "duration": 1.4
+    },
+    {
+      "text": "Arin: Alright, so that turret will attack any enemy nearby\nDan: Holy shit",
+      "start": 179.74,
+      "duration": 3.98
+    },
+    {
+      "text": "Arin: And it has its own health\nDan: Will it hurt me?",
+      "start": 183.72,
+      "duration": 1.52
+    },
+    {
+      "text": "Arin: No, it won't - it's your friend\nDan: Neat!",
+      "start": 185.24,
+      "duration": 1.92
+    },
+    {
+      "text": "Arin: Yeah, you can pet it\nDan: Hello, friend!",
+      "start": 187.16,
+      "duration": 2.1
+    },
+    {
+      "text": "Arin: But it has its own life that's right next to your life.",
+      "start": 189.26,
+      "duration": 2.38
+    },
+    {
+      "text": "Arin: See the 150?\nDan: Oh, yeah",
+      "start": 191.64,
+      "duration": 1.48
+    },
+    {
+      "text": "Arin: So that's a level one turret. It's not very strong, it's super squishy and it won't fire very fast",
+      "start": 193.12,
+      "duration": 5.86
+    },
+    {
+      "text": "Dan: Does it go after guys, like depending on their movements?",
+      "start": 198.98,
+      "duration": 4.04
+    },
+    {
+      "text": "Arin, No it'll stay right there always and it'll rotate wherever the guys are",
+      "start": 203.2,
+      "duration": 4.64
+    },
+    {
+      "text": "Arin: So if you switch your weapon like you were with Mercy - with the gun and the broom",
+      "start": 208.26,
+      "duration": 4.72
+    },
+    {
+      "text": "Dan: Whoops\nArin: With the wheel",
+      "start": 212.98,
+      "duration": 1.82
+    },
+    {
+      "text": "Arin: So that's your hammer. If you beat on your turret like six or seven times",
+      "start": 214.8,
+      "duration": 4.08
+    },
+    {
+      "text": "Dan: *hammers turret*\nArin: There you go - it's five times",
+      "start": 218.88,
+      "duration": 3.48
+    },
+    {
+      "text": "Arin: That's a level two turret now so it shoots faster\nDan: Whoa!",
+      "start": 222.78,
+      "duration": 3.26
+    },
+    {
+      "text": "Arin: And it has more health\nDan: Holy crap!",
+      "start": 226.04,
+      "duration": 2.2
+    },
+    {
+      "text": "Arin: Yeah, so if people start attacking your turret you can beat on it to give it more health",
+      "start": 228.24,
+      "duration": 5.16
+    },
+    {
+      "text": "Dan: Neat!\nArin: And you're the only person that can do that",
+      "start": 233.4,
+      "duration": 2.98
+    },
+    {
+      "text": "Dan: If only that were the way the world really worked\nArin: Yeah",
+      "start": 236.38,
+      "duration": 2.7
+    },
+    {
+      "text": "Dan: Yeah, beat things with a hammer into making them more awesome\nArin: *laughs*",
+      "start": 239.08,
+      "duration": 3.0
+    },
+    {
+      "text": "Arin: My toaster doesn't work so beat it with a hammer\nDan: Bring me the hammer",
+      "start": 242.1,
+      "duration": 3.18
+    },
+    {
+      "text": "Arin: Um.. And then the other thing that Torb can do is -",
+      "start": 245.4,
+      "duration": 3.54
+    },
+    {
+      "text": "Arin: If you hit E which is right under your index finger",
+      "start": 248.94,
+      "duration": 3.38
+    },
+    {
+      "text": "Arin: You can throw shields out\nDan: Shields?",
+      "start": 252.32,
+      "duration": 2.3
+    },
+    {
+      "text": "Arin: So that'll give you 50 of the yellow health",
+      "start": 254.62,
+      "duration": 2.66
+    },
+    {
+      "text": "Dan: Oh!\nArin: Check that - I guess it's 75",
+      "start": 258.94,
+      "duration": 2.9
+    },
+    {
+      "text": "Dan: I just throw it and collect it?",
+      "start": 262.04,
+      "duration": 2.32
+    },
+    {
+      "text": "Arin: Yeah and your teammates can get those too",
+      "start": 264.36,
+      "duration": 3.02
+    },
+    {
+      "text": "Dan: Oh, neat\nArin: And you slowly get scrap which helps give you shields",
+      "start": 267.44,
+      "duration": 6.56
+    },
+    {
+      "text": "Arin: Um.. and you can have up to 200 health and each one costs 50 to throw out",
+      "start": 274.0,
+      "duration": 4.7
+    },
+    {
+      "text": "Arin: Then you get scrap from dead enemies",
+      "start": 280.36,
+      "duration": 3.42
+    },
+    {
+      "text": "Arin: So he just dropped some scrap so you can grab that",
+      "start": 283.78,
+      "duration": 2.78
+    },
+    {
+      "text": "Arin: And that'll give you more scrap to make more shields",
+      "start": 287.12,
+      "duration": 2.88
+    },
+    {
+      "text": "Arin: You can just walk to it\nDan: Oh. Stop! Just turn into scrap",
+      "start": 290.2,
+      "duration": 4.3
+    },
+    {
+      "text": "Arin: Actually you have full scrap so you won't pick it up\nDan: Oh, sweet",
+      "start": 294.5,
+      "duration": 3.06
+    },
+    {
+      "text": "Arin: So you can just throw shields out like crazy - you can just hit E over and over again",
+      "start": 297.62,
+      "duration": 3.46
+    },
+    {
+      "text": "Dan: *grunts while throwing scrap* Yay, shields for all!",
+      "start": 301.68,
+      "duration": 3.84
+    },
+    {
+      "text": "Arin: And then your teammates can pick those up. I mean there aren't any teammates nearby",
+      "start": 305.52,
+      "duration": 3.48
+    },
+    {
+      "text": "Arin: I mean you can give them to the training bots if you want\nDan: Sure",
+      "start": 309.0,
+      "duration": 2.3
+    },
+    {
+      "text": "Arin: But see, you slowly build up scrap and as the enemies die you can grab their scrap",
+      "start": 311.3,
+      "duration": 4.08
+    },
+    {
+      "text": "Dan: Oh cool\nArin: It's just those little chevrons that are pointing",
+      "start": 315.38,
+      "duration": 2.8
+    },
+    {
+      "text": "Arin: It's like \"check out this scrap, go grab it\"",
+      "start": 318.18,
+      "duration": 2.34
+    },
+    {
+      "text": "Dan: Got it. Ummm.. and the ultimate?",
+      "start": 321.1,
+      "duration": 3.4
+    },
+    {
+      "text": "Arin: Ok, so put down your turret here since there are a lot of enemies",
+      "start": 324.7,
+      "duration": 3.28
+    },
+    {
+      "text": "Dan: That was.... that was....\nArin: Left shift",
+      "start": 327.98,
+      "duration": 4.68
+    },
+    {
+      "text": "Dan: Left shift, got it\n(Torbjorn: I foresee great things for you!)",
+      "start": 332.72,
+      "duration": 2.44
+    },
+    {
+      "text": "Arin: And then beat on it so it's super powerful\nDan: Right.. *fumbles with weapon switch*",
+      "start": 335.24,
+      "duration": 4.76
+    },
+    {
+      "text": "Arin: There you go - give it a little beattie-beat\nDan:  Don't mind me, this is for your own good",
+      "start": 342.0,
+      "duration": 3.54
+    },
+    {
+      "text": "Arin: There you go, so now it's level two, right? So if you use your ultimate",
+      "start": 345.72,
+      "duration": 3.24
+    },
+    {
+      "text": "Arin: Go ahead and hit Q",
+      "start": 349.32,
+      "duration": 1.18
+    },
+    {
+      "text": "(Torb: mol-TEN CORREEE)",
+      "start": 350.7,
+      "duration": 1.18
+    },
+    {
+      "text": "Arin: So now it's level 3 and it fires really fast and has a ton of health\nDan: Holy shit",
+      "start": 352.0,
+      "duration": 3.94
+    },
+    {
+      "text": "Arin: And now your weapon is super strong and you have a ton of health too",
+      "start": 356.1,
+      "duration": 4.18
+    },
+    {
+      "text": "Dan: Nice\nArin: Yeah so it shoots fast, it does more damage",
+      "start": 360.32,
+      "duration": 4.7
+    },
+    {
+      "text": "Arin: So it's pretty sweet but it only lasts for like 9 seconds\nDan: Wow",
+      "start": 365.44,
+      "duration": 3.18
+    },
+    {
+      "text": "Dan: Oh, ok. Still cool\nArin: Yeah",
+      "start": 369.02,
+      "duration": 2.24
+    },
+    {
+      "text": "Arin: So that's a good way to like - stay alive, or clear out an area, or -",
+      "start": 371.44,
+      "duration": 4.8
+    },
+    {
+      "text": "Arin: Or zone people\nDan: Always be doing shit",
+      "start": 376.48,
+      "duration": 2.32
+    },
+    {
+      "text": "Arin: Yeah, get people off the point or whatever",
+      "start": 378.8,
+      "duration": 2.58
+    },
+    {
+      "text": "Arin: Dealing with that turret sucks because it's always going to hit you",
+      "start": 381.5,
+      "duration": 3.0
+    },
+    {
+      "text": "Arin: It doesn't miss\nDan: Wow, fantastic then! Okay!",
+      "start": 384.74,
+      "duration": 3.86
+    },
+    {
+      "text": "Arin: So Torb's pretty awesome\nDan: I feel ready!",
+      "start": 388.6,
+      "duration": 2.04
+    },
+    {
+      "text": "Arin: So go ahead and hit escape and leave game\nDan: Uh - uh - oop",
+      "start": 390.64,
+      "duration": 3.0
+    },
+    {
+      "text": "Dan: God damn. This game, no wonder people love it",
+      "start": 395.34,
+      "duration": 3.28
+    },
+    {
+      "text": "Arin: It's the bomb, dude\nDan: I imagine once you actually get good at it",
+      "start": 398.62,
+      "duration": 4.02
+    },
+    {
+      "text": "Dan: It's super fun\nArin: Oh yeah - I mean dude - we've been playing for an entire year so",
+      "start": 403.16,
+      "duration": 5.22
+    },
+    {
+      "text": "Arin: *laughs*\nDan: Has it been that long?",
+      "start": 408.38,
+      "duration": 2.04
+    },
+    {
+      "text": "Arin: Yeah, man - that's why - the anniversary, man",
+      "start": 410.42,
+      "duration": 2.08
+    },
+    {
+      "text": "Dan: Oh, wow\nArin: It's been out for one year",
+      "start": 412.5,
+      "duration": 1.96
+    },
+    {
+      "text": "Arin: And it's still going strong\nDan: And this game came out of nowhere, right?",
+      "start": 414.46,
+      "duration": 2.64
+    },
+    {
+      "text": "Dan: There was no - like predecessor or anything like that?",
+      "start": 417.1,
+      "duration": 2.08
+    },
+    {
+      "text": "Arin: Well.. people say that Team Fortress 2 was kind of the predecessor - TF2",
+      "start": 419.34,
+      "duration": 5.56
+    },
+    {
+      "text": "Dan: But like when Overwatch was released I remember it being a big deal",
+      "start": 425.3,
+      "duration": 2.28
+    },
+    {
+      "text": "Dan: People just knew - off the bat that it was going to be great",
+      "start": 427.58,
+      "duration": 3.22
+    },
+    {
+      "text": "Arin: Yeah well.. it's Blizzard.. um.. Blizzard games are usually always really good",
+      "start": 430.8,
+      "duration": 3.74
+    },
+    {
+      "text": "Arin: And basically the concept of it was like a streamlined TF2",
+      "start": 434.6,
+      "duration": 4.24
+    },
+    {
+      "text": "Arin: Because there are classes and each hero has different abilities and stuff",
+      "start": 439.1,
+      "duration": 5.36
+    },
+    {
+      "text": "Arin: So it's like - typically FPSs are usually like - you're all the same and you can pick your guns or whatever",
+      "start": 444.46,
+      "duration": 5.46
+    },
+    {
+      "text": "Arin: And you can, you know - pick up guns, but not with this",
+      "start": 449.92,
+      "duration": 3.56
+    },
+    {
+      "text": "Arin: With this, every hero is different and that's how they are, that's how they always are",
+      "start": 453.48,
+      "duration": 5.04
+    },
+    {
+      "text": "Arin: And nothing changes.. so\nDan: Right",
+      "start": 458.62,
+      "duration": 3.36
+    },
+    {
+      "text": "Arin: People get attached to characters - it's just cool, and everyone serves a purpose",
+      "start": 462.48,
+      "duration": 4.54
+    },
+    {
+      "text": "Arin: So..\nDan: That really is cool",
+      "start": 467.46,
+      "duration": 1.8
+    },
+    {
+      "text": "Arin: So this a skirmish - this isn't a real game, but you can still run around and shoot people",
+      "start": 469.26,
+      "duration": 3.78
+    },
+    {
+      "text": "Arin: You know, just so you have something to do while you're waiting for a match",
+      "start": 473.04,
+      "duration": 4.62
+    },
+    {
+      "text": "Dan: Oh, nice!\nArin: So just load up Torbjorn and try to get some kills",
+      "start": 477.66,
+      "duration": 3.12
+    },
+    {
+      "text": "Dan: So it's just kill anybody?\nArin: Yeah",
+      "start": 480.78,
+      "duration": 2.14
+    },
+    {
+      "text": "Arin: Well - kill your enemies\nDan: Great!",
+      "start": 482.92,
+      "duration": 2.78
+    },
+    {
+      "text": "Arin: So your teammates are still your teammates and they're probably just dicking around",
+      "start": 485.7,
+      "duration": 4.36
+    },
+    {
+      "text": "Arin: But just go ahead and walk out and walk around - this is Hollywood",
+      "start": 490.06,
+      "duration": 3.28
+    },
+    {
+      "text": "Dan: Oh, this is lovely\nArin: So you might notice some landmarks",
+      "start": 493.34,
+      "duration": 2.46
+    },
+    {
+      "text": "Arin: Like the Bably- oh there's an enemy\nDan: Oh, hey",
+      "start": 495.8,
+      "duration": 1.46
+    },
+    {
+      "text": "Arin: Well, she kills you immediately\nDan: I remember her",
+      "start": 497.26,
+      "duration": 1.86
+    },
+    {
+      "text": "Arin: *laughs* Oh, Shadow wants to talk to you!\nDan: *laughs* My god",
+      "start": 499.34,
+      "duration": 4.48
+    },
+    {
+      "text": "Arin: That's nice\nDan: That's quite the kill-cam",
+      "start": 503.82,
+      "duration": 2.2
+    },
+    {
+      "text": "Arin: Wow - he uh - just melted you",
+      "start": 506.14,
+      "duration": 1.92
+    },
+    {
+      "text": "Dan: Neat!\nArin: Yeah.. uh.. -",
+      "start": 508.72,
+      "duration": 2.68
+    },
+    {
+      "text": "Arin: So go out there - oh yeah, they're dicking around, having fun",
+      "start": 511.6,
+      "duration": 2.94
+    },
+    {
+      "text": "Dan: Aww\nArin: Ah, ah - Widowmaker's trying to kill you",
+      "start": 514.54,
+      "duration": 3.08
+    },
+    {
+      "text": "Dan: Oh, oh, so much fun *yells* SPOON!\nArin: *laughs*",
+      "start": 517.62,
+      "duration": 3.22
+    },
+    {
+      "text": "*both laugh*\nArin: She got you right in the face",
+      "start": 520.84,
+      "duration": 2.84
+    },
+    {
+      "text": "Arin: So that's the thing about Torb - if he seems really powerful, that's because he's a huge target",
+      "start": 523.68,
+      "duration": 6.06
+    },
+    {
+      "text": "Arin: He's a short, fat man - just a big round ball of hitbox",
+      "start": 530.0,
+      "duration": 5.0
+    },
+    {
+      "text": "Dan: Did I kill somebody?\nArin: Um.. no",
+      "start": 535.1,
+      "duration": 2.52
+    },
+    {
+      "text": "Arin: Well, actually, yes\nDan: I eliminated somebody",
+      "start": 537.62,
+      "duration": 2.34
+    },
+    {
+      "text": "Arin: You contributed to their death\nDan: Good!",
+      "start": 539.96,
+      "duration": 2.12
+    },
+    {
+      "text": "Arin: So that's great, congratulations\nDan: That is great",
+      "start": 542.36,
+      "duration": 2.54
+    },
+    {
+      "text": "Dan: Wheels are weird in this world\nArin: So go ahead and put down a -",
+      "start": 544.9,
+      "duration": 2.78
+    },
+    {
+      "text": "Arin: Oh yeah, it's all the future\nDan: Neat",
+      "start": 547.68,
+      "duration": 2.14
+    },
+    {
+      "text": "Arin: Put down a turret and see - \nDan: Right here?",
+      "start": 550.14,
+      "duration": 2.52
+    },
+    {
+      "text": "Arin: Yeah, wherever you want\nDan: Okay",
+      "start": 552.66,
+      "duration": 1.9
+    },
+    {
+      "text": "Dan *imitating robot*: Boop.. Boop\nArin: You're Torb, you can choose, you know",
+      "start": 554.56,
+      "duration": 4.38
+    },
+    {
+      "text": "Arin: You've got the experience, the training\nDan *muppet voice*: Hahahaha!",
+      "start": 559.78,
+      "duration": 3.08
+    },
+    {
+      "text": "Arin: There you go\nDan: Okay, cool - And now we play.. the waiting game",
+      "start": 562.86,
+      "duration": 4.32
+    },
+    {
+      "text": "Arin: *laughs* Somebody will show up\nDan: Yeah, think so?",
+      "start": 567.18,
+      "duration": 2.7
+    },
+    {
+      "text": "Arin: Yeah, they'll come by - Tracer was dicking around near you",
+      "start": 569.88,
+      "duration": 3.72
+    },
+    {
+      "text": "Arin: I mean - you can go towards their base\nDan *sing-song*: I'm hee-re",
+      "start": 573.6,
+      "duration": 3.46
+    },
+    {
+      "text": "Dan: Where's their base - is there radar?\nArin: Uhh...",
+      "start": 577.06,
+      "duration": 2.64
+    },
+    {
+      "text": "Arin: You can see your teammates but not the enemies\nDan: I see",
+      "start": 580.44,
+      "duration": 2.5
+    },
+    {
+      "text": "Arin: So the teammates are the blue chevrons \nDan: Look at that",
+      "start": 582.94,
+      "duration": 2.8
+    },
+    {
+      "text": "Arin: Look at what?\nDan *to turret*: You stay here and guard this car",
+      "start": 587.28,
+      "duration": 3.08
+    },
+    {
+      "text": "Dan: Look at that fucking sweet elevator \nArin: Yeah dude",
+      "start": 590.36,
+      "duration": 2.88
+    },
+    {
+      "text": "Arin: this is the -  you got to get up to the water tower somehow",
+      "start": 593.24,
+      "duration": 2.86
+    },
+    {
+      "text": "Arin: Gotta get that sweet hydration \nDan: Will that just lower and raise?",
+      "start": 596.98,
+      "duration": 2.92
+    },
+    {
+      "text": "Arin: Actually, that's a pretty sneaky spot to put your turret",
+      "start": 599.9,
+      "duration": 3.04
+    },
+    {
+      "text": "Dan: Ohhh..\nArin: On the elevator cause it'll constantly keep moving",
+      "start": 602.94,
+      "duration": 4.36
+    },
+    {
+      "text": "Arin: All right so this is a real game \nDan: Ok, cool",
+      "start": 607.8,
+      "duration": 2.26
+    },
+    {
+      "text": "Arin: This is a payload map so it's not like the king of the hill map but it's a little like the the payload map",
+      "start": 610.08,
+      "duration": 5.14
+    },
+    {
+      "text": "Arin: Or the king of the hill map \nDan: It's a lot like the payload map - it is the payload map",
+      "start": 615.22,
+      "duration": 3.5
+    },
+    {
+      "text": "Arin: So once at least one person from your team is on the payload it'll start moving",
+      "start": 618.76,
+      "duration": 5.58
+    },
+    {
+      "text": "Arin: And you want to get to the payload all the way to the end",
+      "start": 624.52,
+      "duration": 2.34
+    },
+    {
+      "text": "Arin: If somebody from the opponent's team is on the payload it will stop",
+      "start": 627.56,
+      "duration": 4.62
+    },
+    {
+      "text": "Arin: So you want to kill or move those people off the payload so you can keep moving it",
+      "start": 632.6,
+      "duration": 3.58
+    },
+    {
+      "text": "Arin: That's the only objective right \nDan: Right",
+      "start": 636.58,
+      "duration": 2.66
+    },
+    {
+      "text": "Arin: Killing is\nancillary but obviously it helps you to get people off of the payload",
+      "start": 639.24,
+      "duration": 4.62
+    },
+    {
+      "text": "Dan: I'm gonna need you to say it one more time for me",
+      "start": 643.86,
+      "duration": 2.12
+    },
+    {
+      "text": "Arin: okay so you're on defense actually so you're not pushing the payload",
+      "start": 646.38,
+      "duration": 2.74
+    },
+    {
+      "text": "Arin: You're keeping the payload from being pushed\nDan: Okay",
+      "start": 649.12,
+      "duration": 2.54
+    },
+    {
+      "text": "Arin: So there's there's going to be a car or like a floaty vehicle or whatever",
+      "start": 651.66,
+      "duration": 3.68
+    },
+    {
+      "text": "Dan: Right\nArin: That if the enemy team gets on -",
+      "start": 655.34,
+      "duration": 3.34
+    },
+    {
+      "text": "Arin: They're going to move it along this like - roughly like where this blue line is",
+      "start": 659.34,
+      "duration": 5.22
+    },
+    {
+      "text": "Dan: okay\nArin: it's actually this like dotted line with the lights",
+      "start": 664.56,
+      "duration": 3.24
+    },
+    {
+      "text": "Arin: Um - so they're going to move that payload - they're going to try to get it all the way to the end of the map",
+      "start": 668.18,
+      "duration": 4.98
+    },
+    {
+      "text": "Dan: So this blue line is a good place to put the turret, yeah?",
+      "start": 673.16,
+      "duration": 2.66
+    },
+    {
+      "text": "Arin: Um.. yeh, if you, um - it's up to you! You can put it wherever you want",
+      "start": 675.82,
+      "duration": 3.58
+    },
+    {
+      "text": "Dan: Okay",
+      "start": 679.46,
+      "duration": 0.92
+    },
+    {
+      "text": "Arin: But the enemies are going to\ncome out of the left of where you are",
+      "start": 680.38,
+      "duration": 4.94
+    },
+    {
+      "text": "Arin: So you're kind of like on the side, so take a right - yeah",
+      "start": 685.58,
+      "duration": 2.22
+    },
+    {
+      "text": "Arin: So that big door right there\nDan: Right",
+      "start": 687.8,
+      "duration": 1.68
+    },
+    {
+      "text": "Arin: On the right - that big door -  that's where they're going to come out of",
+      "start": 689.48,
+      "duration": 2.14
+    },
+    {
+      "text": "Dan: Oh\nArin: Roughly - there's a couple doors they can come out",
+      "start": 691.62,
+      "duration": 2.54
+    },
+    {
+      "text": "Arin: But that's the main one\nDan: I'm gonna go and put it right there",
+      "start": 694.16,
+      "duration": 1.56
+    },
+    {
+      "text": "Arin: There you go - um\nDan *hammer sounds*: Bip - bap - bip - bop - bap",
+      "start": 695.72,
+      "duration": 4.68
+    },
+    {
+      "text": "Arin: So if you are standing on that point - on that payload -  this little floaty guy",
+      "start": 700.4,
+      "duration": 4.28
+    },
+    {
+      "text": "Arin: It won't move but if they kill you and nobody else - none of your teammates are on it it will move -",
+      "start": 704.76,
+      "duration": 5.44
+    },
+    {
+      "text": "Arin: If they're on it \nDan: Got it",
+      "start": 710.2,
+      "duration": 1.52
+    },
+    {
+      "text": "Arin: Super simple\nDan: Okay, I died and my turret blew up",
+      "start": 711.72,
+      "duration": 2.6
+    },
+    {
+      "text": "Arin: Cool \nDan: So - so far so good",
+      "start": 714.32,
+      "duration": 1.69
+    },
+    {
+      "text": "Arin: Yes you're - I mean you're doing great\nDan: *laughs*",
+      "start": 716.01,
+      "duration": 4.13
+    },
+    {
+      "text": "Arin: At least you did some damage",
+      "start": 720.14,
+      "duration": 1.46
+    },
+    {
+      "text": "Dan: Yeah - yeah, things happened \nArin: So go run back to the right",
+      "start": 721.64,
+      "duration": 2.5
+    },
+    {
+      "text": "Dan: Okay - oh I see defend - yeah",
+      "start": 724.14,
+      "duration": 3.36
+    },
+    {
+      "text": "Arin: Yeah you want to run towards all that action in the distance - you can see the outline of the payload",
+      "start": 728.18,
+      "duration": 4.28
+    },
+    {
+      "text": "Dan: But I should always be making - uh.. did I blow that?",
+      "start": 732.78,
+      "duration": 3.94
+    },
+    {
+      "text": "Dan: No - I'll follow you - you know what you're doing \nArin: He knows what he's doing",
+      "start": 737.26,
+      "duration": 3.88
+    },
+    {
+      "text": "Arin: Um.. that green - that green sphere - yeah, you can go that way",
+      "start": 741.32,
+      "duration": 3.06
+    },
+    {
+      "text": "Arin: That green circle around him means that he's speed boosting",
+      "start": 744.38,
+      "duration": 3.14
+    },
+    {
+      "text": "Dan: Ah\nArin: You'd go faster if you hang out with him",
+      "start": 747.52,
+      "duration": 1.84
+    },
+    {
+      "text": "Dan: I was gonna say - he was fast\nArin: And now the yellow one means that he'll heal near you",
+      "start": 749.36,
+      "duration": 3.96
+    },
+    {
+      "text": "Dan: *groans with the pain of death and defeat*\nArin: That's you dying",
+      "start": 753.52,
+      "duration": 1.58
+    },
+    {
+      "text": "Dan: Yeah, I made a turret\nBoth: *laugh*",
+      "start": 755.1,
+      "duration": 3.28
+    },
+    {
+      "text": "Arin: So yeah, actually you can see the path the payload is going to go right along that line",
+      "start": 758.42,
+      "duration": 5.74
+    },
+    {
+      "text": "Arin: So before the payload gets there - you want to go to the other door",
+      "start": 764.2,
+      "duration": 3.02
+    },
+    {
+      "text": "Dan: *grunts*\nArin: Before that..",
+      "start": 767.22,
+      "duration": 3.44
+    },
+    {
+      "text": "Dan: Which door? This one?\nArin: This- the one you were facing immediately towards",
+      "start": 770.7,
+      "duration": 3.72
+    },
+    {
+      "text": "Arin: The payload is eventually probably going to get there unless you guys are amazing",
+      "start": 776.36,
+      "duration": 3.46
+    },
+    {
+      "text": "Arin: So if you put your turret like before the payload gets there",
+      "start": 780.08,
+      "duration": 3.88
+    },
+    {
+      "text": "Arin: That's a good - like safe space\nDan *getting shot*: Ah ah ah ow ah!",
+      "start": 783.96,
+      "duration": 3.92
+    },
+    {
+      "text": "Dan: Damn it, Lollipop30!\nArin: *laughs*",
+      "start": 788.12,
+      "duration": 2.38
+    },
+    {
+      "text": "Dan: Son of a bitch\nArin: So that's you dying again",
+      "start": 790.5,
+      "duration": 2.94
+    },
+    {
+      "text": "Dan: Yeah, I'm getting that. Hi!\nArin: *laughs*",
+      "start": 793.5,
+      "duration": 3.56
+    },
+    {
+      "text": "Arin: But see you have tons of shields now so you can throw one down for you",
+      "start": 797.06,
+      "duration": 3.98
+    },
+    {
+      "text": "Arin: With E - there you go. So now\nyou're a little bit more strong",
+      "start": 801.74,
+      "duration": 4.88
+    },
+    {
+      "text": "Arin: So that one you'll leave there for\nteammates that come out again",
+      "start": 806.63,
+      "duration": 2.87
+    },
+    {
+      "text": "Arin: Um.. and then once you get to where teammates are - those little blue chevrons",
+      "start": 809.5,
+      "duration": 3.46
+    },
+    {
+      "text": "Arin: You can give them shields too \n(Announcer: The payload has reached the first checkpoint)",
+      "start": 813.24,
+      "duration": 3.38
+    },
+    {
+      "text": "Arin: So the payload reached the first checkpoint - that means your spawn will change",
+      "start": 816.74,
+      "duration": 3.24
+    },
+    {
+      "text": "Dan: That's not good\nArin: And their spawn will change",
+      "start": 820.04,
+      "duration": 1.58
+    },
+    {
+      "text": "Arin: So a  turret right here is great - it's actually a really good idea to have a turret here",
+      "start": 821.64,
+      "duration": 3.26
+    },
+    {
+      "text": "Dan *imitating robot*: Boopity boop\nArin: And hammer it right away",
+      "start": 824.9,
+      "duration": 3.5
+    },
+    {
+      "text": "Dan: Yeah - uh -uh \nArin: Before they see it and want to kill it",
+      "start": 828.4,
+      "duration": 2.32
+    },
+    {
+      "text": "Arin: Nice. Excellent. \nDan: Ok, cool.",
+      "start": 833.46,
+      "duration": 1.6
+    },
+    {
+      "text": "Arin: So somebody's immediately trying to kill it which is pretty typical",
+      "start": 836.22,
+      "duration": 3.98
+    },
+    {
+      "text": "Arin: Yeah - look at that, you got two kills! Look at you!\nDan: Yeah yeah, yeah, yeah!",
+      "start": 840.52,
+      "duration": 3.98
+    },
+    {
+      "text": "Arin: Oh you could throw down some shields again\nDan: O-kay",
+      "start": 844.64,
+      "duration": 2.14
+    },
+    {
+      "text": "Arin: Now you got another kill with your turret - nice work. Wow, you're doing great",
+      "start": 846.78,
+      "duration": 4.52
+    },
+    {
+      "text": "Dan: Yeah! This is - yeah, fuck you lollipop",
+      "start": 851.3,
+      "duration": 2.66
+    },
+    {
+      "text": "Arin: Dude, look at all those kills! So now you have your ult - your turret's about to die",
+      "start": 853.96,
+      "duration": 3.68
+    },
+    {
+      "text": "Arin: So maybe you should hammer it \nDan: Oh, I can do that?",
+      "start": 857.64,
+      "duration": 3.34
+    },
+    {
+      "text": "Arin: Yeah to heal it - there you go. There you go..\nDan: *grunts with hammer swings",
+      "start": 860.98,
+      "duration": 4.94
+    },
+    {
+      "text": "Arin: So now when there's - when there's a ton of people coming - right",
+      "start": 865.92,
+      "duration": 2.56
+    },
+    {
+      "text": "Dan: Yup\nArin: Yeah - hit the Q! Hit it right now",
+      "start": 868.48,
+      "duration": 1.839
+    },
+    {
+      "text": "Arin: There you go!\nDan: Yeah!",
+      "start": 870.319,
+      "duration": 3.201
+    },
+    {
+      "text": "Arin! Now beat on it! Beat on it!\nBoth: Awww...",
+      "start": 873.52,
+      "duration": 2.4
+    },
+    {
+      "text": "Dan: Six player killstreak?! Oh my god! That's so many!\nArin: You killed six people! Yeah, dude!",
+      "start": 875.94,
+      "duration": 5.18
+    },
+    {
+      "text": "Dan: I feel really good about my life right now\nArin: You don't even have to aim, dude",
+      "start": 881.14,
+      "duration": 3.66
+    },
+    {
+      "text": "Dan: That's great. This is my kind of character \nArin: There you go",
+      "start": 884.94,
+      "duration": 2.9
+    },
+    {
+      "text": "Arin: Just just dealing damage without doing any work \nDan: Yeah, fuckin' the way things should be",
+      "start": 888.28,
+      "duration": 4.7
+    },
+    {
+      "text": "Arin: It's Torbjorn\nDan: That's so Torbjorn!",
+      "start": 892.98,
+      "duration": 3.92
+    },
+    {
+      "text": "Arin: *laughs* Angry Santa!",
+      "start": 896.9,
+      "duration": 2.24
+    },
+    {
+      "text": "Arin: So with that effort that you just made - you all pretty much almost wiped their entire team",
+      "start": 899.14,
+      "duration": 5.44
+    },
+    {
+      "text": "Arin: And now there's no movement so.. you're great! So.. -",
+      "start": 904.58,
+      "duration": 2.52
+    },
+    {
+      "text": "Dan: So this is a good spot, right?",
+      "start": 907.14,
+      "duration": 1.82
+    },
+    {
+      "text": "Arin: Uhh.. Yeeah? Just try it out. Try it out, give it a shot",
+      "start": 908.96,
+      "duration": 4.36
+    },
+    {
+      "text": "Dan: Uuh-uh well I shot it - I shot it\nArin: There you go, there you go",
+      "start": 913.36,
+      "duration": 5.94
+    },
+    {
+      "text": "Arin: Look at you\nDan: This feels great",
+      "start": 921.46,
+      "duration": 2.68
+    },
+    {
+      "text": "Arin: See, it's already shooting at people and you killed Skadbob \nDan: Yes!",
+      "start": 925.1,
+      "duration": 3.92
+    },
+    {
+      "text": "Arin: You almost did 50% of the damage to him that killed him",
+      "start": 929.1,
+      "duration": 2.02
+    },
+    {
+      "text": "Dan: Dude, I'm so\ntired of Skadbob and his bullshit\nArin: *laughs*",
+      "start": 931.18,
+      "duration": 2.28
+    },
+    {
+      "text": "Dan: I hope you're watching, Skadbob.\nArin: Skadbob knows what's up, dude",
+      "start": 933.46,
+      "duration": 3.04
+    },
+    {
+      "text": "Arin: Well apparently not if he's getting killed by turrets\nDan: Oh shit, is that a weak move?",
+      "start": 936.5,
+      "duration": 4.7
+    },
+    {
+      "text": "Arin: No, no it's not \nDan: Yeah lollipop!",
+      "start": 941.2,
+      "duration": 1.82
+    },
+    {
+      "text": "Arin: Lollipop got killed - he was ulting too dude - you saved the team!",
+      "start": 943.08,
+      "duration": 3.08
+    },
+    {
+      "text": "Dan: Outstanding. I'm just gonna keep beating on this \nArin: There you go",
+      "start": 946.16,
+      "duration": 2.44
+    },
+    {
+      "text": "Arin: But be careful because you can die too\nDan: Right",
+      "start": 949.08,
+      "duration": 2.34
+    },
+    {
+      "text": "Arin: So there's health right there\nDan: Oh, neat",
+      "start": 951.42,
+      "duration": 2.2
+    },
+    {
+      "text": "Arin: That's pretty nice. Oh - that Genji's going after your turret",
+      "start": 954.4,
+      "duration": 2.44
+    },
+    {
+      "text": "Arin: They're pushing still... okay the turret - the payload is to your left",
+      "start": 959.16,
+      "duration": 4.92
+    },
+    {
+      "text": "Dan: Jeepers. *gets shot at* ow ow ow ow ow\nArin: Nobody was blocking the payload which is..",
+      "start": 965.06,
+      "duration": 4.42
+    },
+    {
+      "text": "Arin: Actually the important thing about it. You can kill people but if somebody's pushing then it doesn't matter",
+      "start": 970.04,
+      "duration": 4.32
+    },
+    {
+      "text": "Arin: So now that Soldier is protecting the payload right now",
+      "start": 976.34,
+      "duration": 3.78
+    },
+    {
+      "text": "Dan: Oh, I see\nArin: And that Reinhardt with the shield",
+      "start": 980.12,
+      "duration": 2.06
+    },
+    {
+      "text": "Dan: Dude I shot a guy \nArin: Nice well you actually did - you did",
+      "start": 982.18,
+      "duration": 3.72
+    },
+    {
+      "text": "Arin: I think you got a headshot too\nDan: I'm shooting people! It's all happening",
+      "start": 985.9,
+      "duration": 4.4
+    },
+    {
+      "text": "Arin: So your turret's dead so maybe put down another\nDan: okay great",
+      "start": 990.3,
+      "duration": 2.34
+    },
+    {
+      "text": "Arin: Maybe go find a healer or some health?",
+      "start": 992.64,
+      "duration": 1.62
+    },
+    {
+      "text": "Arin: Put down a shield maybe for you \nDan: Okay",
+      "start": 995.0,
+      "duration": 2.08
+    },
+    {
+      "text": "Dan: Hey!\nArin: Yeah, you're probably going to die right now",
+      "start": 997.86,
+      "duration": 2.78
+    },
+    {
+      "text": "Arin: *laughs*\nDan *disappointed*: Chickpea..",
+      "start": 1000.64,
+      "duration": 2.22
+    },
+    {
+      "text": "Arin: But you're doing great, Dan. I'm really impressed",
+      "start": 1004.64,
+      "duration": 2.8
+    },
+    {
+      "text": "Dan: You know what, thank you Arin. Arin: You're getting kills left and right",
+      "start": 1007.44,
+      "duration": 4.16
+    },
+    {
+      "text": "Dan: Take me back to my quaint days Arin: Really helping out your team",
+      "start": 1011.92,
+      "duration": 3.78
+    },
+    {
+      "text": "Arin: But again, the most important thing is to block the payload because..",
+      "start": 1015.82,
+      "duration": 4.16
+    },
+    {
+      "text": "Arin: Because no matter how many kills or no kills you get - if the payload reaches the end you lose",
+      "start": 1020.28,
+      "duration": 3.9
+    },
+    {
+      "text": "Dan: Got it. So this is probably a pretty good spot, right?",
+      "start": 1024.18,
+      "duration": 3.08
+    },
+    {
+      "text": "Arin: Yeah, but not with a Reinhard shooting shit at you",
+      "start": 1027.26,
+      "duration": 3.1
+    },
+    {
+      "text": "Dan: Ok, well, noted for the picture \nArin: The guy with the hammer - he is a tank so he has a ton",
+      "start": 1030.42,
+      "duration": 5.7
+    },
+    {
+      "text": "Arin: So he has a ton of health and he does pretty decent damage",
+      "start": 1036.42,
+      "duration": 4.4
+    },
+    {
+      "text": "Arin: But the whole point of him is to stay alive so he can push the payload",
+      "start": 1040.82,
+      "duration": 2.56
+    },
+    {
+      "text": "Dan: Boy, it's pretty close, huh? Yeah, we're not going to win this",
+      "start": 1044.32,
+      "duration": 3.52
+    },
+    {
+      "text": "Arin: Yeah.. I think it's - there.",
+      "start": 1047.9,
+      "duration": 2.24
+    },
+    {
+      "text": "Arin: Well that's a loss\nBoth: *laugh uncontrollably*",
+      "start": 1050.18,
+      "duration": 6.5
+    },
+    {
+      "text": "Arin: But you know it's you win some, you lose some. Yeah that's just how it goes",
+      "start": 1056.7,
+      "duration": 3.5
+    },
+    {
+      "text": "Dan: Lollipop's pretty cute actually. Um.. good job. Good job for them.",
+      "start": 1060.34,
+      "duration": 5.06
+    },
+    {
+      "text": "Dan: They look.. now that I see them all lined up and friendly they seem like a nice group",
+      "start": 1065.4,
+      "duration": 5.56
+    },
+    {
+      "text": "Arin: Yeah, you know they're just trying to do their jobs\nDan: Yeah",
+      "start": 1070.96,
+      "duration": 3.16
+    },
+    {
+      "text": "Arin: They're just trying to push that payload to the end and protect it from you guys",
+      "start": 1074.12,
+      "duration": 3.54
+    },
+    {
+      "text": "Arin: Um.. which - actually you're the bad guys because you don't want them to do their jobs",
+      "start": 1078.18,
+      "duration": 4.68
+    },
+    {
+      "text": "Dan: Oh, shit. Do I get to..\nArin: Look, you got a card!",
+      "start": 1082.94,
+      "duration": 2.18
+    },
+    {
+      "text": "Dan: Yayyy!\nArin: Oh look at you!",
+      "start": 1085.12,
+      "duration": 1.8
+    },
+    {
+      "text": "Arin: You - you've got 26 percent kill participation in all the kills in the game",
+      "start": 1086.92,
+      "duration": 3.32
+    },
+    {
+      "text": "Dan: That makes me feel terrific.\nArin: Look at that!",
+      "start": 1090.24,
+      "duration": 2.14
+    },
+    {
+      "text": "Dan: Is there a way to talk to people on this?\nArin: Sure, but.. um..",
+      "start": 1092.54,
+      "duration": 4.22
+    },
+    {
+      "text": "Dan: Press enter to chat?",
+      "start": 1097.44,
+      "duration": 1.06
+    },
+    {
+      "text": "Arin: Yeah you could -  you could press enter. And that's to your team",
+      "start": 1098.54,
+      "duration": 4.86
+    },
+    {
+      "text": "Dan: I just want to say: it.. was.. a.. pleasure..",
+      "start": 1105.06,
+      "duration": 4.84
+    },
+    {
+      "text": "Arin: Oh, you left.\nDan: Damn it.",
+      "start": 1110.06,
+      "duration": 2.4
+    },
+    {
+      "text": "Arin: This is a highlight - this will show you a good moment of your game",
+      "start": 1114.48,
+      "duration": 3.48
+    },
+    {
+      "text": "Arin: See, this is a play of the game that you could have gotten if somebody wasn't better",
+      "start": 1117.96,
+      "duration": 2.4
+    },
+    {
+      "text": "Both: *laugh*\nDan: If someone hadn't made more plays of the game",
+      "start": 1120.76,
+      "duration": 3.36
+    },
+    {
+      "text": "Arin: Look at you, look at you killing people with your turret, man!",
+      "start": 1124.12,
+      "duration": 2.42
+    },
+    {
+      "text": "Arin: And you were shooting at your teammates - that's cool",
+      "start": 1126.54,
+      "duration": 2.74
+    },
+    {
+      "text": "Both: *laugh uproariously*",
+      "start": 1129.28,
+      "duration": 4.44
+    },
+    {
+      "text": "Dan: Overwatch! I'm digging it.",
+      "start": 1133.72,
+      "duration": 2.48
+    },
+    {
+      "text": "Dan: Alright, next time on Game Grumps",
+      "start": 1136.36,
+      "duration": 1.98
+    },
+    {
+      "text": "Arin: Next time on Game grumps, I'm going to teach Dan how to tank",
+      "start": 1138.34,
+      "duration": 2.26
+    },
+    {
+      "text": "Dan: Jesus christmas (?)\nArin: And it's going to be a good time",
+      "start": 1140.6,
+      "duration": 2.9
+    },
+    {
+      "text": "Dan: See you soon!\nArin: Bye",
+      "start": 1143.54,
+      "duration": 2.3
+    },
+    {
+      "text": "(Dan: The stakes is high, baby - the stakes is high!)\nCaptioned by Sydney White",
+      "start": 1147.82,
+      "duration": 4.52
+    }
+  ]
+}

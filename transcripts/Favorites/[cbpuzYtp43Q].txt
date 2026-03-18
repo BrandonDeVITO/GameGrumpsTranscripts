@@ -1,0 +1,38 @@
+{
+  "video_id": "cbpuzYtp43Q",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippets": [
+    {
+      "text": "[Music]",
+      "start": 0.66,
+      "duration": 12.529
+    },
+    {
+      "text": "[Music]",
+      "start": 19.29,
+      "duration": 16.039
+    },
+    {
+      "text": "[Music]",
+      "start": 43.05,
+      "duration": 3.24
+    },
+    {
+      "text": "[Applause]",
+      "start": 46.33,
+      "duration": 3.24
+    },
+    {
+      "text": "did your PlayBook quit right now believe",
+      "start": 60.23,
+      "duration": 14.07
+    },
+    {
+      "text": "you sorry I'm also pooping",
+      "start": 64.02,
+      "duration": 10.28
+    }
+  ]
+}

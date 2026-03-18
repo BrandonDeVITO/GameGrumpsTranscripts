@@ -1,0 +1,38 @@
+{
+  "video_id": "KXdjVwXVk24",
+  "language": "Spanish (auto-generated)",
+  "language_code": "es",
+  "is_generated": true,
+  "snippets": [
+    {
+      "text": "[Música]",
+      "start": 0.03,
+      "duration": 3.429
+    },
+    {
+      "text": "i",
+      "start": 0.459,
+      "duration": 3.0
+    },
+    {
+      "text": "[Música]",
+      "start": 5.05,
+      "duration": 3.13
+    },
+    {
+      "text": "[Música]",
+      "start": 34.95,
+      "duration": 3.07
+    },
+    {
+      "text": "[Música]",
+      "start": 57.28,
+      "duration": 3.06
+    },
+    {
+      "text": "[Música]",
+      "start": 63.29,
+      "duration": 3.119
+    }
+  ]
+}

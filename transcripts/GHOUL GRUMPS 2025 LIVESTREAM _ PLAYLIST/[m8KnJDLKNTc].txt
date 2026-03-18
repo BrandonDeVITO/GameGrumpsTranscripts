@@ -1,0 +1,6343 @@
+{
+  "video_id": "m8KnJDLKNTc",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippets": [
+    {
+      "text": "Last time on Game Grumps.",
+      "start": 0.32,
+      "duration": 4.64
+    },
+    {
+      "text": ">> And now, as you may have suspected, you",
+      "start": 2.72,
+      "duration": 5.919
+    },
+    {
+      "text": "made a flute. You made a wooden flute.",
+      "start": 4.96,
+      "duration": 5.36
+    },
+    {
+      "text": ">> All right. And I used the flute on what?",
+      "start": 8.639,
+      "duration": 3.361
+    },
+    {
+      "text": "The sad guy. Quagmire.",
+      "start": 10.32,
+      "duration": 5.6
+    },
+    {
+      "text": ">> Just go to the office of Wine again. I",
+      "start": 12.0,
+      "duration": 6.0
+    },
+    {
+      "text": "can't believe none of this means",
+      "start": 15.92,
+      "duration": 4.64
+    },
+    {
+      "text": "anything. Oh, of course not. It's just",
+      "start": 18.0,
+      "duration": 3.68
+    },
+    {
+      "text": "stuff to do.",
+      "start": 20.56,
+      "duration": 5.879
+    },
+    {
+      "text": ">> Hey, I'm Grubs. I'm not so grump.",
+      "start": 21.68,
+      "duration": 4.759
+    },
+    {
+      "text": ">> Hello. Uh",
+      "start": 27.279,
+      "duration": 5.601
+    },
+    {
+      "text": ">> uh and welcome back to cotton fluffy man",
+      "start": 29.439,
+      "duration": 7.12
+    },
+    {
+      "text": "in Willy Wonka has been buried",
+      "start": 32.88,
+      "duration": 5.44
+    },
+    {
+      "text": "in his own snow cone machine.",
+      "start": 36.559,
+      "duration": 3.281
+    },
+    {
+      "text": ">> This is the alternate reality where he",
+      "start": 38.32,
+      "duration": 5.48
+    },
+    {
+      "text": "didn't survive the fall.",
+      "start": 39.84,
+      "duration": 3.96
+    },
+    {
+      "text": "Oh my god.",
+      "start": 44.079,
+      "duration": 5.281
+    },
+    {
+      "text": "He died. This the first time we saw him",
+      "start": 46.16,
+      "duration": 4.64
+    },
+    {
+      "text": "ever.",
+      "start": 49.36,
+      "duration": 3.44
+    },
+    {
+      "text": ">> I'm taking the metal chain, bro.",
+      "start": 50.8,
+      "duration": 5.12
+    },
+    {
+      "text": ">> Oh, okay. Here. Hold on. Here's what it",
+      "start": 52.8,
+      "duration": 5.599
+    },
+    {
+      "text": "says. And uh for anyone just joining us,",
+      "start": 55.92,
+      "duration": 4.56
+    },
+    {
+      "text": "we are absolutely using a walkthrough.",
+      "start": 58.399,
+      "duration": 3.921
+    },
+    {
+      "text": "This game is it sucks and it's",
+      "start": 60.48,
+      "duration": 5.999
+    },
+    {
+      "text": "impossible. Um warning in this chapter",
+      "start": 62.32,
+      "duration": 6.0
+    },
+    {
+      "text": "there are a lot of items to pick up and",
+      "start": 66.479,
+      "duration": 3.601
+    },
+    {
+      "text": "you have to pick up all of them in order",
+      "start": 68.32,
+      "duration": 3.839
+    },
+    {
+      "text": "for the final cut scene to trigger. If",
+      "start": 70.08,
+      "duration": 3.84
+    },
+    {
+      "text": "you miss any, you may be forced to spend",
+      "start": 72.159,
+      "duration": 3.601
+    },
+    {
+      "text": "a lot of time backtracking just to find",
+      "start": 73.92,
+      "duration": 2.48
+    },
+    {
+      "text": "them. Okay.",
+      "start": 75.76,
+      "duration": 4.08
+    },
+    {
+      "text": ">> This is such an honest walkthrough. Um",
+      "start": 76.4,
+      "duration": 6.16
+    },
+    {
+      "text": "all right. Yep. Move Briggs out of the",
+      "start": 79.84,
+      "duration": 4.24
+    },
+    {
+      "text": "way and take the chain from the ground.",
+      "start": 82.56,
+      "duration": 1.68
+    },
+    {
+      "text": "You",
+      "start": 84.08,
+      "duration": 1.92
+    },
+    {
+      "text": ">> sure? Okay.",
+      "start": 84.24,
+      "duration": 5.96
+    },
+    {
+      "text": ">> Nothing with the petrified body.",
+      "start": 86.0,
+      "duration": 4.2
+    },
+    {
+      "text": ">> A poor unfortunate soul.",
+      "start": 91.2,
+      "duration": 5.8
+    },
+    {
+      "text": ">> So sad.",
+      "start": 93.68,
+      "duration": 3.32
+    },
+    {
+      "text": ">> I died happy. I have come for me gold.",
+      "start": 97.759,
+      "duration": 5.841
+    },
+    {
+      "text": "It's like if leprechaun was climbing",
+      "start": 101.84,
+      "duration": 4.0
+    },
+    {
+      "text": "Mount Everest,",
+      "start": 103.6,
+      "duration": 3.44
+    },
+    {
+      "text": ">> got stuck halfway up.",
+      "start": 105.84,
+      "duration": 2.639
+    },
+    {
+      "text": ">> Doing my best.",
+      "start": 107.04,
+      "duration": 2.719
+    },
+    {
+      "text": ">> Doesn't seem like there's anything to do",
+      "start": 108.479,
+      "duration": 1.761
+    },
+    {
+      "text": "here.",
+      "start": 109.759,
+      "duration": 3.761
+    },
+    {
+      "text": ">> No, no, it's just just flavor. Fun",
+      "start": 110.24,
+      "duration": 4.64
+    },
+    {
+      "text": "flavor. I like that.",
+      "start": 113.52,
+      "duration": 3.599
+    },
+    {
+      "text": ">> Uh, walk forward.",
+      "start": 114.88,
+      "duration": 3.599
+    },
+    {
+      "text": ">> I'm assuming this is forward.",
+      "start": 117.119,
+      "duration": 4.761
+    },
+    {
+      "text": ">> Couldn't tell you.",
+      "start": 118.479,
+      "duration": 3.401
+    },
+    {
+      "text": ">> A curfew is now in place in the lost",
+      "start": 123.68,
+      "duration": 4.799
+    },
+    {
+      "text": "town of Dark Mir. I love that they put",
+      "start": 125.52,
+      "duration": 7.359
+    },
+    {
+      "text": "that in captions at the bottom.",
+      "start": 128.479,
+      "duration": 6.961
+    },
+    {
+      "text": "A curfew is now in place in the lost",
+      "start": 132.879,
+      "duration": 4.861
+    },
+    {
+      "text": "town of Dark Mir.",
+      "start": 135.44,
+      "duration": 5.439
+    },
+    {
+      "text": "[Music]",
+      "start": 137.74,
+      "duration": 4.98
+    },
+    {
+      "text": ">> Now remember to feed the cat. Oh, forget",
+      "start": 140.879,
+      "duration": 4.881
+    },
+    {
+      "text": "it. the stranger here in Dot. Well, now",
+      "start": 142.72,
+      "duration": 5.28
+    },
+    {
+      "text": "that is a rare thing. A rare thing",
+      "start": 145.76,
+      "duration": 4.64
+    },
+    {
+      "text": "indeed.",
+      "start": 148.0,
+      "duration": 4.08
+    },
+    {
+      "text": ">> And it seems to me, stranger, that",
+      "start": 150.4,
+      "duration": 3.36
+    },
+    {
+      "text": "you've got yourself into a spot of",
+      "start": 152.08,
+      "duration": 3.04
+    },
+    {
+      "text": "bother.",
+      "start": 153.76,
+      "duration": 2.0
+    },
+    {
+      "text": ">> Father,",
+      "start": 155.12,
+      "duration": 2.399
+    },
+    {
+      "text": ">> could he sound more bored?",
+      "start": 155.76,
+      "duration": 2.4
+    },
+    {
+      "text": ">> I know.",
+      "start": 157.519,
+      "duration": 2.72
+    },
+    {
+      "text": ">> Had nothing to do with that.",
+      "start": 158.16,
+      "duration": 6.079
+    },
+    {
+      "text": ">> Ah, for sure. But who believe you?",
+      "start": 160.239,
+      "duration": 4.72
+    },
+    {
+      "text": ">> But",
+      "start": 164.239,
+      "duration": 3.201
+    },
+    {
+      "text": ">> now for the price of a drram, that'll be",
+      "start": 164.959,
+      "duration": 4.801
+    },
+    {
+      "text": "a coin in my chin to you. I could",
+      "start": 167.44,
+      "duration": 5.2
+    },
+    {
+      "text": "perhaps be of help. Well, yes, but",
+      "start": 169.76,
+      "duration": 4.24
+    },
+    {
+      "text": ">> do you really think a coin will help you",
+      "start": 172.64,
+      "duration": 3.44
+    },
+    {
+      "text": "at this point?",
+      "start": 174.0,
+      "duration": 4.319
+    },
+    {
+      "text": ">> We need new plaid pants.",
+      "start": 176.08,
+      "duration": 2.799
+    },
+    {
+      "text": ">> Well,",
+      "start": 178.319,
+      "duration": 2.56
+    },
+    {
+      "text": ">> bowl.",
+      "start": 178.879,
+      "duration": 4.801
+    },
+    {
+      "text": ">> What does this say?",
+      "start": 180.879,
+      "duration": 4.801
+    },
+    {
+      "text": ">> Walk this way.",
+      "start": 183.68,
+      "duration": 3.76
+    },
+    {
+      "text": ">> Poor unfortunate soul",
+      "start": 185.68,
+      "duration": 3.44
+    },
+    {
+      "text": ">> again.",
+      "start": 187.44,
+      "duration": 4.24
+    },
+    {
+      "text": "They're everywhere. Where's my Oh, there",
+      "start": 189.12,
+      "duration": 6.56
+    },
+    {
+      "text": "it is. What does it say? Don't walk by",
+      "start": 191.68,
+      "duration": 6.24
+    },
+    {
+      "text": "and cross.",
+      "start": 195.68,
+      "duration": 7.6
+    },
+    {
+      "text": "Fly, ego. Empty your purse and mount my",
+      "start": 197.92,
+      "duration": 6.56
+    },
+    {
+      "text": "first.",
+      "start": 203.28,
+      "duration": 3.28
+    },
+    {
+      "text": ">> You can repeatedly give coins to the",
+      "start": 204.48,
+      "duration": 3.92
+    },
+    {
+      "text": "beggar for some conversations that",
+      "start": 206.56,
+      "duration": 3.759
+    },
+    {
+      "text": "explain this chapter.",
+      "start": 208.4,
+      "duration": 3.04
+    },
+    {
+      "text": ">> Do I want to?",
+      "start": 210.319,
+      "duration": 3.28
+    },
+    {
+      "text": ">> I don't know. Optional.",
+      "start": 211.44,
+      "duration": 3.2
+    },
+    {
+      "text": ">> Does it say optional?",
+      "start": 213.599,
+      "duration": 1.441
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 214.64,
+      "duration": 3.44
+    },
+    {
+      "text": ">> Oh, okay. Then I don't give a shit.",
+      "start": 215.04,
+      "duration": 4.559
+    },
+    {
+      "text": ">> All right, then. Walk forward and enter",
+      "start": 218.08,
+      "duration": 2.96
+    },
+    {
+      "text": "the inn of sin.",
+      "start": 219.599,
+      "duration": 3.28
+    },
+    {
+      "text": ">> Oh, this one.",
+      "start": 221.04,
+      "duration": 4.839
+    },
+    {
+      "text": ">> Okay.",
+      "start": 222.879,
+      "duration": 3.0
+    },
+    {
+      "text": "It looks like they added the snow later.",
+      "start": 226.879,
+      "duration": 4.481
+    },
+    {
+      "text": "Dark Mirror is modeled off of Unreal",
+      "start": 229.44,
+      "duration": 3.84
+    },
+    {
+      "text": "Tournament's aristocracy.",
+      "start": 231.36,
+      "duration": 6.12
+    },
+    {
+      "text": ">> Fuck yeah. Okay, cool.",
+      "start": 233.28,
+      "duration": 4.2
+    },
+    {
+      "text": "[Music]",
+      "start": 237.96,
+      "duration": 2.279
+    },
+    {
+      "text": ">> That's my impression of Unreal",
+      "start": 239.2,
+      "duration": 1.599
+    },
+    {
+      "text": "Tournament music.",
+      "start": 240.239,
+      "duration": 2.801
+    },
+    {
+      "text": ">> Yeah, for a drink. It's on the house for",
+      "start": 240.799,
+      "duration": 4.321
+    },
+    {
+      "text": "strangers, if you know what I mean.",
+      "start": 243.04,
+      "duration": 3.6
+    },
+    {
+      "text": ">> No, not for me. Thank you.",
+      "start": 245.12,
+      "duration": 3.679
+    },
+    {
+      "text": ">> I I don't know what you mean. I What?",
+      "start": 246.64,
+      "duration": 4.159
+    },
+    {
+      "text": ">> You sure now, sir? It's all good, strong",
+      "start": 248.799,
+      "duration": 2.881
+    },
+    {
+      "text": "stuff.",
+      "start": 250.799,
+      "duration": 4.241
+    },
+    {
+      "text": ">> No, no, no. But thank you anyway.",
+      "start": 251.68,
+      "duration": 5.519
+    },
+    {
+      "text": ">> There's only one spirit.",
+      "start": 255.04,
+      "duration": 3.84
+    },
+    {
+      "text": ">> Jesus. Will you",
+      "start": 257.199,
+      "duration": 3.841
+    },
+    {
+      "text": ">> please back off, sir? I know me titties",
+      "start": 258.88,
+      "duration": 2.96
+    },
+    {
+      "text": "are out, but",
+      "start": 261.04,
+      "duration": 1.68
+    },
+    {
+      "text": ">> yes.",
+      "start": 261.84,
+      "duration": 6.16
+    },
+    {
+      "text": ">> Uh, can I get you a bra?",
+      "start": 262.72,
+      "duration": 6.96
+    },
+    {
+      "text": ">> I'm not looking for love tonight.",
+      "start": 268.0,
+      "duration": 4.24
+    },
+    {
+      "text": ">> I think we might have to mosaic those.",
+      "start": 269.68,
+      "duration": 4.079
+    },
+    {
+      "text": ">> What? The man boobs.",
+      "start": 272.24,
+      "duration": 2.56
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 273.759,
+      "duration": 1.601
+    },
+    {
+      "text": ">> Why?",
+      "start": 274.8,
+      "duration": 5.679
+    },
+    {
+      "text": ">> They're just the form and the function.",
+      "start": 275.36,
+      "duration": 8.08
+    },
+    {
+      "text": ">> All right. Do I have to talk to him?",
+      "start": 280.479,
+      "duration": 4.561
+    },
+    {
+      "text": ">> Uh, keep walking through.",
+      "start": 283.44,
+      "duration": 2.24
+    },
+    {
+      "text": ">> All right.",
+      "start": 285.04,
+      "duration": 3.1
+    },
+    {
+      "text": ">> Rooms.",
+      "start": 285.68,
+      "duration": 4.56
+    },
+    {
+      "text": "[Music]",
+      "start": 288.14,
+      "duration": 5.46
+    },
+    {
+      "text": "Keep going. I'm scouring for items cuz I",
+      "start": 290.24,
+      "duration": 6.399
+    },
+    {
+      "text": "was told that if I don't, I will lose.",
+      "start": 293.6,
+      "duration": 6.039
+    },
+    {
+      "text": ">> Totally.",
+      "start": 296.639,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh.",
+      "start": 301.44,
+      "duration": 2.319
+    },
+    {
+      "text": ">> Oh, this is the five claws uh lodge from",
+      "start": 301.68,
+      "duration": 3.04
+    },
+    {
+      "text": "Oblivion. Nice.",
+      "start": 303.759,
+      "duration": 3.921
+    },
+    {
+      "text": ">> You there, stranger?",
+      "start": 304.72,
+      "duration": 4.96
+    },
+    {
+      "text": "Why don't you join me?",
+      "start": 307.68,
+      "duration": 4.64
+    },
+    {
+      "text": ">> I can think of 10 different reasons.",
+      "start": 309.68,
+      "duration": 7.04
+    },
+    {
+      "text": ">> I'm very worried about him, you know.",
+      "start": 312.32,
+      "duration": 8.4
+    },
+    {
+      "text": "You see, he's just not himself of late.",
+      "start": 316.72,
+      "duration": 5.84
+    },
+    {
+      "text": ">> Is this guy supposed to be drunk? Is",
+      "start": 320.72,
+      "duration": 3.6
+    },
+    {
+      "text": "that what it's not clear?",
+      "start": 322.56,
+      "duration": 4.96
+    },
+    {
+      "text": ">> But there is something decidedly odd",
+      "start": 324.32,
+      "duration": 6.599
+    },
+    {
+      "text": "about him.",
+      "start": 327.52,
+      "duration": 3.399
+    },
+    {
+      "text": ">> And what would that be?",
+      "start": 331.28,
+      "duration": 4.24
+    },
+    {
+      "text": ">> Something odd. Something odd about who?",
+      "start": 332.16,
+      "duration": 4.4
+    },
+    {
+      "text": ">> Well, the mirror of",
+      "start": 335.52,
+      "duration": 4.399
+    },
+    {
+      "text": ">> something odd about Mary",
+      "start": 336.56,
+      "duration": 5.04
+    },
+    {
+      "text": "for such a time.",
+      "start": 339.919,
+      "duration": 3.921
+    },
+    {
+      "text": ">> She got jizz in her hair.",
+      "start": 341.6,
+      "duration": 3.2
+    },
+    {
+      "text": "I knew",
+      "start": 343.84,
+      "duration": 3.199
+    },
+    {
+      "text": ">> that actually happens in that movie.",
+      "start": 344.8,
+      "duration": 6.64
+    },
+    {
+      "text": ">> But just like Well,",
+      "start": 347.039,
+      "duration": 6.561
+    },
+    {
+      "text": ">> a lot of people have forgotten. But the",
+      "start": 351.44,
+      "duration": 4.24
+    },
+    {
+      "text": "nut is Oh my god.",
+      "start": 353.6,
+      "duration": 4.64
+    },
+    {
+      "text": ">> There he is. That's him. He's the soul",
+      "start": 355.68,
+      "duration": 5.28
+    },
+    {
+      "text": "taker.",
+      "start": 358.24,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Let's take that line again. This time",
+      "start": 360.96,
+      "duration": 4.679
+    },
+    {
+      "text": "not in a bathroom.",
+      "start": 362.24,
+      "duration": 3.399
+    },
+    {
+      "text": ">> Grab him.",
+      "start": 367.12,
+      "duration": 6.329
+    },
+    {
+      "text": "[Music]",
+      "start": 370.38,
+      "duration": 3.069
+    },
+    {
+      "text": "You do realize, of course, that I'm",
+      "start": 374.0,
+      "duration": 4.24
+    },
+    {
+      "text": "innocent. I've only just arrived in Dark",
+      "start": 375.6,
+      "duration": 5.439
+    },
+    {
+      "text": "Men. How could I possibly be this soul",
+      "start": 378.24,
+      "duration": 6.12
+    },
+    {
+      "text": "taker creature?",
+      "start": 381.039,
+      "duration": 3.321
+    },
+    {
+      "text": ">> You do realize, of course, I'm innocent.",
+      "start": 387.28,
+      "duration": 4.639
+    },
+    {
+      "text": "I've only what? I only took like five I",
+      "start": 389.199,
+      "duration": 5.201
+    },
+    {
+      "text": "took five souls so that I just got here",
+      "start": 391.919,
+      "duration": 4.4
+    },
+    {
+      "text": "to Dark Mir.",
+      "start": 394.4,
+      "duration": 4.0
+    },
+    {
+      "text": ">> I only took souls outside of Darkmir's",
+      "start": 396.319,
+      "duration": 2.801
+    },
+    {
+      "text": "jurisdiction.",
+      "start": 398.4,
+      "duration": 4.16
+    },
+    {
+      "text": ">> Yes. And now counting your soul, which",
+      "start": 399.12,
+      "duration": 7.68
+    },
+    {
+      "text": "I've just taken now.",
+      "start": 402.56,
+      "duration": 6.0
+    },
+    {
+      "text": ">> Um, okay. Well, there's a crack in the",
+      "start": 406.8,
+      "duration": 4.64
+    },
+    {
+      "text": "wall.",
+      "start": 408.56,
+      "duration": 4.079
+    },
+    {
+      "text": ">> Interesting.",
+      "start": 411.44,
+      "duration": 2.96
+    },
+    {
+      "text": ">> Everything's fucking interesting.",
+      "start": 412.639,
+      "duration": 2.161
+    },
+    {
+      "text": ">> Yep.",
+      "start": 414.4,
+      "duration": 1.84
+    },
+    {
+      "text": ">> You know,",
+      "start": 414.8,
+      "duration": 4.32
+    },
+    {
+      "text": ">> I had a feeling it was going to be you.",
+      "start": 416.24,
+      "duration": 3.84
+    },
+    {
+      "text": ">> He's so close.",
+      "start": 419.12,
+      "duration": 2.72
+    },
+    {
+      "text": ">> You know me always.",
+      "start": 420.08,
+      "duration": 3.92
+    },
+    {
+      "text": ">> Oh my god.",
+      "start": 421.84,
+      "duration": 4.639
+    },
+    {
+      "text": ">> Let me tell you a little story. Yeah.",
+      "start": 424.0,
+      "duration": 4.88
+    },
+    {
+      "text": "Well, now he seemed like a nice",
+      "start": 426.479,
+      "duration": 4.081
+    },
+    {
+      "text": ">> It says Quagmire was ear.",
+      "start": 428.88,
+      "duration": 3.28
+    },
+    {
+      "text": ">> Well, they look like me as you well",
+      "start": 430.56,
+      "duration": 4.639
+    },
+    {
+      "text": "know. Well, next thing I know, the",
+      "start": 432.16,
+      "duration": 5.12
+    },
+    {
+      "text": "jailers arrived, cut me off, and this is",
+      "start": 435.199,
+      "duration": 4.72
+    },
+    {
+      "text": "where I ended up. He told me that the",
+      "start": 437.28,
+      "duration": 4.639
+    },
+    {
+      "text": "customers had threatened to burn the",
+      "start": 439.919,
+      "duration": 5.361
+    },
+    {
+      "text": "place down unless I was taken away where",
+      "start": 441.919,
+      "duration": 5.28
+    },
+    {
+      "text": "he told bloody lies, if you ask me.",
+      "start": 445.28,
+      "duration": 3.52
+    },
+    {
+      "text": ">> Cut back. Cut back to you. You just see",
+      "start": 447.199,
+      "duration": 2.881
+    },
+    {
+      "text": "your swinging feet.",
+      "start": 448.8,
+      "duration": 4.519
+    },
+    {
+      "text": ">> Can you",
+      "start": 450.08,
+      "duration": 3.239
+    },
+    {
+      "text": "see? Look at me. I can't even get myself",
+      "start": 453.599,
+      "duration": 6.641
+    },
+    {
+      "text": "out. Mind you, tell the boy, I will tell",
+      "start": 457.28,
+      "duration": 7.039
+    },
+    {
+      "text": "you this. Empty vessels make most noise.",
+      "start": 460.24,
+      "duration": 5.679
+    },
+    {
+      "text": "Well, that's at least what they said to",
+      "start": 464.319,
+      "duration": 3.121
+    },
+    {
+      "text": "me at the end before they cared me out",
+      "start": 465.919,
+      "duration": 2.801
+    },
+    {
+      "text": "and bought me over here and put me",
+      "start": 467.44,
+      "duration": 4.319
+    },
+    {
+      "text": ">> Whoa, he's going off script.",
+      "start": 468.72,
+      "duration": 4.8
+    },
+    {
+      "text": ">> Oh my god.",
+      "start": 471.759,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Me out started rubbing me bum with oil.",
+      "start": 473.52,
+      "duration": 4.399
+    },
+    {
+      "text": "Started sticking things in me bum.",
+      "start": 475.759,
+      "duration": 4.56
+    },
+    {
+      "text": ">> You should just say like adlib in",
+      "start": 477.919,
+      "duration": 4.481
+    },
+    {
+      "text": "parenthesis.",
+      "start": 480.319,
+      "duration": 4.0
+    },
+    {
+      "text": "S",
+      "start": 482.4,
+      "duration": 2.799
+    },
+    {
+      "text": ">> S.",
+      "start": 484.319,
+      "duration": 2.0
+    },
+    {
+      "text": ">> Oh.",
+      "start": 485.199,
+      "duration": 4.68
+    },
+    {
+      "text": ">> Oh, good grief.",
+      "start": 486.319,
+      "duration": 3.56
+    },
+    {
+      "text": ">> No.",
+      "start": 491.12,
+      "duration": 1.6
+    },
+    {
+      "text": ">> Oh, okay.",
+      "start": 491.44,
+      "duration": 4.56
+    },
+    {
+      "text": ">> Sailor boy. It's your turn.",
+      "start": 492.72,
+      "duration": 7.039
+    },
+    {
+      "text": ">> Okay. Okay. I like this game.",
+      "start": 496.0,
+      "duration": 4.879
+    },
+    {
+      "text": ">> Let me think. Let me think. Let me",
+      "start": 499.759,
+      "duration": 3.361
+    },
+    {
+      "text": "think.",
+      "start": 500.879,
+      "duration": 8.081
+    },
+    {
+      "text": ">> Now I spy with my rotten eye something.",
+      "start": 503.12,
+      "duration": 10.079
+    },
+    {
+      "text": ">> Oh, P. Jeez. P.",
+      "start": 508.96,
+      "duration": 4.239
+    },
+    {
+      "text": "B. That's right. Big penis.",
+      "start": 513.519,
+      "duration": 6.161
+    },
+    {
+      "text": ">> I already went with B.",
+      "start": 518.32,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Oh god. All right. You need to get the",
+      "start": 519.68,
+      "duration": 3.919
+    },
+    {
+      "text": "jailer's attention.",
+      "start": 522.32,
+      "duration": 3.519
+    },
+    {
+      "text": ">> Okay. I have to action on this cell",
+      "start": 523.599,
+      "duration": 3.281
+    },
+    {
+      "text": "door. I'm assuming",
+      "start": 525.839,
+      "duration": 2.081
+    },
+    {
+      "text": ">> it's locked.",
+      "start": 526.88,
+      "duration": 2.88
+    },
+    {
+      "text": ">> I think the cup maybe",
+      "start": 527.92,
+      "duration": 4.4
+    },
+    {
+      "text": ">> I Oh, the cup on the door.",
+      "start": 529.76,
+      "duration": 3.28
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 532.32,
+      "duration": 4.199
+    },
+    {
+      "text": ">> Oh my god.",
+      "start": 533.04,
+      "duration": 3.479
+    },
+    {
+      "text": "[Music]",
+      "start": 536.61,
+      "duration": 4.909
+    },
+    {
+      "text": ">> Oh my god. Oh my god. So, you're ready",
+      "start": 538.88,
+      "duration": 5.28
+    },
+    {
+      "text": "for your last meal, are you?",
+      "start": 541.519,
+      "duration": 4.721
+    },
+    {
+      "text": ">> Well, there you go.",
+      "start": 544.16,
+      "duration": 4.239
+    },
+    {
+      "text": ">> That was a very deep, respectful vow.",
+      "start": 546.24,
+      "duration": 3.2
+    },
+    {
+      "text": ">> And right back at you.",
+      "start": 548.399,
+      "duration": 4.321
+    },
+    {
+      "text": ">> How dare you, sir, to even offer such",
+      "start": 549.44,
+      "duration": 6.28
+    },
+    {
+      "text": "filth.",
+      "start": 552.72,
+      "duration": 3.0
+    },
+    {
+      "text": ">> I love walking away like this.",
+      "start": 556.959,
+      "duration": 4.161
+    },
+    {
+      "text": ">> Yeah, he walks away like he remembers",
+      "start": 559.2,
+      "duration": 5.04
+    },
+    {
+      "text": "his favorite episode of The Office.",
+      "start": 561.12,
+      "duration": 4.399
+    },
+    {
+      "text": "That gym.",
+      "start": 564.24,
+      "duration": 4.64
+    },
+    {
+      "text": ">> Can uh can you turn the uh your phone to",
+      "start": 565.519,
+      "duration": 5.041
+    },
+    {
+      "text": "silent? It is on silent.",
+      "start": 568.88,
+      "duration": 3.44
+    },
+    {
+      "text": ">> Yeah, but it's on the vibrates and I",
+      "start": 570.56,
+      "duration": 6.0
+    },
+    {
+      "text": "feel like I'm getting a a tingle, if you",
+      "start": 572.32,
+      "duration": 4.72
+    },
+    {
+      "text": "know what I mean.",
+      "start": 576.56,
+      "duration": 1.68
+    },
+    {
+      "text": ">> Put it on focus mode.",
+      "start": 577.04,
+      "duration": 3.359
+    },
+    {
+      "text": ">> Thank you.",
+      "start": 578.24,
+      "duration": 4.0
+    },
+    {
+      "text": "Cool. Cuz I can't focus on anything but",
+      "start": 580.399,
+      "duration": 5.681
+    },
+    {
+      "text": "the vibrating. All right. Uh",
+      "start": 582.24,
+      "duration": 5.68
+    },
+    {
+      "text": "uh",
+      "start": 586.08,
+      "duration": 4.8
+    },
+    {
+      "text": "use the Oh, use the meal on the window",
+      "start": 587.92,
+      "duration": 3.76
+    },
+    {
+      "text": "to the right.",
+      "start": 590.88,
+      "duration": 2.72
+    },
+    {
+      "text": ">> The meal.",
+      "start": 591.68,
+      "duration": 4.0
+    },
+    {
+      "text": ">> What the hell?",
+      "start": 593.6,
+      "duration": 3.04
+    },
+    {
+      "text": ">> On the window,",
+      "start": 595.68,
+      "duration": 4.2
+    },
+    {
+      "text": ">> I guess.",
+      "start": 596.64,
+      "duration": 3.24
+    },
+    {
+      "text": "Because gries and squirmies I smell. A",
+      "start": 600.959,
+      "duration": 6.401
+    },
+    {
+      "text": "it's you.",
+      "start": 606.16,
+      "duration": 3.04
+    },
+    {
+      "text": ">> A rack.",
+      "start": 607.36,
+      "duration": 4.8
+    },
+    {
+      "text": ">> And once again, you're all locked up.",
+      "start": 609.2,
+      "duration": 5.52
+    },
+    {
+      "text": "This is a bad thing.",
+      "start": 612.16,
+      "duration": 6.72
+    },
+    {
+      "text": ">> Yes, I know. Can you help?",
+      "start": 614.72,
+      "duration": 5.84
+    },
+    {
+      "text": ">> No.",
+      "start": 618.88,
+      "duration": 4.48
+    },
+    {
+      "text": ">> Ah, we're wiggly and crunchies and",
+      "start": 620.56,
+      "duration": 5.6
+    },
+    {
+      "text": "squirmies inside.",
+      "start": 623.36,
+      "duration": 5.36
+    },
+    {
+      "text": "Perhaps Arach might be finding such",
+      "start": 626.16,
+      "duration": 3.76
+    },
+    {
+      "text": "helpfulness in",
+      "start": 628.72,
+      "duration": 3.52
+    },
+    {
+      "text": ">> Oh man. Is Is today the day?",
+      "start": 629.92,
+      "duration": 6.52
+    },
+    {
+      "text": ">> Is today the day I do it?",
+      "start": 632.24,
+      "duration": 4.2
+    },
+    {
+      "text": ">> Is this game going to be the thing?",
+      "start": 637.279,
+      "duration": 3.601
+    },
+    {
+      "text": ">> Yeah, I think so.",
+      "start": 639.12,
+      "duration": 3.2
+    },
+    {
+      "text": ">> Now I go",
+      "start": 640.88,
+      "duration": 3.84
+    },
+    {
+      "text": ">> all filled up.",
+      "start": 642.32,
+      "duration": 6.079
+    },
+    {
+      "text": ">> But soon I will send some helpfulness.",
+      "start": 644.72,
+      "duration": 5.28
+    },
+    {
+      "text": ">> Thank you, Arach.",
+      "start": 648.399,
+      "duration": 5.041
+    },
+    {
+      "text": ">> Thank you, Ara. You really Okay. It's a",
+      "start": 650.0,
+      "duration": 4.399
+    },
+    {
+      "text": "gift.",
+      "start": 653.44,
+      "duration": 3.04
+    },
+    {
+      "text": ">> All right.",
+      "start": 654.399,
+      "duration": 4.481
+    },
+    {
+      "text": "Thank you, Arach.",
+      "start": 656.48,
+      "duration": 4.4
+    },
+    {
+      "text": ">> Time passes.",
+      "start": 658.88,
+      "duration": 5.24
+    },
+    {
+      "text": "Time passes.",
+      "start": 660.88,
+      "duration": 3.24
+    },
+    {
+      "text": ">> Time passes.",
+      "start": 664.399,
+      "duration": 2.641
+    },
+    {
+      "text": ">> You got you got to read the caption,",
+      "start": 665.44,
+      "duration": 1.92
+    },
+    {
+      "text": "too.",
+      "start": 667.04,
+      "duration": 1.039
+    },
+    {
+      "text": ">> Oh, yeah.",
+      "start": 667.36,
+      "duration": 2.56
+    },
+    {
+      "text": ">> This is an order for your release.",
+      "start": 668.079,
+      "duration": 3.361
+    },
+    {
+      "text": ">> Oh, didn't expect him to sound like",
+      "start": 669.92,
+      "duration": 1.84
+    },
+    {
+      "text": "that.",
+      "start": 671.44,
+      "duration": 0.639
+    },
+    {
+      "text": ">> Yeah,",
+      "start": 671.76,
+      "duration": 1.04
+    },
+    {
+      "text": ">> it seems.",
+      "start": 672.079,
+      "duration": 2.081
+    },
+    {
+      "text": ">> Well, hi.",
+      "start": 672.8,
+      "duration": 4.96
+    },
+    {
+      "text": ">> Places friends in high places.",
+      "start": 674.16,
+      "duration": 7.76
+    },
+    {
+      "text": ">> What friends? Mr. Olegus, no less",
+      "start": 677.76,
+      "duration": 6.0
+    },
+    {
+      "text": "mayor's own advisor.",
+      "start": 681.92,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Mr.",
+      "start": 683.76,
+      "duration": 2.48
+    },
+    {
+      "text": "persuaded his worship.",
+      "start": 684.8,
+      "duration": 3.12
+    },
+    {
+      "text": ">> Why am I stuck in this game?",
+      "start": 686.24,
+      "duration": 3.2
+    },
+    {
+      "text": ">> Person",
+      "start": 687.92,
+      "duration": 3.919
+    },
+    {
+      "text": "more a returner of souls than a taker,",
+      "start": 689.44,
+      "duration": 5.76
+    },
+    {
+      "text": "he says. So, you're free to go.",
+      "start": 691.839,
+      "duration": 5.921
+    },
+    {
+      "text": ">> Excellent. But first, I'm going to",
+      "start": 695.2,
+      "duration": 4.96
+    },
+    {
+      "text": "escort you to the",
+      "start": 697.76,
+      "duration": 3.44
+    },
+    {
+      "text": ">> eyes are looking at different",
+      "start": 700.16,
+      "duration": 2.16
+    },
+    {
+      "text": "directions.",
+      "start": 701.2,
+      "duration": 2.16
+    },
+    {
+      "text": ">> In your sh.",
+      "start": 702.32,
+      "duration": 3.12
+    },
+    {
+      "text": ">> If you could help me pull a couple crops",
+      "start": 703.36,
+      "duration": 4.56
+    },
+    {
+      "text": "out of my farm before you go, that'd be",
+      "start": 705.44,
+      "duration": 4.079
+    },
+    {
+      "text": "huge.",
+      "start": 707.92,
+      "duration": 5.84
+    },
+    {
+      "text": ">> Hey, more cut scenes. Ew. Is it me?",
+      "start": 709.519,
+      "duration": 6.401
+    },
+    {
+      "text": ">> Or did one of the mayor's eyes just sink",
+      "start": 713.76,
+      "duration": 3.84
+    },
+    {
+      "text": "lower than the other?",
+      "start": 715.92,
+      "duration": 2.24
+    },
+    {
+      "text": ">> No.",
+      "start": 717.6,
+      "duration": 2.96
+    },
+    {
+      "text": ">> Come in. It seems we have done you a",
+      "start": 718.16,
+      "duration": 3.6
+    },
+    {
+      "text": "great injustice.",
+      "start": 720.56,
+      "duration": 2.399
+    },
+    {
+      "text": ">> What the fuck?",
+      "start": 721.76,
+      "duration": 4.48
+    },
+    {
+      "text": ">> My dear friend and trusted advisor",
+      "start": 722.959,
+      "duration": 4.801
+    },
+    {
+      "text": "here tells me",
+      "start": 726.24,
+      "duration": 3.039
+    },
+    {
+      "text": ">> that one voice actor is running out of",
+      "start": 727.76,
+      "duration": 2.879
+    },
+    {
+      "text": "ideas.",
+      "start": 729.279,
+      "duration": 3.441
+    },
+    {
+      "text": ">> Um, only if I did this.",
+      "start": 730.639,
+      "duration": 2.801
+    },
+    {
+      "text": ">> Yeah, that's great.",
+      "start": 732.72,
+      "duration": 3.919
+    },
+    {
+      "text": ">> It is your worship. Ongus also tells me",
+      "start": 733.44,
+      "duration": 6.079
+    },
+    {
+      "text": "that you are a great silver of puzzles,",
+      "start": 736.639,
+      "duration": 5.601
+    },
+    {
+      "text": "a master of the enigma, and a finder of",
+      "start": 739.519,
+      "duration": 6.401
+    },
+    {
+      "text": "solutions. Is this also true?",
+      "start": 742.24,
+      "duration": 4.159
+    },
+    {
+      "text": ">> Well,",
+      "start": 745.92,
+      "duration": 2.56
+    },
+    {
+      "text": ">> I wish I could find my way out of this",
+      "start": 746.399,
+      "duration": 3.12
+    },
+    {
+      "text": "life.",
+      "start": 748.48,
+      "duration": 3.52
+    },
+    {
+      "text": ">> Your worship. I've seen it with me own",
+      "start": 749.519,
+      "duration": 5.921
+    },
+    {
+      "text": "eyes and I've heard it with me owns. A",
+      "start": 752.0,
+      "duration": 5.36
+    },
+    {
+      "text": "bit of a detective, I believe. You might",
+      "start": 755.44,
+      "duration": 2.399
+    },
+    {
+      "text": "become.",
+      "start": 757.36,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Do you like me naked shoulder look?",
+      "start": 757.839,
+      "duration": 5.841
+    },
+    {
+      "text": ">> We try to keep it sexy around here. I'm",
+      "start": 761.04,
+      "duration": 5.359
+    },
+    {
+      "text": "trying to show some, but not too much.",
+      "start": 763.68,
+      "duration": 4.24
+    },
+    {
+      "text": ">> Just something to get the boys",
+      "start": 766.399,
+      "duration": 5.361
+    },
+    {
+      "text": "interested. I like a little titilation,",
+      "start": 767.92,
+      "duration": 5.84
+    },
+    {
+      "text": ">> but not too much titilation, if you know",
+      "start": 771.76,
+      "duration": 3.199
+    },
+    {
+      "text": "what I mean.",
+      "start": 773.76,
+      "duration": 3.199
+    },
+    {
+      "text": ">> I think he did have a tit exposed at one",
+      "start": 774.959,
+      "duration": 2.401
+    },
+    {
+      "text": "point.",
+      "start": 776.959,
+      "duration": 2.481
+    },
+    {
+      "text": ">> Got to keep them sweater puppies under",
+      "start": 777.36,
+      "duration": 5.36
+    },
+    {
+      "text": "control without too much fuss.",
+      "start": 779.44,
+      "duration": 5.6
+    },
+    {
+      "text": ">> Oh, and you'll need an old man and a pen",
+      "start": 782.72,
+      "duration": 5.04
+    },
+    {
+      "text": "to list all those cruise now, won't he?",
+      "start": 785.04,
+      "duration": 4.72
+    },
+    {
+      "text": ">> Well, I",
+      "start": 787.76,
+      "duration": 4.8
+    },
+    {
+      "text": ">> Excellent thinking, Onus.",
+      "start": 789.76,
+      "duration": 4.4
+    },
+    {
+      "text": "Now,",
+      "start": 792.56,
+      "duration": 4.0
+    },
+    {
+      "text": "you guys looking around like, \"What the",
+      "start": 794.16,
+      "duration": 4.08
+    },
+    {
+      "text": "hell is going on?\"",
+      "start": 796.56,
+      "duration": 4.32
+    },
+    {
+      "text": ">> these crimes and let the good folk rest",
+      "start": 798.24,
+      "duration": 3.839
+    },
+    {
+      "text": "easy.",
+      "start": 800.88,
+      "duration": 3.6
+    },
+    {
+      "text": ">> Well, I'm not really sure if I can, you",
+      "start": 802.079,
+      "duration": 3.281
+    },
+    {
+      "text": "see.",
+      "start": 804.48,
+      "duration": 2.4
+    },
+    {
+      "text": ">> Unless, of course, you would rather",
+      "start": 805.36,
+      "duration": 4.4
+    },
+    {
+      "text": "return to your cell. That can be",
+      "start": 806.88,
+      "duration": 5.04
+    },
+    {
+      "text": "arranged quite easily.",
+      "start": 809.76,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Mr. Brick, sir, there's been another",
+      "start": 811.92,
+      "duration": 3.12
+    },
+    {
+      "text": "one.",
+      "start": 813.76,
+      "duration": 3.36
+    },
+    {
+      "text": ">> It be the deputy mayor.",
+      "start": 815.04,
+      "duration": 3.599
+    },
+    {
+      "text": ">> The pigs got out, sir.",
+      "start": 817.12,
+      "duration": 4.64
+    },
+    {
+      "text": ">> Well, his soul has been taken. Well,",
+      "start": 818.639,
+      "duration": 5.921
+    },
+    {
+      "text": "Detective Griggs, what are you waiting",
+      "start": 821.76,
+      "duration": 5.199
+    },
+    {
+      "text": "for? Your first case awaits.",
+      "start": 824.56,
+      "duration": 4.399
+    },
+    {
+      "text": ">> Oh my god. I could just imagine everyone",
+      "start": 826.959,
+      "duration": 4.481
+    },
+    {
+      "text": "sitting around the reading table.",
+      "start": 828.959,
+      "duration": 3.601
+    },
+    {
+      "text": ">> We're just like with their head in their",
+      "start": 831.44,
+      "duration": 2.16
+    },
+    {
+      "text": "hands like, \"All right,",
+      "start": 832.56,
+      "duration": 2.959
+    },
+    {
+      "text": ">> it's always nice to know we have a",
+      "start": 833.6,
+      "duration": 2.64
+    },
+    {
+      "text": "choice in these.\"",
+      "start": 835.519,
+      "duration": 1.921
+    },
+    {
+      "text": ">> At least I got a lot of lines,",
+      "start": 836.24,
+      "duration": 4.399
+    },
+    {
+      "text": ">> don't you think?",
+      "start": 837.44,
+      "duration": 6.0
+    },
+    {
+      "text": ">> Wait, what was the man standing there?",
+      "start": 840.639,
+      "duration": 5.801
+    },
+    {
+      "text": ">> Interesting.",
+      "start": 843.44,
+      "duration": 3.0
+    },
+    {
+      "text": ">> What the fuck?",
+      "start": 847.76,
+      "duration": 4.4
+    },
+    {
+      "text": ">> Okay. Why is the snow not cold?",
+      "start": 848.959,
+      "duration": 5.601
+    },
+    {
+      "text": ">> I don't know.",
+      "start": 852.16,
+      "duration": 3.28
+    },
+    {
+      "text": ">> Um, okay.",
+      "start": 854.56,
+      "duration": 3.04
+    },
+    {
+      "text": ">> What is the sound of one hand clapping?",
+      "start": 855.44,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Gather all evidence, find the motive,",
+      "start": 857.6,
+      "duration": 4.32
+    },
+    {
+      "text": "reveal the truth, unmask the soul taker.",
+      "start": 859.44,
+      "duration": 5.199
+    },
+    {
+      "text": "I got to give them credit, you know.",
+      "start": 861.92,
+      "duration": 5.52
+    },
+    {
+      "text": "They didn't they didn't keep it uh",
+      "start": 864.639,
+      "duration": 4.161
+    },
+    {
+      "text": ">> they kept switching things up.",
+      "start": 867.44,
+      "duration": 5.04
+    },
+    {
+      "text": ">> Yeah. Fortunate soul. with the exception",
+      "start": 868.8,
+      "duration": 5.52
+    },
+    {
+      "text": "of the",
+      "start": 872.48,
+      "duration": 4.159
+    },
+    {
+      "text": "many many assets they stole to make this",
+      "start": 874.32,
+      "duration": 6.079
+    },
+    {
+      "text": "game. Um they were pretty creative with",
+      "start": 876.639,
+      "duration": 6.56
+    },
+    {
+      "text": "the with the free time left to them that",
+      "start": 880.399,
+      "duration": 4.401
+    },
+    {
+      "text": "they had left over from not creating",
+      "start": 883.199,
+      "duration": 2.161
+    },
+    {
+      "text": "assets.",
+      "start": 884.8,
+      "duration": 2.0
+    },
+    {
+      "text": ">> They didn't have to spend all this time",
+      "start": 885.36,
+      "duration": 2.4
+    },
+    {
+      "text": "making the game.",
+      "start": 886.8,
+      "duration": 2.24
+    },
+    {
+      "text": ">> Oh man.",
+      "start": 887.76,
+      "duration": 3.199
+    },
+    {
+      "text": ">> All right. You got to go to Brickra.",
+      "start": 889.04,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Brick.",
+      "start": 890.959,
+      "duration": 2.24
+    },
+    {
+      "text": ">> Yeah. You got to open the map and go to",
+      "start": 891.92,
+      "duration": 2.479
+    },
+    {
+      "text": "Brick.",
+      "start": 893.199,
+      "duration": 2.32
+    },
+    {
+      "text": ">> Open the map.",
+      "start": 894.399,
+      "duration": 1.921
+    },
+    {
+      "text": ">> Yeah, there's a map.",
+      "start": 895.519,
+      "duration": 2.961
+    },
+    {
+      "text": ">> What the hell's the map? Just do the",
+      "start": 896.32,
+      "duration": 5.12
+    },
+    {
+      "text": "little thing and be like map.",
+      "start": 898.48,
+      "duration": 5.12
+    },
+    {
+      "text": ">> Is that the map?",
+      "start": 901.44,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Yeah, there you go.",
+      "start": 903.6,
+      "duration": 2.799
+    },
+    {
+      "text": ">> Sorry, there's nothing happening.",
+      "start": 904.32,
+      "duration": 3.199
+    },
+    {
+      "text": ">> Sorry,",
+      "start": 906.399,
+      "duration": 2.481
+    },
+    {
+      "text": ">> I don't think so.",
+      "start": 907.519,
+      "duration": 3.841
+    },
+    {
+      "text": ">> What do you mean?",
+      "start": 908.88,
+      "duration": 3.44
+    },
+    {
+      "text": ">> I don't think so.",
+      "start": 911.36,
+      "duration": 4.159
+    },
+    {
+      "text": ">> We have to look at it.",
+      "start": 912.32,
+      "duration": 6.8
+    },
+    {
+      "text": "There we go. A map.",
+      "start": 915.519,
+      "duration": 6.32
+    },
+    {
+      "text": "A closer look should help.",
+      "start": 919.12,
+      "duration": 5.12
+    },
+    {
+      "text": "Okay,",
+      "start": 921.839,
+      "duration": 5.281
+    },
+    {
+      "text": "me get to sleep. Uh,",
+      "start": 924.24,
+      "duration": 4.88
+    },
+    {
+      "text": "how do I take a closer look at the map?",
+      "start": 927.12,
+      "duration": 3.6
+    },
+    {
+      "text": ">> Map of dark mirror given to me by the",
+      "start": 929.12,
+      "duration": 3.12
+    },
+    {
+      "text": "mayor to help navigate its dark and",
+      "start": 930.72,
+      "duration": 3.52
+    },
+    {
+      "text": "gloomy streets. A closer look should",
+      "start": 932.24,
+      "duration": 4.24
+    },
+    {
+      "text": "help.",
+      "start": 934.24,
+      "duration": 4.959
+    },
+    {
+      "text": ">> Uh, okay.",
+      "start": 936.48,
+      "duration": 4.56
+    },
+    {
+      "text": ">> It just says after the cut scenes, walk",
+      "start": 939.199,
+      "duration": 4.241
+    },
+    {
+      "text": "downward. You will open a map. Maybe it",
+      "start": 941.04,
+      "duration": 3.44
+    },
+    {
+      "text": "happens automatically.",
+      "start": 943.44,
+      "duration": 2.72
+    },
+    {
+      "text": ">> Oh, exit to map screen.",
+      "start": 944.48,
+      "duration": 2.32
+    },
+    {
+      "text": ">> Oh, there you go.",
+      "start": 946.16,
+      "duration": 1.52
+    },
+    {
+      "text": ">> What the fuck?",
+      "start": 946.8,
+      "duration": 2.32
+    },
+    {
+      "text": ">> There you go, son.",
+      "start": 947.68,
+      "duration": 2.32
+    },
+    {
+      "text": ">> So, where am I going?",
+      "start": 949.12,
+      "duration": 4.12
+    },
+    {
+      "text": ">> Go to Bricka.",
+      "start": 950.0,
+      "duration": 3.24
+    },
+    {
+      "text": "God, this shit rules.",
+      "start": 953.92,
+      "duration": 6.12
+    },
+    {
+      "text": "Oh, there's so much.",
+      "start": 956.32,
+      "duration": 3.72
+    },
+    {
+      "text": "What the",
+      "start": 960.959,
+      "duration": 5.521
+    },
+    {
+      "text": "What the hell?",
+      "start": 963.759,
+      "duration": 4.32
+    },
+    {
+      "text": "I don't have brick.",
+      "start": 966.48,
+      "duration": 3.84
+    },
+    {
+      "text": ">> You've got to, mister.",
+      "start": 968.079,
+      "duration": 4.641
+    },
+    {
+      "text": ">> Sorry.",
+      "start": 970.32,
+      "duration": 5.04
+    },
+    {
+      "text": "Got cutter's alley.",
+      "start": 972.72,
+      "duration": 6.88
+    },
+    {
+      "text": "Oh, there it is. Yeah.",
+      "start": 975.36,
+      "duration": 7.52
+    },
+    {
+      "text": "Brick a brack",
+      "start": 979.6,
+      "duration": 5.52
+    },
+    {
+      "text": "sign.",
+      "start": 982.88,
+      "duration": 3.759
+    },
+    {
+      "text": "I guess I'll look at sign.",
+      "start": 985.12,
+      "duration": 4.32
+    },
+    {
+      "text": ">> I've come to look at your bracks. Or",
+      "start": 986.639,
+      "duration": 5.44
+    },
+    {
+      "text": "maybe your brakes if I'm feeling",
+      "start": 989.44,
+      "duration": 4.959
+    },
+    {
+      "text": "adventurous.",
+      "start": 992.079,
+      "duration": 5.361
+    },
+    {
+      "text": ">> And I assure you I'm not.",
+      "start": 994.399,
+      "duration": 4.8
+    },
+    {
+      "text": ">> Curfew is in operation. The streets of",
+      "start": 997.44,
+      "duration": 3.92
+    },
+    {
+      "text": "Darkme are out of bounds until further",
+      "start": 999.199,
+      "duration": 4.721
+    },
+    {
+      "text": "notice. Any unauthorized lost soul found",
+      "start": 1001.36,
+      "duration": 4.64
+    },
+    {
+      "text": "outside will be treated as a soul taker",
+      "start": 1003.92,
+      "duration": 3.839
+    },
+    {
+      "text": "suspect and be burned.",
+      "start": 1006.0,
+      "duration": 6.199
+    },
+    {
+      "text": ">> Oh. By order of the mayor duck me.",
+      "start": 1007.759,
+      "duration": 4.44
+    },
+    {
+      "text": "Might as well enter the wooden door.",
+      "start": 1012.72,
+      "duration": 4.08
+    },
+    {
+      "text": "LFG.",
+      "start": 1014.8,
+      "duration": 3.52
+    },
+    {
+      "text": "LFG.",
+      "start": 1016.8,
+      "duration": 3.44
+    },
+    {
+      "text": "What's up?",
+      "start": 1018.32,
+      "duration": 4.639
+    },
+    {
+      "text": "You're a tall drink of water.",
+      "start": 1020.24,
+      "duration": 5.679
+    },
+    {
+      "text": ">> Can I help you, miss?",
+      "start": 1022.959,
+      "duration": 7.201
+    },
+    {
+      "text": ">> Uh, actually, it's mister, not miss.",
+      "start": 1025.919,
+      "duration": 6.64
+    },
+    {
+      "text": ">> Oh, I don't know about all this pronoun",
+      "start": 1030.16,
+      "duration": 4.72
+    },
+    {
+      "text": "business you got going on here.",
+      "start": 1032.559,
+      "duration": 3.28
+    },
+    {
+      "text": ">> You can't be my",
+      "start": 1034.88,
+      "duration": 1.52
+    },
+    {
+      "text": ">> sister.",
+      "start": 1035.839,
+      "duration": 2.401
+    },
+    {
+      "text": ">> You can't be my sister. What?",
+      "start": 1036.4,
+      "duration": 3.519
+    },
+    {
+      "text": ">> Sister.",
+      "start": 1038.24,
+      "duration": 4.4
+    },
+    {
+      "text": "Mister. I'm a man.",
+      "start": 1039.919,
+      "duration": 4.801
+    },
+    {
+      "text": ">> That's Mr. Mr. Mr. You, Mister.",
+      "start": 1042.64,
+      "duration": 4.08
+    },
+    {
+      "text": ">> That's never a tad.",
+      "start": 1044.72,
+      "duration": 5.28
+    },
+    {
+      "text": ">> It's more like a beard to me.",
+      "start": 1046.72,
+      "duration": 6.8
+    },
+    {
+      "text": "Bit unsightly for a girl of your age.",
+      "start": 1050.0,
+      "duration": 6.64
+    },
+    {
+      "text": ">> This is funny stuff. I",
+      "start": 1053.52,
+      "duration": 7.12
+    },
+    {
+      "text": ">> Do you have any rubbing paper and some",
+      "start": 1056.64,
+      "duration": 5.2
+    },
+    {
+      "text": "charcoal?",
+      "start": 1060.64,
+      "duration": 2.8
+    },
+    {
+      "text": ">> Oh, this is the three sisters in from",
+      "start": 1061.84,
+      "duration": 2.56
+    },
+    {
+      "text": "Oblivion.",
+      "start": 1063.44,
+      "duration": 3.52
+    },
+    {
+      "text": ">> Boy, they really stole everything.",
+      "start": 1064.4,
+      "duration": 6.08
+    },
+    {
+      "text": "Still looks like a beard to me.",
+      "start": 1066.96,
+      "duration": 6.959
+    },
+    {
+      "text": "Anyway, what is it you're after, miss?",
+      "start": 1070.48,
+      "duration": 5.92
+    },
+    {
+      "text": ">> I think I'll just take a look around.",
+      "start": 1073.919,
+      "duration": 5.681
+    },
+    {
+      "text": ">> Why don't you have a look around, dear?",
+      "start": 1076.4,
+      "duration": 4.56
+    },
+    {
+      "text": ">> I've just fucking said that.",
+      "start": 1079.6,
+      "duration": 4.16
+    },
+    {
+      "text": ">> Great idea.",
+      "start": 1080.96,
+      "duration": 5.44
+    },
+    {
+      "text": ">> I do see something. I like assets from",
+      "start": 1083.76,
+      "duration": 5.64
+    },
+    {
+      "text": "Oblivion.",
+      "start": 1086.4,
+      "duration": 3.0
+    },
+    {
+      "text": ">> That's what they did.",
+      "start": 1092.799,
+      "duration": 2.721
+    },
+    {
+      "text": ">> Hello.",
+      "start": 1093.76,
+      "duration": 3.84
+    },
+    {
+      "text": "Excuse me. Hello.",
+      "start": 1095.52,
+      "duration": 5.36
+    },
+    {
+      "text": ">> They were playing video games all like",
+      "start": 1097.6,
+      "duration": 3.92
+    },
+    {
+      "text": "a",
+      "start": 1100.88,
+      "duration": 3.919
+    },
+    {
+      "text": ">> Hello. I say madam.",
+      "start": 1101.52,
+      "duration": 7.519
+    },
+    {
+      "text": "Hello. I say madam.",
+      "start": 1104.799,
+      "duration": 7.041
+    },
+    {
+      "text": "Oh, what is the point? I'll just take",
+      "start": 1109.039,
+      "duration": 8.0
+    },
+    {
+      "text": "the damn things and be done with it.",
+      "start": 1111.84,
+      "duration": 8.24
+    },
+    {
+      "text": ">> Don't take the damn things. You'll never",
+      "start": 1117.039,
+      "duration": 6.681
+    },
+    {
+      "text": "be done with it.",
+      "start": 1120.08,
+      "duration": 3.64
+    },
+    {
+      "text": ">> Okay. Oh, that was a",
+      "start": 1123.76,
+      "duration": 2.64
+    },
+    {
+      "text": ">> anything else I take in here.",
+      "start": 1125.28,
+      "duration": 4.96
+    },
+    {
+      "text": ">> Sound of Okay. Um, did take the charcoal",
+      "start": 1126.4,
+      "duration": 6.72
+    },
+    {
+      "text": "from the table. Yeah, you got that.",
+      "start": 1130.24,
+      "duration": 6.24
+    },
+    {
+      "text": ">> Return to the map, baby.",
+      "start": 1133.12,
+      "duration": 6.36
+    },
+    {
+      "text": ">> Okay.",
+      "start": 1136.48,
+      "duration": 3.0
+    },
+    {
+      "text": ">> Now you got to go to the stables.",
+      "start": 1140.48,
+      "duration": 4.28
+    },
+    {
+      "text": "Exit to map screen. That's so funny.",
+      "start": 1146.24,
+      "duration": 5.24
+    },
+    {
+      "text": "Okay.",
+      "start": 1153.919,
+      "duration": 2.88
+    },
+    {
+      "text": ">> All right.",
+      "start": 1155.039,
+      "duration": 5.921
+    },
+    {
+      "text": "It uh click on the cursor at the door.",
+      "start": 1156.799,
+      "duration": 4.641
+    },
+    {
+      "text": ">> Okay.",
+      "start": 1160.96,
+      "duration": 4.719
+    },
+    {
+      "text": ">> Who would ever know to do this?",
+      "start": 1161.44,
+      "duration": 6.96
+    },
+    {
+      "text": ">> I need a key. It's locked.",
+      "start": 1165.679,
+      "duration": 7.041
+    },
+    {
+      "text": ">> Oh, okay. You mean the sign? Oh my god.",
+      "start": 1168.4,
+      "duration": 6.24
+    },
+    {
+      "text": ">> Interesting.",
+      "start": 1172.72,
+      "duration": 2.8
+    },
+    {
+      "text": ">> The symbol.",
+      "start": 1174.64,
+      "duration": 4.88
+    },
+    {
+      "text": ">> Yeah. Well, I have to plus question mark",
+      "start": 1175.52,
+      "duration": 6.0
+    },
+    {
+      "text": "equals",
+      "start": 1179.52,
+      "duration": 5.519
+    },
+    {
+      "text": "or equals. What do I do here?",
+      "start": 1181.52,
+      "duration": 4.08
+    },
+    {
+      "text": ">> You",
+      "start": 1185.039,
+      "duration": 1.841
+    },
+    {
+      "text": ">> Oh, charcoal paper.",
+      "start": 1185.6,
+      "duration": 5.28
+    },
+    {
+      "text": ">> Yeah, man. Good job.",
+      "start": 1186.88,
+      "duration": 8.96
+    },
+    {
+      "text": "This is my hand. This is my hand. Back.",
+      "start": 1190.88,
+      "duration": 8.08
+    },
+    {
+      "text": "This is my hand. It's a big hand and it",
+      "start": 1195.84,
+      "duration": 6.56
+    },
+    {
+      "text": "does what I want.",
+      "start": 1198.96,
+      "duration": 6.0
+    },
+    {
+      "text": ">> Okay. Uh,",
+      "start": 1202.4,
+      "duration": 4.24
+    },
+    {
+      "text": "great. Oh, should I examine the",
+      "start": 1204.96,
+      "duration": 6.599
+    },
+    {
+      "text": "footprints? H, interesting.",
+      "start": 1206.64,
+      "duration": 4.919
+    },
+    {
+      "text": ">> It's like they have to convince",
+      "start": 1212.559,
+      "duration": 4.081
+    },
+    {
+      "text": "themselves that their game's not boring.",
+      "start": 1213.76,
+      "duration": 4.32
+    },
+    {
+      "text": ">> H, look at this.",
+      "start": 1216.64,
+      "duration": 3.76
+    },
+    {
+      "text": ">> He clearly has a D-pad controller on his",
+      "start": 1218.08,
+      "duration": 3.44
+    },
+    {
+      "text": "heel.",
+      "start": 1220.4,
+      "duration": 2.96
+    },
+    {
+      "text": ">> Does he have to like Do they have to",
+      "start": 1221.52,
+      "duration": 4.32
+    },
+    {
+      "text": "kick the the door? Is it because he has",
+      "start": 1223.36,
+      "duration": 4.72
+    },
+    {
+      "text": "the symbol on the foot? You have to kick",
+      "start": 1225.84,
+      "duration": 3.92
+    },
+    {
+      "text": "the door?",
+      "start": 1228.08,
+      "duration": 3.44
+    },
+    {
+      "text": ">> I surely do not know.",
+      "start": 1229.76,
+      "duration": 3.6
+    },
+    {
+      "text": ">> Okay. Well, I have the sketching now.",
+      "start": 1231.52,
+      "duration": 4.08
+    },
+    {
+      "text": ">> Marvelous. Well, you can return to the",
+      "start": 1233.36,
+      "duration": 7.24
+    },
+    {
+      "text": "map then and go to the cobler.",
+      "start": 1235.6,
+      "duration": 5.0
+    },
+    {
+      "text": "Walk.",
+      "start": 1242.0,
+      "duration": 6.6
+    },
+    {
+      "text": "No, this is the obler. Oh, thank god.",
+      "start": 1243.679,
+      "duration": 4.921
+    },
+    {
+      "text": "Fucking embarrassing. I feel like such",
+      "start": 1249.28,
+      "duration": 5.879
+    },
+    {
+      "text": "an idiot.",
+      "start": 1251.76,
+      "duration": 3.399
+    },
+    {
+      "text": ">> Oh, well to you, sir. How may I be of",
+      "start": 1256.559,
+      "duration": 3.041
+    },
+    {
+      "text": "service?",
+      "start": 1259.12,
+      "duration": 2.16
+    },
+    {
+      "text": ">> Well, Mr. Potato Head, I would like to",
+      "start": 1259.6,
+      "duration": 3.92
+    },
+    {
+      "text": "arrange your features.",
+      "start": 1261.28,
+      "duration": 6.519
+    },
+    {
+      "text": "Well, of course. That's why I'm here.",
+      "start": 1263.52,
+      "duration": 4.279
+    },
+    {
+      "text": ">> All those who deserve them. All",
+      "start": 1267.919,
+      "duration": 5.601
+    },
+    {
+      "text": "individual designs and all my own work.",
+      "start": 1270.4,
+      "duration": 5.2
+    },
+    {
+      "text": "I pride myself on the fact that I can",
+      "start": 1273.52,
+      "duration": 4.48
+    },
+    {
+      "text": "recall every pair of boots, shoes, and",
+      "start": 1275.6,
+      "duration": 3.6
+    },
+    {
+      "text": "sandals alike.",
+      "start": 1278.0,
+      "duration": 2.96
+    },
+    {
+      "text": ">> But can you recall them when your lips",
+      "start": 1279.2,
+      "duration": 3.28
+    },
+    {
+      "text": "are above your eyes?",
+      "start": 1280.96,
+      "duration": 5.88
+    },
+    {
+      "text": ">> Oh, you've got me there, mister.",
+      "start": 1282.48,
+      "duration": 4.36
+    },
+    {
+      "text": ">> Could you please put me ears on the side",
+      "start": 1287.12,
+      "duration": 5.52
+    },
+    {
+      "text": "of me face? Look at that stance.",
+      "start": 1289.039,
+      "duration": 4.561
+    },
+    {
+      "text": "proper.",
+      "start": 1292.64,
+      "duration": 3.12
+    },
+    {
+      "text": ">> I don't like this, man.",
+      "start": 1293.6,
+      "duration": 6.8
+    },
+    {
+      "text": ">> Um, okay. Uh, this was, uh, stolen from",
+      "start": 1295.76,
+      "duration": 7.2
+    },
+    {
+      "text": "the fair deal in in Braville. Or is it",
+      "start": 1300.4,
+      "duration": 4.0
+    },
+    {
+      "text": "Bravville or Bravville?",
+      "start": 1302.96,
+      "duration": 2.88
+    },
+    {
+      "text": ">> I don't know. Oblivion.",
+      "start": 1304.4,
+      "duration": 3.519
+    },
+    {
+      "text": ">> Obl in Oblivion. Yeah.",
+      "start": 1305.84,
+      "duration": 2.64
+    },
+    {
+      "text": ">> Um,",
+      "start": 1307.919,
+      "duration": 1.681
+    },
+    {
+      "text": ">> what do I do in here?",
+      "start": 1308.48,
+      "duration": 2.88
+    },
+    {
+      "text": ">> You got Give them the thing you just",
+      "start": 1309.6,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Oh, the etching. Oh, cuz I got to make",
+      "start": 1311.36,
+      "duration": 2.88
+    },
+    {
+      "text": "shoes.",
+      "start": 1313.28,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Nothing. Tell me, have you ever made any",
+      "start": 1314.24,
+      "duration": 4.64
+    },
+    {
+      "text": "boots or shoes with this sign on the",
+      "start": 1316.96,
+      "duration": 2.8
+    },
+    {
+      "text": "heel?",
+      "start": 1318.88,
+      "duration": 3.679
+    },
+    {
+      "text": ">> Oh, yes. I remember these. All right.",
+      "start": 1319.76,
+      "duration": 5.2
+    },
+    {
+      "text": "Four pairs. I had to make all different.",
+      "start": 1322.559,
+      "duration": 4.24
+    },
+    {
+      "text": ">> Four pairs. They would not take an",
+      "start": 1324.96,
+      "duration": 4.56
+    },
+    {
+      "text": ">> odd sign on the heel. Must be the secret",
+      "start": 1326.799,
+      "duration": 5.281
+    },
+    {
+      "text": "lodge. That's what I reckon.",
+      "start": 1329.52,
+      "duration": 5.039
+    },
+    {
+      "text": ">> A secret lodge.",
+      "start": 1332.08,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Secret.",
+      "start": 1334.559,
+      "duration": 1.6
+    },
+    {
+      "text": ">> Please back away, sir.",
+      "start": 1334.96,
+      "duration": 3.68
+    },
+    {
+      "text": ">> I don't know. Do I? It's supposed to be",
+      "start": 1336.159,
+      "duration": 4.481
+    },
+    {
+      "text": "a secret.",
+      "start": 1338.64,
+      "duration": 3.68
+    },
+    {
+      "text": ">> If you try to give me a kiss, I'll take",
+      "start": 1340.64,
+      "duration": 4.48
+    },
+    {
+      "text": "my lips off and give myself a third ear.",
+      "start": 1342.32,
+      "duration": 5.12
+    },
+    {
+      "text": ">> Can you",
+      "start": 1345.12,
+      "duration": 2.96
+    },
+    {
+      "text": "Well, now",
+      "start": 1347.44,
+      "duration": 1.52
+    },
+    {
+      "text": ">> Oh, God.",
+      "start": 1348.08,
+      "duration": 2.56
+    },
+    {
+      "text": ">> It all gets interesting. See,",
+      "start": 1348.96,
+      "duration": 3.12
+    },
+    {
+      "text": ">> it was the best of times. It was the",
+      "start": 1350.64,
+      "duration": 2.88
+    },
+    {
+      "text": "worst of times.",
+      "start": 1352.08,
+      "duration": 3.44
+    },
+    {
+      "text": ">> Blind fellow who cages at the end of",
+      "start": 1353.52,
+      "duration": 3.279
+    },
+    {
+      "text": "entry roll.",
+      "start": 1355.52,
+      "duration": 3.36
+    },
+    {
+      "text": ">> He in turn was told to give the order to",
+      "start": 1356.799,
+      "duration": 3.521
+    },
+    {
+      "text": "one of the street urchins who then",
+      "start": 1358.88,
+      "duration": 3.679
+    },
+    {
+      "text": "bought it to me. The strange thing",
+      "start": 1360.32,
+      "duration": 2.56
+    },
+    {
+      "text": "though,",
+      "start": 1362.559,
+      "duration": 2.48
+    },
+    {
+      "text": ">> the strenaggy thing is the order to the",
+      "start": 1362.88,
+      "duration": 4.88
+    },
+    {
+      "text": "shop as if he had somebody with him.",
+      "start": 1365.039,
+      "duration": 4.561
+    },
+    {
+      "text": ">> I swear I could hear them breathing.",
+      "start": 1367.76,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Nothing stranger than that.",
+      "start": 1369.6,
+      "duration": 4.24
+    },
+    {
+      "text": ">> But his shadow",
+      "start": 1371.44,
+      "duration": 5.92
+    },
+    {
+      "text": "said the old blind man had no idea",
+      "start": 1373.84,
+      "duration": 4.8
+    },
+    {
+      "text": "to the boots.",
+      "start": 1377.36,
+      "duration": 4.16
+    },
+    {
+      "text": ">> No, sir. All he could say for sure was",
+      "start": 1378.64,
+      "duration": 5.12
+    },
+    {
+      "text": "that whoever it was had the smell of",
+      "start": 1381.52,
+      "duration": 4.399
+    },
+    {
+      "text": "death and the smell of the paddock about",
+      "start": 1383.76,
+      "duration": 2.799
+    },
+    {
+      "text": "him.",
+      "start": 1385.919,
+      "duration": 2.321
+    },
+    {
+      "text": ">> Oh, he could tell because my nose was on",
+      "start": 1386.559,
+      "duration": 4.561
+    },
+    {
+      "text": "me left side at the time.",
+      "start": 1388.24,
+      "duration": 5.6
+    },
+    {
+      "text": "So near to the action.",
+      "start": 1391.12,
+      "duration": 4.4
+    },
+    {
+      "text": "I couldn't bear look at it, but I sure",
+      "start": 1393.84,
+      "duration": 4.319
+    },
+    {
+      "text": "could smell it. And my ears could hear",
+      "start": 1395.52,
+      "duration": 4.56
+    },
+    {
+      "text": "the music going.",
+      "start": 1398.159,
+      "duration": 3.441
+    },
+    {
+      "text": ">> Detective,",
+      "start": 1400.08,
+      "duration": 5.68
+    },
+    {
+      "text": "I say, detective. We found another one.",
+      "start": 1401.6,
+      "duration": 6.0
+    },
+    {
+      "text": "Another",
+      "start": 1405.76,
+      "duration": 3.68
+    },
+    {
+      "text": ">> of the lost pigs I was talking about",
+      "start": 1407.6,
+      "duration": 2.4
+    },
+    {
+      "text": "earlier.",
+      "start": 1409.44,
+      "duration": 3.2
+    },
+    {
+      "text": ">> Oh, they got out. Here we go.",
+      "start": 1410.0,
+      "duration": 5.28
+    },
+    {
+      "text": ">> Can you hear me? Who's responsible for",
+      "start": 1412.64,
+      "duration": 4.64
+    },
+    {
+      "text": "these terrible things?",
+      "start": 1415.28,
+      "duration": 5.36
+    },
+    {
+      "text": ">> Well, it'll be that old soul taker, I",
+      "start": 1417.28,
+      "duration": 8.08
+    },
+    {
+      "text": "figure. Ah, well, that's that soul.",
+      "start": 1420.64,
+      "duration": 7.279
+    },
+    {
+      "text": ">> Oh, okay. I'll just put him in my",
+      "start": 1425.36,
+      "duration": 4.4
+    },
+    {
+      "text": "pocket.",
+      "start": 1427.919,
+      "duration": 5.201
+    },
+    {
+      "text": ">> Where is he going? I don't know.",
+      "start": 1429.76,
+      "duration": 6.88
+    },
+    {
+      "text": "What the hell was that? I don't know.",
+      "start": 1433.12,
+      "duration": 4.64
+    },
+    {
+      "text": "Well, what's next?",
+      "start": 1436.64,
+      "duration": 4.96
+    },
+    {
+      "text": ">> You got to go to the blacksmith, dude.",
+      "start": 1437.76,
+      "duration": 5.12
+    },
+    {
+      "text": ">> So, you're so right. I wasn't even",
+      "start": 1441.6,
+      "duration": 2.079
+    },
+    {
+      "text": "paying attention.",
+      "start": 1442.88,
+      "duration": 2.72
+    },
+    {
+      "text": ">> Come on.",
+      "start": 1443.679,
+      "duration": 4.641
+    },
+    {
+      "text": ">> Uh, sorry. Blacksmiths, get your shit",
+      "start": 1445.6,
+      "duration": 3.199
+    },
+    {
+      "text": "together.",
+      "start": 1448.32,
+      "duration": 1.68
+    },
+    {
+      "text": ">> I was literally just here.",
+      "start": 1448.799,
+      "duration": 3.041
+    },
+    {
+      "text": ">> I know. Why'd you leave automatically? I",
+      "start": 1450.0,
+      "duration": 2.32
+    },
+    {
+      "text": "don't know.",
+      "start": 1451.84,
+      "duration": 2.56
+    },
+    {
+      "text": ">> So strange. But yeah, go in the door.",
+      "start": 1452.32,
+      "duration": 5.68
+    },
+    {
+      "text": ">> Oh, I got to read the sign first.",
+      "start": 1454.4,
+      "duration": 6.8
+    },
+    {
+      "text": "Cur Oh, it's the curfew. Curfew.",
+      "start": 1458.0,
+      "duration": 3.84
+    },
+    {
+      "text": "Curfew.",
+      "start": 1461.2,
+      "duration": 4.88
+    },
+    {
+      "text": ">> Go inside the door.",
+      "start": 1461.84,
+      "duration": 4.24
+    },
+    {
+      "text": "Clank.",
+      "start": 1466.4,
+      "duration": 6.56
+    },
+    {
+      "text": ">> Ah, hello there. I wonder may I have a",
+      "start": 1469.12,
+      "duration": 4.799
+    },
+    {
+      "text": "word with you?",
+      "start": 1472.96,
+      "duration": 3.199
+    },
+    {
+      "text": ">> Well, don't warn here, stranger. I have",
+      "start": 1473.919,
+      "duration": 4.481
+    },
+    {
+      "text": "nothing to say to you, nor any of your",
+      "start": 1476.159,
+      "duration": 3.201
+    },
+    {
+      "text": "secret friends.",
+      "start": 1478.4,
+      "duration": 2.08
+    },
+    {
+      "text": ">> You're the one hanging out with the",
+      "start": 1479.36,
+      "duration": 3.84
+    },
+    {
+      "text": "demon child from the omen friends.",
+      "start": 1480.48,
+      "duration": 4.48
+    },
+    {
+      "text": ">> You all think I don't know what's going",
+      "start": 1483.2,
+      "duration": 4.959
+    },
+    {
+      "text": "on, but I see. I see all. Even with me",
+      "start": 1484.96,
+      "duration": 7.839
+    },
+    {
+      "text": "burnt out eyes. Oh, yes. I see all. Now",
+      "start": 1488.159,
+      "duration": 6.64
+    },
+    {
+      "text": "be gone from this place and take your",
+      "start": 1492.799,
+      "duration": 3.601
+    },
+    {
+      "text": "dark secrets with you.",
+      "start": 1494.799,
+      "duration": 3.041
+    },
+    {
+      "text": ">> I'll see everything with my big",
+      "start": 1496.4,
+      "duration": 3.6
+    },
+    {
+      "text": "quivering pecs and tight buttocks.",
+      "start": 1497.84,
+      "duration": 3.839
+    },
+    {
+      "text": ">> He keeps doing that like pec flex like",
+      "start": 1500.0,
+      "duration": 4.64
+    },
+    {
+      "text": "back and forth.",
+      "start": 1501.679,
+      "duration": 3.281
+    },
+    {
+      "text": "An end",
+      "start": 1504.64,
+      "duration": 1.84
+    },
+    {
+      "text": ">> to this horror.",
+      "start": 1504.96,
+      "duration": 4.24
+    },
+    {
+      "text": ">> It's true, father. He is no soul taker.",
+      "start": 1506.48,
+      "duration": 4.559
+    },
+    {
+      "text": "The mayor himself asked him for his",
+      "start": 1509.2,
+      "duration": 2.32
+    },
+    {
+      "text": "help.",
+      "start": 1511.039,
+      "duration": 3.601
+    },
+    {
+      "text": ">> You must take after your mother.",
+      "start": 1511.52,
+      "duration": 5.84
+    },
+    {
+      "text": ">> He's away in his chambers. Rarely do we",
+      "start": 1514.64,
+      "duration": 4.96
+    },
+    {
+      "text": "see him. And when he is to be seen, why",
+      "start": 1517.36,
+      "duration": 4.08
+    },
+    {
+      "text": "he covers up like some frightened",
+      "start": 1519.6,
+      "duration": 4.24
+    },
+    {
+      "text": "leopard. The mayor has changed. I tell",
+      "start": 1521.44,
+      "duration": 4.719
+    },
+    {
+      "text": "you, not for a better.",
+      "start": 1523.84,
+      "duration": 4.959
+    },
+    {
+      "text": ">> You said that you see all.",
+      "start": 1526.159,
+      "duration": 5.281
+    },
+    {
+      "text": ">> What exactly did you mean by that?",
+      "start": 1528.799,
+      "duration": 3.921
+    },
+    {
+      "text": ">> Uh, everything.",
+      "start": 1531.44,
+      "duration": 2.16
+    },
+    {
+      "text": ">> All means everything.",
+      "start": 1532.72,
+      "duration": 2.4
+    },
+    {
+      "text": ">> I'll see you when you're sleeping. I",
+      "start": 1533.6,
+      "duration": 2.959
+    },
+    {
+      "text": "know when you're awake.",
+      "start": 1535.12,
+      "duration": 4.96
+    },
+    {
+      "text": ">> They are. And as bad as pipers.",
+      "start": 1536.559,
+      "duration": 5.12
+    },
+    {
+      "text": ">> Which two brothers?",
+      "start": 1540.08,
+      "duration": 3.68
+    },
+    {
+      "text": ">> The Scourge brothers, of course. Danny",
+      "start": 1541.679,
+      "duration": 2.88
+    },
+    {
+      "text": "and Billy.",
+      "start": 1543.76,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Ah, yes. Danny and Billy. Scourge. The",
+      "start": 1544.559,
+      "duration": 6.6
+    },
+    {
+      "text": "double dragon brothers.",
+      "start": 1547.44,
+      "duration": 3.719
+    },
+    {
+      "text": ">> Well, anyway, thanks for your time. It",
+      "start": 1551.76,
+      "duration": 4.32
+    },
+    {
+      "text": "was a big help.",
+      "start": 1554.4,
+      "duration": 3.04
+    },
+    {
+      "text": ">> Not",
+      "start": 1556.08,
+      "duration": 4.36
+    },
+    {
+      "text": ">> interesting.",
+      "start": 1557.44,
+      "duration": 3.0
+    },
+    {
+      "text": ">> Okay. Did I just",
+      "start": 1560.559,
+      "duration": 4.24
+    },
+    {
+      "text": ">> a big help?",
+      "start": 1561.679,
+      "duration": 4.721
+    },
+    {
+      "text": "Well, at least I think it was.",
+      "start": 1564.799,
+      "duration": 6.641
+    },
+    {
+      "text": ">> Why did that require 27 M? He went,",
+      "start": 1566.4,
+      "duration": 8.399
+    },
+    {
+      "text": "\"Oh god.\" All right,",
+      "start": 1571.44,
+      "duration": 5.92
+    },
+    {
+      "text": ">> back to the map. This thing texts like",
+      "start": 1574.799,
+      "duration": 4.561
+    },
+    {
+      "text": "my sister when she was like seven years",
+      "start": 1577.36,
+      "duration": 4.4
+    },
+    {
+      "text": "old.",
+      "start": 1579.36,
+      "duration": 4.72
+    },
+    {
+      "text": ">> Oh, 4,000 exclamation points. Thank you.",
+      "start": 1581.76,
+      "duration": 4.64
+    },
+    {
+      "text": ">> Yeah. What's next?",
+      "start": 1584.08,
+      "duration": 6.28
+    },
+    {
+      "text": ">> Uh, all right. Uh,",
+      "start": 1586.4,
+      "duration": 3.96
+    },
+    {
+      "text": "abattoire.",
+      "start": 1591.76,
+      "duration": 4.08
+    },
+    {
+      "text": ">> Not my sister, my baby cousin. Jeez, why",
+      "start": 1593.679,
+      "duration": 5.441
+    },
+    {
+      "text": "did I say my sister? She was not young",
+      "start": 1595.84,
+      "duration": 6.0
+    },
+    {
+      "text": "enough when texts came out. Dude, I'm",
+      "start": 1599.12,
+      "duration": 4.48
+    },
+    {
+      "text": "just Listen, I'm just because I know I'm",
+      "start": 1601.84,
+      "duration": 5.199
+    },
+    {
+      "text": "gonna hear about it. Um,",
+      "start": 1603.6,
+      "duration": 6.64
+    },
+    {
+      "text": "all right. Uh,",
+      "start": 1607.039,
+      "duration": 5.041
+    },
+    {
+      "text": "go to the pie shop.",
+      "start": 1610.24,
+      "duration": 5.4
+    },
+    {
+      "text": ">> The pie shop.",
+      "start": 1612.08,
+      "duration": 3.56
+    },
+    {
+      "text": ">> Is that in this location?",
+      "start": 1617.6,
+      "duration": 3.679
+    },
+    {
+      "text": ">> No, you went to blacksmith.",
+      "start": 1620.159,
+      "duration": 2.721
+    },
+    {
+      "text": ">> I know, but the pie shop's not on the",
+      "start": 1621.279,
+      "duration": 2.481
+    },
+    {
+      "text": "fucking board.",
+      "start": 1622.88,
+      "duration": 2.799
+    },
+    {
+      "text": ">> It's not.",
+      "start": 1623.76,
+      "duration": 2.399
+    },
+    {
+      "text": ">> Oh,",
+      "start": 1625.679,
+      "duration": 2.641
+    },
+    {
+      "text": ">> here. I've got a map at my disposal",
+      "start": 1626.159,
+      "duration": 4.0
+    },
+    {
+      "text": "right here.",
+      "start": 1628.32,
+      "duration": 4.32
+    },
+    {
+      "text": "The pie shop is all the way to the left.",
+      "start": 1630.159,
+      "duration": 4.561
+    },
+    {
+      "text": ">> It's right there. I just didn't remember",
+      "start": 1632.64,
+      "duration": 3.84
+    },
+    {
+      "text": "seeing it like an idiot. It's okay,",
+      "start": 1634.72,
+      "duration": 3.439
+    },
+    {
+      "text": "Aaron. I thought I'd be confident for a",
+      "start": 1636.48,
+      "duration": 3.76
+    },
+    {
+      "text": "second, but it turns out I don't deserve",
+      "start": 1638.159,
+      "duration": 4.241
+    },
+    {
+      "text": "that kind of kindness.",
+      "start": 1640.24,
+      "duration": 4.88
+    },
+    {
+      "text": "Let me go inside.",
+      "start": 1642.4,
+      "duration": 5.04
+    },
+    {
+      "text": "Time for another assy cut scene.",
+      "start": 1645.12,
+      "duration": 3.84
+    },
+    {
+      "text": ">> Hello, you lady boys.",
+      "start": 1647.44,
+      "duration": 4.56
+    },
+    {
+      "text": ">> A customer. Well, now what can I do for",
+      "start": 1648.96,
+      "duration": 4.56
+    },
+    {
+      "text": "you, sir?",
+      "start": 1652.0,
+      "duration": 3.039
+    },
+    {
+      "text": ">> Uh,",
+      "start": 1653.52,
+      "duration": 4.639
+    },
+    {
+      "text": "I'm not really sure.",
+      "start": 1655.039,
+      "duration": 5.201
+    },
+    {
+      "text": "What sort of pies do you have?",
+      "start": 1658.159,
+      "duration": 2.64
+    },
+    {
+      "text": ">> Listen.",
+      "start": 1660.24,
+      "duration": 3.36
+    },
+    {
+      "text": ">> Well, the disc pie, sir. Yes,",
+      "start": 1660.799,
+      "duration": 4.801
+    },
+    {
+      "text": ">> I know you've got that crazy eye thing",
+      "start": 1663.6,
+      "duration": 2.959
+    },
+    {
+      "text": "happening, but",
+      "start": 1665.6,
+      "duration": 1.84
+    },
+    {
+      "text": ">> meat pie.",
+      "start": 1666.559,
+      "duration": 3.921
+    },
+    {
+      "text": ">> You are so far above everyone else here.",
+      "start": 1667.44,
+      "duration": 6.8
+    },
+    {
+      "text": ">> Well, I'm sure, but what type of meat?",
+      "start": 1670.48,
+      "duration": 6.16
+    },
+    {
+      "text": ">> You may be a Los Angeles 3, but you're a",
+      "start": 1674.24,
+      "duration": 5.2
+    },
+    {
+      "text": "limbo of the lost 10 and a half.",
+      "start": 1676.64,
+      "duration": 7.919
+    },
+    {
+      "text": ">> Let me ask you, do you sell many pies?",
+      "start": 1679.44,
+      "duration": 7.04
+    },
+    {
+      "text": ">> You know, I have a feeling I know the",
+      "start": 1684.559,
+      "duration": 3.281
+    },
+    {
+      "text": "answer to this one.",
+      "start": 1686.48,
+      "duration": 3.76
+    },
+    {
+      "text": ">> Well, no, sir. Not as such. Fact is,",
+      "start": 1687.84,
+      "duration": 4.559
+    },
+    {
+      "text": "I've never sold so much as one. Be",
+      "start": 1690.24,
+      "duration": 4.0
+    },
+    {
+      "text": "honest, I can't even give them away.",
+      "start": 1692.399,
+      "duration": 4.721
+    },
+    {
+      "text": ">> Thank god they're subtitles.",
+      "start": 1694.24,
+      "duration": 5.6
+    },
+    {
+      "text": ">> Well, sir, every morning I set my good",
+      "start": 1697.12,
+      "duration": 4.48
+    },
+    {
+      "text": "and wholesome pies at the foot of the",
+      "start": 1699.84,
+      "duration": 6.079
+    },
+    {
+      "text": "man and poor lost soul should feel might",
+      "start": 1701.6,
+      "duration": 7.679
+    },
+    {
+      "text": "peckish. Strange though, nobody ever",
+      "start": 1705.919,
+      "duration": 4.081
+    },
+    {
+      "text": "takes one.",
+      "start": 1709.279,
+      "duration": 2.561
+    },
+    {
+      "text": ">> Can you back away from the microphone a",
+      "start": 1710.0,
+      "duration": 2.96
+    },
+    {
+      "text": "little? Two steps.",
+      "start": 1711.84,
+      "duration": 3.6
+    },
+    {
+      "text": ">> Nobody ever tastes one.",
+      "start": 1712.96,
+      "duration": 6.48
+    },
+    {
+      "text": ">> So, uh, when did you actually make these",
+      "start": 1715.44,
+      "duration": 5.839
+    },
+    {
+      "text": "pies?",
+      "start": 1719.44,
+      "duration": 2.959
+    },
+    {
+      "text": "last year",
+      "start": 1721.279,
+      "duration": 3.841
+    },
+    {
+      "text": ">> when I first got here. You see, I seem",
+      "start": 1722.399,
+      "duration": 5.28
+    },
+    {
+      "text": "to remembering the meat from the old",
+      "start": 1725.12,
+      "duration": 3.84
+    },
+    {
+      "text": "abattoire and making",
+      "start": 1727.679,
+      "duration": 3.201
+    },
+    {
+      "text": ">> Oh, so they're pandemic pies.",
+      "start": 1728.96,
+      "duration": 4.8
+    },
+    {
+      "text": ">> Mind you, how long ago that was, I",
+      "start": 1730.88,
+      "duration": 3.76
+    },
+    {
+      "text": "couldn't say.",
+      "start": 1733.76,
+      "duration": 1.76
+    },
+    {
+      "text": ">> Pamic.",
+      "start": 1734.64,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Not much cool to keep track of time",
+      "start": 1735.52,
+      "duration": 4.32
+    },
+    {
+      "text": "around here really. I mean, it's not",
+      "start": 1737.52,
+      "duration": 4.24
+    },
+    {
+      "text": "like we're ever likely to go anywhere",
+      "start": 1739.84,
+      "duration": 4.559
+    },
+    {
+      "text": "else now, is it? Hang on a minute. You",
+      "start": 1741.76,
+      "duration": 5.68
+    },
+    {
+      "text": "must be that detective fella. So, have",
+      "start": 1744.399,
+      "duration": 6.0
+    },
+    {
+      "text": "you caught it yet? a taker. I mean,",
+      "start": 1747.44,
+      "duration": 3.28
+    },
+    {
+      "text": ">> uh,",
+      "start": 1750.399,
+      "duration": 1.921
+    },
+    {
+      "text": ">> I think I caught a disease from these",
+      "start": 1750.72,
+      "duration": 2.88
+    },
+    {
+      "text": "pies. Yeah,",
+      "start": 1752.32,
+      "duration": 3.2
+    },
+    {
+      "text": ">> but I am working on it.",
+      "start": 1753.6,
+      "duration": 4.4
+    },
+    {
+      "text": ">> Then may offer some words of advice that",
+      "start": 1755.52,
+      "duration": 5.279
+    },
+    {
+      "text": "may or may not be of help to you.",
+      "start": 1758.0,
+      "duration": 3.36
+    },
+    {
+      "text": ">> Well, yes.",
+      "start": 1760.799,
+      "duration": 3.041
+    },
+    {
+      "text": ">> No, I mean, yes, of course.",
+      "start": 1761.36,
+      "duration": 4.4
+    },
+    {
+      "text": ">> Who do you know that likes to collect",
+      "start": 1763.84,
+      "duration": 4.88
+    },
+    {
+      "text": "things? A, there are those who aspire",
+      "start": 1765.76,
+      "duration": 5.519
+    },
+    {
+      "text": "towards the ultimate goal, seven from",
+      "start": 1768.72,
+      "duration": 6.24
+    },
+    {
+      "text": "limbo for one living soul.",
+      "start": 1771.279,
+      "duration": 4.241
+    },
+    {
+      "text": "now.",
+      "start": 1774.96,
+      "duration": 1.68
+    },
+    {
+      "text": ">> Oh my god.",
+      "start": 1775.52,
+      "duration": 3.039
+    },
+    {
+      "text": ">> You get",
+      "start": 1776.64,
+      "duration": 3.68
+    },
+    {
+      "text": ">> It's like talking to five of her.",
+      "start": 1778.559,
+      "duration": 5.041
+    },
+    {
+      "text": ">> Yes. And thank you, madam.",
+      "start": 1780.32,
+      "duration": 5.839
+    },
+    {
+      "text": ">> What a charming lady",
+      "start": 1783.6,
+      "duration": 4.16
+    },
+    {
+      "text": "and so helpful.",
+      "start": 1786.159,
+      "duration": 4.801
+    },
+    {
+      "text": ">> Could there be a a budding romance",
+      "start": 1787.76,
+      "duration": 5.919
+    },
+    {
+      "text": "between Captain Briggs and the Pie Lady?",
+      "start": 1790.96,
+      "duration": 4.719
+    },
+    {
+      "text": ">> Oh my god, the pie lady.",
+      "start": 1793.679,
+      "duration": 4.401
+    },
+    {
+      "text": ">> All right, that that those assets were",
+      "start": 1795.679,
+      "duration": 3.841
+    },
+    {
+      "text": "stolen from the servants quarters in",
+      "start": 1798.08,
+      "duration": 3.92
+    },
+    {
+      "text": "Bravo Castle in Oblivion. Jeez,",
+      "start": 1799.52,
+      "duration": 4.0
+    },
+    {
+      "text": ">> it's amazing that they kept stealing",
+      "start": 1802.0,
+      "duration": 3.36
+    },
+    {
+      "text": "from the same two games.",
+      "start": 1803.52,
+      "duration": 3.759
+    },
+    {
+      "text": ">> Yeah, I'm assuming this is also Unreal",
+      "start": 1805.36,
+      "duration": 2.72
+    },
+    {
+      "text": "Tournament out here.",
+      "start": 1807.279,
+      "duration": 2.241
+    },
+    {
+      "text": ">> Yeah, it's Unreal Tournament on the",
+      "start": 1808.08,
+      "duration": 6.04
+    },
+    {
+      "text": "outside, Oblivion on the inside.",
+      "start": 1809.52,
+      "duration": 4.6
+    },
+    {
+      "text": ">> It's aristocracy Unreal Tournament.",
+      "start": 1815.44,
+      "duration": 3.839
+    },
+    {
+      "text": ">> Uh, okay. What's next?",
+      "start": 1818.08,
+      "duration": 2.56
+    },
+    {
+      "text": ">> All right. Wait, we're going to stop",
+      "start": 1819.279,
+      "duration": 2.64
+    },
+    {
+      "text": "saying that cuz it's just taking too",
+      "start": 1820.64,
+      "duration": 3.6
+    },
+    {
+      "text": "much time. But if you see other assets",
+      "start": 1821.919,
+      "duration": 4.0
+    },
+    {
+      "text": "that you know were stolen from another",
+      "start": 1824.24,
+      "duration": 3.439
+    },
+    {
+      "text": "game, please write them in the comments.",
+      "start": 1825.919,
+      "duration": 4.321
+    },
+    {
+      "text": "It'll be a fun game for everyone.",
+      "start": 1827.679,
+      "duration": 4.321
+    },
+    {
+      "text": "Uh,",
+      "start": 1830.24,
+      "duration": 4.0
+    },
+    {
+      "text": "now you got to go to the pawn shop.",
+      "start": 1832.0,
+      "duration": 5.36
+    },
+    {
+      "text": ">> The pawn shop? Mhm.",
+      "start": 1834.24,
+      "duration": 4.72
+    },
+    {
+      "text": ">> Pawn shop.",
+      "start": 1837.36,
+      "duration": 4.48
+    },
+    {
+      "text": ">> Hold on. I'll check a map. Right in the",
+      "start": 1838.96,
+      "duration": 7.36
+    },
+    {
+      "text": "center above the stables.",
+      "start": 1841.84,
+      "duration": 6.48
+    },
+    {
+      "text": ">> Oh, there's more up here.",
+      "start": 1846.32,
+      "duration": 3.92
+    },
+    {
+      "text": ">> Yes,",
+      "start": 1848.32,
+      "duration": 4.88
+    },
+    {
+      "text": "there it is. You just passed it",
+      "start": 1850.24,
+      "duration": 3.6
+    },
+    {
+      "text": ">> to that end.",
+      "start": 1853.2,
+      "duration": 2.719
+    },
+    {
+      "text": ">> To the left. To the left. There you go.",
+      "start": 1853.84,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Oh.",
+      "start": 1855.919,
+      "duration": 4.561
+    },
+    {
+      "text": "Oh god. I must be fucking smoking some",
+      "start": 1857.84,
+      "duration": 4.24
+    },
+    {
+      "text": "kind of crack.",
+      "start": 1860.48,
+      "duration": 4.88
+    },
+    {
+      "text": ">> No, you're just",
+      "start": 1862.08,
+      "duration": 5.68
+    },
+    {
+      "text": "being slowly beaten down by the madness",
+      "start": 1865.36,
+      "duration": 3.28
+    },
+    {
+      "text": "of this game.",
+      "start": 1867.76,
+      "duration": 4.32
+    },
+    {
+      "text": ">> I love huffing people's cracks.",
+      "start": 1868.64,
+      "duration": 3.84
+    },
+    {
+      "text": ">> Um,",
+      "start": 1872.08,
+      "duration": 4.36
+    },
+    {
+      "text": ">> what's inside the pawn shop?",
+      "start": 1872.48,
+      "duration": 3.96
+    },
+    {
+      "text": ">> He's not a bear.",
+      "start": 1878.0,
+      "duration": 1.84
+    },
+    {
+      "text": ">> Oh, it's him.",
+      "start": 1879.12,
+      "duration": 2.32
+    },
+    {
+      "text": ">> Business with the mayor.",
+      "start": 1879.84,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Perhaps I could be of service.",
+      "start": 1881.44,
+      "duration": 2.8
+    },
+    {
+      "text": ">> Oh, no. That's a different guy. Yeah,",
+      "start": 1882.72,
+      "duration": 2.64
+    },
+    {
+      "text": "you need Unigus.",
+      "start": 1884.24,
+      "duration": 4.319
+    },
+    {
+      "text": ">> No, thank you. I'm just looking. Scourge",
+      "start": 1885.36,
+      "duration": 4.4
+    },
+    {
+      "text": "is a name.",
+      "start": 1888.559,
+      "duration": 2.081
+    },
+    {
+      "text": ">> Danny Scourge.",
+      "start": 1889.76,
+      "duration": 1.6
+    },
+    {
+      "text": ">> Oh, that's you.",
+      "start": 1890.64,
+      "duration": 1.759
+    },
+    {
+      "text": ">> Maybe you've heard of him.",
+      "start": 1891.36,
+      "duration": 2.08
+    },
+    {
+      "text": ">> Is really nice.",
+      "start": 1892.399,
+      "duration": 2.561
+    },
+    {
+      "text": ">> Brother Billy.",
+      "start": 1893.44,
+      "duration": 4.479
+    },
+    {
+      "text": ">> Ah, Scourge. Now, you would be the",
+      "start": 1894.96,
+      "duration": 5.12
+    },
+    {
+      "text": "brothers that own the abattoire and the",
+      "start": 1897.919,
+      "duration": 4.48
+    },
+    {
+      "text": "stables, I believe.",
+      "start": 1900.08,
+      "duration": 5.04
+    },
+    {
+      "text": ">> Neither of which are open, I've noticed.",
+      "start": 1902.399,
+      "duration": 3.601
+    },
+    {
+      "text": ">> Where did you hide the bodies?",
+      "start": 1905.12,
+      "duration": 2.08
+    },
+    {
+      "text": ">> Quality mate around here.",
+      "start": 1906.0,
+      "duration": 2.24
+    },
+    {
+      "text": ">> Oh, he's going to laugh.",
+      "start": 1907.2,
+      "duration": 4.16
+    },
+    {
+      "text": ">> Storage nowadays.",
+      "start": 1908.24,
+      "duration": 4.64
+    },
+    {
+      "text": ">> I have a feeling he's going to laugh. Oh",
+      "start": 1911.36,
+      "duration": 4.679
+    },
+    {
+      "text": "my god,",
+      "start": 1912.88,
+      "duration": 3.159
+    },
+    {
+      "text": "that sounds legit.",
+      "start": 1917.2,
+      "duration": 4.959
+    },
+    {
+      "text": ">> Oh my god. Does this guy smoke camel",
+      "start": 1920.159,
+      "duration": 4.801
+    },
+    {
+      "text": "reds?",
+      "start": 1922.159,
+      "duration": 4.561
+    },
+    {
+      "text": ">> Holy shit.",
+      "start": 1924.96,
+      "duration": 3.92
+    },
+    {
+      "text": ">> Oh dear.",
+      "start": 1926.72,
+      "duration": 3.36
+    },
+    {
+      "text": ">> Oh dear.",
+      "start": 1928.88,
+      "duration": 2.0
+    },
+    {
+      "text": ">> Scourge.",
+      "start": 1930.08,
+      "duration": 1.36
+    },
+    {
+      "text": ">> Wow.",
+      "start": 1930.88,
+      "duration": 2.799
+    },
+    {
+      "text": ">> Do you or your brother ever let out the",
+      "start": 1931.44,
+      "duration": 5.68
+    },
+    {
+      "text": ">> Well, let's move on from that then.",
+      "start": 1933.679,
+      "duration": 7.081
+    },
+    {
+      "text": ">> Moving right along.",
+      "start": 1937.12,
+      "duration": 3.64
+    },
+    {
+      "text": "Oh god. Blime me nearly had me lungs up",
+      "start": 1942.96,
+      "duration": 6.64
+    },
+    {
+      "text": "then. Well, I wouldn't know about that",
+      "start": 1945.36,
+      "duration": 6.159
+    },
+    {
+      "text": "sort of thing. I just sort of help him",
+      "start": 1949.6,
+      "duration": 3.04
+    },
+    {
+      "text": "out here and",
+      "start": 1951.519,
+      "duration": 2.88
+    },
+    {
+      "text": ">> wife like peaks out of the doors. I'm",
+      "start": 1952.64,
+      "duration": 2.8
+    },
+    {
+      "text": "okay. I'm okay. I'm okay.",
+      "start": 1954.399,
+      "duration": 5.361
+    },
+    {
+      "text": ">> Say that I'm um uh oh yeah, an an",
+      "start": 1955.44,
+      "duration": 6.32
+    },
+    {
+      "text": "integral",
+      "start": 1959.76,
+      "duration": 4.32
+    },
+    {
+      "text": "part of the business and says that what",
+      "start": 1961.76,
+      "duration": 5.68
+    },
+    {
+      "text": "I don't know can't cause me no harm.",
+      "start": 1964.08,
+      "duration": 5.92
+    },
+    {
+      "text": ">> And I'm sure he's right.",
+      "start": 1967.44,
+      "duration": 5.04
+    },
+    {
+      "text": "So, where is your brother today?",
+      "start": 1970.0,
+      "duration": 5.679
+    },
+    {
+      "text": ">> He has urgent business with the mayor.",
+      "start": 1972.48,
+      "duration": 3.919
+    },
+    {
+      "text": ">> In heaven. I",
+      "start": 1975.679,
+      "duration": 2.081
+    },
+    {
+      "text": ">> see.",
+      "start": 1976.399,
+      "duration": 3.28
+    },
+    {
+      "text": ">> It must be very important business",
+      "start": 1977.76,
+      "duration": 3.519
+    },
+    {
+      "text": "indeed.",
+      "start": 1979.679,
+      "duration": 3.761
+    },
+    {
+      "text": ">> So, how come you're not there?",
+      "start": 1981.279,
+      "duration": 4.161
+    },
+    {
+      "text": ">> It's because I'm not integral,",
+      "start": 1983.44,
+      "duration": 4.0
+    },
+    {
+      "text": ">> ain't I? I mean, you never know who",
+      "start": 1985.44,
+      "duration": 4.56
+    },
+    {
+      "text": "might come in.",
+      "start": 1987.44,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Yes, of course.",
+      "start": 1990.0,
+      "duration": 2.48
+    },
+    {
+      "text": ">> Yeah, but you're the cooler.",
+      "start": 1991.12,
+      "duration": 3.36
+    },
+    {
+      "text": ">> Skir.",
+      "start": 1992.48,
+      "duration": 4.079
+    },
+    {
+      "text": "And thank you for",
+      "start": 1994.48,
+      "duration": 4.319
+    },
+    {
+      "text": ">> my pleasure, Mr. Detective. Now, you",
+      "start": 1996.559,
+      "duration": 4.161
+    },
+    {
+      "text": "sure nothing takes you fancy before you",
+      "start": 1998.799,
+      "duration": 2.72
+    },
+    {
+      "text": "go?",
+      "start": 2000.72,
+      "duration": 2.48
+    },
+    {
+      "text": ">> Well, not just at the moment, Mr.",
+      "start": 2001.519,
+      "duration": 3.921
+    },
+    {
+      "text": "Scourge, but perhaps another time.",
+      "start": 2003.2,
+      "duration": 4.4
+    },
+    {
+      "text": ">> Well, not just at the moment, Mr.",
+      "start": 2005.44,
+      "duration": 5.04
+    },
+    {
+      "text": "Scourge, but maybe a little kiss on the",
+      "start": 2007.6,
+      "duration": 4.4
+    },
+    {
+      "text": "cheek, maybe.",
+      "start": 2010.48,
+      "duration": 2.96
+    },
+    {
+      "text": ">> Oh, wait. Don't leave.",
+      "start": 2012.0,
+      "duration": 2.799
+    },
+    {
+      "text": ">> Well, it leaves automatically.",
+      "start": 2013.44,
+      "duration": 3.119
+    },
+    {
+      "text": ">> Oh,",
+      "start": 2014.799,
+      "duration": 4.24
+    },
+    {
+      "text": "you got to go back, I guess. Oh, never",
+      "start": 2016.559,
+      "duration": 4.881
+    },
+    {
+      "text": "mind. Oh,",
+      "start": 2019.039,
+      "duration": 3.681
+    },
+    {
+      "text": ">> the hell was that?",
+      "start": 2021.44,
+      "duration": 3.52
+    },
+    {
+      "text": ">> That's what you got to It's a snowball",
+      "start": 2022.72,
+      "duration": 3.839
+    },
+    {
+      "text": "node.",
+      "start": 2024.96,
+      "duration": 5.92
+    },
+    {
+      "text": ">> Interesting. A snowball note",
+      "start": 2026.559,
+      "duration": 6.401
+    },
+    {
+      "text": ">> like a like a note attached to a brick.",
+      "start": 2030.88,
+      "duration": 3.84
+    },
+    {
+      "text": ">> No, a note.",
+      "start": 2032.96,
+      "duration": 4.16
+    },
+    {
+      "text": ">> There is more than one way in.",
+      "start": 2034.72,
+      "duration": 4.559
+    },
+    {
+      "text": ">> We can't spell or she's trying to tell",
+      "start": 2037.12,
+      "duration": 2.88
+    },
+    {
+      "text": "us something.",
+      "start": 2039.279,
+      "duration": 2.64
+    },
+    {
+      "text": ">> Who's she? I didn't have time to look at",
+      "start": 2040.0,
+      "duration": 2.24
+    },
+    {
+      "text": "it.",
+      "start": 2041.919,
+      "duration": 0.961
+    },
+    {
+      "text": ">> I don't know.",
+      "start": 2042.24,
+      "duration": 1.679
+    },
+    {
+      "text": ">> Is that it?",
+      "start": 2042.88,
+      "duration": 2.24
+    },
+    {
+      "text": ">> Uh, yes.",
+      "start": 2043.919,
+      "duration": 2.48
+    },
+    {
+      "text": ">> Okay.",
+      "start": 2045.12,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Go to town hall.",
+      "start": 2046.399,
+      "duration": 2.641
+    },
+    {
+      "text": ">> Not to the inn.",
+      "start": 2048.0,
+      "duration": 2.96
+    },
+    {
+      "text": ">> Not to the end. Why would you think",
+      "start": 2049.04,
+      "duration": 2.96
+    },
+    {
+      "text": "that?",
+      "start": 2050.96,
+      "duration": 1.84
+    },
+    {
+      "text": ">> Oh man.",
+      "start": 2052.0,
+      "duration": 2.399
+    },
+    {
+      "text": ">> Jesus Christ.",
+      "start": 2052.8,
+      "duration": 2.72
+    },
+    {
+      "text": ">> Town hall.",
+      "start": 2054.399,
+      "duration": 3.921
+    },
+    {
+      "text": ">> There you go.",
+      "start": 2055.52,
+      "duration": 2.8
+    },
+    {
+      "text": "I would say it's a fetch quest, but",
+      "start": 2059.679,
+      "duration": 4.48
+    },
+    {
+      "text": "we're not fetching anything.",
+      "start": 2061.04,
+      "duration": 4.24
+    },
+    {
+      "text": ">> Yeah. Wasn't there a whole thing about",
+      "start": 2064.159,
+      "duration": 2.561
+    },
+    {
+      "text": "like picking up every item?",
+      "start": 2065.28,
+      "duration": 1.92
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 2066.72,
+      "duration": 4.28
+    },
+    {
+      "text": ">> Haven't there been any items?",
+      "start": 2067.2,
+      "duration": 3.8
+    },
+    {
+      "text": ">> Okay. Walk up the balcony.",
+      "start": 2073.119,
+      "duration": 8.201
+    },
+    {
+      "text": ">> Uh wood that I could. Okay.",
+      "start": 2076.639,
+      "duration": 4.681
+    },
+    {
+      "text": "Wee.",
+      "start": 2081.839,
+      "duration": 5.921
+    },
+    {
+      "text": "Oops. Oops. Wee.",
+      "start": 2083.919,
+      "duration": 7.041
+    },
+    {
+      "text": "It's a catwalk.",
+      "start": 2087.76,
+      "duration": 5.04
+    },
+    {
+      "text": "It's a catwalk.",
+      "start": 2090.96,
+      "duration": 3.04
+    },
+    {
+      "text": ">> Your business.",
+      "start": 2092.8,
+      "duration": 2.879
+    },
+    {
+      "text": ">> Hello.",
+      "start": 2094.0,
+      "duration": 4.0
+    },
+    {
+      "text": ">> I'd like to speak to the mayor.",
+      "start": 2095.679,
+      "duration": 3.041
+    },
+    {
+      "text": ">> He is.",
+      "start": 2098.0,
+      "duration": 2.48
+    },
+    {
+      "text": ">> I am here.",
+      "start": 2098.72,
+      "duration": 5.28
+    },
+    {
+      "text": ">> Busy and may not be disturbed.",
+      "start": 2100.48,
+      "duration": 4.48
+    },
+    {
+      "text": ">> Oh, so he may.",
+      "start": 2104.0,
+      "duration": 3.119
+    },
+    {
+      "text": ">> Ah, but I'm here on official business",
+      "start": 2104.96,
+      "duration": 4.24
+    },
+    {
+      "text": "concerning the very capture of the soul",
+      "start": 2107.119,
+      "duration": 2.641
+    },
+    {
+      "text": "taker.",
+      "start": 2109.2,
+      "duration": 3.28
+    },
+    {
+      "text": ">> He may not be disturbed.",
+      "start": 2109.76,
+      "duration": 4.88
+    },
+    {
+      "text": ">> He may as well though. I don't know.",
+      "start": 2112.48,
+      "duration": 5.2
+    },
+    {
+      "text": "Hard to say really. I'm sitting here.",
+      "start": 2114.64,
+      "duration": 6.4
+    },
+    {
+      "text": ">> It's a bit of a roll of the dice.",
+      "start": 2117.68,
+      "duration": 6.08
+    },
+    {
+      "text": ">> I don't have a real suspect yet.",
+      "start": 2121.04,
+      "duration": 6.64
+    },
+    {
+      "text": ">> But what I do have is a theory.",
+      "start": 2123.76,
+      "duration": 7.64
+    },
+    {
+      "text": ">> A theory, eh?",
+      "start": 2127.68,
+      "duration": 3.72
+    },
+    {
+      "text": ">> You just caught me jacking off. Oh,",
+      "start": 2132.16,
+      "duration": 3.6
+    },
+    {
+      "text": "blime me.",
+      "start": 2134.88,
+      "duration": 4.4
+    },
+    {
+      "text": ">> Person. In fact, I would go so far as to",
+      "start": 2135.76,
+      "duration": 6.56
+    },
+    {
+      "text": "say a group of people. Four at the very",
+      "start": 2139.28,
+      "duration": 6.88
+    },
+    {
+      "text": "least. What? What's that you say? A",
+      "start": 2142.32,
+      "duration": 7.2
+    },
+    {
+      "text": "cult? Well, nip it in the butt, man.",
+      "start": 2146.16,
+      "duration": 5.36
+    },
+    {
+      "text": ">> Ah, yes. Cults love to get nipped in the",
+      "start": 2149.52,
+      "duration": 3.04
+    },
+    {
+      "text": "bud.",
+      "start": 2151.52,
+      "duration": 3.12
+    },
+    {
+      "text": ">> Find the ring leaders and the rest will",
+      "start": 2152.56,
+      "duration": 5.12
+    },
+    {
+      "text": "come crawling from the woodwork. Well,",
+      "start": 2154.64,
+      "duration": 6.08
+    },
+    {
+      "text": "off you go, detective. No time like the",
+      "start": 2157.68,
+      "duration": 7.12
+    },
+    {
+      "text": "present. No time to lose.",
+      "start": 2160.72,
+      "duration": 6.0
+    },
+    {
+      "text": ">> Boy, I love that they just let their",
+      "start": 2164.8,
+      "duration": 4.799
+    },
+    {
+      "text": "voice actors go rogue.",
+      "start": 2166.72,
+      "duration": 4.48
+    },
+    {
+      "text": ">> Oh, that was good. No time like the",
+      "start": 2169.599,
+      "duration": 3.681
+    },
+    {
+      "text": "present. That was really good.",
+      "start": 2171.2,
+      "duration": 3.44
+    },
+    {
+      "text": ">> We're going to write that in, but not",
+      "start": 2173.28,
+      "duration": 4.319
+    },
+    {
+      "text": "write it in.",
+      "start": 2174.64,
+      "duration": 6.719
+    },
+    {
+      "text": "Okay. Uh, all right. Now we leave back",
+      "start": 2177.599,
+      "duration": 4.721
+    },
+    {
+      "text": "to the map.",
+      "start": 2181.359,
+      "duration": 4.76
+    },
+    {
+      "text": ">> Oh my god. Okay.",
+      "start": 2182.32,
+      "duration": 3.799
+    },
+    {
+      "text": "Let's create a chapter where we talk to",
+      "start": 2187.28,
+      "duration": 4.16
+    },
+    {
+      "text": "all uninteresting people that we don't",
+      "start": 2189.2,
+      "duration": 4.48
+    },
+    {
+      "text": "want to talk to.",
+      "start": 2191.44,
+      "duration": 3.679
+    },
+    {
+      "text": ">> Yeah. You just meet them and they're",
+      "start": 2193.68,
+      "duration": 3.04
+    },
+    {
+      "text": "like,",
+      "start": 2195.119,
+      "duration": 3.441
+    },
+    {
+      "text": "and then you'll leave.",
+      "start": 2196.72,
+      "duration": 4.08
+    },
+    {
+      "text": "Will they be at least fun and attractive",
+      "start": 2198.56,
+      "duration": 3.92
+    },
+    {
+      "text": "to look at? Oh god, no.",
+      "start": 2200.8,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Yeah, maybe pie lady.",
+      "start": 2202.48,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Oh yeah, pie lady was nice.",
+      "start": 2204.8,
+      "duration": 3.279
+    },
+    {
+      "text": ">> I guess P lady was fucking",
+      "start": 2206.16,
+      "duration": 5.199
+    },
+    {
+      "text": ">> go to the society hall and hospice.",
+      "start": 2208.079,
+      "duration": 5.361
+    },
+    {
+      "text": ">> Is that a fucking option?",
+      "start": 2211.359,
+      "duration": 4.161
+    },
+    {
+      "text": ">> Oh yeah.",
+      "start": 2213.44,
+      "duration": 5.44
+    },
+    {
+      "text": ">> Oh. Oh, I guess new ones are showing up.",
+      "start": 2215.52,
+      "duration": 6.68
+    },
+    {
+      "text": ">> I see.",
+      "start": 2218.88,
+      "duration": 3.32
+    },
+    {
+      "text": ">> Excuse me.",
+      "start": 2224.24,
+      "duration": 2.48
+    },
+    {
+      "text": ">> Excuse me. Is this the way to the Oh,",
+      "start": 2224.8,
+      "duration": 3.92
+    },
+    {
+      "text": ">> we're sorry to bother you,",
+      "start": 2226.72,
+      "duration": 3.44
+    },
+    {
+      "text": ">> especially as you are",
+      "start": 2228.72,
+      "duration": 2.24
+    },
+    {
+      "text": ">> poor man",
+      "start": 2230.16,
+      "duration": 2.64
+    },
+    {
+      "text": ">> in mid sleuth.",
+      "start": 2230.96,
+      "duration": 4.0
+    },
+    {
+      "text": ">> It's just that we thought it was best to",
+      "start": 2232.8,
+      "duration": 4.24
+    },
+    {
+      "text": ">> introduce ourselves, you know,",
+      "start": 2234.96,
+      "duration": 4.32
+    },
+    {
+      "text": ">> make you aware of who we are and what it",
+      "start": 2237.04,
+      "duration": 3.36
+    },
+    {
+      "text": "is we do",
+      "start": 2239.28,
+      "duration": 3.839
+    },
+    {
+      "text": ">> for these poor unfortunate",
+      "start": 2240.4,
+      "duration": 6.24
+    },
+    {
+      "text": "individuals. Mr. and Mrs. Dood at your",
+      "start": 2243.119,
+      "duration": 4.081
+    },
+    {
+      "text": "service.",
+      "start": 2246.64,
+      "duration": 2.24
+    },
+    {
+      "text": ">> Are they Siamese twins who managed to",
+      "start": 2247.2,
+      "duration": 3.2
+    },
+    {
+      "text": "dress in different clothes? That's",
+      "start": 2248.88,
+      "duration": 2.32
+    },
+    {
+      "text": "pretty impressive.",
+      "start": 2250.4,
+      "duration": 3.76
+    },
+    {
+      "text": ">> I can handle it. Savage redeyed hell",
+      "start": 2251.2,
+      "duration": 5.76
+    },
+    {
+      "text": "dogs. Bring them on. But bloody",
+      "start": 2254.16,
+      "duration": 6.64
+    },
+    {
+      "text": "dogooders. Well, that's all I need.",
+      "start": 2256.96,
+      "duration": 6.08
+    },
+    {
+      "text": ">> Oh, Captain Briggs.",
+      "start": 2260.8,
+      "duration": 4.16
+    },
+    {
+      "text": ">> Well, it was nice to meet you both.",
+      "start": 2263.04,
+      "duration": 3.28
+    },
+    {
+      "text": ">> I never understood the problem with",
+      "start": 2264.96,
+      "duration": 2.32
+    },
+    {
+      "text": "doing good.",
+      "start": 2266.32,
+      "duration": 4.24
+    },
+    {
+      "text": ">> Absolutely, detective. Off you go. And",
+      "start": 2267.28,
+      "duration": 6.48
+    },
+    {
+      "text": "don't worry about him. We'll take care",
+      "start": 2270.56,
+      "duration": 5.76
+    },
+    {
+      "text": "of him.",
+      "start": 2273.76,
+      "duration": 5.28
+    },
+    {
+      "text": ">> Wait, who's the other guy? Yeah. Well,",
+      "start": 2276.32,
+      "duration": 5.279
+    },
+    {
+      "text": "was that it? I guess I'll be on my way.",
+      "start": 2279.04,
+      "duration": 4.48
+    },
+    {
+      "text": "I don't want to talk to you for longer.",
+      "start": 2281.599,
+      "duration": 3.681
+    },
+    {
+      "text": "Then I'll have to",
+      "start": 2283.52,
+      "duration": 4.8
+    },
+    {
+      "text": ">> uh you go back to society hall at",
+      "start": 2285.28,
+      "duration": 3.6
+    },
+    {
+      "text": "hospice.",
+      "start": 2288.32,
+      "duration": 3.6
+    },
+    {
+      "text": ">> Jesus Christ.",
+      "start": 2288.88,
+      "duration": 5.04
+    },
+    {
+      "text": ">> Getting tired of it. Are you",
+      "start": 2291.92,
+      "duration": 5.12
+    },
+    {
+      "text": ">> take both items on the floor?",
+      "start": 2293.92,
+      "duration": 6.12
+    },
+    {
+      "text": ">> Take",
+      "start": 2297.04,
+      "duration": 3.0
+    },
+    {
+      "text": "glasses.",
+      "start": 2301.2,
+      "duration": 3.0
+    },
+    {
+      "text": "[Music]",
+      "start": 2304.38,
+      "duration": 6.42
+    },
+    {
+      "text": ">> Iron. Do I go inside?",
+      "start": 2307.04,
+      "duration": 4.64
+    },
+    {
+      "text": "Yeah.",
+      "start": 2310.8,
+      "duration": 1.6
+    },
+    {
+      "text": ">> Okay.",
+      "start": 2311.68,
+      "duration": 1.52
+    },
+    {
+      "text": ">> No.",
+      "start": 2312.4,
+      "duration": 2.08
+    },
+    {
+      "text": ">> Oh,",
+      "start": 2313.2,
+      "duration": 2.32
+    },
+    {
+      "text": ">> it's locked.",
+      "start": 2314.48,
+      "duration": 1.52
+    },
+    {
+      "text": ">> Okay.",
+      "start": 2315.52,
+      "duration": 4.2
+    },
+    {
+      "text": ">> Go to the blacksmith.",
+      "start": 2316.0,
+      "duration": 3.72
+    },
+    {
+      "text": ">> Jesus fucking Christ.",
+      "start": 2320.48,
+      "duration": 3.96
+    },
+    {
+      "text": ">> Aaron, you got to play this with earnest",
+      "start": 2324.64,
+      "duration": 5.76
+    },
+    {
+      "text": "likeness. They worked hard on this game.",
+      "start": 2326.88,
+      "duration": 5.92
+    },
+    {
+      "text": ">> They worked hard pressing right click",
+      "start": 2330.4,
+      "duration": 2.88
+    },
+    {
+      "text": "save.",
+      "start": 2332.8,
+      "duration": 2.72
+    },
+    {
+      "text": ">> Nothing to tell you.",
+      "start": 2333.28,
+      "duration": 4.079
+    },
+    {
+      "text": ">> Well, I mean, the Oblivion and Unreal",
+      "start": 2335.52,
+      "duration": 3.599
+    },
+    {
+      "text": "Tournament people worked hard on this.",
+      "start": 2337.359,
+      "duration": 2.321
+    },
+    {
+      "text": "Yeah.",
+      "start": 2339.119,
+      "duration": 2.72
+    },
+    {
+      "text": ">> Was it you who threw the snowball with a",
+      "start": 2339.68,
+      "duration": 4.399
+    },
+    {
+      "text": "message inside?",
+      "start": 2341.839,
+      "duration": 4.161
+    },
+    {
+      "text": ">> My father wrote the message, but I made",
+      "start": 2344.079,
+      "duration": 5.081
+    },
+    {
+      "text": "the snowball.",
+      "start": 2346.0,
+      "duration": 3.16
+    },
+    {
+      "text": ">> I'm aging a year every day.",
+      "start": 2350.24,
+      "duration": 4.52
+    },
+    {
+      "text": ">> Well, according to my young friend here,",
+      "start": 2356.32,
+      "duration": 4.56
+    },
+    {
+      "text": ">> could you could you stop?",
+      "start": 2358.88,
+      "duration": 3.84
+    },
+    {
+      "text": ">> Could you not say",
+      "start": 2360.88,
+      "duration": 6.16
+    },
+    {
+      "text": ">> why have you befriended my son?",
+      "start": 2362.72,
+      "duration": 6.96
+    },
+    {
+      "text": "At the end of this lane, our side of the",
+      "start": 2367.04,
+      "duration": 5.76
+    },
+    {
+      "text": "arrow, there is an unbeaten track. Find",
+      "start": 2369.68,
+      "duration": 6.0
+    },
+    {
+      "text": "and walk this path. There you will meet",
+      "start": 2372.8,
+      "duration": 5.2
+    },
+    {
+      "text": "good and sound advice.",
+      "start": 2375.68,
+      "duration": 3.6
+    },
+    {
+      "text": ">> Daughter, father,",
+      "start": 2378.0,
+      "duration": 4.16
+    },
+    {
+      "text": ">> even worse.",
+      "start": 2379.28,
+      "duration": 4.799
+    },
+    {
+      "text": ">> Now, God, time is running out for you",
+      "start": 2382.16,
+      "duration": 4.88
+    },
+    {
+      "text": "and for the very soul of Dartmouth.",
+      "start": 2384.079,
+      "duration": 5.601
+    },
+    {
+      "text": ">> I assure you, time is not running out.",
+      "start": 2387.04,
+      "duration": 5.52
+    },
+    {
+      "text": "This is one of the lowest stakes in any",
+      "start": 2389.68,
+      "duration": 5.84
+    },
+    {
+      "text": "game I've ever played.",
+      "start": 2392.56,
+      "duration": 4.72
+    },
+    {
+      "text": "Time is running out and you still have",
+      "start": 2395.52,
+      "duration": 6.52
+    },
+    {
+      "text": "places to wander to and get talked at.",
+      "start": 2397.28,
+      "duration": 4.76
+    },
+    {
+      "text": ">> This makes Disco Allesium look like a",
+      "start": 2402.32,
+      "duration": 4.06
+    },
+    {
+      "text": "first person shooter.",
+      "start": 2404.079,
+      "duration": 3.921
+    },
+    {
+      "text": "[Music]",
+      "start": 2406.38,
+      "duration": 4.94
+    },
+    {
+      "text": ">> What's next?",
+      "start": 2408.0,
+      "duration": 3.32
+    },
+    {
+      "text": ">> Oh my god. Return to the map. Go to the",
+      "start": 2413.119,
+      "duration": 3.361
+    },
+    {
+      "text": "Mystic Cottage.",
+      "start": 2415.28,
+      "duration": 2.64
+    },
+    {
+      "text": ">> The Mystic Cottage.",
+      "start": 2416.48,
+      "duration": 2.48
+    },
+    {
+      "text": ">> You better believe it.",
+      "start": 2417.92,
+      "duration": 3.919
+    },
+    {
+      "text": ">> That's fucking new. Whoa.",
+      "start": 2418.96,
+      "duration": 4.24
+    },
+    {
+      "text": ">> Boom.",
+      "start": 2421.839,
+      "duration": 3.201
+    },
+    {
+      "text": ">> Whoa. Oh, look at this. Oh,",
+      "start": 2423.2,
+      "duration": 3.04
+    },
+    {
+      "text": ">> isn't this magical?",
+      "start": 2425.04,
+      "duration": 3.039
+    },
+    {
+      "text": ">> This is crazy. I think this is also a",
+      "start": 2426.24,
+      "duration": 3.04
+    },
+    {
+      "text": "real world tournament. I think all the",
+      "start": 2428.079,
+      "duration": 2.081
+    },
+    {
+      "text": "outdoor ones are.",
+      "start": 2429.28,
+      "duration": 2.48
+    },
+    {
+      "text": ">> I think so, too.",
+      "start": 2430.16,
+      "duration": 2.16
+    },
+    {
+      "text": ">> Hello.",
+      "start": 2431.76,
+      "duration": 1.52
+    },
+    {
+      "text": ">> How did they think they were going to",
+      "start": 2432.32,
+      "duration": 3.92
+    },
+    {
+      "text": "get away with this? Good lord.",
+      "start": 2433.28,
+      "duration": 4.96
+    },
+    {
+      "text": ">> So, how did you know that it would be me",
+      "start": 2436.24,
+      "duration": 3.76
+    },
+    {
+      "text": "at the door?",
+      "start": 2438.24,
+      "duration": 5.04
+    },
+    {
+      "text": ">> Mure. Am I not a mystic? Am I not most",
+      "start": 2440.0,
+      "duration": 5.599
+    },
+    {
+      "text": "formidable at my job?",
+      "start": 2443.28,
+      "duration": 3.6
+    },
+    {
+      "text": ">> Well, I hope so.",
+      "start": 2445.599,
+      "duration": 4.24
+    },
+    {
+      "text": ">> Do I not have big bouncers?",
+      "start": 2446.88,
+      "duration": 4.8
+    },
+    {
+      "text": ">> You already knew that, didn't Does my",
+      "start": 2449.839,
+      "duration": 4.641
+    },
+    {
+      "text": "figure not please you?",
+      "start": 2451.68,
+      "duration": 5.84
+    },
+    {
+      "text": ">> Yeah. So, can you help me find the soul",
+      "start": 2454.48,
+      "duration": 4.56
+    },
+    {
+      "text": "taker?",
+      "start": 2457.52,
+      "duration": 4.48
+    },
+    {
+      "text": ">> Mure su play.",
+      "start": 2459.04,
+      "duration": 5.52
+    },
+    {
+      "text": ">> Mind you, silvu's plate.",
+      "start": 2462.0,
+      "duration": 7.359
+    },
+    {
+      "text": ">> Shadows may seek even this place.",
+      "start": 2464.56,
+      "duration": 6.799
+    },
+    {
+      "text": ">> Whoa.",
+      "start": 2469.359,
+      "duration": 4.801
+    },
+    {
+      "text": ">> Hey, come on. Give her a chance at",
+      "start": 2471.359,
+      "duration": 3.76
+    },
+    {
+      "text": "least.",
+      "start": 2474.16,
+      "duration": 1.52
+    },
+    {
+      "text": ">> What?",
+      "start": 2475.119,
+      "duration": 1.041
+    },
+    {
+      "text": ">> So,",
+      "start": 2475.68,
+      "duration": 2.24
+    },
+    {
+      "text": ">> sorry. I drank a lot of milk this",
+      "start": 2476.16,
+      "duration": 2.24
+    },
+    {
+      "text": "morning.",
+      "start": 2477.92,
+      "duration": 3.84
+    },
+    {
+      "text": ">> That to us? Give her a chance. Oh, I",
+      "start": 2478.4,
+      "duration": 3.919
+    },
+    {
+      "text": "think it was",
+      "start": 2481.76,
+      "duration": 4.319
+    },
+    {
+      "text": ">> only once. Look again at the wall. You",
+      "start": 2482.319,
+      "duration": 7.361
+    },
+    {
+      "text": "may progress further left, right, and",
+      "start": 2486.079,
+      "duration": 7.04
+    },
+    {
+      "text": "center. Then on to the truth.",
+      "start": 2489.68,
+      "duration": 5.12
+    },
+    {
+      "text": ">> Sorry, I have to get to a comic",
+      "start": 2493.119,
+      "duration": 2.72
+    },
+    {
+      "text": "convention right now.",
+      "start": 2494.8,
+      "duration": 3.92
+    },
+    {
+      "text": ">> That's all I have for you. Mance,",
+      "start": 2495.839,
+      "duration": 4.161
+    },
+    {
+      "text": ">> where are you from?",
+      "start": 2498.72,
+      "duration": 3.84
+    },
+    {
+      "text": ">> Wisconsin.",
+      "start": 2500.0,
+      "duration": 4.16
+    },
+    {
+      "text": ">> Madison, Wisconsin.",
+      "start": 2502.56,
+      "duration": 5.44
+    },
+    {
+      "text": ">> Madison, Wisconsin. Cebu play.",
+      "start": 2504.16,
+      "duration": 5.04
+    },
+    {
+      "text": ">> Interesting.",
+      "start": 2508.0,
+      "duration": 4.079
+    },
+    {
+      "text": ">> Was it? India.",
+      "start": 2509.2,
+      "duration": 4.32
+    },
+    {
+      "text": "Oh, okay.",
+      "start": 2512.079,
+      "duration": 3.201
+    },
+    {
+      "text": ">> And we are out of here.",
+      "start": 2513.52,
+      "duration": 4.48
+    },
+    {
+      "text": ">> Oh, bye.",
+      "start": 2515.28,
+      "duration": 4.48
+    },
+    {
+      "text": "Oh,",
+      "start": 2518.0,
+      "duration": 2.64
+    },
+    {
+      "text": ">> detective.",
+      "start": 2519.76,
+      "duration": 3.839
+    },
+    {
+      "text": ">> I found a third pig.",
+      "start": 2520.64,
+      "duration": 5.12
+    },
+    {
+      "text": ">> If I bring this cheese into the Mr.",
+      "start": 2523.599,
+      "duration": 6.401
+    },
+    {
+      "text": "Cage, will it be Mr. Cottage cheese?",
+      "start": 2525.76,
+      "duration": 6.88
+    },
+    {
+      "text": ">> Let's find out.",
+      "start": 2530.0,
+      "duration": 4.48
+    },
+    {
+      "text": ">> Oh, hello, ma'am. And",
+      "start": 2532.64,
+      "duration": 3.36
+    },
+    {
+      "text": ">> now, if you'll excuse me, I'm going to",
+      "start": 2534.48,
+      "duration": 4.639
+    },
+    {
+      "text": "cough for like 30 seconds. Oh, what the",
+      "start": 2536.0,
+      "duration": 4.96
+    },
+    {
+      "text": "fuck?",
+      "start": 2539.119,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Help dippity dog, Mr. Briggs. I tell",
+      "start": 2540.96,
+      "duration": 4.159
+    },
+    {
+      "text": "you, I never seen nothing like this in",
+      "start": 2543.119,
+      "duration": 5.041
+    },
+    {
+      "text": "all my years in this here dark. Is this",
+      "start": 2545.119,
+      "duration": 5.761
+    },
+    {
+      "text": ">> What is he cinjun? He's He's trying to",
+      "start": 2548.16,
+      "duration": 5.679
+    },
+    {
+      "text": "do a country accent, but he's British.",
+      "start": 2550.88,
+      "duration": 5.959
+    },
+    {
+      "text": ">> Oh,",
+      "start": 2553.839,
+      "duration": 3.0
+    },
+    {
+      "text": ">> Mrs. Hudson's Chef's Hat.",
+      "start": 2557.68,
+      "duration": 6.8
+    },
+    {
+      "text": ">> Oh, no. Is that the pie lady?",
+      "start": 2560.079,
+      "duration": 7.28
+    },
+    {
+      "text": ">> A key.",
+      "start": 2564.48,
+      "duration": 4.32
+    },
+    {
+      "text": "I'm just going to keep taking stuff.",
+      "start": 2567.359,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Is that a clue, detective sir?",
+      "start": 2568.8,
+      "duration": 4.24
+    },
+    {
+      "text": ">> No, it's her money, my friend.",
+      "start": 2571.359,
+      "duration": 3.281
+    },
+    {
+      "text": ">> I now have her money.",
+      "start": 2573.04,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Will be.",
+      "start": 2574.64,
+      "duration": 5.439
+    },
+    {
+      "text": ">> Is that a clue, Mr. Detective Sir?",
+      "start": 2576.72,
+      "duration": 5.359
+    },
+    {
+      "text": ">> Were they saying the pie lady's dead? Is",
+      "start": 2580.079,
+      "duration": 2.721
+    },
+    {
+      "text": "that who that was?",
+      "start": 2582.079,
+      "duration": 1.841
+    },
+    {
+      "text": ">> You know what that accent is?",
+      "start": 2582.8,
+      "duration": 1.76
+    },
+    {
+      "text": ">> What's that?",
+      "start": 2583.92,
+      "duration": 3.28
+    },
+    {
+      "text": ">> It's fucking It's fucking Jacob Anderson",
+      "start": 2584.56,
+      "duration": 4.08
+    },
+    {
+      "text": "doing an American accent.",
+      "start": 2587.2,
+      "duration": 2.08
+    },
+    {
+      "text": ">> Oh, yes.",
+      "start": 2588.64,
+      "duration": 3.6
+    },
+    {
+      "text": ">> I would like one cheeseburger, please.",
+      "start": 2589.28,
+      "duration": 6.72
+    },
+    {
+      "text": ">> Yeah. I would like a cheeseburger.",
+      "start": 2592.24,
+      "duration": 6.64
+    },
+    {
+      "text": "Oh god, what is Jacob up to?",
+      "start": 2596.0,
+      "duration": 4.16
+    },
+    {
+      "text": ">> Love that guy.",
+      "start": 2598.88,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Being a badass as usual.",
+      "start": 2600.16,
+      "duration": 2.0
+    },
+    {
+      "text": ">> Yes.",
+      "start": 2601.76,
+      "duration": 1.28
+    },
+    {
+      "text": ">> Where to now?",
+      "start": 2602.16,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Oh, sorry. I got distracted. Thinking of",
+      "start": 2603.04,
+      "duration": 2.799
+    },
+    {
+      "text": "happier times.",
+      "start": 2605.04,
+      "duration": 1.44
+    },
+    {
+      "text": ">> I know.",
+      "start": 2605.839,
+      "duration": 5.081
+    },
+    {
+      "text": ">> Uh, go to the end of sin.",
+      "start": 2606.48,
+      "duration": 4.44
+    },
+    {
+      "text": ">> Use key one in one of the doors.",
+      "start": 2613.2,
+      "duration": 5.119
+    },
+    {
+      "text": ">> All the keys have letters on them",
+      "start": 2616.8,
+      "duration": 2.96
+    },
+    {
+      "text": "corresponding to the buildings they",
+      "start": 2618.319,
+      "duration": 2.8
+    },
+    {
+      "text": "open.",
+      "start": 2619.76,
+      "duration": 4.4
+    },
+    {
+      "text": ">> Um, well, I have a lot of new items.",
+      "start": 2621.119,
+      "duration": 4.321
+    },
+    {
+      "text": ">> You sure? What the hell is all this",
+      "start": 2624.16,
+      "duration": 1.6
+    },
+    {
+      "text": "shit?",
+      "start": 2625.44,
+      "duration": 1.76
+    },
+    {
+      "text": ">> Well, I mean, you've been robbing every",
+      "start": 2625.76,
+      "duration": 5.72
+    },
+    {
+      "text": "corpse blind that you found.",
+      "start": 2627.2,
+      "duration": 4.28
+    },
+    {
+      "text": "[Music]",
+      "start": 2636.25,
+      "duration": 3.589
+    },
+    {
+      "text": ">> Okay,",
+      "start": 2638.56,
+      "duration": 2.64
+    },
+    {
+      "text": ">> here we are.",
+      "start": 2639.839,
+      "duration": 2.321
+    },
+    {
+      "text": ">> The same place.",
+      "start": 2641.2,
+      "duration": 2.96
+    },
+    {
+      "text": ">> All right, commit pixel hunt on the",
+      "start": 2642.16,
+      "duration": 4.64
+    },
+    {
+      "text": "inkeeper counter. Specifically, it's",
+      "start": 2644.16,
+      "duration": 5.6
+    },
+    {
+      "text": "bottom right corner. There's a spot that",
+      "start": 2646.8,
+      "duration": 4.88
+    },
+    {
+      "text": "allows you to enter a dungeon through a",
+      "start": 2649.76,
+      "duration": 4.079
+    },
+    {
+      "text": "trap door, which is supposedly behind",
+      "start": 2651.68,
+      "duration": 3.52
+    },
+    {
+      "text": "the counter.",
+      "start": 2653.839,
+      "duration": 2.721
+    },
+    {
+      "text": ">> Commit pixel.",
+      "start": 2655.2,
+      "duration": 3.36
+    },
+    {
+      "text": ">> The cursor will point downwards when you",
+      "start": 2656.56,
+      "duration": 4.48
+    },
+    {
+      "text": "aim at the right spot.",
+      "start": 2658.56,
+      "duration": 5.519
+    },
+    {
+      "text": "It looks lower than that, like the front",
+      "start": 2661.04,
+      "duration": 6.319
+    },
+    {
+      "text": "facade of the thing. Oh, nope. Nope.",
+      "start": 2664.079,
+      "duration": 3.841
+    },
+    {
+      "text": ">> That was it.",
+      "start": 2667.359,
+      "duration": 1.681
+    },
+    {
+      "text": ">> Oh, you did it.",
+      "start": 2667.92,
+      "duration": 2.159
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 2669.04,
+      "duration": 3.039
+    },
+    {
+      "text": ">> Jeez.",
+      "start": 2670.079,
+      "duration": 4.801
+    },
+    {
+      "text": "Oh my god. How would we have ever found",
+      "start": 2672.079,
+      "duration": 5.04
+    },
+    {
+      "text": "that?",
+      "start": 2674.88,
+      "duration": 7.32
+    },
+    {
+      "text": "Uh, take that rusty key.",
+      "start": 2677.119,
+      "duration": 5.081
+    },
+    {
+      "text": ">> Okay, you got the key from the wall.",
+      "start": 2683.52,
+      "duration": 3.12
+    },
+    {
+      "text": ">> I'm going to take a second rusty key.",
+      "start": 2685.119,
+      "duration": 4.841
+    },
+    {
+      "text": ">> Okay, good.",
+      "start": 2686.64,
+      "duration": 3.32
+    },
+    {
+      "text": ">> Jingle, jangle, jingle.",
+      "start": 2690.4,
+      "duration": 4.88
+    },
+    {
+      "text": ">> Walk right through a corridor.",
+      "start": 2691.839,
+      "duration": 4.961
+    },
+    {
+      "text": ">> A corridor",
+      "start": 2695.28,
+      "duration": 4.48
+    },
+    {
+      "text": ">> and then a a car. Uh, walk right through",
+      "start": 2696.8,
+      "duration": 5.44
+    },
+    {
+      "text": "a door and then a corridor and to the",
+      "start": 2699.76,
+      "duration": 4.079
+    },
+    {
+      "text": "left.",
+      "start": 2702.24,
+      "duration": 6.04
+    },
+    {
+      "text": "Uh, okay.",
+      "start": 2703.839,
+      "duration": 4.441
+    },
+    {
+      "text": "Oh my god. Freaking out.",
+      "start": 2709.599,
+      "duration": 5.841
+    },
+    {
+      "text": "Freak the fuck out, man. Oh yeah. To the",
+      "start": 2713.2,
+      "duration": 6.24
+    },
+    {
+      "text": "left. To the left. To the left.",
+      "start": 2715.44,
+      "duration": 7.36
+    },
+    {
+      "text": "To the left.",
+      "start": 2719.44,
+      "duration": 4.639
+    },
+    {
+      "text": "Left.",
+      "start": 2722.8,
+      "duration": 5.12
+    },
+    {
+      "text": ">> Oh, sack. You better grab that sack.",
+      "start": 2724.079,
+      "duration": 7.04
+    },
+    {
+      "text": ">> I've been telling you a long time.",
+      "start": 2727.92,
+      "duration": 6.24
+    },
+    {
+      "text": ">> All day long. Pick it up. Then you'll",
+      "start": 2731.119,
+      "duration": 7.2
+    },
+    {
+      "text": "have a great big Oh, do",
+      "start": 2734.16,
+      "duration": 7.52
+    },
+    {
+      "text": ">> take the wooden cat. Oh, look.",
+      "start": 2738.319,
+      "duration": 4.161
+    },
+    {
+      "text": ">> Interesting.",
+      "start": 2741.68,
+      "duration": 2.32
+    },
+    {
+      "text": ">> Of course it is.",
+      "start": 2742.48,
+      "duration": 3.359
+    },
+    {
+      "text": ">> Key five. Key D.",
+      "start": 2744.0,
+      "duration": 2.88
+    },
+    {
+      "text": ">> It's like you're trying to convince",
+      "start": 2745.839,
+      "duration": 1.681
+    },
+    {
+      "text": "yourself.",
+      "start": 2746.88,
+      "duration": 6.08
+    },
+    {
+      "text": ">> Key S. Take them both. I can't.",
+      "start": 2747.52,
+      "duration": 7.44
+    },
+    {
+      "text": "Can't do anything. H.",
+      "start": 2752.96,
+      "duration": 5.2
+    },
+    {
+      "text": ">> What do I do?",
+      "start": 2754.96,
+      "duration": 3.359
+    },
+    {
+      "text": "Or",
+      "start": 2758.16,
+      "duration": 2.32
+    },
+    {
+      "text": ">> do I like replace Oh, I replace them.",
+      "start": 2758.319,
+      "duration": 4.721
+    },
+    {
+      "text": ">> Yes.",
+      "start": 2760.48,
+      "duration": 2.56
+    },
+    {
+      "text": "or not.",
+      "start": 2764.0,
+      "duration": 4.72
+    },
+    {
+      "text": "What it says is Oh,",
+      "start": 2766.4,
+      "duration": 3.28
+    },
+    {
+      "text": ">> excellent.",
+      "start": 2768.72,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Okay. They're specific rusty keys.",
+      "start": 2769.68,
+      "duration": 4.399
+    },
+    {
+      "text": ">> Excellent.",
+      "start": 2772.4,
+      "duration": 4.64
+    },
+    {
+      "text": "Excellent.",
+      "start": 2774.079,
+      "duration": 5.601
+    },
+    {
+      "text": ">> Okay. Uh, also take the clothes from the",
+      "start": 2777.04,
+      "duration": 3.76
+    },
+    {
+      "text": "door.",
+      "start": 2779.68,
+      "duration": 6.04
+    },
+    {
+      "text": ">> Take the clothes from the door.",
+      "start": 2780.8,
+      "duration": 4.92
+    },
+    {
+      "text": ">> Oh, I put that shit in the sack.",
+      "start": 2786.64,
+      "duration": 4.479
+    },
+    {
+      "text": ">> Wooden door.",
+      "start": 2789.599,
+      "duration": 5.72
+    },
+    {
+      "text": "Uh yeah, go through the door.",
+      "start": 2791.119,
+      "duration": 4.2
+    },
+    {
+      "text": ">> Commit pixel hunt on the floor to take",
+      "start": 2797.28,
+      "duration": 3.6
+    },
+    {
+      "text": "the match stick.",
+      "start": 2799.839,
+      "duration": 1.681
+    },
+    {
+      "text": ">> Oh, I see it.",
+      "start": 2800.88,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Oh, there it is. Clear as day.",
+      "start": 2801.52,
+      "duration": 6.28
+    },
+    {
+      "text": "Oh, boy.",
+      "start": 2804.56,
+      "duration": 3.24
+    },
+    {
+      "text": "God, thank God you don't have a shaky",
+      "start": 2809.359,
+      "duration": 4.641
+    },
+    {
+      "text": "hand.",
+      "start": 2812.079,
+      "duration": 2.881
+    },
+    {
+      "text": ">> All right. Um,",
+      "start": 2814.0,
+      "duration": 2.96
+    },
+    {
+      "text": ">> candle and scroll. We're almost done",
+      "start": 2814.96,
+      "duration": 2.96
+    },
+    {
+      "text": "with the chapter.",
+      "start": 2816.96,
+      "duration": 1.76
+    },
+    {
+      "text": ">> Oh.",
+      "start": 2817.92,
+      "duration": 1.76
+    },
+    {
+      "text": ">> Oh, God. No.",
+      "start": 2818.72,
+      "duration": 2.32
+    },
+    {
+      "text": ">> No. But we got it next time.",
+      "start": 2819.68,
+      "duration": 4.56
+    },
+    {
+      "text": ">> Oh my god. Oh my god, this game.",
+      "start": 2821.04,
+      "duration": 6.24
+    },
+    {
+      "text": ">> Yep. Well, I'll be seeing you.",
+      "start": 2824.24,
+      "duration": 4.8
+    },
+    {
+      "text": ">> Yeah, we'll we'll we'll keep plowing",
+      "start": 2827.28,
+      "duration": 5.2
+    },
+    {
+      "text": "through cuz my god, it's just too",
+      "start": 2829.04,
+      "duration": 7.279
+    },
+    {
+      "text": "fascinating not to. But man,",
+      "start": 2832.48,
+      "duration": 6.4
+    },
+    {
+      "text": "even that chef hat in our inventory is",
+      "start": 2836.319,
+      "duration": 4.561
+    },
+    {
+      "text": "apparently a stolen asset.",
+      "start": 2838.88,
+      "duration": 3.12
+    },
+    {
+      "text": ">> Oh my god,",
+      "start": 2840.88,
+      "duration": 2.32
+    },
+    {
+      "text": ">> that's great.",
+      "start": 2842.0,
+      "duration": 4.4
+    },
+    {
+      "text": ">> What the hell? This game's ridiculous.",
+      "start": 2843.2,
+      "duration": 4.399
+    },
+    {
+      "text": ">> It's good times.",
+      "start": 2846.4,
+      "duration": 3.84
+    },
+    {
+      "text": ">> All right, bye everyone. Bye.",
+      "start": 2847.599,
+      "duration": 5.641
+    },
+    {
+      "text": ">> Yes.",
+      "start": 2850.24,
+      "duration": 3.0
+    },
+    {
+      "text": ">> I wish it piss piss.",
+      "start": 2856.88,
+      "duration": 4.84
+    }
+  ]
+}

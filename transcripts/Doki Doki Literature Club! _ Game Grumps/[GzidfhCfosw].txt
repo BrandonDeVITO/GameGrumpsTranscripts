@@ -1,0 +1,573 @@
+{
+  "video_id": "GzidfhCfosw",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Hey I'm Grump",
+      "start": 0.0,
+      "duration": 0.7
+    },
+    {
+      "text": "I'm Not-So-Grump",
+      "start": 0.7,
+      "duration": 1.5
+    },
+    {
+      "text": "And we're the",
+      "start": 2.2,
+      "duration": 1.7
+    },
+    {
+      "text": "Game Grumps",
+      "start": 3.9,
+      "duration": 1.7
+    },
+    {
+      "text": "Sayori: Two scoops of raisins.",
+      "start": 5.6,
+      "duration": 0.86
+    },
+    {
+      "text": "Arin: Hey, welcome, it's back to the poem time. Danny: Yeah, okay, we're back.",
+      "start": 6.46,
+      "duration": 3.9
+    },
+    {
+      "text": "Sayori just let us read her poem and it's beautiful \nDanny: It's so good",
+      "start": 10.5,
+      "duration": 4.2
+    },
+    {
+      "text": "Danny (as Sayori): Looks like I just did Fuck-Face.",
+      "start": 28.4,
+      "duration": 1.56
+    },
+    {
+      "text": "Danny (as Sayori): Sometimes when I feel like I have no friends I do the E.T finger touch with myself.",
+      "start": 34.84,
+      "duration": 4.26
+    },
+    {
+      "text": "It's like I have a friend",
+      "start": 39.62,
+      "duration": 0.82
+    },
+    {
+      "text": "My left arm and my right arm are my friends.",
+      "start": 40.6,
+      "duration": 1.8
+    },
+    {
+      "text": "That's two friends!",
+      "start": 43.64,
+      "duration": 1.18
+    },
+    {
+      "text": "I've got a gang.",
+      "start": 46.2,
+      "duration": 0.54
+    },
+    {
+      "text": "Arin (as Sayori): I never thought about that before.",
+      "start": 47.22,
+      "duration": 1.38
+    },
+    {
+      "text": "Wow! You really cheared me up.",
+      "start": 49.14,
+      "duration": 1.36
+    },
+    {
+      "text": "Danny (as Sayori): I don't need you anymore.",
+      "start": 52.4,
+      "duration": 1.24
+    },
+    {
+      "text": "I've got both my arms.",
+      "start": 54.4,
+      "duration": 1.34
+    },
+    {
+      "text": "Arin: It sounds just like you. It's stupid.",
+      "start": 60.8,
+      "duration": 1.84
+    },
+    {
+      "text": "Arin: Sorry I skipped your line.",
+      "start": 64.46,
+      "duration": 1.82
+    },
+    {
+      "text": "Danny: That's alright.",
+      "start": 66.28,
+      "duration": 2.0
+    },
+    {
+      "text": "Danny as Sayori: Which is weird 'cause I kind of look like I'm stuffing my face all the time in this pose.",
+      "start": 77.52,
+      "duration": 3.58
+    },
+    {
+      "text": "*muttering* Pretzels...Cupcakes.",
+      "start": 82.7,
+      "duration": 2.44
+    },
+    {
+      "text": "*muttering* Reese's Pieces",
+      "start": 87.06,
+      "duration": 1.92
+    },
+    {
+      "text": "What was it you were yelling when we were recording the Starbomb song, like...?",
+      "start": 93.9,
+      "duration": 2.92
+    },
+    {
+      "text": "\"You're always after my Reese's Pieces!\"",
+      "start": 97.04,
+      "duration": 2.48
+    },
+    {
+      "text": "Arin: \"Fuck you Jim! Fuck you! Get out of my store! Get the fuck out of my store Jim!\"",
+      "start": 99.92,
+      "duration": 5.34
+    },
+    {
+      "text": "\"Always stealing my Ree-see's Pee-see's!\"",
+      "start": 105.92,
+      "duration": 2.22
+    },
+    {
+      "text": "Arin: \"Buying up all my starburst!\" Danny: Oh man...",
+      "start": 111.1,
+      "duration": 2.251
+    },
+    {
+      "text": "Arin: \"That's my best-selling product!\"",
+      "start": 113.36,
+      "duration": 1.68
+    },
+    {
+      "text": "Danny: I love that character",
+      "start": 115.66,
+      "duration": 1.54
+    },
+    {
+      "text": "Arin: \"Starburst's the hardest to restock!\"",
+      "start": 117.7,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: \"Gotta call up the company directly!\" Danny: He was yelling that at our producer Jim Roach who was dying.",
+      "start": 120.22,
+      "duration": 6.02
+    },
+    {
+      "text": "Arin: \"Fuck you Jim!\"",
+      "start": 126.24,
+      "duration": 1.16
+    },
+    {
+      "text": "*whirring of machine parts*",
+      "start": 143.22,
+      "duration": 2.56
+    },
+    {
+      "text": "Arin (as Monica): Did you just say a word about Monica? \nArin: Her head's like completely 180",
+      "start": 146.58,
+      "duration": 3.74
+    },
+    {
+      "text": "Danny: It, like, gives the terminator like red grid of, like, her point of view like what she...",
+      "start": 160.26,
+      "duration": 4.62
+    },
+    {
+      "text": "what she should do and like A through C is kill and D is Say hello.",
+      "start": 164.88,
+      "duration": 5.56
+    },
+    {
+      "text": "Arin: Ding! Say hello.",
+      "start": 175.08,
+      "duration": 1.12
+    },
+    {
+      "text": "Arin (as Monica): Hello.",
+      "start": 176.2,
+      "duration": 0.76
+    },
+    {
+      "text": "Danny: Click that button baby.",
+      "start": 179.36,
+      "duration": 1.74
+    },
+    {
+      "text": "Danny (as Sayori): This club sucks.",
+      "start": 189.98,
+      "duration": 1.12
+    },
+    {
+      "text": "Arin: Who should I show my poem to next? \nDanny: Uh, let's go Yuri",
+      "start": 191.59,
+      "duration": 3.38
+    },
+    {
+      "text": "Arin: She's gonna give some dark, hot take on it.",
+      "start": 195.9,
+      "duration": 2.96
+    },
+    {
+      "text": "Danny (as Yuri): Mmm...",
+      "start": 199.5,
+      "duration": 1.26
+    },
+    {
+      "text": "Danny (as Yuri): MMMMM...",
+      "start": 201.36,
+      "duration": 1.2
+    },
+    {
+      "text": "Danny (as Yuri): It's fine. Don't force yourself... FriendArin: *interrupting* It's fine. Don't force yourself.",
+      "start": 215.14,
+      "duration": 3.9
+    },
+    {
+      "text": "Danny: Sorry, I thought she was talking about your shitty poetry skills.",
+      "start": 219.1,
+      "duration": 2.78
+    },
+    {
+      "text": "Arin: I thought so to.",
+      "start": 222.12,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin (as Yuri): It sucks",
+      "start": 226.44,
+      "duration": 1.24
+    },
+    {
+      "text": "Danny (as Yuri): Okay, what's a word for shitty...that's not mean?",
+      "start": 229.24,
+      "duration": 4.76
+    },
+    {
+      "text": "Danny (as Yuri): No! It reminds me of - uh - Clifford's birthday party mixed with - uh - Clifford the firehouse dog.",
+      "start": 248.04,
+      "duration": 5.98
+    },
+    {
+      "text": "I'm so sorry. I'm as embarrassed as Clifford the Big Red Dog was in Clifford's good deeds.",
+      "start": 257.6,
+      "duration": 5.79
+    },
+    {
+      "text": "Danny: Needless to say... Arin: The penultimate copy Danny: I googled a list of all the Clifford the Big Red Dog books",
+      "start": 265.47,
+      "duration": 6.559
+    },
+    {
+      "text": "And I will be referencing them.",
+      "start": 272.18,
+      "duration": 2.16
+    },
+    {
+      "text": "Arin: That does not really look like that...\nDanny: No.",
+      "start": 276.06,
+      "duration": 1.7
+    },
+    {
+      "text": "Danny: My face is down here.",
+      "start": 280.04,
+      "duration": 1.36
+    },
+    {
+      "text": "Arin: Her hair face..it's like *guttural gurgling*",
+      "start": 283.94,
+      "duration": 2.0
+    },
+    {
+      "text": "Danny (as Yuri): Like, when the author tried to write Clifford's big week and couldn't really get a hold on the story or the character.",
+      "start": 303.21,
+      "duration": 7.279
+    },
+    {
+      "text": "Arin (as Yuri): Like here's a list. Number one: It sucks. Number two: It's really bad",
+      "start": 314.25,
+      "duration": 4.97
+    },
+    {
+      "text": "Danny (as Yuri): Like in Clifford takes a trip...",
+      "start": 324.54,
+      "duration": 1.92
+    },
+    {
+      "text": "Danny: Is this a different voice than I started with? I think it is.",
+      "start": 331.84,
+      "duration": 3.02
+    },
+    {
+      "text": "Danny: Cool, that gives me an excuse for the voice thing.",
+      "start": 343.88,
+      "duration": 2.1
+    },
+    {
+      "text": "Danny: I thought that said export",
+      "start": 352.62,
+      "duration": 1.22
+    },
+    {
+      "text": "Arin: Sounds like an export. \nDanny: She'll really increase the GNP of this country.",
+      "start": 354.78,
+      "duration": 4.96
+    },
+    {
+      "text": "Danny (as Yuri): And God knows your simple.",
+      "start": 367.68,
+      "duration": 1.5
+    },
+    {
+      "text": "Arin: Saying here's mine and just like shit smeared on a page. She's just like \"What do you think?\"",
+      "start": 369.9,
+      "duration": 4.98
+    },
+    {
+      "text": "Arin (as Yuri): I've been writing for years.",
+      "start": 378.68,
+      "duration": 2.0
+    },
+    {
+      "text": "Danny: Oh just fucking say you hate it.",
+      "start": 388.86,
+      "duration": 2.38
+    },
+    {
+      "text": "Danny (as Yuri): She's a bitch and you shouldn't date her.",
+      "start": 397.2,
+      "duration": 1.74
+    },
+    {
+      "text": "Danny (as Yuri): I've said to much....well...",
+      "start": 402.32,
+      "duration": 2.0
+    },
+    {
+      "text": "Like Clifford did when he met the small red puppy.",
+      "start": 407.96,
+      "duration": 2.54
+    },
+    {
+      "text": "Maybe he was a small red puppy? \nArin: Its voiced by Kel Mitchell.",
+      "start": 412.08,
+      "duration": 2.96
+    },
+    {
+      "text": "Danny: Oh really?\nArin: I'm not sure it was the Bulldog. It was voiced by Kel Mitchell...",
+      "start": 416.04,
+      "duration": 3.8
+    },
+    {
+      "text": "Danny: Ohh, okay \nArin: ...in the cartoon. \nDanny: Oh, yeah, the one from Clifford's best pals.",
+      "start": 419.84,
+      "duration": 2.98
+    },
+    {
+      "text": "Arin: I was a huge fucking fan of that cartoon, I'll be honest with you.",
+      "start": 422.84,
+      "duration": 3.24
+    },
+    {
+      "text": "Danny: Cal's awesome. \nArin: Clifford was voiced by John Ritter",
+      "start": 426.99,
+      "duration": 2.9
+    },
+    {
+      "text": "Danny: Really?\nArin: Yeah, it's like a perfect voice for him.",
+      "start": 430.65,
+      "duration": 2.75
+    },
+    {
+      "text": "Danny: Love him.",
+      "start": 434.72,
+      "duration": 1.02
+    },
+    {
+      "text": "Arin: Anyway...",
+      "start": 436.04,
+      "duration": 0.88
+    },
+    {
+      "text": "Danny: Always the sign that we're having a killer playthrough when you're like:",
+      "start": 441.26,
+      "duration": 2.86
+    },
+    {
+      "text": "\"Anyway...\"",
+      "start": 444.36,
+      "duration": 2.06
+    },
+    {
+      "text": "Danny: It's just her boobs mashed into a some silly putty.",
+      "start": 454.02,
+      "duration": 2.88
+    },
+    {
+      "text": "Wow, uh...",
+      "start": 457.04,
+      "duration": 2.0
+    },
+    {
+      "text": "Danny (as Yuri): Ghost under the light. The tendrils of my hair illuminate beneath the amber glow",
+      "start": 468.06,
+      "duration": 5.28
+    },
+    {
+      "text": "Bathing. It must be this one. The last remaining streetlight to have withstood the test of time",
+      "start": 473.66,
+      "duration": 5.84
+    },
+    {
+      "text": "The last yet to be replaced by the sickening blue green hue of the future. I bathe.",
+      "start": 479.82,
+      "duration": 5.5
+    },
+    {
+      "text": "Calm. Breathing air of the present",
+      "start": 485.6,
+      "duration": 2.52
+    },
+    {
+      "text": "but living in the past. A big red dog - am I? The light flickers. I flicker back.",
+      "start": 488.12,
+      "duration": 7.34
+    },
+    {
+      "text": "Danny (as Yuri): My neck... My back... My flicker and my crack.",
+      "start": 496.54,
+      "duration": 4.36
+    },
+    {
+      "text": "Danny: It's like perfect calligraphy.",
+      "start": 503.54,
+      "duration": 1.98
+    },
+    {
+      "text": "FriendArin: That's because it was stupid!",
+      "start": 511.08,
+      "duration": 1.96
+    },
+    {
+      "text": "FriendArin: *huffs* I mean Actually..",
+      "start": 517.62,
+      "duration": 2.0
+    },
+    {
+      "text": "Friend Arin: Yeah, But I thought the writing was bad. Also. I liked the poem.",
+      "start": 523.06,
+      "duration": 4.04
+    },
+    {
+      "text": "Danny (as Yuri): Did you ever read The Iliad?",
+      "start": 535.18,
+      "duration": 1.42
+    },
+    {
+      "text": "I wrote that. That was me.",
+      "start": 537.58,
+      "duration": 1.72
+    },
+    {
+      "text": "Danny (as Yuri): Usually, there's...hhhhhardcore fucking .",
+      "start": 545.68,
+      "duration": 2.76
+    },
+    {
+      "text": "Danny: *interrupting* What, you just said he took a long time reading it.",
+      "start": 566.8,
+      "duration": 2.26
+    },
+    {
+      "text": "Arin (as Yuri): ...like ghosts that I've seen\nDanny: Yeah",
+      "start": 574.46,
+      "duration": 1.84
+    },
+    {
+      "text": "Danny (as Yuri): Like Clifford the Big Red Ghost.",
+      "start": 580.88,
+      "duration": 2.24
+    },
+    {
+      "text": "FriendArin: Alright, well. I'm - I'm gunna get out of here.",
+      "start": 594.54,
+      "duration": 2.08
+    },
+    {
+      "text": "Danny: Ah jeez, that's the bell.",
+      "start": 596.8,
+      "duration": 1.64
+    },
+    {
+      "text": "Danny: *fakes school bell ring*",
+      "start": 599.94,
+      "duration": 1.32
+    },
+    {
+      "text": "You do it with your mouth.",
+      "start": 601.26,
+      "duration": 1.52
+    },
+    {
+      "text": "FriendArin: Ah! Did you hear that?! Oh!",
+      "start": 602.78,
+      "duration": 1.98
+    },
+    {
+      "text": "FriendArin: You're right.",
+      "start": 610.1,
+      "duration": 1.7
+    },
+    {
+      "text": "FriendArin: I don't.",
+      "start": 613.9,
+      "duration": 1.14
+    },
+    {
+      "text": "FriendArin: I won't.",
+      "start": 618.12,
+      "duration": 1.28
+    },
+    {
+      "text": "FriendArin: Wha - There's numbers on me?! \nDanny: Uh - shit!",
+      "start": 624.62,
+      "duration": 2.76
+    },
+    {
+      "text": "Arin: Uh, alright, I guess we'll read Natsuki and Monica's next time on Game Grumps.",
+      "start": 627.82,
+      "duration": 3.82
+    },
+    {
+      "text": "Danny: Oh my god.",
+      "start": 631.64,
+      "duration": 1.4
+    },
+    {
+      "text": "Danny: I love it.\nArin: Just stick it out, man. \nDanny: I think I love it.\nArin: Stick it out.",
+      "start": 633.54,
+      "duration": 3.84
+    },
+    {
+      "text": "Danny: *exhales* ohh baby.",
+      "start": 637.6,
+      "duration": 2.0
+    },
+    {
+      "text": "Danny & Arin: *laughs*",
+      "start": 640.24,
+      "duration": 3.5
+    }
+  ]
+}

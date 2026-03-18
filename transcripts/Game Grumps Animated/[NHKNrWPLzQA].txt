@@ -1,0 +1,53 @@
+{
+  "video_id": "NHKNrWPLzQA",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippets": [
+    {
+      "text": "do believe it blue week oh whoa oh boy",
+      "start": 0.03,
+      "duration": 28.079
+    },
+    {
+      "text": "can't lose I'm the video game boy",
+      "start": 23.55,
+      "duration": 21.75
+    },
+    {
+      "text": "I'm the one who is the ultimate kid",
+      "start": 28.109,
+      "duration": 22.621
+    },
+    {
+      "text": "thickness it's my house it's my Nintendo",
+      "start": 45.3,
+      "duration": 11.779
+    },
+    {
+      "text": "I'm the one who wins I bought the game",
+      "start": 50.73,
+      "duration": 10.29
+    },
+    {
+      "text": "oh I don't even know where I went or",
+      "start": 57.079,
+      "duration": 6.75
+    },
+    {
+      "text": "what happened",
+      "start": 61.02,
+      "duration": 2.809
+    },
+    {
+      "text": "okay with power",
+      "start": 70.86,
+      "duration": 5.73
+    },
+    {
+      "text": "one blow",
+      "start": 73.32,
+      "duration": 3.27
+    }
+  ]
+}

@@ -1,0 +1,2128 @@
+{
+  "video_id": "2L7eSPPKgMg",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "DAN: In the corner, where it says C and Z, it looks like it says \"look\" and \"look on\".",
+      "start": 0.03,
+      "duration": 5.669
+    },
+    {
+      "text": "DAN: Like, oh, there's a button for continuing to look.",
+      "start": 7.149,
+      "duration": 2.6
+    },
+    {
+      "text": "ARIN: [laughs]",
+      "start": 9.749,
+      "duration": 1.18
+    },
+    {
+      "text": "DAN: Interesting.",
+      "start": 10.929,
+      "duration": 0.791
+    },
+    {
+      "text": "DAN: You might want to put that in, Matt and Ryan.",
+      "start": 11.72,
+      "duration": 2.0
+    },
+    {
+      "text": "DAN: 'Cause it was very clever.",
+      "start": 14.3,
+      "duration": 1.08
+    },
+    {
+      "text": "ARIN: Hey, I'm Grump!",
+      "start": 15.38,
+      "duration": 0.84
+    },
+    {
+      "text": "DAN: I'm not so Grump!",
+      "start": 16.22,
+      "duration": 1.48
+    },
+    {
+      "text": "BOTH: And we're the Game Grumps!",
+      "start": 17.7,
+      "duration": 2.4
+    },
+    {
+      "text": "DAN: Hello!",
+      "start": 20.72,
+      "duration": 0.94
+    },
+    {
+      "text": "ARIN: Hi!",
+      "start": 21.66,
+      "duration": 0.58
+    },
+    {
+      "text": "DAN: I'm Rod Nutbottom and that's Aaron Hanson.",
+      "start": 22.94,
+      "duration": 3.26
+    },
+    {
+      "text": "BOTH: [giggle]",
+      "start": 26.2,
+      "duration": 1.36
+    },
+    {
+      "text": "ARIN: I like this bit.",
+      "start": 27.56,
+      "duration": 0.96
+    },
+    {
+      "text": "DAN: Oh, yeah, I like it too, actually. It's fun.",
+      "start": 28.52,
+      "duration": 1.78
+    },
+    {
+      "text": "DAN: Oh, whoa! What a cool...!",
+      "start": 31.06,
+      "duration": 1.98
+    },
+    {
+      "text": "DAN: That's awesome!",
+      "start": 33.04,
+      "duration": 1.26
+    },
+    {
+      "text": "ARIN: It's a little fly bee.",
+      "start": 34.3,
+      "duration": 1.38
+    },
+    {
+      "text": "DAN: Oh, I lo-- That's-- Come on, that's fucking cool.",
+      "start": 36.44,
+      "duration": 3.18
+    },
+    {
+      "text": "ARIN: You-- You like flying the bee?",
+      "start": 40.64,
+      "duration": 1.24
+    },
+    {
+      "text": "DAN: Admit that's-- Admit that's cool.",
+      "start": 41.88,
+      "duration": 2.0
+    },
+    {
+      "text": "DAN: Right?",
+      "start": 45.22,
+      "duration": 0.56
+    },
+    {
+      "text": "ARIN: To-- To fly the bee?",
+      "start": 45.78,
+      "duration": 1.68
+    },
+    {
+      "text": "DAN: To, like, have your little own, like, drone thing that can go around and do stuff.",
+      "start": 47.46,
+      "duration": 4.56
+    },
+    {
+      "text": "DAN: I think that's cool.",
+      "start": 52.5,
+      "duration": 1.38
+    },
+    {
+      "text": "ARIN: [sighs]",
+      "start": 55.04,
+      "duration": 1.24
+    },
+    {
+      "text": "DAN: Wow, you are a hard fellow to please!",
+      "start": 56.42,
+      "duration": 2.48
+    },
+    {
+      "text": "DAN: That... in Zelda I, I would have loved-- God damn it, my droopy fucking microphone.",
+      "start": 59.68,
+      "duration": 5.54
+    },
+    {
+      "text": "DAN: Every time I look over this thing is, like, 90 degrees pointed downwards and, like, why?",
+      "start": 65.7,
+      "duration": 5.58
+    },
+    {
+      "text": "ARIN: That's the motion control beetle.",
+      "start": 72.54,
+      "duration": 2.0
+    },
+    {
+      "text": "DAN: Ooh!",
+      "start": 75.5,
+      "duration": 0.5
+    },
+    {
+      "text": "ARIN: Oh, it crashed.",
+      "start": 76.0,
+      "duration": 0.96
+    },
+    {
+      "text": "DAN: Yeah.",
+      "start": 76.96,
+      "duration": 0.7
+    },
+    {
+      "text": "DAN: Shit.",
+      "start": 78.18,
+      "duration": 0.56
+    },
+    {
+      "text": "ARIN: You like the-- You like the bee, huh?",
+      "start": 78.74,
+      "duration": 1.36
+    },
+    {
+      "text": "DAN: I think it's very cool.",
+      "start": 80.1,
+      "duration": 1.24
+    },
+    {
+      "text": "DAN: What happens when it hits an enemy?",
+      "start": 81.78,
+      "duration": 1.68
+    },
+    {
+      "text": "ARIN: Uh, it explodes.",
+      "start": 83.84,
+      "duration": 1.66
+    },
+    {
+      "text": "DAN: Like, it dies forever?",
+      "start": 86.5,
+      "duration": 1.36
+    },
+    {
+      "text": "ARIN: I believe it explodes.",
+      "start": 87.86,
+      "duration": 2.0
+    },
+    {
+      "text": "DAN: Oh dear.",
+      "start": 89.86,
+      "duration": 1.0
+    },
+    {
+      "text": "ARIN: So I need to...",
+      "start": 91.62,
+      "duration": 1.14
+    },
+    {
+      "text": "DAN: Whoops!",
+      "start": 92.76,
+      "duration": 0.78
+    },
+    {
+      "text": "DAN: Be very careful.",
+      "start": 94.42,
+      "duration": 1.28
+    },
+    {
+      "text": "ARIN: ...hit the thing.",
+      "start": 96.22,
+      "duration": 1.14
+    },
+    {
+      "text": "ARIN: It opens the thing.",
+      "start": 97.36,
+      "duration": 1.58
+    },
+    {
+      "text": "DAN: It said--",
+      "start": 98.94,
+      "duration": 0.5
+    },
+    {
+      "text": "ARIN: Thing opened!",
+      "start": 99.44,
+      "duration": 0.9
+    },
+    {
+      "text": "DAN: It said it can sever threads, right?",
+      "start": 100.34,
+      "duration": 1.64
+    },
+    {
+      "text": "ARIN: Yeah, it sure can.",
+      "start": 102.02,
+      "duration": 0.88
+    },
+    {
+      "text": "DAN: Does that mean if you shoot it over a Skullchula-- uh, a Skulltula, it will, uh, it'll, like, clip it down?",
+      "start": 102.9,
+      "duration": 6.84
+    },
+    {
+      "text": "ARIN: I believe so, yes.",
+      "start": 109.74,
+      "duration": 0.98
+    },
+    {
+      "text": "DAN: Cool!",
+      "start": 110.72,
+      "duration": 0.54
+    },
+    {
+      "text": "ARIN: So if I, like, shoot this, it'll-- it'll clip that.",
+      "start": 111.26,
+      "duration": 3.3
+    },
+    {
+      "text": "DAN: Oh, this is neat.",
+      "start": 114.58,
+      "duration": 1.46
+    },
+    {
+      "text": "ARIN: Well, I'm glad you like it.\nDAN: Clip!",
+      "start": 116.04,
+      "duration": 1.26
+    },
+    {
+      "text": "DAN: Yeah, bro, and now you're getting fucking mad dollars!",
+      "start": 118.32,
+      "duration": 4.0
+    },
+    {
+      "text": "ARIN: Holla holla!",
+      "start": 123.48,
+      "duration": 1.0
+    },
+    {
+      "text": "DAN: You getting fucking cheese.",
+      "start": 124.48,
+      "duration": 1.88
+    },
+    {
+      "text": "DAN: That cheddar.",
+      "start": 126.62,
+      "duration": 1.36
+    },
+    {
+      "text": "DAN: [coughs] Excuse me.",
+      "start": 129.04,
+      "duration": 1.16
+    },
+    {
+      "text": "DAN: Wonder-- I wonder where the term \"cheddar\" came from referring to money.",
+      "start": 131.16,
+      "duration": 3.08
+    },
+    {
+      "text": "ARIN: Shit, what?",
+      "start": 134.7,
+      "duration": 0.98
+    },
+    {
+      "text": "DAN: Yeah, it's a-- it's a rap term.",
+      "start": 136.2,
+      "duration": 1.62
+    },
+    {
+      "text": "ARIN: Really?",
+      "start": 138.6,
+      "duration": 0.5
+    },
+    {
+      "text": "DAN: Gotta get that cheddar.",
+      "start": 139.1,
+      "duration": 1.02
+    },
+    {
+      "text": "ARIN: Oh, okay.",
+      "start": 140.9,
+      "duration": 1.02
+    },
+    {
+      "text": "ARIN: I've never heard that before.",
+      "start": 141.92,
+      "duration": 1.24
+    },
+    {
+      "text": "DAN: It's-- It's been around a long time.",
+      "start": 143.44,
+      "duration": 2.04
+    },
+    {
+      "text": "DAN: Um.",
+      "start": 146.44,
+      "duration": 0.66
+    },
+    {
+      "text": "ARIN: Since the Stone Age?",
+      "start": 147.54,
+      "duration": 1.62
+    },
+    {
+      "text": "DAN: Yeah. Yeah.",
+      "start": 149.16,
+      "duration": 0.88
+    },
+    {
+      "text": "ARIN: Since the Queens of the Stone Age?",
+      "start": 150.04,
+      "duration": 1.8
+    },
+    {
+      "text": "DAN: At least since the Cheese Age, which I believe was 1988 to 1992.",
+      "start": 151.84,
+      "duration": 4.16
+    },
+    {
+      "text": "ARIN: Oh yeah, it was very cheesy, that time.\nDAN: Whoops!",
+      "start": 156.18,
+      "duration": 1.94
+    },
+    {
+      "text": "DAN: Yeah, I completely agree.",
+      "start": 158.12,
+      "duration": 1.22
+    },
+    {
+      "text": "DAN: Until Nirvana came along.",
+      "start": 159.34,
+      "duration": 1.28
+    },
+    {
+      "text": "ARIN: Oh, hello.",
+      "start": 160.64,
+      "duration": 0.8
+    },
+    {
+      "text": "DAN: It made shit real.",
+      "start": 161.44,
+      "duration": 1.22
+    },
+    {
+      "text": "DAN: Oh dicks!",
+      "start": 162.88,
+      "duration": 1.24
+    },
+    {
+      "text": "ARIN: Oh, don't eat me!\nDAN: Oh.",
+      "start": 164.12,
+      "duration": 0.98
+    },
+    {
+      "text": "DAN: Okay.\nARIN: Dude, come on.",
+      "start": 165.1,
+      "duration": 0.58
+    },
+    {
+      "text": "DAN: Boy, that's unsettling, actually.",
+      "start": 165.68,
+      "duration": 1.42
+    },
+    {
+      "text": "DAN: I don't like that.",
+      "start": 167.1,
+      "duration": 0.72
+    },
+    {
+      "text": "ARIN: Oh, I gotta do this move.",
+      "start": 167.82,
+      "duration": 1.06
+    },
+    {
+      "text": "DAN: Nice.",
+      "start": 169.16,
+      "duration": 0.84
+    },
+    {
+      "text": "DAN: How's that fucking taste?",
+      "start": 170.0,
+      "duration": 1.48
+    },
+    {
+      "text": "DAN: You scandalous eight-legged... whore.",
+      "start": 172.24,
+      "duration": 2.6
+    },
+    {
+      "text": "ARIN: [high-pitched voice] It tastes really bad!",
+      "start": 175.08,
+      "duration": 1.12
+    },
+    {
+      "text": "ARIN: [high-pitched voice] Aaaahhh!",
+      "start": 176.88,
+      "duration": 0.92
+    },
+    {
+      "text": "DAN: How can octopu-- octopuses...",
+      "start": 178.1,
+      "duration": 2.26
+    },
+    {
+      "text": "ARIN: Octopussy?",
+      "start": 181.2,
+      "duration": 0.62
+    },
+    {
+      "text": "DAN: Ah, yeah.",
+      "start": 181.84,
+      "duration": 0.9
+    },
+    {
+      "text": "DAN: How can octo--?",
+      "start": 182.74,
+      "duration": 0.86
+    },
+    {
+      "text": "DAN: I've been told it's octopi, but I think it actually is octopuses.",
+      "start": 183.6,
+      "duration": 3.4
+    },
+    {
+      "text": "DAN: How can octopuses have eight legs and be so cute, and spiders have eight legs and be such disgusting monstrosities?",
+      "start": 187.0,
+      "duration": 5.32
+    },
+    {
+      "text": "ARIN: That's--",
+      "start": 193.28,
+      "duration": 0.5
+    },
+    {
+      "text": "DAN: Not that I would kill a spider.",
+      "start": 193.96,
+      "duration": 1.14
+    },
+    {
+      "text": "DAN: Just... I do think they're gross.",
+      "start": 195.12,
+      "duration": 1.72
+    },
+    {
+      "text": "ARIN: How do I get the top one to look at me?",
+      "start": 198.52,
+      "duration": 1.56
+    },
+    {
+      "text": "DAN: Uuh.",
+      "start": 201.34,
+      "duration": 0.5
+    },
+    {
+      "text": "ARIN: I have to be, like, up higher.",
+      "start": 201.84,
+      "duration": 1.08
+    },
+    {
+      "text": "ARIN: I might have to be up higher.",
+      "start": 202.92,
+      "duration": 1.06
+    },
+    {
+      "text": "DAN: Oh, that's smart",
+      "start": 203.98,
+      "duration": 1.98
+    },
+    {
+      "text": "ARIN: [hums] Oh, yeah, there's a little platform.",
+      "start": 207.48,
+      "duration": 1.66
+    },
+    {
+      "text": "DAN: Notice me, senpai! Notice me!",
+      "start": 209.14,
+      "duration": 3.06
+    },
+    {
+      "text": "ARIN: [laughs]",
+      "start": 212.2,
+      "duration": 0.84
+    },
+    {
+      "text": "ARIN: Got it...?",
+      "start": 214.64,
+      "duration": 0.66
+    },
+    {
+      "text": "DAN: Mmm.",
+      "start": 215.3,
+      "duration": 0.82
+    },
+    {
+      "text": "ARIN: No?",
+      "start": 216.6,
+      "duration": 0.7
+    },
+    {
+      "text": "ARIN: No?",
+      "start": 218.22,
+      "duration": 0.88
+    },
+    {
+      "text": "DAN: What if you send the beetle up?",
+      "start": 219.1,
+      "duration": 2.34
+    },
+    {
+      "text": "ARIN: I can send the beetle to do this.",
+      "start": 222.68,
+      "duration": 1.16
+    },
+    {
+      "text": "DAN: Hmm.",
+      "start": 223.84,
+      "duration": 0.86
+    },
+    {
+      "text": "DAN:Ooh!\nARIN: [imitating the Zelda chest music] Shigga-digga-digga-digga!",
+      "start": 227.36,
+      "duration": 1.76
+    },
+    {
+      "text": "ARIN: And then I can push it.",
+      "start": 229.12,
+      "duration": 1.0
+    },
+    {
+      "text": "DAN: Yeah, that's what it is.",
+      "start": 230.12,
+      "duration": 1.54
+    },
+    {
+      "text": "ARIN: Let go!",
+      "start": 232.02,
+      "duration": 0.62
+    },
+    {
+      "text": "DAN: Oh crap!",
+      "start": 232.9,
+      "duration": 0.8
+    },
+    {
+      "text": "ARIN: Fucking beetle.",
+      "start": 234.36,
+      "duration": 0.8
+    },
+    {
+      "text": "ARIN: Stop, beetle!",
+      "start": 235.16,
+      "duration": 0.76
+    },
+    {
+      "text": "ARIN: Damn.",
+      "start": 236.76,
+      "duration": 0.66
+    },
+    {
+      "text": "DAN: [funny voice] Let me help you!",
+      "start": 237.42,
+      "duration": 1.02
+    },
+    {
+      "text": "ARIN: [funny voice] Let me help you, peace and love.",
+      "start": 239.16,
+      "duration": 2.06
+    },
+    {
+      "text": "DAN: I'm warning you with help and friendship.",
+      "start": 242.76,
+      "duration": 2.22
+    },
+    {
+      "text": "ARIN: He's a good beetle, alright?",
+      "start": 246.3,
+      "duration": 1.2
+    },
+    {
+      "text": "DAN: He is a good beetle.",
+      "start": 247.5,
+      "duration": 1.02
+    },
+    {
+      "text": "ARIN: He's, uh--",
+      "start": 248.52,
+      "duration": 0.62
+    },
+    {
+      "text": "DAN: Is it alive or is it just a metal thing?",
+      "start": 249.14,
+      "duration": 2.1
+    },
+    {
+      "text": "ARIN: I don't know.",
+      "start": 251.24,
+      "duration": 0.82
+    },
+    {
+      "text": "ARIN: He's alive with [stutters] magic.",
+      "start": 252.06,
+      "duration": 2.12
+    },
+    {
+      "text": "DAN: He's alive with the... sound of music.",
+      "start": 255.14,
+      "duration": 1.7
+    },
+    {
+      "text": "ARIN: I was, ha, I was thinking of saying that but... I didn't.",
+      "start": 258.26,
+      "duration": 3.9
+    },
+    {
+      "text": "DAN: Well, you know what? It's cool.",
+      "start": 262.4,
+      "duration": 2.34
+    },
+    {
+      "text": "ARIN: Hey, check-- check it out.",
+      "start": 264.74,
+      "duration": 1.12
+    },
+    {
+      "text": "ARIN: I've got stamina for pushing, which means if I push too much, I'll have to stop pushing for a sec before I can push again.",
+      "start": 265.86,
+      "duration": 7.22
+    },
+    {
+      "text": "DAN: Well, that's good.",
+      "start": 273.72,
+      "duration": 1.28
+    },
+    {
+      "text": "DAN: That's just like contractions when delivering a baby.",
+      "start": 275.0,
+      "duration": 2.8
+    },
+    {
+      "text": "DAN: Oh!",
+      "start": 277.8,
+      "duration": 0.5
+    },
+    {
+      "text": "ARIN: Uh...",
+      "start": 279.1,
+      "duration": 0.5
+    },
+    {
+      "text": "DAN: Hop up on there.",
+      "start": 279.6,
+      "duration": 0.74
+    },
+    {
+      "text": "ARIN: We have to run at it.",
+      "start": 280.74,
+      "duration": 1.02
+    },
+    {
+      "text": "ARIN: Oh, there we go.",
+      "start": 281.76,
+      "duration": 0.76
+    },
+    {
+      "text": "DAN: Oh yeah, dude!",
+      "start": 282.52,
+      "duration": 1.34
+    },
+    {
+      "text": "ARIN: Hello?",
+      "start": 283.86,
+      "duration": 1.0
+    },
+    {
+      "text": "DAN: Everyone watch the fucking sword.",
+      "start": 284.96,
+      "duration": 2.84
+    },
+    {
+      "text": "ARIN: [makes a funny warbling noise and blows a raspberry]",
+      "start": 288.54,
+      "duration": 1.72
+    },
+    {
+      "text": "ARIN: Ooh, sorry, eyes.",
+      "start": 291.74,
+      "duration": 1.36
+    },
+    {
+      "text": "DAN: Crash bang.",
+      "start": 293.14,
+      "duration": 1.14
+    },
+    {
+      "text": "ARIN: Crash Bandicoot?",
+      "start": 295.04,
+      "duration": 1.34
+    },
+    {
+      "text": "DAN: Never played that game.",
+      "start": 296.88,
+      "duration": 1.02
+    },
+    {
+      "text": "ARIN: Me neither.",
+      "start": 297.9,
+      "duration": 0.58
+    },
+    {
+      "text": "DAN: Really?",
+      "start": 298.48,
+      "duration": 0.82
+    },
+    {
+      "text": "ARIN:  I have played the first one.",
+      "start": 299.34,
+      "duration": 1.7
+    },
+    {
+      "text": "DAN: Well, that is playing the game.",
+      "start": 301.04,
+      "duration": 1.74
+    },
+    {
+      "text": "ARIN: [mumbling] I guess you're right.\nDAN: [laughs]",
+      "start": 304.44,
+      "duration": 2.0
+    },
+    {
+      "text": "DAN: \"I've never played Tetris.\"",
+      "start": 307.28,
+      "duration": 1.54
+    },
+    {
+      "text": "DAN: \"Really? Never?\"",
+      "start": 308.82,
+      "duration": 0.9
+    },
+    {
+      "text": "DAN: \"Well, I-- I played Tetris.\"",
+      "start": 309.72,
+      "duration": 1.46
+    },
+    {
+      "text": "ARIN: [laughs]",
+      "start": 311.22,
+      "duration": 0.78
+    },
+    {
+      "text": "DAN: \"Oh.\"",
+      "start": 312.0,
+      "duration": 0.7
+    },
+    {
+      "text": "ARIN: I played, uh, I played Crash Bandicoot in, like, a Comp USA.",
+      "start": 313.02,
+      "duration": 5.12
+    },
+    {
+      "text": "DAN: Oh my God, Comp USA!",
+      "start": 318.14,
+      "duration": 2.14
+    },
+    {
+      "text": "ARIN: Yeah.",
+      "start": 320.3,
+      "duration": 0.5
+    },
+    {
+      "text": "DAN: I remember that place well.",
+      "start": 320.8,
+      "duration": 1.04
+    },
+    {
+      "text": "DAN: That's where I purchased Eric the Unready.",
+      "start": 321.84,
+      "duration": 1.8
+    },
+    {
+      "text": "ARIN: What is Eric the Unready?",
+      "start": 324.4,
+      "duration": 1.02
+    },
+    {
+      "text": "DAN: It's just, like, a PC game.",
+      "start": 325.42,
+      "duration": 1.32
+    },
+    {
+      "text": "DAN: But, like, I thought it was kind of a Sierra type of game so it would have all kinds of fun adventures.",
+      "start": 326.74,
+      "duration": 5.48
+    },
+    {
+      "text": "DAN: But it's kind of mostly text-based if I recall correctly.\nARIN: Oh.",
+      "start": 332.26,
+      "duration": 4.18
+    },
+    {
+      "text": "DAN: So it wasn't what I was looking for.",
+      "start": 336.44,
+      "duration": 2.42
+    },
+    {
+      "text": "DAN: But maybe it-- maybe it's fun now.",
+      "start": 338.86,
+      "duration": 1.52
+    },
+    {
+      "text": "DAN: Oh you really threaded the needle there.",
+      "start": 341.34,
+      "duration": 1.66
+    },
+    {
+      "text": "ARIN: Am I supposed to be breaking that or...?",
+      "start": 344.44,
+      "duration": 1.38
+    },
+    {
+      "text": "DAN: Why not?",
+      "start": 346.4,
+      "duration": 0.56
+    },
+    {
+      "text": "ARIN: It was, like, uh, a spider web up there.",
+      "start": 346.96,
+      "duration": 2.4
+    },
+    {
+      "text": "DAN: Sorry, I'm not home right now.",
+      "start": 350.78,
+      "duration": 1.96
+    },
+    {
+      "text": "DAN: I'm walking into spider webs.",
+      "start": 353.3,
+      "duration": 1.62
+    },
+    {
+      "text": "DAN: So leave a message and I'll call you back.",
+      "start": 355.32,
+      "duration": 2.06
+    },
+    {
+      "text": "DAN: Great lyrics, Gwen.",
+      "start": 357.38,
+      "duration": 1.16
+    },
+    {
+      "text": "ARIN: I thought that was kind of funny.",
+      "start": 360.66,
+      "duration": 1.3
+    },
+    {
+      "text": "DAN: [singing] A likely story!",
+      "start": 361.96,
+      "duration": 3.04
+    },
+    {
+      "text": "ARIN: [stutters] You don't think that's funny?",
+      "start": 365.74,
+      "duration": 1.72
+    },
+    {
+      "text": "DAN: \"Sorry, I'm not home right now, I'm walking into spider webs\"?",
+      "start": 367.46,
+      "duration": 2.18
+    },
+    {
+      "text": "ARIN: Yeah.",
+      "start": 369.64,
+      "duration": 0.68
+    },
+    {
+      "text": "DAN: I don't know what it means.",
+      "start": 370.32,
+      "duration": 0.84
+    },
+    {
+      "text": "ARIN: She's walking into spider webs.",
+      "start": 371.16,
+      "duration": 1.74
+    },
+    {
+      "text": "ARIN: It's funny. It's clumsy.",
+      "start": 372.9,
+      "duration": 1.12
+    },
+    {
+      "text": "DAN: Is she, like...? Oh.",
+      "start": 374.02,
+      "duration": 1.06
+    },
+    {
+      "text": "DAN: But is she making a joke? Like...",
+      "start": 375.08,
+      "duration": 2.46
+    },
+    {
+      "text": "ARIN: Yeah. Yeah, right?",
+      "start": 377.54,
+      "duration": 1.66
+    },
+    {
+      "text": "ARIN:  I always thought that.",
+      "start": 379.2,
+      "duration": 0.76
+    },
+    {
+      "text": "DAN: Uh, maybe.",
+      "start": 379.96,
+      "duration": 1.12
+    },
+    {
+      "text": "ARIN: It's funny.",
+      "start": 381.98,
+      "duration": 1.12
+    },
+    {
+      "text": "DAN: Perhaps you're right.",
+      "start": 383.1,
+      "duration": 1.04
+    },
+    {
+      "text": "DAN: Perhaps I've been misjudging--",
+      "start": 384.14,
+      "duration": 3.06
+    },
+    {
+      "text": "ARIN: Oops.",
+      "start": 387.6,
+      "duration": 0.74
+    },
+    {
+      "text": "DAN: Dang.",
+      "start": 388.34,
+      "duration": 0.88
+    },
+    {
+      "text": "ARIN: That's cool.",
+      "start": 389.22,
+      "duration": 0.98
+    },
+    {
+      "text": "DAN: --Gwen Stefani this whole time.",
+      "start": 390.2,
+      "duration": 1.44
+    },
+    {
+      "text": "ARIN: I mean, fucking, she's kind of a lyrical genius sometimes.",
+      "start": 392.28,
+      "duration": 3.68
+    },
+    {
+      "text": "DAN: I-- I mean, I like her.",
+      "start": 396.66,
+      "duration": 1.48
+    },
+    {
+      "text": "DAN: I definitely like her.",
+      "start": 398.14,
+      "duration": 1.12
+    },
+    {
+      "text": "ARIN: Oh, for fuck's sake.",
+      "start": 399.26,
+      "duration": 1.72
+    },
+    {
+      "text": "DAN: I thought she was so cute in her Just A Girl days.",
+      "start": 400.98,
+      "duration": 2.16
+    },
+    {
+      "text": "ARIN: [imitating Gwen Stefani] Oh, I'm just a girl!",
+      "start": 403.9,
+      "duration": 2.54
+    },
+    {
+      "text": "DAN: [imitating Gwen Stefani] I'm some kind of freak!",
+      "start": 406.68,
+      "duration": 1.66
+    },
+    {
+      "text": "DAN: That's one song that, like, I definitely got shit for for singing along to in high school.",
+      "start": 408.54,
+      "duration": 4.64
+    },
+    {
+      "text": "ARIN: What?!",
+      "start": 413.18,
+      "duration": 0.84
+    },
+    {
+      "text": "DAN: Yeah.",
+      "start": 414.34,
+      "duration": 0.64
+    },
+    {
+      "text": "DAN: Well, I'd be driving my-- my fucking sweet 1994 Volvo into the... not to brag, but into the high school parking lot and, uh...",
+      "start": 414.98,
+      "duration": 10.78
+    },
+    {
+      "text": "ARIN: You got shit for liking Gwen Stefani?!",
+      "start": 425.76,
+      "duration": 2.06
+    },
+    {
+      "text": "DAN: Well, No Doubt.",
+      "start": 427.82,
+      "duration": 1.06
+    },
+    {
+      "text": "ARIN: What the fuck?",
+      "start": 428.88,
+      "duration": 1.42
+    },
+    {
+      "text": "ARIN: No Doubt is a [stutters] great band!",
+      "start": 430.3,
+      "duration": 2.84
+    },
+    {
+      "text": "DAN: No, I meant there was no doubt I got... for making fun of Gwen Stefani's voice.",
+      "start": 433.14,
+      "duration": 4.04
+    },
+    {
+      "text": "DAN: Yeah. Oh God!",
+      "start": 437.34,
+      "duration": 1.54
+    },
+    {
+      "text": "DAN: Oh, you're trapped in the web of deceit!",
+      "start": 438.88,
+      "duration": 2.26
+    },
+    {
+      "text": "ARIN: I like how he actually comes for you.",
+      "start": 441.14,
+      "duration": 1.58
+    },
+    {
+      "text": "ARIN: He's like, \"Heh, caught somebody.\"",
+      "start": 442.72,
+      "duration": 1.42
+    },
+    {
+      "text": "DAN: Well, Brian is really trying to make that \"Do y'all want any comes?\", uh, line to really take hold.",
+      "start": 445.16,
+      "duration": 5.94
+    },
+    {
+      "text": "ARIN: \"Do y'all want any comes?\"",
+      "start": 451.1,
+      "duration": 1.44
+    },
+    {
+      "text": "DAN: Yeah, \"Do y'all want to do any comes?\"",
+      "start": 452.54,
+      "duration": 1.68
+    },
+    {
+      "text": "DAN: That's what it is.",
+      "start": 454.22,
+      "duration": 0.62
+    },
+    {
+      "text": "ARIN: Oh, gotcha.",
+      "start": 454.86,
+      "duration": 0.62
+    },
+    {
+      "text": "DAN:  Do y'all want to do any comes?",
+      "start": 455.48,
+      "duration": 1.72
+    },
+    {
+      "text": "DAN: He just for no reason-- he started walking around the tour bus saying that one day and now has made it his mission in life to, uh...",
+      "start": 457.66,
+      "duration": 8.82
+    },
+    {
+      "text": "DAN: [sighs] To really get it trending and I don't...",
+      "start": 468.1,
+      "duration": 2.18
+    },
+    {
+      "text": "DAN: I don't know if it's happening.",
+      "start": 470.74,
+      "duration": 1.32
+    },
+    {
+      "text": "ARIN: But he said-- he doesn't say it like that.",
+      "start": 472.24,
+      "duration": 2.02
+    },
+    {
+      "text": "ARIN: He says like [imitating Brian] \"Do y'all want any comes?\"",
+      "start": 474.26,
+      "duration": 1.9
+    },
+    {
+      "text": "DAN: Yeah, yeah.",
+      "start": 476.16,
+      "duration": 0.66
+    },
+    {
+      "text": "ARIN: Like how Brian--\nDAN: [imitating Brian] \"Do y'all wanna do any comes?\"",
+      "start": 476.82,
+      "duration": 2.4
+    },
+    {
+      "text": "DAN: Well, yeah, it's-- it's-- it's Brian putting on a fake high voice.",
+      "start": 479.26,
+      "duration": 3.2
+    },
+    {
+      "text": "ARIN: Oh, he does? Yeah oh yeah",
+      "start": 482.46,
+      "duration": 0.82
+    },
+    {
+      "text": "DAN: Yeah. Oh, yeah.",
+      "start": 483.28,
+      "duration": 0.78
+    },
+    {
+      "text": "ARIN: Oh! I'd like to hear that.",
+      "start": 484.06,
+      "duration": 0.8
+    },
+    {
+      "text": "DAN: But It's still got that [low gurgling] you know, that quality to it 'cause it's Brian.\nARIN: [laughs]",
+      "start": 484.86,
+      "duration": 4.44
+    },
+    {
+      "text": "ARIN: I've never really heard him do voices like that before.",
+      "start": 489.3,
+      "duration": 1.86
+    },
+    {
+      "text": "DAN: Mm. I wouldn't even call it voice.",
+      "start": 491.16,
+      "duration": 2.76
+    },
+    {
+      "text": "DAN: It's just him... sexually harassing me.",
+      "start": 494.08,
+      "duration": 3.66
+    },
+    {
+      "text": "ARIN: Well... I don't care who you are, that's funny.",
+      "start": 497.74,
+      "duration": 3.7
+    },
+    {
+      "text": "DAN: Yeah I-- well, I'm me and I don't appreciate it.",
+      "start": 501.44,
+      "duration": 3.1
+    },
+    {
+      "text": "ARIN: Oh, I get that.",
+      "start": 504.54,
+      "duration": 1.02
+    },
+    {
+      "text": "ARIN: But whenever-- whenever Brian... [laughs]",
+      "start": 506.36,
+      "duration": 2.86
+    },
+    {
+      "text": "ARIN: Never mind.",
+      "start": 509.28,
+      "duration": 0.72
+    },
+    {
+      "text": "DAN: Yeah.",
+      "start": 510.0,
+      "duration": 0.52
+    },
+    {
+      "text": "ARIN: I'm not gonna-- I'm not gonna justify sexual harassment here.",
+      "start": 511.08,
+      "duration": 3.26
+    },
+    {
+      "text": "DAN: Well, if it's...if it's about me, it's probably okay.",
+      "start": 514.34,
+      "duration": 3.26
+    },
+    {
+      "text": "ARIN: Oh, is it?",
+      "start": 517.6,
+      "duration": 0.7
+    },
+    {
+      "text": "DAN: Well...",
+      "start": 518.3,
+      "duration": 0.64
+    },
+    {
+      "text": "DAN: According to the Internet--\nARIN: Is that what you want? Is that what you want to put out online?",
+      "start": 519.58,
+      "duration": 2.74
+    },
+    {
+      "text": "DAN: I'm just saying-- I-- this is according to the, uh, what the Internet feels.",
+      "start": 522.32,
+      "duration": 4.0
+    },
+    {
+      "text": "DAN: Whoa...",
+      "start": 526.32,
+      "duration": 1.0
+    },
+    {
+      "text": "DAN: Oh, can you thread those mushroom needles?",
+      "start": 528.16,
+      "duration": 1.5
+    },
+    {
+      "text": "ARIN: Oh, hell yeah.",
+      "start": 529.66,
+      "duration": 0.84
+    },
+    {
+      "text": "ARIN: Nope.",
+      "start": 531.36,
+      "duration": 0.5
+    },
+    {
+      "text": "DAN: Mm-hm. [laughs]",
+      "start": 531.86,
+      "duration": 1.34
+    },
+    {
+      "text": "ARIN: Not as good as I thought I was.",
+      "start": 533.2,
+      "duration": 1.32
+    },
+    {
+      "text": "BOTH: [various clicking noises]",
+      "start": 534.52,
+      "duration": 4.32
+    },
+    {
+      "text": "ARIN: Just gotta... \nDAN: Almost. Almost, baby.",
+      "start": 538.84,
+      "duration": 2.84
+    },
+    {
+      "text": "ARIN: Just gonna fly this fucker.",
+      "start": 541.7,
+      "duration": 1.72
+    },
+    {
+      "text": "DAN: Hells yes.",
+      "start": 543.42,
+      "duration": 1.02
+    },
+    {
+      "text": "ARIN: Oh. Don't.",
+      "start": 545.64,
+      "duration": 0.8
+    },
+    {
+      "text": "DAN: Oh my God.",
+      "start": 546.44,
+      "duration": 1.2
+    },
+    {
+      "text": "ARIN: Hurry up, come on.",
+      "start": 547.64,
+      "duration": 1.56
+    },
+    {
+      "text": "DAN: Well... ugh.",
+      "start": 549.2,
+      "duration": 0.92
+    },
+    {
+      "text": "ARIN: What-- What the hell?",
+      "start": 550.12,
+      "duration": 1.2
+    },
+    {
+      "text": "DAN: Nice.",
+      "start": 551.32,
+      "duration": 0.98
+    },
+    {
+      "text": "DAN: Well, you can take down that box at least.",
+      "start": 552.48,
+      "duration": 2.4
+    },
+    {
+      "text": "ARIN: [sighs] I guess I gotta go over here then.",
+      "start": 556.0,
+      "duration": 2.46
+    },
+    {
+      "text": "DAN: Okay.",
+      "start": 558.46,
+      "duration": 0.56
+    },
+    {
+      "text": "DAN: This is-- Oooh!",
+      "start": 560.04,
+      "duration": 1.56
+    },
+    {
+      "text": "ARIN: [sighs]",
+      "start": 561.6,
+      "duration": 1.26
+    },
+    {
+      "text": "ARIN: Oh, this-- maybe this one over here is better.",
+      "start": 564.12,
+      "duration": 2.1
+    },
+    {
+      "text": "DAN: Okay, go for it.",
+      "start": 566.22,
+      "duration": 1.86
+    },
+    {
+      "text": "ARIN: Here we go, baby.",
+      "start": 568.74,
+      "duration": 1.8
+    },
+    {
+      "text": "DAN: [singing] Flying like the wings of an angel and the grace of-- of a bee.",
+      "start": 570.7,
+      "duration": 8.54
+    },
+    {
+      "text": "DAN: I don't-- Yeah, I don't really know.",
+      "start": 580.3,
+      "duration": 1.24
+    },
+    {
+      "text": "ARIN: I don't know why I call him a bee.",
+      "start": 581.54,
+      "duration": 1.0
+    },
+    {
+      "text": "ARIN: It's, like, clearly a beetle.",
+      "start": 582.54,
+      "duration": 1.1
+    },
+    {
+      "text": "DAN: Oops.",
+      "start": 584.14,
+      "duration": 1.08
+    },
+    {
+      "text": "ARIN: Oh, just rupees in there.",
+      "start": 585.22,
+      "duration": 1.06
+    },
+    {
+      "text": "DAN: Yeah.",
+      "start": 586.28,
+      "duration": 0.74
+    },
+    {
+      "text": "ARIN: Oh, thank you.",
+      "start": 587.74,
+      "duration": 0.72
+    },
+    {
+      "text": "DAN: Well, you made $11 so that's nice.",
+      "start": 588.46,
+      "duration": 2.14
+    },
+    {
+      "text": "ARIN: I'm at my maximum of a hundred freaking dollars.",
+      "start": 590.6,
+      "duration": 2.9
+    },
+    {
+      "text": "DAN: You got a hundo?",
+      "start": 593.52,
+      "duration": 0.82
+    },
+    {
+      "text": "ARIN: Dude, I got a sick hundo.",
+      "start": 594.34,
+      "duration": 1.14
+    },
+    {
+      "text": "DAN: Dude, you gotta fucking... you gotta cash that in.",
+      "start": 595.48,
+      "duration": 2.86
+    },
+    {
+      "text": "ARIN: You think so?",
+      "start": 598.34,
+      "duration": 0.66
+    },
+    {
+      "text": "DAN: You gotta cash in that nonsense.",
+      "start": 599.0,
+      "duration": 1.3
+    },
+    {
+      "text": "ARIN: You think I gotta go to the banko?",
+      "start": 600.3,
+      "duration": 1.06
+    },
+    {
+      "text": "DAN: [laughs] The banko?",
+      "start": 601.5,
+      "duration": 1.34
+    },
+    {
+      "text": "DAN: Wall-- Walls For-- Walls Forgo Banko?",
+      "start": 603.8,
+      "duration": 3.42
+    },
+    {
+      "text": "ARIN: Did I just waste all the-- Oh, I have more than a hundred.",
+      "start": 607.22,
+      "duration": 2.58
+    },
+    {
+      "text": "DAN: Yes!",
+      "start": 610.66,
+      "duration": 0.88
+    },
+    {
+      "text": "ARIN: I just ended up with a cool, one hundred clean.",
+      "start": 611.54,
+      "duration": 4.4
+    },
+    {
+      "text": "DAN: Yeah, dog.",
+      "start": 616.3,
+      "duration": 1.22
+    },
+    {
+      "text": "ARIN: Alright, where's the-- where's the activator to fucking get this heart piece?",
+      "start": 617.52,
+      "duration": 2.94
+    },
+    {
+      "text": "ARIN: Cause I'm... I'm done with this bee thing.",
+      "start": 620.46,
+      "duration": 3.08
+    },
+    {
+      "text": "ARIN: There's too many bee things in this area.",
+      "start": 624.22,
+      "duration": 2.52
+    },
+    {
+      "text": "DAN: It's a beetle.",
+      "start": 626.74,
+      "duration": 0.76
+    },
+    {
+      "text": "ARIN: I just call it a bee.",
+      "start": 628.52,
+      "duration": 1.18
+    },
+    {
+      "text": "DAN: So I guess you could say there's no bee things.",
+      "start": 629.7,
+      "duration": 1.96
+    },
+    {
+      "text": "ARIN: Well, it's kind of like a bee.",
+      "start": 631.66,
+      "duration": 1.48
+    },
+    {
+      "text": "ARIN: A bee flies.\nDAN: Oh, there it is! Yeah!",
+      "start": 633.14,
+      "duration": 2.06
+    },
+    {
+      "text": "DAN: Look at you!",
+      "start": 635.74,
+      "duration": 1.0
+    },
+    {
+      "text": "ARIN: Ow!",
+      "start": 638.52,
+      "duration": 0.5
+    },
+    {
+      "text": "DAN: Doink!",
+      "start": 639.04,
+      "duration": 0.8
+    },
+    {
+      "text": "DAN: [deep voice] Thank you for your sacrifice.\nARIN: Did I get it?",
+      "start": 640.76,
+      "duration": 1.88
+    },
+    {
+      "text": "ARIN: There we go.",
+      "start": 642.64,
+      "duration": 0.98
+    },
+    {
+      "text": "DAN: Mmm, hell yeah.",
+      "start": 644.42,
+      "duration": 1.62
+    },
+    {
+      "text": "ARIN: Thanks for the fucking thing, bee.",
+      "start": 646.04,
+      "duration": 1.72
+    },
+    {
+      "text": "DAN: Mm-hm.",
+      "start": 647.76,
+      "duration": 0.56
+    },
+    {
+      "text": "ARIN: Damn it!",
+      "start": 648.32,
+      "duration": 0.56
+    },
+    {
+      "text": "DAN: Well, it can get it for you.",
+      "start": 648.88,
+      "duration": 1.56
+    },
+    {
+      "text": "DAN: Oh, well, never mind.",
+      "start": 650.44,
+      "duration": 0.84
+    },
+    {
+      "text": "ARIN: Well, I don't want it to get it for me.",
+      "start": 651.28,
+      "duration": 1.18
+    },
+    {
+      "text": "ARIN: I want to get it myself.",
+      "start": 652.46,
+      "duration": 1.06
+    },
+    {
+      "text": "ARIN: The bee-- the bee doesn't have any health.",
+      "start": 653.52,
+      "duration": 2.06
+    },
+    {
+      "text": "DAN: [singing the Zelda \"you did it!\" music] A piece of heart!",
+      "start": 656.1,
+      "duration": 1.48
+    },
+    {
+      "text": "ARIN: Alright, what's next?",
+      "start": 658.12,
+      "duration": 1.16
+    },
+    {
+      "text": "ARIN: The bee door? Did I already go in there?",
+      "start": 659.28,
+      "duration": 2.64
+    },
+    {
+      "text": "ARIN: Oh, I have a key now.",
+      "start": 662.4,
+      "duration": 1.06
+    },
+    {
+      "text": "DAN: Cool.",
+      "start": 663.46,
+      "duration": 0.88
+    },
+    {
+      "text": "DAN: Well, that's that then.",
+      "start": 664.34,
+      "duration": 1.2
+    },
+    {
+      "text": "ARIN: That's the key door, right there.",
+      "start": 665.54,
+      "duration": 1.3
+    },
+    {
+      "text": "DAN: Not the bee-- not the bee door, but the key door.",
+      "start": 667.5,
+      "duration": 2.38
+    },
+    {
+      "text": "DAN: [quietly] Oh.",
+      "start": 671.5,
+      "duration": 0.5
+    },
+    {
+      "text": "ARIN: Alright.",
+      "start": 672.32,
+      "duration": 0.5
+    },
+    {
+      "text": "DAN: Okay. Good time.\nARIN: I can just--",
+      "start": 672.82,
+      "duration": 1.54
+    },
+    {
+      "text": "ARIN: I can chop these fuckers down.\nDAN: Oooh!",
+      "start": 674.36,
+      "duration": 1.44
+    },
+    {
+      "text": "DAN: It's so much better than the seed thing.",
+      "start": 676.0,
+      "duration": 2.0
+    },
+    {
+      "text": "ARIN: Oooh. Sharp turn. Sharp turn. Sharp turn. Sharp turn. Sharp turn. Sharp turn.",
+      "start": 679.38,
+      "duration": 3.52
+    },
+    {
+      "text": "DAN: Sharp turns are not his best.",
+      "start": 682.9,
+      "duration": 1.3
+    },
+    {
+      "text": "ARIN: Mmm...\nDAN: Take out this guy.",
+      "start": 684.2,
+      "duration": 1.12
+    },
+    {
+      "text": "Oh, you fucking bee.",
+      "start": 685.32,
+      "duration": 1.36
+    },
+    {
+      "text": "DAN: Wow, terrible.",
+      "start": 686.68,
+      "duration": 1.44
+    },
+    {
+      "text": "ARIN: God damn...",
+      "start": 688.34,
+      "duration": 0.82
+    },
+    {
+      "text": "DAN: Disaster.",
+      "start": 689.42,
+      "duration": 0.82
+    },
+    {
+      "text": "DAN: Oh.",
+      "start": 690.94,
+      "duration": 0.5
+    },
+    {
+      "text": "ARIN: Does it come out if the beetle... if the beetle is--?",
+      "start": 691.44,
+      "duration": 2.36
+    },
+    {
+      "text": "ARIN: Yeah, the beetle--  It comes out if the beetle comes at it.",
+      "start": 693.8,
+      "duration": 1.82
+    },
+    {
+      "text": "ARIN: Beetle time!",
+      "start": 696.72,
+      "duration": 1.32
+    },
+    {
+      "text": "DAN: Oh yeah, I guess our motion detector...",
+      "start": 698.46,
+      "duration": 1.8
+    },
+    {
+      "text": "DAN: Fuck yeah!",
+      "start": 701.74,
+      "duration": 1.24
+    },
+    {
+      "text": "ARIN: Aah!",
+      "start": 703.0,
+      "duration": 0.5
+    },
+    {
+      "text": "DAN: Okay.",
+      "start": 703.5,
+      "duration": 0.86
+    },
+    {
+      "text": "BOTH: Oh! Ooh! Ooh!",
+      "start": 704.36,
+      "duration": 3.5
+    },
+    {
+      "text": "ARIN: Beetle time!",
+      "start": 708.32,
+      "duration": 0.82
+    },
+    {
+      "text": "DAN: [deep voice] Return to your master.",
+      "start": 709.16,
+      "duration": 1.64
+    },
+    {
+      "text": "ARIN: Aah! You're my beetle, stop flying!",
+      "start": 711.46,
+      "duration": 2.52
+    },
+    {
+      "text": "ARIN: Okay, I got the bee.\nDAN: Alright, we're good!",
+      "start": 715.18,
+      "duration": 1.68
+    },
+    {
+      "text": "DAN: Great fucking work, Arin.",
+      "start": 717.06,
+      "duration": 1.36
+    },
+    {
+      "text": "ARIN: No more beetle antics now.",
+      "start": 718.42,
+      "duration": 1.24
+    },
+    {
+      "text": "DAN: That was beetle mania!",
+      "start": 721.44,
+      "duration": 1.48
+    },
+    {
+      "text": "BOTH: It was the skittish invasion. [laugh]",
+      "start": 724.84,
+      "duration": 1.86
+    },
+    {
+      "text": "ARIN: Insect and skittish. [mutters]",
+      "start": 730.16,
+      "duration": 2.86
+    },
+    {
+      "text": "ARIN: Yeah. That's the best one.",
+      "start": 733.02,
+      "duration": 1.28
+    },
+    {
+      "text": "DAN: Thanks. Thanks.",
+      "start": 734.3,
+      "duration": 1.2
+    },
+    {
+      "text": "ARIN: Yeah.",
+      "start": 735.5,
+      "duration": 0.5
+    },
+    {
+      "text": "DAN: Just verifying.",
+      "start": 736.0,
+      "duration": 1.02
+    },
+    {
+      "text": "ARIN: [laughs]",
+      "start": 737.02,
+      "duration": 0.86
+    },
+    {
+      "text": "ARIN: I was trying to-- trying to add to the joke but there's nothing to add.",
+      "start": 737.88,
+      "duration": 3.18
+    },
+    {
+      "text": "ARIN: That was-- That was the tops.",
+      "start": 741.06,
+      "duration": 1.04
+    },
+    {
+      "text": "DAN: Woah, look at this guy!",
+      "start": 742.1,
+      "duration": 1.48
+    },
+    {
+      "text": "ARIN: Yeah, you gotta swipe in the direction of the heads.",
+      "start": 743.58,
+      "duration": 2.36
+    },
+    {
+      "text": "DAN: Ooh.",
+      "start": 747.08,
+      "duration": 1.14
+    },
+    {
+      "text": "DAN: Gross!",
+      "start": 749.16,
+      "duration": 1.42
+    },
+    {
+      "text": "DAN: I love it.",
+      "start": 751.16,
+      "duration": 0.78
+    },
+    {
+      "text": "ARIN: How many times are they gonna reuse that concept, Dan?",
+      "start": 752.7,
+      "duration": 2.5
+    },
+    {
+      "text": "DAN: I don't know.",
+      "start": 755.2,
+      "duration": 0.84
+    },
+    {
+      "text": "DAN: If it's just an enemy then probably, mmm, a lot.",
+      "start": 756.04,
+      "duration": 2.0
+    },
+    {
+      "text": "ARIN: \"Just an enemy\"?",
+      "start": 758.7,
+      "duration": 1.02
+    },
+    {
+      "text": "ARIN: You mean the thing that you experienced through the whole fucking game?",
+      "start": 759.72,
+      "duration": 3.42
+    },
+    {
+      "text": "DAN: Yeah.",
+      "start": 763.42,
+      "duration": 0.64
+    },
+    {
+      "text": "DAN: Well, I don't understand that criticism, but wouldn't it be just...",
+      "start": 765.84,
+      "duration": 3.66
+    },
+    {
+      "text": "DAN: Couldn't you say the same about the first Zelda?",
+      "start": 769.5,
+      "duration": 1.9
+    },
+    {
+      "text": "DAN: Like, oh man, are these Octoroks gonna spit rocks at me this whole time?",
+      "start": 771.4,
+      "duration": 3.46
+    },
+    {
+      "text": "ARIN: No, I mean, like, every enemy.",
+      "start": 775.04,
+      "duration": 1.82
+    },
+    {
+      "text": "ARIN: Every different enemy is gonna have some variation of...",
+      "start": 776.86,
+      "duration": 3.32
+    },
+    {
+      "text": "DAN: Oh, slash in a direction?",
+      "start": 780.34,
+      "duration": 1.7
+    },
+    {
+      "text": "ARIN: Yeah.",
+      "start": 782.04,
+      "duration": 0.66
+    },
+    {
+      "text": "DAN: Well, they got to make use of that.",
+      "start": 782.7,
+      "duration": 1.52
+    },
+    {
+      "text": "DAN: Those sweet motion controls, bro.",
+      "start": 784.5,
+      "duration": 1.86
+    },
+    {
+      "text": "Yeah dog. Fuck you skullchula. that's a no from me dawg",
+      "start": 788.16,
+      "duration": 4.88
+    },
+    {
+      "text": "Ahhh. That shit makes me laugh",
+      "start": 794.18,
+      "duration": 2.0
+    },
+    {
+      "text": "It's gonna be a no for me dawg",
+      "start": 796.92,
+      "duration": 1.49
+    },
+    {
+      "text": "That's what he says to me as I am hanging off the edge of a cliff",
+      "start": 798.41,
+      "duration": 3.239
+    },
+    {
+      "text": "Reaching up desperately towards him. That's a no from me dog",
+      "start": 802.04,
+      "duration": 2.97
+    },
+    {
+      "text": "Was there ever a point where you wanted to be American Idol?",
+      "start": 805.86,
+      "duration": 3.68
+    },
+    {
+      "text": "No",
+      "start": 809.76,
+      "duration": 0.52
+    },
+    {
+      "text": "Uhm",
+      "start": 810.84,
+      "duration": 0.72
+    },
+    {
+      "text": "I remember reading a - a quote from Dave Grohl",
+      "start": 812.67,
+      "duration": 2.39
+    },
+    {
+      "text": "Saying... maybe I can find it real fast. It was like, music should not be a competition. I - It just - it was a very well said",
+      "start": 816.329,
+      "duration": 7.79
+    },
+    {
+      "text": "kind of thing",
+      "start": 824.9,
+      "duration": 0.7
+    },
+    {
+      "text": "Well, you're not competing to be a musician you're competing to get a contract",
+      "start": 828.4,
+      "duration": 4.56
+    },
+    {
+      "text": "Well right, but a contract that's very weighted against you",
+      "start": 834.29,
+      "duration": 3.35
+    },
+    {
+      "text": "It's destroying the next generation of musicians says Dave Grohl",
+      "start": 839.27,
+      "duration": 3.559
+    },
+    {
+      "text": "This is from him",
+      "start": 847.04,
+      "duration": 1.53
+    },
+    {
+      "text": "When I think about kids watching a TV show like American Idol or The Voice then they think oh, okay",
+      "start": 848.57,
+      "duration": 5.119
+    },
+    {
+      "text": "That's how you become a musician",
+      "start": 853.69,
+      "duration": 0.99
+    },
+    {
+      "text": "You stand in line for eight fucking hours with 800 people at a convention center",
+      "start": 854.68,
+      "duration": 3.84
+    },
+    {
+      "text": "And then you sing your heart out for someone and you - then they tell you it's not fucking good enough. Can you imagine?",
+      "start": 858.52,
+      "duration": 4.739
+    },
+    {
+      "text": "Like dude, I completely agree.",
+      "start": 864.16,
+      "duration": 3.36
+    },
+    {
+      "text": "Its uh",
+      "start": 868.42,
+      "duration": 1.0
+    },
+    {
+      "text": "I think those, those folks made, uhm, a career out of",
+      "start": 870.2,
+      "duration": 4.26
+    },
+    {
+      "text": "making people feel shitty and hurting their feelings",
+      "start": 875.38,
+      "duration": 3.28
+    },
+    {
+      "text": "and uh",
+      "start": 879.26,
+      "duration": 0.76
+    },
+    {
+      "text": "and crushing dreams",
+      "start": 881.36,
+      "duration": 0.96
+    },
+    {
+      "text": "of course, they would argue that like they're helping people because",
+      "start": 882.83,
+      "duration": 3.25
+    },
+    {
+      "text": "You know, there's - they're saying that those people have no talent",
+      "start": 886.76,
+      "duration": 3.349
+    },
+    {
+      "text": "So they're saving them years of trouble of never getting anywhere. I was told I have no talent many times",
+      "start": 891.44,
+      "duration": 5.929
+    },
+    {
+      "text": "Yeah. And look at me now. But didn't you - didn't you say kind of like mentally, like fuck you, to those people?",
+      "start": 897.83,
+      "duration": 5.869
+    },
+    {
+      "text": "well, yeah, I mean... this company was built on spite. Was it really? A little bit. Wow. You know",
+      "start": 904.37,
+      "duration": 6.739
+    },
+    {
+      "text": "I don't - I'm not proud of that. I actually had to deal with that. I was stuck five years in. I really had to",
+      "start": 911.11,
+      "duration": 4.26
+    },
+    {
+      "text": "deal with that on",
+      "start": 916.16,
+      "duration": 1.68
+    },
+    {
+      "text": "Well I wasn't happy with that. No shit?",
+      "start": 918.94,
+      "duration": 2.08
+    },
+    {
+      "text": "Yeah, I just looked around and I was like wow this is - this whole company's full of anger ain't it?",
+      "start": 921.28,
+      "duration": 4.199
+    },
+    {
+      "text": "Well, you know what... hold that thought let's talk about that next time on game grumps. Cause that's interesting. Okay",
+      "start": 925.88,
+      "duration": 4.82
+    },
+    {
+      "text": "I'm gonna learn something about you",
+      "start": 933.02,
+      "duration": 1.91
+    },
+    {
+      "text": "Yay. That I don't know already, and I know everything. I know that thing you like with the finger",
+      "start": 934.93,
+      "duration": 7.109
+    },
+    {
+      "text": "Don't tell everybody! And the swirl. Jesus Dan! Well Susie knows.",
+      "start": 943.64,
+      "duration": 4.669
+    }
+  ]
+}

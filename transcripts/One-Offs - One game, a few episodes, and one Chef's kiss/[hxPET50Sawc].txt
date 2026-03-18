@@ -1,0 +1,5293 @@
+{
+  "video_id": "hxPET50Sawc",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Hey, hey, hey, we're the Game Grumps, and this is Dadbot.",
+      "start": 0.0,
+      "duration": 2.88
+    },
+    {
+      "text": "And hi.",
+      "start": 2.88,
+      "duration": 0.5
+    },
+    {
+      "text": "You might have already known that.",
+      "start": 3.38,
+      "duration": 1.28
+    },
+    {
+      "text": "We're coming to these cities this fall.",
+      "start": 4.66,
+      "duration": 1.84
+    },
+    {
+      "text": "Come see our live show.",
+      "start": 6.5,
+      "duration": 1.0
+    },
+    {
+      "text": "You won't want to miss it.",
+      "start": 7.5,
+      "duration": 1.04
+    },
+    {
+      "text": "These will probably be our last shows for a while.",
+      "start": 8.54,
+      "duration": 1.62
+    },
+    {
+      "text": "So come on out.",
+      "start": 10.16,
+      "duration": 0.88
+    },
+    {
+      "text": "We'll be in Calgary.",
+      "start": 11.04,
+      "duration": 0.96
+    },
+    {
+      "text": "Vancouver.",
+      "start": 12.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Anchorage.",
+      "start": 13.0,
+      "duration": 0.88
+    },
+    {
+      "text": "Portland.",
+      "start": 13.88,
+      "duration": 0.5
+    },
+    {
+      "text": "San Francisco.",
+      "start": 14.38,
+      "duration": 0.66
+    },
+    {
+      "text": "El Cajon.",
+      "start": 15.04,
+      "duration": 0.5
+    },
+    {
+      "text": "Mesa.",
+      "start": 15.54,
+      "duration": 0.5
+    },
+    {
+      "text": "Dallas.",
+      "start": 16.04,
+      "duration": 0.62
+    },
+    {
+      "text": "Tulsa.",
+      "start": 16.66,
+      "duration": 0.68
+    },
+    {
+      "text": "Indianapolis.",
+      "start": 17.34,
+      "duration": 0.74
+    },
+    {
+      "text": "Grand Rapids.",
+      "start": 18.08,
+      "duration": 0.76
+    },
+    {
+      "text": "Cincinnati.",
+      "start": 18.84,
+      "duration": 0.9
+    },
+    {
+      "text": "Hellam.",
+      "start": 19.74,
+      "duration": 0.42
+    },
+    {
+      "text": "Richmond.",
+      "start": 20.16,
+      "duration": 0.5
+    },
+    {
+      "text": "Red Bank.",
+      "start": 20.66,
+      "duration": 0.42
+    },
+    {
+      "text": "Huntington.",
+      "start": 21.08,
+      "duration": 0.5
+    },
+    {
+      "text": "Hershey.",
+      "start": 21.58,
+      "duration": 0.5
+    },
+    {
+      "text": "Boston.",
+      "start": 22.08,
+      "duration": 0.5
+    },
+    {
+      "text": "Burlington.",
+      "start": 22.58,
+      "duration": 0.5
+    },
+    {
+      "text": "Montreal.",
+      "start": 23.08,
+      "duration": 2.5
+    },
+    {
+      "text": "Fire.",
+      "start": 25.58,
+      "duration": 0.84
+    },
+    {
+      "text": "Wind.",
+      "start": 26.42,
+      "duration": 0.74
+    },
+    {
+      "text": "Water.",
+      "start": 27.16,
+      "duration": 0.84
+    },
+    {
+      "text": "And alcohol.",
+      "start": 28.0,
+      "duration": 1.38
+    },
+    {
+      "text": "Yeah.",
+      "start": 29.46,
+      "duration": 1.0
+    },
+    {
+      "text": "Yay.",
+      "start": 30.46,
+      "duration": 1.84
+    },
+    {
+      "text": "Last time on Game Grumps.",
+      "start": 32.3,
+      "duration": 3.12
+    },
+    {
+      "text": "I made some hot, big shit.",
+      "start": 35.42,
+      "duration": 1.62
+    },
+    {
+      "text": "And I made it in the oven.",
+      "start": 37.04,
+      "duration": 2.68
+    },
+    {
+      "text": "I took it out for lunch.",
+      "start": 39.72,
+      "duration": 1.12
+    },
+    {
+      "text": "So I made it for lunch.",
+      "start": 40.84,
+      "duration": 1.0
+    },
+    {
+      "text": "I put it in a tin.",
+      "start": 41.84,
+      "duration": 1.04
+    },
+    {
+      "text": "So I ate hot, big shit in a tin for lunch.",
+      "start": 42.88,
+      "duration": 2.42
+    },
+    {
+      "text": "So I'm good.",
+      "start": 45.3,
+      "duration": 1.54
+    },
+    {
+      "text": "I'm good for the rest of the day.",
+      "start": 46.84,
+      "duration": 1.42
+    },
+    {
+      "text": "Does the tin keep the big shit hot?",
+      "start": 48.26,
+      "duration": 1.88
+    },
+    {
+      "text": "Of course it does.",
+      "start": 50.14,
+      "duration": 1.32
+    },
+    {
+      "text": "Hey, I'm Grump.",
+      "start": 51.46,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm not so Grump.",
+      "start": 52.46,
+      "duration": 1.54
+    },
+    {
+      "text": "And we're the Game Grumps.",
+      "start": 54.0,
+      "duration": 3.3
+    },
+    {
+      "text": "Dan, look, I'm tickling this tree.",
+      "start": 57.34,
+      "duration": 2.76
+    },
+    {
+      "text": "Wow.",
+      "start": 60.1,
+      "duration": 1.08
+    },
+    {
+      "text": "That's some great driving, Arin.",
+      "start": 61.18,
+      "duration": 1.32
+    },
+    {
+      "text": "Tickling the nub.",
+      "start": 62.5,
+      "duration": 1.8
+    },
+    {
+      "text": "You know, like, buh, buh, buh, buh, buh, buh, buh, you know?",
+      "start": 64.3,
+      "duration": 2.92
+    },
+    {
+      "text": "Yeah.",
+      "start": 67.22,
+      "duration": 0.5
+    },
+    {
+      "text": "Tickling the nub.",
+      "start": 67.72,
+      "duration": 0.66
+    },
+    {
+      "text": "Boy, story mode is incredible.",
+      "start": 68.38,
+      "duration": 1.96
+    },
+    {
+      "text": "Bro, I watched this video that's like the biology",
+      "start": 70.34,
+      "duration": 3.84
+    },
+    {
+      "text": "of breastfeeding.",
+      "start": 74.18,
+      "duration": 0.96
+    },
+    {
+      "text": "Uh-huh.",
+      "start": 75.14,
+      "duration": 1.82
+    },
+    {
+      "text": "Let's go to the next level.",
+      "start": 76.96,
+      "duration": 1.72
+    },
+    {
+      "text": "You're not going to expound on that?",
+      "start": 78.68,
+      "duration": 2.2
+    },
+    {
+      "text": "Sounds fascinating.",
+      "start": 80.88,
+      "duration": 1.34
+    },
+    {
+      "text": "It's pretty cool.",
+      "start": 82.22,
+      "duration": 1.0
+    },
+    {
+      "text": "When the baby sucks on the nipple.",
+      "start": 83.22,
+      "duration": 3.62
+    },
+    {
+      "text": "Oh, is that funny to you?",
+      "start": 86.88,
+      "duration": 1.2
+    },
+    {
+      "text": "It creates like a, it sends a signal to the brain",
+      "start": 88.08,
+      "duration": 2.84
+    },
+    {
+      "text": "to produce milk.",
+      "start": 90.92,
+      "duration": 1.7
+    },
+    {
+      "text": "And then the milk glands create milk.",
+      "start": 92.62,
+      "duration": 2.38
+    },
+    {
+      "text": "Yes.",
+      "start": 95.0,
+      "duration": 0.76
+    },
+    {
+      "text": "Not only that, and I could be wrong about all of this.",
+      "start": 95.76,
+      "duration": 3.84
+    },
+    {
+      "text": "Oh, god.",
+      "start": 99.6,
+      "duration": 2.12
+    },
+    {
+      "text": "Why did I choose to go on this one?",
+      "start": 101.72,
+      "duration": 1.5
+    },
+    {
+      "text": "What are you going to choose?",
+      "start": 103.22,
+      "duration": 0.74
+    },
+    {
+      "text": "What could you be wrong about?",
+      "start": 103.96,
+      "duration": 1.3
+    },
+    {
+      "text": "I cannot possibly do this and, like,",
+      "start": 105.26,
+      "duration": 3.82
+    },
+    {
+      "text": "Talk about breastfeeding.",
+      "start": 109.08,
+      "duration": 1.0
+    },
+    {
+      "text": "Talk about anything that requires brain power",
+      "start": 110.08,
+      "duration": 2.16
+    },
+    {
+      "text": "at the same time.",
+      "start": 112.24,
+      "duration": 2.0
+    },
+    {
+      "text": "There's these little glands that make milk.",
+      "start": 114.24,
+      "duration": 3.28
+    },
+    {
+      "text": "Anyway, how was your day?",
+      "start": 117.52,
+      "duration": 1.84
+    },
+    {
+      "text": "Super good.",
+      "start": 119.36,
+      "duration": 0.64
+    },
+    {
+      "text": "Thank you, Arin.",
+      "start": 120.0,
+      "duration": 0.84
+    },
+    {
+      "text": "I just thought it was interesting.",
+      "start": 120.84,
+      "duration": 1.46
+    },
+    {
+      "text": "It was very visually, like, strange.",
+      "start": 122.3,
+      "duration": 1.78
+    },
+    {
+      "text": "It was all these, like, wires and cords.",
+      "start": 124.08,
+      "duration": 1.6
+    },
+    {
+      "text": "I thought you were going to say it's very visually hot.",
+      "start": 125.68,
+      "duration": 1.76
+    },
+    {
+      "text": "Yeah, it's just, yeah, I've seen the cross section",
+      "start": 127.44,
+      "duration": 3.28
+    },
+    {
+      "text": "of the organs inside of a boob.",
+      "start": 130.72,
+      "duration": 4.8
+    },
+    {
+      "text": "Is this ready to go?",
+      "start": 138.2,
+      "duration": 1.04
+    },
+    {
+      "text": "You didn't even make a thing that people want.",
+      "start": 139.24,
+      "duration": 1.96
+    },
+    {
+      "text": "Oh, yeah, you didn't.",
+      "start": 141.2,
+      "duration": 0.92
+    },
+    {
+      "text": "Thanks, Arin.",
+      "start": 142.12,
+      "duration": 1.4
+    },
+    {
+      "text": "Why don't you serve it up if it's done, you fucking freak?",
+      "start": 143.52,
+      "duration": 2.36
+    },
+    {
+      "text": "I just finished it.",
+      "start": 145.88,
+      "duration": 1.52
+    },
+    {
+      "text": "Listen, I'm the rice guy.",
+      "start": 150.4,
+      "duration": 1.04
+    },
+    {
+      "text": "I've got rice.",
+      "start": 151.44,
+      "duration": 0.68
+    },
+    {
+      "text": "OK, cool.",
+      "start": 152.12,
+      "duration": 0.52
+    },
+    {
+      "text": "That's my thing.",
+      "start": 152.64,
+      "duration": 0.64
+    },
+    {
+      "text": "I'm the rice guy.",
+      "start": 153.28,
+      "duration": 0.76
+    },
+    {
+      "text": "I've got rice, and I'm making rice.",
+      "start": 154.04,
+      "duration": 1.36
+    },
+    {
+      "text": "Everybody knows that.",
+      "start": 155.4,
+      "duration": 0.88
+    },
+    {
+      "text": "Everybody says I'm the rice guy.",
+      "start": 156.28,
+      "duration": 2.52
+    },
+    {
+      "text": "I've heard all kinds of things from people say I'm the rice",
+      "start": 158.8,
+      "duration": 2.36
+    },
+    {
+      "text": "guy.",
+      "start": 161.16,
+      "duration": 0.72
+    },
+    {
+      "text": "Here, look, get out of my way, you fucking freak.",
+      "start": 161.88,
+      "duration": 2.12
+    },
+    {
+      "text": "I've got to make more rice.",
+      "start": 164.0,
+      "duration": 1.08
+    },
+    {
+      "text": "All right.",
+      "start": 165.08,
+      "duration": 0.84
+    },
+    {
+      "text": "You've got to use my rice.",
+      "start": 165.92,
+      "duration": 1.48
+    },
+    {
+      "text": "All right, I love your rice.",
+      "start": 167.4,
+      "duration": 1.2
+    },
+    {
+      "text": "Everybody loves your rice.",
+      "start": 168.6,
+      "duration": 1.64
+    },
+    {
+      "text": "Stop getting on the treadmill in front of me.",
+      "start": 170.24,
+      "duration": 2.28
+    },
+    {
+      "text": "What more does this shit need?",
+      "start": 172.52,
+      "duration": 1.96
+    },
+    {
+      "text": "Oh, the nori.",
+      "start": 174.48,
+      "duration": 0.8
+    },
+    {
+      "text": "Oh, the nori.",
+      "start": 178.16,
+      "duration": 3.0
+    },
+    {
+      "text": "Throw some nori down here just for you.",
+      "start": 181.16,
+      "duration": 2.0
+    },
+    {
+      "text": "OK, ready, right?",
+      "start": 183.16,
+      "duration": 2.36
+    },
+    {
+      "text": "Is that correct?",
+      "start": 185.52,
+      "duration": 0.72
+    },
+    {
+      "text": "I didn't make it correctly.",
+      "start": 186.24,
+      "duration": 1.2
+    },
+    {
+      "text": "All right, I'll chop up some fucking fish for you, bruh.",
+      "start": 187.44,
+      "duration": 3.04
+    },
+    {
+      "text": "OK, I, oh, OK.",
+      "start": 190.48,
+      "duration": 2.68
+    },
+    {
+      "text": "Got it.",
+      "start": 193.16,
+      "duration": 0.96
+    },
+    {
+      "text": "Fish, nori.",
+      "start": 194.12,
+      "duration": 1.08
+    },
+    {
+      "text": "There's some chopped fish for you, bruh.",
+      "start": 195.2,
+      "duration": 3.12
+    },
+    {
+      "text": "This isn't going well.",
+      "start": 198.32,
+      "duration": 1.12
+    },
+    {
+      "text": "No, it's not.",
+      "start": 199.44,
+      "duration": 1.16
+    },
+    {
+      "text": "Doing a terrible job.",
+      "start": 200.6,
+      "duration": 1.68
+    },
+    {
+      "text": "I'm going to put rice on here.",
+      "start": 202.28,
+      "duration": 1.32
+    },
+    {
+      "text": "Oh, I was going to do that.",
+      "start": 203.6,
+      "duration": 1.0
+    },
+    {
+      "text": "Well, too bad.",
+      "start": 204.6,
+      "duration": 0.6
+    },
+    {
+      "text": "It's got rice now.",
+      "start": 205.2,
+      "duration": 0.72
+    },
+    {
+      "text": "We should have communicated better.",
+      "start": 205.92,
+      "duration": 1.08
+    },
+    {
+      "text": "I said I was going to put rice on it.",
+      "start": 207.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I fucking hate you.",
+      "start": 209.0,
+      "duration": 1.36
+    },
+    {
+      "text": "Get the fucking fish out.",
+      "start": 214.16,
+      "duration": 1.6
+    },
+    {
+      "text": "How can there be only one choppy table?",
+      "start": 220.6,
+      "duration": 3.52
+    },
+    {
+      "text": "We have the fucking fish.",
+      "start": 224.12,
+      "duration": 1.88
+    },
+    {
+      "text": "We need so many more choppies.",
+      "start": 226.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, my god.",
+      "start": 228.0,
+      "duration": 1.4
+    },
+    {
+      "text": "Ding.",
+      "start": 229.4,
+      "duration": 0.68
+    },
+    {
+      "text": "There's two choppies.",
+      "start": 230.08,
+      "duration": 1.08
+    },
+    {
+      "text": "One of them has finished fish in it.",
+      "start": 231.16,
+      "duration": 1.88
+    },
+    {
+      "text": "Where's the second choppy?",
+      "start": 233.04,
+      "duration": 1.08
+    },
+    {
+      "text": "Which you can put into a rice dish.",
+      "start": 234.12,
+      "duration": 1.6
+    },
+    {
+      "text": "Oh, I see it now.",
+      "start": 235.72,
+      "duration": 1.2
+    },
+    {
+      "text": "I got to do the fucking dishes.",
+      "start": 236.92,
+      "duration": 1.88
+    },
+    {
+      "text": "All right, hold on.",
+      "start": 238.8,
+      "duration": 1.08
+    },
+    {
+      "text": "Where's the sink?",
+      "start": 239.88,
+      "duration": 1.08
+    },
+    {
+      "text": "Uh-oh.",
+      "start": 240.96,
+      "duration": 1.28
+    },
+    {
+      "text": "Cucumber man is mayoed.",
+      "start": 242.24,
+      "duration": 2.48
+    },
+    {
+      "text": "Where's the sink?",
+      "start": 244.72,
+      "duration": 1.16
+    },
+    {
+      "text": "I don't know.",
+      "start": 245.88,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, here it is.",
+      "start": 246.88,
+      "duration": 0.72
+    },
+    {
+      "text": "I don't know how I didn't see that.",
+      "start": 247.6,
+      "duration": 1.44
+    },
+    {
+      "text": "Whatever, he left.",
+      "start": 249.04,
+      "duration": 1.0
+    },
+    {
+      "text": "I don't get it.",
+      "start": 250.04,
+      "duration": 0.84
+    },
+    {
+      "text": "They should let you look at this thing first.",
+      "start": 250.88,
+      "duration": 3.64
+    },
+    {
+      "text": "Oh, the rice is on fire.",
+      "start": 254.52,
+      "duration": 2.12
+    },
+    {
+      "text": "I'm doing dishes.",
+      "start": 256.64,
+      "duration": 0.8
+    },
+    {
+      "text": "Oops.",
+      "start": 257.44,
+      "duration": 2.32
+    },
+    {
+      "text": "Hold on, I got to put the fire out.",
+      "start": 259.76,
+      "duration": 2.88
+    },
+    {
+      "text": "Oh, shit.",
+      "start": 262.64,
+      "duration": 0.96
+    },
+    {
+      "text": "This isn't good.",
+      "start": 263.6,
+      "duration": 0.84
+    },
+    {
+      "text": "Here's some dishes.",
+      "start": 264.44,
+      "duration": 1.32
+    },
+    {
+      "text": "Here's some dishes, delicious dishes.",
+      "start": 265.76,
+      "duration": 2.68
+    },
+    {
+      "text": "Whooshy, whooshy.",
+      "start": 268.44,
+      "duration": 1.72
+    },
+    {
+      "text": "Oh, my god, we're fucking terrible.",
+      "start": 270.16,
+      "duration": 1.68
+    },
+    {
+      "text": "Yeah, this is bad.",
+      "start": 271.84,
+      "duration": 1.04
+    },
+    {
+      "text": "This is very bad.",
+      "start": 272.88,
+      "duration": 1.32
+    },
+    {
+      "text": "We were kind of.",
+      "start": 274.2,
+      "duration": 1.08
+    },
+    {
+      "text": "Oh, my god, there's fire everywhere.",
+      "start": 275.28,
+      "duration": 2.48
+    },
+    {
+      "text": "Hold on.",
+      "start": 277.76,
+      "duration": 0.92
+    },
+    {
+      "text": "I'll get the extinguisher.",
+      "start": 278.68,
+      "duration": 1.24
+    },
+    {
+      "text": "I got it, I got it, I got it.",
+      "start": 279.92,
+      "duration": 2.32
+    },
+    {
+      "text": "Whoops, put it down into the fire.",
+      "start": 282.24,
+      "duration": 3.44
+    },
+    {
+      "text": "Whee.",
+      "start": 285.68,
+      "duration": 1.88
+    },
+    {
+      "text": "She's coming right up, sir.",
+      "start": 287.72,
+      "duration": 2.8
+    },
+    {
+      "text": "Whee.",
+      "start": 290.52,
+      "duration": 2.48
+    },
+    {
+      "text": "All right, why aren't you making food?",
+      "start": 293.0,
+      "duration": 2.16
+    },
+    {
+      "text": "Because there's only one second left.",
+      "start": 295.16,
+      "duration": 1.92
+    },
+    {
+      "text": "There was 25 seconds and you were running in circles.",
+      "start": 297.08,
+      "duration": 3.84
+    },
+    {
+      "text": "I feel like we did well.",
+      "start": 300.92,
+      "duration": 2.12
+    },
+    {
+      "text": "We didn't even get a star.",
+      "start": 303.04,
+      "duration": 3.0
+    },
+    {
+      "text": "We're playing that again.",
+      "start": 306.04,
+      "duration": 1.04
+    },
+    {
+      "text": "All right.",
+      "start": 307.08,
+      "duration": 1.2
+    },
+    {
+      "text": "And you can dash, remember, with the B.",
+      "start": 308.28,
+      "duration": 2.2
+    },
+    {
+      "text": "Oh, I did not know that.",
+      "start": 310.48,
+      "duration": 1.44
+    },
+    {
+      "text": "That's very helpful information.",
+      "start": 311.92,
+      "duration": 1.4
+    },
+    {
+      "text": "Absolutely.",
+      "start": 313.32,
+      "duration": 0.96
+    },
+    {
+      "text": "All right, these all require Nori,",
+      "start": 314.28,
+      "duration": 1.72
+    },
+    {
+      "text": "so I'm putting Nori on the plate for you already.",
+      "start": 316.04,
+      "duration": 2.2
+    },
+    {
+      "text": "Okay.",
+      "start": 318.24,
+      "duration": 0.84
+    },
+    {
+      "text": "That's the story, Nori.",
+      "start": 319.08,
+      "duration": 1.04
+    },
+    {
+      "text": "Okay, I'm choppy fish.",
+      "start": 320.12,
+      "duration": 1.72
+    },
+    {
+      "text": "I'm gonna start cooking some rice.",
+      "start": 321.84,
+      "duration": 1.4
+    },
+    {
+      "text": "Okay.",
+      "start": 323.24,
+      "duration": 0.84
+    },
+    {
+      "text": "Rice cooking over here.",
+      "start": 324.08,
+      "duration": 1.24
+    },
+    {
+      "text": "Rice cooking.",
+      "start": 325.32,
+      "duration": 1.28
+    },
+    {
+      "text": "All right, put another Nori on a plate",
+      "start": 326.6,
+      "duration": 3.64
+    },
+    {
+      "text": "because the next one is Nori.",
+      "start": 330.24,
+      "duration": 1.6
+    },
+    {
+      "text": "All right, I'm putting the dish right here.",
+      "start": 331.84,
+      "duration": 2.2
+    },
+    {
+      "text": "And rice, dish is finished.",
+      "start": 335.44,
+      "duration": 3.8
+    },
+    {
+      "text": "Taking dish. Serve it up.",
+      "start": 339.24,
+      "duration": 1.16
+    },
+    {
+      "text": "Taking dish to serve.",
+      "start": 340.4,
+      "duration": 2.04
+    },
+    {
+      "text": "Okay, make the choppy fish.",
+      "start": 343.36,
+      "duration": 2.08
+    },
+    {
+      "text": "I choppy fish.",
+      "start": 346.44,
+      "duration": 1.76
+    },
+    {
+      "text": "Get out of my fucking way, I'm choppy fish.",
+      "start": 348.2,
+      "duration": 1.64
+    },
+    {
+      "text": "I'm sorry, choppy, choppy, choppy.",
+      "start": 349.84,
+      "duration": 2.0
+    },
+    {
+      "text": "Sucky, fucking, choppy fish.",
+      "start": 353.28,
+      "duration": 1.36
+    },
+    {
+      "text": "Stupid, fucky, sucky, delicious fish.",
+      "start": 354.64,
+      "duration": 2.96
+    },
+    {
+      "text": "There, this is good, right?",
+      "start": 357.6,
+      "duration": 1.28
+    },
+    {
+      "text": "Yeah, serve it up.",
+      "start": 358.88,
+      "duration": 1.56
+    },
+    {
+      "text": "Okay.",
+      "start": 360.44,
+      "duration": 0.84
+    },
+    {
+      "text": "Nori, kyuk, rice.",
+      "start": 361.28,
+      "duration": 1.84
+    },
+    {
+      "text": "This is good.",
+      "start": 364.2,
+      "duration": 1.12
+    },
+    {
+      "text": "All right, boom, Nori, kyuk, rice.",
+      "start": 365.32,
+      "duration": 2.08
+    },
+    {
+      "text": "I'll cut up a kyuk.",
+      "start": 367.4,
+      "duration": 1.08
+    },
+    {
+      "text": "I'll put a Nori on a plate.",
+      "start": 368.48,
+      "duration": 1.4
+    },
+    {
+      "text": "Choppy, choppy, choppy, go the kyuk, kyuk, kyuk.",
+      "start": 371.08,
+      "duration": 2.2
+    },
+    {
+      "text": "I like your song.",
+      "start": 374.28,
+      "duration": 1.44
+    },
+    {
+      "text": "I like your groove.",
+      "start": 377.04,
+      "duration": 1.28
+    },
+    {
+      "text": "Does it make you feel more focused?",
+      "start": 378.32,
+      "duration": 2.88
+    },
+    {
+      "text": "No.",
+      "start": 381.2,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay.",
+      "start": 382.04,
+      "duration": 0.84
+    },
+    {
+      "text": "All right, I'm washing dishes.",
+      "start": 385.96,
+      "duration": 2.92
+    },
+    {
+      "text": "I'm washing dishes over here.",
+      "start": 388.88,
+      "duration": 2.84
+    },
+    {
+      "text": "Get the fuck out of my way.",
+      "start": 391.72,
+      "duration": 2.64
+    },
+    {
+      "text": "All right, kyuk.",
+      "start": 394.36,
+      "duration": 2.08
+    },
+    {
+      "text": "All of these have Nori.",
+      "start": 397.6,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm loading them up with Nori, dude.",
+      "start": 398.6,
+      "duration": 1.28
+    },
+    {
+      "text": "Okay.",
+      "start": 399.88,
+      "duration": 0.84
+    },
+    {
+      "text": "Loading these plates up with fucking Nori",
+      "start": 400.72,
+      "duration": 1.4
+    },
+    {
+      "text": "so you can just throw all that chop shit on there.",
+      "start": 402.12,
+      "duration": 1.88
+    },
+    {
+      "text": "Boom.",
+      "start": 404.0,
+      "duration": 0.84
+    },
+    {
+      "text": "Look at this, look at this.",
+      "start": 404.84,
+      "duration": 0.84
+    },
+    {
+      "text": "Goddamn, we're amazing.",
+      "start": 405.68,
+      "duration": 0.84
+    },
+    {
+      "text": "I need rice.",
+      "start": 406.52,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay, there's rice.",
+      "start": 407.36,
+      "duration": 0.84
+    },
+    {
+      "text": "Is this ready?",
+      "start": 408.2,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "start": 409.04,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay.",
+      "start": 409.88,
+      "duration": 0.84
+    },
+    {
+      "text": "And here's some rice, too, for you.",
+      "start": 410.72,
+      "duration": 1.24
+    },
+    {
+      "text": "Boom.",
+      "start": 411.96,
+      "duration": 0.84
+    },
+    {
+      "text": "For you, Joe.",
+      "start": 412.8,
+      "duration": 0.84
+    },
+    {
+      "text": "Boom.",
+      "start": 413.64,
+      "duration": 0.84
+    },
+    {
+      "text": "Got out of my fucking way.",
+      "start": 414.48,
+      "duration": 1.12
+    },
+    {
+      "text": "Oh, maybe I should just load them up with rice.",
+      "start": 415.6,
+      "duration": 1.48
+    },
+    {
+      "text": "It doesn't seem like there's no rice in any Noris.",
+      "start": 417.08,
+      "duration": 2.2
+    },
+    {
+      "text": "I would love that.",
+      "start": 419.28,
+      "duration": 0.84
+    },
+    {
+      "text": "So I should just load them up with rice, eh?",
+      "start": 420.12,
+      "duration": 1.28
+    },
+    {
+      "text": "Please do.",
+      "start": 421.4,
+      "duration": 0.84
+    },
+    {
+      "text": "All right, done.",
+      "start": 422.24,
+      "duration": 1.0
+    },
+    {
+      "text": "Chuh, chuh, chuh, chuh, chuh, chuh, chuh.",
+      "start": 424.56,
+      "duration": 2.52
+    },
+    {
+      "text": "Choppy, choppy, choppy, go the yum, yum fish.",
+      "start": 427.08,
+      "duration": 2.2
+    },
+    {
+      "text": "Why can't I just put fucking nocks,",
+      "start": 429.28,
+      "duration": 1.44
+    },
+    {
+      "text": "damn wheels?",
+      "start": 432.12,
+      "duration": 1.52
+    },
+    {
+      "text": "I'm sorry, you wanna try the sentence again?",
+      "start": 433.64,
+      "duration": 2.08
+    },
+    {
+      "text": "I wanna get some fucking,",
+      "start": 435.72,
+      "duration": 1.36
+    },
+    {
+      "text": "some speed, dog.",
+      "start": 438.24,
+      "duration": 1.28
+    },
+    {
+      "text": "What are you doing with that?",
+      "start": 439.52,
+      "duration": 1.24
+    },
+    {
+      "text": "Why, I'm just putting it right here.",
+      "start": 440.76,
+      "duration": 0.84
+    },
+    {
+      "text": "It was in a place.",
+      "start": 441.6,
+      "duration": 0.84
+    },
+    {
+      "text": "I put it right here for convenience.",
+      "start": 442.44,
+      "duration": 1.52
+    },
+    {
+      "text": "You just moved it for no reason.",
+      "start": 443.96,
+      "duration": 2.34
+    },
+    {
+      "text": "No, you made me drop my cucumber",
+      "start": 446.3,
+      "duration": 1.74
+    },
+    {
+      "text": "because I got scared.",
+      "start": 448.04,
+      "duration": 1.16
+    },
+    {
+      "text": "Because if you're a,",
+      "start": 449.2,
+      "duration": 1.88
+    },
+    {
+      "text": "I'm scared that you're yelling.",
+      "start": 451.08,
+      "duration": 0.88
+    },
+    {
+      "text": "Yeah, your aggressive tone.",
+      "start": 451.96,
+      "duration": 2.06
+    },
+    {
+      "text": "Okay.",
+      "start": 454.02,
+      "duration": 1.42
+    },
+    {
+      "text": "Okay, I'm washing dishes.",
+      "start": 455.44,
+      "duration": 1.4
+    },
+    {
+      "text": "Okay, I'll make a choppy fish.",
+      "start": 456.84,
+      "duration": 2.58
+    },
+    {
+      "text": "All right, I'm depositing dishes into the center.",
+      "start": 460.38,
+      "duration": 2.4
+    },
+    {
+      "text": "Choppy, choppy, choppy.",
+      "start": 464.18,
+      "duration": 1.16
+    },
+    {
+      "text": "Fish.",
+      "start": 466.78,
+      "duration": 0.84
+    },
+    {
+      "text": "Nori, need the nori.",
+      "start": 468.9,
+      "duration": 1.92
+    },
+    {
+      "text": "Need the rice.",
+      "start": 470.82,
+      "duration": 1.28
+    },
+    {
+      "text": "Need the rice.",
+      "start": 472.1,
+      "duration": 0.84
+    },
+    {
+      "text": "I'm coming, I'm coming, I'm coming.",
+      "start": 472.94,
+      "duration": 0.82
+    },
+    {
+      "text": "No, I got the rice.",
+      "start": 473.76,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, okay, put it on there.",
+      "start": 474.6,
+      "duration": 1.26
+    },
+    {
+      "text": "It's fine.",
+      "start": 475.86,
+      "duration": 0.84
+    },
+    {
+      "text": "I'm gonna load up these dishes with nori.",
+      "start": 477.58,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, God.",
+      "start": 479.58,
+      "duration": 1.38
+    },
+    {
+      "text": "I put the rice at the wrong place.",
+      "start": 480.96,
+      "duration": 1.54
+    },
+    {
+      "text": "It's okay, it's okay.",
+      "start": 482.5,
+      "duration": 1.36
+    },
+    {
+      "text": "It's okay.",
+      "start": 483.86,
+      "duration": 1.2
+    },
+    {
+      "text": "You can do that.",
+      "start": 485.06,
+      "duration": 0.92
+    },
+    {
+      "text": "It's okay.",
+      "start": 485.98,
+      "duration": 0.84
+    },
+    {
+      "text": "Boom goes the dynamite.",
+      "start": 488.34,
+      "duration": 0.92
+    },
+    {
+      "text": "All right, that's got nori and rice in it.",
+      "start": 489.98,
+      "duration": 1.92
+    },
+    {
+      "text": "Okay, this needs a cuc.",
+      "start": 491.9,
+      "duration": 1.4
+    },
+    {
+      "text": "I'm gonna make some more fucking rice.",
+      "start": 493.3,
+      "duration": 1.64
+    },
+    {
+      "text": "Duh, duh, I gotta cook up the rice.",
+      "start": 494.94,
+      "duration": 2.48
+    },
+    {
+      "text": "Mr. Man, I gotta cook up the rice.",
+      "start": 497.42,
+      "duration": 2.16
+    },
+    {
+      "text": "Mr. Mayor?",
+      "start": 499.58,
+      "duration": 0.88
+    },
+    {
+      "text": "Mr. Man.",
+      "start": 500.46,
+      "duration": 1.52
+    },
+    {
+      "text": "Thank you, Mr. President.",
+      "start": 501.98,
+      "duration": 1.28
+    },
+    {
+      "text": "Oh, fuck, I didn't pick up rice.",
+      "start": 503.26,
+      "duration": 2.32
+    },
+    {
+      "text": "Here we go.",
+      "start": 505.58,
+      "duration": 0.84
+    },
+    {
+      "text": "You stupid piece of shit.",
+      "start": 506.42,
+      "duration": 0.84
+    },
+    {
+      "text": "Out of my fucking way.",
+      "start": 507.26,
+      "duration": 1.14
+    },
+    {
+      "text": "I can't make rice that fast.",
+      "start": 508.4,
+      "duration": 2.22
+    },
+    {
+      "text": "Oh, we have time for one more dish.",
+      "start": 510.62,
+      "duration": 1.32
+    },
+    {
+      "text": "There's a big rice.",
+      "start": 511.94,
+      "duration": 1.0
+    },
+    {
+      "text": "Hurry, cook.",
+      "start": 513.9,
+      "duration": 0.84
+    },
+    {
+      "text": "Throw rice on this thing.",
+      "start": 514.74,
+      "duration": 0.84
+    },
+    {
+      "text": "I'm done, it's cooking.",
+      "start": 515.58,
+      "duration": 0.96
+    },
+    {
+      "text": "Damn, it's cooking.",
+      "start": 517.94,
+      "duration": 1.06
+    },
+    {
+      "text": "It's done.",
+      "start": 519.6,
+      "duration": 0.84
+    },
+    {
+      "text": "Throw rice on that thing.",
+      "start": 520.44,
+      "duration": 0.82
+    },
+    {
+      "text": "Go, go, go, go, go.",
+      "start": 521.26,
+      "duration": 0.84
+    },
+    {
+      "text": "Ah, ah, ah.",
+      "start": 522.1,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah.",
+      "start": 522.94,
+      "duration": 0.82
+    },
+    {
+      "text": "Mouse go dash.",
+      "start": 525.92,
+      "duration": 0.96
+    },
+    {
+      "text": "Look at that.",
+      "start": 528.04,
+      "duration": 0.84
+    },
+    {
+      "text": "We went from zero stars to a four star, three star.",
+      "start": 528.88,
+      "duration": 2.74
+    },
+    {
+      "text": "Hello.",
+      "start": 534.36,
+      "duration": 1.12
+    },
+    {
+      "text": "Three is a lot like four when you think about it.",
+      "start": 535.48,
+      "duration": 2.32
+    },
+    {
+      "text": "Better luck next time.",
+      "start": 537.8,
+      "duration": 1.2
+    },
+    {
+      "text": "All right, one five, here we go.",
+      "start": 540.24,
+      "duration": 1.8
+    },
+    {
+      "text": "Is this the boss stage?",
+      "start": 542.04,
+      "duration": 1.36
+    },
+    {
+      "text": "Ooh, there's a boss stage?",
+      "start": 543.4,
+      "duration": 2.12
+    },
+    {
+      "text": "I don't know.",
+      "start": 545.52,
+      "duration": 1.48
+    },
+    {
+      "text": "Especially hungry child.",
+      "start": 547.0,
+      "duration": 2.04
+    },
+    {
+      "text": "Where's my sushi?",
+      "start": 550.96,
+      "duration": 2.0
+    },
+    {
+      "text": "Help.",
+      "start": 554.96,
+      "duration": 1.2
+    },
+    {
+      "text": "Okay.",
+      "start": 556.16,
+      "duration": 1.12
+    },
+    {
+      "text": "Pasta.",
+      "start": 557.28,
+      "duration": 0.88
+    },
+    {
+      "text": "Boil pasta, add chopped tomato,",
+      "start": 558.16,
+      "duration": 2.6
+    },
+    {
+      "text": "meat, mushroom, or fish, and prawns.",
+      "start": 560.76,
+      "duration": 3.26
+    },
+    {
+      "text": "All right, you wanna boil the pasta",
+      "start": 564.02,
+      "duration": 1.62
+    },
+    {
+      "text": "and I'll handle choppies?",
+      "start": 565.64,
+      "duration": 1.74
+    },
+    {
+      "text": "Yeah, yeah.",
+      "start": 567.38,
+      "duration": 1.02
+    },
+    {
+      "text": "Okay.",
+      "start": 568.4,
+      "duration": 0.84
+    },
+    {
+      "text": "And I'm assuming every dish they want the pasta.",
+      "start": 569.24,
+      "duration": 2.02
+    },
+    {
+      "text": "Oh God, it's a pirate ship.",
+      "start": 571.26,
+      "duration": 1.42
+    },
+    {
+      "text": "I'm just gonna load up.",
+      "start": 572.68,
+      "duration": 0.84
+    },
+    {
+      "text": "Can we pause it?",
+      "start": 573.52,
+      "duration": 0.96
+    },
+    {
+      "text": "What?",
+      "start": 574.48,
+      "duration": 0.84
+    },
+    {
+      "text": "I just wanna get the lay of the land here.",
+      "start": 575.36,
+      "duration": 1.96
+    },
+    {
+      "text": "Okay.",
+      "start": 577.32,
+      "duration": 0.84
+    },
+    {
+      "text": "We've got tomatoes on the right.",
+      "start": 578.16,
+      "duration": 1.82
+    },
+    {
+      "text": "What's below the tomatoes?",
+      "start": 581.58,
+      "duration": 1.34
+    },
+    {
+      "text": "Pasta.",
+      "start": 582.92,
+      "duration": 0.84
+    },
+    {
+      "text": "That's pasta?",
+      "start": 583.76,
+      "duration": 1.16
+    },
+    {
+      "text": "Well, are you talking about the circle?",
+      "start": 584.92,
+      "duration": 2.42
+    },
+    {
+      "text": "Below that.",
+      "start": 587.34,
+      "duration": 0.94
+    },
+    {
+      "text": "That's pasta.",
+      "start": 588.28,
+      "duration": 0.88
+    },
+    {
+      "text": "Okay, yes.",
+      "start": 589.16,
+      "duration": 0.92
+    },
+    {
+      "text": "And?",
+      "start": 592.16,
+      "duration": 0.84
+    },
+    {
+      "text": "That's where you deposit the food is there.",
+      "start": 593.0,
+      "duration": 1.76
+    },
+    {
+      "text": "Where are the prawns?",
+      "start": 594.76,
+      "duration": 1.46
+    },
+    {
+      "text": "Prawns.",
+      "start": 597.28,
+      "duration": 0.84
+    },
+    {
+      "text": "I think they will make themselves known.",
+      "start": 599.34,
+      "duration": 2.92
+    },
+    {
+      "text": "Okay.",
+      "start": 602.26,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, you don't need prawns.",
+      "start": 603.1,
+      "duration": 0.82
+    },
+    {
+      "text": "It's just tomato and pasta right now.",
+      "start": 603.92,
+      "duration": 1.28
+    },
+    {
+      "text": "All right.",
+      "start": 606.02,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, cool.",
+      "start": 606.86,
+      "duration": 0.82
+    },
+    {
+      "text": "Well, great then.",
+      "start": 607.68,
+      "duration": 0.84
+    },
+    {
+      "text": "We're good.",
+      "start": 608.52,
+      "duration": 0.84
+    },
+    {
+      "text": "All right.",
+      "start": 609.36,
+      "duration": 0.84
+    },
+    {
+      "text": "Dishes are here.",
+      "start": 610.2,
+      "duration": 0.82
+    },
+    {
+      "text": "Delicious dishes.",
+      "start": 611.02,
+      "duration": 0.84
+    },
+    {
+      "text": "Tomaters.",
+      "start": 611.86,
+      "duration": 0.84
+    },
+    {
+      "text": "I'm just gonna boil up this fricking pasta.",
+      "start": 612.7,
+      "duration": 2.22
+    },
+    {
+      "text": "Choppy, choppy, choppy, choppy, choppy, choppy.",
+      "start": 614.92,
+      "duration": 2.52
+    },
+    {
+      "text": "Okay, we got choppy tomatoes.",
+      "start": 617.44,
+      "duration": 1.24
+    },
+    {
+      "text": "I'm making fucking pasta over here.",
+      "start": 618.68,
+      "duration": 2.56
+    },
+    {
+      "text": "Do you have to chop the pasta?",
+      "start": 621.24,
+      "duration": 1.56
+    },
+    {
+      "text": "Do you have to cook the pasta?",
+      "start": 622.8,
+      "duration": 1.52
+    },
+    {
+      "text": "Do I have to cook the pasta?",
+      "start": 624.32,
+      "duration": 1.16
+    },
+    {
+      "text": "I think you have to cook the tomatoes.",
+      "start": 625.48,
+      "duration": 1.8
+    },
+    {
+      "text": "Really?",
+      "start": 627.28,
+      "duration": 0.96
+    },
+    {
+      "text": "Yeah, yup.",
+      "start": 628.24,
+      "duration": 1.36
+    },
+    {
+      "text": "You sure about that?",
+      "start": 629.6,
+      "duration": 1.2
+    },
+    {
+      "text": "Oh shit.",
+      "start": 630.8,
+      "duration": 0.84
+    },
+    {
+      "text": "Yes you do.",
+      "start": 631.64,
+      "duration": 0.84
+    },
+    {
+      "text": "You sure about that?",
+      "start": 632.48,
+      "duration": 0.82
+    },
+    {
+      "text": "You have to saute up the tomatoes, you freak.",
+      "start": 633.3,
+      "duration": 1.82
+    },
+    {
+      "text": "You had them on there, put it back on.",
+      "start": 636.0,
+      "duration": 1.16
+    },
+    {
+      "text": "Okay.",
+      "start": 637.16,
+      "duration": 0.84
+    },
+    {
+      "text": "I'm bringing you tomatoes.",
+      "start": 638.0,
+      "duration": 0.92
+    },
+    {
+      "text": "Do I have to chop them and then saute them?",
+      "start": 638.92,
+      "duration": 1.6
+    },
+    {
+      "text": "Yes.",
+      "start": 640.52,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay, great.",
+      "start": 641.36,
+      "duration": 0.82
+    },
+    {
+      "text": "I'm bringing you more choppies.",
+      "start": 642.18,
+      "duration": 1.1
+    },
+    {
+      "text": "I love it.",
+      "start": 643.28,
+      "duration": 1.16
+    },
+    {
+      "text": "Thank you.",
+      "start": 644.44,
+      "duration": 1.08
+    },
+    {
+      "text": "Thank you for that.",
+      "start": 645.52,
+      "duration": 0.84
+    },
+    {
+      "text": "All right, all right.",
+      "start": 646.36,
+      "duration": 0.82
+    },
+    {
+      "text": "Ding.",
+      "start": 647.18,
+      "duration": 0.84
+    },
+    {
+      "text": "Put it, put it, put it.",
+      "start": 648.02,
+      "duration": 1.14
+    },
+    {
+      "text": "Oh, on the dish?",
+      "start": 649.16,
+      "duration": 1.36
+    },
+    {
+      "text": "Yes.",
+      "start": 650.52,
+      "duration": 0.84
+    },
+    {
+      "text": "The dish.",
+      "start": 651.36,
+      "duration": 0.82
+    },
+    {
+      "text": "And then put that back on there.",
+      "start": 652.18,
+      "duration": 0.98
+    },
+    {
+      "text": "Put the pasta on the dish.",
+      "start": 653.16,
+      "duration": 1.8
+    },
+    {
+      "text": "Why isn't it putting it on the dish?",
+      "start": 654.96,
+      "duration": 1.48
+    },
+    {
+      "text": "Why isn't it putting it on the dish?",
+      "start": 656.44,
+      "duration": 1.04
+    },
+    {
+      "text": "This isn't cooked pasta.",
+      "start": 657.48,
+      "duration": 1.4
+    },
+    {
+      "text": "Why is it moving?",
+      "start": 661.02,
+      "duration": 1.62
+    },
+    {
+      "text": "This is a terrible restaurant style.",
+      "start": 662.64,
+      "duration": 1.68
+    },
+    {
+      "text": "This should be on a ship.",
+      "start": 665.12,
+      "duration": 1.3
+    },
+    {
+      "text": "Cooked pasta.",
+      "start": 671.44,
+      "duration": 0.96
+    },
+    {
+      "text": "Why doesn't it go?",
+      "start": 672.4,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, it's not cooked yet.",
+      "start": 673.24,
+      "duration": 1.0
+    },
+    {
+      "text": "Cooked pasta.",
+      "start": 675.28,
+      "duration": 0.84
+    },
+    {
+      "text": "How do I know what cooked pasta is?",
+      "start": 679.4,
+      "duration": 1.64
+    },
+    {
+      "text": "Cooked pasta's in the pot, it's in the pot.",
+      "start": 681.04,
+      "duration": 3.9
+    },
+    {
+      "text": "None of it's cooked yet.",
+      "start": 684.94,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay.",
+      "start": 685.78,
+      "duration": 0.84
+    },
+    {
+      "text": "I'm cooking it right now.",
+      "start": 686.62,
+      "duration": 0.98
+    },
+    {
+      "text": "Just calm down, just chill out.",
+      "start": 687.6,
+      "duration": 0.96
+    },
+    {
+      "text": "This is hard pasta.",
+      "start": 688.56,
+      "duration": 1.76
+    },
+    {
+      "text": "Oh, I gotta get dishes for you.",
+      "start": 690.32,
+      "duration": 1.56
+    },
+    {
+      "text": "Hit me.",
+      "start": 692.76,
+      "duration": 0.88
+    },
+    {
+      "text": "I've got this Timo sauce just waiting.",
+      "start": 693.8,
+      "duration": 2.24
+    },
+    {
+      "text": "Here, here, here, Timo sauce.",
+      "start": 696.04,
+      "duration": 1.88
+    },
+    {
+      "text": "There you go, there's your dish.",
+      "start": 697.92,
+      "duration": 2.32
+    },
+    {
+      "text": "Get the pasta out there.",
+      "start": 700.24,
+      "duration": 1.36
+    },
+    {
+      "text": "Oh, I got it, you fucking maniac.",
+      "start": 701.6,
+      "duration": 2.88
+    },
+    {
+      "text": "Thank you.",
+      "start": 705.64,
+      "duration": 1.28
+    },
+    {
+      "text": "All right, that's ready for the good.",
+      "start": 706.92,
+      "duration": 1.38
+    },
+    {
+      "text": "Yes.",
+      "start": 708.3,
+      "duration": 0.84
+    },
+    {
+      "text": "All right, we're good.",
+      "start": 709.14,
+      "duration": 0.82
+    },
+    {
+      "text": "Put that back on the burner.",
+      "start": 709.96,
+      "duration": 0.84
+    },
+    {
+      "text": "Sorry, sorry.",
+      "start": 711.84,
+      "duration": 0.84
+    },
+    {
+      "text": "Let me get you a little more.",
+      "start": 713.84,
+      "duration": 1.84
+    },
+    {
+      "text": "Oh, this is ready.",
+      "start": 715.68,
+      "duration": 1.24
+    },
+    {
+      "text": "That's not ready yet.",
+      "start": 716.92,
+      "duration": 0.92
+    },
+    {
+      "text": "Okay.",
+      "start": 717.84,
+      "duration": 1.22
+    },
+    {
+      "text": "It's not ready yet!",
+      "start": 719.06,
+      "duration": 1.5
+    },
+    {
+      "text": "Okay, we got so much pasta just waiting.",
+      "start": 720.56,
+      "duration": 2.66
+    },
+    {
+      "text": "Choppy, choppy, choppy, choppy.",
+      "start": 724.08,
+      "duration": 1.64
+    },
+    {
+      "text": "Tomatoes, let me cook up some dishes.",
+      "start": 725.72,
+      "duration": 4.24
+    },
+    {
+      "text": "Boy, you are the MVP.",
+      "start": 729.96,
+      "duration": 2.04
+    },
+    {
+      "text": "Okay, I got a dish right here.",
+      "start": 732.0,
+      "duration": 1.44
+    },
+    {
+      "text": "Okay, great.",
+      "start": 733.44,
+      "duration": 0.96
+    },
+    {
+      "text": "There goes the boiling pasta.",
+      "start": 734.4,
+      "duration": 2.4
+    },
+    {
+      "text": "And there goes the Timo's on the boop, boop.",
+      "start": 736.8,
+      "duration": 2.64
+    },
+    {
+      "text": "Where are the rest of the dishes?",
+      "start": 739.44,
+      "duration": 1.04
+    },
+    {
+      "text": "Where are the rest of the dishes?",
+      "start": 740.48,
+      "duration": 1.88
+    },
+    {
+      "text": "Put that on the dish.",
+      "start": 742.36,
+      "duration": 1.16
+    },
+    {
+      "text": "Let's just cook up some more pasta.",
+      "start": 743.52,
+      "duration": 2.2
+    },
+    {
+      "text": "Let's cook some pasta.",
+      "start": 745.72,
+      "duration": 2.6
+    },
+    {
+      "text": "Waiting for the ding.",
+      "start": 748.32,
+      "duration": 2.44
+    },
+    {
+      "text": "Waiting for the ding dang do.",
+      "start": 750.76,
+      "duration": 3.08
+    },
+    {
+      "text": "Ready for our customers.",
+      "start": 753.84,
+      "duration": 2.08
+    },
+    {
+      "text": "Okay, I got some Timo sauce.",
+      "start": 757.1,
+      "duration": 1.5
+    },
+    {
+      "text": "You son of a bitch, you snake my pasta bowl.",
+      "start": 758.6,
+      "duration": 2.24
+    },
+    {
+      "text": "That's not cooked pasta, it's done, we're done.",
+      "start": 760.84,
+      "duration": 1.6
+    },
+    {
+      "text": "Oh, it is cooked.",
+      "start": 762.44,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah, if it's on a dish, it's cooked.",
+      "start": 763.28,
+      "duration": 1.64
+    },
+    {
+      "text": "I'm sorry.",
+      "start": 764.92,
+      "duration": 1.0
+    },
+    {
+      "text": "You can't put not cooked pasta on a dish.",
+      "start": 765.92,
+      "duration": 2.08
+    },
+    {
+      "text": "Who wants to eat that?",
+      "start": 768.0,
+      "duration": 1.84
+    },
+    {
+      "text": "Nobody.",
+      "start": 769.84,
+      "duration": 1.2
+    },
+    {
+      "text": "I thought you could just do it by accident.",
+      "start": 771.04,
+      "duration": 1.52
+    },
+    {
+      "text": "Shit.",
+      "start": 772.56,
+      "duration": 0.82
+    },
+    {
+      "text": "Oh, fucking kill you.",
+      "start": 774.76,
+      "duration": 2.48
+    },
+    {
+      "text": "Here's a tomato.",
+      "start": 778.56,
+      "duration": 0.84
+    },
+    {
+      "text": "Order up.",
+      "start": 779.4,
+      "duration": 0.82
+    },
+    {
+      "text": "And would you like wine?",
+      "start": 781.76,
+      "duration": 1.72
+    },
+    {
+      "text": "Okay, outstanding.",
+      "start": 787.48,
+      "duration": 1.4
+    },
+    {
+      "text": "We have a nice Ziff and Delve,",
+      "start": 788.88,
+      "duration": 0.96
+    },
+    {
+      "text": "just came in from Napa Valley.",
+      "start": 789.84,
+      "duration": 1.64
+    },
+    {
+      "text": "I need more dish.",
+      "start": 791.48,
+      "duration": 1.88
+    },
+    {
+      "text": "Dish, dish.",
+      "start": 793.36,
+      "duration": 0.84
+    },
+    {
+      "text": "I need more dish.",
+      "start": 795.24,
+      "duration": 1.12
+    },
+    {
+      "text": "Here's your dash.",
+      "start": 796.36,
+      "duration": 1.6
+    },
+    {
+      "text": "I'm putting the pasta, I'm putting the pasta.",
+      "start": 797.96,
+      "duration": 1.64
+    },
+    {
+      "text": "Somebody shoot that seagull out of the sky.",
+      "start": 799.6,
+      "duration": 2.4
+    },
+    {
+      "text": "Okay.",
+      "start": 802.0,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, these are ready for combinations.",
+      "start": 803.94,
+      "duration": 2.14
+    },
+    {
+      "text": "Okay.",
+      "start": 806.08,
+      "duration": 0.84
+    },
+    {
+      "text": "So serve this shit up.",
+      "start": 806.92,
+      "duration": 1.68
+    },
+    {
+      "text": "Here's your dish.",
+      "start": 808.6,
+      "duration": 1.18
+    },
+    {
+      "text": "Oh man, would you like some more dish?",
+      "start": 809.78,
+      "duration": 2.04
+    },
+    {
+      "text": "I think you'll do this dish like the dish.",
+      "start": 811.82,
+      "duration": 2.6
+    },
+    {
+      "text": "Uh oh, we're running out of time.",
+      "start": 814.42,
+      "duration": 1.08
+    },
+    {
+      "text": "It's okay, it's okay, you're cooking up stuff.",
+      "start": 815.5,
+      "duration": 1.48
+    },
+    {
+      "text": "I'm cooking up stuff, we're doing good.",
+      "start": 816.98,
+      "duration": 2.48
+    },
+    {
+      "text": "Boom.",
+      "start": 819.46,
+      "duration": 0.84
+    },
+    {
+      "text": "Boom, Timo sauce.",
+      "start": 820.3,
+      "duration": 0.82
+    },
+    {
+      "text": "Put that in there.",
+      "start": 824.1,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm gonna wash some dash, I'm gonna wash a dash.",
+      "start": 825.1,
+      "duration": 2.68
+    },
+    {
+      "text": "I'm manning the.",
+      "start": 827.78,
+      "duration": 1.12
+    },
+    {
+      "text": "Wash a dash.",
+      "start": 828.9,
+      "duration": 1.72
+    },
+    {
+      "text": "Boop.",
+      "start": 831.86,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay.",
+      "start": 832.7,
+      "duration": 0.84
+    },
+    {
+      "text": "Boop.",
+      "start": 833.54,
+      "duration": 0.96
+    },
+    {
+      "text": "Dish.",
+      "start": 834.5,
+      "duration": 0.82
+    },
+    {
+      "text": "Dish, pasta.",
+      "start": 835.32,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh.",
+      "start": 837.42,
+      "duration": 1.84
+    },
+    {
+      "text": "Back of the pan.",
+      "start": 839.78,
+      "duration": 0.84
+    },
+    {
+      "text": "Because you got my way.",
+      "start": 840.62,
+      "duration": 1.0
+    },
+    {
+      "text": "No.",
+      "start": 843.06,
+      "duration": 0.84
+    },
+    {
+      "text": "Five people went hungry in the sky.",
+      "start": 845.18,
+      "duration": 3.04
+    },
+    {
+      "text": "Three stars.",
+      "start": 848.22,
+      "duration": 1.2
+    },
+    {
+      "text": "Hell yeah.",
+      "start": 849.42,
+      "duration": 0.84
+    },
+    {
+      "text": "Better look next time.",
+      "start": 851.38,
+      "duration": 1.0
+    },
+    {
+      "text": "Okay, our restaurant is really taking off now.",
+      "start": 854.82,
+      "duration": 2.2
+    },
+    {
+      "text": "Yeah, into the sky.",
+      "start": 857.02,
+      "duration": 1.48
+    },
+    {
+      "text": "Sky valley.",
+      "start": 858.5,
+      "duration": 1.48
+    },
+    {
+      "text": "Here we go.",
+      "start": 859.98,
+      "duration": 1.44
+    },
+    {
+      "text": "Ultimate level.",
+      "start": 861.42,
+      "duration": 0.92
+    },
+    {
+      "text": "We gotta aim for 440, bro.",
+      "start": 863.98,
+      "duration": 1.92
+    },
+    {
+      "text": "440.",
+      "start": 865.9,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah.",
+      "start": 866.74,
+      "duration": 0.82
+    },
+    {
+      "text": "Blaze it plus 20.",
+      "start": 868.48,
+      "duration": 1.04
+    },
+    {
+      "text": "Okay.",
+      "start": 869.52,
+      "duration": 0.84
+    },
+    {
+      "text": "We're just making salads.",
+      "start": 870.36,
+      "duration": 1.2
+    },
+    {
+      "text": "That's all we're doing.",
+      "start": 871.56,
+      "duration": 0.84
+    },
+    {
+      "text": "Chopping up salads, making salads.",
+      "start": 872.4,
+      "duration": 1.76
+    },
+    {
+      "text": "Where's the choppy?",
+      "start": 874.16,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay, right there?",
+      "start": 875.0,
+      "duration": 0.88
+    },
+    {
+      "text": "Yep.",
+      "start": 875.88,
+      "duration": 0.84
+    },
+    {
+      "text": "Is it lettuce, cuc and tomato?",
+      "start": 876.72,
+      "duration": 1.6
+    },
+    {
+      "text": "That's it.",
+      "start": 878.32,
+      "duration": 0.84
+    },
+    {
+      "text": "All right.",
+      "start": 879.16,
+      "duration": 0.82
+    },
+    {
+      "text": "This is easy.",
+      "start": 879.98,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh yeah.",
+      "start": 880.82,
+      "duration": 0.82
+    },
+    {
+      "text": "Okay, so.",
+      "start": 881.64,
+      "duration": 0.84
+    },
+    {
+      "text": "I'll do some choppies too.",
+      "start": 882.48,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah, choppy, choppy, choppy, choppy, choppy, choppies.",
+      "start": 883.32,
+      "duration": 2.0
+    },
+    {
+      "text": "My shit goes on first.",
+      "start": 885.32,
+      "duration": 1.6
+    },
+    {
+      "text": "Okay, I'm chopping the lettuce.",
+      "start": 886.92,
+      "duration": 1.32
+    },
+    {
+      "text": "And then there's a single lettuce,",
+      "start": 888.24,
+      "duration": 1.8
+    },
+    {
+      "text": "which gets its own.",
+      "start": 890.04,
+      "duration": 0.84
+    },
+    {
+      "text": "It's fucking shooting fire at us.",
+      "start": 890.88,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, whoops.",
+      "start": 891.88,
+      "duration": 1.12
+    },
+    {
+      "text": "Where's the fire extinguisher?",
+      "start": 893.0,
+      "duration": 1.56
+    },
+    {
+      "text": "It's fine.",
+      "start": 895.58,
+      "duration": 0.84
+    },
+    {
+      "text": "Where's the, where's the, no, it's not fine.",
+      "start": 898.08,
+      "duration": 1.52
+    },
+    {
+      "text": "Where's the fire extinguisher?",
+      "start": 899.6,
+      "duration": 2.28
+    },
+    {
+      "text": "We're under attack.",
+      "start": 901.88,
+      "duration": 1.24
+    },
+    {
+      "text": "Order up.",
+      "start": 903.12,
+      "duration": 1.56
+    },
+    {
+      "text": "Do you just leave it there?",
+      "start": 904.68,
+      "duration": 1.6
+    },
+    {
+      "text": "I think so.",
+      "start": 906.28,
+      "duration": 1.4
+    },
+    {
+      "text": "That's fucked up.",
+      "start": 907.68,
+      "duration": 0.98
+    },
+    {
+      "text": "Toward the, oh, fucking.",
+      "start": 909.96,
+      "duration": 1.88
+    },
+    {
+      "text": "I can't, you can't get around the fire.",
+      "start": 911.84,
+      "duration": 1.92
+    },
+    {
+      "text": "Yeah, yeah.",
+      "start": 913.76,
+      "duration": 0.84
+    },
+    {
+      "text": "Because it's hot fire.",
+      "start": 914.6,
+      "duration": 1.36
+    },
+    {
+      "text": "That's the whole thing about fire.",
+      "start": 915.96,
+      "duration": 1.56
+    },
+    {
+      "text": "Oh, gee whiz.",
+      "start": 917.52,
+      "duration": 2.12
+    },
+    {
+      "text": "All right, that's fine.",
+      "start": 919.64,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, they go out intermittently.",
+      "start": 920.48,
+      "duration": 1.56
+    },
+    {
+      "text": "Whoops, that wasn't right.",
+      "start": 922.04,
+      "duration": 1.04
+    },
+    {
+      "text": "Make it more dishes.",
+      "start": 923.08,
+      "duration": 1.4
+    },
+    {
+      "text": "Make a dash.",
+      "start": 924.48,
+      "duration": 1.2
+    },
+    {
+      "text": "I think there's only two dishes.",
+      "start": 925.68,
+      "duration": 1.6
+    },
+    {
+      "text": "All right, chop it up.",
+      "start": 928.56,
+      "duration": 1.68
+    },
+    {
+      "text": "Well, maybe chop.",
+      "start": 930.24,
+      "duration": 1.52
+    },
+    {
+      "text": "Oh.",
+      "start": 931.76,
+      "duration": 0.84
+    },
+    {
+      "text": "Chop that shit up.",
+      "start": 933.96,
+      "duration": 1.48
+    },
+    {
+      "text": "Lettuce.",
+      "start": 935.44,
+      "duration": 1.54
+    },
+    {
+      "text": "Lettuce serve you.",
+      "start": 936.98,
+      "duration": 1.26
+    },
+    {
+      "text": "Oh my God.",
+      "start": 940.0,
+      "duration": 0.84
+    },
+    {
+      "text": "Whoa, whoa, whoa.",
+      "start": 940.84,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, oh.",
+      "start": 941.68,
+      "duration": 0.82
+    },
+    {
+      "text": "What the hell is happening?",
+      "start": 942.5,
+      "duration": 0.84
+    },
+    {
+      "text": "I don't know.",
+      "start": 943.34,
+      "duration": 0.84
+    },
+    {
+      "text": "Everything's on fire.",
+      "start": 944.18,
+      "duration": 1.34
+    },
+    {
+      "text": "Who are we serving this to?",
+      "start": 945.52,
+      "duration": 0.96
+    },
+    {
+      "text": "Where does that conveyor belt go?",
+      "start": 946.48,
+      "duration": 1.16
+    },
+    {
+      "text": "That's what I'm saying.",
+      "start": 947.64,
+      "duration": 0.84
+    },
+    {
+      "text": "All right.",
+      "start": 948.48,
+      "duration": 0.84
+    },
+    {
+      "text": "What the fuck is eating here?",
+      "start": 949.32,
+      "duration": 2.16
+    },
+    {
+      "text": "There's so much fire.",
+      "start": 951.48,
+      "duration": 1.24
+    },
+    {
+      "text": "Order up.",
+      "start": 955.32,
+      "duration": 0.84
+    },
+    {
+      "text": "Yelp review.",
+      "start": 957.12,
+      "duration": 1.16
+    },
+    {
+      "text": "It was, I liked it.",
+      "start": 958.28,
+      "duration": 1.32
+    },
+    {
+      "text": "Good atmosphere.",
+      "start": 961.56,
+      "duration": 1.56
+    },
+    {
+      "text": "There's a lot of fire.",
+      "start": 963.12,
+      "duration": 1.2
+    },
+    {
+      "text": "Couple of people died.",
+      "start": 966.74,
+      "duration": 1.1
+    },
+    {
+      "text": "Chop, chop, chop, chop, chop, chop.",
+      "start": 969.28,
+      "duration": 1.52
+    },
+    {
+      "text": "And you want the cucumbers.",
+      "start": 970.8,
+      "duration": 1.52
+    },
+    {
+      "text": "All right, I'll do a tomato and lettuce.",
+      "start": 972.32,
+      "duration": 1.56
+    },
+    {
+      "text": "Whoops, I threw the lettuce across the stage.",
+      "start": 973.88,
+      "duration": 1.68
+    },
+    {
+      "text": "That you did.",
+      "start": 975.56,
+      "duration": 0.84
+    },
+    {
+      "text": "That you did.",
+      "start": 976.4,
+      "duration": 0.82
+    },
+    {
+      "text": "Didn't know you could do that.",
+      "start": 977.22,
+      "duration": 1.5
+    },
+    {
+      "text": "Tomato.",
+      "start": 981.16,
+      "duration": 1.36
+    },
+    {
+      "text": "Wash some dishes real quick.",
+      "start": 982.52,
+      "duration": 2.24
+    },
+    {
+      "text": "Make some wishes.",
+      "start": 985.68,
+      "duration": 0.84
+    },
+    {
+      "text": "Wash the dishes.",
+      "start": 986.52,
+      "duration": 0.84
+    },
+    {
+      "text": "You know what it is.",
+      "start": 987.36,
+      "duration": 1.48
+    },
+    {
+      "text": "Here's a plate.",
+      "start": 988.84,
+      "duration": 1.64
+    },
+    {
+      "text": "Tomato and lettuce.",
+      "start": 990.48,
+      "duration": 1.74
+    },
+    {
+      "text": "Whoop, I threw the lettuce.",
+      "start": 992.22,
+      "duration": 1.5
+    },
+    {
+      "text": "Chop off the tomato.",
+      "start": 993.72,
+      "duration": 1.6
+    },
+    {
+      "text": "Put it on the plate.",
+      "start": 995.32,
+      "duration": 1.7
+    },
+    {
+      "text": "Here, I'll chop up a little cucumber.",
+      "start": 997.02,
+      "duration": 1.58
+    },
+    {
+      "text": "Put that on the plate.",
+      "start": 998.6,
+      "duration": 1.2
+    },
+    {
+      "text": "So what the fuck is happening?",
+      "start": 999.8,
+      "duration": 2.3
+    },
+    {
+      "text": "Order up.",
+      "start": 1003.4,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, now we're in a real kitchen.",
+      "start": 1004.24,
+      "duration": 0.82
+    },
+    {
+      "text": "Oh, okay.",
+      "start": 1005.06,
+      "duration": 0.84
+    },
+    {
+      "text": "Love it.",
+      "start": 1005.9,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, now we gotta put the fires.",
+      "start": 1006.74,
+      "duration": 1.02
+    },
+    {
+      "text": "I'll do that.",
+      "start": 1007.76,
+      "duration": 0.84
+    },
+    {
+      "text": "Don't worry about it.",
+      "start": 1008.6,
+      "duration": 0.84
+    },
+    {
+      "text": "We got it.",
+      "start": 1009.44,
+      "duration": 0.84
+    },
+    {
+      "text": "We got it taken care of.",
+      "start": 1010.28,
+      "duration": 0.82
+    },
+    {
+      "text": "Everything's good.",
+      "start": 1011.1,
+      "duration": 1.22
+    },
+    {
+      "text": "Where's, where are the dishes?",
+      "start": 1012.32,
+      "duration": 1.92
+    },
+    {
+      "text": "We need dishes.",
+      "start": 1014.68,
+      "duration": 0.84
+    },
+    {
+      "text": "Why is there rice now?",
+      "start": 1015.52,
+      "duration": 1.64
+    },
+    {
+      "text": "Wait, we gotta make sushi now?",
+      "start": 1017.16,
+      "duration": 1.16
+    },
+    {
+      "text": "Oh, fuck.",
+      "start": 1018.32,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, oh, oh, okay.",
+      "start": 1019.16,
+      "duration": 1.28
+    },
+    {
+      "text": "Oh, um, um, um, um, dishes, dishes up here, disappear.",
+      "start": 1020.44,
+      "duration": 3.44
+    },
+    {
+      "text": "Where?",
+      "start": 1023.88,
+      "duration": 0.84
+    },
+    {
+      "text": "Right here.",
+      "start": 1024.72,
+      "duration": 0.82
+    },
+    {
+      "text": "I just moved one, there's one here.",
+      "start": 1025.54,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, so, so, what am I holding, man?",
+      "start": 1026.38,
+      "duration": 1.88
+    },
+    {
+      "text": "Oh, well.",
+      "start": 1028.26,
+      "duration": 0.84
+    },
+    {
+      "text": "I don't know, fuck it.",
+      "start": 1029.1,
+      "duration": 0.82
+    },
+    {
+      "text": "I don't know.",
+      "start": 1029.92,
+      "duration": 0.84
+    },
+    {
+      "text": "I don't wanna fuck it.",
+      "start": 1030.76,
+      "duration": 1.96
+    },
+    {
+      "text": "All right.",
+      "start": 1032.72,
+      "duration": 0.84
+    },
+    {
+      "text": "Cucumber, lettuce, tomato.",
+      "start": 1035.04,
+      "duration": 1.72
+    },
+    {
+      "text": "Where's the choppies?",
+      "start": 1038.16,
+      "duration": 0.84
+    },
+    {
+      "text": "Dishes.",
+      "start": 1039.0,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay, uh, dishes coming.",
+      "start": 1039.84,
+      "duration": 4.8
+    },
+    {
+      "text": "Dishes up.",
+      "start": 1044.64,
+      "duration": 1.48
+    },
+    {
+      "text": "Let's put that lettuce on a plate and serve it.",
+      "start": 1046.12,
+      "duration": 2.64
+    },
+    {
+      "text": "I'm doing that now.",
+      "start": 1048.76,
+      "duration": 1.16
+    },
+    {
+      "text": "I would love to.",
+      "start": 1049.92,
+      "duration": 1.34
+    },
+    {
+      "text": "Serve it.",
+      "start": 1051.26,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, does that already have a cucumber on it?",
+      "start": 1052.1,
+      "duration": 1.86
+    },
+    {
+      "text": "What's this missing?",
+      "start": 1053.96,
+      "duration": 0.82
+    },
+    {
+      "text": "I'm washing dishes over here.",
+      "start": 1054.78,
+      "duration": 1.78
+    },
+    {
+      "text": "Let me grab some rice, cook up some rice.",
+      "start": 1056.56,
+      "duration": 2.84
+    },
+    {
+      "text": "Oh, man.",
+      "start": 1059.4,
+      "duration": 1.32
+    },
+    {
+      "text": "I love that I can only operate at a nice, leisurely pace",
+      "start": 1060.72,
+      "duration": 3.24
+    },
+    {
+      "text": "while you frantically fly around the room.",
+      "start": 1063.96,
+      "duration": 2.84
+    },
+    {
+      "text": "All right, I'm gonna put some nori on a plate.",
+      "start": 1066.8,
+      "duration": 2.24
+    },
+    {
+      "text": "Put some nori on a plate.",
+      "start": 1069.08,
+      "duration": 1.3
+    },
+    {
+      "text": "Oh, you jacked my plate, dog.",
+      "start": 1071.36,
+      "duration": 3.18
+    },
+    {
+      "text": "Okay, the rice is good, rice is good.",
+      "start": 1076.04,
+      "duration": 2.04
+    },
+    {
+      "text": "Okay.",
+      "start": 1078.08,
+      "duration": 1.32
+    },
+    {
+      "text": "Let's put some rice in this nori.",
+      "start": 1079.4,
+      "duration": 1.76
+    },
+    {
+      "text": "I need a plate.",
+      "start": 1082.2,
+      "duration": 1.46
+    },
+    {
+      "text": "Where are the plates?",
+      "start": 1083.66,
+      "duration": 0.84
+    },
+    {
+      "text": "Gotta wash the plate.",
+      "start": 1084.5,
+      "duration": 1.5
+    },
+    {
+      "text": "Hold on, hold on.",
+      "start": 1086.0,
+      "duration": 1.6
+    },
+    {
+      "text": "Calm down.",
+      "start": 1087.6,
+      "duration": 0.88
+    },
+    {
+      "text": "Got a plate.",
+      "start": 1088.48,
+      "duration": 0.82
+    },
+    {
+      "text": "I'm super calm.",
+      "start": 1089.3,
+      "duration": 0.84
+    },
+    {
+      "text": "I'll chop up some fish in the meantime.",
+      "start": 1092.52,
+      "duration": 1.64
+    },
+    {
+      "text": "Oh, I hope my dad's not watching.",
+      "start": 1094.16,
+      "duration": 1.64
+    },
+    {
+      "text": "And...",
+      "start": 1096.8,
+      "duration": 0.84
+    },
+    {
+      "text": "I'm watching her, and I'm always watching.",
+      "start": 1097.64,
+      "duration": 2.08
+    },
+    {
+      "text": "All right, we got 29 seconds to serve these fuckers",
+      "start": 1099.72,
+      "duration": 3.36
+    },
+    {
+      "text": "their food that they want.",
+      "start": 1103.08,
+      "duration": 1.72
+    },
+    {
+      "text": "It's delicious.",
+      "start": 1104.8,
+      "duration": 0.92
+    },
+    {
+      "text": "It's gonna make them go yum, yum.",
+      "start": 1105.72,
+      "duration": 1.84
+    },
+    {
+      "text": "Here's a plate up here, done.",
+      "start": 1109.56,
+      "duration": 1.14
+    },
+    {
+      "text": "Oh, great, thank you.",
+      "start": 1110.7,
+      "duration": 0.84
+    },
+    {
+      "text": "Yep, let's make some more rice.",
+      "start": 1111.54,
+      "duration": 2.26
+    },
+    {
+      "text": "Oh, the salad, the salad.",
+      "start": 1115.2,
+      "duration": 1.52
+    },
+    {
+      "text": "I'm making it.",
+      "start": 1116.72,
+      "duration": 0.82
+    },
+    {
+      "text": "Salad.",
+      "start": 1117.54,
+      "duration": 0.84
+    },
+    {
+      "text": "We gotta chop up a potato.",
+      "start": 1121.16,
+      "duration": 1.48
+    },
+    {
+      "text": "Tomato, tomato is what that is.",
+      "start": 1122.64,
+      "duration": 2.32
+    },
+    {
+      "text": "There you go.",
+      "start": 1125.0,
+      "duration": 0.84
+    },
+    {
+      "text": "I'll serve it, I'll serve it.",
+      "start": 1125.84,
+      "duration": 0.84
+    },
+    {
+      "text": "Go, go, go, go, go.",
+      "start": 1126.68,
+      "duration": 1.28
+    },
+    {
+      "text": "Woo!",
+      "start": 1127.96,
+      "duration": 0.84
+    },
+    {
+      "text": "Got it.",
+      "start": 1128.8,
+      "duration": 0.84
+    },
+    {
+      "text": "That was nice.",
+      "start": 1129.64,
+      "duration": 0.82
+    },
+    {
+      "text": "Goodness me.",
+      "start": 1130.46,
+      "duration": 0.84
+    },
+    {
+      "text": "Yo, that was sick nasty.",
+      "start": 1131.3,
+      "duration": 0.84
+    },
+    {
+      "text": "That was pretty terrific.",
+      "start": 1132.14,
+      "duration": 0.94
+    },
+    {
+      "text": "Whoa, we did super good.",
+      "start": 1133.08,
+      "duration": 1.64
+    },
+    {
+      "text": "It doesn't ever feel like it, but yeah.",
+      "start": 1134.72,
+      "duration": 2.8
+    },
+    {
+      "text": "Better luck next time.",
+      "start": 1137.52,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay.",
+      "start": 1138.36,
+      "duration": 0.84
+    },
+    {
+      "text": "Did we did it?",
+      "start": 1141.04,
+      "duration": 0.84
+    },
+    {
+      "text": "Was that the first world?",
+      "start": 1141.88,
+      "duration": 2.28
+    },
+    {
+      "text": "I think this is the boss.",
+      "start": 1144.16,
+      "duration": 1.32
+    },
+    {
+      "text": "Oh, shit.",
+      "start": 1145.48,
+      "duration": 0.84
+    },
+    {
+      "text": "Come back to Onionville.",
+      "start": 1148.36,
+      "duration": 1.12
+    },
+    {
+      "text": "All right.",
+      "start": 1149.48,
+      "duration": 1.4
+    },
+    {
+      "text": "Oh, you guys.",
+      "start": 1150.88,
+      "duration": 0.84
+    },
+    {
+      "text": "Well, my word, what an adventure you've been on,",
+      "start": 1151.72,
+      "duration": 2.12
+    },
+    {
+      "text": "and you've only just begun.",
+      "start": 1153.84,
+      "duration": 1.6
+    },
+    {
+      "text": "That's all I've heard.",
+      "start": 1155.44,
+      "duration": 1.24
+    },
+    {
+      "text": "You still have much to-",
+      "start": 1156.68,
+      "duration": 1.24
+    },
+    {
+      "text": "Sorry, learn about cooperation,",
+      "start": 1160.0,
+      "duration": 2.02
+    },
+    {
+      "text": "and we can only keep the un-bread at bay for so long.",
+      "start": 1162.02,
+      "duration": 3.22
+    },
+    {
+      "text": "Okay.",
+      "start": 1165.24,
+      "duration": 1.22
+    },
+    {
+      "text": "Head out into the wild country.",
+      "start": 1166.46,
+      "duration": 2.02
+    },
+    {
+      "text": "I hear there are flavors out there",
+      "start": 1168.48,
+      "duration": 1.4
+    },
+    {
+      "text": "that can satiate the most ravenous appetite.",
+      "start": 1169.88,
+      "duration": 2.3
+    },
+    {
+      "text": "Just dump water in them.",
+      "start": 1172.18,
+      "duration": 1.38
+    },
+    {
+      "text": "Ruins bread.",
+      "start": 1175.16,
+      "duration": 1.84
+    },
+    {
+      "text": "Bark.",
+      "start": 1177.0,
+      "duration": 1.16
+    },
+    {
+      "text": "Don't hurry me, but he's right.",
+      "start": 1178.16,
+      "duration": 2.88
+    },
+    {
+      "text": "You must go now, and bring back more delicious teamwork.",
+      "start": 1181.04,
+      "duration": 3.6
+    },
+    {
+      "text": "Bark.",
+      "start": 1184.64,
+      "duration": 1.08
+    },
+    {
+      "text": "There's no time to lose.",
+      "start": 1185.72,
+      "duration": 1.44
+    },
+    {
+      "text": "Glad that I got the best character in the game.",
+      "start": 1187.16,
+      "duration": 2.88
+    },
+    {
+      "text": "Let's get the fuck out of here.",
+      "start": 1190.04,
+      "duration": 2.28
+    },
+    {
+      "text": "I don't wanna talk to this fucking guy.",
+      "start": 1192.32,
+      "duration": 1.8
+    },
+    {
+      "text": "Schming, schming, bing, bing.",
+      "start": 1194.12,
+      "duration": 2.4
+    },
+    {
+      "text": "Oh, that was, we beat the first level, Arin.",
+      "start": 1196.52,
+      "duration": 2.04
+    },
+    {
+      "text": "Yeah, man, we're amazing.",
+      "start": 1198.56,
+      "duration": 0.84
+    },
+    {
+      "text": "Way to go.",
+      "start": 1199.4,
+      "duration": 1.56
+    },
+    {
+      "text": "Now we're in Water Town.",
+      "start": 1200.96,
+      "duration": 2.32
+    },
+    {
+      "text": "God, this game's adorable.",
+      "start": 1203.28,
+      "duration": 1.44
+    },
+    {
+      "text": "Press X to throw.",
+      "start": 1204.72,
+      "duration": 0.96
+    },
+    {
+      "text": "Only raw ingredients can be thrown.",
+      "start": 1205.68,
+      "duration": 1.24
+    },
+    {
+      "text": "Boy, oh, boy.",
+      "start": 1206.92,
+      "duration": 1.58
+    },
+    {
+      "text": "I don't wanna throw.",
+      "start": 1208.5,
+      "duration": 1.06
+    },
+    {
+      "text": "Press X to throw, okay.",
+      "start": 1210.56,
+      "duration": 2.72
+    },
+    {
+      "text": "Oh my God.",
+      "start": 1213.28,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, gee whiz.",
+      "start": 1214.12,
+      "duration": 1.08
+    },
+    {
+      "text": "All right.",
+      "start": 1215.2,
+      "duration": 0.84
+    },
+    {
+      "text": "I'm gonna throw shit to you?",
+      "start": 1216.04,
+      "duration": 0.84
+    },
+    {
+      "text": "Go, go.",
+      "start": 1216.88,
+      "duration": 1.28
+    },
+    {
+      "text": "Okay, have some chicken.",
+      "start": 1218.16,
+      "duration": 2.64
+    },
+    {
+      "text": "Oh, I dropped the chicken.",
+      "start": 1220.8,
+      "duration": 1.44
+    },
+    {
+      "text": "Okay, here's some potatoes.",
+      "start": 1222.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay. There you go.",
+      "start": 1224.24,
+      "duration": 1.1
+    },
+    {
+      "text": "Chop, chop, chop, chop, chop, chop.",
+      "start": 1225.34,
+      "duration": 0.84
+    },
+    {
+      "text": "I'll cook up some chicken.",
+      "start": 1226.18,
+      "duration": 1.02
+    },
+    {
+      "text": "Is this cooking chicken?",
+      "start": 1227.2,
+      "duration": 1.2
+    },
+    {
+      "text": "Do we have to chop the chicken?",
+      "start": 1228.4,
+      "duration": 1.56
+    },
+    {
+      "text": "Of course you have to chop the chicken.",
+      "start": 1230.96,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, this is a deep fryer.",
+      "start": 1231.8,
+      "duration": 1.32
+    },
+    {
+      "text": "Okay.",
+      "start": 1235.72,
+      "duration": 1.32
+    },
+    {
+      "text": "Do I deep fry the chicken?",
+      "start": 1237.04,
+      "duration": 1.28
+    },
+    {
+      "text": "I don't know.",
+      "start": 1238.32,
+      "duration": 0.82
+    },
+    {
+      "text": "I do.",
+      "start": 1239.66,
+      "duration": 0.84
+    },
+    {
+      "text": "I'm making chicken nuggets.",
+      "start": 1240.5,
+      "duration": 0.84
+    },
+    {
+      "text": "I'm patiently awaiting your instructions, sir.",
+      "start": 1241.34,
+      "duration": 2.6
+    },
+    {
+      "text": "Here's your fucking food stuffs.",
+      "start": 1243.94,
+      "duration": 2.0
+    },
+    {
+      "text": "Oops, I dropped it into the sea.",
+      "start": 1246.98,
+      "duration": 1.68
+    },
+    {
+      "text": "I dropped my nuggets into the entire ocean.",
+      "start": 1249.94,
+      "duration": 2.44
+    },
+    {
+      "text": "Oops, I threw it into the sea.",
+      "start": 1252.38,
+      "duration": 1.4
+    },
+    {
+      "text": "What the fuck is wrong with you?",
+      "start": 1253.78,
+      "duration": 1.28
+    },
+    {
+      "text": "I'm sorry.",
+      "start": 1255.06,
+      "duration": 0.84
+    },
+    {
+      "text": "I'm still getting the hang of this.",
+      "start": 1255.9,
+      "duration": 1.76
+    },
+    {
+      "text": "This is a little different.",
+      "start": 1257.66,
+      "duration": 1.32
+    },
+    {
+      "text": "I didn't expect to be throwing potatoes across the Amazon.",
+      "start": 1258.98,
+      "duration": 4.0
+    },
+    {
+      "text": "Here's some more potatoes.",
+      "start": 1266.04,
+      "duration": 1.66
+    },
+    {
+      "text": "You fucking guy.",
+      "start": 1267.7,
+      "duration": 1.08
+    },
+    {
+      "text": "Do you see how easy it is?",
+      "start": 1269.3,
+      "duration": 1.28
+    },
+    {
+      "text": "No, I caught it.",
+      "start": 1270.58,
+      "duration": 0.84
+    },
+    {
+      "text": "We're good.",
+      "start": 1271.42,
+      "duration": 0.82
+    },
+    {
+      "text": "Okay.",
+      "start": 1272.24,
+      "duration": 1.1
+    },
+    {
+      "text": "Definitely looked like it dropped into the Nile.",
+      "start": 1273.34,
+      "duration": 2.24
+    },
+    {
+      "text": "Oh, here's some chicken.",
+      "start": 1277.1,
+      "duration": 1.44
+    },
+    {
+      "text": "Thank you.",
+      "start": 1278.54,
+      "duration": 1.0
+    },
+    {
+      "text": "Here's some potato.",
+      "start": 1279.54,
+      "duration": 1.16
+    },
+    {
+      "text": "Here's some potato.",
+      "start": 1281.7,
+      "duration": 1.0
+    },
+    {
+      "text": "Some flavored potatoes.",
+      "start": 1284.14,
+      "duration": 2.52
+    },
+    {
+      "text": "Oh, here's some more potato.",
+      "start": 1286.66,
+      "duration": 1.62
+    },
+    {
+      "text": "Oh, oh, oh.",
+      "start": 1289.62,
+      "duration": 2.64
+    },
+    {
+      "text": "Chicken licking, bro.",
+      "start": 1292.26,
+      "duration": 1.5
+    },
+    {
+      "text": "All right.",
+      "start": 1295.38,
+      "duration": 1.36
+    },
+    {
+      "text": "Put it on a plate.",
+      "start": 1296.74,
+      "duration": 1.08
+    },
+    {
+      "text": "Serve it up like nuggies.",
+      "start": 1297.82,
+      "duration": 2.04
+    },
+    {
+      "text": "Oh, I threw it into the sea.",
+      "start": 1299.86,
+      "duration": 3.4
+    },
+    {
+      "text": "I need another potato.",
+      "start": 1303.26,
+      "duration": 1.6
+    },
+    {
+      "text": "It's okay, hold on.",
+      "start": 1304.86,
+      "duration": 1.76
+    },
+    {
+      "text": "You need a potato?",
+      "start": 1306.62,
+      "duration": 0.84
+    },
+    {
+      "text": "Yes.",
+      "start": 1307.46,
+      "duration": 0.84
+    },
+    {
+      "text": "I love that they just have like Buddy Rich",
+      "start": 1313.16,
+      "duration": 1.78
+    },
+    {
+      "text": "doing drum solos in the background.",
+      "start": 1314.94,
+      "duration": 1.76
+    },
+    {
+      "text": "It's like, okay, calm down.",
+      "start": 1319.9,
+      "duration": 1.4
+    },
+    {
+      "text": "Sorry, man.",
+      "start": 1323.06,
+      "duration": 0.84
+    },
+    {
+      "text": "I'm a front man who just happens to play drums.",
+      "start": 1323.9,
+      "duration": 2.48
+    },
+    {
+      "text": "Fuck.",
+      "start": 1327.34,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, no, we're good.",
+      "start": 1328.18,
+      "duration": 1.64
+    },
+    {
+      "text": "All right.",
+      "start": 1329.82,
+      "duration": 0.84
+    },
+    {
+      "text": "I don't know if you've ever seen footage",
+      "start": 1330.66,
+      "duration": 1.04
+    },
+    {
+      "text": "of Buddy Rich drumming, but he was awesome.",
+      "start": 1331.7,
+      "duration": 2.36
+    },
+    {
+      "text": "He was the original sa-ba-do-ba-da-ba-ba-ba guy.",
+      "start": 1335.74,
+      "duration": 2.8
+    },
+    {
+      "text": "Quite a showman.",
+      "start": 1339.78,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, boy.",
+      "start": 1340.62,
+      "duration": 0.96
+    },
+    {
+      "text": "I need-",
+      "start": 1343.3,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, sorry, here.",
+      "start": 1344.14,
+      "duration": 0.84
+    },
+    {
+      "text": "I need ingredients.",
+      "start": 1345.94,
+      "duration": 2.14
+    },
+    {
+      "text": "You only have nine seconds.",
+      "start": 1348.08,
+      "duration": 1.3
+    },
+    {
+      "text": "That's okay.",
+      "start": 1349.38,
+      "duration": 1.48
+    },
+    {
+      "text": "That's okay.",
+      "start": 1350.86,
+      "duration": 0.82
+    },
+    {
+      "text": "Oh my God.",
+      "start": 1351.68,
+      "duration": 1.14
+    },
+    {
+      "text": "That drum solo is crazy, dog.",
+      "start": 1352.82,
+      "duration": 2.52
+    },
+    {
+      "text": "There you go.",
+      "start": 1355.34,
+      "duration": 0.82
+    },
+    {
+      "text": "Serve it up.",
+      "start": 1356.8,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah, boy.",
+      "start": 1357.64,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah, boy.",
+      "start": 1358.48,
+      "duration": 0.84
+    },
+    {
+      "text": "We did it.",
+      "start": 1359.32,
+      "duration": 0.82
+    },
+    {
+      "text": "420.",
+      "start": 1360.14,
+      "duration": 0.84
+    },
+    {
+      "text": "No, we need to get to 520.",
+      "start": 1360.98,
+      "duration": 1.1
+    },
+    {
+      "text": "Oh, no.",
+      "start": 1362.08,
+      "duration": 0.84
+    },
+    {
+      "text": "Should we do it again to get three stars?",
+      "start": 1362.92,
+      "duration": 1.44
+    },
+    {
+      "text": "Of course we should.",
+      "start": 1364.36,
+      "duration": 0.84
+    },
+    {
+      "text": "Fuck yeah.",
+      "start": 1365.2,
+      "duration": 0.82
+    },
+    {
+      "text": "So now that you get it,",
+      "start": 1367.16,
+      "duration": 0.84
+    },
+    {
+      "text": "you're not gonna throw things into the entire ocean.",
+      "start": 1368.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1370.0,
+      "duration": 0.94
+    },
+    {
+      "text": "One time.",
+      "start": 1370.94,
+      "duration": 1.62
+    },
+    {
+      "text": "It was a couple times.",
+      "start": 1372.56,
+      "duration": 0.84
+    },
+    {
+      "text": "One time, four times.",
+      "start": 1373.4,
+      "duration": 0.96
+    },
+    {
+      "text": "Shut up.",
+      "start": 1375.36,
+      "duration": 0.84
+    },
+    {
+      "text": "Dab, dab, dab, dab, dab, dab, dab,",
+      "start": 1376.2,
+      "duration": 1.78
+    },
+    {
+      "text": "throw it back, throw it back, throw it back.",
+      "start": 1377.98,
+      "duration": 1.66
+    },
+    {
+      "text": "Fuck, I threw shit into the ocean.",
+      "start": 1379.64,
+      "duration": 2.16
+    },
+    {
+      "text": "Don't know potatoes, don't know.",
+      "start": 1381.8,
+      "duration": 1.94
+    },
+    {
+      "text": "Meat and potatoes, potatoes, meat and potatoes.",
+      "start": 1383.74,
+      "duration": 3.54
+    },
+    {
+      "text": "Meat and potatoes, meat and potatoes.",
+      "start": 1387.28,
+      "duration": 3.5
+    },
+    {
+      "text": "You gotta throw it back.",
+      "start": 1390.78,
+      "duration": 1.1
+    },
+    {
+      "text": "I'm a meat and potatoes man.",
+      "start": 1391.88,
+      "duration": 1.52
+    },
+    {
+      "text": "By which I mean, I'm actually coated",
+      "start": 1394.36,
+      "duration": 1.84
+    },
+    {
+      "text": "in meat and potatoes at all times.",
+      "start": 1396.2,
+      "duration": 2.08
+    },
+    {
+      "text": "I am a man made of meat and potatoes.",
+      "start": 1398.28,
+      "duration": 2.32
+    },
+    {
+      "text": "Shit.",
+      "start": 1401.64,
+      "duration": 1.2
+    },
+    {
+      "text": "Accidentally pressed B and now I can't not throw it.",
+      "start": 1402.84,
+      "duration": 2.6
+    },
+    {
+      "text": "Fuck, I dropped it in the sea.",
+      "start": 1408.72,
+      "duration": 2.28
+    },
+    {
+      "text": "Boy, when you start, like,",
+      "start": 1411.0,
+      "duration": 0.92
+    },
+    {
+      "text": "when your brain starts getting stuff backwards,",
+      "start": 1411.92,
+      "duration": 2.54
+    },
+    {
+      "text": "it's a disaster.",
+      "start": 1414.46,
+      "duration": 1.08
+    },
+    {
+      "text": "Ooh, nice fries, bro.",
+      "start": 1417.56,
+      "duration": 2.08
+    },
+    {
+      "text": "Thanks, dog.",
+      "start": 1419.64,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah.",
+      "start": 1420.48,
+      "duration": 0.82
+    },
+    {
+      "text": "Yeah.",
+      "start": 1423.74,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah.",
+      "start": 1424.58,
+      "duration": 0.82
+    },
+    {
+      "text": "Put that on there, throw it in.",
+      "start": 1429.68,
+      "duration": 2.44
+    },
+    {
+      "text": "Oh, you made the wrong thing.",
+      "start": 1432.12,
+      "duration": 1.6
+    },
+    {
+      "text": "I didn't make the wrong thing.",
+      "start": 1433.72,
+      "duration": 0.96
+    },
+    {
+      "text": "They all flash red for some reason.",
+      "start": 1434.68,
+      "duration": 1.9
+    },
+    {
+      "text": "Yeah.",
+      "start": 1436.58,
+      "duration": 0.84
+    },
+    {
+      "text": "What?",
+      "start": 1438.28,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah, when you make the wrong dish.",
+      "start": 1439.12,
+      "duration": 1.16
+    },
+    {
+      "text": "I didn't make the wrong dish.",
+      "start": 1440.28,
+      "duration": 1.12
+    },
+    {
+      "text": "They flash red.",
+      "start": 1441.4,
+      "duration": 1.72
+    },
+    {
+      "text": "Everybody wants something.",
+      "start": 1443.12,
+      "duration": 1.2
+    },
+    {
+      "text": "I saw a red flash.",
+      "start": 1444.32,
+      "duration": 1.84
+    },
+    {
+      "text": "Dan?",
+      "start": 1446.16,
+      "duration": 1.48
+    },
+    {
+      "text": "That means the wrong dish was made.",
+      "start": 1447.64,
+      "duration": 1.8
+    },
+    {
+      "text": "It's just, there's only one of us making dishes.",
+      "start": 1449.44,
+      "duration": 4.16
+    },
+    {
+      "text": "Shut up.",
+      "start": 1456.44,
+      "duration": 0.84
+    },
+    {
+      "text": "Potatoes, chicken, here, here's some more.",
+      "start": 1459.32,
+      "duration": 2.72
+    },
+    {
+      "text": "I'm literally fucking dying of boredom over here.",
+      "start": 1462.8,
+      "duration": 2.44
+    },
+    {
+      "text": "Oh no, our ingredients collided midair.",
+      "start": 1468.68,
+      "duration": 3.72
+    },
+    {
+      "text": "Didn't know that was a possibility.",
+      "start": 1472.4,
+      "duration": 1.32
+    },
+    {
+      "text": "Neither did I.",
+      "start": 1473.72,
+      "duration": 1.08
+    },
+    {
+      "text": "Oh no, I'm gonna lose the fries.",
+      "start": 1475.82,
+      "duration": 2.18
+    },
+    {
+      "text": "Oh, I didn't lose the fries.",
+      "start": 1478.0,
+      "duration": 0.84
+    },
+    {
+      "text": "It's just like when we were juggling at Cirque School.",
+      "start": 1478.84,
+      "duration": 1.88
+    },
+    {
+      "text": "Okay.",
+      "start": 1480.72,
+      "duration": 0.84
+    },
+    {
+      "text": "Do you need more throwing?",
+      "start": 1487.16,
+      "duration": 1.12
+    },
+    {
+      "text": "Here. Sure.",
+      "start": 1488.28,
+      "duration": 1.04
+    },
+    {
+      "text": "Oh, you son of a bitch.",
+      "start": 1489.32,
+      "duration": 1.16
+    },
+    {
+      "text": "Oh, I got it.",
+      "start": 1490.48,
+      "duration": 0.84
+    },
+    {
+      "text": "I knocked my chicken cutlets out of the sky.",
+      "start": 1491.44,
+      "duration": 1.92
+    },
+    {
+      "text": "Got close.",
+      "start": 1493.36,
+      "duration": 0.84
+    },
+    {
+      "text": "With your potato bombs.",
+      "start": 1494.2,
+      "duration": 1.08
+    },
+    {
+      "text": "Okay, throw that on there.",
+      "start": 1495.28,
+      "duration": 1.44
+    },
+    {
+      "text": "You absolute mad lad.",
+      "start": 1496.72,
+      "duration": 1.68
+    },
+    {
+      "text": "Okay, shit, I'm sorry, I'm awful.",
+      "start": 1498.4,
+      "duration": 3.96
+    },
+    {
+      "text": "No, I'm awful.",
+      "start": 1502.36,
+      "duration": 0.84
+    },
+    {
+      "text": "It's okay, you got 10 seconds.",
+      "start": 1503.2,
+      "duration": 0.84
+    },
+    {
+      "text": "I don't know if it's gonna cook in time.",
+      "start": 1504.04,
+      "duration": 2.04
+    },
+    {
+      "text": "Just do whatever you can.",
+      "start": 1506.08,
+      "duration": 1.68
+    },
+    {
+      "text": "I'll ride this one out over here.",
+      "start": 1507.76,
+      "duration": 2.44
+    },
+    {
+      "text": "On my mousemobile.",
+      "start": 1510.2,
+      "duration": 1.24
+    },
+    {
+      "text": "Shit, shit, shit, no.",
+      "start": 1511.44,
+      "duration": 1.94
+    },
+    {
+      "text": "What, we didn't make it either.",
+      "start": 1513.38,
+      "duration": 1.74
+    },
+    {
+      "text": "Fuck.",
+      "start": 1515.12,
+      "duration": 0.82
+    },
+    {
+      "text": "How is this possible?",
+      "start": 1515.94,
+      "duration": 0.84
+    },
+    {
+      "text": "We couldn't have gone any faster.",
+      "start": 1516.78,
+      "duration": 1.1
+    },
+    {
+      "text": "Exactly the same score.",
+      "start": 1517.88,
+      "duration": 1.28
+    },
+    {
+      "text": "What the fuck is wrong with us?",
+      "start": 1519.16,
+      "duration": 1.52
+    },
+    {
+      "text": "All right, let's give it one last try.",
+      "start": 1520.88,
+      "duration": 1.2
+    },
+    {
+      "text": "Holy shit.",
+      "start": 1522.08,
+      "duration": 1.32
+    },
+    {
+      "text": "One last try.",
+      "start": 1523.4,
+      "duration": 0.84
+    },
+    {
+      "text": "Here we go.",
+      "start": 1524.24,
+      "duration": 1.1
+    },
+    {
+      "text": "All right.",
+      "start": 1525.34,
+      "duration": 0.84
+    },
+    {
+      "text": "Might have something to do with that wrong dish",
+      "start": 1527.68,
+      "duration": 1.4
+    },
+    {
+      "text": "that someone made.",
+      "start": 1529.08,
+      "duration": 0.84
+    },
+    {
+      "text": "Dab, dab, dab, dab, dab, dab, dab, dab, dab, dab, dab.",
+      "start": 1529.92,
+      "duration": 2.68
+    },
+    {
+      "text": "I'm just feeling the fucking...",
+      "start": 1532.6,
+      "duration": 2.32
+    },
+    {
+      "text": "Chicken.",
+      "start": 1534.92,
+      "duration": 0.84
+    },
+    {
+      "text": "Ah, shit, throw that in there.",
+      "start": 1535.76,
+      "duration": 1.46
+    },
+    {
+      "text": "Taters, what's taters?",
+      "start": 1538.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Precious.",
+      "start": 1539.76,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay.",
+      "start": 1545.2,
+      "duration": 0.84
+    },
+    {
+      "text": "Taters.",
+      "start": 1546.04,
+      "duration": 0.82
+    },
+    {
+      "text": "Okay, we're good.",
+      "start": 1546.86,
+      "duration": 0.84
+    },
+    {
+      "text": "Needs plate.",
+      "start": 1547.7,
+      "duration": 1.04
+    },
+    {
+      "text": "Yeah, yeah, yeah, chill out.",
+      "start": 1548.74,
+      "duration": 1.22
+    },
+    {
+      "text": "Chicken.",
+      "start": 1550.28,
+      "duration": 0.84
+    },
+    {
+      "text": "Okay, we got nuggies going.",
+      "start": 1551.12,
+      "duration": 1.64
+    },
+    {
+      "text": "Chickens up.",
+      "start": 1552.76,
+      "duration": 1.68
+    },
+    {
+      "text": "Nuggies, or fries out.",
+      "start": 1554.44,
+      "duration": 1.76
+    },
+    {
+      "text": "Taters.",
+      "start": 1556.2,
+      "duration": 1.6
+    },
+    {
+      "text": "Fries out, fries back in.",
+      "start": 1557.8,
+      "duration": 3.32
+    },
+    {
+      "text": "Chicken.",
+      "start": 1561.12,
+      "duration": 0.84
+    },
+    {
+      "text": "Throw some taters, some nuggies.",
+      "start": 1561.96,
+      "duration": 2.8
+    },
+    {
+      "text": "Chicken out.",
+      "start": 1564.76,
+      "duration": 1.76
+    },
+    {
+      "text": "Put the chicken in.",
+      "start": 1566.52,
+      "duration": 0.88
+    },
+    {
+      "text": "Taters.",
+      "start": 1567.4,
+      "duration": 1.52
+    },
+    {
+      "text": "Put some, just...",
+      "start": 1568.92,
+      "duration": 0.82
+    },
+    {
+      "text": "Fuck, I threw the chicken into the sea.",
+      "start": 1569.74,
+      "duration": 1.5
+    },
+    {
+      "text": "It's okay.",
+      "start": 1571.24,
+      "duration": 0.84
+    },
+    {
+      "text": "I threw the fucking chicken in the trash.",
+      "start": 1572.08,
+      "duration": 2.92
+    },
+    {
+      "text": "Chicken of the sea is tuna.",
+      "start": 1575.0,
+      "duration": 1.44
+    },
+    {
+      "text": "I suppose it is.",
+      "start": 1577.28,
+      "duration": 2.84
+    },
+    {
+      "text": "A lot of people don't know that.",
+      "start": 1580.12,
+      "duration": 1.36
+    },
+    {
+      "text": "Yeah, I think most people know it.",
+      "start": 1581.48,
+      "duration": 2.24
+    },
+    {
+      "text": "Okay.",
+      "start": 1583.72,
+      "duration": 1.24
+    },
+    {
+      "text": "Dab, dab, dab, dab, dab, dab, dab.",
+      "start": 1584.96,
+      "duration": 0.84
+    },
+    {
+      "text": "Most people are idiots.",
+      "start": 1585.8,
+      "duration": 2.14
+    },
+    {
+      "text": "Here's some chicken, some chicken.",
+      "start": 1589.12,
+      "duration": 2.48
+    },
+    {
+      "text": "Were you waving at me?",
+      "start": 1591.6,
+      "duration": 1.08
+    },
+    {
+      "text": "I don't know.",
+      "start": 1592.68,
+      "duration": 0.84
+    },
+    {
+      "text": "Hello.",
+      "start": 1593.52,
+      "duration": 0.82
+    },
+    {
+      "text": "Chick, chick, chick, chick, put in the nuggs.",
+      "start": 1596.44,
+      "duration": 1.94
+    },
+    {
+      "text": "You just made something wrong.",
+      "start": 1598.38,
+      "duration": 1.84
+    },
+    {
+      "text": "What?",
+      "start": 1600.22,
+      "duration": 0.84
+    },
+    {
+      "text": "They all flash red.",
+      "start": 1601.06,
+      "duration": 0.84
+    },
+    {
+      "text": "What do you mean they all flash red?",
+      "start": 1601.9,
+      "duration": 1.9
+    },
+    {
+      "text": "Everybody wants the same thing.",
+      "start": 1603.8,
+      "duration": 1.8
+    },
+    {
+      "text": "I don't know.",
+      "start": 1605.6,
+      "duration": 0.84
+    },
+    {
+      "text": "I don't know what to tell you.",
+      "start": 1606.44,
+      "duration": 2.04
+    },
+    {
+      "text": "Oh, do I have to like put them out in order?",
+      "start": 1608.48,
+      "duration": 2.68
+    },
+    {
+      "text": "Oh yeah, I think that's what it is.",
+      "start": 1611.16,
+      "duration": 2.12
+    },
+    {
+      "text": "Oh shit.",
+      "start": 1613.28,
+      "duration": 1.48
+    },
+    {
+      "text": "That definitely explains our scores.",
+      "start": 1614.76,
+      "duration": 3.84
+    },
+    {
+      "text": "Okay, okay, that's fine.",
+      "start": 1618.6,
+      "duration": 1.4
+    },
+    {
+      "text": "What?",
+      "start": 1621.24,
+      "duration": 0.82
+    },
+    {
+      "text": "What the hell was that?",
+      "start": 1623.42,
+      "duration": 0.86
+    },
+    {
+      "text": "Oh, maybe you don't need to put them out in order.",
+      "start": 1624.28,
+      "duration": 1.32
+    },
+    {
+      "text": "This is strange.",
+      "start": 1625.6,
+      "duration": 1.44
+    },
+    {
+      "text": "Oh shit, I'm gonna throw you some more stuff to cut.",
+      "start": 1627.04,
+      "duration": 2.76
+    },
+    {
+      "text": "Thank you.",
+      "start": 1629.8,
+      "duration": 0.84
+    },
+    {
+      "text": "Duh, duh, duh, duh, duh, duh, duh, duh, duh, duh, duh.",
+      "start": 1630.64,
+      "duration": 5.0
+    },
+    {
+      "text": "I need to account for lost cuttage too,",
+      "start": 1636.4,
+      "duration": 2.28
+    },
+    {
+      "text": "for stuff lost to the sea.",
+      "start": 1638.68,
+      "duration": 1.54
+    },
+    {
+      "text": "Oh my God, we're fucking terrible at this.",
+      "start": 1641.28,
+      "duration": 2.2
+    },
+    {
+      "text": "I don't understand why those are the wrong dishes.",
+      "start": 1643.48,
+      "duration": 3.36
+    },
+    {
+      "text": "Dash, what's wrong with our dash?",
+      "start": 1646.84,
+      "duration": 1.96
+    },
+    {
+      "text": "Our dash is our top notch.",
+      "start": 1648.8,
+      "duration": 2.0
+    },
+    {
+      "text": "Do I have to?",
+      "start": 1653.24,
+      "duration": 1.16
+    },
+    {
+      "text": "Oh, they're not combined.",
+      "start": 1654.4,
+      "duration": 1.96
+    },
+    {
+      "text": "You have to combine the nuggies in the front.",
+      "start": 1656.36,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm a fucking idiot.",
+      "start": 1658.36,
+      "duration": 1.28
+    },
+    {
+      "text": "Oh, that's why we were failing constantly.",
+      "start": 1661.08,
+      "duration": 2.2
+    },
+    {
+      "text": "The drummer is like expressing his displeasure",
+      "start": 1664.28,
+      "duration": 2.26
+    },
+    {
+      "text": "with the franticness with which he's playing.",
+      "start": 1666.54,
+      "duration": 2.26
+    },
+    {
+      "text": "I am a moron, dude.",
+      "start": 1668.8,
+      "duration": 1.64
+    },
+    {
+      "text": "Wait, what do you mean you had to combine them?",
+      "start": 1670.44,
+      "duration": 2.04
+    },
+    {
+      "text": "I was just putting out a dish of fries",
+      "start": 1672.48,
+      "duration": 2.16
+    },
+    {
+      "text": "and a dish of nuggies,",
+      "start": 1674.64,
+      "duration": 1.48
+    },
+    {
+      "text": "but some people wanted nugs and fries on the same dish.",
+      "start": 1676.12,
+      "duration": 3.8
+    },
+    {
+      "text": "Oh.",
+      "start": 1679.92,
+      "duration": 0.84
+    },
+    {
+      "text": "Man, you fucked up.",
+      "start": 1683.42,
+      "duration": 1.1
+    },
+    {
+      "text": "I'm a moron.",
+      "start": 1684.52,
+      "duration": 1.2
+    },
+    {
+      "text": "It's okay, let's do it once more.",
+      "start": 1685.72,
+      "duration": 1.88
+    },
+    {
+      "text": "Well, really?",
+      "start": 1687.6,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah, we gotta get it right.",
+      "start": 1688.44,
+      "duration": 1.12
+    },
+    {
+      "text": "All right, cool.",
+      "start": 1689.56,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh my God, what a dipshit.",
+      "start": 1691.4,
+      "duration": 1.84
+    },
+    {
+      "text": "No, Arin.",
+      "start": 1693.24,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, fucking dip, dude.",
+      "start": 1694.08,
+      "duration": 2.56
+    },
+    {
+      "text": "I'm a serious dip.",
+      "start": 1696.64,
+      "duration": 1.52
+    },
+    {
+      "text": "Okay.",
+      "start": 1698.16,
+      "duration": 0.84
+    },
+    {
+      "text": "Dip, dip, dip, dip, dip, dip, dip, dip, dip, dip.",
+      "start": 1700.32,
+      "duration": 3.48
+    },
+    {
+      "text": "Here comes the chicken, the cutlets.",
+      "start": 1703.8,
+      "duration": 3.08
+    },
+    {
+      "text": "Whoops, put that in there.",
+      "start": 1706.88,
+      "duration": 1.72
+    },
+    {
+      "text": "You're making too much chicken.",
+      "start": 1709.72,
+      "duration": 1.0
+    },
+    {
+      "text": "No, so much chicken do I make.",
+      "start": 1710.72,
+      "duration": 1.96
+    },
+    {
+      "text": "I know, that's the problem.",
+      "start": 1713.64,
+      "duration": 1.4
+    },
+    {
+      "text": "Just the right amount of chicken.",
+      "start": 1716.26,
+      "duration": 2.5
+    },
+    {
+      "text": "Listen, you throw it onto my cutty boat,",
+      "start": 1718.8,
+      "duration": 1.92
+    },
+    {
+      "text": "it gets cut and thrown.",
+      "start": 1720.72,
+      "duration": 1.76
+    },
+    {
+      "text": "That's what happens.",
+      "start": 1722.48,
+      "duration": 1.24
+    },
+    {
+      "text": "Okay, okay.",
+      "start": 1724.84,
+      "duration": 0.84
+    },
+    {
+      "text": "Chick, chick, chick, chick, chick, chick, chick, chick.",
+      "start": 1726.72,
+      "duration": 3.44
+    },
+    {
+      "text": "Just waiting on stuff to cook.",
+      "start": 1730.16,
+      "duration": 1.4
+    },
+    {
+      "text": "Just waiting on stuff to cook.",
+      "start": 1731.56,
+      "duration": 1.6
+    },
+    {
+      "text": "I fucking threw it in the trash.",
+      "start": 1733.16,
+      "duration": 2.0
+    },
+    {
+      "text": "Why is the trash next to the dish?",
+      "start": 1735.16,
+      "duration": 1.8
+    },
+    {
+      "text": "Oh.",
+      "start": 1739.96,
+      "duration": 1.12
+    },
+    {
+      "text": "Oh, man.",
+      "start": 1741.08,
+      "duration": 1.0
+    },
+    {
+      "text": "Okay, chicken, let's cut this shit up.",
+      "start": 1743.48,
+      "duration": 2.12
+    },
+    {
+      "text": "Let's cut it up.",
+      "start": 1746.48,
+      "duration": 0.84
+    },
+    {
+      "text": "Boop, me mom.",
+      "start": 1748.32,
+      "duration": 1.52
+    },
+    {
+      "text": "Chicken, some fries.",
+      "start": 1749.84,
+      "duration": 1.72
+    },
+    {
+      "text": "Back over here, we better mouse and garden magazine.",
+      "start": 1751.56,
+      "duration": 4.24
+    },
+    {
+      "text": "I guess it's better home and garden, not house and garden.",
+      "start": 1755.8,
+      "duration": 2.12
+    },
+    {
+      "text": "Damn it.",
+      "start": 1757.92,
+      "duration": 0.84
+    },
+    {
+      "text": "Oh, well.",
+      "start": 1758.76,
+      "duration": 0.84
+    },
+    {
+      "text": "Whatever.",
+      "start": 1759.6,
+      "duration": 0.84
+    },
+    {
+      "text": "Good mouse keeping.",
+      "start": 1760.44,
+      "duration": 0.84
+    },
+    {
+      "text": "I got the joke.",
+      "start": 1761.28,
+      "duration": 0.82
+    },
+    {
+      "text": "That's what I meant.",
+      "start": 1762.1,
+      "duration": 0.84
+    },
+    {
+      "text": "It's all that matters.",
+      "start": 1762.94,
+      "duration": 0.82
+    },
+    {
+      "text": "Okay.",
+      "start": 1763.76,
+      "duration": 0.84
+    },
+    {
+      "text": "Good mouse keeping.",
+      "start": 1767.16,
+      "duration": 2.08
+    },
+    {
+      "text": "Here's some more potatoes.",
+      "start": 1769.24,
+      "duration": 2.08
+    },
+    {
+      "text": "Here's some more potatoes.",
+      "start": 1771.32,
+      "duration": 1.36
+    },
+    {
+      "text": "Some taters for you.",
+      "start": 1772.68,
+      "duration": 1.24
+    },
+    {
+      "text": "Oh, delightful taters.",
+      "start": 1774.84,
+      "duration": 1.28
+    },
+    {
+      "text": "I'm gonna put this chicken on here.",
+      "start": 1777.76,
+      "duration": 1.76
+    },
+    {
+      "text": "And I'm gonna put this potatoes right here.",
+      "start": 1780.6,
+      "duration": 2.92
+    },
+    {
+      "text": "And I'm gonna throw that potatoes out.",
+      "start": 1783.52,
+      "duration": 2.36
+    },
+    {
+      "text": "I can't imagine why our business isn't thriving.",
+      "start": 1785.88,
+      "duration": 2.76
+    },
+    {
+      "text": "Throw the fries onto the floor.",
+      "start": 1788.64,
+      "duration": 2.48
+    },
+    {
+      "text": "I'll get them.",
+      "start": 1791.12,
+      "duration": 1.0
+    },
+    {
+      "text": "Okay, okay.",
+      "start": 1795.72,
+      "duration": 2.28
+    },
+    {
+      "text": "Hey, man, I would go to this restaurant,",
+      "start": 1798.0,
+      "duration": 2.14
+    },
+    {
+      "text": "to be honest with you.",
+      "start": 1800.14,
+      "duration": 0.84
+    },
+    {
+      "text": "It looks fun.",
+      "start": 1800.98,
+      "duration": 0.82
+    },
+    {
+      "text": "It's fun.",
+      "start": 1801.8,
+      "duration": 1.3
+    },
+    {
+      "text": "Can you throw me some more shit?",
+      "start": 1803.1,
+      "duration": 1.38
+    },
+    {
+      "text": "Shit, I'm sorry.",
+      "start": 1804.48,
+      "duration": 1.12
+    },
+    {
+      "text": "It's okay.",
+      "start": 1805.6,
+      "duration": 0.84
+    },
+    {
+      "text": "Plenty of ingredients.",
+      "start": 1806.48,
+      "duration": 1.02
+    },
+    {
+      "text": "Okay.",
+      "start": 1807.5,
+      "duration": 0.84
+    },
+    {
+      "text": "Shit.",
+      "start": 1808.34,
+      "duration": 1.34
+    },
+    {
+      "text": "In.",
+      "start": 1809.68,
+      "duration": 1.28
+    },
+    {
+      "text": "In.",
+      "start": 1810.96,
+      "duration": 0.84
+    },
+    {
+      "text": "Yeah, yeah, here.",
+      "start": 1813.24,
+      "duration": 0.84
+    },
+    {
+      "text": "It's hot.",
+      "start": 1814.08,
+      "duration": 1.6
+    },
+    {
+      "text": "Hot.",
+      "start": 1815.68,
+      "duration": 1.22
+    },
+    {
+      "text": "Hot.",
+      "start": 1816.9,
+      "duration": 0.84
+    },
+    {
+      "text": "Cook it.",
+      "start": 1818.92,
+      "duration": 0.84
+    },
+    {
+      "text": "Cook it up.",
+      "start": 1819.76,
+      "duration": 0.84
+    },
+    {
+      "text": "Cook it up real nice.",
+      "start": 1820.6,
+      "duration": 0.96
+    },
+    {
+      "text": "Cook it up nice for daddy.",
+      "start": 1821.56,
+      "duration": 1.96
+    },
+    {
+      "text": "Wow, I don't,",
+      "start": 1823.52,
+      "duration": 1.04
+    },
+    {
+      "text": "I don't wanna jinx this,",
+      "start": 1826.3,
+      "duration": 0.98
+    },
+    {
+      "text": "but I think this might be our worst score ever.",
+      "start": 1827.28,
+      "duration": 2.52
+    },
+    {
+      "text": "What?",
+      "start": 1829.8,
+      "duration": 0.84
+    },
+    {
+      "text": "But I'm putting out food.",
+      "start": 1830.64,
+      "duration": 1.38
+    },
+    {
+      "text": "Shit.",
+      "start": 1833.36,
+      "duration": 1.32
+    },
+    {
+      "text": "Stop it.",
+      "start": 1834.68,
+      "duration": 0.84
+    },
+    {
+      "text": "It's burning.",
+      "start": 1835.56,
+      "duration": 1.26
+    },
+    {
+      "text": "Ah.",
+      "start": 1836.82,
+      "duration": 0.84
+    },
+    {
+      "text": "That was awful.",
+      "start": 1840.36,
+      "duration": 1.24
+    },
+    {
+      "text": "It's actually worse.",
+      "start": 1841.6,
+      "duration": 3.2
+    },
+    {
+      "text": "Holy shit.",
+      "start": 1844.8,
+      "duration": 1.24
+    },
+    {
+      "text": "We were doing better somehow",
+      "start": 1846.04,
+      "duration": 2.2
+    },
+    {
+      "text": "when you didn't know how to combine dishes.",
+      "start": 1848.24,
+      "duration": 2.16
+    },
+    {
+      "text": "All right, next time on Game Grumps.",
+      "start": 1852.04,
+      "duration": 2.4
+    },
+    {
+      "text": "Something completely different.",
+      "start": 1854.44,
+      "duration": 1.6
+    },
+    {
+      "text": "I'm gonna kitchen complete.",
+      "start": 1857.72,
+      "duration": 2.1
+    },
+    {
+      "text": "All right, see ya.",
+      "start": 1859.82,
+      "duration": 0.84
+    },
+    {
+      "text": "Bye.",
+      "start": 1860.66,
+      "duration": 0.82
+    }
+  ]
+}

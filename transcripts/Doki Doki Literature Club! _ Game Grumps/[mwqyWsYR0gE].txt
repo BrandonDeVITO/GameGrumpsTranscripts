@@ -1,0 +1,1088 @@
+{
+  "video_id": "mwqyWsYR0gE",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Hey, I'm grump,",
+      "start": 0.02,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm not so grump!",
+      "start": 1.02,
+      "duration": 1.12
+    },
+    {
+      "text": "And we're the Game Grumps!",
+      "start": 2.3,
+      "duration": 2.86
+    },
+    {
+      "text": "Arin: Welcome back to Game Grumps--\n(Dan interjects) Hello! -- everybody.",
+      "start": 5.4,
+      "duration": 1.84
+    },
+    {
+      "text": "A: My name is Arin, and this is Dan.",
+      "start": 7.99,
+      "duration": 1.881
+    },
+    {
+      "text": "D: I am Friend Dan.",
+      "start": 9.871,
+      "duration": 1.053
+    },
+    {
+      "text": "A: Friend Dan.",
+      "start": 10.924,
+      "duration": 0.776
+    },
+    {
+      "text": "A: Uh, where were we?",
+      "start": 13.09,
+      "duration": 0.965
+    },
+    {
+      "text": "D: Oh yes.",
+      "start": 14.055,
+      "duration": 0.745
+    },
+    {
+      "text": "A: Oh, so, uh...",
+      "start": 14.8,
+      "duration": 0.5
+    },
+    {
+      "text": "D: We were talking to Yuri, we just blew it with her a little bit--",
+      "start": 16.029,
+      "duration": 2.9
+    },
+    {
+      "text": "D: She knows we're an idiot, and now Monica has joined the conversation.",
+      "start": 18.93,
+      "duration": 3.67
+    },
+    {
+      "text": "A: But she can't sense human emotion, because she's a robot.",
+      "start": 22.6,
+      "duration": 2.9
+    },
+    {
+      "text": "D: That's correct. That's kind of our own fanfiction spin--",
+      "start": 25.5,
+      "duration": 1.7
+    },
+    {
+      "text": "A: I don't know, it could be real.",
+      "start": 27.2,
+      "duration": 1.989
+    },
+    {
+      "text": "A: \"Really, I wouldn't have expected that Yuri, for someone as gentle as you.\"",
+      "start": 29.619,
+      "duration": 4.97
+    },
+    {
+      "text": "D: \"I guess you could say that...\"",
+      "start": 35.469,
+      "duration": 2.0
+    },
+    {
+      "text": "D: \"But if a story makes me think or takes me to another world, then I really can't put it down.\"",
+      "start": 37.69,
+      "duration": 3.68
+    },
+    {
+      "text": "D: \"Surreal horror is often very successful at changing the way you look at the world if only for a brief moment.\"",
+      "start": 42.64,
+      "duration": 4.46
+    },
+    {
+      "text": "A: \"Ugh, I hate horror...\"",
+      "start": 47.62,
+      "duration": 2.62
+    },
+    {
+      "text": "D: \"Why is that?\"",
+      "start": 50.56,
+      "duration": 1.7
+    },
+    {
+      "text": "A: Cuz it's scary!",
+      "start": 52.27,
+      "duration": 1.769
+    },
+    {
+      "text": "A: Natsuki's eyes dart over me for a split second.",
+      "start": 54.039,
+      "duration": 3.28
+    },
+    {
+      "text": "A: \"Never mind!\"",
+      "start": 57.319,
+      "duration": 1.99
+    },
+    {
+      "text": "A: \"That's right. You usually like to write about cute things. Don't you Natsuki?\"",
+      "start": 60.34,
+      "duration": 4.0
+    },
+    {
+      "text": "A: \"WhaaAAAt!?\"",
+      "start": 64.58,
+      "duration": 2.0
+    },
+    {
+      "text": "A: \"What gives you that idea!?\"",
+      "start": 66.58,
+      "duration": 1.76
+    },
+    {
+      "text": "A: \"You left a piece of scrap paper behind last Club meeting. It looked like you were working on a poem called--\"",
+      "start": 68.36,
+      "duration": 5.76
+    },
+    {
+      "text": "A: \"Don't say it out loud!\"",
+      "start": 74.92,
+      "duration": 2.0
+    },
+    {
+      "text": "A: \"Give that back!\"",
+      "start": 76.92,
+      "duration": 1.96
+    },
+    {
+      "text": "A: [Robotic voice] \"Fine, fine.\"",
+      "start": 78.88,
+      "duration": 2.0
+    },
+    {
+      "text": "[Both laugh]\nD: [robotic voice] Processing fine.",
+      "start": 80.9,
+      "duration": 2.7
+    },
+    {
+      "text": "D: Ehehe, your cupcakes, your poems...",
+      "start": 85.58,
+      "duration": 1.76
+    },
+    {
+      "text": "D: Everything you do is just as cute as you are.",
+      "start": 87.58,
+      "duration": 2.0
+    },
+    {
+      "text": "A: [high pitched voice]\n SHUTTHEFUCKUP!",
+      "start": 89.58,
+      "duration": 0.78
+    },
+    {
+      "text": "D: I'm gunna sidle up behind you!",
+      "start": 91.44,
+      "duration": 1.52
+    },
+    {
+      "text": "A: \"Sayori sidles up behind Natsuki and puts her hands on her shoulders.\"",
+      "start": 93.18,
+      "duration": 4.34
+    },
+    {
+      "text": "D: \"Oh, my hand's on your shoulder...\"",
+      "start": 97.52,
+      "duration": 1.46
+    },
+    {
+      "text": "A: \"I'm not cute!\"",
+      "start": 98.98,
+      "duration": 1.46
+    },
+    {
+      "text": "A: \"Natsuki, you write your own poems?\"",
+      "start": 100.44,
+      "duration": 2.18
+    },
+    {
+      "text": "[Dan interjecting] \"You have cute shoulders...\"\n[both laugh]",
+      "start": 102.62,
+      "duration": 2.3
+    },
+    {
+      "text": "A: \"W-Well I guess sometimes...\"",
+      "start": 105.72,
+      "duration": 2.0
+    },
+    {
+      "text": "A: \"Why do you care?\"",
+      "start": 108.159,
+      "duration": 2.641
+    },
+    {
+      "text": "A: \"I think that's impressive. Why don't you share them sometime?\"",
+      "start": 110.8,
+      "duration": 2.388
+    },
+    {
+      "text": "A: \"N-No...\"",
+      "start": 114.13,
+      "duration": 1.47
+    },
+    {
+      "text": "A: \"Natsuki averts her eyes.\"",
+      "start": 115.6,
+      "duration": 2.0
+    },
+    {
+      "text": "A: \"You wouldn't like them--\"",
+      "start": 118.0,
+      "duration": 1.8
+    },
+    {
+      "text": "[Dan interjects] --when they're angry.\n[both laugh]",
+      "start": 120.2,
+      "duration": 2.1
+    },
+    {
+      "text": "A: \"Ah, not a very confident writer yet,\"\nand she's like, \"no, I was just starting telling you my poems.\"",
+      "start": 122.5,
+      "duration": 5.06
+    },
+    {
+      "text": "D: \"Yeah. Fuck you!\"",
+      "start": 127.56,
+      "duration": 0.539
+    },
+    {
+      "text": "D: \"I understand how Natsuki feels --\n I'm over here now\"",
+      "start": 128.22,
+      "duration": 2.339
+    },
+    {
+      "text": "D: \"Sharing that level of writing takes more than just confidence\"",
+      "start": 131.29,
+      "duration": 2.73
+    },
+    {
+      "text": "D: \"The truest form of writing is writing to oneself.\"",
+      "start": 135.11,
+      "duration": 2.39
+    },
+    {
+      "text": "A: Oh!  Wow.\nD: \"God, I wish I was Clifford the Big Red Dog...\"\n[laughter]",
+      "start": 138.2,
+      "duration": 3.7
+    },
+    {
+      "text": "You must be willing to open up to your readers",
+      "start": 142.4,
+      "duration": 2.09
+    },
+    {
+      "text": "Exposing your vulnerabilities and showing even the deepest reaches of your heart for example on the inside you might be a giant dog yeah",
+      "start": 144.68,
+      "duration": 7.13
+    },
+    {
+      "text": "Harden up with a big old dog heart, maybe you're red. I don't know just off the top of my head",
+      "start": 152.03,
+      "duration": 4.52
+    },
+    {
+      "text": "Do you have experience writing too, Yuri?",
+      "start": 156.55,
+      "duration": 2.309
+    },
+    {
+      "text": "Maybe if you share some of your work, you can set an example and help Natsuki feel comfortable enough to share hers",
+      "start": 160.1,
+      "duration": 5.689
+    },
+    {
+      "text": ".",
+      "start": 167.0,
+      "duration": 1.32
+    },
+    {
+      "text": ". . actually p- oh I",
+      "start": 168.32,
+      "duration": 2.569
+    },
+    {
+      "text": "I-I Was just gonna say like the the quotation marks with the with the three dots and then the other",
+      "start": 171.8,
+      "duration": 5.33
+    },
+    {
+      "text": "quotation marks look like a little monster face going",
+      "start": 177.2,
+      "duration": 2.33
+    },
+    {
+      "text": "Nyaar \"...\"",
+      "start": 179.53,
+      "duration": 1.51
+    },
+    {
+      "text": "That's cute, I guess it's the same for Yuri",
+      "start": 181.54,
+      "duration": 3.08
+    },
+    {
+      "text": "Aww, I wanted to read everyones poems.",
+      "start": 184.62,
+      "duration": 3.36
+    },
+    {
+      "text": "We all sit in silence for a moment. It's wildly uncomfortable, but the monika EXPLODES through the TV!",
+      "start": 188.38,
+      "duration": 6.62
+    },
+    {
+      "text": "Okay",
+      "start": 195.32,
+      "duration": 2.0
+    },
+    {
+      "text": "I have an idea everyone mm-hmm Nat and Yuri",
+      "start": 198.08,
+      "duration": 3.92
+    },
+    {
+      "text": "*Dinosaur noise*",
+      "start": 202.88,
+      "duration": 1.3
+    },
+    {
+      "text": "Natsuki and Yuri look quizzically it Monica. Let's all go home and write a poem of our own",
+      "start": 204.52,
+      "duration": 6.48
+    },
+    {
+      "text": "Then next time we meet we'll all share them with each other that way everyone is even. God, this is fucking hot!",
+      "start": 211.64,
+      "duration": 7.22
+    },
+    {
+      "text": "U-Um...",
+      "start": 218.86,
+      "duration": 2.0
+    },
+    {
+      "text": "Th-There it is there's the little monster face",
+      "start": 221.15,
+      "duration": 2.0
+    },
+    {
+      "text": "Nyeeh mreeh \"...\"",
+      "start": 223.15,
+      "duration": 1.47
+    },
+    {
+      "text": "uhh...",
+      "start": 224.94,
+      "duration": 0.64
+    },
+    {
+      "text": "Yeah! Let's do it!",
+      "start": 226.6,
+      "duration": 2.1
+    },
+    {
+      "text": "Plus! now that we have a new member,",
+      "start": 228.709,
+      "duration": 2.119
+    },
+    {
+      "text": "I think it will help us all get a little more comfortable with each other and strengthen the bond of the club. Let me just-",
+      "start": 230.829,
+      "duration": 6.24
+    },
+    {
+      "text": "Crinkle my neck for a second...",
+      "start": 237.47,
+      "duration": 2.0
+    },
+    {
+      "text": "*crinkleing neck noise*",
+      "start": 239.47,
+      "duration": 2.11
+    },
+    {
+      "text": "Processing...",
+      "start": 242.0,
+      "duration": 1.7
+    },
+    {
+      "text": "Processing pain",
+      "start": 243.7,
+      "duration": 2.04
+    },
+    {
+      "text": "Receiving pain- Ow! Cool. In order to distract you from you thinking that I am a robot and not a human,",
+      "start": 246.079,
+      "duration": 6.98
+    },
+    {
+      "text": "Please write poetry.",
+      "start": 254.78,
+      "duration": 2.0
+    },
+    {
+      "text": "I will not google poetry and bring in a printed-out copy of someone else's work",
+      "start": 257.539,
+      "duration": 4.97
+    },
+    {
+      "text": "Isn't that right FriendArin?",
+      "start": 263.69,
+      "duration": 2.0
+    },
+    {
+      "text": "Monika smiles warmly at me once again or at least an approximation if when smiling might look like, it's very uncanny valley",
+      "start": 266.46,
+      "duration": 6.44
+    },
+    {
+      "text": "Hold on. There's still one problem",
+      "start": 273.87,
+      "duration": 2.0
+    },
+    {
+      "text": "Eh, what's that?",
+      "start": 276.8,
+      "duration": 2.06
+    },
+    {
+      "text": "Where's the beeeeers?",
+      "start": 278.86,
+      "duration": 2.66
+    },
+    {
+      "text": "Now that we're back to the original topic of me joining the club,",
+      "start": 283.38,
+      "duration": 3.8
+    },
+    {
+      "text": "I bluntly come forth with what's been on my mind the entire time. Where's the blunt? I NEVER SAID I WOULD JOIN THIS CLUUUB!!",
+      "start": 287.3,
+      "duration": 8.14
+    },
+    {
+      "text": "*Colossally large inhale*",
+      "start": 295.44,
+      "duration": 1.7
+    },
+    {
+      "text": "Sayori may have convinced me to stop by, but I never made any decision! I'm just here for the cupcakes, and them hot",
+      "start": 297.14,
+      "duration": 7.86
+    },
+    {
+      "text": "nasty tats",
+      "start": 306.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm here-",
+      "start": 308.24,
+      "duration": 0.76
+    },
+    {
+      "text": "I'm here for the cupcakes and the multicolored hair. I still have other clubs to look at and... um...",
+      "start": 309.0,
+      "duration": 7.309
+    },
+    {
+      "text": "I lose my train of thought",
+      "start": 317.009,
+      "duration": 1.951
+    },
+    {
+      "text": "All four girls stare back at me with dejected eyes. Oh that is super sad actually",
+      "start": 318.96,
+      "duration": 6.199
+    },
+    {
+      "text": "But... B-but",
+      "start": 326.069,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm sorry, I thought",
+      "start": 329.12,
+      "duration": 2.0
+    },
+    {
+      "text": "We're all SINKING!",
+      "start": 332.0,
+      "duration": 2.0
+    },
+    {
+      "text": "HAAAALLP!!",
+      "start": 334.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Y-You all- oh, I'm sorry",
+      "start": 337.88,
+      "duration": 2.06
+    },
+    {
+      "text": "You all-  Ahh I'm defenseless against these girls! how am I supposed to make a clear headed decision when it's like this...",
+      "start": 339.94,
+      "duration": 7.38
+    },
+    {
+      "text": "I HATE GIRLS!",
+      "start": 347.38,
+      "duration": 2.0
+    },
+    {
+      "text": "That is if writing poems is the price I need to pay in order to spend every day with these beautiful girls",
+      "start": 349.4,
+      "duration": 6.56
+    },
+    {
+      "text": "right",
+      "start": 357.0,
+      "duration": 1.259
+    },
+    {
+      "text": "Okay, I've decided then, I'll join the literature Club.",
+      "start": 358.26,
+      "duration": 3.9
+    },
+    {
+      "text": "Now RISE!",
+      "start": 362.16,
+      "duration": 1.5
+    },
+    {
+      "text": "I fucking knew it!",
+      "start": 363.66,
+      "duration": 1.52
+    },
+    {
+      "text": "One by one the girls eyes light up!!",
+      "start": 365.18,
+      "duration": 2.08
+    },
+    {
+      "text": "But only one-",
+      "start": 367.5,
+      "duration": 1.44
+    },
+    {
+      "text": "Monikas *BWEEEEE*",
+      "start": 368.94,
+      "duration": 2.0
+    },
+    {
+      "text": "One by one the girls eyes light up first Monica's left eye,",
+      "start": 372.14,
+      "duration": 3.62
+    },
+    {
+      "text": "then her right eye!",
+      "start": 375.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Lighting right eye",
+      "start": 380.82,
+      "duration": 2.0
+    },
+    {
+      "text": "Wait",
+      "start": 383.9,
+      "duration": 0.94
+    },
+    {
+      "text": "Only a figure of a- of expression sayori wraps her arms around me jumping up and down",
+      "start": 385.4,
+      "duration": 5.22
+    },
+    {
+      "text": "He-Hey...",
+      "start": 391.5,
+      "duration": 1.62
+    },
+    {
+      "text": "You really did scare me for a moment.",
+      "start": 393.12,
+      "duration": 2.0
+    },
+    {
+      "text": "If you really just cared for the cupcakes I'd be super pissed.",
+      "start": 396.34,
+      "duration": 3.56
+    },
+    {
+      "text": "Then that makes it official. Eat my hair. Eat!",
+      "start": 400.74,
+      "duration": 4.44
+    },
+    {
+      "text": "*muffled hair eating noise*",
+      "start": 405.18,
+      "duration": 2.0
+    },
+    {
+      "text": "Welcome to the literature Club. Ah thanks, I guess... okay everyone, vanish!",
+      "start": 407.6,
+      "duration": 6.95
+    },
+    {
+      "text": "I Think with that we can officially end today's meeting on a good note. everyone remember tonight's assignment",
+      "start": 417.77,
+      "duration": 5.75
+    },
+    {
+      "text": "Write a poem to bring to the next meeting so we can all share",
+      "start": 424.16,
+      "duration": 3.42
+    },
+    {
+      "text": "Monika looks over at me once more. FriendArin, I look forward to seeing how you express yourself!",
+      "start": 428.7,
+      "duration": 6.2
+    },
+    {
+      "text": "Ehehehehehehe",
+      "start": 435.34,
+      "duration": 2.44
+    },
+    {
+      "text": "Tilda",
+      "start": 437.78,
+      "duration": 0.96
+    },
+    {
+      "text": "Hahahaha Tilt!",
+      "start": 440.82,
+      "duration": 2.0
+    },
+    {
+      "text": "Y-Yeah, can I really impress the class star Monica with my mediocre writing skills?",
+      "start": 443.74,
+      "duration": 5.42
+    },
+    {
+      "text": "I already feel the anxiety welling up inside me meanwhile the girls continue to chit",
+      "start": 449.17,
+      "duration": 5.669
+    },
+    {
+      "text": "Chat is Yuri and Natsuki clean up their food",
+      "start": 454.84,
+      "duration": 3.0
+    },
+    {
+      "text": "Hey, FriendArin, since we're already here. Do you want to walk home together",
+      "start": 458.75,
+      "duration": 3.14
+    },
+    {
+      "text": "That's right,",
+      "start": 462.11,
+      "duration": 1.52
+    },
+    {
+      "text": "Sayori and I never walk home together anymore because she always stayed after school for clubs! stupid clubs that no one would ever want to join",
+      "start": 463.63,
+      "duration": 6.839
+    },
+    {
+      "text": "Sure! might as well. I mean what better shit do I have to do...",
+      "start": 470.84,
+      "duration": 4.96
+    },
+    {
+      "text": "Hang out with your stupid-ass",
+      "start": 476.06,
+      "duration": 2.0
+    },
+    {
+      "text": "yaaay!",
+      "start": 478.06,
+      "duration": 0.97
+    },
+    {
+      "text": "With that the two of us depart the club room and make our way home",
+      "start": 479.03,
+      "duration": 3.73
+    },
+    {
+      "text": "The whole way my mind wanders back and forth between the four girls.",
+      "start": 483.46,
+      "duration": 4.46
+    },
+    {
+      "text": "Sayori, Natsuki, Yuri, and robot!",
+      "start": 488.16,
+      "duration": 5.74
+    },
+    {
+      "text": "Will I re-",
+      "start": 495.34,
+      "duration": 1.04
+    },
+    {
+      "text": "Will I really be happy sending ev- spending every day after school in a Literature club?",
+      "start": 496.86,
+      "duration": 6.18
+    },
+    {
+      "text": "Perhaps, I'll have the chance to grow closer one of these girls.",
+      "start": 503.28,
+      "duration": 3.78
+    },
+    {
+      "text": "Perhaps I'll have a choice to grow closer to one of these girls. I just need to make most of my circumstances",
+      "start": 507.07,
+      "duration": 5.01
+    },
+    {
+      "text": "Make- make the most of my circumstances",
+      "start": 512.9,
+      "duration": 2.599
+    },
+    {
+      "text": "And I'm sure good fortune will find me and I guess that starts with writing a poem tonight",
+      "start": 515.5,
+      "duration": 6.3
+    },
+    {
+      "text": "oh boy...",
+      "start": 523.28,
+      "duration": 1.06
+    },
+    {
+      "text": "It's time to write a poem!",
+      "start": 524.68,
+      "duration": 2.34
+    },
+    {
+      "text": "Pick words you think your favourite Club member would like something good might happen with whoever likes your palm the most.",
+      "start": 527.02,
+      "duration": 4.109
+    },
+    {
+      "text": "oohh... um...",
+      "start": 531.129,
+      "duration": 1.511
+    },
+    {
+      "text": "Fluffy",
+      "start": 532.64,
+      "duration": 1.2
+    },
+    {
+      "text": "Okay, so who should we appease?",
+      "start": 533.84,
+      "duration": 2.57
+    },
+    {
+      "text": "Oh it tells you which girl- they would like it right? No? I think that they're just bouncing around okay",
+      "start": 537.5,
+      "duration": 5.419
+    },
+    {
+      "text": "They are bouncing right so so like I guess Sayori would probably like fireflies.",
+      "start": 542.92,
+      "duration": 5.66
+    },
+    {
+      "text": "And then Natsuki would like pink and fluffy... which girl do you like the most?",
+      "start": 548.58,
+      "duration": 3.24
+    },
+    {
+      "text": "I don't know. That's the thing! You are a FriendArin! You must decide! Yuri likes... I guess...",
+      "start": 552.07,
+      "duration": 5.7
+    },
+    {
+      "text": "Well, she's sort of negative, so she's probably grief. Yuri? yeah, she's the dark one and then Monica is...",
+      "start": 558.41,
+      "duration": 6.109
+    },
+    {
+      "text": "So who should we go after? I don't know I like I like Sayori the most.",
+      "start": 565.72,
+      "duration": 3.82
+    },
+    {
+      "text": "Sayori? Yeah, ok so she's like wonderful and sunset. Yay!",
+      "start": 569.54,
+      "duration": 3.3
+    },
+    {
+      "text": "I bet she's incongruent",
+      "start": 573.68,
+      "duration": 2.0
+    },
+    {
+      "text": "Congruent. I know- I don't know what- yeah",
+      "start": 575.84,
+      "duration": 2.839
+    },
+    {
+      "text": "How come you can't appease Monica?",
+      "start": 579.8,
+      "duration": 2.0
+    },
+    {
+      "text": "That's interesting. Uh, because she's a robot. Yeah doki-doki that's-",
+      "start": 582.04,
+      "duration": 5.3
+    },
+    {
+      "text": "Incongruent, that's smart. Are you saying I have a problem shitting?",
+      "start": 587.38,
+      "duration": 3.02
+    },
+    {
+      "text": "Disarray journey breathe, oh! That was an incontinent joke",
+      "start": 590.92,
+      "duration": 2.96
+    },
+    {
+      "text": "disaster...",
+      "start": 595.07,
+      "duration": 1.95
+    },
+    {
+      "text": "color? color. Yeee",
+      "start": 597.02,
+      "duration": 2.92
+    },
+    {
+      "text": "Sayori liked that one! She's the happy girl for sure bouncy! Oh thats Natsuki...",
+      "start": 599.94,
+      "duration": 3.32
+    },
+    {
+      "text": "shiny? That's probably Natsuki too...",
+      "start": 603.86,
+      "duration": 2.0
+    },
+    {
+      "text": "Promise yeah, *Weeb noise*. What?",
+      "start": 605.9,
+      "duration": 4.02
+    },
+    {
+      "text": "That means promise in Japanese... Oh yeah! ok!",
+      "start": 609.92,
+      "duration": 2.84
+    },
+    {
+      "text": "PAPA!",
+      "start": 613.54,
+      "duration": 0.94
+    },
+    {
+      "text": "Dammit",
+      "start": 614.82,
+      "duration": 0.74
+    },
+    {
+      "text": "GIGGLE!",
+      "start": 616.3,
+      "duration": 0.82
+    },
+    {
+      "text": "Papa...",
+      "start": 617.82,
+      "duration": 0.96
+    },
+    {
+      "text": "I love it when you call me big papa...",
+      "start": 619.62,
+      "duration": 3.98
+    },
+    {
+      "text": "umm...",
+      "start": 624.14,
+      "duration": 0.74
+    },
+    {
+      "text": "Whistle dammit! fucking Natsukis all over the place",
+      "start": 625.1,
+      "duration": 3.62
+    },
+    {
+      "text": "umm...",
+      "start": 628.98,
+      "duration": 0.68
+    },
+    {
+      "text": "Parfait. landsc- Parfait? I think that's probably Natsuki as well. really? oh, you're right because she makes cupcakes.",
+      "start": 630.2,
+      "duration": 5.98
+    },
+    {
+      "text": "nightgown",
+      "start": 637.649,
+      "duration": 1.68
+    },
+    {
+      "text": "Kitty! jesus fucking Natsuki takes all the words um",
+      "start": 639.329,
+      "duration": 3.619
+    },
+    {
+      "text": "Embrace? that's probably Sayori right? yeah!",
+      "start": 643.8,
+      "duration": 2.69
+    },
+    {
+      "text": "Laugh or silly",
+      "start": 648.389,
+      "duration": 2.0
+    },
+    {
+      "text": "Silly is definitely Natsuki. Oh really? yeah. I think bliss is probably Sayori let's try it",
+      "start": 650.879,
+      "duration": 6.92
+    },
+    {
+      "text": "Yeah, boy",
+      "start": 658.8,
+      "duration": 2.0
+    },
+    {
+      "text": "Climax",
+      "start": 661.439,
+      "duration": 1.2
+    },
+    {
+      "text": "Death let's go ahead with climax. Yeah",
+      "start": 662.639,
+      "duration": 2.299
+    },
+    {
+      "text": "Good for you yuri",
+      "start": 665.91,
+      "duration": 1.77
+    },
+    {
+      "text": "Cheeks yeah time puppy sui- what?",
+      "start": 667.68,
+      "duration": 4.13
+    },
+    {
+      "text": "S- puppy suicide! Puppy!",
+      "start": 672.68,
+      "duration": 2.6
+    },
+    {
+      "text": "the name of my indie band was born. uhh...",
+      "start": 675.44,
+      "duration": 3.44
+    },
+    {
+      "text": "Star scape awesome. Yeah",
+      "start": 679.52,
+      "duration": 2.92
+    },
+    {
+      "text": "um.. Unrequited I use that word in a rhyme! yeah, in Star Bomb! I'm gonna use that nice",
+      "start": 684.18,
+      "duration": 5.599
+    },
+    {
+      "text": "Unrestrained",
+      "start": 691.64,
+      "duration": 1.74
+    },
+    {
+      "text": "flee...",
+      "start": 693.38,
+      "duration": 0.98
+    },
+    {
+      "text": "Oh boy, mmm she's getting dark- and probably flower or party... or flower- flower- flower is Natsuki... for sure party is probably yeah, yeah",
+      "start": 694.88,
+      "duration": 7.24
+    },
+    {
+      "text": "Nibble vertigo Oh excellent",
+      "start": 703.68,
+      "duration": 2.62
+    },
+    {
+      "text": "Imagination waterfall, I can't believe it just said that is one of my favorite phrases ever... my god... vivid sweet and wrath what about Boop!",
+      "start": 707.64,
+      "duration": 8.86
+    },
+    {
+      "text": "BOOP!",
+      "start": 716.7,
+      "duration": 1.0
+    },
+    {
+      "text": "dammit!",
+      "start": 718.06,
+      "duration": 0.74
+    },
+    {
+      "text": "I don't want to boop you!",
+      "start": 719.4,
+      "duration": 2.0
+    },
+    {
+      "text": "Hello again FriendArin.",
+      "start": 721.47,
+      "duration": 2.0
+    },
+    {
+      "text": "Glad to see you didn't run away on us ha ha ha",
+      "start": 723.87,
+      "duration": 3.649
+    },
+    {
+      "text": "This is day two.",
+      "start": 729.0,
+      "duration": 1.769
+    },
+    {
+      "text": "Next time on Game Grumps. Nah! don't worry. Oh, man I- alright. I'm in... I'm in to this. All right! all right! let's-",
+      "start": 730.769,
+      "duration": 7.669
+    },
+    {
+      "text": "I'm like I'm genuinely emotionally invested now,  alright let's keep going, keep going. Let's keep doing this. I am very excited. This happens every fucking time",
+      "start": 738.439,
+      "duration": 5.94
+    },
+    {
+      "text": "Yeah, dude. Well the story's gonna really pick up pretty soon. excellent!",
+      "start": 744.38,
+      "duration": 3.269
+    },
+    {
+      "text": "Alright bye. I'm just gunna keep saying that after every episode!",
+      "start": 749.02,
+      "duration": 2.84
+    },
+    {
+      "text": "it's not... like nothing changes.",
+      "start": 751.86,
+      "duration": 3.04
+    },
+    {
+      "text": "Thats awesome!",
+      "start": 754.9,
+      "duration": 1.68
+    },
+    {
+      "text": "Fucking love it",
+      "start": 758.9,
+      "duration": 2.0
+    }
+  ]
+}

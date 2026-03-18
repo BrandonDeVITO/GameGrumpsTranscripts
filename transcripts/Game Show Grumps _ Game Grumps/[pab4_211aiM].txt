@@ -1,0 +1,4583 @@
+{
+  "video_id": "pab4_211aiM",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Hey everybody, welcome!",
+      "start": 0.0,
+      "duration": 1.32
+    },
+    {
+      "text": "Hello there!",
+      "start": 1.32,
+      "duration": 1.06
+    },
+    {
+      "text": "We're doing a little react, it's been a while, and we really wanted to do this because everybody seems to like them,",
+      "start": 2.38,
+      "duration": 4.86
+    },
+    {
+      "text": "so we're gonna do it again.",
+      "start": 7.24,
+      "duration": 1.4
+    },
+    {
+      "text": "And Space Bear has provided us with a wonderful compilation of funny Wheel of Fortune guesses.",
+      "start": 8.64,
+      "duration": 5.96
+    },
+    {
+      "text": "Thank you, Bears of Space.",
+      "start": 14.6,
+      "duration": 1.36
+    },
+    {
+      "text": "Which...",
+      "start": 15.96,
+      "duration": 1.28
+    },
+    {
+      "text": "is probably, like, the sleeper hit of our channel?",
+      "start": 17.24,
+      "duration": 2.96
+    },
+    {
+      "text": "I didn't know that until recently.",
+      "start": 20.2,
+      "duration": 2.0
+    },
+    {
+      "text": "People really love Wheel of Fortune.",
+      "start": 22.2,
+      "duration": 1.92
+    },
+    {
+      "text": "Yeah, yeah. We've become synonymous with certain games, and it's changed throughout the years.",
+      "start": 24.12,
+      "duration": 4.96
+    },
+    {
+      "text": "Wheel of Fortune's definitely one of them.",
+      "start": 29.08,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah. So let's check out how funny we are, Dan.",
+      "start": 31.08,
+      "duration": 3.6
+    },
+    {
+      "text": "This isn't one turn we want to lose-",
+      "start": 34.68,
+      "duration": 2.0
+    },
+    {
+      "text": "BORF!",
+      "start": 36.68,
+      "duration": 1.84
+    },
+    {
+      "text": "My coffee!",
+      "start": 38.52,
+      "duration": 2.0
+    },
+    {
+      "text": "Tasty.",
+      "start": 40.52,
+      "duration": 1.2
+    },
+    {
+      "text": "Is it tosto-ooh-toh-oohs?",
+      "start": 41.72,
+      "duration": 4.0
+    },
+    {
+      "text": "Spin.",
+      "start": 45.72,
+      "duration": 4.0
+    },
+    {
+      "text": "Yes, there are 18 O's.",
+      "start": 49.72,
+      "duration": 2.0
+    },
+    {
+      "text": "Spin please.",
+      "start": 51.72,
+      "duration": 2.0
+    },
+    {
+      "text": "Is it- is it- all I know is that she's all about that bass, no treble.",
+      "start": 53.72,
+      "duration": 3.52
+    },
+    {
+      "text": "Yeah, well...",
+      "start": 57.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, Bite Me, I'm Meghan Trainor.",
+      "start": 59.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I think I'm a waiter.",
+      "start": 61.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Carrot dangling in front of you.",
+      "start": 63.24,
+      "duration": 6.0
+    },
+    {
+      "text": "I love me, uh, Meghan Trainor.",
+      "start": 69.24,
+      "duration": 6.0
+    },
+    {
+      "text": "Why?",
+      "start": 75.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I love me, my Meghan Trainor.",
+      "start": 77.24,
+      "duration": 4.0
+    },
+    {
+      "text": "I don't understand, I'm Meghan Trainor.",
+      "start": 81.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Buy! Buy!",
+      "start": 83.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's a song, I call that off with my Meghan Trainor.",
+      "start": 85.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's a song, I call that off with my Meghan Trainor.",
+      "start": 87.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay, here, pause for one second.",
+      "start": 89.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Weird Al is a treasure.",
+      "start": 91.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Um, it was so exciting",
+      "start": 93.24,
+      "duration": 2.0
+    },
+    {
+      "text": "to have him on the show, maybe",
+      "start": 95.24,
+      "duration": 2.0
+    },
+    {
+      "text": "one of the most, if not the most,",
+      "start": 97.24,
+      "duration": 2.0
+    },
+    {
+      "text": "like, thrilling, uh,",
+      "start": 99.24,
+      "duration": 2.0
+    },
+    {
+      "text": "person I've met as a result",
+      "start": 101.24,
+      "duration": 2.0
+    },
+    {
+      "text": "of grumps, you know?",
+      "start": 103.24,
+      "duration": 2.0
+    },
+    {
+      "text": "So having him on the show is a dream come true.",
+      "start": 105.24,
+      "duration": 2.0
+    },
+    {
+      "text": "And nothing makes",
+      "start": 107.24,
+      "duration": 2.0
+    },
+    {
+      "text": "me laugh more than the moment",
+      "start": 109.24,
+      "duration": 2.0
+    },
+    {
+      "text": "where we're showing",
+      "start": 111.24,
+      "duration": 2.0
+    },
+    {
+      "text": "him just how stupid we are.",
+      "start": 113.24,
+      "duration": 2.0
+    },
+    {
+      "text": "And he's like,",
+      "start": 115.24,
+      "duration": 2.0
+    },
+    {
+      "text": "and it's so funny",
+      "start": 119.24,
+      "duration": 2.0
+    },
+    {
+      "text": "to have someone who's created stuff",
+      "start": 121.24,
+      "duration": 2.0
+    },
+    {
+      "text": "that you've looked up to your whole life,",
+      "start": 123.24,
+      "duration": 2.0
+    },
+    {
+      "text": "and you're just like, man, I'm genuinely",
+      "start": 125.24,
+      "duration": 2.0
+    },
+    {
+      "text": "annoying this really nice person, because",
+      "start": 127.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm too dumb to figure out a two-letter word.",
+      "start": 129.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, so",
+      "start": 131.24,
+      "duration": 2.0
+    },
+    {
+      "text": "he knew it? Oh, yeah, he",
+      "start": 133.24,
+      "duration": 2.0
+    },
+    {
+      "text": "knew it, like, probably 20",
+      "start": 135.24,
+      "duration": 2.0
+    },
+    {
+      "text": "minutes before we did. Oh, okay.",
+      "start": 137.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, but he was being,",
+      "start": 139.24,
+      "duration": 2.0
+    },
+    {
+      "text": "like, we're all the same person.",
+      "start": 141.24,
+      "duration": 2.0
+    },
+    {
+      "text": "But we were, like, bogarding the",
+      "start": 145.24,
+      "duration": 2.0
+    },
+    {
+      "text": "we just, yeah, yeah, it was our turn.",
+      "start": 147.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That's funny. Oh, man.",
+      "start": 149.24,
+      "duration": 2.0
+    },
+    {
+      "text": "But, like, it's okay.",
+      "start": 151.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh, we're still buds.",
+      "start": 153.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah. And he sends us Christmas cards",
+      "start": 155.24,
+      "duration": 2.0
+    },
+    {
+      "text": "every now and then. That's true. He's a sweet.",
+      "start": 157.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Every now and then. Every Christmas. Christmas, mostly.",
+      "start": 159.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 161.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Go to solve here. It's the",
+      "start": 163.24,
+      "duration": 2.0
+    },
+    {
+      "text": "left button. Left button, yes.",
+      "start": 165.24,
+      "duration": 2.0
+    },
+    {
+      "text": "There we go. And then, uh,",
+      "start": 167.24,
+      "duration": 2.0
+    },
+    {
+      "text": "and then put it in as normal. Yes.",
+      "start": 169.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Son of a bee sting, man.",
+      "start": 171.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I thought, I didn't look at the category",
+      "start": 173.24,
+      "duration": 2.0
+    },
+    {
+      "text": "of what type of",
+      "start": 175.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, man.",
+      "start": 177.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Is it can I love but I fart?",
+      "start": 179.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Can I love",
+      "start": 181.24,
+      "duration": 2.0
+    },
+    {
+      "text": "but I fart?",
+      "start": 183.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Inspection.",
+      "start": 185.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Ah.",
+      "start": 187.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Scorpion inspection.",
+      "start": 189.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Shit, I thought it was service inspection,",
+      "start": 191.24,
+      "duration": 2.0
+    },
+    {
+      "text": "but now I don't know.",
+      "start": 193.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Scorpion inspection.",
+      "start": 195.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Um,",
+      "start": 199.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Purp, purp, nip.",
+      "start": 201.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Slurp, slurpning",
+      "start": 203.24,
+      "duration": 2.0
+    },
+    {
+      "text": "inspection.",
+      "start": 205.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Por, por,",
+      "start": 207.24,
+      "duration": 2.0
+    },
+    {
+      "text": "por, parsnip inspection.",
+      "start": 209.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Parpeeeel",
+      "start": 213.24,
+      "duration": 2.0
+    },
+    {
+      "text": "inspection.",
+      "start": 215.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Can we pause for one second?",
+      "start": 217.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I just really love the idea",
+      "start": 219.24,
+      "duration": 2.0
+    },
+    {
+      "text": "of scorpion inspection.",
+      "start": 221.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Where, like,",
+      "start": 223.24,
+      "duration": 2.0
+    },
+    {
+      "text": "he's just holding it by the tail, like,",
+      "start": 225.24,
+      "duration": 2.0
+    },
+    {
+      "text": "ah, like,",
+      "start": 227.24,
+      "duration": 2.0
+    },
+    {
+      "text": "it keeps happening.",
+      "start": 229.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I hate this job.",
+      "start": 231.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah. 100%",
+      "start": 233.24,
+      "duration": 2.0
+    },
+    {
+      "text": "of scorpions have stingy tails.",
+      "start": 235.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Inspection complete.",
+      "start": 237.24,
+      "duration": 2.0
+    },
+    {
+      "text": "They don't need to be inspected.",
+      "start": 239.24,
+      "duration": 2.0
+    },
+    {
+      "text": "We've already done the math.",
+      "start": 241.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay, cool.",
+      "start": 243.24,
+      "duration": 2.0
+    },
+    {
+      "text": "One million. Oh my god.",
+      "start": 245.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Damn, son.",
+      "start": 247.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh,",
+      "start": 249.24,
+      "duration": 2.0
+    },
+    {
+      "text": "yes, please. Well, it's obviously fucking",
+      "start": 251.24,
+      "duration": 2.0
+    },
+    {
+      "text": "pineapple.",
+      "start": 253.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Really? Yeah.",
+      "start": 255.24,
+      "duration": 2.0
+    },
+    {
+      "text": "One?",
+      "start": 257.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, at least I got a million dollars.",
+      "start": 259.24,
+      "duration": 2.0
+    },
+    {
+      "text": "What about it makes it look like pineapple?",
+      "start": 261.24,
+      "duration": 2.0
+    },
+    {
+      "text": "The first one. Wouldn't",
+      "start": 263.24,
+      "duration": 2.0
+    },
+    {
+      "text": "the peas in pineapple also",
+      "start": 265.24,
+      "duration": 2.0
+    },
+    {
+      "text": "have come up?",
+      "start": 267.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 271.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright.",
+      "start": 273.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I was just joking.",
+      "start": 275.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Duh.",
+      "start": 277.24,
+      "duration": 2.0
+    },
+    {
+      "text": "But I can't, come on.",
+      "start": 279.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I thought I was being serious about",
+      "start": 281.24,
+      "duration": 2.0
+    },
+    {
+      "text": "pineapples.",
+      "start": 283.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, jeez.",
+      "start": 285.24,
+      "duration": 2.0
+    },
+    {
+      "text": "At least I got the million.",
+      "start": 287.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Fuck.",
+      "start": 289.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Pretzels",
+      "start": 291.24,
+      "duration": 2.0
+    },
+    {
+      "text": "topped in mustard.",
+      "start": 293.24,
+      "duration": 2.0
+    },
+    {
+      "text": "This was my moment where I was dying",
+      "start": 297.24,
+      "duration": 2.0
+    },
+    {
+      "text": "inside. Pretzels",
+      "start": 299.24,
+      "duration": 2.0
+    },
+    {
+      "text": "topped?",
+      "start": 301.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright,",
+      "start": 303.24,
+      "duration": 2.0
+    },
+    {
+      "text": "maybe I'll spin one more time.",
+      "start": 305.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Why would you dip pretzels in mustard?",
+      "start": 307.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know. Why would you",
+      "start": 309.24,
+      "duration": 2.0
+    },
+    {
+      "text": "dip pretzels in mustard?",
+      "start": 311.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Me first.",
+      "start": 313.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Computer?",
+      "start": 315.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, it is.",
+      "start": 317.24,
+      "duration": 2.0
+    },
+    {
+      "text": "My first computer.",
+      "start": 319.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Good job, Arin.",
+      "start": 321.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yar,",
+      "start": 323.24,
+      "duration": 2.0
+    },
+    {
+      "text": "it's me first computer.",
+      "start": 325.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I thought more like, um,",
+      "start": 329.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I just thought more like, um,",
+      "start": 331.24,
+      "duration": 2.0
+    },
+    {
+      "text": "you and a computer trying to walk through a",
+      "start": 333.24,
+      "duration": 2.0
+    },
+    {
+      "text": "door at the same time. Me first",
+      "start": 335.24,
+      "duration": 2.0
+    },
+    {
+      "text": "computer.",
+      "start": 337.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Out of the way, Arin.",
+      "start": 339.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, okay.",
+      "start": 343.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Bloolooloopers.",
+      "start": 345.24,
+      "duration": 2.0
+    },
+    {
+      "text": "What the hell is it?",
+      "start": 349.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Mr. Cock.",
+      "start": 353.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's",
+      "start": 355.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Mr. Cock. Jolly old Mr. Cock.",
+      "start": 357.24,
+      "duration": 2.0
+    },
+    {
+      "text": "You had me so hung up on Mr. Cock.",
+      "start": 365.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I didn't see the obvious answer.",
+      "start": 367.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, now I'm",
+      "start": 369.24,
+      "duration": 2.0
+    },
+    {
+      "text": "fucking it up.",
+      "start": 371.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Shall we",
+      "start": 373.24,
+      "duration": 2.0
+    },
+    {
+      "text": "open it? Of course",
+      "start": 375.24,
+      "duration": 2.0
+    },
+    {
+      "text": "it's Jolly.",
+      "start": 377.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, man.",
+      "start": 379.24,
+      "duration": 2.0
+    },
+    {
+      "text": "The old Saint Cock.",
+      "start": 381.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Before and after. Planet with",
+      "start": 383.24,
+      "duration": 2.0
+    },
+    {
+      "text": "dinosaurs.",
+      "start": 385.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Meteor. Alright.",
+      "start": 387.24,
+      "duration": 2.0
+    },
+    {
+      "text": "No dinosaurs.",
+      "start": 389.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Two. Is it?",
+      "start": 391.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Is it?",
+      "start": 393.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Two.",
+      "start": 395.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh.",
+      "start": 397.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That is correct.",
+      "start": 399.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Two. Weekend two burnies.",
+      "start": 401.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Dammit. Weekend two burnies?",
+      "start": 403.24,
+      "duration": 2.0
+    },
+    {
+      "text": "This is like our",
+      "start": 405.24,
+      "duration": 2.0
+    },
+    {
+      "text": "50th game of Wheel of Fortune.",
+      "start": 407.24,
+      "duration": 2.0
+    },
+    {
+      "text": "How do you not know the rules and etiquette?",
+      "start": 409.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Just what the fuck?",
+      "start": 411.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Tinning",
+      "start": 413.24,
+      "duration": 2.0
+    },
+    {
+      "text": "a",
+      "start": 415.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Binning baby",
+      "start": 417.24,
+      "duration": 2.0
+    },
+    {
+      "text": "with a bunch of Y's. That's correct.",
+      "start": 419.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Show me",
+      "start": 421.24,
+      "duration": 2.0
+    },
+    {
+      "text": "tinning with binning baby.",
+      "start": 423.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That's tinning with binning baby.",
+      "start": 427.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Show me",
+      "start": 429.24,
+      "duration": 2.0
+    },
+    {
+      "text": "tinning with binning baby.",
+      "start": 431.24,
+      "duration": 2.0
+    },
+    {
+      "text": "What are you doing?",
+      "start": 437.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Making",
+      "start": 439.24,
+      "duration": 2.0
+    },
+    {
+      "text": "bone boy.",
+      "start": 441.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Bone boy comes to life like",
+      "start": 447.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Ew.",
+      "start": 449.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Sorry bone boy.",
+      "start": 455.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It looks cooler in my head.",
+      "start": 457.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Making bone boy.",
+      "start": 461.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I do know what it is. Really?",
+      "start": 465.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 467.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, I do too.",
+      "start": 469.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 471.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I thought it was fletch eater. Fletch eater plants.",
+      "start": 473.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I thought the same thing. Fletch eater plants.",
+      "start": 475.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 477.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Cause I just watched a little Shop of Horrors.",
+      "start": 479.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow.",
+      "start": 481.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That's perfect. Here, let's take a moment to regroup.",
+      "start": 483.24,
+      "duration": 2.0
+    },
+    {
+      "text": "First of all, it's funny.",
+      "start": 487.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's nice to know that we find ourselves",
+      "start": 489.24,
+      "duration": 2.0
+    },
+    {
+      "text": "so funny when we don't",
+      "start": 491.24,
+      "duration": 2.0
+    },
+    {
+      "text": "remember what we said. Yeah.",
+      "start": 493.24,
+      "duration": 2.0
+    },
+    {
+      "text": "You know? Yeah.",
+      "start": 495.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's been long enough where it's like, I don't know.",
+      "start": 497.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That's reassuring. Oh dude, jolly old Mr.",
+      "start": 499.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Cock. Really?",
+      "start": 501.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I have no memory of that one.",
+      "start": 503.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That's a jolly old St. Dick, dude.",
+      "start": 505.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That's perfect.",
+      "start": 507.24,
+      "duration": 2.0
+    },
+    {
+      "text": "What was the other thing I was going to say?",
+      "start": 509.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh yeah. Listen to myself say a little",
+      "start": 511.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Shop of Horrors.",
+      "start": 513.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm like, yeah, I really do say horror.",
+      "start": 515.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, horror. Horror.",
+      "start": 517.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Horror. Horror.",
+      "start": 519.24,
+      "duration": 2.0
+    },
+    {
+      "text": "And far head. Far head.",
+      "start": 521.24,
+      "duration": 2.0
+    },
+    {
+      "text": "My head is far away.",
+      "start": 523.24,
+      "duration": 2.0
+    },
+    {
+      "text": "If you didn't speak like that",
+      "start": 525.24,
+      "duration": 2.0
+    },
+    {
+      "text": "in New Jersey, people would look at you strangely.",
+      "start": 527.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Is that how you say four if you count?",
+      "start": 529.24,
+      "duration": 2.0
+    },
+    {
+      "text": "One, two, three, four.",
+      "start": 531.24,
+      "duration": 2.0
+    },
+    {
+      "text": "One, two, three, four. No, no.",
+      "start": 533.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Four is like, or.",
+      "start": 535.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That's weird. Yeah, yeah.",
+      "start": 537.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know why. Far head, four.",
+      "start": 539.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Whoa. What other stuff can we",
+      "start": 541.24,
+      "duration": 2.0
+    },
+    {
+      "text": "hack your brain with?",
+      "start": 543.24,
+      "duration": 2.0
+    },
+    {
+      "text": "This is the Huberman Podcast.",
+      "start": 545.24,
+      "duration": 2.0
+    },
+    {
+      "text": "We'll figure it out on a power hour.",
+      "start": 547.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay. This is fun so far.",
+      "start": 549.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 551.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Instagram turkey.",
+      "start": 553.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's what people",
+      "start": 555.24,
+      "duration": 2.0
+    },
+    {
+      "text": "do at lunch all the time. We stand.",
+      "start": 557.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I stanble.",
+      "start": 559.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 561.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 563.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 565.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow, that's funny.",
+      "start": 567.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Crab railed.",
+      "start": 569.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Rotated.",
+      "start": 571.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oreo rotated scrotum.",
+      "start": 573.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 575.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That is genius.",
+      "start": 577.24,
+      "duration": 2.0
+    },
+    {
+      "text": "You are a genius.",
+      "start": 579.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow.",
+      "start": 581.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 583.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright.",
+      "start": 585.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 587.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yes.",
+      "start": 589.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's hard to concentrate.",
+      "start": 591.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 593.24,
+      "duration": 2.0
+    },
+    {
+      "text": "What's the third, was it shrooms?",
+      "start": 595.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's oven roasted scrotum.",
+      "start": 597.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 599.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It totally fits,",
+      "start": 601.24,
+      "duration": 2.0
+    },
+    {
+      "text": "doesn't it?",
+      "start": 603.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 605.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 607.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 609.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 611.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 613.24,
+      "duration": 2.0
+    },
+    {
+      "text": "What an amazing looking phrase.",
+      "start": 615.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Meat foot.",
+      "start": 617.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 619.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Meat foot.",
+      "start": 621.24,
+      "duration": 2.0
+    },
+    {
+      "text": "The least impressive of the legendary creatures.",
+      "start": 623.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 625.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's the legendary meat foot.",
+      "start": 627.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 629.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Scrambled eggs.",
+      "start": 631.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Tambel scrambled eggs.",
+      "start": 633.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Tambel scrambled eggs.",
+      "start": 635.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 637.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Come down the",
+      "start": 639.24,
+      "duration": 2.0
+    },
+    {
+      "text": "dine freshest goobles of",
+      "start": 641.24,
+      "duration": 2.0
+    },
+    {
+      "text": "gobbles. Muscled turds.",
+      "start": 643.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 645.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Is it",
+      "start": 647.24,
+      "duration": 2.0
+    },
+    {
+      "text": "cheesy trees with cheese?",
+      "start": 649.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 651.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 653.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 655.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 657.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow. Oh god no.",
+      "start": 659.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 661.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh man.",
+      "start": 663.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I do not know what the fuck this is.",
+      "start": 665.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Horde greens",
+      "start": 667.24,
+      "duration": 2.0
+    },
+    {
+      "text": "with Freon.",
+      "start": 669.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 671.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 673.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Wait can I pause for one second?",
+      "start": 675.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I just want everyone to know that",
+      "start": 677.24,
+      "duration": 2.0
+    },
+    {
+      "text": "when Borf",
+      "start": 679.24,
+      "duration": 2.0
+    },
+    {
+      "text": "my boys go Horde",
+      "start": 681.24,
+      "duration": 2.0
+    },
+    {
+      "text": "greens with Freons, he turned",
+      "start": 683.24,
+      "duration": 2.0
+    },
+    {
+      "text": "to actual meat and was like",
+      "start": 685.24,
+      "duration": 2.0
+    },
+    {
+      "text": "mmm. Laughter.",
+      "start": 687.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That's what you said.",
+      "start": 689.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Sounds delicious.",
+      "start": 691.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I do like a Freon. Cheers Borf.",
+      "start": 693.24,
+      "duration": 2.0
+    },
+    {
+      "text": "What is it? Riddle Dun Diddle?",
+      "start": 695.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 697.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 699.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 701.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 703.24,
+      "duration": 2.0
+    },
+    {
+      "text": "But it's not. It's meeting my new",
+      "start": 705.24,
+      "duration": 2.0
+    },
+    {
+      "text": "boss. What? Or a new wife maybe.",
+      "start": 707.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh. Yeah.",
+      "start": 709.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Meeting by",
+      "start": 711.24,
+      "duration": 2.0
+    },
+    {
+      "text": "New York. Hey where would you like to meet up?",
+      "start": 713.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh by New York.",
+      "start": 715.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter. Are you anywhere near",
+      "start": 717.24,
+      "duration": 2.0
+    },
+    {
+      "text": "New York? I was thinking a New York that was called",
+      "start": 719.24,
+      "duration": 2.0
+    },
+    {
+      "text": "like was a street name or something.",
+      "start": 721.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Also what does meeting my new wife",
+      "start": 723.24,
+      "duration": 2.0
+    },
+    {
+      "text": "mean? Laughter.",
+      "start": 725.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Why is my brain like this?",
+      "start": 727.24,
+      "duration": 2.0
+    },
+    {
+      "text": "One would hope you already knew her.",
+      "start": 729.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 731.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 733.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 735.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my god.",
+      "start": 737.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Home is here the heart is.",
+      "start": 739.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 741.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 743.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh. Ah.",
+      "start": 745.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I was not expecting an O there.",
+      "start": 747.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my god.",
+      "start": 749.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It is George Washington.",
+      "start": 751.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 753.24,
+      "duration": 2.0
+    },
+    {
+      "text": "We did it Arin.",
+      "start": 755.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my god George Washington",
+      "start": 757.24,
+      "duration": 2.0
+    },
+    {
+      "text": "has an answer. What?",
+      "start": 759.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm so happy.",
+      "start": 761.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That's amazing. Holy shit.",
+      "start": 763.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I haven't even been making that joke the entire time we've been",
+      "start": 765.24,
+      "duration": 2.0
+    },
+    {
+      "text": "playing. That's so great.",
+      "start": 767.24,
+      "duration": 2.0
+    },
+    {
+      "text": "What's wrong with me? It finally",
+      "start": 769.24,
+      "duration": 2.0
+    },
+    {
+      "text": "has come home.",
+      "start": 771.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter. Wow.",
+      "start": 773.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow. That was a big",
+      "start": 775.24,
+      "duration": 2.0
+    },
+    {
+      "text": "disappointment for me.",
+      "start": 777.24,
+      "duration": 2.0
+    },
+    {
+      "text": "You weren't the one.",
+      "start": 779.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That I wasn't already making the George Washington joke.",
+      "start": 781.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's the same thing with this.",
+      "start": 783.24,
+      "duration": 2.0
+    },
+    {
+      "text": "There's no. I do",
+      "start": 785.24,
+      "duration": 2.0
+    },
+    {
+      "text": "a bit where I just say George Washington",
+      "start": 787.24,
+      "duration": 2.0
+    },
+    {
+      "text": "randomly. Usually in our like",
+      "start": 789.24,
+      "duration": 2.0
+    },
+    {
+      "text": "pictionary types of jokes. Yeah.",
+      "start": 791.24,
+      "duration": 2.0
+    },
+    {
+      "text": "But like on that episode I just wasn't",
+      "start": 793.24,
+      "duration": 2.0
+    },
+    {
+      "text": "saying George Washington and it was actually",
+      "start": 795.24,
+      "duration": 2.0
+    },
+    {
+      "text": "an answer. In your defense",
+      "start": 797.24,
+      "duration": 2.0
+    },
+    {
+      "text": "though. Like",
+      "start": 799.24,
+      "duration": 2.0
+    },
+    {
+      "text": "there was no sign that it was coming.",
+      "start": 801.24,
+      "duration": 2.0
+    },
+    {
+      "text": "You know like you could",
+      "start": 803.24,
+      "duration": 2.0
+    },
+    {
+      "text": "have easily kept making the George Washington",
+      "start": 805.24,
+      "duration": 2.0
+    },
+    {
+      "text": "joke for 10 years.",
+      "start": 807.24,
+      "duration": 2.0
+    },
+    {
+      "text": "And just no George Washington",
+      "start": 809.24,
+      "duration": 2.0
+    },
+    {
+      "text": "hints ever. Yeah.",
+      "start": 811.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Spanking the boy in bed.",
+      "start": 813.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 815.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 817.24,
+      "duration": 2.0
+    },
+    {
+      "text": "No.",
+      "start": 819.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That's a bad one.",
+      "start": 821.24,
+      "duration": 2.0
+    },
+    {
+      "text": "No. Don't.",
+      "start": 823.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Me too. What?",
+      "start": 825.24,
+      "duration": 2.0
+    },
+    {
+      "text": "You said spanking the boy in bed.",
+      "start": 827.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 829.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 831.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It was in my head. I know.",
+      "start": 833.24,
+      "duration": 2.0
+    },
+    {
+      "text": "No. Oh my god I",
+      "start": 835.24,
+      "duration": 2.0
+    },
+    {
+      "text": "should have let you in. That happens to me all the",
+      "start": 837.24,
+      "duration": 2.0
+    },
+    {
+      "text": "time. I'll write down what people are saying to me.",
+      "start": 839.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I was thinking about your jokes but it just came out.",
+      "start": 841.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Spanking the boy in bed.",
+      "start": 843.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Well Pat I'll be",
+      "start": 845.24,
+      "duration": 2.0
+    },
+    {
+      "text": "spending the boy in bed.",
+      "start": 847.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 849.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Argh.",
+      "start": 851.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That is not correct.",
+      "start": 853.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my god.",
+      "start": 855.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 857.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That is awesome.",
+      "start": 859.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Utada.",
+      "start": 861.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Banana.",
+      "start": 863.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Why would that be on a map?",
+      "start": 865.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Canada. Ottawa",
+      "start": 867.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Canada. Damn it. Ottawa Canada",
+      "start": 869.24,
+      "duration": 2.0
+    },
+    {
+      "text": "did you say? Why would you say that out",
+      "start": 871.24,
+      "duration": 2.0
+    },
+    {
+      "text": "loud?",
+      "start": 873.24,
+      "duration": 2.0
+    },
+    {
+      "text": "What is wrong with you?",
+      "start": 875.24,
+      "duration": 2.0
+    },
+    {
+      "text": "How can I possibly be blamed",
+      "start": 877.24,
+      "duration": 2.0
+    },
+    {
+      "text": "for taking advantage of this now?",
+      "start": 879.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 881.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Ottawa Canada. Are you out of your mind?",
+      "start": 883.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 885.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Are you out of your mind?",
+      "start": 887.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 889.24,
+      "duration": 2.0
+    },
+    {
+      "text": "My god. You know what",
+      "start": 891.24,
+      "duration": 2.0
+    },
+    {
+      "text": "it's not real money so.",
+      "start": 893.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That's true. The real",
+      "start": 895.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I get bragging rights.",
+      "start": 897.24,
+      "duration": 2.0
+    },
+    {
+      "text": "For fucking myself over.",
+      "start": 899.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 901.24,
+      "duration": 2.0
+    },
+    {
+      "text": "So strange. So strange to play games",
+      "start": 903.24,
+      "duration": 2.0
+    },
+    {
+      "text": "against you sometimes.",
+      "start": 905.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 907.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Would you have gotten it? I mean eventually",
+      "start": 909.24,
+      "duration": 2.0
+    },
+    {
+      "text": "maybe. But I was definitely thinking",
+      "start": 911.24,
+      "duration": 2.0
+    },
+    {
+      "text": "banana before you said that.",
+      "start": 913.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 915.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Anyone in the comments can you let us",
+      "start": 917.24,
+      "duration": 2.0
+    },
+    {
+      "text": "know if that's ever actually happened",
+      "start": 919.24,
+      "duration": 2.0
+    },
+    {
+      "text": "on Real Wheel of Fortune where",
+      "start": 921.24,
+      "duration": 2.0
+    },
+    {
+      "text": "another contestant accidentally",
+      "start": 923.24,
+      "duration": 2.0
+    },
+    {
+      "text": "blurts out the answer.",
+      "start": 925.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh absolutely. It must have happened right?",
+      "start": 927.24,
+      "duration": 2.0
+    },
+    {
+      "text": "After like the",
+      "start": 929.24,
+      "duration": 2.0
+    },
+    {
+      "text": "25 years of Wheel of Fortune",
+      "start": 931.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah it's got to. I'd love to see",
+      "start": 933.24,
+      "duration": 2.0
+    },
+    {
+      "text": "footage of that. I'm sure the audience",
+      "start": 935.24,
+      "duration": 2.0
+    },
+    {
+      "text": "is like.",
+      "start": 937.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 939.24,
+      "duration": 2.0
+    },
+    {
+      "text": "And the guy's just like you can't blame me for",
+      "start": 941.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah like what am I supposed to do? I'm gonna go for it.",
+      "start": 943.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I can't forget this.",
+      "start": 945.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright.",
+      "start": 947.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh but it's. Ah no but it's",
+      "start": 949.24,
+      "duration": 2.0
+    },
+    {
+      "text": "not. What? Oh but",
+      "start": 951.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Lube? It can't be Lube.",
+      "start": 953.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh Vroom",
+      "start": 955.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Groovy Lube. Groo-",
+      "start": 957.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Groo- Coo-",
+      "start": 959.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Whatever. Laughter.",
+      "start": 961.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Groot. Groot's Lube.",
+      "start": 963.24,
+      "duration": 2.0
+    },
+    {
+      "text": "You're gonna have a chance to win dude.",
+      "start": 965.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I am Lube. Um. Okay.",
+      "start": 967.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh. What could that be?",
+      "start": 969.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Hob- go- go- goob",
+      "start": 971.24,
+      "duration": 2.0
+    },
+    {
+      "text": "yib- geeb- kib- kib-",
+      "start": 973.24,
+      "duration": 2.0
+    },
+    {
+      "text": "kib- kib- kib-",
+      "start": 975.24,
+      "duration": 2.0
+    },
+    {
+      "text": "kib- kib- koby- koby-",
+      "start": 977.24,
+      "duration": 2.0
+    },
+    {
+      "text": "koby? Woah- woah-",
+      "start": 979.24,
+      "duration": 2.0
+    },
+    {
+      "text": "yob- yob- yob-",
+      "start": 981.24,
+      "duration": 2.0
+    },
+    {
+      "text": "yob- yib- k.",
+      "start": 983.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Dammit.",
+      "start": 985.24,
+      "duration": 2.0
+    },
+    {
+      "text": "What's the fucking last word?",
+      "start": 987.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That has to be lot- vibe?",
+      "start": 989.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh vibe.",
+      "start": 991.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Groovy vibe. Groovy vibe.",
+      "start": 993.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Groovy vibe. Fuck!",
+      "start": 995.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 997.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin. Why?",
+      "start": 999.24,
+      "duration": 2.0
+    },
+    {
+      "text": "What is wrong with you?",
+      "start": 1001.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 1003.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh boy.",
+      "start": 1005.24,
+      "duration": 2.0
+    },
+    {
+      "text": "She gets so excited.",
+      "start": 1007.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Lube. Lube. Groot. Groot.",
+      "start": 1009.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Lube. Groot. Groot.",
+      "start": 1011.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Shut it down. It could have been Lube.",
+      "start": 1013.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know. It could have been Lube.",
+      "start": 1015.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Why didn't it pause? Meatfoot.",
+      "start": 1017.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter. Meatfoot really",
+      "start": 1019.24,
+      "duration": 2.0
+    },
+    {
+      "text": "gets me. Like Bigfoot's",
+      "start": 1021.24,
+      "duration": 2.0
+    },
+    {
+      "text": "way less popular because of-",
+      "start": 1023.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Laughter.",
+      "start": 1025.24,
+      "duration": 2.0
+    },
+    {
+      "text": "No it's Meatfoot like M-E-E-T.",
+      "start": 1027.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh. I'm definitely",
+      "start": 1029.24,
+      "duration": 2.0
+    },
+    {
+      "text": "thinking MEAT. Like it's a dating",
+      "start": 1031.24,
+      "duration": 2.0
+    },
+    {
+      "text": "site. Meatfoot?",
+      "start": 1033.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah. Where it's like, do you like feet?",
+      "start": 1035.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Meat other feet. Meatfoot. Honestly,",
+      "start": 1037.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I hate how possibly",
+      "start": 1039.24,
+      "duration": 2.0
+    },
+    {
+      "text": "that definitely exists. Oh 100% possible.",
+      "start": 1041.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah. If there's farmers only,",
+      "start": 1043.24,
+      "duration": 2.0
+    },
+    {
+      "text": "there's definitely Meatfoot.",
+      "start": 1045.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Or footmeat.",
+      "start": 1047.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That's probably better. Yeah. Yeah. Feetmeat.",
+      "start": 1049.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Feetmeat. Oh. Feetmeat's great.",
+      "start": 1051.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah. Or feetcute.",
+      "start": 1053.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Isn't a meatcute like when people get",
+      "start": 1055.24,
+      "duration": 2.0
+    },
+    {
+      "text": "together? Oh. Feetcute.",
+      "start": 1057.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That's so good.",
+      "start": 1059.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Don't take that idea. That's my million dollars",
+      "start": 1061.24,
+      "duration": 2.0
+    },
+    {
+      "text": "waiting to happen. Yeah? You gonna execute on it?",
+      "start": 1063.24,
+      "duration": 2.0
+    },
+    {
+      "text": "No. Well then somebody should do it.",
+      "start": 1065.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah. Yeah. Feetcute.",
+      "start": 1067.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Cut to a year",
+      "start": 1069.24,
+      "duration": 2.0
+    },
+    {
+      "text": "from now when we see Feetcute like raking",
+      "start": 1071.24,
+      "duration": 2.0
+    },
+    {
+      "text": "in millions of dollars on the stock exchange",
+      "start": 1073.24,
+      "duration": 2.0
+    },
+    {
+      "text": "and we're like DAMMIT. Yeah but it's on record.",
+      "start": 1075.24,
+      "duration": 2.0
+    },
+    {
+      "text": "We can use this as our- Oh yeah.",
+      "start": 1077.24,
+      "duration": 2.0
+    },
+    {
+      "text": "We came up with your idea first you fuck.",
+      "start": 1079.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Please come up with Feetcute.",
+      "start": 1081.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Execute that plan. Get",
+      "start": 1083.24,
+      "duration": 2.0
+    },
+    {
+      "text": "millions of people on it.",
+      "start": 1085.24,
+      "duration": 2.0
+    },
+    {
+      "text": "And pull in half a billion",
+      "start": 1087.24,
+      "duration": 2.0
+    },
+    {
+      "text": "dollars so we can SUE YOU.",
+      "start": 1089.24,
+      "duration": 2.0
+    },
+    {
+      "text": "All right.",
+      "start": 1091.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That's a great business plan. Thanks.",
+      "start": 1093.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Man sand.",
+      "start": 1095.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Man sand. What the hell?",
+      "start": 1097.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Sand wank.",
+      "start": 1099.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It just says Dan and I didn't",
+      "start": 1103.24,
+      "duration": 2.0
+    },
+    {
+      "text": "notice it. Walking and dog.",
+      "start": 1105.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Walking and dog.",
+      "start": 1111.24,
+      "duration": 2.0
+    },
+    {
+      "text": "See me fucking.",
+      "start": 1113.24,
+      "duration": 2.0
+    },
+    {
+      "text": "See me butting.",
+      "start": 1115.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my god. Arin.",
+      "start": 1117.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Why do you have 42 seconds to",
+      "start": 1119.24,
+      "duration": 2.0
+    },
+    {
+      "text": "do this? It's ridiculous.",
+      "start": 1121.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Just pass.",
+      "start": 1123.24,
+      "duration": 2.0
+    },
+    {
+      "text": "What do you mean just pass?",
+      "start": 1125.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Ah shit.",
+      "start": 1127.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's creamy pudding.",
+      "start": 1129.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1131.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Get the barbells out of the way man.",
+      "start": 1133.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's so annoying.",
+      "start": 1135.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Axe. Mix.",
+      "start": 1141.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Good job Arin.",
+      "start": 1143.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Sealy.",
+      "start": 1145.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin stop saying shit out loud.",
+      "start": 1147.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know it.",
+      "start": 1149.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know it. Do not.",
+      "start": 1151.24,
+      "duration": 2.0
+    },
+    {
+      "text": "You know what would be really helpful?",
+      "start": 1153.24,
+      "duration": 2.0
+    },
+    {
+      "text": "If you didn't try and sound it out while I'm trying to mentally",
+      "start": 1155.24,
+      "duration": 2.0
+    },
+    {
+      "text": "think of it.",
+      "start": 1157.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Saurin.",
+      "start": 1163.24,
+      "duration": 2.0
+    },
+    {
+      "text": "What is",
+      "start": 1165.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Sally Trail Mix.",
+      "start": 1167.24,
+      "duration": 2.0
+    },
+    {
+      "text": "What is that? I know what it is.",
+      "start": 1169.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I",
+      "start": 1171.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm",
+      "start": 1173.24,
+      "duration": 2.0
+    },
+    {
+      "text": "imposing a",
+      "start": 1175.24,
+      "duration": 2.0
+    },
+    {
+      "text": "second rule.",
+      "start": 1177.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Don't take forty seconds to do this.",
+      "start": 1179.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Sorry.",
+      "start": 1181.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Speed",
+      "start": 1183.24,
+      "duration": 2.0
+    },
+    {
+      "text": "and Sally",
+      "start": 1185.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Speed and Sally.",
+      "start": 1187.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Speed. Speed is not a real thing.",
+      "start": 1189.24,
+      "duration": 2.0
+    },
+    {
+      "text": "This isn't right, right?",
+      "start": 1191.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Or is it right?",
+      "start": 1193.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Can you sit past please?",
+      "start": 1195.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Speed and Sally",
+      "start": 1197.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Trail Mix. I don't know what Sally Trail Mix",
+      "start": 1199.24,
+      "duration": 2.0
+    },
+    {
+      "text": "is.",
+      "start": 1201.24,
+      "duration": 2.0
+    },
+    {
+      "text": "No one does.",
+      "start": 1203.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't think it's a thing.",
+      "start": 1205.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Sweet and salty.",
+      "start": 1207.24,
+      "duration": 2.0
+    },
+    {
+      "text": "My god.",
+      "start": 1213.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Why does my brain do this to me?",
+      "start": 1215.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know. I'm just like Speed and Sally.",
+      "start": 1217.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Duh.",
+      "start": 1219.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's gotta be. What else could it be?",
+      "start": 1221.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Food and drink.",
+      "start": 1223.24,
+      "duration": 2.0
+    },
+    {
+      "text": "What do you mean third toss up?",
+      "start": 1225.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Wine, booze, and fucking.",
+      "start": 1227.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Doesn't fit any of the letters.",
+      "start": 1229.24,
+      "duration": 6.0
+    },
+    {
+      "text": "Oh, I know it.",
+      "start": 1235.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Do you?",
+      "start": 1237.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yes.",
+      "start": 1239.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Coochie?",
+      "start": 1241.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh. Fresh bath of coochie?",
+      "start": 1243.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Dang it.",
+      "start": 1245.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Dang it.",
+      "start": 1247.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Fresh batch of cookies.",
+      "start": 1249.24,
+      "duration": 4.0
+    },
+    {
+      "text": "Fresh batch of cooties.",
+      "start": 1253.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my god.",
+      "start": 1255.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my god.",
+      "start": 1257.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Fresh",
+      "start": 1259.24,
+      "duration": 2.0
+    },
+    {
+      "text": "bath of coochie did you say?",
+      "start": 1261.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Coo-coo-coo-coo",
+      "start": 1263.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Wait, are you serious?",
+      "start": 1265.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Coo. You don't know what it is?",
+      "start": 1267.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Cooler?",
+      "start": 1269.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Cooler.",
+      "start": 1271.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Are you fucking kidding me?",
+      "start": 1273.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Really? This is the easy one.",
+      "start": 1275.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Coo.",
+      "start": 1277.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Coo-coo-coo-coo-ers.",
+      "start": 1279.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Are you serious?",
+      "start": 1281.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Coo-coo-coo. Oh my god.",
+      "start": 1283.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's fresh batch of cookies.",
+      "start": 1285.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh.",
+      "start": 1287.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I was thinking of like beer.",
+      "start": 1289.24,
+      "duration": 2.0
+    },
+    {
+      "text": "You're like hovering over the K",
+      "start": 1291.24,
+      "duration": 2.0
+    },
+    {
+      "text": "going back and forth over the L",
+      "start": 1293.24,
+      "duration": 2.0
+    },
+    {
+      "text": "and I'm like oh my god.",
+      "start": 1295.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I thought it would be easier.",
+      "start": 1297.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Spices.",
+      "start": 1299.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Spices.",
+      "start": 1301.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That's a place?",
+      "start": 1303.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh oh.",
+      "start": 1305.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Fuck.",
+      "start": 1307.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Industrial",
+      "start": 1309.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Industrial",
+      "start": 1311.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Star",
+      "start": 1313.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Stucco",
+      "start": 1315.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Stucco",
+      "start": 1317.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Industrial",
+      "start": 1319.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Snack Snack",
+      "start": 1321.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Industrial Snacks",
+      "start": 1323.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Industrial",
+      "start": 1325.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Stucco",
+      "start": 1327.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Did you just panic for it?",
+      "start": 1329.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Is that the chair?",
+      "start": 1331.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Industrial",
+      "start": 1333.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh spaces.",
+      "start": 1335.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow. They give you",
+      "start": 1337.24,
+      "duration": 2.0
+    },
+    {
+      "text": "way too much time.",
+      "start": 1339.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That is",
+      "start": 1341.24,
+      "duration": 2.0
+    },
+    {
+      "text": "way too much time.",
+      "start": 1343.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yes.",
+      "start": 1345.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yes we do. Of course we do.",
+      "start": 1347.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Sassafras and hairy ass.",
+      "start": 1349.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That's it.",
+      "start": 1351.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Food and drink.",
+      "start": 1353.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Just do it in your own mind.",
+      "start": 1355.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Cause even if you solve it.",
+      "start": 1357.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That makes it not fun for me.",
+      "start": 1359.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Can you pause it?",
+      "start": 1361.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I can hear in my voice",
+      "start": 1363.24,
+      "duration": 2.0
+    },
+    {
+      "text": "like the rising",
+      "start": 1365.24,
+      "duration": 2.0
+    },
+    {
+      "text": "concentration. Cause there's some of these.",
+      "start": 1367.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright. Here's my",
+      "start": 1369.24,
+      "duration": 2.0
+    },
+    {
+      "text": "worst case wheel of fortune",
+      "start": 1371.24,
+      "duration": 2.0
+    },
+    {
+      "text": "scenario.",
+      "start": 1373.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's um",
+      "start": 1375.24,
+      "duration": 2.0
+    },
+    {
+      "text": "when we're trying to guess it at the same time",
+      "start": 1377.24,
+      "duration": 2.0
+    },
+    {
+      "text": "like during that bonus round",
+      "start": 1379.24,
+      "duration": 2.0
+    },
+    {
+      "text": "and I can't focus cause",
+      "start": 1381.24,
+      "duration": 2.0
+    },
+    {
+      "text": "you're loudly sounding",
+      "start": 1383.24,
+      "duration": 2.0
+    },
+    {
+      "text": "out everything like",
+      "start": 1385.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm just like",
+      "start": 1387.24,
+      "duration": 2.0
+    },
+    {
+      "text": "oh my god and then like",
+      "start": 1389.24,
+      "duration": 2.0
+    },
+    {
+      "text": "you hit solve",
+      "start": 1391.24,
+      "duration": 2.0
+    },
+    {
+      "text": "and they give you",
+      "start": 1393.24,
+      "duration": 2.0
+    },
+    {
+      "text": "seconds to figure it out",
+      "start": 1395.24,
+      "duration": 2.0
+    },
+    {
+      "text": "and I have to listen to you sound it out more",
+      "start": 1397.24,
+      "duration": 2.0
+    },
+    {
+      "text": "and then with five seconds you're like oh",
+      "start": 1399.24,
+      "duration": 2.0
+    },
+    {
+      "text": "got it. Yes.",
+      "start": 1401.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I can hear myself",
+      "start": 1407.24,
+      "duration": 2.0
+    },
+    {
+      "text": "dying inside.",
+      "start": 1409.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1415.24,
+      "duration": 2.0
+    },
+    {
+      "text": "You can do it too.",
+      "start": 1417.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I know. I mean like",
+      "start": 1419.24,
+      "duration": 2.0
+    },
+    {
+      "text": "when you look back on it and you're out of the moment",
+      "start": 1421.24,
+      "duration": 2.0
+    },
+    {
+      "text": "it's fine but like",
+      "start": 1423.24,
+      "duration": 2.0
+    },
+    {
+      "text": "in the moment I can hear just",
+      "start": 1425.24,
+      "duration": 2.0
+    },
+    {
+      "text": "the despair in my voice.",
+      "start": 1427.24,
+      "duration": 2.0
+    },
+    {
+      "text": "So funny. Alright. Please continue.",
+      "start": 1433.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Got it.",
+      "start": 1435.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay fine.",
+      "start": 1439.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Thank you.",
+      "start": 1441.24,
+      "duration": 2.0
+    },
+    {
+      "text": "No one does that. How many episodes",
+      "start": 1443.24,
+      "duration": 2.0
+    },
+    {
+      "text": "of wheel of fortune have you watched on TV where",
+      "start": 1445.24,
+      "duration": 2.0
+    },
+    {
+      "text": "the person's like some",
+      "start": 1447.24,
+      "duration": 2.0
+    },
+    {
+      "text": "table table table",
+      "start": 1449.24,
+      "duration": 2.0
+    },
+    {
+      "text": "gable shmable",
+      "start": 1451.24,
+      "duration": 2.0
+    },
+    {
+      "text": "butt kiss",
+      "start": 1453.24,
+      "duration": 2.0
+    },
+    {
+      "text": "oh my god",
+      "start": 1465.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I know it. Oh thank god.",
+      "start": 1471.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't. Really?",
+      "start": 1473.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Why not spin then? Why did you try to solve it?",
+      "start": 1477.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Because I wanted to see what the letters were.",
+      "start": 1479.24,
+      "duration": 2.0
+    },
+    {
+      "text": "55 seconds",
+      "start": 1485.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I have to sit there.",
+      "start": 1487.24,
+      "duration": 2.0
+    },
+    {
+      "text": "If you don't get this in the next 50 seconds",
+      "start": 1489.24,
+      "duration": 2.0
+    },
+    {
+      "text": "This is hard to watch.",
+      "start": 1495.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh. Oh.",
+      "start": 1509.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I mean Arin",
+      "start": 1511.24,
+      "duration": 2.0
+    },
+    {
+      "text": "seriously.",
+      "start": 1513.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Like seriously.",
+      "start": 1515.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I almost misspelled it.",
+      "start": 1517.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1519.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Jesus Christmas.",
+      "start": 1521.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That was ridiculous.",
+      "start": 1525.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my dad is watching.",
+      "start": 1527.24,
+      "duration": 2.0
+    },
+    {
+      "text": "This game gives you way too much time.",
+      "start": 1529.24,
+      "duration": 2.0
+    },
+    {
+      "text": "No one should have a full",
+      "start": 1531.24,
+      "duration": 2.0
+    },
+    {
+      "text": "minute to just sit there and be like",
+      "start": 1533.24,
+      "duration": 2.0
+    },
+    {
+      "text": "remember we are on television.",
+      "start": 1535.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh man.",
+      "start": 1539.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That is. That is. That is funny.",
+      "start": 1541.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That is really funny.",
+      "start": 1543.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Miss P",
+      "start": 1545.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Kissing. Kissing.",
+      "start": 1547.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That is by the way",
+      "start": 1549.24,
+      "duration": 2.0
+    },
+    {
+      "text": "watching this back",
+      "start": 1551.24,
+      "duration": 2.0
+    },
+    {
+      "text": "that is not a good method of guessing.",
+      "start": 1553.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm just like",
+      "start": 1555.24,
+      "duration": 2.0
+    },
+    {
+      "text": "sounding it out with like each letter.",
+      "start": 1557.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Because it's always like",
+      "start": 1559.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm always like key key",
+      "start": 1561.24,
+      "duration": 2.0
+    },
+    {
+      "text": "but it's like it's cookies. It's not cookies.",
+      "start": 1563.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah that's true.",
+      "start": 1565.24,
+      "duration": 2.0
+    },
+    {
+      "text": "You're saying it like the cookie",
+      "start": 1567.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Christmas guy.",
+      "start": 1569.24,
+      "duration": 2.0
+    },
+    {
+      "text": "This is wonderful.",
+      "start": 1571.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know",
+      "start": 1573.24,
+      "duration": 2.0
+    },
+    {
+      "text": "what is it? What is this word?",
+      "start": 1575.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my god.",
+      "start": 1577.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Farts. I'm dying inside. Turning on the southern",
+      "start": 1579.24,
+      "duration": 2.0
+    },
+    {
+      "text": "fart F H A R T",
+      "start": 1581.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yes.",
+      "start": 1583.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Turning on the southern shark. What is that the",
+      "start": 1585.24,
+      "duration": 2.0
+    },
+    {
+      "text": "polite spelling?",
+      "start": 1587.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my god.",
+      "start": 1589.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Well you've earned it.",
+      "start": 1591.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Turning on the southern charm Arin.",
+      "start": 1593.24,
+      "duration": 2.0
+    },
+    {
+      "text": "What the hell does that mean? Southern charm.",
+      "start": 1595.24,
+      "duration": 2.0
+    },
+    {
+      "text": "You've never heard of that? Oh whatever.",
+      "start": 1597.24,
+      "duration": 2.0
+    },
+    {
+      "text": "They're charming people.",
+      "start": 1599.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Food and drink.",
+      "start": 1601.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh nuts butts and cherries.",
+      "start": 1603.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I'd like to solve please.",
+      "start": 1605.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Is it nuts butts and",
+      "start": 1607.24,
+      "duration": 2.0
+    },
+    {
+      "text": "cherries? Show me",
+      "start": 1609.24,
+      "duration": 2.0
+    },
+    {
+      "text": "nuts butts and cherries.",
+      "start": 1611.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Aw.",
+      "start": 1613.24,
+      "duration": 2.0
+    },
+    {
+      "text": "This is unbelievable.",
+      "start": 1615.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1617.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Embarrassing",
+      "start": 1619.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Jeremy runner.",
+      "start": 1621.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Embarrassing",
+      "start": 1623.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Jeremy runner.",
+      "start": 1625.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow.",
+      "start": 1627.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Bink. Binky.",
+      "start": 1629.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my god. How. I was",
+      "start": 1631.24,
+      "duration": 2.0
+    },
+    {
+      "text": "joking.",
+      "start": 1633.24,
+      "duration": 2.0
+    },
+    {
+      "text": "What is it?",
+      "start": 1635.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Do you know it?",
+      "start": 1637.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know what",
+      "start": 1639.24,
+      "duration": 2.0
+    },
+    {
+      "text": "it is.",
+      "start": 1641.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright fine. Let's get going.",
+      "start": 1643.24,
+      "duration": 2.0
+    },
+    {
+      "text": "A first mate is like a ship right?",
+      "start": 1645.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Like a thing a guy on a ship.",
+      "start": 1647.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Like a captain and a",
+      "start": 1649.24,
+      "duration": 2.0
+    },
+    {
+      "text": "first mate. I have to",
+      "start": 1651.24,
+      "duration": 2.0
+    },
+    {
+      "text": "drink poison now.",
+      "start": 1653.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Why?",
+      "start": 1655.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Blink?",
+      "start": 1657.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Blink.",
+      "start": 1659.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Hey man. Oh blind",
+      "start": 1663.24,
+      "duration": 2.0
+    },
+    {
+      "text": "and first date.",
+      "start": 1665.24,
+      "duration": 2.0
+    },
+    {
+      "text": "God dammit.",
+      "start": 1667.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It really is a different mindset. It's amazing.",
+      "start": 1669.24,
+      "duration": 2.0
+    },
+    {
+      "text": "There's got to be a way to get the sky off the ship.",
+      "start": 1671.24,
+      "duration": 2.0
+    },
+    {
+      "text": "When the pressure's not on.",
+      "start": 1673.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's easier for my brain. No!",
+      "start": 1675.24,
+      "duration": 2.0
+    },
+    {
+      "text": "There's got to be some science to that.",
+      "start": 1681.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Cause like the moment the pressure wasn't on",
+      "start": 1683.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I was like oh I know what it is.",
+      "start": 1685.24,
+      "duration": 2.0
+    },
+    {
+      "text": "There's got to be some science. There's got to be some religion to the fact that God",
+      "start": 1687.24,
+      "duration": 2.0
+    },
+    {
+      "text": "hates me. Seat",
+      "start": 1689.24,
+      "duration": 2.0
+    },
+    {
+      "text": "breast.",
+      "start": 1691.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Seat breast? It's a proper name",
+      "start": 1693.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin. What are you? What?",
+      "start": 1695.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Seat breast?",
+      "start": 1697.24,
+      "duration": 2.0
+    },
+    {
+      "text": "How can it be that?",
+      "start": 1699.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Well then what is it?",
+      "start": 1701.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Great question.",
+      "start": 1703.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know why more people don't play Wheel of Fortune.",
+      "start": 1705.24,
+      "duration": 2.0
+    },
+    {
+      "text": "They're just like Pat. What is it?",
+      "start": 1707.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Why do you just fucking tell?",
+      "start": 1709.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Why do we have to dance this day?",
+      "start": 1711.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow. Oh my god.",
+      "start": 1717.24,
+      "duration": 2.0
+    },
+    {
+      "text": "What could it possibly be?",
+      "start": 1719.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Chocolate cake",
+      "start": 1721.24,
+      "duration": 2.0
+    },
+    {
+      "text": "with chocolate fudge.",
+      "start": 1723.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Do you realize it's wrong as you're saying it",
+      "start": 1727.24,
+      "duration": 2.0
+    },
+    {
+      "text": "while you're solving?",
+      "start": 1729.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Fudge.",
+      "start": 1731.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Contestant number two.",
+      "start": 1733.24,
+      "duration": 2.0
+    },
+    {
+      "text": "No.",
+      "start": 1735.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I know it.",
+      "start": 1737.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Nut milk.",
+      "start": 1739.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's nut",
+      "start": 1741.24,
+      "duration": 2.0
+    },
+    {
+      "text": "smith",
+      "start": 1743.24,
+      "duration": 2.0
+    },
+    {
+      "text": "national",
+      "start": 1745.24,
+      "duration": 2.0
+    },
+    {
+      "text": "rake",
+      "start": 1749.24,
+      "duration": 2.0
+    },
+    {
+      "text": "ramp.",
+      "start": 1751.24,
+      "duration": 2.0
+    },
+    {
+      "text": "National ramp.",
+      "start": 1753.24,
+      "duration": 2.0
+    },
+    {
+      "text": "National ramp.",
+      "start": 1755.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Come on. Give it to me.",
+      "start": 1757.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Give it to me.",
+      "start": 1759.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh well that makes more",
+      "start": 1761.24,
+      "duration": 2.0
+    },
+    {
+      "text": "sense.",
+      "start": 1763.24,
+      "duration": 2.0
+    },
+    {
+      "text": "No it's not nut smith.",
+      "start": 1765.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Baby titties.",
+      "start": 1767.24,
+      "duration": 2.0
+    },
+    {
+      "text": "What's the problem?",
+      "start": 1771.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's baby titties.",
+      "start": 1773.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I'd like to",
+      "start": 1775.24,
+      "duration": 2.0
+    },
+    {
+      "text": "solve.",
+      "start": 1777.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Low brow humors.",
+      "start": 1789.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Low",
+      "start": 1791.24,
+      "duration": 2.0
+    },
+    {
+      "text": "low brow",
+      "start": 1793.24,
+      "duration": 2.0
+    },
+    {
+      "text": "low brow popsicles.",
+      "start": 1795.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Popsicles has two S's.",
+      "start": 1797.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Says you.",
+      "start": 1799.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Watch. I'm gonna pick the B and you're gonna",
+      "start": 1801.24,
+      "duration": 2.0
+    },
+    {
+      "text": "be fucking fine.",
+      "start": 1803.24,
+      "duration": 2.0
+    },
+    {
+      "text": "But I'm gonna go for the R just to be",
+      "start": 1805.24,
+      "duration": 2.0
+    },
+    {
+      "text": "safe. Oh",
+      "start": 1807.24,
+      "duration": 2.0
+    },
+    {
+      "text": "really?",
+      "start": 1809.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I mean spoilers.",
+      "start": 1811.24,
+      "duration": 2.0
+    },
+    {
+      "text": "The W in brow would have",
+      "start": 1813.24,
+      "duration": 2.0
+    },
+    {
+      "text": "shown up.",
+      "start": 1815.24,
+      "duration": 2.0
+    },
+    {
+      "text": "You don't know",
+      "start": 1817.24,
+      "duration": 2.0
+    },
+    {
+      "text": "that.",
+      "start": 1819.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It could be japing us.",
+      "start": 1821.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It could be some kind of goof or a",
+      "start": 1823.24,
+      "duration": 2.0
+    },
+    {
+      "text": "gaff. It could be brow like B",
+      "start": 1825.24,
+      "duration": 2.0
+    },
+    {
+      "text": "R A U.",
+      "start": 1827.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It could still be brow. See the R.",
+      "start": 1829.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Let's see.",
+      "start": 1831.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Let's see what happens.",
+      "start": 1833.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Dude.",
+      "start": 1835.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's not low?",
+      "start": 1837.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Law.",
+      "start": 1839.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Law",
+      "start": 1841.24,
+      "duration": 2.0
+    },
+    {
+      "text": "word.",
+      "start": 1843.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Brow.",
+      "start": 1845.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Brain dead.",
+      "start": 1847.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Sire.",
+      "start": 1849.24,
+      "duration": 2.0
+    },
+    {
+      "text": "What?",
+      "start": 1851.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Syrups.",
+      "start": 1853.24,
+      "duration": 2.0
+    },
+    {
+      "text": "And drenched",
+      "start": 1855.24,
+      "duration": 2.0
+    },
+    {
+      "text": "syrups. I'm gonna pass.",
+      "start": 1857.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my god.",
+      "start": 1865.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know any of this.",
+      "start": 1867.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't read books so I",
+      "start": 1869.24,
+      "duration": 2.0
+    },
+    {
+      "text": "wouldn't know. You have a whole library at",
+      "start": 1871.24,
+      "duration": 2.0
+    },
+    {
+      "text": "home. It smells like pee. Shut up.",
+      "start": 1873.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It doesn't smell like pee anymore though.",
+      "start": 1875.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It stopped smelling like pee a year ago.",
+      "start": 1877.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm happy for you.",
+      "start": 1879.24,
+      "duration": 2.0
+    },
+    {
+      "text": "They used some kind of lacquer.",
+      "start": 1881.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Great question.",
+      "start": 1883.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's the question on everyone's mind.",
+      "start": 1885.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Who is it?",
+      "start": 1887.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Famous novelist Pantone McGee?",
+      "start": 1889.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Burt Triangle.",
+      "start": 1891.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Bone Wendy?",
+      "start": 1897.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Candy?",
+      "start": 1899.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That is correct.",
+      "start": 1903.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Vine",
+      "start": 1905.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Mace Windu?",
+      "start": 1907.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I think it's",
+      "start": 1911.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Cane Fundy.",
+      "start": 1913.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Cane Fundy?",
+      "start": 1915.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Bone Zandu.",
+      "start": 1917.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Zandu? Yeah that's from Red Letter",
+      "start": 1919.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Media. Damn it. Alright. Fuck.",
+      "start": 1921.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know.",
+      "start": 1923.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Jane Fonda.",
+      "start": 1925.24,
+      "duration": 2.0
+    },
+    {
+      "text": "What was the first one?",
+      "start": 1927.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Bone",
+      "start": 1929.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Bone",
+      "start": 1931.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Bone Fundy?",
+      "start": 1933.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Cane Fundy.",
+      "start": 1935.24,
+      "duration": 2.0
+    },
+    {
+      "text": "So like",
+      "start": 1941.24,
+      "duration": 2.0
+    },
+    {
+      "text": "confident.",
+      "start": 1943.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh it's Bone",
+      "start": 1945.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Zandu.",
+      "start": 1947.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my god.",
+      "start": 1949.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Now I understand why people like",
+      "start": 1951.24,
+      "duration": 2.0
+    },
+    {
+      "text": "when we play Wheel of Fortune so much.",
+      "start": 1953.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That's good stuff. That's really really joyous.",
+      "start": 1955.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I can't",
+      "start": 1957.24,
+      "duration": 2.0
+    },
+    {
+      "text": "believe",
+      "start": 1959.24,
+      "duration": 2.0
+    },
+    {
+      "text": "I can't believe all the funny",
+      "start": 1961.24,
+      "duration": 2.0
+    },
+    {
+      "text": "stuff that like appears",
+      "start": 1963.24,
+      "duration": 2.0
+    },
+    {
+      "text": "as if it's real.",
+      "start": 1965.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Oven roasted scrotum and baby titties",
+      "start": 1967.24,
+      "duration": 2.0
+    },
+    {
+      "text": "come to mind. Baby titties.",
+      "start": 1969.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Baby titties is so funny.",
+      "start": 1971.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Even though it's not like a perfect fit.",
+      "start": 1973.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's so funny.",
+      "start": 1975.24,
+      "duration": 2.0
+    },
+    {
+      "text": "It's like how could you think anything but?",
+      "start": 1977.24,
+      "duration": 2.0
+    },
+    {
+      "text": "That's the thing. Like when",
+      "start": 1979.24,
+      "duration": 2.0
+    },
+    {
+      "text": "your brain locks in on something",
+      "start": 1981.24,
+      "duration": 2.0
+    },
+    {
+      "text": "no matter how stupid it is it just",
+      "start": 1983.24,
+      "duration": 2.0
+    },
+    {
+      "text": "refuses to shift.",
+      "start": 1985.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Um but yeah that's",
+      "start": 1987.24,
+      "duration": 2.0
+    },
+    {
+      "text": "wonderful. I've",
+      "start": 1989.24,
+      "duration": 2.0
+    },
+    {
+      "text": "maybe we'll play cause we're gonna record",
+      "start": 1991.24,
+      "duration": 2.0
+    },
+    {
+      "text": "a Grump session after this. Maybe we'll play some Wheel of Fortune",
+      "start": 1993.24,
+      "duration": 2.0
+    },
+    {
+      "text": "today. I would love to.",
+      "start": 1995.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah. Yeah. This really inspired",
+      "start": 1997.24,
+      "duration": 2.0
+    },
+    {
+      "text": "me for more delightful",
+      "start": 1999.24,
+      "duration": 2.0
+    },
+    {
+      "text": "hijinks. That's good stuff.",
+      "start": 2001.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah. Thank you Space Beer for putting that together.",
+      "start": 2003.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah. That was wonderful.",
+      "start": 2005.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh and if you want to put stuff",
+      "start": 2007.24,
+      "duration": 2.0
+    },
+    {
+      "text": "together then put together",
+      "start": 2009.24,
+      "duration": 2.0
+    },
+    {
+      "text": "your cursor with the subscribe",
+      "start": 2011.24,
+      "duration": 2.0
+    },
+    {
+      "text": "button. Oh nicely done.",
+      "start": 2013.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Nicely done.",
+      "start": 2015.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh uh yeah.",
+      "start": 2017.24,
+      "duration": 2.0
+    },
+    {
+      "text": "Bye. Thanks. Bye.",
+      "start": 2019.24,
+      "duration": 2.0
+    }
+  ]
+}

@@ -1,0 +1,1778 @@
+{
+  "video_id": "HqkbWz99NF8",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "[Tucker] Introducing, the new Dan!",
+      "start": 10.56,
+      "duration": 3.36
+    },
+    {
+      "text": "[Arin sings introduction music]",
+      "start": 15.04,
+      "duration": 5.7
+    },
+    {
+      "text": "[Matt] Which cam- which cam- which camera am I looking at? That one, or that one?",
+      "start": 21.14,
+      "duration": 2.12
+    },
+    {
+      "text": "[Arin] Neither of them are on.",
+      "start": 23.26,
+      "duration": 0.92
+    },
+    {
+      "text": "[Matt, stuttering] Is either one rolling?",
+      "start": 25.68,
+      "duration": 1.18
+    },
+    {
+      "text": "[Arin] This is just for us.",
+      "start": 27.16,
+      "duration": 0.5
+    },
+    {
+      "text": "[Matt] It's just for us?",
+      "start": 28.24,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin mumbling]",
+      "start": 28.98,
+      "duration": 0.5
+    },
+    {
+      "text": "[Matt] So, I can say some really bad shit then?",
+      "start": 29.48,
+      "duration": 2.12
+    },
+    {
+      "text": "[Arin] Yeah, please.",
+      "start": 31.78,
+      "duration": 1.16
+    },
+    {
+      "text": "Especially if it's racial.",
+      "start": 33.36,
+      "duration": 1.0
+    },
+    {
+      "text": "[Matt] Alright. Well, if that's the case,",
+      "start": 35.2,
+      "duration": 1.36
+    },
+    {
+      "text": "[breath]",
+      "start": 36.56,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin speaking french with a near-indecipherable american accent]",
+      "start": 37.06,
+      "duration": 1.52
+    },
+    {
+      "text": "Hello and welcome to the teen-miynute fish ten minuits",
+      "start": 38.66,
+      "duration": 4.56
+    },
+    {
+      "text": "[Dan laughs]",
+      "start": 43.22,
+      "duration": 0.78
+    },
+    {
+      "text": "[Dan speaking slightly more intelligible french]",
+      "start": 44.0,
+      "duration": 1.62
+    },
+    {
+      "text": "Hello and welcome to the ten minute power hour.",
+      "start": 45.62,
+      "duration": 3.82
+    },
+    {
+      "text": "I am called Daniel",
+      "start": 49.44,
+      "duration": 2.0
+    },
+    {
+      "text": "[stammering] Ey-Ey am called Arin.",
+      "start": 51.82,
+      "duration": 2.0
+    },
+    {
+      "text": "[thud]",
+      "start": 54.2,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] How are you doing today, Dan.",
+      "start": 55.96,
+      "duration": 1.0
+    },
+    {
+      "text": "[Dan] I'm doing really well, how are you, Arin?",
+      "start": 56.96,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] Things could be better.",
+      "start": 59.14,
+      "duration": 1.36
+    },
+    {
+      "text": "[Dan] Cool!",
+      "start": 60.62,
+      "duration": 0.5
+    },
+    {
+      "text": "Also, Matt's here.",
+      "start": 61.12,
+      "duration": 1.0
+    },
+    {
+      "text": "[Matt] What?",
+      "start": 62.78,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] Well, he's not here. He's in [whimsical] another land!",
+      "start": 64.16,
+      "duration": 1.86
+    },
+    {
+      "text": "[*K-mart is shown in background*]\n[Matt] That's pretty cool.",
+      "start": 66.06,
+      "duration": 1.2
+    },
+    {
+      "text": "[Dan] What are we doing today, Arin?",
+      "start": 67.38,
+      "duration": 1.04
+    },
+    {
+      "text": "[Arin] Uh, lemme tell you what we're doing today!",
+      "start": 68.46,
+      "duration": 2.34
+    },
+    {
+      "text": "[Old timey cleaning]",
+      "start": 71.54,
+      "duration": 6.76
+    },
+    {
+      "text": "[Dan] What's that?",
+      "start": 81.0,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] It's fun!",
+      "start": 81.68,
+      "duration": 0.58
+    },
+    {
+      "text": "[Dan] Fun?!?",
+      "start": 82.72,
+      "duration": 0.64
+    },
+    {
+      "text": "[Arin] Fun for the whole family!",
+      "start": 83.36,
+      "duration": 0.9
+    },
+    {
+      "text": "[Dan] I love fun!",
+      "start": 84.26,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] Can you guess what kind of crafts we're doing?",
+      "start": 84.76,
+      "duration": 2.034
+    },
+    {
+      "text": "[Dan] Probably some metal work.",
+      "start": 86.8,
+      "duration": 1.48
+    },
+    {
+      "text": "[Dan whispering] Are we making socks?",
+      "start": 89.78,
+      "duration": 1.12
+    },
+    {
+      "text": "[Arin] We're making!- well,",
+      "start": 90.9,
+      "duration": 1.1
+    },
+    {
+      "text": "I thought you were gonna finish that sentence with another word...",
+      "start": 93.16,
+      "duration": 1.9
+    },
+    {
+      "text": "[Dan, excited whisper] Are we making... Socks! With rocks?",
+      "start": 96.34,
+      "duration": 4.62
+    },
+    {
+      "text": "[Arin] Sock puppets.",
+      "start": 101.3,
+      "duration": 0.6
+    },
+    {
+      "text": "[Dan] Sock puppets?!",
+      "start": 102.0,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] We're making sock puppets.",
+      "start": 102.58,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] What a fucking amazing idea! Matt's gonna love it, wherever the fuck he is.",
+      "start": 103.08,
+      "duration": 3.34
+    },
+    {
+      "text": "[Arin] Get out of the jungle Matt!",
+      "start": 108.44,
+      "duration": 1.46
+    },
+    {
+      "text": "[Matt, in Kmart] Oops.",
+      "start": 110.02,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] And on this, the day of Megan's birthday.",
+      "start": 111.1,
+      "duration": 1.92
+    },
+    {
+      "text": "[Arin] Happy Birthday Megan!",
+      "start": 113.08,
+      "duration": 0.68
+    },
+    {
+      "text": "[Dan] Happy Birthday Megan.",
+      "start": 113.76,
+      "duration": 1.08
+    },
+    {
+      "text": "It'll be long after your birthday when this airs.",
+      "start": 115.1,
+      "duration": 1.46
+    },
+    {
+      "text": "[High pitched feminine french voice] Hello Arin. I am called Danielle.",
+      "start": 116.8,
+      "duration": 3.64
+    },
+    {
+      "text": "[Arin] What is he, like, Neo in the matrix? And he's- okay.",
+      "start": 121.7,
+      "duration": 2.24
+    },
+    {
+      "text": "And he's got a- Sick hump.",
+      "start": 124.16,
+      "duration": 1.8
+    },
+    {
+      "text": "[Dan, quickly] Don't fucking talk about my hump.",
+      "start": 126.38,
+      "duration": 0.82
+    },
+    {
+      "text": "[Arin] In this picture, I guess you can make a hat with it?",
+      "start": 127.9,
+      "duration": 2.02
+    },
+    {
+      "text": "[Dan] And a woman. You can also make a woman.",
+      "start": 130.4,
+      "duration": 1.92
+    },
+    {
+      "text": "[Arin] Glitter glue...",
+      "start": 132.78,
+      "duration": 0.86
+    },
+    {
+      "text": "[Dan] I bet I could eat that...",
+      "start": 133.64,
+      "duration": 0.62
+    },
+    {
+      "text": "[Arin] Is it supposed to come out?",
+      "start": 134.54,
+      "duration": 1.2
+    },
+    {
+      "text": "[Dan] No, it's it stays in the jar, Arin.",
+      "start": 136.2,
+      "duration": 2.0
+    },
+    {
+      "text": "That's half the fun.",
+      "start": 139.2,
+      "duration": 1.52
+    },
+    {
+      "text": "[Arin] Oh, it's got like a top.",
+      "start": 141.4,
+      "duration": 0.9
+    },
+    {
+      "text": "[Dan] Ohhh.",
+      "start": 142.3,
+      "duration": 0.68
+    },
+    {
+      "text": "[Arin] It's got a little topper!",
+      "start": 142.98,
+      "duration": 0.74
+    },
+    {
+      "text": "[Dan] Like, every bottle.",
+      "start": 143.72,
+      "duration": 1.1
+    },
+    {
+      "text": "[Arin] Pops right up.",
+      "start": 144.82,
+      "duration": 0.7
+    },
+    {
+      "text": "[Arin sighs]",
+      "start": 146.28,
+      "duration": 1.06
+    },
+    {
+      "text": "I'm doing my best today, Dan.",
+      "start": 147.76,
+      "duration": 1.6
+    },
+    {
+      "text": "[Dan] Oh, Yeah! Oh, it's awesome.",
+      "start": 150.62,
+      "duration": 1.94
+    },
+    {
+      "text": "[Arin] It's glittery!",
+      "start": 152.58,
+      "duration": 0.86
+    },
+    {
+      "text": "Did you just make a Rorschach with that?",
+      "start": 153.44,
+      "duration": 1.347
+    },
+    {
+      "text": "[Dan] I did, what does it look like to you?",
+      "start": 154.787,
+      "duration": 1.213
+    },
+    {
+      "text": "[Arin] It looks like glitter glue, on a receipt.",
+      "start": 156.4,
+      "duration": 2.46
+    },
+    {
+      "text": "What does that say about me?",
+      "start": 160.14,
+      "duration": 0.92
+    },
+    {
+      "text": "[Dan] You're a murderer.",
+      "start": 161.06,
+      "duration": 0.64
+    },
+    {
+      "text": "[Tortured screams of the many souls who dared cross paths with Dan Avidan, excavator of the Qumran Caves]",
+      "start": 161.7,
+      "duration": 1.22
+    },
+    {
+      "text": "There's a tiny fruit fly and it's driving me insane.",
+      "start": 162.92,
+      "duration": 2.82
+    },
+    {
+      "text": "[Arin] Do you want to kill it?",
+      "start": 165.84,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] I don't want to kill it.",
+      "start": 166.34,
+      "duration": 0.66
+    },
+    {
+      "text": "[Arin] Why?",
+      "start": 167.28,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] Because it's- I mean, it's not hurting anybody.",
+      "start": 167.84,
+      "duration": 2.9
+    },
+    {
+      "text": "[Matt] That's mine.",
+      "start": 170.78,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] What do you mean that's yours?",
+      "start": 171.32,
+      "duration": 1.38
+    },
+    {
+      "text": "[Arin] Did you make it?",
+      "start": 173.74,
+      "duration": 0.72
+    },
+    {
+      "text": "[Matt] Nah, I brought it in.",
+      "start": 174.76,
+      "duration": 0.76
+    },
+    {
+      "text": "[Arin] Why?",
+      "start": 175.94,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] That's your pet fruit fly?",
+      "start": 176.5,
+      "duration": 1.2
+    },
+    {
+      "text": "[Matt] Yeah.",
+      "start": 178.1,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] Do you walk it?",
+      "start": 179.66,
+      "duration": 0.72
+    },
+    {
+      "text": "[Matt] Yeah",
+      "start": 181.34,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] Pipe cleaners,",
+      "start": 182.8,
+      "duration": 0.92
+    },
+    {
+      "text": "Puff balls!",
+      "start": 183.72,
+      "duration": 0.74
+    },
+    {
+      "text": "Googly eyes!",
+      "start": 184.46,
+      "duration": 0.6
+    },
+    {
+      "text": "[Dan] Oh, my god.",
+      "start": 185.06,
+      "duration": 1.06
+    },
+    {
+      "text": "[Arin, struggling with his mortal enemies, the Packages Who's name must not be uttered.]",
+      "start": 186.3,
+      "duration": 15.76
+    },
+    {
+      "text": "Flawless!",
+      "start": 202.26,
+      "duration": 0.52
+    },
+    {
+      "text": "[Arrian reigned supreme over the first challenger, but the second opponent may be a different story.]",
+      "start": 202.78,
+      "duration": 1.62
+    },
+    {
+      "text": "[HE IS VICTORIOUS!]",
+      "start": 204.4,
+      "duration": 0.64
+    },
+    {
+      "text": "[Arin] Just like a baby giraffe.",
+      "start": 205.98,
+      "duration": 1.22
+    },
+    {
+      "text": "[Matt] Last time I shaved was like Friday morning, and it's Monday afternoon, so..",
+      "start": 207.8,
+      "duration": 3.9
+    },
+    {
+      "text": "[Matt traces sick biker mustache through his face with his fingers.]",
+      "start": 212.52,
+      "duration": 0.54
+    },
+    {
+      "text": "And I put Rogaine on my face too.",
+      "start": 213.68,
+      "duration": 1.62
+    },
+    {
+      "text": "[Dan] What?",
+      "start": 215.42,
+      "duration": 0.5
+    },
+    {
+      "text": "[Matt] It burned like shit.",
+      "start": 216.24,
+      "duration": 0.98
+    },
+    {
+      "text": "[Dan] Yeah, it's not how it works.",
+      "start": 217.66,
+      "duration": 1.32
+    },
+    {
+      "text": "[Matt] Well, it-",
+      "start": 219.56,
+      "duration": 0.52
+    },
+    {
+      "text": "I did it anyway.",
+      "start": 220.96,
+      "duration": 0.8
+    },
+    {
+      "text": "[Dan, speaking in the fabled Baguettetoungue]\nImportant: read the instructions before using the colored glue.",
+      "start": 221.92,
+      "duration": 6.82
+    },
+    {
+      "text": "[Arin] I feel like I'm in France!",
+      "start": 228.88,
+      "duration": 1.249
+    },
+    {
+      "text": "[Dan speaks fluently in Glue]",
+      "start": 230.129,
+      "duration": 1.731
+    },
+    {
+      "text": "You can glue in so many languages!",
+      "start": 231.86,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] Hold on, I gotta get an extension cord.",
+      "start": 233.86,
+      "duration": 1.04
+    },
+    {
+      "text": "[Dan] Tucker, can you just do a quick swing around the room and show just how into ev- uh- the show everyone is?",
+      "start": 234.9,
+      "duration": 4.66
+    },
+    {
+      "text": "One quick to Matt, on his phone.",
+      "start": 239.82,
+      "duration": 1.46
+    },
+    {
+      "text": "One quick to Layton, on *her* phone.",
+      "start": 241.48,
+      "duration": 1.94
+    },
+    {
+      "text": "[Arin] Check it out. It's Goldeneye. Dual-wielding.",
+      "start": 243.42,
+      "duration": 2.4
+    },
+    {
+      "text": "[Dan] Oh, that's great. I'm just waiting for fountains of burning hot glue to fly out.",
+      "start": 245.82,
+      "duration": 5.58
+    },
+    {
+      "text": "[Arin] That that's the one that that was attached to. Is it still- It... wasn't working with the-the- brown one?",
+      "start": 251.64,
+      "duration": 7.18
+    },
+    {
+      "text": "[Arin] Tucker?",
+      "start": 259.04,
+      "duration": 0.5
+    },
+    {
+      "text": "[Tucker] You just gonna plug into another one of these power cords?",
+      "start": 259.54,
+      "duration": 2.64
+    },
+    {
+      "text": "[Dan] Shiet. [Arin] Fuck. [Dan] God... *damn* it! [Arin] For duck fuck's sake.",
+      "start": 262.62,
+      "duration": 4.88
+    },
+    {
+      "text": "[Matt spends his time productively, cleaning his glasses as he wonders if he will ever be rescued from the cruel Arnold Handsome.]",
+      "start": 267.8,
+      "duration": 1.18
+    },
+    {
+      "text": "[Arin singing]\n🎵Till the days have gone by 🎵",
+      "start": 269.2,
+      "duration": 2.98
+    },
+    {
+      "text": "🎵My asshole is open wide. 🎵",
+      "start": 272.44,
+      "duration": 3.54
+    },
+    {
+      "text": "🎵I wanna show you what it's like 🎵",
+      "start": 275.98,
+      "duration": 2.58
+    },
+    {
+      "text": "🎵to die 🎵",
+      "start": 278.98,
+      "duration": 1.77
+    },
+    {
+      "text": "[Arin] I think I might have unplugged the thing that I wasn't supposed to unplug",
+      "start": 280.75,
+      "duration": 2.51
+    },
+    {
+      "text": "You know what? I don't have to unplug things. I can just plug everything in.",
+      "start": 283.3,
+      "duration": 2.9
+    },
+    {
+      "text": "[whap] Ow!",
+      "start": 286.2,
+      "duration": 0.74
+    },
+    {
+      "text": "[Matt] I'm in Vietnam!",
+      "start": 286.94,
+      "duration": 1.4
+    },
+    {
+      "text": "[Dan]You're coming with us, son!\n[Matt] Last chopper out of Vietnam, baby. \n[Dan] Come on!",
+      "start": 288.34,
+      "duration": 4.06
+    },
+    {
+      "text": "[Arin] Waugh!",
+      "start": 292.46,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan imitating Huey noises as he saves Matt from Vietnam A.K.A K-mart]",
+      "start": 293.08,
+      "duration": 2.0
+    },
+    {
+      "text": "You okay? You all right?",
+      "start": 295.56,
+      "duration": 2.94
+    },
+    {
+      "text": "[Matt] Kiss me.",
+      "start": 298.5,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] This is your hot glue gun, it's working. All right. So what are you gonna make, Dan?\n[Dan] I'll fucking show you! God,",
+      "start": 303.38,
+      "duration": 4.86
+    },
+    {
+      "text": "damn it!",
+      "start": 308.98,
+      "duration": 0.88
+    },
+    {
+      "text": "I'll show you.",
+      "start": 310.39,
+      "duration": 1.09
+    },
+    {
+      "text": "Little glue here. Whoops! And a little glue there. Yup.",
+      "start": 311.48,
+      "duration": 4.66
+    },
+    {
+      "text": "This is a scissor like, literally centimeters from your hand.",
+      "start": 316.98,
+      "duration": 2.48
+    },
+    {
+      "text": "[Arin] Yeah, so are my in-scissors. [Dan] Well, sorry. [Arin] That's what they're called",
+      "start": 319.46,
+      "duration": 3.34
+    },
+    {
+      "text": "[Dan] Yeeeeaaaah!",
+      "start": 322.8,
+      "duration": 1.18
+    },
+    {
+      "text": "[Arin] Look at him! \n[Dan] We did it! \n[Arin] What's his name?",
+      "start": 323.98,
+      "duration": 2.0
+    },
+    {
+      "text": "[Dan] Mm-ah.",
+      "start": 326.84,
+      "duration": 0.88
+    },
+    {
+      "text": "M-uh. Margatsni. It's Instagram backwards!",
+      "start": 328.38,
+      "duration": 5.3
+    },
+    {
+      "text": "[Dan laughs as Arin questions life choices]",
+      "start": 333.68,
+      "duration": 1.72
+    },
+    {
+      "text": "Oh, Margatsni, you're my new best friend!",
+      "start": 335.4,
+      "duration": 2.54
+    },
+    {
+      "text": "[Arin] Alright, well, I'm gonna make my character, and he's got a little... he's got a little grin.",
+      "start": 338.02,
+      "duration": 4.36
+    },
+    {
+      "text": "He's like \"Hmm-mm-mmm. I got a- I got a secret huhuhuh\"",
+      "start": 342.92,
+      "duration": 4.58
+    },
+    {
+      "text": "[Arin] I'm gonna name mine Ronaldo. [Dan] Oh!\n[Arin] With a PH in the middle. (Ronalphdo?) [Dan] Okay.",
+      "start": 348.94,
+      "duration": 4.64
+    },
+    {
+      "text": "[Arin] um",
+      "start": 354.26,
+      "duration": 0.54
+    },
+    {
+      "text": "The hell are you doing over there",
+      "start": 356.02,
+      "duration": 2.0
+    },
+    {
+      "text": "[Matt, echoey] Testing the new Guitar Hero.",
+      "start": 359.44,
+      "duration": 1.22
+    },
+    {
+      "text": "[Dan] How you doing? How's the song coming?",
+      "start": 361.16,
+      "duration": 2.0
+    },
+    {
+      "text": "[Matt] I'm gaming right now. [Dan] Okay.",
+      "start": 363.48,
+      "duration": 2.22
+    },
+    {
+      "text": "[Matt] Any fucking guitar hero in the background Tucker? Do I have to explain the bit to you?",
+      "start": 365.82,
+      "duration": 5.26
+    },
+    {
+      "text": "[Arin] What the hell?",
+      "start": 371.08,
+      "duration": 0.88
+    },
+    {
+      "text": "[Margatsni, anguished] HEEEEEELP!",
+      "start": 371.96,
+      "duration": 1.1
+    },
+    {
+      "text": "[Both laugh]",
+      "start": 373.06,
+      "duration": 1.92
+    },
+    {
+      "text": "[Arin] You're makin' like a spider creature!",
+      "start": 375.0,
+      "duration": 1.74
+    },
+    {
+      "text": "[Margatsni] nnnOOOOOOOOOOO-",
+      "start": 376.74,
+      "duration": 1.3
+    },
+    {
+      "text": "[Dan] You gotta kill this thing with fire. Like, he is not, ok",
+      "start": 378.08,
+      "duration": 3.84
+    },
+    {
+      "text": "[Squelch sounds] I'm starting over.",
+      "start": 381.92,
+      "duration": 1.46
+    },
+    {
+      "text": "Ooooh you can make arms!!",
+      "start": 383.7,
+      "duration": 1.68
+    },
+    {
+      "text": "[Arin] Yeah!",
+      "start": 385.38,
+      "duration": 0.88
+    },
+    {
+      "text": "[Dan] What a great fuckin' idea!",
+      "start": 386.26,
+      "duration": 0.68
+    },
+    {
+      "text": "[Arin] Dude, you gotta get creative! You can do anything you want in the world of sock puppetry.",
+      "start": 387.24,
+      "duration": 4.88
+    },
+    {
+      "text": "[Dan] Can you look up the lyrics for Reading Rainbow the theme song for me?",
+      "start": 392.12,
+      "duration": 3.06
+    },
+    {
+      "text": "[Matt] Yeah!",
+      "start": 395.18,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] Matt, could you just as quickly *not* do that?",
+      "start": 396.82,
+      "duration": 3.2
+    },
+    {
+      "text": "[Matt] Arin technically is my boss. Dan. So...",
+      "start": 402.14,
+      "duration": 3.84
+    },
+    {
+      "text": "[Dan] Matt, first of all, what are you doing in Jurassic Park?",
+      "start": 406.66,
+      "duration": 4.16
+    },
+    {
+      "text": "Sorry. Sorry! Sorry. Sorry. Sorry. So-",
+      "start": 411.68,
+      "duration": 3.06
+    },
+    {
+      "text": "[Arin] This is my- I'm not done yet though 'cuz it's gotta me me-",
+      "start": 414.88,
+      "duration": 3.3
+    },
+    {
+      "text": "OW FUCK",
+      "start": 418.18,
+      "duration": 0.8
+    },
+    {
+      "text": "[Dan] Yeah, it's burning hot.",
+      "start": 419.14,
+      "duration": 0.82
+    },
+    {
+      "text": "[Arin, distressed] FUCK. FUCK. aaAAAAAOW.\n[Dan laughing]",
+      "start": 419.96,
+      "duration": 3.24
+    },
+    {
+      "text": "How much of this is usable?",
+      "start": 423.98,
+      "duration": 0.96
+    },
+    {
+      "text": "[Dan, whispering] So much yarn. So much yarn",
+      "start": 425.26,
+      "duration": 2.3
+    },
+    {
+      "text": "[Arin] Arright, so, I-",
+      "start": 427.7,
+      "duration": 0.56
+    },
+    {
+      "text": "[Dan]  So much yarn. So. Much. Yarn.",
+      "start": 428.26,
+      "duration": 3.56
+    },
+    {
+      "text": "[Arin] I'm gonna do what I always wanted to do as a kid-",
+      "start": 432.24,
+      "duration": 1.86
+    },
+    {
+      "text": "[Dan] HELP",
+      "start": 434.1,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan. struggling] No, I think I got it.",
+      "start": 436.1,
+      "duration": 1.02
+    },
+    {
+      "text": "[Chair scraping on wood]",
+      "start": 438.58,
+      "duration": 3.38
+    },
+    {
+      "text": "[Dan] I think I'm good. I think I'm good.",
+      "start": 441.96,
+      "duration": 2.0
+    },
+    {
+      "text": "*Dan, slowly drowning in a sea of yarn raises hand. Desperate for help, Arin ignores him*",
+      "start": 445.08,
+      "duration": 0.7
+    },
+    {
+      "text": "[Arin burps, then speaks] Why would be tangled up in yarn make you fall off your chair? I don't get this bit.",
+      "start": 445.78,
+      "duration": 5.1
+    },
+    {
+      "text": "That is like pro level cat's cradle. [Dan] yeah.",
+      "start": 452.32,
+      "duration": 2.4
+    },
+    {
+      "text": "[Both laugh]",
+      "start": 454.72,
+      "duration": 3.94
+    },
+    {
+      "text": "[Arin] Wow! It's a massacre!",
+      "start": 459.1,
+      "duration": 2.06
+    },
+    {
+      "text": "[Dan] I did it!",
+      "start": 461.28,
+      "duration": 0.56
+    },
+    {
+      "text": "This is the bungee cord that's fucking- Jesus!",
+      "start": 461.84,
+      "duration": 2.96
+    },
+    {
+      "text": "[Arin] After all that it turned out to be exactly like Dan's hair.",
+      "start": 464.8,
+      "duration": 2.64
+    },
+    {
+      "text": "[Dan] I was fucking- I know, I planned it that way!",
+      "start": 467.64,
+      "duration": 2.76
+    },
+    {
+      "text": "[Dan, out of breath] Gimme another stick of glitter...",
+      "start": 470.56,
+      "duration": 2.46
+    },
+    {
+      "text": "[Arin] They're right here! They're closer to you then they are to me!",
+      "start": 473.02,
+      "duration": 2.74
+    },
+    {
+      "text": "[Dan] So they are.",
+      "start": 476.12,
+      "duration": 1.06
+    },
+    {
+      "text": "[Arin] What am I, your squire?",
+      "start": 477.68,
+      "duration": 1.02
+    },
+    {
+      "text": "[High voice] Excuse me sir, what more would you like from me?",
+      "start": 479.52,
+      "duration": 3.7
+    },
+    {
+      "text": "Would you like some gluuuee?",
+      "start": 483.48,
+      "duration": 2.0
+    },
+    {
+      "text": "Some-some...",
+      "start": 487.38,
+      "duration": 1.04
+    },
+    {
+      "text": "Some hot gluuueee!",
+      "start": 489.64,
+      "duration": 1.6
+    },
+    {
+      "text": "[Dan struggling]",
+      "start": 491.4,
+      "duration": 1.26
+    },
+    {
+      "text": "[Arin] I don't know where this bit's going.\n[Dan laughs]",
+      "start": 492.74,
+      "duration": 1.46
+    },
+    {
+      "text": "Alright, that's enough hair, right?",
+      "start": 494.2,
+      "duration": 1.04
+    },
+    {
+      "text": "[Dan proceeds to panic]",
+      "start": 495.24,
+      "duration": 1.38
+    },
+    {
+      "text": "[Dan] aah ahh AHH OOH, Oh, it's so hot! Fuck!",
+      "start": 496.62,
+      "duration": 3.6
+    },
+    {
+      "text": "[Arin] Yeah.\n[Dan] That is incredibly painful!\n[Arin] I TOLD you! That wasn't making a bit! That was totally mi-th... accurate!\n[Dan] Ow.",
+      "start": 500.22,
+      "duration": 6.76
+    },
+    {
+      "text": "[Arin] See, this is a how-to video on how to socks, with Arin hands...socks.",
+      "start": 508.38,
+      "duration": 6.22
+    },
+    {
+      "text": "[Dan] Hehehe nice.",
+      "start": 515.1,
+      "duration": 1.22
+    },
+    {
+      "text": "[Arin] Don't laugh at that!",
+      "start": 517.76,
+      "duration": 2.52
+    },
+    {
+      "text": "[Dan] Hehehe yeah!",
+      "start": 521.22,
+      "duration": 1.24
+    },
+    {
+      "text": "[Matt] It's Danny Socksbang.",
+      "start": 523.16,
+      "duration": 1.46
+    },
+    {
+      "text": "[Dan] You ffffucking genius.",
+      "start": 525.8,
+      "duration": 2.24
+    },
+    {
+      "text": "[whoosh]",
+      "start": 528.04,
+      "duration": 0.5
+    },
+    {
+      "text": "[Pipe music plays]",
+      "start": 528.54,
+      "duration": 1.14
+    },
+    {
+      "text": "[Arin] Ye-OOOOOOOOW",
+      "start": 529.68,
+      "duration": 1.14
+    },
+    {
+      "text": "[Dan laughs]",
+      "start": 530.82,
+      "duration": 1.36
+    },
+    {
+      "text": "[Arin] God damn it! It remains hot!\n[Dan] Yeah, y-",
+      "start": 532.48,
+      "duration": 3.88
+    },
+    {
+      "text": "[Fart noise]",
+      "start": 536.88,
+      "duration": 0.86
+    },
+    {
+      "text": "[Dan] Mmm. How's that look? Like that's a chunk a'- ooh. Mmm, that's chunky.",
+      "start": 537.74,
+      "duration": 5.12
+    },
+    {
+      "text": "[Arin] Ow, fuck fuck. Fuck. Get on there, God damn it.",
+      "start": 543.18,
+      "duration": 3.64
+    },
+    {
+      "text": "[Dan] That's\n[Arin] Fuck fuck",
+      "start": 547.12,
+      "duration": 1.3
+    },
+    {
+      "text": "[Dan]That's actually pretty good. \n[Arin] Fuck.\n[Dan] It's pretty good",
+      "start": 548.42,
+      "duration": 2.26
+    },
+    {
+      "text": "[Arin] Fuck.",
+      "start": 550.68,
+      "duration": 0.94
+    },
+    {
+      "text": "[Dan] this is the second time we've had unicorn jizz on the show. That is what they want. We get we get your letters",
+      "start": 552.0,
+      "duration": 4.899
+    },
+    {
+      "text": "[Arin] I'm gonna give him... uh, I mean",
+      "start": 556.899,
+      "duration": 2.489
+    },
+    {
+      "text": "her \n[Dan] Oh",
+      "start": 560.269,
+      "duration": 1.62
+    },
+    {
+      "text": "[Arin] A dress! \n[Dan] She's a lay-deey.",
+      "start": 561.889,
+      "duration": 2.751
+    },
+    {
+      "text": "[Arin] Mm-hmm\n[Dan] I'll give him a... lil' feather.",
+      "start": 564.68,
+      "duration": 2.0
+    },
+    {
+      "text": "Why thank you helpful sock puppet",
+      "start": 567.589,
+      "duration": 2.27
+    },
+    {
+      "text": "You're already great!",
+      "start": 571.84,
+      "duration": 1.88
+    },
+    {
+      "text": "I'll make mine a tie-dyed hippie! A dirty fucking socialist hippie. Here we go.",
+      "start": 574.12,
+      "duration": 5.18
+    },
+    {
+      "text": "[Arin] I thought you said we weren't gonna get political on this show.",
+      "start": 579.3,
+      "duration": 2.16
+    },
+    {
+      "text": "[Dan] We're not!",
+      "start": 581.46,
+      "duration": 0.88
+    },
+    {
+      "text": "Socialism is God's Way, so it's not political.",
+      "start": 582.34,
+      "duration": 3.0
+    },
+    {
+      "text": "[Arin] It's me. I've got the long hair",
+      "start": 585.34,
+      "duration": 2.62
+    },
+    {
+      "text": "And it's got a color in it. Then I have arms so I can wave!",
+      "start": 588.8,
+      "duration": 3.62
+    },
+    {
+      "text": "[Ronalphdo] Good, right?",
+      "start": 593.06,
+      "duration": 1.44
+    },
+    {
+      "text": "[Dan] Just stuff- [Dan imitates having felt forcibly stuffed in his mouth]",
+      "start": 594.8,
+      "duration": 2.4
+    },
+    {
+      "text": "[Arin] Wow, yours is so magical!",
+      "start": 597.32,
+      "duration": 1.56
+    },
+    {
+      "text": "[Dan]  I know, I feel... because.. he-",
+      "start": 598.88,
+      "duration": 1.7
+    },
+    {
+      "text": "[Arin] What's he smoking?",
+      "start": 601.04,
+      "duration": 0.86
+    },
+    {
+      "text": "[Dan] A doobie. Yeah. [Arin laughs]",
+      "start": 601.92,
+      "duration": 1.28
+    },
+    {
+      "text": "He's smoking a doobster.\n[Arin] He's got a doobs!",
+      "start": 603.64,
+      "duration": 2.18
+    },
+    {
+      "text": "[Dan] Because, back in the day, I was a little bit into the doobs and I put feathers in my hair and I candyrave all night!\n[Arin] Alright.",
+      "start": 605.82,
+      "duration": 6.52
+    },
+    {
+      "text": "[Dan imitates the base line of an EDM song]",
+      "start": 612.86,
+      "duration": 4.96
+    },
+    {
+      "text": "[Arin] Hold on, watch out, watch watch watch out! I got scissors.",
+      "start": 617.82,
+      "duration": 2.82
+    },
+    {
+      "text": "[Arin] Just cut- AAH FUCK! [Dan] What?! AHH IT'S SO HOT!\n[Dan] Oh, you touched the glue gun.",
+      "start": 620.64,
+      "duration": 4.54
+    },
+    {
+      "text": "There's a lot of dangerous sharp and hot shit, all right- \n[Arin] Alright, cut it!\n[Dan] All right, don't yell at me!\n[Arin] Don't cut my fingers though.",
+      "start": 625.64,
+      "duration": 5.56
+    },
+    {
+      "text": "[Dan] I- there's so many glue on your-\n[Arin] you can do it. Just just just",
+      "start": 631.2,
+      "duration": 4.26
+    },
+    {
+      "text": "just fucking",
+      "start": 636.22,
+      "duration": 1.38
+    },
+    {
+      "text": "[Dan] How's that? No, that's not-\n[Dan] that's a hell of a prolapse to go all the way up from the anus out the mouth.",
+      "start": 637.61,
+      "duration": 6.37
+    },
+    {
+      "text": "[Ronalphdo] haAAgh",
+      "start": 644.18,
+      "duration": 0.92
+    },
+    {
+      "text": "[Arin] Get the fuck-\n[Scissors clattering on table]",
+      "start": 645.38,
+      "duration": 1.36
+    },
+    {
+      "text": "[Dan laughing]\n[Ronalphdo] AAARGH.",
+      "start": 646.74,
+      "duration": 2.0
+    },
+    {
+      "text": "DOOOOAAAARGH",
+      "start": 648.78,
+      "duration": 1.0
+    },
+    {
+      "text": "BLRRRAAAAAAAAA",
+      "start": 650.14,
+      "duration": 1.64
+    },
+    {
+      "text": "[Dan's continued, escalating laughter]\n[Arin] So here's... here's my puppet.",
+      "start": 651.96,
+      "duration": 4.7
+    },
+    {
+      "text": "[Dan] It is right out of a horror movie.",
+      "start": 657.5,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm gonna see that thing coming for me in my dreams.",
+      "start": 659.78,
+      "duration": 3.16
+    },
+    {
+      "text": "[Ronalphdo, muffled] KILL MEEE",
+      "start": 663.1,
+      "duration": 1.7
+    },
+    {
+      "text": "KILL MEEEE",
+      "start": 664.9,
+      "duration": 1.46
+    },
+    {
+      "text": "[Anguished screaming]",
+      "start": 666.92,
+      "duration": 1.14
+    },
+    {
+      "text": "OOOOOOOOOOOOLGH",
+      "start": 668.66,
+      "duration": 1.76
+    },
+    {
+      "text": "[smouch]",
+      "start": 672.64,
+      "duration": 0.5
+    },
+    {
+      "text": "[Background music playing]",
+      "start": 673.3,
+      "duration": 3.64
+    },
+    {
+      "text": "[Ronalphdo] My name is...",
+      "start": 678.2,
+      "duration": 1.08
+    },
+    {
+      "text": "MY NAME IS...",
+      "start": 679.8,
+      "duration": 1.24
+    },
+    {
+      "text": "Larry...",
+      "start": 681.88,
+      "duration": 1.16
+    },
+    {
+      "text": "Jenkinson.",
+      "start": 683.26,
+      "duration": 0.92
+    },
+    {
+      "text": "[Socksbang] And I'm Danny Socksbang. Heeyy Maaaatt. What's up?",
+      "start": 685.06,
+      "duration": 4.26
+    },
+    {
+      "text": "[Jenkinson] Yeah, what's going on Matt-[Unintelligble]?",
+      "start": 689.78,
+      "duration": 3.1
+    },
+    {
+      "text": "[Matt] I know I was actually part of the-",
+      "start": 693.3,
+      "duration": 1.46
+    },
+    {
+      "text": "[stammering] Not much... friends?",
+      "start": 696.2,
+      "duration": 1.72
+    },
+    {
+      "text": "[Socksbang] Hey met have you ever tried...",
+      "start": 697.92,
+      "duration": 2.32
+    },
+    {
+      "text": "marijuana?",
+      "start": 700.7,
+      "duration": 1.62
+    },
+    {
+      "text": "[Jenkinson] Whaaaat?!",
+      "start": 702.54,
+      "duration": 0.94
+    },
+    {
+      "text": "[Matt] I guess I've smoked a left-handed cigarette here and there",
+      "start": 704.18,
+      "duration": 2.36
+    },
+    {
+      "text": "[Socksbang] Everybody's puffing the Jazz Cabbage. Everybody loves it.",
+      "start": 707.24,
+      "duration": 3.74
+    },
+    {
+      "text": "Mmm-mmm-mmm!",
+      "start": 712.34,
+      "duration": 1.4
+    },
+    {
+      "text": "Wanna try?",
+      "start": 713.86,
+      "duration": 1.6
+    },
+    {
+      "text": "[Matt] I'll take a hit of that stuff, sure!",
+      "start": 715.64,
+      "duration": 1.82
+    },
+    {
+      "text": "[Jenkinson] Oh no! I would try but my anus fell out through my mouth!",
+      "start": 717.86,
+      "duration": 4.1
+    },
+    {
+      "text": "[Matt coughing]",
+      "start": 721.96,
+      "duration": 1.38
+    },
+    {
+      "text": "[Socksbang] That's one of the many complications of using... marijuana.",
+      "start": 723.68,
+      "duration": 3.92
+    },
+    {
+      "text": "Matt, your anus should be falling out of your mouth any second now!\n[Jenkinson] Oh noh!",
+      "start": 727.76,
+      "duration": 4.3
+    },
+    {
+      "text": "[Matt coughs again]",
+      "start": 732.3,
+      "duration": 1.3
+    },
+    {
+      "text": "At least I won't look so bad anymore.\n [Matt] Strong shit, man.",
+      "start": 733.72,
+      "duration": 4.22
+    },
+    {
+      "text": "[Jenkinson] Yo yo can I get a hit?",
+      "start": 738.22,
+      "duration": 1.42
+    },
+    {
+      "text": "[Intense anus inhaling]\n[Matt] Smoke that shit. That's right",
+      "start": 740.0,
+      "duration": 2.68
+    },
+    {
+      "text": "[Intense anus exhaling]",
+      "start": 743.1,
+      "duration": 2.1
+    },
+    {
+      "text": "[Jenkinson] Holy FUCK.",
+      "start": 746.24,
+      "duration": 2.0
+    },
+    {
+      "text": "drug use is funny",
+      "start": 749.48,
+      "duration": 1.48
+    },
+    {
+      "text": "[All laugh]",
+      "start": 750.96,
+      "duration": 1.7
+    },
+    {
+      "text": "[Socksbang] Matt,",
+      "start": 752.66,
+      "duration": 0.54
+    },
+    {
+      "text": "[Jenkinson] Line that shit up!\n[Socksbang] looks like you brought some... cocaine.",
+      "start": 753.2,
+      "duration": 4.04
+    },
+    {
+      "text": "[Jenkinson] I'm gonna sniff it!",
+      "start": 757.54,
+      "duration": 1.14
+    },
+    {
+      "text": "[Matt] You know I did boys.\n[Socksbang sniffing violently] Eugh.",
+      "start": 758.68,
+      "duration": 2.38
+    },
+    {
+      "text": "[All sniffing]",
+      "start": 761.26,
+      "duration": 1.76
+    },
+    {
+      "text": "[Socksbang wailing]",
+      "start": 763.22,
+      "duration": 2.0
+    },
+    {
+      "text": "[Jenkinson has audible trouble ingesting  the cocaine.]",
+      "start": 767.44,
+      "duration": 2.36
+    },
+    {
+      "text": "Help... me...",
+      "start": 769.8,
+      "duration": 1.82
+    },
+    {
+      "text": "[Matt] Kids, do drugs.",
+      "start": 773.41,
+      "duration": 2.0
+    },
+    {
+      "text": "[Socksbang] Did you say \"Kids do drugs\"?\n[Jenkinson] What?",
+      "start": 776.34,
+      "duration": 2.0
+    },
+    {
+      "text": "[Jenkinson] Don't say that. \n[Socksbang] Yeah, don't- don't say that.",
+      "start": 778.92,
+      "duration": 2.4
+    },
+    {
+      "text": "[Matt] Kids, don't do drugs. \n[Socksbang] Thaaat's the one.",
+      "start": 781.32,
+      "duration": 1.46
+    },
+    {
+      "text": "[Jenkinson] don't say that-\n[Matt] Put that on screen, Tucker.",
+      "start": 782.82,
+      "duration": 1.86
+    },
+    {
+      "text": "[Matt] Don't do drugs. \n[Jenkinson] Yes, put that one on screen.",
+      "start": 784.78,
+      "duration": 2.7
+    },
+    {
+      "text": "[Jenkinson] Don't put- dude, that's not cool.",
+      "start": 787.6,
+      "duration": 3.08
+    },
+    {
+      "text": "[Matt] It was part of the bit, dude!",
+      "start": 790.68,
+      "duration": 1.6
+    },
+    {
+      "text": "[Jenkinson] It-ah-It's not a bit when it endangers the lives of our kids! [Socksbang] It's not a bit when you're telling kids to do drugs.",
+      "start": 792.28,
+      "duration": 3.9
+    },
+    {
+      "text": "[Jenkinson] It's not a bit.\n[Matt] That's definitely a bit!\n[Jenkinson] It's not a bit!",
+      "start": 796.42,
+      "duration": 3.2
+    },
+    {
+      "text": "[Matt] They can tell the difference between a bit and real-",
+      "start": 799.8,
+      "duration": 1.78
+    },
+    {
+      "text": "I'm not gonna actually... g- seriously go on camera and encourage drug use.",
+      "start": 801.76,
+      "duration": 3.24
+    },
+    {
+      "text": "[Jenkinson] I- right, but when you do it seems like it's seri- you can't do- \n[Matt] I was-\n[Jenkinson] We can't be liable for that!!",
+      "start": 805.02,
+      "duration": 5.92
+    },
+    {
+      "text": "[Matt] I was smiling and you put a thing on screen that says game grumps is not liable for drug use.",
+      "start": 811.04,
+      "duration": 4.24
+    },
+    {
+      "text": "[Jenkinson] Unbelievable.",
+      "start": 815.28,
+      "duration": 0.88
+    },
+    {
+      "text": "[Matt muttering to Jenkinson]\n[Dan] Hi, I'm Dan Avidan of the ten minute power hour.",
+      "start": 818.44,
+      "duration": 3.9
+    },
+    {
+      "text": "We're here to say: kids, don't do drugs.",
+      "start": 823.66,
+      "duration": 3.7
+    },
+    {
+      "text": "Because they're really expensive!",
+      "start": 828.36,
+      "duration": 2.0
+    },
+    {
+      "text": "[Jenkinson] If you have any ideas",
+      "start": 831.9,
+      "duration": 1.62
+    },
+    {
+      "text": "for a power hour",
+      "start": 833.52,
+      "duration": 2.0
+    },
+    {
+      "text": "let us know in the comments below!",
+      "start": 835.66,
+      "duration": 3.1
+    },
+    {
+      "text": "[Socksbang, halfheartedly] yaAay.",
+      "start": 839.46,
+      "duration": 1.1
+    },
+    {
+      "text": "[whump]",
+      "start": 840.8,
+      "duration": 0.5
+    },
+    {
+      "text": "[Gentle slapping]",
+      "start": 842.14,
+      "duration": 2.16
+    },
+    {
+      "text": "[Matt] I've got felt in my mouth. I can't say anything if I have felt in my mouth.",
+      "start": 844.9,
+      "duration": 2.76
+    },
+    {
+      "text": "[Socksbang] You're gonna have a bunch more in second!",
+      "start": 847.66,
+      "duration": 1.84
+    },
+    {
+      "text": "[thwump]",
+      "start": 849.66,
+      "duration": 0.5
+    },
+    {
+      "text": "[Jenkinson] How did that... felt? Huhu.",
+      "start": 851.88,
+      "duration": 2.32
+    },
+    {
+      "text": "[All laugh]",
+      "start": 854.2,
+      "duration": 1.74
+    },
+    {
+      "text": "[Arin, seductively] Look Matthew,",
+      "start": 856.04,
+      "duration": 0.78
+    },
+    {
+      "text": "[Dan laughing]",
+      "start": 856.82,
+      "duration": 1.1
+    },
+    {
+      "text": "[Arin] things have been getting really heated between us I just feel-",
+      "start": 858.14,
+      "duration": 3.74
+    },
+    {
+      "text": "[Cellophane crackle]",
+      "start": 862.0,
+      "duration": 2.72
+    },
+    {
+      "text": "-like we could do something....",
+      "start": 864.72,
+      "duration": 2.0
+    },
+    {
+      "text": "Why don't you come work on my dad peanut farm",
+      "start": 868.12,
+      "duration": 2.0
+    },
+    {
+      "text": "[Matt, grubba voice] You mean it? At your dad's peanut farm?!",
+      "start": 871.26,
+      "duration": 2.82
+    },
+    {
+      "text": "[Arin] I do mean it.",
+      "start": 874.5,
+      "duration": 0.5
+    },
+    {
+      "text": "[Matt] A job for ME?! Oh!",
+      "start": 875.1,
+      "duration": 1.7
+    },
+    {
+      "text": "I'd be working at the farm all, seven hours a daaay.",
+      "start": 877.54,
+      "duration": 3.32
+    },
+    {
+      "text": "Rakin' peanuts.",
+      "start": 881.62,
+      "duration": 1.24
+    },
+    {
+      "text": "I'll tell you what, I think there's a little something here between us.\n[Arin laughing, Dan sounds like an air tank releasing air below water]",
+      "start": 883.34,
+      "duration": 4.9
+    },
+    {
+      "text": "I think there's somethin' more than peanut farmin'.\n[Arin laughs more]",
+      "start": 888.24,
+      "duration": 2.58
+    },
+    {
+      "text": "I'll tell you what when I have sex on a girl she's always screaming for more.\n [Dan] Same here, bro! Up top!",
+      "start": 891.5,
+      "duration": 6.98
+    },
+    {
+      "text": "[gentle slapping]",
+      "start": 898.64,
+      "duration": 2.0
+    },
+    {
+      "text": "[Credits music playing in background]\n[Arin] [unintelligble] here comes the spurt!\n[Matt] Yep. Three, two, one...",
+      "start": 903.0,
+      "duration": 3.96
+    },
+    {
+      "text": "[Matt] Oh! *Oh!* Ah.",
+      "start": 907.22,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh. OH. Aah! AGH. AAAAAAGH.\n[Dan laughs]\n[Arin] That's not- that's not a lotta spurt.\n[Matt] Ogh.",
+      "start": 909.22,
+      "duration": 5.66
+    }
+  ]
+}

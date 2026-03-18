@@ -1,0 +1,4908 @@
+{
+  "video_id": "uPvc6JDvrYg",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippets": [
+    {
+      "text": "Hello, we are Ninja Sex Party and our",
+      "start": 0.719,
+      "duration": 3.441
+    },
+    {
+      "text": "new cover album Underthe Covers 4 is",
+      "start": 2.639,
+      "duration": 3.12
+    },
+    {
+      "text": "available for pre-order right now.",
+      "start": 4.16,
+      "duration": 4.599
+    },
+    {
+      "text": "Ninjasexparty.com/store.",
+      "start": 5.759,
+      "duration": 3.0
+    },
+    {
+      "text": ">> Hey, I'm Grub. I'm not so gruff and",
+      "start": 9.36,
+      "duration": 5.68
+    },
+    {
+      "text": "we're the game grumps.",
+      "start": 12.639,
+      "duration": 7.601
+    },
+    {
+      "text": ">> It's the Oregon Trail. The Oregon Trail.",
+      "start": 15.04,
+      "duration": 8.159
+    },
+    {
+      "text": "If I recall correctly, Ross and I played",
+      "start": 20.24,
+      "duration": 5.68
+    },
+    {
+      "text": "this for Steam Train many years ago.",
+      "start": 23.199,
+      "duration": 4.881
+    },
+    {
+      "text": ">> Wait, who's Ross?",
+      "start": 25.92,
+      "duration": 3.519
+    },
+    {
+      "text": ">> Oh, he's a lovely guy. Yeah. You'd like",
+      "start": 28.08,
+      "duration": 1.76
+    },
+    {
+      "text": "him?",
+      "start": 29.439,
+      "duration": 1.041
+    },
+    {
+      "text": ">> You think so?",
+      "start": 29.84,
+      "duration": 1.12
+    },
+    {
+      "text": ">> I do.",
+      "start": 30.48,
+      "duration": 2.079
+    },
+    {
+      "text": ">> Do Do you think we'd get along?",
+      "start": 30.96,
+      "duration": 3.2
+    },
+    {
+      "text": ">> I do.",
+      "start": 32.559,
+      "duration": 4.401
+    },
+    {
+      "text": ">> He's from another world, another land.",
+      "start": 34.16,
+      "duration": 3.68
+    },
+    {
+      "text": "Australia.",
+      "start": 36.96,
+      "duration": 2.48
+    },
+    {
+      "text": ">> Wow.",
+      "start": 37.84,
+      "duration": 5.52
+    },
+    {
+      "text": ">> 2014. Jeez. Steam train. That's crazy.",
+      "start": 39.44,
+      "duration": 7.76
+    },
+    {
+      "text": "2014 was uh 11 years ago. Ain't that",
+      "start": 43.36,
+      "duration": 6.32
+    },
+    {
+      "text": "something?",
+      "start": 47.2,
+      "duration": 4.0
+    },
+    {
+      "text": ">> I hate that.",
+      "start": 49.68,
+      "duration": 2.96
+    },
+    {
+      "text": ">> Cool. Let's do it.",
+      "start": 51.2,
+      "duration": 3.519
+    },
+    {
+      "text": ">> Let's do explain difficulty for me.",
+      "start": 52.64,
+      "duration": 2.559
+    },
+    {
+      "text": ">> Okay.",
+      "start": 54.719,
+      "duration": 2.881
+    },
+    {
+      "text": ">> Difficulty is an idea of something being",
+      "start": 55.199,
+      "duration": 4.481
+    },
+    {
+      "text": "difficult. Well, click anywhere to",
+      "start": 57.6,
+      "duration": 2.56
+    },
+    {
+      "text": "continue.",
+      "start": 59.68,
+      "duration": 3.359
+    },
+    {
+      "text": ">> Uh, yeah. Okay, I'll just do normal.",
+      "start": 60.16,
+      "duration": 3.36
+    },
+    {
+      "text": ">> Okay.",
+      "start": 63.039,
+      "duration": 2.321
+    },
+    {
+      "text": ">> Second controller can be used for drop",
+      "start": 63.52,
+      "duration": 2.959
+    },
+    {
+      "text": "in co-op.",
+      "start": 65.36,
+      "duration": 2.72
+    },
+    {
+      "text": ">> Most combat scenarios.",
+      "start": 66.479,
+      "duration": 2.801
+    },
+    {
+      "text": ">> What?",
+      "start": 68.08,
+      "duration": 2.64
+    },
+    {
+      "text": ">> After your party joins you.",
+      "start": 69.28,
+      "duration": 3.12
+    },
+    {
+      "text": ">> That's freaking awesome.",
+      "start": 70.72,
+      "duration": 3.12
+    },
+    {
+      "text": ">> Are you the dude?",
+      "start": 72.4,
+      "duration": 2.56
+    },
+    {
+      "text": ">> No, I'm the lady.",
+      "start": 73.84,
+      "duration": 2.56
+    },
+    {
+      "text": ">> Are you the lady?",
+      "start": 74.96,
+      "duration": 2.56
+    },
+    {
+      "text": ">> Yeah, I'm going to be the lady with the",
+      "start": 76.4,
+      "duration": 1.92
+    },
+    {
+      "text": "purple hair.",
+      "start": 77.52,
+      "duration": 2.639
+    },
+    {
+      "text": ">> Okay, cool.",
+      "start": 78.32,
+      "duration": 4.56
+    },
+    {
+      "text": ">> Lady with the purple hair. Click on the",
+      "start": 80.159,
+      "duration": 4.32
+    },
+    {
+      "text": "enemy and draw a line towards yourself",
+      "start": 82.88,
+      "duration": 4.84
+    },
+    {
+      "text": "to shoot.",
+      "start": 84.479,
+      "duration": 3.241
+    },
+    {
+      "text": "A",
+      "start": 88.72,
+      "duration": 2.399
+    },
+    {
+      "text": ">> cool.",
+      "start": 89.2,
+      "duration": 4.16
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 91.119,
+      "duration": 5.201
+    },
+    {
+      "text": "Oh, many of them.",
+      "start": 93.36,
+      "duration": 6.56
+    },
+    {
+      "text": ">> Click click. Oh, I'm out of gun.",
+      "start": 96.32,
+      "duration": 5.04
+    },
+    {
+      "text": "Oh, my friend is now helping.",
+      "start": 99.92,
+      "duration": 4.72
+    },
+    {
+      "text": ">> Yeah, cool bro. Thanks, Cool Bro.",
+      "start": 101.36,
+      "duration": 5.52
+    },
+    {
+      "text": ">> This is sick. This game's sick.",
+      "start": 104.64,
+      "duration": 3.839
+    },
+    {
+      "text": ">> Well, then it looks like I just saved",
+      "start": 106.88,
+      "duration": 3.519
+    },
+    {
+      "text": "your bacon. I reckon we stand a better",
+      "start": 108.479,
+      "duration": 3.68
+    },
+    {
+      "text": "chance out there if we stick together.",
+      "start": 110.399,
+      "duration": 3.521
+    },
+    {
+      "text": "My name is Clemens. I used to be a",
+      "start": 112.159,
+      "duration": 4.161
+    },
+    {
+      "text": "priest. Not much use for those nowadays.",
+      "start": 113.92,
+      "duration": 4.08
+    },
+    {
+      "text": "What's your name, partner?",
+      "start": 116.32,
+      "duration": 9.28
+    },
+    {
+      "text": ">> Uh, Randy. Oh, hold on. Uh, Steve.",
+      "start": 118.0,
+      "duration": 9.2
+    },
+    {
+      "text": "Steve.",
+      "start": 125.6,
+      "duration": 3.92
+    },
+    {
+      "text": "Steve.",
+      "start": 127.2,
+      "duration": 5.6
+    },
+    {
+      "text": ">> I've been ste. The pleasure's all mine.",
+      "start": 129.52,
+      "duration": 5.6
+    },
+    {
+      "text": "Steve, listen. Even with the two of us,",
+      "start": 132.8,
+      "duration": 4.24
+    },
+    {
+      "text": "we won't survive very long. Everyone I",
+      "start": 135.12,
+      "duration": 4.0
+    },
+    {
+      "text": "trusted died a while back. Do you know",
+      "start": 137.04,
+      "duration": 4.559
+    },
+    {
+      "text": "anyone we can count on in a pinch?",
+      "start": 139.12,
+      "duration": 5.68
+    },
+    {
+      "text": ">> Uh, yeah. Dan.",
+      "start": 141.599,
+      "duration": 5.841
+    },
+    {
+      "text": ">> Hey guys.",
+      "start": 144.8,
+      "duration": 4.799
+    },
+    {
+      "text": "Uh, other Dan.",
+      "start": 147.44,
+      "duration": 3.84
+    },
+    {
+      "text": ">> Yep. What's up?",
+      "start": 149.599,
+      "duration": 2.881
+    },
+    {
+      "text": ">> Third Dan.",
+      "start": 151.28,
+      "duration": 2.08
+    },
+    {
+      "text": ">> That's me.",
+      "start": 152.48,
+      "duration": 4.119
+    },
+    {
+      "text": ">> And Steve.",
+      "start": 153.36,
+      "duration": 3.239
+    },
+    {
+      "text": ">> There's a good chance if they're still",
+      "start": 157.12,
+      "duration": 3.44
+    },
+    {
+      "text": "alive, they'll be set up at the shelter",
+      "start": 158.64,
+      "duration": 4.08
+    },
+    {
+      "text": "set up in DC. If they have any sense,",
+      "start": 160.56,
+      "duration": 4.0
+    },
+    {
+      "text": "that is. We're going to need a way to",
+      "start": 162.72,
+      "duration": 4.0
+    },
+    {
+      "text": "get around. I saw an old station wagon a",
+      "start": 164.56,
+      "duration": 4.08
+    },
+    {
+      "text": "few blocks back. Those things might not",
+      "start": 166.72,
+      "duration": 3.68
+    },
+    {
+      "text": "be very reliable, but you'd be surprised",
+      "start": 168.64,
+      "duration": 4.0
+    },
+    {
+      "text": "how roomy they are. Anyway, let's get",
+      "start": 170.4,
+      "duration": 4.72
+    },
+    {
+      "text": "moving. How is this game like",
+      "start": 172.64,
+      "duration": 4.4
+    },
+    {
+      "text": "aesthetically, even in the sound effects",
+      "start": 175.12,
+      "duration": 5.92
+    },
+    {
+      "text": "supposed to be like this like Atari 5800",
+      "start": 177.04,
+      "duration": 5.36
+    },
+    {
+      "text": "game, but then the music is like",
+      "start": 181.04,
+      "duration": 2.08
+    },
+    {
+      "text": "orchestral?",
+      "start": 182.4,
+      "duration": 4.0
+    },
+    {
+      "text": ">> It's a nice combo.",
+      "start": 183.12,
+      "duration": 5.92
+    },
+    {
+      "text": "I also like how zombie things are so",
+      "start": 186.4,
+      "duration": 3.839
+    },
+    {
+      "text": "ingrained in our culture. They're like,",
+      "start": 189.04,
+      "duration": 2.96
+    },
+    {
+      "text": "we don't even need to explain what",
+      "start": 190.239,
+      "duration": 2.241
+    },
+    {
+      "text": "happened.",
+      "start": 192.0,
+      "duration": 1.599
+    },
+    {
+      "text": ">> Yeah, it's a zombies.",
+      "start": 192.48,
+      "duration": 2.96
+    },
+    {
+      "text": ">> Yeah, you know what happened.",
+      "start": 193.599,
+      "duration": 4.251
+    },
+    {
+      "text": ">> Practice moving and shooting.",
+      "start": 195.44,
+      "duration": 5.56
+    },
+    {
+      "text": "[Music]",
+      "start": 197.85,
+      "duration": 3.15
+    },
+    {
+      "text": "Ah, I see.",
+      "start": 201.92,
+      "duration": 5.44
+    },
+    {
+      "text": "I see. Okay.",
+      "start": 204.8,
+      "duration": 3.04
+    },
+    {
+      "text": "Okay.",
+      "start": 207.36,
+      "duration": 1.92
+    },
+    {
+      "text": ">> Shoot the zomboard.",
+      "start": 207.84,
+      "duration": 3.52
+    },
+    {
+      "text": ">> Shoot the zomoid.",
+      "start": 209.28,
+      "duration": 5.039
+    },
+    {
+      "text": "Shoot your friend. Shoot your friend in",
+      "start": 211.36,
+      "duration": 4.879
+    },
+    {
+      "text": "the face.",
+      "start": 214.319,
+      "duration": 3.761
+    },
+    {
+      "text": "Shoot him in the face. I'm getting in",
+      "start": 216.239,
+      "duration": 3.92
+    },
+    {
+      "text": "the car now.",
+      "start": 218.08,
+      "duration": 3.04
+    },
+    {
+      "text": "I'm moving.",
+      "start": 220.159,
+      "duration": 3.841
+    },
+    {
+      "text": ">> It's like the Chvy Chase vacation car.",
+      "start": 221.12,
+      "duration": 4.56
+    },
+    {
+      "text": "All right, I think I got just enough",
+      "start": 224.0,
+      "duration": 3.68
+    },
+    {
+      "text": "fuel and food for us to make it to DC in",
+      "start": 225.68,
+      "duration": 4.16
+    },
+    {
+      "text": "this baby. Let's hit the road. I'll",
+      "start": 227.68,
+      "duration": 2.72
+    },
+    {
+      "text": "drive.",
+      "start": 229.84,
+      "duration": 4.08
+    },
+    {
+      "text": ">> All right, you drive.",
+      "start": 230.4,
+      "duration": 5.759
+    },
+    {
+      "text": "135 miles to Washington DC.",
+      "start": 233.92,
+      "duration": 3.84
+    },
+    {
+      "text": ">> A",
+      "start": 236.159,
+      "duration": 3.921
+    },
+    {
+      "text": ">> steved station wagon and Clemens.",
+      "start": 237.76,
+      "duration": 4.72
+    },
+    {
+      "text": ">> Oh, Clemens has a broken arm. That nice",
+      "start": 240.08,
+      "duration": 3.04
+    },
+    {
+      "text": "driving, Aaron.",
+      "start": 242.48,
+      "duration": 1.44
+    },
+    {
+      "text": ">> From what?",
+      "start": 243.12,
+      "duration": 1.44
+    },
+    {
+      "text": ">> I don't know.",
+      "start": 243.92,
+      "duration": 1.679
+    },
+    {
+      "text": ">> I didn't do anything.",
+      "start": 244.56,
+      "duration": 2.48
+    },
+    {
+      "text": ">> Maybe you had a very difficult to open",
+      "start": 245.599,
+      "duration": 2.961
+    },
+    {
+      "text": "glove box.",
+      "start": 247.04,
+      "duration": 3.6
+    },
+    {
+      "text": ">> Clemens has Oh, super.",
+      "start": 248.56,
+      "duration": 2.879
+    },
+    {
+      "text": ">> What am I supposed to do?",
+      "start": 250.64,
+      "duration": 4.92
+    },
+    {
+      "text": ">> It's going to be a stinky car ride.",
+      "start": 251.439,
+      "duration": 4.121
+    },
+    {
+      "text": ">> Oh, really? You're out of fuel. Oh,",
+      "start": 255.92,
+      "duration": 4.8
+    },
+    {
+      "text": "well, this is great.",
+      "start": 258.639,
+      "duration": 2.961
+    },
+    {
+      "text": ">> What the hell?",
+      "start": 260.72,
+      "duration": 1.199
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 261.6,
+      "duration": 1.92
+    },
+    {
+      "text": ">> Was I supposed to do something?",
+      "start": 261.919,
+      "duration": 3.201
+    },
+    {
+      "text": ">> Just as a station wagon runs out of",
+      "start": 263.52,
+      "duration": 2.959
+    },
+    {
+      "text": "fuel, you coast into the city. You can",
+      "start": 265.12,
+      "duration": 3.68
+    },
+    {
+      "text": "hear a radio blaring in a nearby window.",
+      "start": 266.479,
+      "duration": 4.081
+    },
+    {
+      "text": "Repeat all survivors who still remain in",
+      "start": 268.8,
+      "duration": 2.959
+    },
+    {
+      "text": "Washington DC. The government has",
+      "start": 270.56,
+      "duration": 2.88
+    },
+    {
+      "text": "declared a class 3 biohazard in the",
+      "start": 271.759,
+      "duration": 3.44
+    },
+    {
+      "text": "area. They will be commencing a nuclear",
+      "start": 273.44,
+      "duration": 3.68
+    },
+    {
+      "text": "strike within a few short hours. Get out",
+      "start": 275.199,
+      "duration": 4.0
+    },
+    {
+      "text": "while you still can. The city is lost.",
+      "start": 277.12,
+      "duration": 3.28
+    },
+    {
+      "text": ">> We didn't even mention that. This is",
+      "start": 279.199,
+      "duration": 2.241
+    },
+    {
+      "text": "Lovely Choices.",
+      "start": 280.4,
+      "duration": 3.28
+    },
+    {
+      "text": ">> Oh, yeah. Thanks. Go to Patreon,",
+      "start": 281.44,
+      "duration": 4.8
+    },
+    {
+      "text": "patreon.com. that people voted on this",
+      "start": 283.68,
+      "duration": 4.64
+    },
+    {
+      "text": "game. They they recommended it and we",
+      "start": 286.24,
+      "duration": 3.679
+    },
+    {
+      "text": "spun a wheel and then we played it. So,",
+      "start": 288.32,
+      "duration": 3.36
+    },
+    {
+      "text": "go to the patreon.com/gamegrounds to",
+      "start": 289.919,
+      "duration": 2.641
+    },
+    {
+      "text": "become a patron.",
+      "start": 291.68,
+      "duration": 3.12
+    },
+    {
+      "text": ">> Thanks. Looks like we have time problem.",
+      "start": 292.56,
+      "duration": 4.32
+    },
+    {
+      "text": "I'll go I'll go look for your friends at",
+      "start": 294.8,
+      "duration": 3.679
+    },
+    {
+      "text": "the shelter. Meanwhile, you should go",
+      "start": 296.88,
+      "duration": 3.36
+    },
+    {
+      "text": "scavenging for supplies. I've heard",
+      "start": 298.479,
+      "duration": 3.121
+    },
+    {
+      "text": "about a place on the West Coast that is",
+      "start": 300.24,
+      "duration": 2.64
+    },
+    {
+      "text": "supposed to be a safe haven from all",
+      "start": 301.6,
+      "duration": 3.2
+    },
+    {
+      "text": "this chaos. Let's meet back out here and",
+      "start": 302.88,
+      "duration": 3.84
+    },
+    {
+      "text": "head out. Here, take my journal. I've",
+      "start": 304.8,
+      "duration": 3.04
+    },
+    {
+      "text": "written down everything I know about",
+      "start": 306.72,
+      "duration": 2.72
+    },
+    {
+      "text": "surviving on the road. It should help",
+      "start": 307.84,
+      "duration": 3.359
+    },
+    {
+      "text": "you decide what you need, what you think",
+      "start": 309.44,
+      "duration": 2.88
+    },
+    {
+      "text": "we may need on the trip.",
+      "start": 311.199,
+      "duration": 3.521
+    },
+    {
+      "text": ">> It's just the Bible. I've been bitten by",
+      "start": 312.32,
+      "duration": 4.56
+    },
+    {
+      "text": "a zombie. I have dysentery and a broken",
+      "start": 314.72,
+      "duration": 2.72
+    },
+    {
+      "text": "arm.",
+      "start": 316.88,
+      "duration": 2.879
+    },
+    {
+      "text": ">> Yeah. Which arm's broken, by the way.",
+      "start": 317.44,
+      "duration": 4.08
+    },
+    {
+      "text": ">> Nice driving.",
+      "start": 319.759,
+      "duration": 2.16
+    },
+    {
+      "text": ">> Thank you.",
+      "start": 321.52,
+      "duration": 2.16
+    },
+    {
+      "text": ">> I didn't do You drove us right into a",
+      "start": 321.919,
+      "duration": 3.921
+    },
+    {
+      "text": "zombie bite.",
+      "start": 323.68,
+      "duration": 3.76
+    },
+    {
+      "text": ">> Uh the supplies you want to gather.",
+      "start": 325.84,
+      "duration": 3.359
+    },
+    {
+      "text": "Okay. Well, definitely fuel.",
+      "start": 327.44,
+      "duration": 3.12
+    },
+    {
+      "text": ">> Mhm.",
+      "start": 329.199,
+      "duration": 3.921
+    },
+    {
+      "text": ">> Um definitely medkit. I feel like that's",
+      "start": 330.56,
+      "duration": 3.359
+    },
+    {
+      "text": "huge.",
+      "start": 333.12,
+      "duration": 4.4
+    },
+    {
+      "text": ">> Food is huge. Ammo is huge.",
+      "start": 333.919,
+      "duration": 7.201
+    },
+    {
+      "text": "I feel like one of these is a",
+      "start": 337.52,
+      "duration": 5.44
+    },
+    {
+      "text": "Okay, I don't need money. Hey, what am I",
+      "start": 341.12,
+      "duration": 3.359
+    },
+    {
+      "text": "going to buy with money?",
+      "start": 342.96,
+      "duration": 3.44
+    },
+    {
+      "text": ">> Probably exactly what you just bought.",
+      "start": 344.479,
+      "duration": 3.201
+    },
+    {
+      "text": ">> Oh, look at us.",
+      "start": 346.4,
+      "duration": 4.079
+    },
+    {
+      "text": ">> Hey, there's Dan. Third Dan. Great.",
+      "start": 347.68,
+      "duration": 4.56
+    },
+    {
+      "text": "Everyone's here. There's just one more",
+      "start": 350.479,
+      "duration": 3.601
+    },
+    {
+      "text": "thing back there on the road. One of",
+      "start": 352.24,
+      "duration": 3.36
+    },
+    {
+      "text": "those things bit me. I'm already not",
+      "start": 354.08,
+      "duration": 2.88
+    },
+    {
+      "text": "feeling too well, and I can't stand the",
+      "start": 355.6,
+      "duration": 2.72
+    },
+    {
+      "text": "thought of becoming one of them. You're",
+      "start": 356.96,
+      "duration": 2.959
+    },
+    {
+      "text": "going to have to put me down. Why don't",
+      "start": 358.32,
+      "duration": 3.36
+    },
+    {
+      "text": "you keep my journal? It may help you out",
+      "start": 359.919,
+      "duration": 3.12
+    },
+    {
+      "text": "there. Good luck.",
+      "start": 361.68,
+      "duration": 5.079
+    },
+    {
+      "text": ">> Going to have to put me down.",
+      "start": 363.039,
+      "duration": 3.72
+    },
+    {
+      "text": "Okay.",
+      "start": 370.24,
+      "duration": 5.799
+    },
+    {
+      "text": ">> Steved put down Clemens.",
+      "start": 371.919,
+      "duration": 4.12
+    },
+    {
+      "text": ">> All right, let's go.",
+      "start": 376.8,
+      "duration": 2.239
+    },
+    {
+      "text": ">> All right.",
+      "start": 377.919,
+      "duration": 5.361
+    },
+    {
+      "text": ">> Broken down cars block the road. Okay.",
+      "start": 379.039,
+      "duration": 6.321
+    },
+    {
+      "text": "So, you aren't sure which way to go. You",
+      "start": 383.28,
+      "duration": 3.68
+    },
+    {
+      "text": "lose an hour bickering with other Dan.",
+      "start": 385.36,
+      "duration": 2.64
+    },
+    {
+      "text": ">> Fucking other Dan",
+      "start": 386.96,
+      "duration": 4.16
+    },
+    {
+      "text": ">> should go.",
+      "start": 388.0,
+      "duration": 7.039
+    },
+    {
+      "text": ">> I'm not a big fan of these other Dans.",
+      "start": 391.12,
+      "duration": 5.919
+    },
+    {
+      "text": ">> Yeah. Not definitely. I'm not another",
+      "start": 395.039,
+      "duration": 2.88
+    },
+    {
+      "text": "Dan fan.",
+      "start": 397.039,
+      "duration": 2.641
+    },
+    {
+      "text": ">> Muffler broke. We replace it. Okay.",
+      "start": 397.919,
+      "duration": 4.961
+    },
+    {
+      "text": ">> Oh, good. Good foresight.",
+      "start": 399.68,
+      "duration": 6.32
+    },
+    {
+      "text": ">> Get lost in the",
+      "start": 402.88,
+      "duration": 4.72
+    },
+    {
+      "text": "What am I doing here?",
+      "start": 406.0,
+      "duration": 3.68
+    },
+    {
+      "text": ">> This is Oregon Trail, man. Shit just",
+      "start": 407.6,
+      "duration": 2.8
+    },
+    {
+      "text": "goes wrong.",
+      "start": 409.68,
+      "duration": 2.4
+    },
+    {
+      "text": ">> You rumage one med kit off a body on the",
+      "start": 410.4,
+      "duration": 2.16
+    },
+    {
+      "text": "side of the road.",
+      "start": 412.08,
+      "duration": 2.08
+    },
+    {
+      "text": ">> All right, cool.",
+      "start": 412.56,
+      "duration": 4.0
+    },
+    {
+      "text": ">> You can always stop for like food and",
+      "start": 414.16,
+      "duration": 5.439
+    },
+    {
+      "text": "shooting stuff. You get a pretty nasty",
+      "start": 416.56,
+      "duration": 5.12
+    },
+    {
+      "text": "bump in the road and two medkits slide.",
+      "start": 419.599,
+      "duration": 3.44
+    },
+    {
+      "text": ">> That's so fucked up.",
+      "start": 421.68,
+      "duration": 5.04
+    },
+    {
+      "text": ">> Slides out the window. Wait, so we stop?",
+      "start": 423.039,
+      "duration": 5.121
+    },
+    {
+      "text": ">> Yeah, you",
+      "start": 426.72,
+      "duration": 4.4
+    },
+    {
+      "text": ">> uh talk to stranger.",
+      "start": 428.16,
+      "duration": 4.8
+    },
+    {
+      "text": "Okay, so I get I can like level up my",
+      "start": 431.12,
+      "duration": 3.199
+    },
+    {
+      "text": "You know, I've never actually played",
+      "start": 432.96,
+      "duration": 2.079
+    },
+    {
+      "text": "Oregon Trail.",
+      "start": 434.319,
+      "duration": 2.0
+    },
+    {
+      "text": ">> Oh man, it's terrific.",
+      "start": 435.039,
+      "duration": 1.761
+    },
+    {
+      "text": ">> Um",
+      "start": 436.319,
+      "duration": 2.88
+    },
+    {
+      "text": ">> it's a bummer though. You will don't get",
+      "start": 436.8,
+      "duration": 4.799
+    },
+    {
+      "text": "too attached to uh your your friends.",
+      "start": 439.199,
+      "duration": 6.56
+    },
+    {
+      "text": ">> Okay. Rifle, shotgun. Okay,",
+      "start": 441.599,
+      "duration": 7.641
+    },
+    {
+      "text": ">> here we go.",
+      "start": 445.759,
+      "duration": 3.481
+    },
+    {
+      "text": ">> Uh okay.",
+      "start": 450.16,
+      "duration": 3.92
+    },
+    {
+      "text": ">> Uh-oh. You're You're Oh, you're in",
+      "start": 452.4,
+      "duration": 4.68
+    },
+    {
+      "text": "trouble.",
+      "start": 454.08,
+      "duration": 3.0
+    },
+    {
+      "text": "[Music]",
+      "start": 458.15,
+      "duration": 6.169
+    },
+    {
+      "text": "Ah!",
+      "start": 462.0,
+      "duration": 7.16
+    },
+    {
+      "text": "Oh boy. Oh boy.",
+      "start": 464.319,
+      "duration": 4.841
+    },
+    {
+      "text": "Okay. Okay. There's a wallet.",
+      "start": 469.759,
+      "duration": 4.121
+    },
+    {
+      "text": "Oh boy. No,",
+      "start": 473.919,
+      "duration": 4.881
+    },
+    {
+      "text": ">> it's okay. Oh, ye of little faith.",
+      "start": 475.68,
+      "duration": 7.92
+    },
+    {
+      "text": ">> Oh, yeah. No, it's it's going well.",
+      "start": 478.8,
+      "duration": 6.0
+    },
+    {
+      "text": "[Music]",
+      "start": 483.6,
+      "duration": 2.24
+    },
+    {
+      "text": "Hey. All right.",
+      "start": 484.8,
+      "duration": 3.519
+    },
+    {
+      "text": ">> All right.",
+      "start": 485.84,
+      "duration": 4.32
+    },
+    {
+      "text": "Delicious.",
+      "start": 488.319,
+      "duration": 4.88
+    },
+    {
+      "text": ">> Uh, rationing. Okay.",
+      "start": 490.16,
+      "duration": 4.96
+    },
+    {
+      "text": "Small, medium, and large portion sizes",
+      "start": 493.199,
+      "duration": 3.601
+    },
+    {
+      "text": "consume one, two, and three as per hour,",
+      "start": 495.12,
+      "duration": 4.88
+    },
+    {
+      "text": "respectively. How much food do I have?",
+      "start": 496.8,
+      "duration": 4.64
+    },
+    {
+      "text": ">> 170. 170. I think you're all right.",
+      "start": 500.0,
+      "duration": 2.319
+    },
+    {
+      "text": ">> Uh, you think so?",
+      "start": 501.44,
+      "duration": 1.28
+    },
+    {
+      "text": ">> I don't know.",
+      "start": 502.319,
+      "duration": 1.44
+    },
+    {
+      "text": ">> I feel like that's something that's",
+      "start": 502.72,
+      "duration": 2.0
+    },
+    {
+      "text": "gonna, you know,",
+      "start": 503.759,
+      "duration": 2.321
+    },
+    {
+      "text": ">> eventually it'll be bad.",
+      "start": 504.72,
+      "duration": 5.52
+    },
+    {
+      "text": ">> Yeah. Maybe I should scavenge again.",
+      "start": 506.08,
+      "duration": 7.28
+    },
+    {
+      "text": "Let's do rifle. No,",
+      "start": 510.24,
+      "duration": 5.52
+    },
+    {
+      "text": "let's do rifle.",
+      "start": 513.36,
+      "duration": 3.919
+    },
+    {
+      "text": ">> There's There's something.",
+      "start": 515.76,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Oh, yeah. That's what I want.",
+      "start": 517.279,
+      "duration": 3.76
+    },
+    {
+      "text": "[Music]",
+      "start": 519.44,
+      "duration": 4.64
+    },
+    {
+      "text": "Oh, look at this draggy boy.",
+      "start": 521.039,
+      "duration": 4.561
+    },
+    {
+      "text": ">> He's a cutie.",
+      "start": 524.08,
+      "duration": 3.45
+    },
+    {
+      "text": ">> Yeah. Go get that wallet.",
+      "start": 525.6,
+      "duration": 5.919
+    },
+    {
+      "text": "[Music]",
+      "start": 527.53,
+      "duration": 6.41
+    },
+    {
+      "text": "Beep.",
+      "start": 531.519,
+      "duration": 5.281
+    },
+    {
+      "text": "[Music]",
+      "start": 533.94,
+      "duration": 4.7
+    },
+    {
+      "text": "Oh,",
+      "start": 536.8,
+      "duration": 3.76
+    },
+    {
+      "text": "he was a big boy. Oh, you're in trouble.",
+      "start": 538.64,
+      "duration": 3.84
+    },
+    {
+      "text": "That's not I'm not in trouble. I am not",
+      "start": 540.56,
+      "duration": 5.12
+    },
+    {
+      "text": "in trouble. Everything's fine. I am not",
+      "start": 542.48,
+      "duration": 5.52
+    },
+    {
+      "text": "in trouble.",
+      "start": 545.68,
+      "duration": 4.24
+    },
+    {
+      "text": "I am not in trouble at all.",
+      "start": 548.0,
+      "duration": 3.04
+    },
+    {
+      "text": ">> You've been injured.",
+      "start": 549.92,
+      "duration": 2.72
+    },
+    {
+      "text": ">> Oh, okay.",
+      "start": 551.04,
+      "duration": 4.479
+    },
+    {
+      "text": ">> You managed to keep $10.",
+      "start": 552.64,
+      "duration": 4.8
+    },
+    {
+      "text": ">> Okay.",
+      "start": 555.519,
+      "duration": 3.601
+    },
+    {
+      "text": ">> Let's upgrade the car, dude.",
+      "start": 557.44,
+      "duration": 3.36
+    },
+    {
+      "text": ">> Yeah. Yeah. This seems like the time.",
+      "start": 559.12,
+      "duration": 3.04
+    },
+    {
+      "text": ">> The front obviously. Oh, I don't have",
+      "start": 560.8,
+      "duration": 1.599
+    },
+    {
+      "text": "anything.",
+      "start": 562.16,
+      "duration": 2.0
+    },
+    {
+      "text": ">> You got to redo the rims, man. They'll",
+      "start": 562.399,
+      "duration": 2.321
+    },
+    {
+      "text": "look awesome.",
+      "start": 564.16,
+      "duration": 2.96
+    },
+    {
+      "text": ">> You think so?",
+      "start": 564.72,
+      "duration": 4.559
+    },
+    {
+      "text": ">> Stranger. You won't be able to go",
+      "start": 567.12,
+      "duration": 3.76
+    },
+    {
+      "text": "anywhere without fuel or car parts. It's",
+      "start": 569.279,
+      "duration": 2.641
+    },
+    {
+      "text": "best to try and look for someone to",
+      "start": 570.88,
+      "duration": 2.32
+    },
+    {
+      "text": "trade with until you get what you need",
+      "start": 571.92,
+      "duration": 2.8
+    },
+    {
+      "text": "if you find yourself stranded. I always",
+      "start": 573.2,
+      "duration": 3.12
+    },
+    {
+      "text": "carry extra cuz my shit keeps breaking",
+      "start": 574.72,
+      "duration": 2.96
+    },
+    {
+      "text": "down and catching on fire.",
+      "start": 576.32,
+      "duration": 1.84
+    },
+    {
+      "text": ">> Okay.",
+      "start": 577.68,
+      "duration": 1.52
+    },
+    {
+      "text": ">> Amen.",
+      "start": 578.16,
+      "duration": 5.32
+    },
+    {
+      "text": ">> I guess let's go then, huh?",
+      "start": 579.2,
+      "duration": 4.28
+    },
+    {
+      "text": "Well, keep it going. There's a bridge.",
+      "start": 585.6,
+      "duration": 4.64
+    },
+    {
+      "text": ">> Yeah,",
+      "start": 588.88,
+      "duration": 2.079
+    },
+    {
+      "text": ">> that's pretty cool.",
+      "start": 590.24,
+      "duration": 3.12
+    },
+    {
+      "text": ">> Is that St. Louis? Oh, getting real",
+      "start": 590.959,
+      "duration": 4.481
+    },
+    {
+      "text": "slow. God,",
+      "start": 593.36,
+      "duration": 6.159
+    },
+    {
+      "text": ">> it's Pittsburgh. Pittsburgh.",
+      "start": 595.44,
+      "duration": 5.44
+    },
+    {
+      "text": ">> Things are looking good.",
+      "start": 599.519,
+      "duration": 2.241
+    },
+    {
+      "text": ">> All right.",
+      "start": 600.88,
+      "duration": 1.84
+    },
+    {
+      "text": ">> In the Berg.",
+      "start": 601.76,
+      "duration": 2.32
+    },
+    {
+      "text": ">> Oh, I don't have any money.",
+      "start": 602.72,
+      "duration": 3.04
+    },
+    {
+      "text": ">> Oh, yeah. Who needs that, right?",
+      "start": 604.08,
+      "duration": 2.24
+    },
+    {
+      "text": ">> I guess I could",
+      "start": 605.76,
+      "duration": 2.24
+    },
+    {
+      "text": ">> No, you kept $10.",
+      "start": 606.32,
+      "duration": 4.639
+    },
+    {
+      "text": ">> Yeah, I can buy food.",
+      "start": 608.0,
+      "duration": 6.0
+    },
+    {
+      "text": "Uh, let's buy two food.",
+      "start": 610.959,
+      "duration": 3.761
+    },
+    {
+      "text": ">> 20 ounces.",
+      "start": 614.0,
+      "duration": 2.24
+    },
+    {
+      "text": ">> Oh, I don't want 20. Oh, yeah. Yeah, I",
+      "start": 614.72,
+      "duration": 2.239
+    },
+    {
+      "text": "do.",
+      "start": 616.24,
+      "duration": 1.2
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 616.959,
+      "duration": 2.081
+    },
+    {
+      "text": ">> All right. Okay.",
+      "start": 617.44,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Nice. Nice.",
+      "start": 619.04,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Oh, medkits are really expensive, huh?",
+      "start": 620.32,
+      "duration": 3.199
+    },
+    {
+      "text": ">> Yeah. Yeah. Yeah. It's a shame they",
+      "start": 621.92,
+      "duration": 2.8
+    },
+    {
+      "text": "flies out the window.",
+      "start": 623.519,
+      "duration": 3.44
+    },
+    {
+      "text": ">> Difficulty. Okay. So that's really hard,",
+      "start": 624.72,
+      "duration": 3.359
+    },
+    {
+      "text": "I'm assuming.",
+      "start": 626.959,
+      "duration": 1.521
+    },
+    {
+      "text": ">> Yep.",
+      "start": 628.079,
+      "duration": 3.121
+    },
+    {
+      "text": ">> But you get three mufflers.",
+      "start": 628.48,
+      "duration": 5.76
+    },
+    {
+      "text": "All right, dude.",
+      "start": 631.2,
+      "duration": 3.759
+    },
+    {
+      "text": "Dude,",
+      "start": 634.24,
+      "duration": 3.2
+    },
+    {
+      "text": ">> I mean, you know, I need the mufflers.",
+      "start": 634.959,
+      "duration": 4.161
+    },
+    {
+      "text": ">> It's suicide.",
+      "start": 637.44,
+      "duration": 2.24
+    },
+    {
+      "text": ">> Okay,",
+      "start": 639.12,
+      "duration": 2.08
+    },
+    {
+      "text": ">> they said the word itself",
+      "start": 639.68,
+      "duration": 2.79
+    },
+    {
+      "text": ">> and",
+      "start": 641.2,
+      "duration": 4.48
+    },
+    {
+      "text": "[Music]",
+      "start": 642.47,
+      "duration": 5.369
+    },
+    {
+      "text": "uh I seem to be fucking absolutely",
+      "start": 645.68,
+      "duration": 4.719
+    },
+    {
+      "text": "crushing right now.",
+      "start": 647.839,
+      "duration": 5.601
+    },
+    {
+      "text": ">> Yep. Everything's under control. Oh my",
+      "start": 650.399,
+      "duration": 6.041
+    },
+    {
+      "text": "god.",
+      "start": 653.44,
+      "duration": 3.0
+    },
+    {
+      "text": "Hm.",
+      "start": 657.279,
+      "duration": 7.041
+    },
+    {
+      "text": "Uh uh. Looks like uh I fucking rule.",
+      "start": 660.0,
+      "duration": 7.76
+    },
+    {
+      "text": "Huh. Interesting. That's weird. Couldn't",
+      "start": 664.32,
+      "duration": 6.4
+    },
+    {
+      "text": "help but notice that I was kicking major",
+      "start": 667.76,
+      "duration": 6.079
+    },
+    {
+      "text": "ass right now. Boy, those little those",
+      "start": 670.72,
+      "duration": 8.72
+    },
+    {
+      "text": "little crawly dudes are are tough. Uhoh.",
+      "start": 673.839,
+      "duration": 7.521
+    },
+    {
+      "text": "Oh,",
+      "start": 679.44,
+      "duration": 4.92
+    },
+    {
+      "text": "hi.",
+      "start": 681.36,
+      "duration": 3.0
+    },
+    {
+      "text": "Huh?",
+      "start": 684.399,
+      "duration": 3.12
+    },
+    {
+      "text": "That's not so hard.",
+      "start": 686.16,
+      "duration": 3.359
+    },
+    {
+      "text": ">> That wasn't suicide,",
+      "start": 687.519,
+      "duration": 3.44
+    },
+    {
+      "text": ">> dude. This is easy.",
+      "start": 689.519,
+      "duration": 3.921
+    },
+    {
+      "text": ">> I got three mufflers, dog.",
+      "start": 690.959,
+      "duration": 4.241
+    },
+    {
+      "text": ">> Look at those little piles of zombies.",
+      "start": 693.44,
+      "duration": 2.32
+    },
+    {
+      "text": ">> Yeah,",
+      "start": 695.2,
+      "duration": 2.56
+    },
+    {
+      "text": ">> my man.",
+      "start": 695.76,
+      "duration": 3.04
+    },
+    {
+      "text": "Dude, three muffs.",
+      "start": 697.76,
+      "duration": 2.72
+    },
+    {
+      "text": ">> You're wearing three mufflers. Yeah,",
+      "start": 698.8,
+      "duration": 4.88
+    },
+    {
+      "text": "boy. Um, that's freaking awesome.",
+      "start": 700.48,
+      "duration": 5.12
+    },
+    {
+      "text": ">> Boy, there a couple of troublemakers",
+      "start": 703.68,
+      "duration": 3.36
+    },
+    {
+      "text": "have been stealing from us. Dispose of",
+      "start": 705.6,
+      "duration": 2.4
+    },
+    {
+      "text": "them. Okay.",
+      "start": 707.04,
+      "duration": 1.6
+    },
+    {
+      "text": ">> Okay,",
+      "start": 708.0,
+      "duration": 3.12
+    },
+    {
+      "text": ">> that's pretty sick. Just get to kill",
+      "start": 708.64,
+      "duration": 3.199
+    },
+    {
+      "text": "whoever, huh,",
+      "start": 711.12,
+      "duration": 1.36
+    },
+    {
+      "text": ">> I guess.",
+      "start": 711.839,
+      "duration": 3.281
+    },
+    {
+      "text": ">> Shotguns the shit, man. Hey.",
+      "start": 712.48,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Oh.",
+      "start": 715.12,
+      "duration": 1.44
+    },
+    {
+      "text": ">> Oh.",
+      "start": 716.16,
+      "duration": 3.47
+    },
+    {
+      "text": ">> Woah. Woah. Woah. Woah.",
+      "start": 716.56,
+      "duration": 6.32
+    },
+    {
+      "text": "[Music]",
+      "start": 719.63,
+      "duration": 4.69
+    },
+    {
+      "text": ">> Okay. This is much harder. I don't know",
+      "start": 722.88,
+      "duration": 3.6
+    },
+    {
+      "text": "why the other one was.",
+      "start": 724.32,
+      "duration": 5.72
+    },
+    {
+      "text": ">> You got one.",
+      "start": 726.48,
+      "duration": 3.56
+    },
+    {
+      "text": "Oh yeah.",
+      "start": 732.0,
+      "duration": 3.839
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 733.36,
+      "duration": 5.279
+    },
+    {
+      "text": "Oh.",
+      "start": 735.839,
+      "duration": 4.0
+    },
+    {
+      "text": "Oh,",
+      "start": 738.639,
+      "duration": 2.401
+    },
+    {
+      "text": ">> that didn't count.",
+      "start": 739.839,
+      "duration": 4.481
+    },
+    {
+      "text": ">> Now he ducked.",
+      "start": 741.04,
+      "duration": 4.96
+    },
+    {
+      "text": "This is like who shot Johnny Rock all",
+      "start": 744.32,
+      "duration": 4.8
+    },
+    {
+      "text": "over again.",
+      "start": 746.0,
+      "duration": 5.6
+    },
+    {
+      "text": "Oh shit. This sucks.",
+      "start": 749.12,
+      "duration": 5.88
+    },
+    {
+      "text": ">> You're all right.",
+      "start": 751.6,
+      "duration": 3.4
+    },
+    {
+      "text": "I'm getting my ass handed to me.",
+      "start": 755.2,
+      "duration": 4.079
+    },
+    {
+      "text": ">> No, just wait. Just wait it out. There's",
+      "start": 756.72,
+      "duration": 5.96
+    },
+    {
+      "text": "no time limit.",
+      "start": 759.279,
+      "duration": 3.401
+    },
+    {
+      "text": "[Music]",
+      "start": 762.98,
+      "duration": 3.059
+    },
+    {
+      "text": "Oh shit.",
+      "start": 769.839,
+      "duration": 6.161
+    },
+    {
+      "text": "Uh uh uh yeah,",
+      "start": 772.0,
+      "duration": 6.32
+    },
+    {
+      "text": ">> man. I'm fucking awesome. I got $7.",
+      "start": 776.0,
+      "duration": 6.72
+    },
+    {
+      "text": ">> Yeah, that's that's like a dollar",
+      "start": 778.32,
+      "duration": 6.8
+    },
+    {
+      "text": "15 cents for each murder.",
+      "start": 782.72,
+      "duration": 5.919
+    },
+    {
+      "text": ">> Oo, I have so much scrap.",
+      "start": 785.12,
+      "duration": 4.24
+    },
+    {
+      "text": "Oh, what the hell?",
+      "start": 788.639,
+      "duration": 2.801
+    },
+    {
+      "text": ">> Sell me some of your crap,",
+      "start": 789.36,
+      "duration": 3.039
+    },
+    {
+      "text": ">> dude. That's awesome.",
+      "start": 791.44,
+      "duration": 2.399
+    },
+    {
+      "text": ">> Yeah, scrap.",
+      "start": 792.399,
+      "duration": 4.88
+    },
+    {
+      "text": ">> All right. Uh so I probably need fuel,",
+      "start": 793.839,
+      "duration": 4.0
+    },
+    {
+      "text": "right?",
+      "start": 797.279,
+      "duration": 1.68
+    },
+    {
+      "text": ">> Mhm.",
+      "start": 797.839,
+      "duration": 3.44
+    },
+    {
+      "text": ">> Feeling like I need some fuel. Okay.",
+      "start": 798.959,
+      "duration": 8.56
+    },
+    {
+      "text": ">> $12. I have 29. Okay, I'll buy one. Uh,",
+      "start": 801.279,
+      "duration": 7.12
+    },
+    {
+      "text": "all right. I'm done.",
+      "start": 807.519,
+      "duration": 1.841
+    },
+    {
+      "text": ">> Yeah,",
+      "start": 808.399,
+      "duration": 2.481
+    },
+    {
+      "text": ">> looks great.",
+      "start": 809.36,
+      "duration": 2.56
+    },
+    {
+      "text": ">> I feel like I'm good.",
+      "start": 810.88,
+      "duration": 2.72
+    },
+    {
+      "text": ">> I You know what? I feel like the zombie",
+      "start": 811.92,
+      "duration": 4.0
+    },
+    {
+      "text": "apocalypse isn't really that bad.",
+      "start": 813.6,
+      "duration": 4.479
+    },
+    {
+      "text": ">> Well, if I leave, I won't be able to",
+      "start": 815.92,
+      "duration": 4.159
+    },
+    {
+      "text": "return, huh? Maybe I'll talk to a",
+      "start": 818.079,
+      "duration": 3.601
+    },
+    {
+      "text": "stranger. These controls suck.",
+      "start": 820.079,
+      "duration": 3.921
+    },
+    {
+      "text": ">> Okay, cool. Maybe I'll rest a little",
+      "start": 821.68,
+      "duration": 4.56
+    },
+    {
+      "text": "bit. Zombie activity is high at 3:00",
+      "start": 824.0,
+      "duration": 5.2
+    },
+    {
+      "text": "a.m. Does that mean like",
+      "start": 826.24,
+      "duration": 4.48
+    },
+    {
+      "text": "that's a problem for me or",
+      "start": 829.2,
+      "duration": 4.16
+    },
+    {
+      "text": ">> I I think you're okay.",
+      "start": 830.72,
+      "duration": 6.08
+    },
+    {
+      "text": ">> Let's do a little rest. Huh? Maybe I'll",
+      "start": 833.36,
+      "duration": 6.57
+    },
+    {
+      "text": "do a little rest.",
+      "start": 836.8,
+      "duration": 4.719
+    },
+    {
+      "text": "[Music]",
+      "start": 839.93,
+      "duration": 2.31
+    },
+    {
+      "text": "Uh-huh.",
+      "start": 841.519,
+      "duration": 2.56
+    },
+    {
+      "text": ">> Hey.",
+      "start": 842.24,
+      "duration": 2.64
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 844.079,
+      "duration": 2.401
+    },
+    {
+      "text": ">> Say,",
+      "start": 844.88,
+      "duration": 3.04
+    },
+    {
+      "text": ">> pretty cool.",
+      "start": 846.48,
+      "duration": 3.76
+    },
+    {
+      "text": ">> Steve isn't isn't doing so well, but",
+      "start": 847.92,
+      "duration": 3.279
+    },
+    {
+      "text": "Steve looks good.",
+      "start": 850.24,
+      "duration": 3.279
+    },
+    {
+      "text": ">> Steve's great. Yeah. You must cross a",
+      "start": 851.199,
+      "duration": 3.921
+    },
+    {
+      "text": "horde of zombies in order to continue on",
+      "start": 853.519,
+      "duration": 3.361
+    },
+    {
+      "text": "the road. The horde in front of you is",
+      "start": 855.12,
+      "duration": 3.519
+    },
+    {
+      "text": "currently large in size and appears to",
+      "start": 856.88,
+      "duration": 2.72
+    },
+    {
+      "text": "be agitated.",
+      "start": 858.639,
+      "duration": 1.521
+    },
+    {
+      "text": ">> Great.",
+      "start": 859.6,
+      "duration": 2.08
+    },
+    {
+      "text": ">> Like my laundry load.",
+      "start": 860.16,
+      "duration": 3.119
+    },
+    {
+      "text": ">> Uh, attempt to sneak through, hire",
+      "start": 861.68,
+      "duration": 3.519
+    },
+    {
+      "text": "mercenaries, get information. Get",
+      "start": 863.279,
+      "duration": 2.8
+    },
+    {
+      "text": "information.",
+      "start": 865.199,
+      "duration": 2.161
+    },
+    {
+      "text": ">> You can attempt to sneak through the",
+      "start": 866.079,
+      "duration": 2.721
+    },
+    {
+      "text": "horde. If the zombies aren't very",
+      "start": 867.36,
+      "duration": 2.719
+    },
+    {
+      "text": "aggressive looking, you might be able to",
+      "start": 868.8,
+      "duration": 2.399
+    },
+    {
+      "text": "slowly drive through them without",
+      "start": 870.079,
+      "duration": 2.721
+    },
+    {
+      "text": "drawing their attention. Literally just",
+      "start": 871.199,
+      "duration": 2.801
+    },
+    {
+      "text": "said they're aggressive looking.",
+      "start": 872.8,
+      "duration": 1.599
+    },
+    {
+      "text": ">> Yeah,",
+      "start": 874.0,
+      "duration": 2.0
+    },
+    {
+      "text": ">> you can also fight your way through. You",
+      "start": 874.399,
+      "duration": 2.961
+    },
+    {
+      "text": "will attempt to drive through the horde",
+      "start": 876.0,
+      "duration": 3.12
+    },
+    {
+      "text": "at top speed, firing from the windows as",
+      "start": 877.36,
+      "duration": 3.36
+    },
+    {
+      "text": "you go. A large and angry horde may",
+      "start": 879.12,
+      "duration": 3.76
+    },
+    {
+      "text": "still be able to overwhelm the vehicle.",
+      "start": 880.72,
+      "duration": 3.52
+    },
+    {
+      "text": "There are mercenaries nearby. They might",
+      "start": 882.88,
+      "duration": 2.959
+    },
+    {
+      "text": "be willing to protect you for a nominal",
+      "start": 884.24,
+      "duration": 3.76
+    },
+    {
+      "text": "fee as you pass through the horde.",
+      "start": 885.839,
+      "duration": 5.521
+    },
+    {
+      "text": ">> Let's uh let's attempt a sneak. Okay.",
+      "start": 888.0,
+      "duration": 5.12
+    },
+    {
+      "text": "Don't mind me. Don't mind me. Don't mind",
+      "start": 891.36,
+      "duration": 3.839
+    },
+    {
+      "text": "me. Don't mind me. Don't mind me. You're",
+      "start": 893.12,
+      "duration": 5.519
+    },
+    {
+      "text": "overrun by the horde. Shit.",
+      "start": 895.199,
+      "duration": 4.401
+    },
+    {
+      "text": "Well, dicks.",
+      "start": 898.639,
+      "duration": 4.401
+    },
+    {
+      "text": ">> Yeah. Station wagon's hurting.",
+      "start": 899.6,
+      "duration": 6.4
+    },
+    {
+      "text": ">> Oh man, this sucks. Where are we going?",
+      "start": 903.04,
+      "duration": 4.4
+    },
+    {
+      "text": ">> Uh out west.",
+      "start": 906.0,
+      "duration": 2.0
+    },
+    {
+      "text": ">> Oh,",
+      "start": 907.44,
+      "duration": 3.04
+    },
+    {
+      "text": ">> yeah. You notice something going on a",
+      "start": 908.0,
+      "duration": 4.0
+    },
+    {
+      "text": "ways off from the road. Will you get out",
+      "start": 910.48,
+      "duration": 2.24
+    },
+    {
+      "text": "and look?",
+      "start": 912.0,
+      "duration": 2.079
+    },
+    {
+      "text": ">> Yes, I love it.",
+      "start": 912.72,
+      "duration": 3.119
+    },
+    {
+      "text": ">> What could it be? You hear the all too",
+      "start": 914.079,
+      "duration": 3.44
+    },
+    {
+      "text": "familiar cries which accompany a zombie",
+      "start": 915.839,
+      "duration": 3.601
+    },
+    {
+      "text": "attack, but this one sounds more intense",
+      "start": 917.519,
+      "duration": 3.281
+    },
+    {
+      "text": "than the others you've experienced.",
+      "start": 919.44,
+      "duration": 3.44
+    },
+    {
+      "text": "Suddenly, a door in a nearby SUV springs",
+      "start": 920.8,
+      "duration": 3.599
+    },
+    {
+      "text": "open and a man jumps out with a wild and",
+      "start": 922.88,
+      "duration": 3.12
+    },
+    {
+      "text": "panicked expression. He approaches you",
+      "start": 924.399,
+      "duration": 3.281
+    },
+    {
+      "text": "and begs you, \"My wife and children are",
+      "start": 926.0,
+      "duration": 3.199
+    },
+    {
+      "text": "in the school. Please help us.\" Before",
+      "start": 927.68,
+      "duration": 2.88
+    },
+    {
+      "text": "you have a chance, he's off and running",
+      "start": 929.199,
+      "duration": 2.32
+    },
+    {
+      "text": "towards the school.",
+      "start": 930.56,
+      "duration": 2.8
+    },
+    {
+      "text": ">> Okay,",
+      "start": 931.519,
+      "duration": 2.88
+    },
+    {
+      "text": "let's search the SUV.",
+      "start": 933.36,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Oh, real nice. The SUV is well stocked.",
+      "start": 934.399,
+      "duration": 4.161
+    },
+    {
+      "text": "Screams can still be heard coming from",
+      "start": 937.04,
+      "duration": 2.799
+    },
+    {
+      "text": "the school.",
+      "start": 938.56,
+      "duration": 1.839
+    },
+    {
+      "text": ">> Uh,",
+      "start": 939.839,
+      "duration": 1.68
+    },
+    {
+      "text": ">> don't do it.",
+      "start": 940.399,
+      "duration": 5.201
+    },
+    {
+      "text": ">> What? I I You're what?",
+      "start": 941.519,
+      "duration": 5.521
+    },
+    {
+      "text": ">> Who do you think I am? Someone who helps",
+      "start": 945.6,
+      "duration": 4.4
+    },
+    {
+      "text": "a man when he goes after his loot? I'm",
+      "start": 947.04,
+      "duration": 3.599
+    },
+    {
+      "text": "going to loot it.",
+      "start": 950.0,
+      "duration": 2.24
+    },
+    {
+      "text": ">> All right. All right. Cool. Well, yeah.",
+      "start": 950.639,
+      "duration": 2.0
+    },
+    {
+      "text": "All right.",
+      "start": 952.24,
+      "duration": 1.92
+    },
+    {
+      "text": ">> I guess I'll go. Yeah, sure. I'll",
+      "start": 952.639,
+      "duration": 2.801
+    },
+    {
+      "text": "fucking help. If I help him, he'll be",
+      "start": 954.16,
+      "duration": 2.56
+    },
+    {
+      "text": "like, \"Oh, here's some stuff.\"",
+      "start": 955.44,
+      "duration": 2.639
+    },
+    {
+      "text": ">> You follow the man and enter the school.",
+      "start": 956.72,
+      "duration": 2.88
+    },
+    {
+      "text": "The floor is slippery and crimson red.",
+      "start": 958.079,
+      "duration": 2.88
+    },
+    {
+      "text": "You see the man duck into a classroom.",
+      "start": 959.6,
+      "duration": 2.72
+    },
+    {
+      "text": "The screams are coming from further down",
+      "start": 960.959,
+      "duration": 2.481
+    },
+    {
+      "text": "the hall.",
+      "start": 962.32,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Okay, follow him. You enter and find the",
+      "start": 963.44,
+      "duration": 4.399
+    },
+    {
+      "text": "man's cradling a young girl. She's",
+      "start": 966.32,
+      "duration": 2.879
+    },
+    {
+      "text": "covered in blood and isn't moving. The",
+      "start": 967.839,
+      "duration": 2.881
+    },
+    {
+      "text": "door caks and you notice another child",
+      "start": 969.199,
+      "duration": 2.801
+    },
+    {
+      "text": "identical to the one the man is crying",
+      "start": 970.72,
+      "duration": 3.28
+    },
+    {
+      "text": "over. She's too busy eating a classmate",
+      "start": 972.0,
+      "duration": 3.839
+    },
+    {
+      "text": "to notice you. That's not good.",
+      "start": 974.0,
+      "duration": 3.36
+    },
+    {
+      "text": ">> The zombified girl.",
+      "start": 975.839,
+      "duration": 2.881
+    },
+    {
+      "text": ">> You shoot the girl before she notices",
+      "start": 977.36,
+      "duration": 2.719
+    },
+    {
+      "text": "you. No. The man tackles you. I could",
+      "start": 978.72,
+      "duration": 2.72
+    },
+    {
+      "text": "have saved her. You attempt to fight him",
+      "start": 980.079,
+      "duration": 2.721
+    },
+    {
+      "text": "off, but his other girl gets to him",
+      "start": 981.44,
+      "duration": 2.72
+    },
+    {
+      "text": "first. She takes a bite out of his arm.",
+      "start": 982.8,
+      "duration": 2.719
+    },
+    {
+      "text": "You scurry to your feet and run out of",
+      "start": 984.16,
+      "duration": 3.679
+    },
+    {
+      "text": "the room. Loot that SUV, dog.",
+      "start": 985.519,
+      "duration": 2.961
+    },
+    {
+      "text": ">> Yep.",
+      "start": 987.839,
+      "duration": 2.24
+    },
+    {
+      "text": ">> On your way out, you remember the SUV",
+      "start": 988.48,
+      "duration": 2.799
+    },
+    {
+      "text": "the man came out in front. You can still",
+      "start": 990.079,
+      "duration": 4.391
+    },
+    {
+      "text": "hear screaming down the hall.",
+      "start": 991.279,
+      "duration": 5.041
+    },
+    {
+      "text": "[Music]",
+      "start": 994.47,
+      "duration": 4.729
+    },
+    {
+      "text": "[Laughter]",
+      "start": 996.32,
+      "duration": 5.6
+    },
+    {
+      "text": "Check the screams, dog. All right. You",
+      "start": 999.199,
+      "duration": 4.32
+    },
+    {
+      "text": "enter the gymnasium. It's a mess in",
+      "start": 1001.92,
+      "duration": 2.96
+    },
+    {
+      "text": "there. As you carefully walk through the",
+      "start": 1003.519,
+      "duration": 2.801
+    },
+    {
+      "text": "room, you hear moans from behind. You",
+      "start": 1004.88,
+      "duration": 2.879
+    },
+    {
+      "text": "realize too late that your exit has been",
+      "start": 1006.32,
+      "duration": 3.04
+    },
+    {
+      "text": "cut off. You run outside and find",
+      "start": 1007.759,
+      "duration": 3.52
+    },
+    {
+      "text": "yourself surrounded. Fight your way out.",
+      "start": 1009.36,
+      "duration": 2.64
+    },
+    {
+      "text": ">> All right.",
+      "start": 1011.279,
+      "duration": 2.961
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 1012.0,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Shotgun.",
+      "start": 1014.24,
+      "duration": 2.08
+    },
+    {
+      "text": ">> Be a man, Hulk.",
+      "start": 1014.88,
+      "duration": 3.519
+    },
+    {
+      "text": ">> Oh. Oh, I'm right down the hall in the",
+      "start": 1016.32,
+      "duration": 2.56
+    },
+    {
+      "text": "forest.",
+      "start": 1018.399,
+      "duration": 1.631
+    },
+    {
+      "text": ">> Yep.",
+      "start": 1018.88,
+      "duration": 3.6
+    },
+    {
+      "text": "[Music]",
+      "start": 1020.03,
+      "duration": 4.049
+    },
+    {
+      "text": "These fuckers are going to die, dude.",
+      "start": 1022.48,
+      "duration": 2.959
+    },
+    {
+      "text": "This is easy.",
+      "start": 1024.079,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Try grabbing that shopping cart. That",
+      "start": 1025.439,
+      "duration": 2.64
+    },
+    {
+      "text": "might be food.",
+      "start": 1026.959,
+      "duration": 4.321
+    },
+    {
+      "text": ">> Is it something I can take?",
+      "start": 1028.079,
+      "duration": 4.401
+    },
+    {
+      "text": ">> Oh, is it just Oh, yeah.",
+      "start": 1031.28,
+      "duration": 2.7
+    },
+    {
+      "text": ">> Oh, yeah. Okay.",
+      "start": 1032.48,
+      "duration": 6.91
+    },
+    {
+      "text": "[Music]",
+      "start": 1033.98,
+      "duration": 5.41
+    },
+    {
+      "text": "Rocking out to the sounds of zombie",
+      "start": 1039.76,
+      "duration": 6.559
+    },
+    {
+      "text": "attack. Yeah, zombie attack sounds like",
+      "start": 1042.24,
+      "duration": 5.28
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 1046.319,
+      "duration": 4.081
+    },
+    {
+      "text": ">> First Zelda game. zombie. I mean, uh,",
+      "start": 1047.52,
+      "duration": 4.47
+    },
+    {
+      "text": "dungeon music.",
+      "start": 1050.4,
+      "duration": 4.72
+    },
+    {
+      "text": "[Music]",
+      "start": 1051.99,
+      "duration": 5.929
+    },
+    {
+      "text": ">> Hey, 250 ounces. That's great.",
+      "start": 1055.12,
+      "duration": 3.919
+    },
+    {
+      "text": ">> That's a lot of food. Hey, where's the",
+      "start": 1057.919,
+      "duration": 3.281
+    },
+    {
+      "text": "SUV, dude?",
+      "start": 1059.039,
+      "duration": 3.201
+    },
+    {
+      "text": ">> A fuck.",
+      "start": 1061.2,
+      "duration": 2.16
+    },
+    {
+      "text": ">> You didn't get to loot it.",
+      "start": 1062.24,
+      "duration": 3.92
+    },
+    {
+      "text": ">> Your tire pops. Okay,",
+      "start": 1063.36,
+      "duration": 3.36
+    },
+    {
+      "text": ">> cool.",
+      "start": 1066.16,
+      "duration": 1.68
+    },
+    {
+      "text": ">> Should have looted that SUV.",
+      "start": 1066.72,
+      "duration": 3.36
+    },
+    {
+      "text": ">> Oops. I don't know what just happened.",
+      "start": 1067.84,
+      "duration": 5.28
+    },
+    {
+      "text": "Clicked away too fast.",
+      "start": 1070.08,
+      "duration": 4.8
+    },
+    {
+      "text": ">> You hit a zombie. Leaves a ding in the",
+      "start": 1073.12,
+      "duration": 4.32
+    },
+    {
+      "text": "hooded station wagon. Wagon.",
+      "start": 1074.88,
+      "duration": 5.679
+    },
+    {
+      "text": ">> Just a hood. my wagon.",
+      "start": 1077.44,
+      "duration": 5.359
+    },
+    {
+      "text": ">> All right, let's stop and uh repair the",
+      "start": 1080.559,
+      "duration": 4.0
+    },
+    {
+      "text": "car.",
+      "start": 1082.799,
+      "duration": 3.361
+    },
+    {
+      "text": ">> Oh, that's what you use scrap for.",
+      "start": 1084.559,
+      "duration": 2.961
+    },
+    {
+      "text": ">> Okay, that makes more sense.",
+      "start": 1086.16,
+      "duration": 1.92
+    },
+    {
+      "text": ">> Great.",
+      "start": 1087.52,
+      "duration": 2.48
+    },
+    {
+      "text": ">> Should have gotten some of that scrap,",
+      "start": 1088.08,
+      "duration": 2.4
+    },
+    {
+      "text": "baby.",
+      "start": 1090.0,
+      "duration": 2.48
+    },
+    {
+      "text": ">> No problem.",
+      "start": 1090.48,
+      "duration": 4.8
+    },
+    {
+      "text": "All right, let's keep going.",
+      "start": 1092.48,
+      "duration": 4.96
+    },
+    {
+      "text": ">> Where are we? We got to be in like Ohio",
+      "start": 1095.28,
+      "duration": 2.639
+    },
+    {
+      "text": "by now.",
+      "start": 1097.44,
+      "duration": 2.16
+    },
+    {
+      "text": ">> Oh, yeah. It definitely takes at least",
+      "start": 1097.919,
+      "duration": 3.841
+    },
+    {
+      "text": "like 11 minutes to get to Ohio from",
+      "start": 1099.6,
+      "duration": 3.12
+    },
+    {
+      "text": "Pittsburgh.",
+      "start": 1101.76,
+      "duration": 3.2
+    },
+    {
+      "text": ">> Where? Oh, you hit a pretty nasty bump.",
+      "start": 1102.72,
+      "duration": 4.56
+    },
+    {
+      "text": "80 food flies out the window. Don't",
+      "start": 1104.96,
+      "duration": 5.839
+    },
+    {
+      "text": "shit. Stop and get it, you idiot.",
+      "start": 1107.28,
+      "duration": 5.6
+    },
+    {
+      "text": ">> Get out of the fucking car. Stop and get",
+      "start": 1110.799,
+      "duration": 2.401
+    },
+    {
+      "text": "it.",
+      "start": 1112.88,
+      "duration": 1.84
+    },
+    {
+      "text": ">> Broken down cars block the road.",
+      "start": 1113.2,
+      "duration": 4.16
+    },
+    {
+      "text": "Navigating the debris takes an hour.",
+      "start": 1114.72,
+      "duration": 5.28
+    },
+    {
+      "text": ">> Get so much stuff is happening.",
+      "start": 1117.36,
+      "duration": 4.88
+    },
+    {
+      "text": ">> Dang it. Oh, slow and shit. You hear",
+      "start": 1120.0,
+      "duration": 3.919
+    },
+    {
+      "text": "gunfire from nearby buildings.",
+      "start": 1122.24,
+      "duration": 2.48
+    },
+    {
+      "text": ">> Oh, the ball.",
+      "start": 1123.919,
+      "duration": 5.12
+    },
+    {
+      "text": ">> Hey. All right, cool. So, am I fighting?",
+      "start": 1124.72,
+      "duration": 5.6
+    },
+    {
+      "text": "Oh. Oh, hey.",
+      "start": 1129.039,
+      "duration": 2.081
+    },
+    {
+      "text": ">> All right.",
+      "start": 1130.32,
+      "duration": 3.68
+    },
+    {
+      "text": ">> I should buy some scrap.",
+      "start": 1131.12,
+      "duration": 4.48
+    },
+    {
+      "text": ">> Mhm.",
+      "start": 1134.0,
+      "duration": 2.72
+    },
+    {
+      "text": "Many scraps.",
+      "start": 1135.6,
+      "duration": 6.0
+    },
+    {
+      "text": ">> Yep. Done. Let's fix the car.",
+      "start": 1136.72,
+      "duration": 8.079
+    },
+    {
+      "text": "Use uh Yeah. What am I doing?",
+      "start": 1141.6,
+      "duration": 5.52
+    },
+    {
+      "text": ">> I don't know. You got to do the Oh. Oh.",
+      "start": 1144.799,
+      "duration": 4.0
+    },
+    {
+      "text": "Oh. Oh.",
+      "start": 1147.12,
+      "duration": 2.799
+    },
+    {
+      "text": ">> That's what I was supposed to do.",
+      "start": 1148.799,
+      "duration": 5.321
+    },
+    {
+      "text": ">> Oh, you repaired for zero.",
+      "start": 1149.919,
+      "duration": 4.201
+    },
+    {
+      "text": ">> You got one scrap.",
+      "start": 1154.96,
+      "duration": 1.36
+    },
+    {
+      "text": ">> That's okay.",
+      "start": 1155.919,
+      "duration": 1.041
+    },
+    {
+      "text": ">> Try that again.",
+      "start": 1156.32,
+      "duration": 1.92
+    },
+    {
+      "text": ">> That's okay. I can't. I don't have",
+      "start": 1156.96,
+      "duration": 1.599
+    },
+    {
+      "text": "enough.",
+      "start": 1158.24,
+      "duration": 2.0
+    },
+    {
+      "text": ">> Oh, brutal.",
+      "start": 1158.559,
+      "duration": 3.12
+    },
+    {
+      "text": ">> I really really fucked up. Well, let's",
+      "start": 1160.24,
+      "duration": 5.04
+    },
+    {
+      "text": "do a job. That's dangerous.",
+      "start": 1161.679,
+      "duration": 4.721
+    },
+    {
+      "text": "$26 though.",
+      "start": 1165.28,
+      "duration": 3.12
+    },
+    {
+      "text": ">> Let's do it.",
+      "start": 1166.4,
+      "duration": 5.44
+    },
+    {
+      "text": "I love a good 26er.",
+      "start": 1168.4,
+      "duration": 6.159
+    },
+    {
+      "text": ">> Is this something I can get? No.",
+      "start": 1171.84,
+      "duration": 5.839
+    },
+    {
+      "text": ">> Is this a giant hamburger?",
+      "start": 1174.559,
+      "duration": 4.881
+    },
+    {
+      "text": ">> You might want to switch to the non",
+      "start": 1177.679,
+      "duration": 3.281
+    },
+    {
+      "text": "three shots.",
+      "start": 1179.44,
+      "duration": 2.479
+    },
+    {
+      "text": ">> What? Why?",
+      "start": 1180.96,
+      "duration": 2.8
+    },
+    {
+      "text": ">> Cuz they use three of your ammo.",
+      "start": 1181.919,
+      "duration": 2.801
+    },
+    {
+      "text": ">> It uses three?",
+      "start": 1183.76,
+      "duration": 1.76
+    },
+    {
+      "text": ">> Of course it does.",
+      "start": 1184.72,
+      "duration": 2.079
+    },
+    {
+      "text": ">> Holy shit. I didn't know that.",
+      "start": 1185.52,
+      "duration": 2.159
+    },
+    {
+      "text": ">> Shooting three bullets.",
+      "start": 1186.799,
+      "duration": 2.081
+    },
+    {
+      "text": ">> I just thought that was the special",
+      "start": 1187.679,
+      "duration": 2.641
+    },
+    {
+      "text": "thing about the shotgun.",
+      "start": 1188.88,
+      "duration": 3.2
+    },
+    {
+      "text": ">> I just thought it was super awesome the",
+      "start": 1190.32,
+      "duration": 2.56
+    },
+    {
+      "text": "whole time.",
+      "start": 1192.08,
+      "duration": 2.16
+    },
+    {
+      "text": ">> What the fuck? That's why I was picking",
+      "start": 1192.88,
+      "duration": 2.159
+    },
+    {
+      "text": "it every time.",
+      "start": 1194.24,
+      "duration": 2.799
+    },
+    {
+      "text": ">> Well, it is keeping you alive.",
+      "start": 1195.039,
+      "duration": 2.561
+    },
+    {
+      "text": ">> Oh boy.",
+      "start": 1197.039,
+      "duration": 2.241
+    },
+    {
+      "text": ">> Oh boy. Oh boy.",
+      "start": 1197.6,
+      "duration": 3.84
+    },
+    {
+      "text": ">> See, that's why I keep it. Oh boy. Oh",
+      "start": 1199.28,
+      "duration": 4.24
+    },
+    {
+      "text": "boy. Oh boy. Oh boy. Oh boy. Oh boy. Oh",
+      "start": 1201.44,
+      "duration": 5.2
+    },
+    {
+      "text": "boy. Oh boy. Oh boy.",
+      "start": 1203.52,
+      "duration": 4.64
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 1206.64,
+      "duration": 4.96
+    },
+    {
+      "text": "I use every single shot.",
+      "start": 1208.16,
+      "duration": 6.399
+    },
+    {
+      "text": "Kablammo.",
+      "start": 1211.6,
+      "duration": 5.12
+    },
+    {
+      "text": "If you just beep.",
+      "start": 1214.559,
+      "duration": 4.961
+    },
+    {
+      "text": ">> You let him follow you like this. Yeah.",
+      "start": 1216.72,
+      "duration": 4.319
+    },
+    {
+      "text": "See, I made it.",
+      "start": 1219.52,
+      "duration": 5.6
+    },
+    {
+      "text": ">> You made it. Hooray. $26.",
+      "start": 1221.039,
+      "duration": 8.321
+    },
+    {
+      "text": ">> Thanks. Guess I'm just the goat.",
+      "start": 1225.12,
+      "duration": 5.439
+    },
+    {
+      "text": ">> Drop something of great value just",
+      "start": 1229.36,
+      "duration": 2.319
+    },
+    {
+      "text": "outside. If you help me find it, please",
+      "start": 1230.559,
+      "duration": 2.401
+    },
+    {
+      "text": "return it. Yeah, you got it. Seven",
+      "start": 1231.679,
+      "duration": 3.441
+    },
+    {
+      "text": "bucks. Easy peasy. I'm going to use a",
+      "start": 1232.96,
+      "duration": 2.88
+    },
+    {
+      "text": "regular rifle.",
+      "start": 1235.12,
+      "duration": 2.64
+    },
+    {
+      "text": ">> Okay, cool.",
+      "start": 1235.84,
+      "duration": 3.839
+    },
+    {
+      "text": ">> Oh, I'm a little slower. Why am I slow?",
+      "start": 1237.76,
+      "duration": 6.159
+    },
+    {
+      "text": ">> Rifle's heavy. Kill that thing.",
+      "start": 1239.679,
+      "duration": 5.441
+    },
+    {
+      "text": ">> Would have been great if I had a three",
+      "start": 1243.919,
+      "duration": 4.201
+    },
+    {
+      "text": "shot.",
+      "start": 1245.12,
+      "duration": 3.0
+    },
+    {
+      "text": "[Music]",
+      "start": 1249.24,
+      "duration": 4.84
+    },
+    {
+      "text": "Suck this dick.",
+      "start": 1251.039,
+      "duration": 4.321
+    },
+    {
+      "text": "If there was a zombie apocalypse, I",
+      "start": 1254.08,
+      "duration": 2.64
+    },
+    {
+      "text": "would absolutely tell every zombie to",
+      "start": 1255.36,
+      "duration": 4.799
+    },
+    {
+      "text": "suck my dick. Suck my dick, dude. Yo,",
+      "start": 1256.72,
+      "duration": 4.56
+    },
+    {
+      "text": "suck my dick.",
+      "start": 1260.159,
+      "duration": 3.281
+    },
+    {
+      "text": ">> Hey, how's it going? Maybe you ought to",
+      "start": 1261.28,
+      "duration": 4.16
+    },
+    {
+      "text": "try sucking my dick.",
+      "start": 1263.44,
+      "duration": 3.76
+    },
+    {
+      "text": ">> Sucking this dick, man.",
+      "start": 1265.44,
+      "duration": 3.359
+    },
+    {
+      "text": ">> Just It's got to be right before you",
+      "start": 1267.2,
+      "duration": 4.08
+    },
+    {
+      "text": "shoot them, too.",
+      "start": 1268.799,
+      "duration": 4.161
+    },
+    {
+      "text": "Looks like someone forgot to suck my",
+      "start": 1271.28,
+      "duration": 5.04
+    },
+    {
+      "text": "dick this morning. Oh. Oh,",
+      "start": 1272.96,
+      "duration": 5.12
+    },
+    {
+      "text": "got him.",
+      "start": 1276.32,
+      "duration": 4.88
+    },
+    {
+      "text": "Shoot him in the head. Shoot him in the",
+      "start": 1278.08,
+      "duration": 7.16
+    },
+    {
+      "text": "head. Shoot him in the legs.",
+      "start": 1281.2,
+      "duration": 4.04
+    },
+    {
+      "text": "Oh.",
+      "start": 1286.24,
+      "duration": 3.0
+    },
+    {
+      "text": "[Music]",
+      "start": 1290.06,
+      "duration": 5.0
+    },
+    {
+      "text": "Uh. Um.",
+      "start": 1291.52,
+      "duration": 5.2
+    },
+    {
+      "text": "[Music]",
+      "start": 1295.06,
+      "duration": 3.739
+    },
+    {
+      "text": "Beep.",
+      "start": 1296.72,
+      "duration": 4.8
+    },
+    {
+      "text": "Bro, you shot that poor tray.",
+      "start": 1298.799,
+      "duration": 5.12
+    },
+    {
+      "text": "There's the thing. Uhhuh. Huh?",
+      "start": 1301.52,
+      "duration": 4.67
+    },
+    {
+      "text": ">> Yeah. Just outrun him.",
+      "start": 1303.919,
+      "duration": 5.441
+    },
+    {
+      "text": "[Music]",
+      "start": 1306.19,
+      "duration": 4.05
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 1309.36,
+      "duration": 1.36
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 1310.24,
+      "duration": 2.799
+    },
+    {
+      "text": ">> Look at this ass. I made it.",
+      "start": 1310.72,
+      "duration": 5.52
+    },
+    {
+      "text": ">> $7 in the bank.",
+      "start": 1313.039,
+      "duration": 5.52
+    },
+    {
+      "text": ">> All right. Now I can buy more scrap to",
+      "start": 1316.24,
+      "duration": 3.679
+    },
+    {
+      "text": "repair my car.",
+      "start": 1318.559,
+      "duration": 4.48
+    },
+    {
+      "text": ">> Now I can almost afford more ammo.",
+      "start": 1319.919,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Uh car",
+      "start": 1323.039,
+      "duration": 2.401
+    },
+    {
+      "text": ">> to make up for the bullets that I shot",
+      "start": 1323.919,
+      "duration": 4.081
+    },
+    {
+      "text": "wildly.",
+      "start": 1325.44,
+      "duration": 3.84
+    },
+    {
+      "text": ">> Use two.",
+      "start": 1328.0,
+      "duration": 2.0
+    },
+    {
+      "text": ">> Ready?",
+      "start": 1329.28,
+      "duration": 1.12
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 1330.0,
+      "duration": 3.72
+    },
+    {
+      "text": ">> Here we go.",
+      "start": 1330.4,
+      "duration": 3.32
+    },
+    {
+      "text": "Oh,",
+      "start": 1334.08,
+      "duration": 2.88
+    },
+    {
+      "text": ">> miss. That was kind of on.",
+      "start": 1334.88,
+      "duration": 3.36
+    },
+    {
+      "text": ">> You prepared for sex.",
+      "start": 1336.96,
+      "duration": 3.199
+    },
+    {
+      "text": ">> All right.",
+      "start": 1338.24,
+      "duration": 2.96
+    },
+    {
+      "text": "Beep.",
+      "start": 1340.159,
+      "duration": 4.561
+    },
+    {
+      "text": ">> Uh, all right. No, how about um we rest",
+      "start": 1341.2,
+      "duration": 5.44
+    },
+    {
+      "text": "a little bit.",
+      "start": 1344.72,
+      "duration": 5.12
+    },
+    {
+      "text": "Two hour rest sounds good.",
+      "start": 1346.64,
+      "duration": 5.76
+    },
+    {
+      "text": "Suck",
+      "start": 1349.84,
+      "duration": 4.079
+    },
+    {
+      "text": ">> magnificent.",
+      "start": 1352.4,
+      "duration": 4.72
+    },
+    {
+      "text": ">> How come I don't rest? How come I don't",
+      "start": 1353.919,
+      "duration": 4.321
+    },
+    {
+      "text": "get any recovery?",
+      "start": 1357.12,
+      "duration": 2.24
+    },
+    {
+      "text": ">> I don't know, man.",
+      "start": 1358.24,
+      "duration": 4.64
+    },
+    {
+      "text": ">> It's really pissing me off.",
+      "start": 1359.36,
+      "duration": 3.52
+    },
+    {
+      "text": "Yes, I believe town. We're going to",
+      "start": 1365.679,
+      "duration": 5.201
+    },
+    {
+      "text": "Indianapolis, bro. Station wagons beat",
+      "start": 1367.44,
+      "duration": 5.599
+    },
+    {
+      "text": "to shit.",
+      "start": 1370.88,
+      "duration": 3.919
+    },
+    {
+      "text": "Okay, my batteries start making a weird",
+      "start": 1373.039,
+      "duration": 2.241
+    },
+    {
+      "text": "noise.",
+      "start": 1374.799,
+      "duration": 3.521
+    },
+    {
+      "text": ">> That's never good.",
+      "start": 1375.28,
+      "duration": 5.68
+    },
+    {
+      "text": "Everybody loves to hang with the crew.",
+      "start": 1378.32,
+      "duration": 3.2
+    },
+    {
+      "text": "Hang",
+      "start": 1380.96,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Dan was holding the map upside down. Oh,",
+      "start": 1381.52,
+      "duration": 4.8
+    },
+    {
+      "text": "classic me.",
+      "start": 1383.84,
+      "duration": 3.68
+    },
+    {
+      "text": "Isn't that just like me?",
+      "start": 1386.32,
+      "duration": 2.4
+    },
+    {
+      "text": ">> You're third, Dan.",
+      "start": 1387.52,
+      "duration": 4.56
+    },
+    {
+      "text": ">> Oh, am I? What the fuck?",
+      "start": 1388.72,
+      "duration": 4.88
+    },
+    {
+      "text": "See a pile of zombies feasting on",
+      "start": 1392.08,
+      "duration": 4.16
+    },
+    {
+      "text": "something or someone.",
+      "start": 1393.6,
+      "duration": 4.72
+    },
+    {
+      "text": ">> Okay. What do I give a shit?",
+      "start": 1396.24,
+      "duration": 4.4
+    },
+    {
+      "text": ">> Yeah. What What lovely city is this?",
+      "start": 1398.32,
+      "duration": 4.479
+    },
+    {
+      "text": "Indianapolis. Hey. All right.",
+      "start": 1400.64,
+      "duration": 2.8
+    },
+    {
+      "text": ">> Run.",
+      "start": 1402.799,
+      "duration": 2.401
+    },
+    {
+      "text": ">> Oh, look at the zombies enjoying a day",
+      "start": 1403.44,
+      "duration": 2.96
+    },
+    {
+      "text": "at the at the lake.",
+      "start": 1405.2,
+      "duration": 3.44
+    },
+    {
+      "text": ">> Man, everybody's dead, huh? Every city's",
+      "start": 1406.4,
+      "duration": 4.159
+    },
+    {
+      "text": "dead, huh? Man, that sucks.",
+      "start": 1408.64,
+      "duration": 5.039
+    },
+    {
+      "text": ">> Out west, it's supposed to be better.",
+      "start": 1410.559,
+      "duration": 4.401
+    },
+    {
+      "text": ">> All right.",
+      "start": 1413.679,
+      "duration": 2.641
+    },
+    {
+      "text": ">> You may want to go with the uh",
+      "start": 1414.96,
+      "duration": 3.44
+    },
+    {
+      "text": ">> the shotgun.",
+      "start": 1416.32,
+      "duration": 5.25
+    },
+    {
+      "text": ">> Yeah. Okay.",
+      "start": 1418.4,
+      "duration": 7.04
+    },
+    {
+      "text": "[Music]",
+      "start": 1421.57,
+      "duration": 7.75
+    },
+    {
+      "text": "Well, who knows actually.",
+      "start": 1425.44,
+      "duration": 3.88
+    },
+    {
+      "text": "Oh my god.",
+      "start": 1431.36,
+      "duration": 3.199
+    },
+    {
+      "text": ">> Got him.",
+      "start": 1433.84,
+      "duration": 2.08
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 1434.559,
+      "duration": 9.47
+    },
+    {
+      "text": "[Music]",
+      "start": 1435.92,
+      "duration": 8.109
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 1444.48,
+      "duration": 4.76
+    },
+    {
+      "text": ">> That's got to feel good, man.",
+      "start": 1445.36,
+      "duration": 3.88
+    },
+    {
+      "text": "Dang, you you float too, man.",
+      "start": 1449.84,
+      "duration": 7.34
+    },
+    {
+      "text": "[Music]",
+      "start": 1453.68,
+      "duration": 3.5
+    },
+    {
+      "text": "Okay.",
+      "start": 1459.2,
+      "duration": 3.76
+    },
+    {
+      "text": "[Music]",
+      "start": 1460.69,
+      "duration": 5.95
+    },
+    {
+      "text": "Come on, my friend. You are so ducking",
+      "start": 1462.96,
+      "duration": 6.48
+    },
+    {
+      "text": "all the time.",
+      "start": 1466.64,
+      "duration": 7.039
+    },
+    {
+      "text": "Fucking asshole. Sod ducking.",
+      "start": 1469.44,
+      "duration": 6.42
+    },
+    {
+      "text": "Soda king.",
+      "start": 1473.679,
+      "duration": 4.641
+    },
+    {
+      "text": "[Music]",
+      "start": 1475.86,
+      "duration": 4.54
+    },
+    {
+      "text": "I've got bad timing on these fucking",
+      "start": 1478.32,
+      "duration": 2.64
+    },
+    {
+      "text": "guys.",
+      "start": 1480.4,
+      "duration": 4.159
+    },
+    {
+      "text": ">> Yeah. Yeah. There you go.",
+      "start": 1480.96,
+      "duration": 6.16
+    },
+    {
+      "text": ">> Now you die.",
+      "start": 1484.559,
+      "duration": 3.761
+    },
+    {
+      "text": ">> Aaron, please.",
+      "start": 1487.12,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Oh shit.",
+      "start": 1488.32,
+      "duration": 6.88
+    },
+    {
+      "text": "This is bad. No.",
+      "start": 1491.12,
+      "duration": 7.2
+    },
+    {
+      "text": "[Laughter]",
+      "start": 1495.2,
+      "duration": 6.24
+    },
+    {
+      "text": "What the hell? This guy.",
+      "start": 1498.32,
+      "duration": 5.12
+    },
+    {
+      "text": ">> You've used like 80 ammo.",
+      "start": 1501.44,
+      "duration": 3.92
+    },
+    {
+      "text": ">> Oh my god. Fucking right when he gets",
+      "start": 1503.44,
+      "duration": 6.0
+    },
+    {
+      "text": "up. Suck it. Suck it. Suck a dick. No.",
+      "start": 1505.36,
+      "duration": 8.4
+    },
+    {
+      "text": "My wiener is out and supple for sucking.",
+      "start": 1509.44,
+      "duration": 7.32
+    },
+    {
+      "text": "Yay.",
+      "start": 1513.76,
+      "duration": 3.0
+    },
+    {
+      "text": ">> All right. Mhm. How much money do I",
+      "start": 1519.84,
+      "duration": 5.12
+    },
+    {
+      "text": "have? 25 bucks. Let's buy some scrap.",
+      "start": 1522.159,
+      "duration": 4.561
+    },
+    {
+      "text": "They've only got fuel.",
+      "start": 1524.96,
+      "duration": 3.28
+    },
+    {
+      "text": ">> Fuel is good.",
+      "start": 1526.72,
+      "duration": 3.76
+    },
+    {
+      "text": ">> Yeah, but",
+      "start": 1528.24,
+      "duration": 5.439
+    },
+    {
+      "text": "I have 12. I need to save this for scrap",
+      "start": 1530.48,
+      "duration": 6.24
+    },
+    {
+      "text": "because my car is going to explode.",
+      "start": 1533.679,
+      "duration": 6.161
+    },
+    {
+      "text": ">> Okay. Farmland.",
+      "start": 1536.72,
+      "duration": 6.24
+    },
+    {
+      "text": ">> Bye, Indianapolis. Oh,",
+      "start": 1539.84,
+      "duration": 5.04
+    },
+    {
+      "text": ">> try trading for one.",
+      "start": 1542.96,
+      "duration": 4.24
+    },
+    {
+      "text": ">> What?",
+      "start": 1544.88,
+      "duration": 2.799
+    },
+    {
+      "text": "What the heck?",
+      "start": 1547.2,
+      "duration": 2.479
+    },
+    {
+      "text": ">> Try trading for a tire.",
+      "start": 1547.679,
+      "duration": 2.48
+    },
+    {
+      "text": ">> Where?",
+      "start": 1549.679,
+      "duration": 2.161
+    },
+    {
+      "text": ">> You encounter no one. Oh, that's not",
+      "start": 1550.159,
+      "duration": 2.64
+    },
+    {
+      "text": "good.",
+      "start": 1551.84,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Like what? Oh, trade.",
+      "start": 1552.799,
+      "duration": 3.921
+    },
+    {
+      "text": "You are",
+      "start": 1555.84,
+      "duration": 3.6
+    },
+    {
+      "text": ">> You encounter no one to trade with me.",
+      "start": 1556.72,
+      "duration": 4.64
+    },
+    {
+      "text": ">> You got to like hang out.",
+      "start": 1559.44,
+      "duration": 2.88
+    },
+    {
+      "text": "Oh, okay.",
+      "start": 1561.36,
+      "duration": 3.28
+    },
+    {
+      "text": ">> One of about has five of their scrap to",
+      "start": 1562.32,
+      "duration": 4.4
+    },
+    {
+      "text": "offer for one of your battery. I only",
+      "start": 1564.64,
+      "duration": 2.8
+    },
+    {
+      "text": "have one battery.",
+      "start": 1566.72,
+      "duration": 3.28
+    },
+    {
+      "text": ">> You got two batteries.",
+      "start": 1567.44,
+      "duration": 5.2
+    },
+    {
+      "text": ">> Yeah. One of their tire for one of your",
+      "start": 1570.0,
+      "duration": 4.96
+    },
+    {
+      "text": "battery. Oh, fuck.",
+      "start": 1572.64,
+      "duration": 4.399
+    },
+    {
+      "text": "I shouldn't have traded that battery.",
+      "start": 1574.96,
+      "duration": 2.719
+    },
+    {
+      "text": ">> Well,",
+      "start": 1577.039,
+      "duration": 3.64
+    },
+    {
+      "text": ">> okay.",
+      "start": 1577.679,
+      "duration": 3.0
+    },
+    {
+      "text": ">> Okay.",
+      "start": 1580.799,
+      "duration": 3.76
+    },
+    {
+      "text": ">> Okay.",
+      "start": 1582.24,
+      "duration": 4.319
+    },
+    {
+      "text": ">> Spare one of their tire for four of your",
+      "start": 1584.559,
+      "duration": 3.521
+    },
+    {
+      "text": "scrap. Okay.",
+      "start": 1586.559,
+      "duration": 3.681
+    },
+    {
+      "text": ">> Yeah. I mean,",
+      "start": 1588.08,
+      "duration": 4.24
+    },
+    {
+      "text": ">> sure.",
+      "start": 1590.24,
+      "duration": 3.679
+    },
+    {
+      "text": ">> It's like you're making money.",
+      "start": 1592.32,
+      "duration": 4.959
+    },
+    {
+      "text": ">> Jesus Christ. All right, let's go.",
+      "start": 1593.919,
+      "duration": 6.801
+    },
+    {
+      "text": ">> Boy, that station wagon's hurting.",
+      "start": 1597.279,
+      "duration": 6.481
+    },
+    {
+      "text": ">> Oh, forced to drive more slowly. Cool.",
+      "start": 1600.72,
+      "duration": 4.959
+    },
+    {
+      "text": "Let's uh let's stop and repair the car a",
+      "start": 1603.76,
+      "duration": 2.399
+    },
+    {
+      "text": "little bit.",
+      "start": 1605.679,
+      "duration": 3.841
+    },
+    {
+      "text": ">> Yeah. Yeah. You need scrap.",
+      "start": 1606.159,
+      "duration": 4.161
+    },
+    {
+      "text": ">> All right.",
+      "start": 1609.52,
+      "duration": 4.08
+    },
+    {
+      "text": ">> Better get this right, dog.",
+      "start": 1610.32,
+      "duration": 6.479
+    },
+    {
+      "text": "Yeah. Yeah.",
+      "start": 1613.6,
+      "duration": 4.88
+    },
+    {
+      "text": "You repaired for 8 plus two.",
+      "start": 1616.799,
+      "duration": 2.48
+    },
+    {
+      "text": ">> Oh yeah,",
+      "start": 1618.48,
+      "duration": 1.76
+    },
+    {
+      "text": ">> that's 10.",
+      "start": 1619.279,
+      "duration": 3.76
+    },
+    {
+      "text": ">> That's freaking awesome. Yeah, it looks",
+      "start": 1620.24,
+      "duration": 5.2
+    },
+    {
+      "text": "like shit.",
+      "start": 1623.039,
+      "duration": 5.441
+    },
+    {
+      "text": "Looks like shit.",
+      "start": 1625.44,
+      "duration": 6.16
+    },
+    {
+      "text": ">> Yeah, it's really bad. Oh, radiation,",
+      "start": 1628.48,
+      "duration": 3.52
+    },
+    {
+      "text": "huh?",
+      "start": 1631.6,
+      "duration": 1.52
+    },
+    {
+      "text": ">> Oh my god.",
+      "start": 1632.0,
+      "duration": 6.12
+    },
+    {
+      "text": ">> Cool. All right, here we go.",
+      "start": 1633.12,
+      "duration": 5.0
+    },
+    {
+      "text": ">> Station.",
+      "start": 1638.4,
+      "duration": 2.0
+    },
+    {
+      "text": ">> You hit a deer that jumps out in front",
+      "start": 1639.279,
+      "duration": 1.441
+    },
+    {
+      "text": "of the car.",
+      "start": 1640.4,
+      "duration": 1.04
+    },
+    {
+      "text": ">> Cool. Car's broken.",
+      "start": 1640.72,
+      "duration": 3.28
+    },
+    {
+      "text": ">> Venison. Um,",
+      "start": 1641.44,
+      "duration": 5.599
+    },
+    {
+      "text": ">> guess we got to stop.",
+      "start": 1644.0,
+      "duration": 4.559
+    },
+    {
+      "text": "Great. Uh,",
+      "start": 1647.039,
+      "duration": 3.441
+    },
+    {
+      "text": ">> car.",
+      "start": 1648.559,
+      "duration": 5.441
+    },
+    {
+      "text": ">> Let's uh trade.",
+      "start": 1650.48,
+      "duration": 5.28
+    },
+    {
+      "text": ">> One child was eaten by my husband when",
+      "start": 1654.0,
+      "duration": 3.76
+    },
+    {
+      "text": "we had just started off for safe haven.",
+      "start": 1655.76,
+      "duration": 3.44
+    },
+    {
+      "text": "Now I travel alone with my five",
+      "start": 1657.76,
+      "duration": 3.6
+    },
+    {
+      "text": "children. The eldest, Caleb, is 11. I",
+      "start": 1659.2,
+      "duration": 3.599
+    },
+    {
+      "text": "fear he'll be the man of the family",
+      "start": 1661.36,
+      "duration": 3.28
+    },
+    {
+      "text": "before he hits puberty.",
+      "start": 1662.799,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Cool. Um, let's trade.",
+      "start": 1664.64,
+      "duration": 4.56
+    },
+    {
+      "text": ">> Do you have any tires?",
+      "start": 1666.799,
+      "duration": 6.161
+    },
+    {
+      "text": ">> 12 of their food for one of your tire.",
+      "start": 1669.2,
+      "duration": 6.21
+    },
+    {
+      "text": "I don't really need food.",
+      "start": 1672.96,
+      "duration": 4.4
+    },
+    {
+      "text": "[Music]",
+      "start": 1675.41,
+      "duration": 4.269
+    },
+    {
+      "text": "No. Oh, I should have traded that",
+      "start": 1677.36,
+      "duration": 4.08
+    },
+    {
+      "text": "actually.",
+      "start": 1679.679,
+      "duration": 5.201
+    },
+    {
+      "text": "Shit. My bad. I had so many mufflers.",
+      "start": 1681.44,
+      "duration": 5.119
+    },
+    {
+      "text": ">> Yeah, you got mufflers for days, man.",
+      "start": 1684.88,
+      "duration": 2.799
+    },
+    {
+      "text": ">> Sorry. Is one of their bad",
+      "start": 1686.559,
+      "duration": 2.48
+    },
+    {
+      "text": ">> Just keep cycling through until it gives",
+      "start": 1687.679,
+      "duration": 3.041
+    },
+    {
+      "text": "you a really good deal.",
+      "start": 1689.039,
+      "duration": 2.321
+    },
+    {
+      "text": ">> That's true.",
+      "start": 1690.72,
+      "duration": 1.36
+    },
+    {
+      "text": ">> Oops.",
+      "start": 1691.36,
+      "duration": 2.4
+    },
+    {
+      "text": ">> Yeah, but I keep losing",
+      "start": 1692.08,
+      "duration": 3.76
+    },
+    {
+      "text": ">> losing time.",
+      "start": 1693.76,
+      "duration": 4.639
+    },
+    {
+      "text": ">> Uh 94 food.",
+      "start": 1695.84,
+      "duration": 5.76
+    },
+    {
+      "text": ">> We don't even have that,",
+      "start": 1698.399,
+      "duration": 5.041
+    },
+    {
+      "text": ">> man. Man, we're blown blasted through",
+      "start": 1701.6,
+      "duration": 6.4
+    },
+    {
+      "text": "food like crazy. Ah, five scrap. Uh,",
+      "start": 1703.44,
+      "duration": 4.959
+    },
+    {
+      "text": "yes.",
+      "start": 1708.0,
+      "duration": 1.6
+    },
+    {
+      "text": ">> Yeah, you got 16 med kits.",
+      "start": 1708.399,
+      "duration": 5.681
+    },
+    {
+      "text": ">> I got plenty of that. Yes. All right.",
+      "start": 1709.6,
+      "duration": 5.28
+    },
+    {
+      "text": ">> That's great.",
+      "start": 1714.08,
+      "duration": 4.64
+    },
+    {
+      "text": ">> Car repair. Use four.",
+      "start": 1714.88,
+      "duration": 7.159
+    },
+    {
+      "text": ">> Good luck.",
+      "start": 1718.72,
+      "duration": 3.319
+    },
+    {
+      "text": "Yes. Yes. Yes. Yes. Oh my god. Okay.",
+      "start": 1722.48,
+      "duration": 7.12
+    },
+    {
+      "text": ">> That one was okay.",
+      "start": 1727.84,
+      "duration": 3.439
+    },
+    {
+      "text": ">> All right.",
+      "start": 1729.6,
+      "duration": 3.6
+    },
+    {
+      "text": "Yeah,",
+      "start": 1731.279,
+      "duration": 2.4
+    },
+    {
+      "text": "fast.",
+      "start": 1733.2,
+      "duration": 2.719
+    },
+    {
+      "text": ">> This is great.",
+      "start": 1733.679,
+      "duration": 5.041
+    },
+    {
+      "text": "Yeah, Nicholas Cage is on fast.",
+      "start": 1735.919,
+      "duration": 4.721
+    },
+    {
+      "text": ">> Okay.",
+      "start": 1738.72,
+      "duration": 2.8
+    },
+    {
+      "text": "Okay.",
+      "start": 1740.64,
+      "duration": 2.88
+    },
+    {
+      "text": ">> We have to steal the Declaration of",
+      "start": 1741.52,
+      "duration": 3.92
+    },
+    {
+      "text": "Independence.",
+      "start": 1743.52,
+      "duration": 4.48
+    },
+    {
+      "text": "I got style.",
+      "start": 1745.44,
+      "duration": 3.52
+    },
+    {
+      "text": ">> This guy clears up.",
+      "start": 1748.0,
+      "duration": 4.72
+    },
+    {
+      "text": ">> George Washington, Benjamin Franklin,",
+      "start": 1748.96,
+      "duration": 5.28
+    },
+    {
+      "text": "all of those guys.",
+      "start": 1752.72,
+      "duration": 3.28
+    },
+    {
+      "text": ">> Cory",
+      "start": 1754.24,
+      "duration": 3.28
+    },
+    {
+      "text": "Franklin tire.",
+      "start": 1756.0,
+      "duration": 2.96
+    },
+    {
+      "text": ">> Your tire pops while driving over some",
+      "start": 1757.52,
+      "duration": 3.519
+    },
+    {
+      "text": "debris. You You replace it from the",
+      "start": 1758.96,
+      "duration": 2.4
+    },
+    {
+      "text": "supplies.",
+      "start": 1761.039,
+      "duration": 2.081
+    },
+    {
+      "text": ">> I had a tire.",
+      "start": 1761.36,
+      "duration": 2.559
+    },
+    {
+      "text": ">> Farmland.",
+      "start": 1763.12,
+      "duration": 1.2
+    },
+    {
+      "text": ">> Oh,",
+      "start": 1763.919,
+      "duration": 1.281
+    },
+    {
+      "text": ">> farmland.",
+      "start": 1764.32,
+      "duration": 2.479
+    },
+    {
+      "text": ">> What could it be?",
+      "start": 1765.2,
+      "duration": 2.64
+    },
+    {
+      "text": ">> What happened?",
+      "start": 1766.799,
+      "duration": 2.48
+    },
+    {
+      "text": ">> You're pulling into the farmland.",
+      "start": 1767.84,
+      "duration": 3.04
+    },
+    {
+      "text": ">> Oh, Jesus.",
+      "start": 1769.279,
+      "duration": 3.12
+    },
+    {
+      "text": ">> Third Dan gets bored and starts making a",
+      "start": 1770.88,
+      "duration": 3.12
+    },
+    {
+      "text": "really annoying noise.",
+      "start": 1772.399,
+      "duration": 2.561
+    },
+    {
+      "text": ">> Farmland.",
+      "start": 1774.0,
+      "duration": 4.159
+    },
+    {
+      "text": ">> Is that me?",
+      "start": 1774.96,
+      "duration": 5.599
+    },
+    {
+      "text": ">> Yeah, you're third Dan.",
+      "start": 1778.159,
+      "duration": 5.281
+    },
+    {
+      "text": ">> I mean, not to, you know. Whoa. Let's do",
+      "start": 1780.559,
+      "duration": 4.0
+    },
+    {
+      "text": "it.",
+      "start": 1783.44,
+      "duration": 3.119
+    },
+    {
+      "text": ">> And it's only suicide.",
+      "start": 1784.559,
+      "duration": 6.0
+    },
+    {
+      "text": ">> I've taken that before.",
+      "start": 1786.559,
+      "duration": 8.801
+    },
+    {
+      "text": "Oh, you took the rifle, too. Dang, dog.",
+      "start": 1790.559,
+      "duration": 7.201
+    },
+    {
+      "text": "Make it count, bitch.",
+      "start": 1795.36,
+      "duration": 5.28
+    },
+    {
+      "text": "[Music]",
+      "start": 1797.76,
+      "duration": 4.399
+    },
+    {
+      "text": "I got this. I got this. I got this. I",
+      "start": 1800.64,
+      "duration": 3.84
+    },
+    {
+      "text": "got this, dude. Absolutely crushing",
+      "start": 1802.159,
+      "duration": 4.321
+    },
+    {
+      "text": "right now.",
+      "start": 1804.48,
+      "duration": 3.919
+    },
+    {
+      "text": "Oops.",
+      "start": 1806.48,
+      "duration": 4.96
+    },
+    {
+      "text": "Absolutely crushing.",
+      "start": 1808.399,
+      "duration": 6.0
+    },
+    {
+      "text": "Absolutely crushing.",
+      "start": 1811.44,
+      "duration": 5.76
+    },
+    {
+      "text": "Absolutely crushing.",
+      "start": 1814.399,
+      "duration": 6.0
+    },
+    {
+      "text": "Aaron's absolutely crushing.",
+      "start": 1817.2,
+      "duration": 7.0
+    },
+    {
+      "text": "Absolutely crushing.",
+      "start": 1820.399,
+      "duration": 3.801
+    },
+    {
+      "text": "[Music]",
+      "start": 1824.38,
+      "duration": 2.34
+    },
+    {
+      "text": ">> Aaron, you're fucking",
+      "start": 1825.919,
+      "duration": 2.24
+    },
+    {
+      "text": ">> Oh, no. No, I'm not. No, I'm not.",
+      "start": 1826.72,
+      "duration": 2.64
+    },
+    {
+      "text": ">> Absolutely crushing.",
+      "start": 1828.159,
+      "duration": 4.161
+    },
+    {
+      "text": ">> It's much easier. It's much easier.",
+      "start": 1829.36,
+      "duration": 6.24
+    },
+    {
+      "text": ">> Look, crawly zombie. Done.",
+      "start": 1832.32,
+      "duration": 5.44
+    },
+    {
+      "text": ">> I love that little like smiley kind of",
+      "start": 1835.6,
+      "duration": 3.92
+    },
+    {
+      "text": "neutral face they get on after you kill",
+      "start": 1837.76,
+      "duration": 3.6
+    },
+    {
+      "text": "them.",
+      "start": 1839.52,
+      "duration": 4.08
+    },
+    {
+      "text": "Don't mind me.",
+      "start": 1841.36,
+      "duration": 4.24
+    },
+    {
+      "text": ">> It's a living. I guess it's not",
+      "start": 1843.6,
+      "duration": 5.52
+    },
+    {
+      "text": "technically a living. Yay!",
+      "start": 1845.6,
+      "duration": 5.439
+    },
+    {
+      "text": "I got a lot of food out of that one.",
+      "start": 1849.12,
+      "duration": 3.76
+    },
+    {
+      "text": "Absolutely crushing",
+      "start": 1851.039,
+      "duration": 3.441
+    },
+    {
+      "text": ">> ammo.",
+      "start": 1852.88,
+      "duration": 2.72
+    },
+    {
+      "text": "Ammo.",
+      "start": 1854.48,
+      "duration": 1.679
+    },
+    {
+      "text": ">> All right,",
+      "start": 1855.6,
+      "duration": 2.0
+    },
+    {
+      "text": ">> let's fucking do it.",
+      "start": 1856.159,
+      "duration": 2.161
+    },
+    {
+      "text": ">> Great job.",
+      "start": 1857.6,
+      "duration": 3.199
+    },
+    {
+      "text": ">> Let's get fucking ammo.",
+      "start": 1858.32,
+      "duration": 3.52
+    },
+    {
+      "text": ">> What is this now?",
+      "start": 1860.799,
+      "duration": 2.641
+    },
+    {
+      "text": ">> I don't know. Don't get hung up on the",
+      "start": 1861.84,
+      "duration": 3.92
+    },
+    {
+      "text": "succulents, dude. There's zombies about",
+      "start": 1863.44,
+      "duration": 5.76
+    },
+    {
+      "text": ">> But what if it's a a Chinese ve of the",
+      "start": 1865.76,
+      "duration": 7.0
+    },
+    {
+      "text": "succulent variety?",
+      "start": 1869.2,
+      "duration": 3.56
+    },
+    {
+      "text": ">> You know what I'm saying?",
+      "start": 1873.44,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Yeah. Just remember, you don't get any",
+      "start": 1874.399,
+      "duration": 4.64
+    },
+    {
+      "text": "points for killing zombies.",
+      "start": 1877.44,
+      "duration": 2.959
+    },
+    {
+      "text": ">> Yeah, but then they'll like gang up on",
+      "start": 1879.039,
+      "duration": 2.481
+    },
+    {
+      "text": "me, you know.",
+      "start": 1880.399,
+      "duration": 4.801
+    },
+    {
+      "text": ">> Okay. Your only goal is to get to that",
+      "start": 1881.52,
+      "duration": 4.399
+    },
+    {
+      "text": "ammo.",
+      "start": 1885.2,
+      "duration": 2.36
+    },
+    {
+      "text": ">> They're so close.",
+      "start": 1885.919,
+      "duration": 3.12
+    },
+    {
+      "text": "[Music]",
+      "start": 1887.56,
+      "duration": 2.599
+    },
+    {
+      "text": ">> See, that could have happened if I",
+      "start": 1889.039,
+      "duration": 3.821
+    },
+    {
+      "text": "didn't kill him.",
+      "start": 1890.159,
+      "duration": 4.561
+    },
+    {
+      "text": "[Music]",
+      "start": 1892.86,
+      "duration": 3.78
+    },
+    {
+      "text": ">> I don't like when the music gets all the",
+      "start": 1894.72,
+      "duration": 2.799
+    },
+    {
+      "text": "It's upsetting.",
+      "start": 1896.64,
+      "duration": 3.039
+    },
+    {
+      "text": ">> Gets all gets all water phony.",
+      "start": 1897.519,
+      "duration": 5.4
+    },
+    {
+      "text": ">> Oh boy.",
+      "start": 1899.679,
+      "duration": 3.24
+    },
+    {
+      "text": "Look at that tree.",
+      "start": 1904.0,
+      "duration": 3.2
+    },
+    {
+      "text": "Stupid asshole. Doesn't even know how to",
+      "start": 1905.76,
+      "duration": 2.159
+    },
+    {
+      "text": "get past a tree.",
+      "start": 1907.2,
+      "duration": 2.479
+    },
+    {
+      "text": ">> Stupid ass tree.",
+      "start": 1907.919,
+      "duration": 4.401
+    },
+    {
+      "text": ">> All right.",
+      "start": 1909.679,
+      "duration": 4.401
+    },
+    {
+      "text": ">> You're a little bit faster than them.",
+      "start": 1912.32,
+      "duration": 4.8
+    },
+    {
+      "text": ">> I nutted like 40 bullets.",
+      "start": 1914.08,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Happy to hear it.",
+      "start": 1917.12,
+      "duration": 1.76
+    },
+    {
+      "text": ">> Nutted. I'm sorry.",
+      "start": 1917.76,
+      "duration": 1.68
+    },
+    {
+      "text": ">> Yep.",
+      "start": 1918.88,
+      "duration": 1.519
+    },
+    {
+      "text": ">> Not nutted.",
+      "start": 1919.44,
+      "duration": 1.599
+    },
+    {
+      "text": ">> Even better.",
+      "start": 1920.399,
+      "duration": 2.721
+    },
+    {
+      "text": ">> Uh, what does combat trainer do? Carry",
+      "start": 1921.039,
+      "duration": 3.921
+    },
+    {
+      "text": "up to 100 ounces of more food from",
+      "start": 1923.12,
+      "duration": 4.88
+    },
+    {
+      "text": "scavenging. Oh,",
+      "start": 1924.96,
+      "duration": 4.8
+    },
+    {
+      "text": ">> okay.",
+      "start": 1928.0,
+      "duration": 2.32
+    },
+    {
+      "text": "Uh,",
+      "start": 1929.76,
+      "duration": 2.08
+    },
+    {
+      "text": ">> this game is very addictive.",
+      "start": 1930.32,
+      "duration": 5.839
+    },
+    {
+      "text": ">> Yeah, right. What's the deal here? Done.",
+      "start": 1931.84,
+      "duration": 5.839
+    },
+    {
+      "text": "A grizzled stranger beckons you to a",
+      "start": 1936.159,
+      "duration": 2.88
+    },
+    {
+      "text": "dark corner office to teach you some",
+      "start": 1937.679,
+      "duration": 3.12
+    },
+    {
+      "text": "useful techniques for $80. Oh, I don't",
+      "start": 1939.039,
+      "duration": 2.561
+    },
+    {
+      "text": "have money.",
+      "start": 1940.799,
+      "duration": 1.201
+    },
+    {
+      "text": ">> Okay.",
+      "start": 1941.6,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Okay, that's fine. Um, all right. Well,",
+      "start": 1942.0,
+      "duration": 3.44
+    },
+    {
+      "text": "next time on Game Grounds.",
+      "start": 1944.48,
+      "duration": 2.96
+    },
+    {
+      "text": ">> Oh, man. Are we going to keep going with",
+      "start": 1945.44,
+      "duration": 2.64
+    },
+    {
+      "text": "this or",
+      "start": 1947.44,
+      "duration": 1.599
+    },
+    {
+      "text": ">> I kind of like it.",
+      "start": 1948.08,
+      "duration": 2.64
+    },
+    {
+      "text": ">> I love it. I want to know what happens",
+      "start": 1949.039,
+      "duration": 3.601
+    },
+    {
+      "text": "to me and the other Dans.",
+      "start": 1950.72,
+      "duration": 2.559
+    },
+    {
+      "text": ">> Third Dan",
+      "start": 1952.64,
+      "duration": 1.519
+    },
+    {
+      "text": ">> and Steve.",
+      "start": 1953.279,
+      "duration": 2.161
+    },
+    {
+      "text": ">> All right. Well, next time on Game",
+      "start": 1954.159,
+      "duration": 1.52
+    },
+    {
+      "text": "Grubs.",
+      "start": 1955.44,
+      "duration": 2.079
+    },
+    {
+      "text": ">> Yeah. Okay. We'll we'll try to finish it",
+      "start": 1955.679,
+      "duration": 3.521
+    },
+    {
+      "text": "in two.",
+      "start": 1957.519,
+      "duration": 5.921
+    },
+    {
+      "text": ">> Kisses and hugs for you and me.",
+      "start": 1959.2,
+      "duration": 5.599
+    },
+    {
+      "text": "Bye.",
+      "start": 1963.44,
+      "duration": 3.92
+    },
+    {
+      "text": ">> Thanks. Uh oh, right. Um Jeez,",
+      "start": 1964.799,
+      "duration": 4.641
+    },
+    {
+      "text": ">> people recommended it and then we have",
+      "start": 1967.36,
+      "duration": 4.96
+    },
+    {
+      "text": "to find them and and uh",
+      "start": 1969.44,
+      "duration": 6.0
+    },
+    {
+      "text": ">> That's right, Aaron.",
+      "start": 1972.32,
+      "duration": 6.68
+    },
+    {
+      "text": ">> That's right, Aaron.",
+      "start": 1975.44,
+      "duration": 3.56
+    }
+  ]
+}

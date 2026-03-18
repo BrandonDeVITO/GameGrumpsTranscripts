@@ -1,0 +1,33 @@
+{
+  "video_id": "wTciMS37eQQ",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippets": [
+    {
+      "text": "[Music]",
+      "start": 0.5,
+      "duration": 2.3
+    },
+    {
+      "text": "one thing that's really cool about the",
+      "start": 1.76,
+      "duration": 3.68
+    },
+    {
+      "text": "game [ __ ]",
+      "start": 2.8,
+      "duration": 5.28
+    },
+    {
+      "text": "I just want to feel you does that really",
+      "start": 5.44,
+      "duration": 5.96
+    },
+    {
+      "text": "bother you",
+      "start": 8.08,
+      "duration": 3.32
+    }
+  ]
+}

@@ -1,0 +1,1693 @@
+{
+  "video_id": "-sJeY9EsCHY",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Hey, I'm Grump.",
+      "start": 0.03,
+      "duration": 0.97
+    },
+    {
+      "text": "I'm not so Grump!",
+      "start": 1.0,
+      "duration": 1.34
+    },
+    {
+      "text": "AND",
+      "start": 2.62,
+      "duration": 0.7
+    },
+    {
+      "text": "AND\nWE'RE",
+      "start": 3.32,
+      "duration": 0.5
+    },
+    {
+      "text": "The Game Grumps!",
+      "start": 3.82,
+      "duration": 1.0
+    },
+    {
+      "text": "Arin: Hey!",
+      "start": 5.2,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: Hello!",
+      "start": 5.7,
+      "duration": 1.2
+    },
+    {
+      "text": "Arin: Welcome back to Game Grumps.",
+      "start": 7.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Dan: Okay, we just took like a five minute break to collect our thoughts.",
+      "start": 8.1,
+      "duration": 2.5
+    },
+    {
+      "text": "Arin: Mm-hmm.",
+      "start": 10.7,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: I bet if you play that last episode back, like...",
+      "start": 11.309,
+      "duration": 3.351
+    },
+    {
+      "text": "Dan: ...I didn't say SHIT for like the last seven minutes.",
+      "start": 15.28,
+      "duration": 2.9
+    },
+    {
+      "text": "A: Oh, yeah.",
+      "start": 18.18,
+      "duration": 0.54
+    },
+    {
+      "text": "D: I was just like stunned.",
+      "start": 18.92,
+      "duration": 1.919
+    },
+    {
+      "text": "A: Exactly the case.",
+      "start": 20.84,
+      "duration": 1.3
+    },
+    {
+      "text": "D: Oh, my god...",
+      "start": 22.14,
+      "duration": 1.34
+    },
+    {
+      "text": "A: Anyway, Monika's trying to get us into the Literature Club.",
+      "start": 23.76,
+      "duration": 2.52
+    },
+    {
+      "text": "D: Yeah, okay, sure!",
+      "start": 26.28,
+      "duration": 2.04
+    },
+    {
+      "text": "A: She just created it with her three friends.",
+      "start": 28.34,
+      "duration": 1.76
+    },
+    {
+      "text": "D: Oh my God, I just feel like I found out the Matrix is real.",
+      "start": 30.1,
+      "duration": 2.833
+    },
+    {
+      "text": "A: Yeah, well who knows?",
+      "start": 32.94,
+      "duration": 1.3
+    },
+    {
+      "text": "D: Cool.",
+      "start": 34.8,
+      "duration": 0.5
+    },
+    {
+      "text": "Monika (Arin): Shall we go, then?",
+      "start": 35.3,
+      "duration": 1.02
+    },
+    {
+      "text": "Monika: I'll look for the materials another time- you're more important.",
+      "start": 36.78,
+      "duration": 2.92
+    },
+    {
+      "text": "A: Heh",
+      "start": 40.56,
+      "duration": 0.78
+    },
+    {
+      "text": "A: My brains are more important, am I right?",
+      "start": 41.44,
+      "duration": 1.96
+    },
+    {
+      "text": "D: [laughs weakly]",
+      "start": 43.5,
+      "duration": 1.34
+    },
+    {
+      "text": "A: \"And thus today marks the day I sold my soul to Monika and her irresistible smile.\"",
+      "start": 44.98,
+      "duration": 4.72
+    },
+    {
+      "text": "A: \"I timidly follow Monika across the school and upstairs, a section of the school I rarely visit, being generally used for third-year classes and activities.\"",
+      "start": 49.98,
+      "duration": 7.64
+    },
+    {
+      "text": "A: \"Monika, full of energy, swings open the classroom door.\"",
+      "start": 57.94,
+      "duration": 2.88
+    },
+    {
+      "text": "Monika: I'm back. And I brought a guest with me.",
+      "start": 61.96,
+      "duration": 3.1
+    },
+    {
+      "text": "[static]",
+      "start": 65.5,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Huh?",
+      "start": 66.0,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Huuh, \"Girl 1\"?",
+      "start": 66.92,
+      "duration": 1.5
+    },
+    {
+      "text": "D: Uh, I guess.",
+      "start": 68.78,
+      "duration": 0.78
+    },
+    {
+      "text": "A: Well we don't know her name.",
+      "start": 69.56,
+      "duration": 0.82
+    },
+    {
+      "text": "D: Oh, God.",
+      "start": 70.4,
+      "duration": 0.5
+    },
+    {
+      "text": "Natsuki (Arin): Seriously, you brought a BOY? Way to kill the atmosphere.",
+      "start": 71.98,
+      "duration": 3.44
+    },
+    {
+      "text": "Monika: Don't be mean, Natsuki... But anyway, welcome to the club, FriendArin.",
+      "start": 75.98,
+      "duration": 4.32
+    },
+    {
+      "text": "FriendArin (Arin): Uhh.",
+      "start": 80.98,
+      "duration": 0.8
+    },
+    {
+      "text": "D: Fred.",
+      "start": 81.78,
+      "duration": 0.56
+    },
+    {
+      "text": "A: \"All words escape me in this situation. This club... is full of incredibly cute girls!\"",
+      "start": 82.72,
+      "duration": 5.34
+    },
+    {
+      "text": "D: Oh my god.",
+      "start": 88.06,
+      "duration": 0.76
+    },
+    {
+      "text": "Natsuki: \"So let me guess... you're Monika's boyfriend, right?\"",
+      "start": 88.98,
+      "duration": 2.74
+    },
+    {
+      "text": "FriendArin: Wha-",
+      "start": 92.04,
+      "duration": 1.04
+    },
+    {
+      "text": "FriendArin: No, I'm not!",
+      "start": 93.36,
+      "duration": 1.22
+    },
+    {
+      "text": "Yuri (Dan): Natsuki...",
+      "start": 94.78,
+      "duration": 0.9
+    },
+    {
+      "text": "A: \"The girl with the sour attitude whose name is apparently \"Natsuki\" is one I don't recognize.\"",
+      "start": 96.18,
+      "duration": 4.24
+    },
+    {
+      "text": "A: \"Her small figure makes me think she's probably a first-year.\"",
+      "start": 100.62,
+      "duration": 2.14
+    },
+    {
+      "text": "D: Oh my God, this is so fucking creepy.",
+      "start": 102.76,
+      "duration": 2.3
+    },
+    {
+      "text": "Monika: Anyway, this is Natuski, energetic as usual.",
+      "start": 105.06,
+      "duration": 3.12
+    },
+    {
+      "text": "Monika: And this is Yuri, the Vice President.",
+      "start": 108.44,
+      "duration": 2.02
+    },
+    {
+      "text": "Yuri: It's nice to meet you.",
+      "start": 110.94,
+      "duration": 1.5
+    },
+    {
+      "text": "D: God, my fucking compliments to whoever created this game.",
+      "start": 112.44,
+      "duration": 2.74
+    },
+    {
+      "text": "[Arin laughing]",
+      "start": 115.18,
+      "duration": 0.52
+    },
+    {
+      "text": "D: They, like- You are a creative motherfucker.",
+      "start": 115.7,
+      "duration": 2.4
+    },
+    {
+      "text": "A: \"Yuri who appears--\"",
+      "start": 118.6,
+      "duration": 0.88
+    },
+    {
+      "text": "ca--\ncah--",
+      "start": 119.5,
+      "duration": 0.5
+    },
+    {
+      "text": "CAH--\nkheh--",
+      "start": 120.0,
+      "duration": 0.94
+    },
+    {
+      "text": "D: \"Comparably.\"",
+      "start": 121.06,
+      "duration": 0.7
+    },
+    {
+      "text": "A: \"Yuri, who appears comparably more mature and timid seems to have a hard time keeping up with someone like Natsuki.\"",
+      "start": 121.76,
+      "duration": 5.26
+    },
+    {
+      "text": "FriendArin: Yeah, it's nice to meet both of you.",
+      "start": 127.56,
+      "duration": 1.7
+    },
+    {
+      "text": "Monika: So, I ran into FriendArin in the classroom, and he decided to come check out the club. Isn't that great?",
+      "start": 129.92,
+      "duration": 5.56
+    },
+    {
+      "text": "Natsuki: Wait, Monika! Didn't I tell you to, let me know in advance before you brought anyone new?",
+      "start": 135.92,
+      "duration": 4.62
+    },
+    {
+      "text": "I was gonna, well...",
+      "start": 140.62,
+      "duration": 0.92
+    },
+    {
+      "text": "You know...",
+      "start": 141.54,
+      "duration": 0.6
+    },
+    {
+      "text": "Monika: S-sorry, sorry!",
+      "start": 143.08,
+      "duration": 1.66
+    },
+    {
+      "text": "I didn't forget that but I just happened to run into him.",
+      "start": 145.4,
+      "duration": 2.62
+    },
+    {
+      "text": "Yuri: In that case, I should at least make some tea, right?",
+      "start": 148.36,
+      "duration": 2.12
+    },
+    {
+      "text": "Monika: Yeah, that would be great.",
+      "start": 150.82,
+      "duration": 1.84
+    },
+    {
+      "text": "Why don't you come sit down FriendArin?",
+      "start": 153.64,
+      "duration": 2.0
+    },
+    {
+      "text": "D: (whispers) Oh my god.",
+      "start": 155.88,
+      "duration": 0.64
+    },
+    {
+      "text": "A: \"The girls have a few desks to arrange to form a table, as you can clearly see.\"",
+      "start": 156.52,
+      "duration": 3.98
+    },
+    {
+      "text": "\"Yuri walks to the corner of the room and opens the closet.\"",
+      "start": 160.84,
+      "duration": 2.56
+    },
+    {
+      "text": "D: Whoa.",
+      "start": 163.4,
+      "duration": 0.5
+    },
+    {
+      "text": "A: \"Meanwhile, Monika and Natsuki sit across from each other.\"",
+      "start": 163.9,
+      "duration": 2.58
+    },
+    {
+      "text": "D: I'm like so fucking tense all of a sudden.",
+      "start": 166.48,
+      "duration": 2.38
+    },
+    {
+      "text": "A: \"Still feeling awkward, I take a seat next to Monika.\"",
+      "start": 169.12,
+      "duration": 2.5
+    },
+    {
+      "text": "A: What, the loopy reggae isn't-?",
+      "start": 171.94,
+      "duration": 2.02
+    },
+    {
+      "text": "D: No, nothing is calming my nerves now!",
+      "start": 174.0,
+      "duration": 2.06
+    },
+    {
+      "text": "A: The chirpy Kickstarter music isn't helping you calm down?",
+      "start": 176.06,
+      "duration": 2.32
+    },
+    {
+      "text": "D: Oh my God.",
+      "start": 178.38,
+      "duration": 0.98
+    },
+    {
+      "text": "Monika: So, I know you didn't really plan on coming here, but we'll make sure you feel right at home, okay?",
+      "start": 179.62,
+      "duration": 4.28
+    },
+    {
+      "text": "As president of the literature club, it's my duty to make the club fun and exciting for everyone.",
+      "start": 184.48,
+      "duration": 4.18
+    },
+    {
+      "text": "FriendArin: I'm surprised there aren't more people in the club yet. Heh, must be hard to start a new club.",
+      "start": 189.28,
+      "duration": 3.84
+    },
+    {
+      "text": "D: Must be 7:30 at night. [laughs weakly]",
+      "start": 193.12,
+      "duration": 2.18
+    },
+    {
+      "text": "A: You mu--",
+      "start": 195.46,
+      "duration": 0.6
+    },
+    {
+      "text": "(Dan giggles)",
+      "start": 196.14,
+      "duration": 0.52
+    },
+    {
+      "text": "Dan: \nSorry",
+      "start": 196.66,
+      "duration": 0.5
+    },
+    {
+      "text": "(Arin laughs)",
+      "start": 197.16,
+      "duration": 0.8
+    },
+    {
+      "text": "Monika: You could put it that way. Not many people are very interested in pulling out--",
+      "start": 197.96,
+      "duration": 3.64
+    },
+    {
+      "text": "...",
+      "start": 201.6,
+      "duration": 0.5
+    },
+    {
+      "text": "putting out--",
+      "start": 202.1,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: Uhhh, Yeah. That's true too.\nMonika: ...all the effort to start something brand-new.",
+      "start": 202.6,
+      "duration": 1.64
+    },
+    {
+      "text": "Monika: ...all the effort to start something brand-new.",
+      "start": 204.24,
+      "duration": 0.62
+    },
+    {
+      "text": "(Both laugh)",
+      "start": 204.86,
+      "duration": 1.32
+    },
+    {
+      "text": "Monika: Especially-- I know for a fact",
+      "start": 206.18,
+      "duration": 0.5
+    },
+    {
+      "text": "(Danny laughs)\nMonika: Especially-- I know for a fact",
+      "start": 206.68,
+      "duration": 1.14
+    },
+    {
+      "text": "(Danny laughs)",
+      "start": 207.82,
+      "duration": 0.7
+    },
+    {
+      "text": "Monika: Especially when it's something that doesn't grab your attention like literature.",
+      "start": 208.52,
+      "duration": 3.12
+    },
+    {
+      "text": "You have to work hard to convince people that you're both fun and worthwhile.",
+      "start": 211.82,
+      "duration": 2.56
+    },
+    {
+      "text": "But it makes school events like the festival that much more important.",
+      "start": 214.74,
+      "duration": 3.5
+    },
+    {
+      "text": "I'm confident that we can all really grow this club before we graduate.",
+      "start": 218.64,
+      "duration": 3.8
+    },
+    {
+      "text": "Right, Natsuki?",
+      "start": 222.76,
+      "duration": 0.92
+    },
+    {
+      "text": "Natsuki: Well, I guess...",
+      "start": 224.32,
+      "duration": 1.62
+    },
+    {
+      "text": "A: \"Natsuki reluctantly agrees.\"",
+      "start": 226.58,
+      "duration": 2.64
+    },
+    {
+      "text": "\"Such different girls, all interested in the same goal.\"",
+      "start": 229.22,
+      "duration": 3.4
+    },
+    {
+      "text": "\"Monika must have worked really hard just to find these two, ha ha.\"",
+      "start": 233.26,
+      "duration": 3.28
+    },
+    {
+      "text": "Yuri returned to the table carrying a tea set. She carefully places a tea cup in front of each of us before setting down the teapot in the middle.",
+      "start": 236.84,
+      "duration": 6.5
+    },
+    {
+      "text": "A: See isn't this pleasant? This is nice.",
+      "start": 243.4,
+      "duration": 1.68
+    },
+    {
+      "text": "D: I'm like, totally unnerved",
+      "start": 245.08,
+      "duration": 2.24
+    },
+    {
+      "text": "FriendArin: You keep a whole tea set in this classroom?",
+      "start": 247.68,
+      "duration": 2.18
+    },
+    {
+      "text": "Yuri: Don't worry the teachers gave us permission",
+      "start": 251.06,
+      "duration": 2.22
+    },
+    {
+      "text": "After all, doesn't a hot cup of tea help you enjoy a good book?",
+      "start": 253.64,
+      "duration": 2.78
+    },
+    {
+      "text": "FriendArin: I guess...",
+      "start": 256.76,
+      "duration": 0.98
+    },
+    {
+      "text": "Monika: Don't let yourself get intimidated. Yuri's just trying to impress you",
+      "start": 258.7,
+      "duration": 3.56
+    },
+    {
+      "text": "Yuri: Ehh--",
+      "start": 262.44,
+      "duration": 0.5
+    },
+    {
+      "text": "Yuri: That's not--",
+      "start": 262.94,
+      "duration": 0.94
+    },
+    {
+      "text": "A: \"Insulted, Yuri looks away.\"",
+      "start": 264.4,
+      "duration": 2.04
+    },
+    {
+      "text": "Yuri: I meant that, you know, I believe you--",
+      "start": 267.06,
+      "duration": 2.24
+    },
+    {
+      "text": "FriendArin: I believe you~",
+      "start": 269.3,
+      "duration": 0.8
+    },
+    {
+      "text": "D: Oh shit.",
+      "start": 270.1,
+      "duration": 0.64
+    },
+    {
+      "text": "FriendArin: Well, tea and reading might not be a pastime for me, but I at least enjoy tea.",
+      "start": 270.74,
+      "duration": 4.32
+    },
+    {
+      "text": "Yuri: I'm glad",
+      "start": 275.06,
+      "duration": 0.72
+    },
+    {
+      "text": "A: \"Yuri faintly smiles to herself in relief.\"",
+      "start": 276.1,
+      "duration": 2.5
+    },
+    {
+      "text": "A: I think she likes me",
+      "start": 278.6,
+      "duration": 1.22
+    },
+    {
+      "text": "Yuri: So, FriendArin, what kind of things do you like to read?",
+      "start": 279.82,
+      "duration": 2.64
+    },
+    {
+      "text": "FriendArin: Well, ah...",
+      "start": 282.6,
+      "duration": 0.9
+    },
+    {
+      "text": "A: \"Considering how little I've read in the past few years, I don't really have a good way of answering that.\"",
+      "start": 283.94,
+      "duration": 3.86
+    },
+    {
+      "text": "FriendArin: \"Manga...\"",
+      "start": 288.06,
+      "duration": 0.9
+    },
+    {
+      "text": "A: \"I mutter quietly to myself, half joking.\"",
+      "start": 289.3,
+      "duration": 2.18
+    },
+    {
+      "text": "\"Natsuki's head suddenly perks up. It  looks like she wants to say something, but she keeps quiet.\"",
+      "start": 292.1,
+      "duration": 4.84
+    },
+    {
+      "text": "Yuri: Not much of a reader, I guess",
+      "start": 298.12,
+      "duration": 1.64
+    },
+    {
+      "text": "FriendArin: Well that can change",
+      "start": 300.02,
+      "duration": 1.16
+    },
+    {
+      "text": "A: \"What am I saying?\"",
+      "start": 301.5,
+      "duration": 0.66
+    },
+    {
+      "text": "\"I spoke without thinking after seeing Yuri's sad smile.\"",
+      "start": 302.5,
+      "duration": 2.66
+    },
+    {
+      "text": "FriendArin: Anyway, what about you, Yuri?",
+      "start": 305.16,
+      "duration": 1.42
+    },
+    {
+      "text": "Yuri: Well, let's see...",
+      "start": 307.16,
+      "duration": 1.56
+    },
+    {
+      "text": "A: \"Yuri traces the remember teacup with her finger. Just like last time.\"",
+      "start": 310.44,
+      "duration": 3.22
+    },
+    {
+      "text": "Yuri: My favorites are usually novels that build deep and complex fantasy worlds.",
+      "start": 314.0,
+      "duration": 4.02
+    },
+    {
+      "text": "Yuri:The level of creativity and craftsmanship behind them is amazing to me.",
+      "start": 318.62,
+      "duration": 3.16
+    },
+    {
+      "text": "Yuri: And telling a good story in such a foreign world is equally impressive.",
+      "start": 322.4,
+      "duration": 2.8
+    },
+    {
+      "text": "A: \"Yuri goes on, clearly passionate about her reading.\"",
+      "start": 325.66,
+      "duration": 2.82
+    },
+    {
+      "text": "\"She seemed so reserved and timid since the moment I walked in,",
+      "start": 328.68,
+      "duration": 2.14
+    },
+    {
+      "text": "but it's obvious by the way her eyes light up that she finds her comfort in the world of books, not people.\"",
+      "start": 330.82,
+      "duration": 4.24
+    },
+    {
+      "text": "Yuri: But you know, I like a lot of things.",
+      "start": 335.5,
+      "duration": 1.6
+    },
+    {
+      "text": "Stories with a deep psychological element usually immerse me as well",
+      "start": 337.66,
+      "duration": 3.24
+    },
+    {
+      "text": "Isn't it amazing how a writer can so deliberately take advantage of your own lack of imagination to completely throw you for a loop?",
+      "start": 341.62,
+      "duration": 5.52
+    },
+    {
+      "text": "D: Oh, damn!",
+      "start": 347.4,
+      "duration": 1.26
+    },
+    {
+      "text": "[Arin laughs]",
+      "start": 348.66,
+      "duration": 0.9
+    },
+    {
+      "text": "D: You self-congratulatory bastard!",
+      "start": 349.56,
+      "duration": 1.84
+    },
+    {
+      "text": "[Arin laughs]",
+      "start": 351.42,
+      "duration": 0.64
+    },
+    {
+      "text": "Yuri: Anyway, I've been reading a lot of horror lately",
+      "start": 352.06,
+      "duration": 2.28
+    },
+    {
+      "text": "FriendArin: Ah, I read a horror book once.",
+      "start": 354.54,
+      "duration": 1.9
+    },
+    {
+      "text": "A: \"I desperately grasp something I can relate to at the minimum level.\"",
+      "start": 356.62,
+      "duration": 3.2
+    },
+    {
+      "text": "D: It's funny how I say \"Har-ror\" and you say \"Hor-ror\"",
+      "start": 359.96,
+      "duration": 1.68
+    },
+    {
+      "text": "A: Yeah.",
+      "start": 361.64,
+      "duration": 0.6
+    },
+    {
+      "text": "D: I just noticed that again.",
+      "start": 362.34,
+      "duration": 1.24
+    },
+    {
+      "text": "A: \"At this rate, Yuri might as well be having a conversation with a rock.\"",
+      "start": 363.58,
+      "duration": 2.86
+    },
+    {
+      "text": "[Arin's goofy fake laugh]",
+      "start": 366.44,
+      "duration": 0.64
+    },
+    {
+      "text": "Monika: Ha ha ha ha, I'd expect that from you, Yuri.",
+      "start": 367.34,
+      "duration": 2.64
+    },
+    {
+      "text": "Monika: It suits your personality.",
+      "start": 370.44,
+      "duration": 1.9
+    },
+    {
+      "text": "Yuri: Oh, is that so?",
+      "start": 372.52,
+      "duration": 1.46
+    },
+    {
+      "text": "Really, if a story makes me think or takes me to another world, then I really can't put it down",
+      "start": 374.48,
+      "duration": 4.46
+    },
+    {
+      "text": "Surreal horror is often very successful at changing the way you look at the world, if only for a brief moment.",
+      "start": 379.22,
+      "duration": 4.62
+    },
+    {
+      "text": "Natsuki: Ugh, I hate horror.",
+      "start": 384.54,
+      "duration": 1.46
+    },
+    {
+      "text": "D:  Me too, Natsuki!",
+      "start": 386.0,
+      "duration": 1.48
+    },
+    {
+      "text": "Yuri: Oh, why is that?",
+      "start": 387.6,
+      "duration": 1.0
+    },
+    {
+      "text": "Natsuki:\n Well, I just...",
+      "start": 389.04,
+      "duration": 1.24
+    },
+    {
+      "text": "A: \"Natsuki's eyes dart over me for a split second.\"",
+      "start": 390.64,
+      "duration": 2.88
+    },
+    {
+      "text": "Natsuki: Nevermind...",
+      "start": 393.86,
+      "duration": 1.04
+    },
+    {
+      "text": "Dan: \nOh my gosh.",
+      "start": 395.44,
+      "duration": 0.94
+    },
+    {
+      "text": "Monika: That's right. You usually write down about cute things, don't you Natsuki?",
+      "start": 396.38,
+      "duration": 3.66
+    },
+    {
+      "text": "Natsuki: W-whaAAat?",
+      "start": 400.04,
+      "duration": 1.0
+    },
+    {
+      "text": "Natsuki: What gives you that idea?",
+      "start": 401.04,
+      "duration": 1.3
+    },
+    {
+      "text": "Monika: You left a piece of scrap paper behind the last club meeting.",
+      "start": 402.76,
+      "duration": 2.48
+    },
+    {
+      "text": "It looked like you were working on a poem called--",
+      "start": 405.4,
+      "duration": 1.86
+    },
+    {
+      "text": "Natsuki: Don't say it out loud! Give that back!",
+      "start": 407.48,
+      "duration": 2.44
+    },
+    {
+      "text": "Monika: Fine, fine.",
+      "start": 410.18,
+      "duration": 0.98
+    },
+    {
+      "text": "FriendArin: Natsuki, you write your own poems?",
+      "start": 411.86,
+      "duration": 2.86
+    },
+    {
+      "text": "Natsuki: Eh, well, I guess sometimes. Eheh",
+      "start": 414.96,
+      "duration": 1.72
+    },
+    {
+      "text": "Why do YOU care?",
+      "start": 416.72,
+      "duration": 1.36
+    },
+    {
+      "text": "FriendArin: I think that's impressive",
+      "start": 418.6,
+      "duration": 0.94
+    },
+    {
+      "text": "Why don't you share them sometime?",
+      "start": 420.34,
+      "duration": 1.9
+    },
+    {
+      "text": "Natsuki:\nN-N-NO!",
+      "start": 422.92,
+      "duration": 1.2
+    },
+    {
+      "text": "A: \"Natsuki averts her eyes.\"",
+      "start": 424.58,
+      "duration": 1.7
+    },
+    {
+      "text": "Natsuki: You wouldnNnn't like them",
+      "start": 426.42,
+      "duration": 1.48
+    },
+    {
+      "text": "[Dan laughs]",
+      "start": 427.9,
+      "duration": 0.64
+    },
+    {
+      "text": "FriendArin: Ah... Not a very confident writer yet?",
+      "start": 428.92,
+      "duration": 2.6
+    },
+    {
+      "text": "Yuri: I understand how Natsuki feels",
+      "start": 432.22,
+      "duration": 1.62
+    },
+    {
+      "text": "Sharing that level of writing takes more than just confidence.",
+      "start": 434.16,
+      "duration": 2.56
+    },
+    {
+      "text": "The truest form of writing is writing to oneself.",
+      "start": 437.06,
+      "duration": 2.16
+    },
+    {
+      "text": "You must be willing to open up to your readers, exposing your vulnerabilities and showing even the deepest reaches of your heart",
+      "start": 439.9,
+      "duration": 5.12
+    },
+    {
+      "text": "FriendArin: Do you--",
+      "start": 445.78,
+      "duration": 0.84
+    },
+    {
+      "text": "FriendArin?: Duh--",
+      "start": 446.62,
+      "duration": 0.5
+    },
+    {
+      "text": "Monika: Do you have writing experience too, Yuuriiii?",
+      "start": 447.12,
+      "duration": 2.32
+    },
+    {
+      "text": "Maybe if you share some of YOUR work, you can set an example and help Natsuki feel comfortable enough to share hers.",
+      "start": 449.74,
+      "duration": 5.1
+    },
+    {
+      "text": "Yuri: Fred.",
+      "start": 455.18,
+      "duration": 0.74
+    },
+    {
+      "text": "FriendArin: I guess it's the same for Yuri.",
+      "start": 456.88,
+      "duration": 1.84
+    },
+    {
+      "text": "A: \"We all sit in silence for a moment.\"",
+      "start": 458.92,
+      "duration": 1.92
+    },
+    {
+      "text": "Monika: Hey, I got an idea. How about this?",
+      "start": 461.5,
+      "duration": 3.32
+    },
+    {
+      "text": "Nat & Yuri: Dueeeuuuugghh????",
+      "start": 465.22,
+      "duration": 0.9
+    },
+    {
+      "text": "D: Fred question-mark?\n[Arin giggles]",
+      "start": 466.12,
+      "duration": 1.42
+    },
+    {
+      "text": "A: \"Natsuki and Yuri look quizzically at Monika.\"",
+      "start": 467.74,
+      "duration": 2.88
+    },
+    {
+      "text": "Monika: Let's all go home and write a poem of our own. Then next time we meet we'll all share them with each other.",
+      "start": 470.94,
+      "duration": 4.54
+    },
+    {
+      "text": "That way, everyone is even.",
+      "start": 475.5,
+      "duration": 1.84
+    },
+    {
+      "text": "Natsuki: Um...",
+      "start": 477.48,
+      "duration": 1.04
+    },
+    {
+      "text": "Yuri: Fred.",
+      "start": 478.84,
+      "duration": 0.56
+    },
+    {
+      "text": "Monika: Ah...",
+      "start": 480.24,
+      "duration": 0.96
+    },
+    {
+      "text": "I mean, I thought it was a good idea.",
+      "start": 481.38,
+      "duration": 1.94
+    },
+    {
+      "text": "Yuri: Well...",
+      "start": 483.5,
+      "duration": 0.56
+    },
+    {
+      "text": "I think you're right, Monika.",
+      "start": 484.62,
+      "duration": 1.02
+    },
+    {
+      "text": "We should probably start finding activities for us all to participate in together.",
+      "start": 486.12,
+      "duration": 2.92
+    },
+    {
+      "text": "I did decide to take on the responsibility of Vice President, after all...",
+      "start": 489.94,
+      "duration": 3.28
+    },
+    {
+      "text": "Dan: (laughing) There's only three people.",
+      "start": 493.22,
+      "duration": 1.38
+    },
+    {
+      "text": "Yuri: I need to do my best to nurture the club as well as its members.",
+      "start": 495.34,
+      "duration": 2.88
+    },
+    {
+      "text": "Besides, now that we have a new member...",
+      "start": 498.52,
+      "duration": 1.98
+    },
+    {
+      "text": "It seems like a good step for us to take.",
+      "start": 501.18,
+      "duration": 1.94
+    },
+    {
+      "text": "Do you agree as well, FriendArin?",
+      "start": 503.68,
+      "duration": 1.78
+    },
+    {
+      "text": "FriendArin: Hold on, there's still one problem.",
+      "start": 505.74,
+      "duration": 1.78
+    },
+    {
+      "text": "Monika: Eh, what's that?",
+      "start": 508.3,
+      "duration": 1.14
+    },
+    {
+      "text": "A: \"Now that we've reached the most important topic, I bluntly come forth with what's been on my mind the entire time.\"",
+      "start": 509.86,
+      "duration": 4.6
+    },
+    {
+      "text": "FriendArin: I never said I would join this club! Monika may have convinced me to stop by, but I never made any decision",
+      "start": 514.9,
+      "duration": 4.8
+    },
+    {
+      "text": "I still have other clubs to look at and um...",
+      "start": 519.94,
+      "duration": 2.18
+    },
+    {
+      "text": "A: \"I lose my train of thought.\"",
+      "start": 522.42,
+      "duration": 1.52
+    },
+    {
+      "text": "\"All three girls stare back at me with dejected eyes.",
+      "start": 524.0,
+      "duration": 2.92
+    },
+    {
+      "text": "Monika: B-but...",
+      "start": 527.4,
+      "duration": 0.9
+    },
+    {
+      "text": "Yuri: I'm sorry, I thought...",
+      "start": 528.78,
+      "duration": 1.18
+    },
+    {
+      "text": "Natsuki: Hmph.",
+      "start": 530.1,
+      "duration": 0.8
+    },
+    {
+      "text": "FriendArin: Eh?",
+      "start": 531.38,
+      "duration": 0.8
+    },
+    {
+      "text": "A: \"The girls exchange glances before Monika turns back to me.\"",
+      "start": 532.66,
+      "duration": 2.6
+    },
+    {
+      "text": "Monika: I guess I need to tell you the truth, FriendArin...",
+      "start": 535.82,
+      "duration": 2.16
+    },
+    {
+      "text": "The thing is...",
+      "start": 537.98,
+      "duration": 0.94
+    },
+    {
+      "text": "We don't have enough members yet to form an official club. We need four, and I've been trying really, really hard to find new members.",
+      "start": 539.0,
+      "duration": 5.74
+    },
+    {
+      "text": "And if we don't find one more before the festival...",
+      "start": 545.06,
+      "duration": 2.3
+    },
+    {
+      "text": "FriendArin: Eh...",
+      "start": 547.76,
+      "duration": 0.74
+    },
+    {
+      "text": "Fred.",
+      "start": 548.7,
+      "duration": 0.6
+    },
+    {
+      "text": "A: \"I'm defenseless against these girls. How am I supposed to make it clear at a decision when it's like this! I would feel terrible...",
+      "start": 549.3,
+      "duration": 5.58
+    },
+    {
+      "text": "...for letting everyone down in this situation. Besides the club itself seems pretty relaxed",
+      "start": 554.89,
+      "duration": 4.15
+    },
+    {
+      "text": "So if writing poems is the price I need to pay in order to spend every day with these beautiful girls.\"",
+      "start": 559.06,
+      "duration": 4.11
+    },
+    {
+      "text": "FriendArin: Right, okay? I've decided then I'll join the Literature Club.",
+      "start": 563.68,
+      "duration": 4.58
+    },
+    {
+      "text": "D: Yaaay.",
+      "start": 568.34,
+      "duration": 0.6
+    },
+    {
+      "text": "A: \"One by one the girls eyes light up.\"",
+      "start": 569.18,
+      "duration": 2.42
+    },
+    {
+      "text": "Monika: Oh my goodness, really? Do you really mean that FriendArin?",
+      "start": 571.6,
+      "duration": 3.56
+    },
+    {
+      "text": "FriendArin: Yeah...",
+      "start": 575.28,
+      "duration": 0.7
+    },
+    {
+      "text": "It could be fun, right?",
+      "start": 576.14,
+      "duration": 1.8
+    },
+    {
+      "text": "Yuri: You really did scare me for a moment.",
+      "start": 577.94,
+      "duration": 1.76
+    },
+    {
+      "text": "D: Heh-heh.",
+      "start": 580.11,
+      "duration": 0.8
+    },
+    {
+      "text": "A: For a moment?",
+      "start": 580.91,
+      "duration": 0.85
+    },
+    {
+      "text": "D: Yeah, right?",
+      "start": 581.76,
+      "duration": 1.15
+    },
+    {
+      "text": "Natsuki: I mean, if you really just left after all this, I'd be super pissed.",
+      "start": 582.91,
+      "duration": 3.09
+    },
+    {
+      "text": "D: After all this? It's been eight minutes.",
+      "start": 586.0,
+      "duration": 2.18
+    },
+    {
+      "text": "Monika: FriendArin, I'm so happy we can become an official club now",
+      "start": 588.18,
+      "duration": 3.0
+    },
+    {
+      "text": "Thank you so much for this. You're really amazing. I'll do everything I can to give you a great time, okay?",
+      "start": 591.22,
+      "duration": 4.74
+    },
+    {
+      "text": "FriendArin: Ah...Thanks, I guess,",
+      "start": 596.5,
+      "duration": 1.72
+    },
+    {
+      "text": "Monika: Okay, everyone. I think with that we can officially end today's meeting on a good note.",
+      "start": 598.22,
+      "duration": 4.64
+    },
+    {
+      "text": "Everyone remember tonight's assignment:",
+      "start": 602.86,
+      "duration": 1.409
+    },
+    {
+      "text": "D: Bah!",
+      "start": 604.269,
+      "duration": 0.731
+    },
+    {
+      "text": "Monika: Write a poem to bring to the next meeting, so we can all share.",
+      "start": 605.0,
+      "duration": 3.71
+    },
+    {
+      "text": "A: \"Monika looks over at me once more.\"",
+      "start": 609.5,
+      "duration": 1.86
+    },
+    {
+      "text": "D: I was telling our co-worker outside in the office between grumps.",
+      "start": 611.36,
+      "duration": 3.35
+    },
+    {
+      "text": "I was planning to play this on my own and go out with Monika and and jerk off to this game",
+      "start": 615.44,
+      "duration": 5.51
+    },
+    {
+      "text": "And now I'm--now I'm not gonna.",
+      "start": 620.95,
+      "duration": 2.67
+    },
+    {
+      "text": "I am absolutely not--you have lost a JO customer",
+      "start": 623.62,
+      "duration": 4.74
+    },
+    {
+      "text": "Monika: FriendArin, I look forward to seeing how you express yourself",
+      "start": 629.12,
+      "duration": 2.42
+    },
+    {
+      "text": "Hee hee hee hee.",
+      "start": 631.54,
+      "duration": 2.08
+    },
+    {
+      "text": "FriendArin: Yeah.",
+      "start": 633.62,
+      "duration": 1.02
+    },
+    {
+      "text": "A: \"Can I really impress the class star Monika with my mediocre writing skills?\"",
+      "start": 634.64,
+      "duration": 3.32
+    },
+    {
+      "text": "I already feel the anxiety welling up inside me. \"",
+      "start": 637.96,
+      "duration": 2.94
+    },
+    {
+      "text": "Meanwhile the girls continue to chit-chat as Yuri cleans up the tea-set. \"",
+      "start": 640.9,
+      "duration": 3.16
+    },
+    {
+      "text": "FriendArin: I guess I'll be on my way then",
+      "start": 644.4,
+      "duration": 2.02
+    },
+    {
+      "text": "Monika: Ok, I'll see you tomorrow then. I can't wait!",
+      "start": 646.78,
+      "duration": 3.22
+    },
+    {
+      "text": "A: \"With that I depart the clubroom and make my way home.",
+      "start": 651.74,
+      "duration": 3.14
+    },
+    {
+      "text": "\"My--the whole way my mind wanders back and forth between the three girls.",
+      "start": 654.88,
+      "duration": 3.269
+    },
+    {
+      "text": "\"Natsuki, Yuri, and of course, Monika.",
+      "start": 658.49,
+      "duration": 3.25
+    },
+    {
+      "text": "\"Will I really be happy spending every day after school in a literature club?",
+      "start": 661.74,
+      "duration": 3.19
+    },
+    {
+      "text": "\"Perhaps I'll have the chance to grow closer to one of these girls.\"",
+      "start": 665.06,
+      "duration": 2.26
+    },
+    {
+      "text": "D: Oh my god.",
+      "start": 667.32,
+      "duration": 0.88
+    },
+    {
+      "text": "A: \"Alright",
+      "start": 668.2,
+      "duration": 0.5
+    },
+    {
+      "text": "\"I'll just need to make the most of my circumstances, and I'm sure good fortune will find me.\"",
+      "start": 668.7,
+      "duration": 4.66
+    },
+    {
+      "text": "D: Oh god.",
+      "start": 673.36,
+      "duration": 0.539
+    },
+    {
+      "text": "A: \"And I guess that starts with writing a poem tonight.\"",
+      "start": 673.9,
+      "duration": 2.48
+    },
+    {
+      "text": "[Dan sighs]",
+      "start": 677.78,
+      "duration": 0.98
+    },
+    {
+      "text": "A: I have unlocked a special poem.",
+      "start": 679.88,
+      "duration": 1.56
+    },
+    {
+      "text": "D: Oh god. Oh GOD.",
+      "start": 681.44,
+      "duration": 2.4
+    },
+    {
+      "text": "OH GOD. NO! NOT THIS!",
+      "start": 683.92,
+      "duration": 3.02
+    },
+    {
+      "text": "Not-- not like this!",
+      "start": 687.46,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin laughing]",
+      "start": 689.46,
+      "duration": 0.739
+    },
+    {
+      "text": "Well, I think that's you so",
+      "start": 690.199,
+      "duration": 2.75
+    },
+    {
+      "text": "[Dan groans]",
+      "start": 692.949,
+      "duration": 1.211
+    },
+    {
+      "text": "D: I'm not doing the voice",
+      "start": 694.16,
+      "duration": 1.95
+    },
+    {
+      "text": "D: \"Today, I cut my skin open for the first time it was exhilarating. I think I understand how [BLANK] feels now.",
+      "start": 696.11,
+      "duration": 5.65
+    },
+    {
+      "text": "\"I'm supposed to be the responsible one though, So I don't think I'll be doing it again unless I decided to kill myself.",
+      "start": 702.02,
+      "duration": 5.44
+    },
+    {
+      "text": "\"I left him a memento of the occasion below.\"",
+      "start": 707.46,
+      "duration": 2.86
+    },
+    {
+      "text": "D: Oh! I cannot believe this is a horror game.",
+      "start": 711.139,
+      "duration": 2.69
+    },
+    {
+      "text": "I cannot.",
+      "start": 715.19,
+      "duration": 0.79
+    },
+    {
+      "text": "A: Well...",
+      "start": 715.98,
+      "duration": 0.62
+    },
+    {
+      "text": "D:..fucking believe it...",
+      "start": 716.6,
+      "duration": 1.72
+    },
+    {
+      "text": "A: Well, next time on Game Grumps. We're gonna help write a poem.",
+      "start": 718.32,
+      "duration": 2.82
+    },
+    {
+      "text": "D: No. I don't want to play this anymore",
+      "start": 721.14,
+      "duration": 1.78
+    },
+    {
+      "text": "D: I'm so upset.",
+      "start": 723.52,
+      "duration": 1.52
+    },
+    {
+      "text": "A: [Mutters something]",
+      "start": 725.04,
+      "duration": 1.86
+    },
+    {
+      "text": "D: Oh, my god. Let us know in the comments if you want us to keep playing this, because I think I need a mental break.",
+      "start": 726.9,
+      "duration": 6.44
+    },
+    {
+      "text": "A: Yeah...",
+      "start": 733.34,
+      "duration": 0.54
+    },
+    {
+      "text": "D: [Whispered] Oh my god.",
+      "start": 734.72,
+      "duration": 1.68
+    },
+    {
+      "text": "Oh my god.",
+      "start": 737.62,
+      "duration": 1.52
+    },
+    {
+      "text": "Goddamnit.",
+      "start": 741.02,
+      "duration": 1.78
+    },
+    {
+      "text": "A: What's wrong?",
+      "start": 742.8,
+      "duration": 0.518
+    },
+    {
+      "text": "[Laughter]",
+      "start": 743.32,
+      "duration": 1.48
+    },
+    {
+      "text": "D: Shut....You fucking know what's wrong. \n[Arin Laughing]",
+      "start": 744.8,
+      "duration": 2.0
+    },
+    {
+      "text": "D-did you--How much, did you know of this?",
+      "start": 747.44,
+      "duration": 2.62
+    },
+    {
+      "text": "A: Uh...bits and pieces.",
+      "start": 750.84,
+      "duration": 1.5
+    },
+    {
+      "text": "D: Had you played this before?",
+      "start": 752.34,
+      "duration": 1.12
+    },
+    {
+      "text": "A: No.",
+      "start": 753.46,
+      "duration": 0.5
+    },
+    {
+      "text": "D: You--so, you haven't actually seen any of this?",
+      "start": 753.96,
+      "duration": 1.92
+    },
+    {
+      "text": "A: Mmm...",
+      "start": 755.88,
+      "duration": 0.7
+    },
+    {
+      "text": "I've seen some visuals and I knew like the beats...",
+      "start": 756.64,
+      "duration": 2.78
+    },
+    {
+      "text": "D: Ohh...man",
+      "start": 759.42,
+      "duration": 1.64
+    },
+    {
+      "text": "A; So, that's why I was like--",
+      "start": 761.54,
+      "duration": 1.78
+    },
+    {
+      "text": "It's kind of fucking happen like they're leading up to it...",
+      "start": 763.32,
+      "duration": 2.0
+    },
+    {
+      "text": "D: I was looking forward to it so much...",
+      "start": 765.32,
+      "duration": 2.54
+    },
+    {
+      "text": "I thought it was gonna be like something fun and sexy at the festival.",
+      "start": 767.9,
+      "duration": 4.44
+    },
+    {
+      "text": "Like end's like a fun SURPRISE! HEY!!!",
+      "start": 772.34,
+      "duration": 3.08
+    },
+    {
+      "text": "But no,  the girl I liked killed herself. And now I'm in a weird fucking mental time loop",
+      "start": 776.08,
+      "duration": 6.08
+    },
+    {
+      "text": "Where crazy awful shit could happen at any second.",
+      "start": 782.569,
+      "duration": 3.291
+    },
+    {
+      "text": "A: Yeah, it's cool.",
+      "start": 785.86,
+      "duration": 0.72
+    },
+    {
+      "text": "D: Yeah. I love it",
+      "start": 786.58,
+      "duration": 0.68
+    },
+    {
+      "text": "D: Let's go with chocolate [Laughs]",
+      "start": 788.0,
+      "duration": 2.62
+    },
+    {
+      "text": "And candy...",
+      "start": 791.22,
+      "duration": 0.92
+    },
+    {
+      "text": "A: Yeah",
+      "start": 792.24,
+      "duration": 0.62
+    },
+    {
+      "text": "D: And peaceful.",
+      "start": 792.86,
+      "duration": 1.12
+    },
+    {
+      "text": "A: That's a good poem.",
+      "start": 793.98,
+      "duration": 1.2
+    },
+    {
+      "text": "D: Oh, god damn you.",
+      "start": 795.18,
+      "duration": 1.94
+    },
+    {
+      "text": "D: Alright, next time on Game Grumps",
+      "start": 797.12,
+      "duration": 1.22
+    },
+    {
+      "text": "D: Ahh...Fuck this music!",
+      "start": 800.52,
+      "duration": 1.98
+    },
+    {
+      "text": "[Arin laughing]",
+      "start": 802.5,
+      "duration": 0.98
+    },
+    {
+      "text": "D: Misleading-ass piece-of-shit",
+      "start": 803.48,
+      "duration": 2.08
+    }
+  ]
+}

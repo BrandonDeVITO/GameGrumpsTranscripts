@@ -1,0 +1,118 @@
+{
+  "video_id": "-s35Ja8wBwE",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Arin: John",
+      "start": 1.04,
+      "duration": 0.5
+    },
+    {
+      "text": "John: Huh? I cant hear you, I'm doin laundry",
+      "start": 1.64,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: Well then, Turn it off.",
+      "start": 7.1,
+      "duration": 1.62
+    },
+    {
+      "text": "John: No",
+      "start": 9.16,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Okay",
+      "start": 10.86,
+      "duration": 0.54
+    },
+    {
+      "text": "John: No",
+      "start": 11.4,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Hey, You know what? you know what i was thinking about?",
+      "start": 11.9,
+      "duration": 2.62
+    },
+    {
+      "text": "John: I don't remember",
+      "start": 14.52,
+      "duration": 1.52
+    },
+    {
+      "text": "[John coughs]",
+      "start": 16.04,
+      "duration": 1.0
+    },
+    {
+      "text": "Arin: It's Grep Shirt",
+      "start": 17.04,
+      "duration": 1.28
+    },
+    {
+      "text": "Arin: It's Grep Shirt",
+      "start": 18.82,
+      "duration": 1.38
+    },
+    {
+      "text": "John: order it now",
+      "start": 21.06,
+      "duration": 1.14
+    },
+    {
+      "text": "John: Online.com",
+      "start": 23.16,
+      "duration": 1.6
+    },
+    {
+      "text": "[John laughs]",
+      "start": 27.3,
+      "duration": 4.28
+    },
+    {
+      "text": "Arin: That's right. You heard me correctly",
+      "start": 32.24,
+      "duration": 1.6
+    },
+    {
+      "text": "[Arin coughs] one week only",
+      "start": 33.84,
+      "duration": 1.4
+    },
+    {
+      "text": "Arin: uh RodeoArcade.com click the link down there you get the Grep Shirt",
+      "start": 35.24,
+      "duration": 3.44
+    },
+    {
+      "text": "Arin: WOOOOO",
+      "start": 38.68,
+      "duration": 1.12
+    },
+    {
+      "text": "Arin: The kids love grep, you all love gre-",
+      "start": 39.8,
+      "duration": 2.2
+    },
+    {
+      "text": "[Arin coughs]",
+      "start": 42.0,
+      "duration": 2.48
+    },
+    {
+      "text": "john: Arin?",
+      "start": 45.22,
+      "duration": 1.26
+    },
+    {
+      "text": "John: Is that you?",
+      "start": 47.9,
+      "duration": 1.08
+    }
+  ]
+}

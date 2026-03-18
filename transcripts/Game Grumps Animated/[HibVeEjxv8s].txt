@@ -1,0 +1,273 @@
+{
+  "video_id": "HibVeEjxv8s",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "[Game Grumps Animated intro]",
+      "start": 0.02,
+      "duration": 2.5
+    },
+    {
+      "text": "[zombie groans and gunshots]",
+      "start": 3.34,
+      "duration": 4.9
+    },
+    {
+      "text": "[pew, rip zombie]",
+      "start": 8.5,
+      "duration": 1.1
+    },
+    {
+      "text": "[Big thud]",
+      "start": 10.06,
+      "duration": 0.78
+    },
+    {
+      "text": "[more zombies and gunshots]",
+      "start": 10.84,
+      "duration": 4.04
+    },
+    {
+      "text": "[Arin] Bang. Bang.",
+      "start": 15.1,
+      "duration": 0.96
+    },
+    {
+      "text": "[Dan] Oh, that's not going to work...",
+      "start": 16.06,
+      "duration": 1.12
+    },
+    {
+      "text": "[Arin] Oh god, oh god, I'm out of ammo!",
+      "start": 17.18,
+      "duration": 1.28
+    },
+    {
+      "text": "[Dan] Oh– oh geez, Arin!",
+      "start": 18.46,
+      "duration": 1.86
+    },
+    {
+      "text": "[Arin] I need to get out of here!\n[Dan] You suck.",
+      "start": 20.32,
+      "duration": 1.78
+    },
+    {
+      "text": "[zombie growls]",
+      "start": 22.1,
+      "duration": 4.48
+    },
+    {
+      "text": "[stealthy fall]",
+      "start": 30.02,
+      "duration": 1.2
+    },
+    {
+      "text": "[crash and cat yowl]",
+      "start": 31.22,
+      "duration": 1.58
+    },
+    {
+      "text": "[Dan] Are you okay, sir?",
+      "start": 36.88,
+      "duration": 1.84
+    },
+    {
+      "text": "Can you be helped?",
+      "start": 38.72,
+      "duration": 1.1
+    },
+    {
+      "text": "[buzzing fly]",
+      "start": 41.56,
+      "duration": 1.94
+    },
+    {
+      "text": "[zombie groan]",
+      "start": 43.5,
+      "duration": 1.58
+    },
+    {
+      "text": "[wolf howls]",
+      "start": 46.06,
+      "duration": 2.86
+    },
+    {
+      "text": "[Arin] I'm gonna sneak kill him.",
+      "start": 48.92,
+      "duration": 1.56
+    },
+    {
+      "text": "[sneaky piano music]",
+      "start": 52.68,
+      "duration": 2.1
+    },
+    {
+      "text": "Sneak kill!",
+      "start": 54.78,
+      "duration": 0.8
+    },
+    {
+      "text": "[door bell]",
+      "start": 55.58,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh god!",
+      "start": 57.58,
+      "duration": 1.04
+    },
+    {
+      "text": "[door bell continues]",
+      "start": 58.62,
+      "duration": 2.0
+    },
+    {
+      "text": "[fly buzzes, zombie groans]\n[door bell continues]",
+      "start": 60.62,
+      "duration": 1.66
+    },
+    {
+      "text": "[door bell continues]",
+      "start": 62.28,
+      "duration": 2.36
+    },
+    {
+      "text": "[groans in the distance]\n[door bell continues]",
+      "start": 64.64,
+      "duration": 1.46
+    },
+    {
+      "text": "[zombie noises]",
+      "start": 66.1,
+      "duration": 2.76
+    },
+    {
+      "text": "[Arin] *yells*\n[chain saw revs]",
+      "start": 68.86,
+      "duration": 2.46
+    },
+    {
+      "text": "[Dan] *laughs*\n[chain saw revs]",
+      "start": 71.32,
+      "duration": 3.38
+    },
+    {
+      "text": "You're so bad at this.\n[chain saw revs] *rip Arin*",
+      "start": 74.7,
+      "duration": 1.92
+    },
+    {
+      "text": "[dog barks]",
+      "start": 78.36,
+      "duration": 1.76
+    },
+    {
+      "text": "[Arin] She's coming.",
+      "start": 80.12,
+      "duration": 0.74
+    },
+    {
+      "text": "[Dan] Yeah, let her walk past you for the love of God.\n[Arin] I'm gonna sneak her, dude. I'm gonna sneak her.",
+      "start": 80.86,
+      "duration": 3.32
+    },
+    {
+      "text": "[can roll]",
+      "start": 84.94,
+      "duration": 0.72
+    },
+    {
+      "text": "[zombie grunt]",
+      "start": 85.66,
+      "duration": 0.9
+    },
+    {
+      "text": "[zombie grumble]",
+      "start": 86.56,
+      "duration": 0.82
+    },
+    {
+      "text": "[Arin as Zombie] Who was that?",
+      "start": 87.96,
+      "duration": 1.06
+    },
+    {
+      "text": "[Dan as Zombie] Hmm.",
+      "start": 89.72,
+      "duration": 0.76
+    },
+    {
+      "text": "[Arin as Zombie] Certainly wasn't the sound\nof someone trying to sneak kill me.",
+      "start": 90.48,
+      "duration": 3.08
+    },
+    {
+      "text": "[Both] *laugh*",
+      "start": 93.56,
+      "duration": 1.46
+    },
+    {
+      "text": "[Dan] Use the skills you picked up",
+      "start": 95.02,
+      "duration": 2.2
+    },
+    {
+      "text": "in Burger King Sneak King.",
+      "start": 97.22,
+      "duration": 1.04
+    },
+    {
+      "text": "[thunder]\nin Burger King Sneak King.",
+      "start": 98.26,
+      "duration": 1.28
+    },
+    {
+      "text": "Kill her with a flourish!",
+      "start": 99.92,
+      "duration": 1.68
+    },
+    {
+      "text": "[Zombie] Ow!",
+      "start": 101.6,
+      "duration": 1.0
+    },
+    {
+      "text": "[Arin] Got her!",
+      "start": 103.14,
+      "duration": 1.02
+    },
+    {
+      "text": "[Dan] Oh man.",
+      "start": 104.16,
+      "duration": 1.14
+    },
+    {
+      "text": "[Arin as Sneak King] Wait just a gosh-darn second.",
+      "start": 105.92,
+      "duration": 2.02
+    },
+    {
+      "text": "It looks like this guy's gonna get sneak killed!",
+      "start": 107.94,
+      "duration": 2.36
+    },
+    {
+      "text": "[Dan] That–",
+      "start": 110.3,
+      "duration": 0.5
+    },
+    {
+      "text": "[Game Grumps Animated outro]",
+      "start": 110.8,
+      "duration": 5.0
+    },
+    {
+      "text": "[Dan] *big jumpscare* I'm going to sneak kill you–",
+      "start": 119.5,
+      "duration": 1.88
+    }
+  ]
+}

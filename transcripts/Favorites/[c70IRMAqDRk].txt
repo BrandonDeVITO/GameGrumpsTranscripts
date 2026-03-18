@@ -1,0 +1,28 @@
+{
+  "video_id": "c70IRMAqDRk",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippets": [
+    {
+      "text": "[Music]",
+      "start": 0.0,
+      "duration": 4.08
+    },
+    {
+      "text": "[Applause]",
+      "start": 2.86,
+      "duration": 5.66
+    },
+    {
+      "text": "what's with Rush he must have a screw",
+      "start": 4.08,
+      "duration": 4.44
+    },
+    {
+      "text": "loose s an",
+      "start": 11.559,
+      "duration": 4.401
+    }
+  ]
+}

@@ -1,0 +1,1908 @@
+{
+  "video_id": "jBFcuVKMslc",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Dan: Hello, and welcome to our unnecessarily artistic video for this.",
+      "start": 0.0,
+      "duration": 3.22
+    },
+    {
+      "text": "Brian: Cool though. Looks cool.",
+      "start": 3.82,
+      "duration": 1.02
+    },
+    {
+      "text": "Dan: Yeah, it's alright.",
+      "start": 4.84,
+      "duration": 0.5
+    },
+    {
+      "text": "Brian: Uh, we have tickets on sale right now for two more shows.",
+      "start": 5.34,
+      "duration": 2.12
+    },
+    {
+      "text": "in the NSP \"Rock Hard: 2017 Tour.\"",
+      "start": 7.48,
+      "duration": 2.62
+    },
+    {
+      "text": "Those shows are- Do you wanna read this?",
+      "start": 10.14,
+      "duration": 1.76
+    },
+    {
+      "text": "Dan: Philly, August 28th; that's a Monday.",
+      "start": 11.9,
+      "duration": 2.0
+    },
+    {
+      "text": "Brian: That's a Monday. Those tickets are on sale right now.",
+      "start": 13.9,
+      "duration": 2.4
+    },
+    {
+      "text": "Dan: That's the night after our other Philly show.",
+      "start": 16.3,
+      "duration": 2.0
+    },
+    {
+      "text": "Brian: Yeah, we did not cancel the first Philly show, we're doing",
+      "start": 18.3,
+      "duration": 2.0
+    },
+    {
+      "text": "two shows.",
+      "start": 20.3,
+      "duration": 0.96
+    },
+    {
+      "text": "Dan: Two shows. Two Philly shows.",
+      "start": 21.26,
+      "duration": 1.5
+    },
+    {
+      "text": "And then Denver, September 23rd",
+      "start": 22.76,
+      "duration": 1.7
+    },
+    {
+      "text": "that's a Saturday.",
+      "start": 24.48,
+      "duration": 0.82
+    },
+    {
+      "text": "Brian: Yup",
+      "start": 25.3,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: It's gonna be rad.",
+      "start": 25.8,
+      "duration": 0.54
+    },
+    {
+      "text": "Brian: It's gonna be amazing, that's our first time, uh, in Denver.",
+      "start": 26.34,
+      "duration": 2.44
+    },
+    {
+      "text": "Dan: Yeah, yeah.",
+      "start": 28.78,
+      "duration": 1.04
+    },
+    {
+      "text": "Brian: Super rad",
+      "start": 29.82,
+      "duration": 0.92
+    },
+    {
+      "text": "Dan: Um, and as always, uh, we should just say that, uh, if we haven't gotten to your city yet, we're gonna get there, um",
+      "start": 30.78,
+      "duration": 5.56
+    },
+    {
+      "text": "The-These shows just happened to be, like, you know,  they",
+      "start": 36.38,
+      "duration": 3.58
+    },
+    {
+      "text": "Both: worked with our schedules",
+      "start": 39.96,
+      "duration": 1.16
+    },
+    {
+      "text": "Dan: and, like, venue availability and stuff like that, so",
+      "start": 41.12,
+      "duration": 2.48
+    },
+    {
+      "text": "Brian: Yep. The-These shows are, uh, they're all ages.",
+      "start": 43.6,
+      "duration": 2.6
+    },
+    {
+      "text": "Links are below in the description.",
+      "start": 46.2,
+      "duration": 2.6
+    },
+    {
+      "text": "So, we saw a lot of you guys, you just got back from the first leg in our tour, and it was amazing",
+      "start": 48.8,
+      "duration": 4.16
+    },
+    {
+      "text": "We had the best time.",
+      "start": 52.96,
+      "duration": 0.82
+    },
+    {
+      "text": "And we're psyched to come to another show in Philly and a show in Denver",
+      "start": 53.78,
+      "duration": 2.96
+    },
+    {
+      "text": "So grab those tickets--links below.",
+      "start": 56.74,
+      "duration": 2.06
+    },
+    {
+      "text": "Uh, we think they're gonna sell pretty quick, so",
+      "start": 58.8,
+      "duration": 2.24
+    },
+    {
+      "text": "Dan: Yeah.",
+      "start": 61.04,
+      "duration": 0.72
+    },
+    {
+      "text": "Brian: get it now.",
+      "start": 61.76,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: More shows to come.",
+      "start": 62.26,
+      "duration": 0.5
+    },
+    {
+      "text": "Brian: That's right.",
+      "start": 62.76,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: Bye.",
+      "start": 63.82,
+      "duration": 0.5
+    },
+    {
+      "text": "Brian: Love you.",
+      "start": 64.32,
+      "duration": 0.92
+    },
+    {
+      "text": "Dan: Marvelous.",
+      "start": 68.44,
+      "duration": 1.12
+    },
+    {
+      "text": "Hey, I'm Grump.",
+      "start": 69.56,
+      "duration": 0.92
+    },
+    {
+      "text": "I'm Not So Grump.",
+      "start": 70.48,
+      "duration": 1.12
+    },
+    {
+      "text": "And we're the Game Grumps.",
+      "start": 72.12,
+      "duration": 2.14
+    },
+    {
+      "text": "Dan: Welcome back, baby!",
+      "start": 75.18,
+      "duration": 1.38
+    },
+    {
+      "text": "Arin: What's happenin'?",
+      "start": 76.56,
+      "duration": 1.2
+    },
+    {
+      "text": "My name Arin; this Dan.",
+      "start": 78.72,
+      "duration": 1.58
+    },
+    {
+      "text": "Dan: Hi.",
+      "start": 80.3,
+      "duration": 0.56
+    },
+    {
+      "text": "Arin: Dan the man.",
+      "start": 81.42,
+      "duration": 0.94
+    },
+    {
+      "text": "Dan: And I'm finally gonna throw down with the champ.",
+      "start": 82.36,
+      "duration": 1.8
+    },
+    {
+      "text": "The one. The only. Would you like to say it?",
+      "start": 84.24,
+      "duration": 2.28
+    },
+    {
+      "text": "Arin: Rawwwwk Hawwwwk!",
+      "start": 86.52,
+      "duration": 1.6
+    },
+    {
+      "text": "First to enter the ring: The Feral Nuclear Reactor, RAWWWWW cock.",
+      "start": 90.32,
+      "duration": 4.4
+    },
+    {
+      "text": "Hey, what's up?",
+      "start": 96.5,
+      "duration": 1.04
+    },
+    {
+      "text": "You go, champ.",
+      "start": 98.68,
+      "duration": 0.96
+    },
+    {
+      "text": "Rock him!",
+      "start": 100.0,
+      "duration": 0.64
+    },
+    {
+      "text": "Dan: Eeeeee!",
+      "start": 100.64,
+      "duration": 1.5
+    },
+    {
+      "text": "Arin: That's a letter.",
+      "start": 103.52,
+      "duration": 0.92
+    },
+    {
+      "text": "Hooo, doggies, champ. How're ya feelin', son? Your challenger's a handful.",
+      "start": 105.92,
+      "duration": 4.34
+    },
+    {
+      "text": "Dan: He-",
+      "start": 111.26,
+      "duration": 0.5
+    },
+    {
+      "text": "Shit, what voice did we give him?",
+      "start": 112.2,
+      "duration": 1.14
+    },
+    {
+      "text": "Arin: I don't remember.",
+      "start": 113.34,
+      "duration": 0.8
+    },
+    {
+      "text": "He don't want a handful this! Dan: No!",
+      "start": 114.82,
+      "duration": 1.42
+    },
+    {
+      "text": "Dan: He don't want a handful of this. Uh-uh. There's only one champ, and it's me.",
+      "start": 121.64,
+      "duration": 3.68
+    },
+    {
+      "text": "Even if this Gonzales wuss ever shows up, what's he gonna do, huh? Nothing.",
+      "start": 126.04,
+      "duration": 3.88
+    },
+    {
+      "text": "Arin: But the Great Gonzales made it to the top of the majors faster than anyone, ever!",
+      "start": 130.88,
+      "duration": 3.8
+    },
+    {
+      "text": "He even got up there faster than you did, champ!",
+      "start": 135.28,
+      "duration": 2.1
+    },
+    {
+      "text": "What do you got to say about that?",
+      "start": 137.38,
+      "duration": 1.8
+    },
+    {
+      "text": "Dan: What do I have to say?",
+      "start": 139.94,
+      "duration": 0.78
+    },
+    {
+      "text": "*unintelligible noises*",
+      "start": 141.2,
+      "duration": 2.46
+    },
+    {
+      "text": "Arin: *blows raspberry*",
+      "start": 143.66,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: That's what.",
+      "start": 144.4,
+      "duration": 0.72
+    },
+    {
+      "text": "Who cares what this guy did to a bunch of chumps? 'Cause now he's going to get \"rawked.\"",
+      "start": 146.04,
+      "duration": 3.46
+    },
+    {
+      "text": "Arin: Hmmmmmmmmm",
+      "start": 150.5,
+      "duration": 0.92
+    },
+    {
+      "text": "Dan: By my raw cock.",
+      "start": 151.42,
+      "duration": 0.64
+    },
+    {
+      "text": "Arin: Good choice of words.",
+      "start": 152.06,
+      "duration": 0.98
+    },
+    {
+      "text": "Dan: Okay, so that's it. Nobody's coming for us, man. Hear me? Let's go kick some tail.",
+      "start": 154.96,
+      "duration": 4.04
+    },
+    {
+      "text": "Arin: Oh, shit, are they fucking throwing the match by",
+      "start": 159.84,
+      "duration": 2.34
+    },
+    {
+      "text": "locking you in the locker room? Dan: Someone's trying to get the lock.",
+      "start": 162.18,
+      "duration": 2.28
+    },
+    {
+      "text": "Dan: Aw, weak. Some punk's locked us in here. We're trapped in here. Arin: Aw, that's fucked up.",
+      "start": 165.38,
+      "duration": 3.14
+    },
+    {
+      "text": "Arin: Yeahhh. Dan: Some punk? Yeah I wonder who it could be.",
+      "start": 169.48,
+      "duration": 2.16
+    },
+    {
+      "text": "Arin: Protecting Rawk Hawk.",
+      "start": 171.64,
+      "duration": 1.48
+    },
+    {
+      "text": "And now for our challenger, the Merciless Executioner, the Greeeeeat Gonzales!",
+      "start": 173.6,
+      "duration": 4.16
+    },
+    {
+      "text": "Hmmmm.",
+      "start": 179.54,
+      "duration": 0.98
+    },
+    {
+      "text": "Dan: That's weird.",
+      "start": 180.52,
+      "duration": 0.98
+    },
+    {
+      "text": "Arin: He transformed into a door!",
+      "start": 181.5,
+      "duration": 1.86
+    },
+    {
+      "text": "Arin: Hold the phone, folks.",
+      "start": 184.32,
+      "duration": 1.44
+    },
+    {
+      "text": "What the hey's going on? What happened to the Great Gonzales?",
+      "start": 186.44,
+      "duration": 3.4
+    },
+    {
+      "text": "Dan: Har har har. I'll tell you what did happen; he fears the Rawk.",
+      "start": 191.08,
+      "duration": 3.36
+    },
+    {
+      "text": "Arin: Hmm, hoo-wee! What a stupefying development, folks.",
+      "start": 196.0,
+      "duration": 3.52
+    },
+    {
+      "text": "Did the Great Gonzales really turn yella and head for the hills like a dog?",
+      "start": 199.7,
+      "duration": 4.88
+    },
+    {
+      "text": "I'll tell you what, folks, if he don't show soon, he's gonna- a-gonna forfeit the match.",
+      "start": 205.16,
+      "duration": 4.46
+    },
+    {
+      "text": "Dan: Alright.",
+      "start": 210.12,
+      "duration": 0.96
+    },
+    {
+      "text": "This is bullshit. Arin: He just stares into oblivion. Dan: Yeah.",
+      "start": 212.08,
+      "duration": 2.06
+    },
+    {
+      "text": "Arin: You know, for the title match, the seats are a little empty.",
+      "start": 218.44,
+      "duration": 3.2
+    },
+    {
+      "text": "Dan: Man, this is the worst. We're gonna forfeit our match if we don't show.",
+      "start": 222.24,
+      "duration": 3.02
+    },
+    {
+      "text": "Arin: Uh-oh.",
+      "start": 225.26,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: We gotta break out of here, man. Right now.",
+      "start": 225.76,
+      "duration": 2.54
+    },
+    {
+      "text": "Arin: Hi!",
+      "start": 228.8,
+      "duration": 0.9
+    },
+    {
+      "text": "Well, is there, like, a- There's gotta be a hole or something.",
+      "start": 231.02,
+      "duration": 2.92
+    },
+    {
+      "text": "Dan: Oh. Arin: *gasp* The Princess Peach poster!",
+      "start": 233.94,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: Yes.",
+      "start": 237.72,
+      "duration": 0.96
+    },
+    {
+      "text": "Dan: I did it.",
+      "start": 238.94,
+      "duration": 1.08
+    },
+    {
+      "text": "Arin: Crushed her DMs, dude.",
+      "start": 240.64,
+      "duration": 1.52
+    },
+    {
+      "text": "Dan: Hi, baby.",
+      "start": 243.28,
+      "duration": 0.8
+    },
+    {
+      "text": "Arin: Look at you! Dan: Byyye!",
+      "start": 246.54,
+      "duration": 1.52
+    },
+    {
+      "text": "Arin: Look at fucking you dude! Dan: Whoa, whoa. Hello.",
+      "start": 248.06,
+      "duration": 2.84
+    },
+    {
+      "text": "Dan: What's in here?",
+      "start": 250.9,
+      "duration": 0.94
+    },
+    {
+      "text": "Arin: That's a sweet TV.",
+      "start": 252.2,
+      "duration": 1.12
+    },
+    {
+      "text": "Dan: I love it. I like this room.",
+      "start": 253.32,
+      "duration": 1.86
+    },
+    {
+      "text": "Arin: Yeah, I like it, too. It's, like, very",
+      "start": 255.18,
+      "duration": 2.24
+    },
+    {
+      "text": "cool and stylized.",
+      "start": 257.84,
+      "duration": 1.6
+    },
+    {
+      "text": "Dan: My masturbatory lotions.",
+      "start": 259.48,
+      "duration": 2.32
+    },
+    {
+      "text": "Arin: Yes, that's where they were.",
+      "start": 261.8,
+      "duration": 2.08
+    },
+    {
+      "text": "Dan: The ter-let.",
+      "start": 265.26,
+      "duration": 1.2
+    },
+    {
+      "text": "Arin: Do you need to take a shit? I'll turn my back.",
+      "start": 266.46,
+      "duration": 2.6
+    },
+    {
+      "text": "Dan: Wh- Oh, shit! Arin: What the fuck did you do?",
+      "start": 269.06,
+      "duration": 3.12
+    },
+    {
+      "text": "Dan: I don't know!",
+      "start": 272.18,
+      "duration": 0.9
+    },
+    {
+      "text": "Arin: Why didn't you just walk out the front door?",
+      "start": 273.56,
+      "duration": 1.74
+    },
+    {
+      "text": "Dan: I couldn't tell ya.",
+      "start": 275.62,
+      "duration": 1.44
+    },
+    {
+      "text": "Arin: I guess you did the right thing. Dan: Yeah, I'm gettin' flushed. I'm getting flushed right-",
+      "start": 277.06,
+      "duration": 3.38
+    },
+    {
+      "text": "Good thing their sewage system is weirdly connected to each other.",
+      "start": 280.96,
+      "duration": 3.42
+    },
+    {
+      "text": "I should like to request that we never do that again.",
+      "start": 287.4,
+      "duration": 2.56
+    },
+    {
+      "text": "In any case, to the arena!",
+      "start": 289.96,
+      "duration": 1.64
+    },
+    {
+      "text": "Get out of my face.",
+      "start": 292.42,
+      "duration": 1.2
+    },
+    {
+      "text": "Out of the way, losers!",
+      "start": 293.66,
+      "duration": 1.4
+    },
+    {
+      "text": "Arin: Do you wanna switch to Snurglez? Dan: That's exactly what's happening.",
+      "start": 295.06,
+      "duration": 2.46
+    },
+    {
+      "text": "Arin: Yeah.",
+      "start": 297.52,
+      "duration": 0.5
+    },
+    {
+      "text": "I kinda figured.",
+      "start": 298.38,
+      "duration": 1.18
+    },
+    {
+      "text": "Dan: Yeah, he's so tiny.",
+      "start": 302.08,
+      "duration": 1.16
+    },
+    {
+      "text": "Arin: It is funny that she's such a brute, and then, like",
+      "start": 303.24,
+      "duration": 2.64
+    },
+    {
+      "text": "He comes out and he's like, \"Hi!\"",
+      "start": 306.04,
+      "duration": 1.72
+    },
+    {
+      "text": "Save that shit, dude.",
+      "start": 308.82,
+      "duration": 1.44
+    },
+    {
+      "text": "Arin: You're about to fight Rawk Hawk. Dan: You're absolutely right.",
+      "start": 310.94,
+      "duration": 2.76
+    },
+    {
+      "text": "Dan: God damn it.",
+      "start": 317.22,
+      "duration": 1.24
+    },
+    {
+      "text": "Arin: I can't reach.",
+      "start": 318.46,
+      "duration": 1.1
+    },
+    {
+      "text": "Dan: All these buttons are next to each other. Arin: Help me!",
+      "start": 319.56,
+      "duration": 2.92
+    },
+    {
+      "text": "Snurglez, please!",
+      "start": 323.16,
+      "duration": 1.72
+    },
+    {
+      "text": "Dan: God damn it.",
+      "start": 325.42,
+      "duration": 1.12
+    },
+    {
+      "text": "Okay- God damn it!",
+      "start": 326.82,
+      "duration": 1.32
+    },
+    {
+      "text": "Alright",
+      "start": 328.56,
+      "duration": 0.76
+    },
+    {
+      "text": "Alllright. Arin: Now you know how it feels. Just go through the ring, dude.",
+      "start": 331.12,
+      "duration": 2.78
+    },
+    {
+      "text": "Dan: What's that? Arin: Just go straight through the ring. Dan: Ohh.",
+      "start": 335.02,
+      "duration": 2.7
+    },
+    {
+      "text": "Right you are. *makes door creaking sound*",
+      "start": 338.42,
+      "duration": 2.44
+    },
+    {
+      "text": "Arin: Well- Oh, there he is! I thought you were a door for a second.",
+      "start": 340.86,
+      "duration": 2.92
+    },
+    {
+      "text": "Whaaaaaa?",
+      "start": 345.38,
+      "duration": 1.6
+    },
+    {
+      "text": "The moment you've been waiting for, folks! The Great Gonzales just entered the arenaaaa!",
+      "start": 348.02,
+      "duration": 4.06
+    },
+    {
+      "text": "Well I guess- Now that you're there Dan: Yeah.",
+      "start": 353.56,
+      "duration": 2.48
+    },
+    {
+      "text": "Arin: Who the fuck is gonna react?",
+      "start": 356.2,
+      "duration": 2.48
+    },
+    {
+      "text": "Dan: People are stoked.",
+      "start": 358.68,
+      "duration": 1.06
+    },
+    {
+      "text": "Dan: Looks like we made it, dude. And the crowd is loving us. We are stars, baby.",
+      "start": 360.22,
+      "duration": 4.22
+    },
+    {
+      "text": "Are you trying to tell me something?",
+      "start": 364.44,
+      "duration": 2.02
+    },
+    {
+      "text": "Come on, let's go lay the smackdown on that big chicken.",
+      "start": 366.46,
+      "duration": 3.22
+    },
+    {
+      "text": "Arin: You rock, man!",
+      "start": 370.38,
+      "duration": 1.36
+    },
+    {
+      "text": "Dan: You're late! Arin: You- Yeah, you're late!",
+      "start": 371.74,
+      "duration": 3.02
+    },
+    {
+      "text": "Arin: Just listen to the crowd hoot and holler for the challenger.",
+      "start": 376.14,
+      "duration": 3.42
+    },
+    {
+      "text": "And berating him for being late.",
+      "start": 379.56,
+      "duration": 2.32
+    },
+    {
+      "text": "The Great Gonzales! Dan: Thank you.",
+      "start": 382.94,
+      "duration": 1.72
+    },
+    {
+      "text": "Arin: Will his hammer of hurt 'n' harm be enough to rock the Rawk Hawk's socks?",
+      "start": 384.66,
+      "duration": 4.36
+    },
+    {
+      "text": "Now, at long last, the battle to end all battles is here! Let's keep it clean boys!",
+      "start": 389.02,
+      "duration": 4.44
+    },
+    {
+      "text": "And- Dan: Let's fucking do this.",
+      "start": 394.92,
+      "duration": 1.76
+    },
+    {
+      "text": "Arin: Try not to leave too much time in between \"raw\" and \"cock.\"",
+      "start": 396.68,
+      "duration": 3.72
+    },
+    {
+      "text": "All right, Gonzales! Dan: All right, Gonzales. We're fighting the champ.",
+      "start": 400.4,
+      "duration": 2.86
+    },
+    {
+      "text": "I'm so...fired...up.",
+      "start": 403.26,
+      "duration": 2.72
+    },
+    {
+      "text": "Har har har! You wimps should have stayed locked up safe and sound.",
+      "start": 406.9,
+      "duration": 4.4
+    },
+    {
+      "text": "Dan: What kind of trash-talking are you doing now? Arin: Oh, he knew you were locked up.",
+      "start": 411.3,
+      "duration": 3.6
+    },
+    {
+      "text": "Dan: Wait, did YOU get the security guard to lock us in the locker room?",
+      "start": 414.9,
+      "duration": 3.14
+    },
+    {
+      "text": "You're darn right I did! I also sent you that poison cake, suckers!",
+      "start": 418.04,
+      "duration": 3.64
+    },
+    {
+      "text": "That's what happens when you mess with me, baby! You mess with me, you meet the pain train!",
+      "start": 421.68,
+      "duration": 3.44
+    },
+    {
+      "text": "Arin: Oh, he was the bad voice.",
+      "start": 425.12,
+      "duration": 1.46
+    },
+    {
+      "text": "Dan: So you're the coward who's been sending nasty e-mails about the crystal star.",
+      "start": 426.58,
+      "duration": 3.7
+    },
+    {
+      "text": "Huh? I have no idea what you're babbling about now. What's a crystal star?",
+      "start": 430.88,
+      "duration": 3.62
+    },
+    {
+      "text": "No, wait, I don't care",
+      "start": 434.8,
+      "duration": 1.64
+    },
+    {
+      "text": "It's what you wear on your fucking belt, douche.",
+      "start": 436.44,
+      "duration": 1.8
+    },
+    {
+      "text": "I may not play exactly fair, but I got skills, punks!",
+      "start": 438.24,
+      "duration": 2.6
+    },
+    {
+      "text": "Now you're about to meet them all, baby. Prepare to be \"rawked\"!",
+      "start": 440.84,
+      "duration": 3.12
+    },
+    {
+      "text": "Arin: Use a special move at least once. Dan: Okay, you got it.",
+      "start": 444.36,
+      "duration": 2.54
+    },
+    {
+      "text": "Arin: God, if he does, like, 20 damage off the bat, I'm gonna- that's gonna be crazy.",
+      "start": 447.22,
+      "duration": 4.12
+    },
+    {
+      "text": "Dan: It'll be hilarious and cool. Arin: It'll be 100% hilarious.",
+      "start": 451.34,
+      "duration": 4.54
+    },
+    {
+      "text": "Arin: Thunderbolt, huh?",
+      "start": 456.3,
+      "duration": 0.8
+    },
+    {
+      "text": "Dan: Yeah, let me just come swingin' out the gates. Arin: Yeah, right on.",
+      "start": 457.1,
+      "duration": 3.8
+    },
+    {
+      "text": "Dan: Boom, baby. Arin: Daaamn.",
+      "start": 460.9,
+      "duration": 1.72
+    },
+    {
+      "text": "Arin: Give him the gulp, dude.",
+      "start": 463.02,
+      "duration": 1.54
+    },
+    {
+      "text": "Arin: Swallow that fucker up. Dan (singing): Baaaaby, give him the gulp. *makes slurping sound*",
+      "start": 464.74,
+      "duration": 3.44
+    },
+    {
+      "text": "Arin: Digest that bitch like a roasted turkey. Dan: Ouch! Aw, damn.",
+      "start": 468.18,
+      "duration": 3.34
+    },
+    {
+      "text": "Arin: Oh, that wasn't so bad. Dan: No.",
+      "start": 471.52,
+      "duration": 1.52
+    },
+    {
+      "text": "It's flashy, though.",
+      "start": 473.12,
+      "duration": 1.32
+    },
+    {
+      "text": "Arin: Maybe that's- Maybe that's- Maybe they're trying to illustrate a point to you via game play.",
+      "start": 475.88,
+      "duration": 4.3
+    },
+    {
+      "text": "That he isn't actually the strongest guy.",
+      "start": 480.18,
+      "duration": 2.68
+    },
+    {
+      "text": "He just got there by doing nasty things.",
+      "start": 483.38,
+      "duration": 3.12
+    },
+    {
+      "text": "Dan: Whoa. Arin: Yeah. Dan: Heavy.",
+      "start": 486.5,
+      "duration": 2.08
+    },
+    {
+      "text": "Dan: Heavy and intense. Arin: 'Cause fucking Terminator whatever- Koopinator, he did 10 damage to you.",
+      "start": 488.58,
+      "duration": 5.4
+    },
+    {
+      "text": "Dan: Yeah, he did, actually. Arin: 10 whole fucking damage.",
+      "start": 493.98,
+      "duration": 2.04
+    },
+    {
+      "text": "Dan: Which makes me think this guy's got more shit up his sleeve.",
+      "start": 496.02,
+      "duration": 2.2
+    },
+    {
+      "text": "Not too shabby. You're better than I thought.",
+      "start": 498.22,
+      "duration": 1.68
+    },
+    {
+      "text": "This may actually be fun.",
+      "start": 499.9,
+      "duration": 1.52
+    },
+    {
+      "text": "Don't get your head swelled, though, 'cause you've got a long ways to go. Check this out.",
+      "start": 501.42,
+      "duration": 3.28
+    },
+    {
+      "text": "Oh, crap.",
+      "start": 504.88,
+      "duration": 1.08
+    },
+    {
+      "text": "Arin: I can- I can count to one.",
+      "start": 505.98,
+      "duration": 2.16
+    },
+    {
+      "text": "Dan: Time to rock! Oh, damn.",
+      "start": 508.14,
+      "duration": 1.62
+    },
+    {
+      "text": "Arin: That wasn't even that bad.",
+      "start": 509.76,
+      "duration": 1.54
+    },
+    {
+      "text": "Dan: It's very flashy. Arin: Yeah.",
+      "start": 511.3,
+      "duration": 2.24
+    },
+    {
+      "text": "Dan: Umm. Arin: Well, that's all he is, man. All flash, no substance.",
+      "start": 513.54,
+      "duration": 2.96
+    },
+    {
+      "text": "He is pure aesthetics.",
+      "start": 516.76,
+      "duration": 1.8
+    },
+    {
+      "text": "Ooh.",
+      "start": 520.16,
+      "duration": 0.8
+    },
+    {
+      "text": "Dan: Except he's doing specials, so it won't matter. Arin: Ohhhhhh.",
+      "start": 521.84,
+      "duration": 3.54
+    },
+    {
+      "text": "Dan: Might as well just fucking use it all. Arin: Yeah, dude.",
+      "start": 525.38,
+      "duration": 2.16
+    },
+    {
+      "text": "Dan: This is the time. Arin: Just wreck him.",
+      "start": 527.54,
+      "duration": 1.8
+    },
+    {
+      "text": "Arin: Ro-Rock his hawk.",
+      "start": 529.94,
+      "duration": 2.08
+    },
+    {
+      "text": "If you know what I'm sayin'.",
+      "start": 532.34,
+      "duration": 1.5
+    },
+    {
+      "text": "Dan: Boy",
+      "start": 534.3,
+      "duration": 0.56
+    },
+    {
+      "text": "Everything does 5- Ow!",
+      "start": 535.06,
+      "duration": 1.52
+    },
+    {
+      "text": "Arin: 5- Hey, man 5+5+5+5 is 20.",
+      "start": 537.72,
+      "duration": 4.04
+    },
+    {
+      "text": "Dan: Right you are, Arin! Arin: So you've gotta really consider that.",
+      "start": 541.76,
+      "duration": 3.08
+    },
+    {
+      "text": "Take that into consideration.",
+      "start": 544.84,
+      "duration": 1.46
+    },
+    {
+      "text": "Dan: Man, you're kinda annoying. How dare you turn the Rawk back on the Hawk?",
+      "start": 546.3,
+      "duration": 2.94
+    },
+    {
+      "text": "Arin: That's what I'm saying, see! Dan: I should've just taken care of you before the battle.",
+      "start": 549.24,
+      "duration": 2.78
+    },
+    {
+      "text": "I'm getting lazy, I guess.",
+      "start": 552.02,
+      "duration": 1.32
+    },
+    {
+      "text": "Well, since it's come down to this, I've got no choice but tooo!",
+      "start": 553.34,
+      "duration": 3.34
+    },
+    {
+      "text": "Arin: Uh-ohhhh. Dan: Oh, crap.",
+      "start": 557.62,
+      "duration": 2.08
+    },
+    {
+      "text": "Arin: Spaghetti-Os! Dan: Ow, oh, oh, oh, this cheap-ass- Arin: that's not fair!",
+      "start": 559.7,
+      "duration": 4.26
+    },
+    {
+      "text": "Arin: Dude, that is not fair.",
+      "start": 564.38,
+      "duration": 1.88
+    },
+    {
+      "text": "Dan: Yeah this- this dude sucks.",
+      "start": 566.26,
+      "duration": 1.36
+    },
+    {
+      "text": "Arin: Oh, now he's way the fuck up there; you can't do ground attacks.",
+      "start": 567.62,
+      "duration": 2.76
+    },
+    {
+      "text": "I bet you can't even do a jump attack.",
+      "start": 571.26,
+      "duration": 2.0
+    },
+    {
+      "text": "How are you gonna jump on his head?",
+      "start": 573.74,
+      "duration": 1.6
+    },
+    {
+      "text": "Dan: Boy, that's a solid question. Arin: What do you do, Dan?",
+      "start": 576.66,
+      "duration": 2.06
+    },
+    {
+      "text": "Arin: What are you gonna do!?",
+      "start": 578.72,
+      "duration": 1.26
+    },
+    {
+      "text": "Ahhhh! What are you gonna do!?",
+      "start": 580.38,
+      "duration": 2.0
+    },
+    {
+      "text": "Dan: I am going to...",
+      "start": 582.84,
+      "duration": 1.8
+    },
+    {
+      "text": "Arin: What's in the box!?",
+      "start": 584.64,
+      "duration": 1.6
+    },
+    {
+      "text": "Dan: What's in the booox?",
+      "start": 586.24,
+      "duration": 1.5
+    },
+    {
+      "text": "Arin: Yeah, you might as well heal yourself, right? Dan: I think so.",
+      "start": 587.74,
+      "duration": 2.12
+    },
+    {
+      "text": "Arin: I think he'll probably, like, fall on his own.",
+      "start": 589.86,
+      "duration": 1.76
+    },
+    {
+      "text": "Dan: Maybe?",
+      "start": 593.84,
+      "duration": 0.84
+    },
+    {
+      "text": "Dan: Let me- Arin: Let me use a Sweet Treat, or...?",
+      "start": 595.24,
+      "duration": 2.72
+    },
+    {
+      "text": "Arin: Nooo, you wanna save your- Dan: No.",
+      "start": 598.62,
+      "duration": 2.3
+    },
+    {
+      "text": "Dan: Let me appeal to the crowd. Arin: Yeah, there you go.",
+      "start": 600.92,
+      "duration": 2.34
+    },
+    {
+      "text": "Dan: Hiii! Arin: Hello!",
+      "start": 603.72,
+      "duration": 2.12
+    },
+    {
+      "text": "Dan: Yayyyy! Arin: Dude, they fucking love you. Dan: Yeah, they sure do.",
+      "start": 606.4,
+      "duration": 3.56
+    },
+    {
+      "text": "Dan: Oh, God, I can't do anything. Arin: You're out of FP?",
+      "start": 611.04,
+      "duration": 2.84
+    },
+    {
+      "text": "Oh, yeah, 'cause he's up there! Dan: He's up there.",
+      "start": 613.88,
+      "duration": 1.94
+    },
+    {
+      "text": "Arin: Shit. Dan: Ummm.",
+      "start": 615.82,
+      "duration": 1.76
+    },
+    {
+      "text": "Hmmm.",
+      "start": 618.4,
+      "duration": 0.94
+    },
+    {
+      "text": "Arin: Can you appeal?",
+      "start": 620.6,
+      "duration": 1.32
+    },
+    {
+      "text": "Dan: Yeah. Oh, yeah.",
+      "start": 622.18,
+      "duration": 1.36
+    },
+    {
+      "text": "Arin: I bet they like Snurglez more.",
+      "start": 625.64,
+      "duration": 2.04
+    },
+    {
+      "text": "Dan: Yayyyyyyy! Arin: 'Cause he's a little Yoshi. There you go!",
+      "start": 627.68,
+      "duration": 3.12
+    },
+    {
+      "text": "Dan: Oh he got five hearts back. Arin: What!?",
+      "start": 630.8,
+      "duration": 2.82
+    },
+    {
+      "text": "Just from staying up there?",
+      "start": 633.62,
+      "duration": 1.52
+    },
+    {
+      "text": "Dan: I guess so.",
+      "start": 635.14,
+      "duration": 0.84
+    },
+    {
+      "text": "Arin: Aww, what a fucking klutz. Dan: How do I-?",
+      "start": 635.98,
+      "duration": 2.6
+    },
+    {
+      "text": "Dan: Oh, my God, how do I get this guy? Nothing's working. Arin: Quake Hammer?",
+      "start": 638.58,
+      "duration": 3.3
+    },
+    {
+      "text": "Arin: Quake Hammer.",
+      "start": 641.88,
+      "duration": 0.92
+    },
+    {
+      "text": "That probably knocks him down 'cause it'll quake the whole thing.",
+      "start": 642.8,
+      "duration": 3.08
+    },
+    {
+      "text": "Dan: Ohh.",
+      "start": 648.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Dan: \"Slightly damage all ground enemies.\" I don't know if it'll do anything.",
+      "start": 650.08,
+      "duration": 2.96
+    },
+    {
+      "text": "Arin: But what is that connected to if not the ground?",
+      "start": 653.04,
+      "duration": 2.64
+    },
+    {
+      "text": "Arin: It's not floatin' in the air. Dan: I hope you're right. I hope you're right.",
+      "start": 655.68,
+      "duration": 2.84
+    },
+    {
+      "text": "Arin: Boom.",
+      "start": 661.16,
+      "duration": 1.12
+    },
+    {
+      "text": "See?",
+      "start": 662.8,
+      "duration": 0.98
+    },
+    {
+      "text": "Dan: Yeahhh, aw, that got him down! Okay, cool.",
+      "start": 663.78,
+      "duration": 2.68
+    },
+    {
+      "text": "Arin: Gotta use your noggin, bro.",
+      "start": 666.64,
+      "duration": 2.08
+    },
+    {
+      "text": "Dan: Good move, good call, good call there.",
+      "start": 668.72,
+      "duration": 2.28
+    },
+    {
+      "text": "Arin: You don't wanna be soggin'",
+      "start": 671.26,
+      "duration": 2.52
+    },
+    {
+      "text": "if you're using your noggin.",
+      "start": 673.78,
+      "duration": 1.62
+    },
+    {
+      "text": "That's what my dad always told me.",
+      "start": 675.4,
+      "duration": 1.96
+    },
+    {
+      "text": "Arin: And I- Dan: Can I replenish Mario on Snurglez's turn with this? Arin: Probably?",
+      "start": 677.52,
+      "duration": 4.96
+    },
+    {
+      "text": "Dan: Yeah.",
+      "start": 683.34,
+      "duration": 1.04
+    },
+    {
+      "text": "I can.",
+      "start": 684.44,
+      "duration": 1.1
+    },
+    {
+      "text": "Good call. Arin: Mario!",
+      "start": 685.6,
+      "duration": 1.88
+    },
+    {
+      "text": "Why would you wanna waste a Snurglez turn?",
+      "start": 687.9,
+      "duration": 2.4
+    },
+    {
+      "text": "He's got that solid gulp action.",
+      "start": 690.48,
+      "duration": 2.16
+    },
+    {
+      "text": "Dan: Ugh, ah, oh, jeez, this fucking guy. Arin: Ooh, Snurglez.",
+      "start": 693.02,
+      "duration": 3.52
+    },
+    {
+      "text": "Dan: Yeah. My-My sweet, sweet Snurgz.",
+      "start": 696.54,
+      "duration": 2.64
+    },
+    {
+      "text": "Arin: Sweet Snurrrrrgz!",
+      "start": 699.18,
+      "duration": 2.48
+    },
+    {
+      "text": "Dan: Umm.",
+      "start": 701.94,
+      "duration": 1.0
+    },
+    {
+      "text": "Let's see.",
+      "start": 704.28,
+      "duration": 1.0
+    },
+    {
+      "text": "Arin: Gonna get him real good?",
+      "start": 705.28,
+      "duration": 1.5
+    },
+    {
+      "text": "Gonna get him right in the potato face? Dan: I can- I can tremor him.",
+      "start": 707.66,
+      "duration": 3.06
+    },
+    {
+      "text": "Arin: Is that a good move? Dan: Here- Yes.",
+      "start": 710.72,
+      "duration": 2.08
+    },
+    {
+      "text": "Just- I gotta concentrate, so. Arin: Okay. Dan: Talk for me.",
+      "start": 712.8,
+      "duration": 3.14
+    },
+    {
+      "text": "Arin: Umm, my name is Randy.",
+      "start": 715.94,
+      "duration": 2.6
+    },
+    {
+      "text": "I work at a CVS.",
+      "start": 718.72,
+      "duration": 2.32
+    },
+    {
+      "text": "My dream job-",
+      "start": 721.04,
+      "duration": 1.38
+    },
+    {
+      "text": "Dan: Noo! Both: Ohhhhhh",
+      "start": 722.42,
+      "duration": 1.32
+    },
+    {
+      "text": "Dan: My timing's all off 'cause I haven't played this in forever.",
+      "start": 723.74,
+      "duration": 2.9
+    },
+    {
+      "text": "Dang it.",
+      "start": 726.88,
+      "duration": 1.0
+    },
+    {
+      "text": "Dan: Aww, that's terrible. Arin: I was trying to tell a story about Randy from CVS.",
+      "start": 727.88,
+      "duration": 5.06
+    },
+    {
+      "text": "He was gonna be, like, an optometrist or something, and",
+      "start": 733.5,
+      "duration": 3.08
+    },
+    {
+      "text": "he was overqualified, and-",
+      "start": 736.68,
+      "duration": 2.16
+    },
+    {
+      "text": "but he never moved up because the manager was a dick.",
+      "start": 738.84,
+      "duration": 3.3
+    },
+    {
+      "text": "Dan: *slurps*",
+      "start": 743.06,
+      "duration": 0.96
+    },
+    {
+      "text": "Arin: I mean, I'm just telling it now at this point, but",
+      "start": 744.02,
+      "duration": 2.4
+    },
+    {
+      "text": "Star.",
+      "start": 747.08,
+      "duration": 0.9
+    },
+    {
+      "text": "Dan: Boy, I-",
+      "start": 748.46,
+      "duration": 1.08
+    },
+    {
+      "text": "Ugh.",
+      "start": 750.44,
+      "duration": 0.74
+    },
+    {
+      "text": "Dan: Thank God he only hit Mario.",
+      "start": 751.18,
+      "duration": 1.36
+    },
+    {
+      "text": "Arin: Yeah, seriously, Snurglez would've been fucking d-e-d.",
+      "start": 752.54,
+      "duration": 3.14
+    },
+    {
+      "text": "Dan: I should swap him out, huh?",
+      "start": 755.68,
+      "duration": 1.58
+    },
+    {
+      "text": "Arin: Uhhh, or heal him.",
+      "start": 757.94,
+      "duration": 2.12
+    },
+    {
+      "text": "Dan: But I only have that one 'shroom left.",
+      "start": 760.62,
+      "duration": 2.52
+    },
+    {
+      "text": "Arin: I guess you gotta save that for the mayor, huh?",
+      "start": 763.18,
+      "duration": 2.44
+    },
+    {
+      "text": "Dan: The mayor? Arin: The mayor.",
+      "start": 765.62,
+      "duration": 1.6
+    },
+    {
+      "text": "Dan: The mayor of Mayor Town? Arin: Yeah.",
+      "start": 767.22,
+      "duration": 1.96
+    },
+    {
+      "text": "Arin: The Mayor EO.",
+      "start": 770.1,
+      "duration": 1.56
+    },
+    {
+      "text": "The Captain EO but Mayor EO.",
+      "start": 772.56,
+      "duration": 2.68
+    },
+    {
+      "text": "See- Dan: Yeah, okay.",
+      "start": 775.58,
+      "duration": 1.68
+    },
+    {
+      "text": "Go get him, Koops!",
+      "start": 777.42,
+      "duration": 1.36
+    },
+    {
+      "text": "Arin: Is Koops strong?",
+      "start": 778.78,
+      "duration": 1.46
+    },
+    {
+      "text": "Dan: I can't remember. Arin: I remember Koops being kind of weak.",
+      "start": 780.24,
+      "duration": 3.46
+    },
+    {
+      "text": "Dan: Yeahhh. Arin: That is...atrocious.",
+      "start": 785.1,
+      "duration": 3.0
+    },
+    {
+      "text": "Dan: He's only just begun to rock!",
+      "start": 791.92,
+      "duration": 1.98
+    },
+    {
+      "text": "Oh, oh, God, this guy sucks, man!",
+      "start": 793.9,
+      "duration": 2.26
+    },
+    {
+      "text": "Arin: Aw, jeez, whoa! That was, like, four HP.",
+      "start": 796.16,
+      "duration": 3.28
+    },
+    {
+      "text": "Dan: Oh, man.",
+      "start": 799.78,
+      "duration": 1.12
+    },
+    {
+      "text": "Arin: Yeah, he's fucking you up for sure.",
+      "start": 801.5,
+      "duration": 1.86
+    },
+    {
+      "text": "Arin: You gotta use it, or he's gonna die. Dan: I gotta, yeah.",
+      "start": 804.64,
+      "duration": 2.92
+    },
+    {
+      "text": "Arin: A-Mario!",
+      "start": 808.16,
+      "duration": 1.36
+    },
+    {
+      "text": "A-yes! Dan: *guitar sound*",
+      "start": 809.52,
+      "duration": 1.64
+    },
+    {
+      "text": "Arin: I'm a sweet Italian boy.",
+      "start": 811.94,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 814.84,
+      "duration": 1.22
+    },
+    {
+      "text": "Dan: Oof, this is brutal. Arin: That sucks.",
+      "start": 816.06,
+      "duration": 2.5
+    },
+    {
+      "text": "Dan: Um. Arin: Heal, baby.",
+      "start": 819.56,
+      "duration": 1.68
+    },
+    {
+      "text": "Dan: Yeah, I guess so.",
+      "start": 822.02,
+      "duration": 1.56
+    },
+    {
+      "text": "Dan: Hiii! Arin: Are there any-? Dan: I'm about to get my ass kicked!",
+      "start": 824.3,
+      "duration": 3.7
+    },
+    {
+      "text": "Arin: Does what's-her-fuck have, uh-? Dan: Jesus, man!",
+      "start": 828.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Arin: Wow. Dan: This guy's cheap as fuck.",
+      "start": 831.0,
+      "duration": 2.14
+    },
+    {
+      "text": "Arin: Does what's-her-fuck have a quake attack?",
+      "start": 833.14,
+      "duration": 2.32
+    },
+    {
+      "text": "Doesn't she have an attack where she, like, smashes the ground?",
+      "start": 835.46,
+      "duration": 2.48
+    },
+    {
+      "text": "Dan: No, she flies through the air. She'd probably be better, though.",
+      "start": 837.94,
+      "duration": 3.52
+    },
+    {
+      "text": "But I don't have time 'cause I gotta- Ugh.",
+      "start": 841.46,
+      "duration": 2.66
+    },
+    {
+      "text": "I don't think I'm gonna survive very long. Arin: You can't attack him.",
+      "start": 844.12,
+      "duration": 3.74
+    },
+    {
+      "text": "Dan: I can only bring him down with the Quake Hammer. Arin: Oh, that's true.",
+      "start": 847.86,
+      "duration": 3.24
+    },
+    {
+      "text": "It does two damage, doesn't it?",
+      "start": 851.52,
+      "duration": 2.08
+    },
+    {
+      "text": "Dan: Ugh, I just gotta get him down from there.",
+      "start": 853.92,
+      "duration": 2.76
+    },
+    {
+      "text": "Arin: Yeah, or else he's gonna heal.",
+      "start": 856.88,
+      "duration": 1.8
+    },
+    {
+      "text": "Dan: Ughhh. Arin: Nice.",
+      "start": 859.96,
+      "duration": 1.76
+    },
+    {
+      "text": "Dan: Ooh, boy. Arin: That works.",
+      "start": 861.92,
+      "duration": 2.1
+    },
+    {
+      "text": "Dan: *guitar noises* Arin: You gotta do what you gotta do, man; this is some serious shit.",
+      "start": 864.42,
+      "duration": 4.5
+    },
+    {
+      "text": "If you lose this",
+      "start": 869.84,
+      "duration": 1.6
+    },
+    {
+      "text": "I will be upset",
+      "start": 871.72,
+      "duration": 1.44
+    },
+    {
+      "text": "Dan: Me, too. Arin: And you don't want to upset me.",
+      "start": 873.16,
+      "duration": 2.44
+    },
+    {
+      "text": "Because when I get upset",
+      "start": 876.96,
+      "duration": 2.04
+    },
+    {
+      "text": "Dan: I get horny. Arin: And when I get horny.",
+      "start": 879.0,
+      "duration": 2.52
+    },
+    {
+      "text": "Dan: Then I have sex with your mother. Oh, my God, he's big!",
+      "start": 881.52,
+      "duration": 3.0
+    },
+    {
+      "text": "Arin: What the fuck?",
+      "start": 884.52,
+      "duration": 1.3
+    },
+    {
+      "text": "Dan: No, stop! Oh, god, you cheap fuck!",
+      "start": 886.3,
+      "duration": 3.24
+    },
+    {
+      "text": "Arin: Wow, his attack power raises, but his defense is fucking the same. Dan: Yeah, it sure is.",
+      "start": 889.54,
+      "duration": 4.86
+    },
+    {
+      "text": "Arin: But you can't even hit him 'cause he's up there now.",
+      "start": 894.4,
+      "duration": 2.12
+    },
+    {
+      "text": "Dan: Yeah, this is brutal, dude. Arin: And you don't have any Sweet Treats.",
+      "start": 896.52,
+      "duration": 3.24
+    },
+    {
+      "text": "You can't use the hammer.",
+      "start": 900.86,
+      "duration": 1.84
+    },
+    {
+      "text": "'Cause you're out of \"fup.\"",
+      "start": 903.46,
+      "duration": 1.64
+    },
+    {
+      "text": "Dan: I- Yeah, I think I'm boned.",
+      "start": 905.1,
+      "duration": 1.76
+    },
+    {
+      "text": "Arin: That sucks. Dan: Uuuuum.",
+      "start": 906.88,
+      "duration": 2.4
+    },
+    {
+      "text": "Dan: Can't use the- Yeah, I can't even use the Quake Hammer. Arin: Oh, my God, dude, this is out of control.",
+      "start": 912.22,
+      "duration": 5.16
+    },
+    {
+      "text": "I don't think you can make it. I mean, I wanna believe in you no matter what, but, uhh...",
+      "start": 917.38,
+      "duration": 4.5
+    },
+    {
+      "text": "The facts are just running against you. Dan: Hii!",
+      "start": 921.88,
+      "duration": 3.3
+    },
+    {
+      "text": "Dan: Yayyyy. Arin: I mean, I don't even think-",
+      "start": 925.68,
+      "duration": 2.48
+    },
+    {
+      "text": "Dan: Here comes the DVVF DVVFF DVF DVF DV Arin: Oh, yeah, that's bullshit.",
+      "start": 928.16,
+      "duration": 4.1
+    },
+    {
+      "text": "What if- There's probably a way to, like, stagger him or something, though.",
+      "start": 932.62,
+      "duration": 4.1
+    },
+    {
+      "text": "Right? Dan: Not that I'm aware of. Arin: Uhhff.",
+      "start": 936.72,
+      "duration": 3.08
+    },
+    {
+      "text": "Yikes.",
+      "start": 940.48,
+      "duration": 1.3
+    },
+    {
+      "text": "Ooooooooh. Dan: Aw, that's it for me, baby. Arin: That's a dead Mario.",
+      "start": 942.72,
+      "duration": 4.0
+    },
+    {
+      "text": "Dan: Alright, I'm gonna need to, uh, buy some items and, uh",
+      "start": 946.72,
+      "duration": 4.64
+    },
+    {
+      "text": "and do a little preparing",
+      "start": 951.72,
+      "duration": 2.16
+    },
+    {
+      "text": "Rawk Hawk, you son of a bitch",
+      "start": 954.58,
+      "duration": 1.96
+    },
+    {
+      "text": "Arin: We've got ourselves a winner: Rawk Hawwwk!",
+      "start": 956.54,
+      "duration": 2.52
+    },
+    {
+      "text": "Dan: I never learned the word \"defeat.\" What's it mean?",
+      "start": 959.46,
+      "duration": 2.94
+    },
+    {
+      "text": "I don't know--probably not cheating. Arin: Ugh, what an asshole.",
+      "start": 963.12,
+      "duration": 3.1
+    },
+    {
+      "text": "Dan: Here's your fight money, Mr. Gonzales. Everybody saw you lose.",
+      "start": 966.22,
+      "duration": 4.18
+    },
+    {
+      "text": "Arin: If you think this is a mushroom head, you're wrong; it's my hairnet.",
+      "start": 970.88,
+      "duration": 3.16
+    },
+    {
+      "text": "Dan: Alright! We're gonna fucking, uh",
+      "start": 974.04,
+      "duration": 2.88
+    },
+    {
+      "text": "We're gonna regroup",
+      "start": 976.92,
+      "duration": 1.48
+    },
+    {
+      "text": "and, uh",
+      "start": 978.56,
+      "duration": 1.1
+    },
+    {
+      "text": "reload, more importantly. Arin: Yeah, get some Sweet Treats.",
+      "start": 980.08,
+      "duration": 4.44
+    },
+    {
+      "text": "Dan: Yeah, and, uh, we'll see you soon, everybody, Arin: Alright.",
+      "start": 984.8,
+      "duration": 3.24
+    },
+    {
+      "text": "See ya late-y, babies. Dan: Gonna whoop this bitch's ass.",
+      "start": 988.04,
+      "duration": 2.5
+    },
+    {
+      "text": "Arin: Baby ladies. Dan: I fucking hate him.",
+      "start": 990.54,
+      "duration": 2.06
+    },
+    {
+      "text": "What a douche.",
+      "start": 994.0,
+      "duration": 1.48
+    },
+    {
+      "text": "Arin: A diggity-diggity-douche",
+      "start": 995.96,
+      "duration": 1.9
+    },
+    {
+      "text": "Dan: Not a fan of the Rawk Hawk, Arin.",
+      "start": 997.86,
+      "duration": 1.64
+    },
+    {
+      "text": "Gotta be honest with you. Arin: You know, I can't imagine why.",
+      "start": 999.5,
+      "duration": 2.54
+    },
+    {
+      "text": "Dan: He's a fucking tool.",
+      "start": 1002.04,
+      "duration": 1.52
+    }
+  ]
+}

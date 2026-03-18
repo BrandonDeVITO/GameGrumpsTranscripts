@@ -1,0 +1,4768 @@
+{
+  "video_id": "Skop4WFElhE",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippets": [
+    {
+      "text": "hey i'm grump i'm not sue gruff and",
+      "start": 0.08,
+      "duration": 5.6
+    },
+    {
+      "text": "we're the game grumps",
+      "start": 3.28,
+      "duration": 3.68
+    },
+    {
+      "text": "hello everybody",
+      "start": 5.68,
+      "duration": 4.72
+    },
+    {
+      "text": "what in the world is this uh well what",
+      "start": 6.96,
+      "duration": 6.24
+    },
+    {
+      "text": "do you see in before your eyes well",
+      "start": 10.4,
+      "duration": 4.48
+    },
+    {
+      "text": "i don't know anything really about this",
+      "start": 13.2,
+      "duration": 3.68
+    },
+    {
+      "text": "but it certainly looks like",
+      "start": 14.88,
+      "duration": 5.12
+    },
+    {
+      "text": "uh a game grump skinned ace attorney",
+      "start": 16.88,
+      "duration": 5.52
+    },
+    {
+      "text": "uh penix right situation you would be",
+      "start": 20.0,
+      "duration": 4.08
+    },
+    {
+      "text": "correct dan that's amazing that's",
+      "start": 22.4,
+      "duration": 3.68
+    },
+    {
+      "text": "exactly what it is and uh",
+      "start": 24.08,
+      "duration": 5.359
+    },
+    {
+      "text": "not since uh grump's dream course has",
+      "start": 26.08,
+      "duration": 5.999
+    },
+    {
+      "text": "there been something that amazing",
+      "start": 29.439,
+      "duration": 5.601
+    },
+    {
+      "text": "um yes i mean this is very impressive i",
+      "start": 32.079,
+      "duration": 6.0
+    },
+    {
+      "text": "i haven't been exposed to",
+      "start": 35.04,
+      "duration": 5.12
+    },
+    {
+      "text": "basically any of it but i've seen",
+      "start": 38.079,
+      "duration": 5.041
+    },
+    {
+      "text": "some of the like visuals uh and it's",
+      "start": 40.16,
+      "duration": 5.04
+    },
+    {
+      "text": "it's pretty incredible um",
+      "start": 43.12,
+      "duration": 4.88
+    },
+    {
+      "text": "what uh what's been done with these uh",
+      "start": 45.2,
+      "duration": 4.72
+    },
+    {
+      "text": "so shout out to the creators of this",
+      "start": 48.0,
+      "duration": 4.239
+    },
+    {
+      "text": "game yeah much love thank you so much",
+      "start": 49.92,
+      "duration": 3.76
+    },
+    {
+      "text": "for doing this that's amazing and it's",
+      "start": 52.239,
+      "duration": 3.921
+    },
+    {
+      "text": "to celebrate the nine year",
+      "start": 53.68,
+      "duration": 4.96
+    },
+    {
+      "text": "anniversary of game grumps nine first",
+      "start": 56.16,
+      "duration": 5.84
+    },
+    {
+      "text": "upload yeah that is unbelievable and",
+      "start": 58.64,
+      "duration": 5.2
+    },
+    {
+      "text": "yeah i've been on the show for a little",
+      "start": 62.0,
+      "duration": 3.6
+    },
+    {
+      "text": "more than eight years and you've been",
+      "start": 63.84,
+      "duration": 5.44
+    },
+    {
+      "text": "doing this for nine years dude yeah nine",
+      "start": 65.6,
+      "duration": 8.4
+    },
+    {
+      "text": "what can i say i'm still not funny so",
+      "start": 69.28,
+      "duration": 7.199
+    },
+    {
+      "text": "it's been a flat curve they say 10 000",
+      "start": 74.0,
+      "duration": 4.0
+    },
+    {
+      "text": "hours but uh pretty sure there's more",
+      "start": 76.479,
+      "duration": 3.121
+    },
+    {
+      "text": "content on the game grumps channel than",
+      "start": 78.0,
+      "duration": 2.72
+    },
+    {
+      "text": "that",
+      "start": 79.6,
+      "duration": 2.4
+    },
+    {
+      "text": "so what the fuck happened there's been",
+      "start": 80.72,
+      "duration": 4.16
+    },
+    {
+      "text": "no growth um so we're gonna play this uh",
+      "start": 82.0,
+      "duration": 5.68
+    },
+    {
+      "text": "it's gonna be great um i i have to i i",
+      "start": 84.88,
+      "duration": 4.96
+    },
+    {
+      "text": "think i have to preface because this",
+      "start": 87.68,
+      "duration": 4.479
+    },
+    {
+      "text": "it's still a little bit in development",
+      "start": 89.84,
+      "duration": 4.8
+    },
+    {
+      "text": "um there's there's a bug that i think we",
+      "start": 92.159,
+      "duration": 4.801
+    },
+    {
+      "text": "might run into okay uh we might not but",
+      "start": 94.64,
+      "duration": 4.72
+    },
+    {
+      "text": "just to give everyone a heads up",
+      "start": 96.96,
+      "duration": 4.88
+    },
+    {
+      "text": "um there's a part in the game where",
+      "start": 99.36,
+      "duration": 4.16
+    },
+    {
+      "text": "it's very obvious i'm supposed to do",
+      "start": 101.84,
+      "duration": 2.959
+    },
+    {
+      "text": "something and then when we do it it",
+      "start": 103.52,
+      "duration": 2.4
+    },
+    {
+      "text": "doesn't work",
+      "start": 104.799,
+      "duration": 3.36
+    },
+    {
+      "text": "so but there's a there's a workaround",
+      "start": 105.92,
+      "duration": 3.92
+    },
+    {
+      "text": "and i'll explain it when we get there",
+      "start": 108.159,
+      "duration": 3.28
+    },
+    {
+      "text": "but anyway okay but you have not played",
+      "start": 109.84,
+      "duration": 3.599
+    },
+    {
+      "text": "this i have not okay i don't know the",
+      "start": 111.439,
+      "duration": 4.161
+    },
+    {
+      "text": "plot i know",
+      "start": 113.439,
+      "duration": 4.081
+    },
+    {
+      "text": "some characters that are in it",
+      "start": 115.6,
+      "duration": 2.96
+    },
+    {
+      "text": "um",
+      "start": 117.52,
+      "duration": 3.279
+    },
+    {
+      "text": "but yeah it's it's uh",
+      "start": 118.56,
+      "duration": 4.879
+    },
+    {
+      "text": "it is it is us right and it's a power",
+      "start": 120.799,
+      "duration": 4.721
+    },
+    {
+      "text": "hour related caper i can see that's the",
+      "start": 123.439,
+      "duration": 4.161
+    },
+    {
+      "text": "power hour room yeah i mean that's",
+      "start": 125.52,
+      "duration": 3.439
+    },
+    {
+      "text": "that's perfect they got inky in the",
+      "start": 127.6,
+      "duration": 3.2
+    },
+    {
+      "text": "background and everything",
+      "start": 128.959,
+      "duration": 4.481
+    },
+    {
+      "text": "oh a little inky sorry yeah he",
+      "start": 130.8,
+      "duration": 5.6
+    },
+    {
+      "text": "broke my femur just now so that's cool",
+      "start": 133.44,
+      "duration": 5.6
+    },
+    {
+      "text": "yeah so let's do this man i love it oh",
+      "start": 136.4,
+      "duration": 5.28
+    },
+    {
+      "text": "shit oh my god it's got that weird",
+      "start": 139.04,
+      "duration": 5.12
+    },
+    {
+      "text": "smiling poo with the heart and the winky",
+      "start": 141.68,
+      "duration": 4.72
+    },
+    {
+      "text": "face oh yeah that's part of the power i",
+      "start": 144.16,
+      "duration": 3.52
+    },
+    {
+      "text": "said oh the little sheep and everything",
+      "start": 146.4,
+      "duration": 3.52
+    },
+    {
+      "text": "yeah the the paper airplane that we did",
+      "start": 147.68,
+      "duration": 5.6
+    },
+    {
+      "text": "wow i see the roblox uh",
+      "start": 149.92,
+      "duration": 6.24
+    },
+    {
+      "text": "the robot back there",
+      "start": 153.28,
+      "duration": 4.959
+    },
+    {
+      "text": "do you remember all these treasures",
+      "start": 156.16,
+      "duration": 3.2
+    },
+    {
+      "text": "okay",
+      "start": 158.239,
+      "duration": 3.121
+    },
+    {
+      "text": "yeah that was roblox",
+      "start": 159.36,
+      "duration": 3.04
+    },
+    {
+      "text": "is that what is that not what it's",
+      "start": 161.36,
+      "duration": 4.159
+    },
+    {
+      "text": "called oh roblox is a video game",
+      "start": 162.4,
+      "duration": 6.559
+    },
+    {
+      "text": "okay i don't know where i am let's play",
+      "start": 165.519,
+      "duration": 6.161
+    },
+    {
+      "text": "i'm interested joint justice",
+      "start": 168.959,
+      "duration": 4.721
+    },
+    {
+      "text": "it's the kind of justice i used to",
+      "start": 171.68,
+      "duration": 4.16
+    },
+    {
+      "text": "execute in college",
+      "start": 173.68,
+      "duration": 4.4
+    },
+    {
+      "text": "uh oh man so this is i guess i'll do",
+      "start": 175.84,
+      "duration": 4.24
+    },
+    {
+      "text": "ross's voice",
+      "start": 178.08,
+      "duration": 4.72
+    },
+    {
+      "text": "after all",
+      "start": 180.08,
+      "duration": 2.72
+    },
+    {
+      "text": "after all the work i put into those",
+      "start": 183.12,
+      "duration": 5.2
+    },
+    {
+      "text": "levels it's not even in australia no",
+      "start": 185.92,
+      "duration": 3.52
+    },
+    {
+      "text": "[Music]",
+      "start": 188.32,
+      "duration": 2.48
+    },
+    {
+      "text": "after all the work i put into these",
+      "start": 189.44,
+      "duration": 3.28
+    },
+    {
+      "text": "level those levels what's the",
+      "start": 190.8,
+      "duration": 3.359
+    },
+    {
+      "text": "oh no",
+      "start": 192.72,
+      "duration": 3.439
+    },
+    {
+      "text": "what's the next button",
+      "start": 194.159,
+      "duration": 3.281
+    },
+    {
+      "text": "what's the next book i was told if i",
+      "start": 196.159,
+      "duration": 2.72
+    },
+    {
+      "text": "wanted to say",
+      "start": 197.44,
+      "duration": 5.36
+    },
+    {
+      "text": "no in australian i had to say n-a-r-u oh",
+      "start": 198.879,
+      "duration": 6.321
+    },
+    {
+      "text": "yeah no oh no",
+      "start": 202.8,
+      "duration": 3.84
+    },
+    {
+      "text": "naruto",
+      "start": 205.2,
+      "duration": 3.599
+    },
+    {
+      "text": "um shout out to the australian lovelies",
+      "start": 206.64,
+      "duration": 4.159
+    },
+    {
+      "text": "we'll see who the real good boy is now",
+      "start": 208.799,
+      "duration": 5.841
+    },
+    {
+      "text": "won't we jory jory's in this",
+      "start": 210.799,
+      "duration": 3.841
+    },
+    {
+      "text": "wow",
+      "start": 214.72,
+      "duration": 4.799
+    },
+    {
+      "text": "just as planned oh no the dinosaurs have",
+      "start": 216.799,
+      "duration": 5.52
+    },
+    {
+      "text": "been stolen yes and only a thin trail of",
+      "start": 219.519,
+      "duration": 4.72
+    },
+    {
+      "text": "uh i don't want to say",
+      "start": 222.319,
+      "duration": 3.761
+    },
+    {
+      "text": "soon i'll have all the coins boy that",
+      "start": 224.239,
+      "duration": 4.401
+    },
+    {
+      "text": "really looks like ross no they totally",
+      "start": 226.08,
+      "duration": 5.04
+    },
+    {
+      "text": "got his like devilish grin in there oh",
+      "start": 228.64,
+      "duration": 4.48
+    },
+    {
+      "text": "he's trying to get the good boy coins",
+      "start": 231.12,
+      "duration": 2.88
+    },
+    {
+      "text": "oh",
+      "start": 233.12,
+      "duration": 3.36
+    },
+    {
+      "text": "okay out of jory's backpack",
+      "start": 234.0,
+      "duration": 5.68
+    },
+    {
+      "text": "oh my god now this is a galaxy",
+      "start": 236.48,
+      "duration": 6.88
+    },
+    {
+      "text": "brain move right here i love this",
+      "start": 239.68,
+      "duration": 5.44
+    },
+    {
+      "text": "whoa",
+      "start": 243.36,
+      "duration": 4.079
+    },
+    {
+      "text": "oh man okay i guess i'm the pov",
+      "start": 245.12,
+      "duration": 3.28
+    },
+    {
+      "text": "character",
+      "start": 247.439,
+      "duration": 2.72
+    },
+    {
+      "text": "it started out just like every time",
+      "start": 248.4,
+      "duration": 3.6
+    },
+    {
+      "text": "after our live stream i was sure you",
+      "start": 250.159,
+      "duration": 4.881
+    },
+    {
+      "text": "were gonna do it started out every day",
+      "start": 252.0,
+      "duration": 5.84
+    },
+    {
+      "text": "we had just finished obsession",
+      "start": 255.04,
+      "duration": 6.319
+    },
+    {
+      "text": "yeah i'll just talk my normal voice okay",
+      "start": 257.84,
+      "duration": 5.919
+    },
+    {
+      "text": "we had just finished a session playing",
+      "start": 261.359,
+      "duration": 6.161
+    },
+    {
+      "text": "phoenix riot facial attorney",
+      "start": 263.759,
+      "duration": 5.521
+    },
+    {
+      "text": "awesome dan and i were discussing some",
+      "start": 267.52,
+      "duration": 4.56
+    },
+    {
+      "text": "very important matters",
+      "start": 269.28,
+      "duration": 5.68
+    },
+    {
+      "text": "hey holy shit so handsome i look 70s as",
+      "start": 272.08,
+      "duration": 4.64
+    },
+    {
+      "text": "hell i love it",
+      "start": 274.96,
+      "duration": 3.679
+    },
+    {
+      "text": "so that's when i said that's not",
+      "start": 276.72,
+      "duration": 3.6
+    },
+    {
+      "text": "mayonnaise",
+      "start": 278.639,
+      "duration": 3.681
+    },
+    {
+      "text": "and everyone immediately and violently",
+      "start": 280.32,
+      "duration": 3.439
+    },
+    {
+      "text": "threw up",
+      "start": 282.32,
+      "duration": 3.76
+    },
+    {
+      "text": "it was one hell of a graduation party",
+      "start": 283.759,
+      "duration": 5.201
+    },
+    {
+      "text": "dude look at my clavicle they really oh",
+      "start": 286.08,
+      "duration": 4.64
+    },
+    {
+      "text": "very defined you've been working out and",
+      "start": 288.96,
+      "duration": 3.36
+    },
+    {
+      "text": "my hair looks like",
+      "start": 290.72,
+      "duration": 4.72
+    },
+    {
+      "text": "freshly dropped pudding",
+      "start": 292.32,
+      "duration": 5.599
+    },
+    {
+      "text": "just cascading over my bald head there",
+      "start": 295.44,
+      "duration": 4.56
+    },
+    {
+      "text": "is something very like sack-like about",
+      "start": 297.919,
+      "duration": 5.201
+    },
+    {
+      "text": "your hair yeah i love it uh what are you",
+      "start": 300.0,
+      "duration": 5.36
+    },
+    {
+      "text": "talking about dan weren't you listening",
+      "start": 303.12,
+      "duration": 3.84
+    },
+    {
+      "text": "i was telling you a very important story",
+      "start": 305.36,
+      "duration": 3.6
+    },
+    {
+      "text": "about how i graduated from ninja party",
+      "start": 306.96,
+      "duration": 5.519
+    },
+    {
+      "text": "school ninja party school the infamous",
+      "start": 308.96,
+      "duration": 6.16
+    },
+    {
+      "text": "nps by the way can i tell you i was on",
+      "start": 312.479,
+      "duration": 4.56
+    },
+    {
+      "text": "the phone with uh",
+      "start": 315.12,
+      "duration": 3.76
+    },
+    {
+      "text": "like a business call today and the guy",
+      "start": 317.039,
+      "duration": 5.281
+    },
+    {
+      "text": "referred to my band as ninja sex turtles",
+      "start": 318.88,
+      "duration": 6.24
+    },
+    {
+      "text": "which i uh really i really appreciated",
+      "start": 322.32,
+      "duration": 5.04
+    },
+    {
+      "text": "it and what yeah he i mean he just",
+      "start": 325.12,
+      "duration": 4.079
+    },
+    {
+      "text": "he just had a brain cramp",
+      "start": 327.36,
+      "duration": 3.2
+    },
+    {
+      "text": "he was like oh",
+      "start": 329.199,
+      "duration": 3.201
+    },
+    {
+      "text": "ninja turtles right right because the",
+      "start": 330.56,
+      "duration": 4.24
+    },
+    {
+      "text": "word ninja in there it's like ninja sex",
+      "start": 332.4,
+      "duration": 4.48
+    },
+    {
+      "text": "turtles and it's like man so close i",
+      "start": 334.8,
+      "duration": 4.08
+    },
+    {
+      "text": "love it dude you're the one who asked me",
+      "start": 336.88,
+      "duration": 3.039
+    },
+    {
+      "text": "about it",
+      "start": 338.88,
+      "duration": 2.4
+    },
+    {
+      "text": "you said it had something to do with the",
+      "start": 339.919,
+      "duration": 3.601
+    },
+    {
+      "text": "10-minute power hour we were doing today",
+      "start": 341.28,
+      "duration": 4.32
+    },
+    {
+      "text": "oh yeah that's right i remember now",
+      "start": 343.52,
+      "duration": 3.6
+    },
+    {
+      "text": "do you know what we're doing for the",
+      "start": 345.6,
+      "duration": 3.28
+    },
+    {
+      "text": "power hour today",
+      "start": 347.12,
+      "duration": 4.799
+    },
+    {
+      "text": "no god damn it i'm asking you look at my",
+      "start": 348.88,
+      "duration": 4.48
+    },
+    {
+      "text": "fucking",
+      "start": 351.919,
+      "duration": 4.0
+    },
+    {
+      "text": "like they put in the eyebrow scar",
+      "start": 353.36,
+      "duration": 4.72
+    },
+    {
+      "text": "and my like",
+      "start": 355.919,
+      "duration": 4.801
+    },
+    {
+      "text": "just my thousand yard gaze",
+      "start": 358.08,
+      "duration": 4.16
+    },
+    {
+      "text": "i love this jacket where'd you get that",
+      "start": 360.72,
+      "duration": 2.96
+    },
+    {
+      "text": "jacket i don't know i feel like i'm",
+      "start": 362.24,
+      "duration": 3.84
+    },
+    {
+      "text": "looking right through me",
+      "start": 363.68,
+      "duration": 4.32
+    },
+    {
+      "text": "you you asked me about my graduation",
+      "start": 366.08,
+      "duration": 3.2
+    },
+    {
+      "text": "party and said it had something to do",
+      "start": 368.0,
+      "duration": 2.8
+    },
+    {
+      "text": "with today's episode",
+      "start": 369.28,
+      "duration": 4.4
+    },
+    {
+      "text": "no what the heck is going on here",
+      "start": 370.8,
+      "duration": 5.44
+    },
+    {
+      "text": "you okay dude your memory is worse than",
+      "start": 373.68,
+      "duration": 4.32
+    },
+    {
+      "text": "usual today",
+      "start": 376.24,
+      "duration": 4.239
+    },
+    {
+      "text": "i fucking adore this",
+      "start": 378.0,
+      "duration": 5.36
+    },
+    {
+      "text": "what the heck is going on here",
+      "start": 380.479,
+      "duration": 4.401
+    },
+    {
+      "text": "for anyone who doesn't recognize that's",
+      "start": 383.36,
+      "duration": 3.679
+    },
+    {
+      "text": "a panzer hunter reference",
+      "start": 384.88,
+      "duration": 3.12
+    },
+    {
+      "text": "oh",
+      "start": 387.039,
+      "duration": 3.921
+    },
+    {
+      "text": "my bad i guess i got distracted",
+      "start": 388.0,
+      "duration": 5.52
+    },
+    {
+      "text": "by what well i got the invoice for the",
+      "start": 390.96,
+      "duration": 4.64
+    },
+    {
+      "text": "bathrooms today the plumbers just",
+      "start": 393.52,
+      "duration": 3.679
+    },
+    {
+      "text": "finished fixing the toilets in the north",
+      "start": 395.6,
+      "duration": 2.879
+    },
+    {
+      "text": "end of the building and that got me",
+      "start": 397.199,
+      "duration": 2.401
+    },
+    {
+      "text": "thinking",
+      "start": 398.479,
+      "duration": 2.56
+    },
+    {
+      "text": "you mean you asked me to tell you all",
+      "start": 399.6,
+      "duration": 2.879
+    },
+    {
+      "text": "about one of the longest nights of my",
+      "start": 401.039,
+      "duration": 3.921
+    },
+    {
+      "text": "life just to get distracted by that well",
+      "start": 402.479,
+      "duration": 4.72
+    },
+    {
+      "text": "you know how much i like pooping i do",
+      "start": 404.96,
+      "duration": 4.639
+    },
+    {
+      "text": "like pooping yeah they this is really",
+      "start": 407.199,
+      "duration": 3.921
+    },
+    {
+      "text": "relevant to our interests yeah yeah you",
+      "start": 409.599,
+      "duration": 4.081
+    },
+    {
+      "text": "do like poop",
+      "start": 411.12,
+      "duration": 2.56
+    },
+    {
+      "text": "plumber invoice added to the court",
+      "start": 413.759,
+      "duration": 3.44
+    },
+    {
+      "text": "record oh oh boy",
+      "start": 415.199,
+      "duration": 3.84
+    },
+    {
+      "text": "so what are we doing for the power hour",
+      "start": 417.199,
+      "duration": 4.241
+    },
+    {
+      "text": "i don't know man oh well remember the",
+      "start": 419.039,
+      "duration": 4.16
+    },
+    {
+      "text": "dunking pool the second night of your",
+      "start": 421.44,
+      "duration": 3.36
+    },
+    {
+      "text": "graduation party",
+      "start": 423.199,
+      "duration": 3.201
+    },
+    {
+      "text": "you mean the whipped cream dunking",
+      "start": 424.8,
+      "duration": 4.08
+    },
+    {
+      "text": "machine i almost drowned in",
+      "start": 426.4,
+      "duration": 4.0
+    },
+    {
+      "text": "you don't mean",
+      "start": 428.88,
+      "duration": 3.2
+    },
+    {
+      "text": "yeah dude we're gonna give people a",
+      "start": 430.4,
+      "duration": 3.199
+    },
+    {
+      "text": "glimpse into what it means to be a ninja",
+      "start": 432.08,
+      "duration": 4.559
+    },
+    {
+      "text": "sex party dude tm you gotta be",
+      "start": 433.599,
+      "duration": 5.04
+    },
+    {
+      "text": "buttfucking me dude well that's what you",
+      "start": 436.639,
+      "duration": 4.0
+    },
+    {
+      "text": "say yeah really",
+      "start": 438.639,
+      "duration": 4.481
+    },
+    {
+      "text": "well if i gotta be doing it then",
+      "start": 440.639,
+      "duration": 4.241
+    },
+    {
+      "text": "this is no time for hilarious jokes",
+      "start": 443.12,
+      "duration": 4.24
+    },
+    {
+      "text": "aaron we have some tanks to set up",
+      "start": 444.88,
+      "duration": 4.4
+    },
+    {
+      "text": "hell yeah dude let me just grab the",
+      "start": 447.36,
+      "duration": 4.08
+    },
+    {
+      "text": "backup switch we borrowed so we can put",
+      "start": 449.28,
+      "duration": 3.84
+    },
+    {
+      "text": "it back where jory got it look at my",
+      "start": 451.44,
+      "duration": 2.879
+    },
+    {
+      "text": "little hands",
+      "start": 453.12,
+      "duration": 3.919
+    },
+    {
+      "text": "look at my pleased little hands yeah",
+      "start": 454.319,
+      "duration": 4.081
+    },
+    {
+      "text": "switch add a quarter to the record",
+      "start": 457.039,
+      "duration": 3.521
+    },
+    {
+      "text": "record is that",
+      "start": 458.4,
+      "duration": 4.4
+    },
+    {
+      "text": "is that ross's switch",
+      "start": 460.56,
+      "duration": 3.919
+    },
+    {
+      "text": "it might be who switches that oh no",
+      "start": 462.8,
+      "duration": 3.28
+    },
+    {
+      "text": "that's the office switch oh with the",
+      "start": 464.479,
+      "duration": 2.881
+    },
+    {
+      "text": "little sticker on the back yeah it's got",
+      "start": 466.08,
+      "duration": 4.16
+    },
+    {
+      "text": "the raw sticker on it oh man good job",
+      "start": 467.36,
+      "duration": 5.279
+    },
+    {
+      "text": "what the f how do they know that they",
+      "start": 470.24,
+      "duration": 3.44
+    },
+    {
+      "text": "must have been",
+      "start": 472.639,
+      "duration": 3.361
+    },
+    {
+      "text": "visual visible in a video",
+      "start": 473.68,
+      "duration": 4.639
+    },
+    {
+      "text": "good thinking let's get going then",
+      "start": 476.0,
+      "duration": 3.52
+    },
+    {
+      "text": "unless",
+      "start": 478.319,
+      "duration": 2.88
+    },
+    {
+      "text": "the game was made from inside the",
+      "start": 479.52,
+      "duration": 3.119
+    },
+    {
+      "text": "building",
+      "start": 481.199,
+      "duration": 3.201
+    },
+    {
+      "text": "actually guys we've got a problem that",
+      "start": 482.639,
+      "duration": 3.68
+    },
+    {
+      "text": "would actually be",
+      "start": 484.4,
+      "duration": 4.72
+    },
+    {
+      "text": "the most pathetic move we could do if we",
+      "start": 486.319,
+      "duration": 5.841
+    },
+    {
+      "text": "were found out like making our own game",
+      "start": 489.12,
+      "duration": 4.799
+    },
+    {
+      "text": "about ourselves and being like whoa",
+      "start": 492.16,
+      "duration": 4.64
+    },
+    {
+      "text": "looks like the fans made another game",
+      "start": 493.919,
+      "duration": 4.96
+    },
+    {
+      "text": "like no we didn't i swear we boy they",
+      "start": 496.8,
+      "duration": 4.399
+    },
+    {
+      "text": "really care a lot about us they must be",
+      "start": 498.879,
+      "duration": 5.281
+    },
+    {
+      "text": "very invested",
+      "start": 501.199,
+      "duration": 2.961
+    },
+    {
+      "text": "we're so loved",
+      "start": 504.4,
+      "duration": 4.16
+    },
+    {
+      "text": "huh jory",
+      "start": 506.4,
+      "duration": 5.28
+    },
+    {
+      "text": "and he's jarring oh my god they got his",
+      "start": 508.56,
+      "duration": 6.08
+    },
+    {
+      "text": "nervous worried look down like pat",
+      "start": 511.68,
+      "duration": 4.479
+    },
+    {
+      "text": "apparently the dinos were missing when",
+      "start": 514.64,
+      "duration": 3.92
+    },
+    {
+      "text": "we started to set up for the episode",
+      "start": 516.159,
+      "duration": 4.0
+    },
+    {
+      "text": "we've spent the last 10 minutes looking",
+      "start": 518.56,
+      "duration": 2.8
+    },
+    {
+      "text": "for them",
+      "start": 520.159,
+      "duration": 3.12
+    },
+    {
+      "text": "well that's not very long they can't",
+      "start": 521.36,
+      "duration": 3.52
+    },
+    {
+      "text": "have gone far",
+      "start": 523.279,
+      "duration": 4.481
+    },
+    {
+      "text": "that's the thing we already found them",
+      "start": 524.88,
+      "duration": 4.8
+    },
+    {
+      "text": "so then what's the problem",
+      "start": 527.76,
+      "duration": 3.84
+    },
+    {
+      "text": "the problem is apparently they were",
+      "start": 529.68,
+      "duration": 4.4
+    },
+    {
+      "text": "found in my backpack you son of a bitch",
+      "start": 531.6,
+      "duration": 4.88
+    },
+    {
+      "text": "jory what",
+      "start": 534.08,
+      "duration": 4.96
+    },
+    {
+      "text": "did you take them",
+      "start": 536.48,
+      "duration": 3.84
+    },
+    {
+      "text": "aaron",
+      "start": 539.04,
+      "duration": 3.84
+    },
+    {
+      "text": "what it's a legitimate question",
+      "start": 540.32,
+      "duration": 4.56
+    },
+    {
+      "text": "obviously he didn't do it look at his",
+      "start": 542.88,
+      "duration": 3.84
+    },
+    {
+      "text": "face is that the face of someone who's",
+      "start": 544.88,
+      "duration": 3.11
+    },
+    {
+      "text": "guilty",
+      "start": 546.72,
+      "duration": 3.52
+    },
+    {
+      "text": "[Laughter]",
+      "start": 547.99,
+      "duration": 4.969
+    },
+    {
+      "text": "jory is a little treasure i didn't do it",
+      "start": 550.24,
+      "duration": 3.92
+    },
+    {
+      "text": "yes",
+      "start": 552.959,
+      "duration": 2.0
+    },
+    {
+      "text": "no",
+      "start": 554.16,
+      "duration": 2.08
+    },
+    {
+      "text": "why would he come to us then if he's",
+      "start": 554.959,
+      "duration": 4.161
+    },
+    {
+      "text": "guilty tell us what happened jory",
+      "start": 556.24,
+      "duration": 4.32
+    },
+    {
+      "text": "i wish i could but everyone wants to",
+      "start": 559.12,
+      "duration": 2.96
+    },
+    {
+      "text": "hold a trial for this and it's starting",
+      "start": 560.56,
+      "duration": 3.52
+    },
+    {
+      "text": "to oh they made him he's like a child",
+      "start": 562.08,
+      "duration": 4.0
+    },
+    {
+      "text": "dude jory's pretty solid i love it it's",
+      "start": 564.08,
+      "duration": 3.199
+    },
+    {
+      "text": "really funny",
+      "start": 566.08,
+      "duration": 3.84
+    },
+    {
+      "text": "it's starting in just a few minutes",
+      "start": 567.279,
+      "duration": 4.24
+    },
+    {
+      "text": "everyone is calling for my good boy",
+      "start": 569.92,
+      "duration": 3.44
+    },
+    {
+      "text": "coins to be revoked even after all the",
+      "start": 571.519,
+      "duration": 4.641
+    },
+    {
+      "text": "work i put into getting them man and",
+      "start": 573.36,
+      "duration": 5.12
+    },
+    {
+      "text": "i've got nobody in my corner",
+      "start": 576.16,
+      "duration": 4.239
+    },
+    {
+      "text": "that sucks dude",
+      "start": 578.48,
+      "duration": 3.919
+    },
+    {
+      "text": "aaron don't you get it",
+      "start": 580.399,
+      "duration": 3.041
+    },
+    {
+      "text": "get what",
+      "start": 582.399,
+      "duration": 3.44
+    },
+    {
+      "text": "he wants us to defend him in this trial",
+      "start": 583.44,
+      "duration": 4.16
+    },
+    {
+      "text": "right jory",
+      "start": 585.839,
+      "duration": 4.481
+    },
+    {
+      "text": "what",
+      "start": 587.6,
+      "duration": 4.239
+    },
+    {
+      "text": "well i guess so",
+      "start": 590.32,
+      "duration": 3.04
+    },
+    {
+      "text": "i didn't really know what to do and you",
+      "start": 591.839,
+      "duration": 3.12
+    },
+    {
+      "text": "guys know i'd never do anything like",
+      "start": 593.36,
+      "duration": 4.0
+    },
+    {
+      "text": "that that's right jory i'm not really",
+      "start": 594.959,
+      "duration": 4.88
+    },
+    {
+      "text": "sure about all this",
+      "start": 597.36,
+      "duration": 3.919
+    },
+    {
+      "text": "aaron",
+      "start": 599.839,
+      "duration": 3.521
+    },
+    {
+      "text": "come on bro be a bro and bro this one",
+      "start": 601.279,
+      "duration": 5.361
+    },
+    {
+      "text": "out for our bro rory",
+      "start": 603.36,
+      "duration": 4.8
+    },
+    {
+      "text": "i'm sorry jory but we don't know",
+      "start": 606.64,
+      "duration": 2.96
+    },
+    {
+      "text": "anything about your criminal def about",
+      "start": 608.16,
+      "duration": 3.28
+    },
+    {
+      "text": "criminal defense we're just idiots who",
+      "start": 609.6,
+      "duration": 3.2
+    },
+    {
+      "text": "play games while saying stupid things",
+      "start": 611.44,
+      "duration": 4.32
+    },
+    {
+      "text": "for money on the internet all right wow",
+      "start": 612.8,
+      "duration": 5.12
+    },
+    {
+      "text": "fucking the arrow hit a little too close",
+      "start": 615.76,
+      "duration": 4.079
+    },
+    {
+      "text": "to the bullseye target on that one how",
+      "start": 617.92,
+      "duration": 4.0
+    },
+    {
+      "text": "are we supposed to help",
+      "start": 619.839,
+      "duration": 4.0
+    },
+    {
+      "text": "yeah i don't know i didn't really have a",
+      "start": 621.92,
+      "duration": 3.919
+    },
+    {
+      "text": "plan or anything the whole thing is just",
+      "start": 623.839,
+      "duration": 3.361
+    },
+    {
+      "text": "throwing me for a loop and i'm kind of",
+      "start": 625.839,
+      "duration": 2.961
+    },
+    {
+      "text": "grasping here",
+      "start": 627.2,
+      "duration": 3.52
+    },
+    {
+      "text": "sorry dude but aaron's right we'd",
+      "start": 628.8,
+      "duration": 3.92
+    },
+    {
+      "text": "probably just screw it up we're not",
+      "start": 630.72,
+      "duration": 4.0
+    },
+    {
+      "text": "lawyers the closest thing we've been to",
+      "start": 632.72,
+      "duration": 3.6
+    },
+    {
+      "text": "being lawyers is playing that penis",
+      "start": 634.72,
+      "duration": 3.2
+    },
+    {
+      "text": "right tm game",
+      "start": 636.32,
+      "duration": 2.88
+    },
+    {
+      "text": "and that's just a stupid game that",
+      "start": 637.92,
+      "duration": 2.8
+    },
+    {
+      "text": "totally exists and isn't changed for",
+      "start": 639.2,
+      "duration": 3.12
+    },
+    {
+      "text": "copyright purposes",
+      "start": 640.72,
+      "duration": 4.4
+    },
+    {
+      "text": "sorry jory but if we were real lawyers",
+      "start": 642.32,
+      "duration": 4.8
+    },
+    {
+      "text": "we would help out",
+      "start": 645.12,
+      "duration": 4.159
+    },
+    {
+      "text": "yeah i understand guys penick's right",
+      "start": 647.12,
+      "duration": 4.0
+    },
+    {
+      "text": "was real that's where i learned that a",
+      "start": 649.279,
+      "duration": 3.441
+    },
+    {
+      "text": "large quantity of milk was scattered in",
+      "start": 651.12,
+      "duration": 4.399
+    },
+    {
+      "text": "spite of the third",
+      "start": 652.72,
+      "duration": 2.799
+    },
+    {
+      "text": "hey someone just slipped a letter under",
+      "start": 656.64,
+      "duration": 4.24
+    },
+    {
+      "text": "the under the door a letter who's it",
+      "start": 658.399,
+      "duration": 4.801
+    },
+    {
+      "text": "from c it's from",
+      "start": 660.88,
+      "duration": 6.0
+    },
+    {
+      "text": "my dad oh his dad from jory senior why",
+      "start": 663.2,
+      "duration": 5.44
+    },
+    {
+      "text": "doesn't he just text",
+      "start": 666.88,
+      "duration": 4.56
+    },
+    {
+      "text": "open it up what does it say",
+      "start": 668.64,
+      "duration": 4.4
+    },
+    {
+      "text": "uh it's from my dad all right but it's",
+      "start": 671.44,
+      "duration": 3.44
+    },
+    {
+      "text": "addressed to you two",
+      "start": 673.04,
+      "duration": 3.2
+    },
+    {
+      "text": "us like",
+      "start": 674.88,
+      "duration": 3.68
+    },
+    {
+      "text": "dan and i this is really taking me back",
+      "start": 676.24,
+      "duration": 3.839
+    },
+    {
+      "text": "i thought we made that bit up for our",
+      "start": 678.56,
+      "duration": 3.44
+    },
+    {
+      "text": "episodes well judging from the",
+      "start": 680.079,
+      "duration": 3.361
+    },
+    {
+      "text": "handwriting the little hearts dotting",
+      "start": 682.0,
+      "duration": 5.04
+    },
+    {
+      "text": "the eyes it's definitely from my dad",
+      "start": 683.44,
+      "duration": 5.44
+    },
+    {
+      "text": "well let me see that",
+      "start": 687.04,
+      "duration": 3.359
+    },
+    {
+      "text": "wow he's right we should hold on to this",
+      "start": 688.88,
+      "duration": 3.84
+    },
+    {
+      "text": "i think it might be important later",
+      "start": 690.399,
+      "duration": 3.601
+    },
+    {
+      "text": "jory senior's letter has been added to",
+      "start": 692.72,
+      "duration": 3.359
+    },
+    {
+      "text": "the courtroom oh important later i",
+      "start": 694.0,
+      "duration": 2.959
+    },
+    {
+      "text": "thought you said i thought you were",
+      "start": 696.079,
+      "duration": 2.801
+    },
+    {
+      "text": "saying letter but in a weird way like it",
+      "start": 696.959,
+      "duration": 5.201
+    },
+    {
+      "text": "could be important led or",
+      "start": 698.88,
+      "duration": 6.24
+    },
+    {
+      "text": "so what does it say",
+      "start": 702.16,
+      "duration": 5.84
+    },
+    {
+      "text": "hello grumps first of all hello grumps",
+      "start": 705.12,
+      "duration": 4.8
+    },
+    {
+      "text": "first of all i want to thank you all for",
+      "start": 708.0,
+      "duration": 3.2
+    },
+    {
+      "text": "the",
+      "start": 709.92,
+      "duration": 2.96
+    },
+    {
+      "text": "hard work you've done taking care of",
+      "start": 711.2,
+      "duration": 3.439
+    },
+    {
+      "text": "dory jr",
+      "start": 712.88,
+      "duration": 3.84
+    },
+    {
+      "text": "you got to be kidding me i heard what",
+      "start": 714.639,
+      "duration": 4.481
+    },
+    {
+      "text": "happened to my son with the dinosaurs",
+      "start": 716.72,
+      "duration": 4.559
+    },
+    {
+      "text": "what how didn't this happen like 10",
+      "start": 719.12,
+      "duration": 3.519
+    },
+    {
+      "text": "minutes ago",
+      "start": 721.279,
+      "duration": 3.521
+    },
+    {
+      "text": "10-minute power",
+      "start": 722.639,
+      "duration": 4.081
+    },
+    {
+      "text": "don't think about it too hard dad any uh",
+      "start": 724.8,
+      "duration": 3.68
+    },
+    {
+      "text": "don't think about too hard dan anyways",
+      "start": 726.72,
+      "duration": 3.84
+    },
+    {
+      "text": "well i know it looks bad i know my son",
+      "start": 728.48,
+      "duration": 4.88
+    },
+    {
+      "text": "is a good boy who only does good things",
+      "start": 730.56,
+      "duration": 5.36
+    },
+    {
+      "text": "i know you know that too so please",
+      "start": 733.36,
+      "duration": 4.64
+    },
+    {
+      "text": "defend him in court",
+      "start": 735.92,
+      "duration": 4.479
+    },
+    {
+      "text": "show the world he is innocent of such a",
+      "start": 738.0,
+      "duration": 5.2
+    },
+    {
+      "text": "heinous and despicable crime and find",
+      "start": 740.399,
+      "duration": 5.921
+    },
+    {
+      "text": "out who the real culprit is ps remember",
+      "start": 743.2,
+      "duration": 4.4
+    },
+    {
+      "text": "the second most important thing to",
+      "start": 746.32,
+      "duration": 4.48
+    },
+    {
+      "text": "winning a case is love and trust sorry i",
+      "start": 747.6,
+      "duration": 5.039
+    },
+    {
+      "text": "just knocked my microphone over yeah you",
+      "start": 750.8,
+      "duration": 4.159
+    },
+    {
+      "text": "got that stand like perfectly on the",
+      "start": 752.639,
+      "duration": 4.721
+    },
+    {
+      "text": "yeah you just rotate the stand bottom a",
+      "start": 754.959,
+      "duration": 4.961
+    },
+    {
+      "text": "little bit it'll not fall oh that's way",
+      "start": 757.36,
+      "duration": 5.36
+    },
+    {
+      "text": "smarter yeah",
+      "start": 759.92,
+      "duration": 2.8
+    },
+    {
+      "text": "there you go maybe if there wasn't an",
+      "start": 762.8,
+      "duration": 5.44
+    },
+    {
+      "text": "800 pound sonic the hedgehog play doll",
+      "start": 764.399,
+      "duration": 5.601
+    },
+    {
+      "text": "100 pounds",
+      "start": 768.24,
+      "duration": 5.36
+    },
+    {
+      "text": "it's been working out right yeah",
+      "start": 770.0,
+      "duration": 6.32
+    },
+    {
+      "text": "anyway i'm 1200 pounds which is why i",
+      "start": 773.6,
+      "duration": 4.56
+    },
+    {
+      "text": "can lift it with such ease",
+      "start": 776.32,
+      "duration": 4.4
+    },
+    {
+      "text": "wow that was beautiful and the most",
+      "start": 778.16,
+      "duration": 4.479
+    },
+    {
+      "text": "important thing is payment",
+      "start": 780.72,
+      "duration": 4.64
+    },
+    {
+      "text": "i have something for you if you win",
+      "start": 782.639,
+      "duration": 5.44
+    },
+    {
+      "text": "wow that was beautiful",
+      "start": 785.36,
+      "duration": 4.4
+    },
+    {
+      "text": "wait there's one more thing",
+      "start": 788.079,
+      "duration": 4.241
+    },
+    {
+      "text": "pps i hope you two have been continuing",
+      "start": 789.76,
+      "duration": 4.639
+    },
+    {
+      "text": "to provide my boy with wholesome food as",
+      "start": 792.32,
+      "duration": 3.12
+    },
+    {
+      "text": "well",
+      "start": 794.399,
+      "duration": 2.641
+    },
+    {
+      "text": "and i hope you've been avoiding giving",
+      "start": 795.44,
+      "duration": 4.72
+    },
+    {
+      "text": "him milk as he's deathly allergic to it",
+      "start": 797.04,
+      "duration": 5.68
+    },
+    {
+      "text": "have we given jewelry milk before",
+      "start": 800.16,
+      "duration": 4.08
+    },
+    {
+      "text": "i don't think so i know we stuffed a lot",
+      "start": 802.72,
+      "duration": 4.0
+    },
+    {
+      "text": "of doritos into his mouth maybe or sun",
+      "start": 804.24,
+      "duration": 4.32
+    },
+    {
+      "text": "chips pringles",
+      "start": 806.72,
+      "duration": 3.76
+    },
+    {
+      "text": "well that was oddly specific",
+      "start": 808.56,
+      "duration": 4.719
+    },
+    {
+      "text": "p-p-p-s wow a triple post script don't",
+      "start": 810.48,
+      "duration": 4.479
+    },
+    {
+      "text": "tell jory this but i hope he can be on",
+      "start": 813.279,
+      "duration": 3.521
+    },
+    {
+      "text": "your show again soon i hope we can be on",
+      "start": 814.959,
+      "duration": 3.361
+    },
+    {
+      "text": "our show again soon",
+      "start": 816.8,
+      "duration": 3.039
+    },
+    {
+      "text": "huh",
+      "start": 818.32,
+      "duration": 4.319
+    },
+    {
+      "text": "that's a lot of pig",
+      "start": 819.839,
+      "duration": 2.8
+    },
+    {
+      "text": "he's so nervous",
+      "start": 823.519,
+      "duration": 2.481
+    },
+    {
+      "text": "um",
+      "start": 825.04,
+      "duration": 2.32
+    },
+    {
+      "text": "so",
+      "start": 826.0,
+      "duration": 2.72
+    },
+    {
+      "text": "jory don't worry",
+      "start": 827.36,
+      "duration": 4.159
+    },
+    {
+      "text": "jory don't worry jory don't worry we're",
+      "start": 828.72,
+      "duration": 4.799
+    },
+    {
+      "text": "on it buddy because we trust you we'll",
+      "start": 831.519,
+      "duration": 3.921
+    },
+    {
+      "text": "be in your corner we got you no matter",
+      "start": 833.519,
+      "duration": 2.801
+    },
+    {
+      "text": "what",
+      "start": 835.44,
+      "duration": 3.519
+    },
+    {
+      "text": "oh uh okay",
+      "start": 836.32,
+      "duration": 5.36
+    },
+    {
+      "text": "really aaron yep i have no doubt we'll",
+      "start": 838.959,
+      "duration": 5.601
+    },
+    {
+      "text": "clear your name good name jory",
+      "start": 841.68,
+      "duration": 5.2
+    },
+    {
+      "text": "wow thanks guys i guess i'll head to the",
+      "start": 844.56,
+      "duration": 3.2
+    },
+    {
+      "text": "uh",
+      "start": 846.88,
+      "duration": 3.04
+    },
+    {
+      "text": "courtroom then",
+      "start": 847.76,
+      "duration": 3.6
+    },
+    {
+      "text": "they turn the powerhour room into a",
+      "start": 849.92,
+      "duration": 3.44
+    },
+    {
+      "text": "makeshift courtroom just for this",
+      "start": 851.36,
+      "duration": 3.76
+    },
+    {
+      "text": "so uh see you there you know what's",
+      "start": 853.36,
+      "duration": 4.0
+    },
+    {
+      "text": "interesting they've got the",
+      "start": 855.12,
+      "duration": 4.719
+    },
+    {
+      "text": "power hour room from the new",
+      "start": 857.36,
+      "duration": 4.96
+    },
+    {
+      "text": "uh building and our grumps room from the",
+      "start": 859.839,
+      "duration": 4.161
+    },
+    {
+      "text": "old building",
+      "start": 862.32,
+      "duration": 3.68
+    },
+    {
+      "text": "the power room was the old one it had",
+      "start": 864.0,
+      "duration": 4.24
+    },
+    {
+      "text": "the two um oh i guess yeah i guess it",
+      "start": 866.0,
+      "duration": 3.76
+    },
+    {
+      "text": "just looks the same because we",
+      "start": 868.24,
+      "duration": 3.76
+    },
+    {
+      "text": "specifically rebuilt it to look like",
+      "start": 869.76,
+      "duration": 3.68
+    },
+    {
+      "text": "it did before maybe you're right maybe",
+      "start": 872.0,
+      "duration": 2.959
+    },
+    {
+      "text": "we didn't did we not put the shelves",
+      "start": 873.44,
+      "duration": 3.36
+    },
+    {
+      "text": "against the lighting in the center i",
+      "start": 874.959,
+      "duration": 3.921
+    },
+    {
+      "text": "can't the like weird display",
+      "start": 876.8,
+      "duration": 5.36
+    },
+    {
+      "text": "it's been too long for me i guess yeah",
+      "start": 878.88,
+      "duration": 5.04
+    },
+    {
+      "text": "wow i didn't expect you to change your",
+      "start": 882.16,
+      "duration": 3.44
+    },
+    {
+      "text": "mind so quickly like that",
+      "start": 883.92,
+      "duration": 3.039
+    },
+    {
+      "text": "i guess what jory senior said about",
+      "start": 885.6,
+      "duration": 3.84
+    },
+    {
+      "text": "trust and love made a difference huh",
+      "start": 886.959,
+      "duration": 4.161
+    },
+    {
+      "text": "yeah trust in love and whatever what do",
+      "start": 889.44,
+      "duration": 3.199
+    },
+    {
+      "text": "you think jory senior is gonna give us",
+      "start": 891.12,
+      "duration": 3.12
+    },
+    {
+      "text": "when we win",
+      "start": 892.639,
+      "duration": 2.88
+    },
+    {
+      "text": "aaron",
+      "start": 894.24,
+      "duration": 3.68
+    },
+    {
+      "text": "what we're helping him aren't we that's",
+      "start": 895.519,
+      "duration": 4.241
+    },
+    {
+      "text": "the whole point right",
+      "start": 897.92,
+      "duration": 3.12
+    },
+    {
+      "text": "you are just",
+      "start": 899.76,
+      "duration": 3.519
+    },
+    {
+      "text": "un",
+      "start": 901.04,
+      "duration": 4.0
+    },
+    {
+      "text": "i'm unbelievable",
+      "start": 903.279,
+      "duration": 4.24
+    },
+    {
+      "text": "okay okay no need to yell let's just get",
+      "start": 905.04,
+      "duration": 4.239
+    },
+    {
+      "text": "ready i kind of want to look sharp for",
+      "start": 907.519,
+      "duration": 3.841
+    },
+    {
+      "text": "this and i just got a new suit that i",
+      "start": 909.279,
+      "duration": 3.761
+    },
+    {
+      "text": "think will be perfect you're gonna love",
+      "start": 911.36,
+      "duration": 3.279
+    },
+    {
+      "text": "it whoever made this game really has our",
+      "start": 913.04,
+      "duration": 3.599
+    },
+    {
+      "text": "speech patterns down it feels very",
+      "start": 914.639,
+      "duration": 3.44
+    },
+    {
+      "text": "natural reading",
+      "start": 916.639,
+      "duration": 2.64
+    },
+    {
+      "text": "yeah",
+      "start": 918.079,
+      "duration": 2.401
+    },
+    {
+      "text": "agreed",
+      "start": 919.279,
+      "duration": 3.841
+    },
+    {
+      "text": "some undisclosed date 3 30 p.m 10 minute",
+      "start": 920.48,
+      "duration": 4.32
+    },
+    {
+      "text": "power hour courthouse",
+      "start": 923.12,
+      "duration": 4.56
+    },
+    {
+      "text": "oh my god",
+      "start": 924.8,
+      "duration": 4.399
+    },
+    {
+      "text": "it's brent",
+      "start": 927.68,
+      "duration": 4.8
+    },
+    {
+      "text": "oh my god i love it",
+      "start": 929.199,
+      "duration": 5.041
+    },
+    {
+      "text": "that is great i love that he's kind of",
+      "start": 932.48,
+      "duration": 4.88
+    },
+    {
+      "text": "looking up just like the judge does yeah",
+      "start": 934.24,
+      "duration": 5.36
+    },
+    {
+      "text": "you want to be brent yeah sure hey uh",
+      "start": 937.36,
+      "duration": 4.56
+    },
+    {
+      "text": "court is uh now in session for the trial",
+      "start": 939.6,
+      "duration": 5.28
+    },
+    {
+      "text": "of jory griffiths the defensive oh wow",
+      "start": 941.92,
+      "duration": 5.839
+    },
+    {
+      "text": "they made me very handsome yeah",
+      "start": 944.88,
+      "duration": 5.44
+    },
+    {
+      "text": "oh yeah we haven't seen you yet yeah",
+      "start": 947.759,
+      "duration": 4.961
+    },
+    {
+      "text": "the defense is ready you're",
+      "start": 950.32,
+      "duration": 5.199
+    },
+    {
+      "text": "oh wait brent you're the judge here",
+      "start": 952.72,
+      "duration": 5.119
+    },
+    {
+      "text": "yes being manager of game grumps is just",
+      "start": 955.519,
+      "duration": 4.0
+    },
+    {
+      "text": "my side hustle",
+      "start": 957.839,
+      "duration": 3.521
+    },
+    {
+      "text": "my main job is presiding as judge over",
+      "start": 959.519,
+      "duration": 4.161
+    },
+    {
+      "text": "the attitude city courthouse",
+      "start": 961.36,
+      "duration": 4.479
+    },
+    {
+      "text": "after all what is a judge if not a",
+      "start": 963.68,
+      "duration": 3.92
+    },
+    {
+      "text": "manager of the law",
+      "start": 965.839,
+      "duration": 2.56
+    },
+    {
+      "text": "whoa",
+      "start": 967.6,
+      "duration": 2.479
+    },
+    {
+      "text": "let me turn this around on you",
+      "start": 968.399,
+      "duration": 3.761
+    },
+    {
+      "text": "so i will preside over this case for you",
+      "start": 970.079,
+      "duration": 4.241
+    },
+    {
+      "text": "all today",
+      "start": 972.16,
+      "duration": 3.44
+    },
+    {
+      "text": "well",
+      "start": 974.32,
+      "duration": 3.68
+    },
+    {
+      "text": "should i do the edgeworth voice now that",
+      "start": 975.6,
+      "duration": 3.12
+    },
+    {
+      "text": "i'm",
+      "start": 978.0,
+      "duration": 2.88
+    },
+    {
+      "text": "oh now that you're like the prosecutor",
+      "start": 978.72,
+      "duration": 3.039
+    },
+    {
+      "text": "yeah",
+      "start": 980.88,
+      "duration": 3.28
+    },
+    {
+      "text": "well i suppose that's fine i mean brent",
+      "start": 981.759,
+      "duration": 4.721
+    },
+    {
+      "text": "is pretty fair in general",
+      "start": 984.16,
+      "duration": 4.96
+    },
+    {
+      "text": "ahem the prosecution is also ready your",
+      "start": 986.48,
+      "duration": 3.52
+    },
+    {
+      "text": "honor",
+      "start": 989.12,
+      "duration": 3.12
+    },
+    {
+      "text": "oh right i have a guest prosecutor to",
+      "start": 990.0,
+      "duration": 4.16
+    },
+    {
+      "text": "help this go over smoothly",
+      "start": 992.24,
+      "duration": 3.279
+    },
+    {
+      "text": "he just happened to be visiting this",
+      "start": 994.16,
+      "duration": 2.72
+    },
+    {
+      "text": "week",
+      "start": 995.519,
+      "duration": 4.161
+    },
+    {
+      "text": "mr hanson and mr avidan so we meet at",
+      "start": 996.88,
+      "duration": 5.519
+    },
+    {
+      "text": "last who exactly is this he seems",
+      "start": 999.68,
+      "duration": 4.32
+    },
+    {
+      "text": "familiar but i can't put my finger on",
+      "start": 1002.399,
+      "duration": 2.88
+    },
+    {
+      "text": "how",
+      "start": 1004.0,
+      "duration": 4.959
+    },
+    {
+      "text": "wait doesn't he kind of look like",
+      "start": 1005.279,
+      "duration": 5.761
+    },
+    {
+      "text": "trivia boy oh",
+      "start": 1008.959,
+      "duration": 3.841
+    },
+    {
+      "text": "trivia boy",
+      "start": 1011.04,
+      "duration": 3.44
+    },
+    {
+      "text": "wrong",
+      "start": 1012.8,
+      "duration": 4.0
+    },
+    {
+      "text": "i am the tutorial boy trivia boy is my",
+      "start": 1014.48,
+      "duration": 3.68
+    },
+    {
+      "text": "brother",
+      "start": 1016.8,
+      "duration": 2.8
+    },
+    {
+      "text": "and after what you did to him in his",
+      "start": 1018.16,
+      "duration": 3.84
+    },
+    {
+      "text": "reputation for trivia i will bring you",
+      "start": 1019.6,
+      "duration": 4.959
+    },
+    {
+      "text": "all to justice grumps oh my god i love",
+      "start": 1022.0,
+      "duration": 4.64
+    },
+    {
+      "text": "that his post-it note changes to reflect",
+      "start": 1024.559,
+      "duration": 4.64
+    },
+    {
+      "text": "his feelings but first i will regale you",
+      "start": 1026.64,
+      "duration": 5.76
+    },
+    {
+      "text": "a tale about my tragic past one gruesome",
+      "start": 1029.199,
+      "duration": 6.64
+    },
+    {
+      "text": "night at 1987. i'm just now",
+      "start": 1032.4,
+      "duration": 5.279
+    },
+    {
+      "text": "realizing what we did to poor",
+      "start": 1035.839,
+      "duration": 4.881
+    },
+    {
+      "text": "jacksepticeye yes by wrapping him in",
+      "start": 1037.679,
+      "duration": 5.52
+    },
+    {
+      "text": "duct tape yes putting a bag on his head",
+      "start": 1040.72,
+      "duration": 6.0
+    },
+    {
+      "text": "it was insane it was totally nuts",
+      "start": 1043.199,
+      "duration": 5.201
+    },
+    {
+      "text": "and it's not like we cut eyeholes out",
+      "start": 1046.72,
+      "duration": 3.6
+    },
+    {
+      "text": "for him we just glued googly eyes on the",
+      "start": 1048.4,
+      "duration": 3.92
+    },
+    {
+      "text": "bag",
+      "start": 1050.32,
+      "duration": 4.4
+    },
+    {
+      "text": "he's a good sport one gruesome night in",
+      "start": 1052.32,
+      "duration": 4.479
+    },
+    {
+      "text": "1984. mike",
+      "start": 1054.72,
+      "duration": 4.079
+    },
+    {
+      "text": "yep uh-huh got it tragic backstory",
+      "start": 1056.799,
+      "duration": 3.681
+    },
+    {
+      "text": "tutorial blah blah blah can we get this",
+      "start": 1058.799,
+      "duration": 2.961
+    },
+    {
+      "text": "show on the road i don't think he was",
+      "start": 1060.48,
+      "duration": 4.24
+    },
+    {
+      "text": "born in 1984.",
+      "start": 1061.76,
+      "duration": 5.44
+    },
+    {
+      "text": "don't you dare skip me i'm the man if",
+      "start": 1064.72,
+      "duration": 4.48
+    },
+    {
+      "text": "the artist drew me on",
+      "start": 1067.2,
+      "duration": 3.44
+    },
+    {
+      "text": "if the artist drew me yawning that's",
+      "start": 1069.2,
+      "duration": 3.359
+    },
+    {
+      "text": "what you'd be seeing right now",
+      "start": 1070.64,
+      "duration": 5.039
+    },
+    {
+      "text": "when the heck is this trial gonna start",
+      "start": 1072.559,
+      "duration": 5.841
+    },
+    {
+      "text": "whoa hey it'll begin now",
+      "start": 1075.679,
+      "duration": 4.321
+    },
+    {
+      "text": "the prosecution will now give their",
+      "start": 1078.4,
+      "duration": 3.12
+    },
+    {
+      "text": "opening statements",
+      "start": 1080.0,
+      "duration": 3.2
+    },
+    {
+      "text": "of course your honor",
+      "start": 1081.52,
+      "duration": 3.519
+    },
+    {
+      "text": "this is easily the stupidest thing i've",
+      "start": 1083.2,
+      "duration": 3.359
+    },
+    {
+      "text": "ever done",
+      "start": 1085.039,
+      "duration": 4.88
+    },
+    {
+      "text": "at about 12 p.m the game grumps and crew",
+      "start": 1086.559,
+      "duration": 5.761
+    },
+    {
+      "text": "were partaking in a live stream",
+      "start": 1089.919,
+      "duration": 4.321
+    },
+    {
+      "text": "a recording of the live stream could be",
+      "start": 1092.32,
+      "duration": 3.92
+    },
+    {
+      "text": "added to the court record if you riddle",
+      "start": 1094.24,
+      "duration": 4.319
+    },
+    {
+      "text": "me yeah yeah i know press z to see the",
+      "start": 1096.24,
+      "duration": 4.24
+    },
+    {
+      "text": "court record could you get to the point",
+      "start": 1098.559,
+      "duration": 2.881
+    },
+    {
+      "text": "please",
+      "start": 1100.48,
+      "duration": 2.88
+    },
+    {
+      "text": "oh will you don't have to be so rude",
+      "start": 1101.44,
+      "duration": 3.52
+    },
+    {
+      "text": "about it fine it's been added to the",
+      "start": 1103.36,
+      "duration": 3.679
+    },
+    {
+      "text": "core record through the bag",
+      "start": 1104.96,
+      "duration": 5.52
+    },
+    {
+      "text": "well it's his skin dan oh of course",
+      "start": 1107.039,
+      "duration": 5.681
+    },
+    {
+      "text": "i like that he has a tie",
+      "start": 1110.48,
+      "duration": 3.84
+    },
+    {
+      "text": "he's got to be professional a little",
+      "start": 1112.72,
+      "duration": 4.0
+    },
+    {
+      "text": "high around the duct tape now where was",
+      "start": 1114.32,
+      "duration": 5.92
+    },
+    {
+      "text": "i oh yes under the back the live stream",
+      "start": 1116.72,
+      "duration": 5.12
+    },
+    {
+      "text": "during the live stream according to the",
+      "start": 1120.24,
+      "duration": 3.36
+    },
+    {
+      "text": "transcript here the switch they were",
+      "start": 1121.84,
+      "duration": 3.68
+    },
+    {
+      "text": "using suddenly failed",
+      "start": 1123.6,
+      "duration": 3.92
+    },
+    {
+      "text": "it was at this point that the defendant",
+      "start": 1125.52,
+      "duration": 4.32
+    },
+    {
+      "text": "jory griffis volunteered to go get a",
+      "start": 1127.52,
+      "duration": 3.76
+    },
+    {
+      "text": "replacement one",
+      "start": 1129.84,
+      "duration": 3.199
+    },
+    {
+      "text": "when the live stream was over the crew",
+      "start": 1131.28,
+      "duration": 3.759
+    },
+    {
+      "text": "went to prepare for a 10-minute power",
+      "start": 1133.039,
+      "duration": 3.441
+    },
+    {
+      "text": "hour episode",
+      "start": 1135.039,
+      "duration": 3.121
+    },
+    {
+      "text": "however when they arrived and started",
+      "start": 1136.48,
+      "duration": 3.52
+    },
+    {
+      "text": "preparing they noticed the dinos were",
+      "start": 1138.16,
+      "duration": 2.8
+    },
+    {
+      "text": "missing",
+      "start": 1140.0,
+      "duration": 2.72
+    },
+    {
+      "text": "a quick search and a few minutes later",
+      "start": 1140.96,
+      "duration": 3.36
+    },
+    {
+      "text": "they were suspiciously found in this",
+      "start": 1142.72,
+      "duration": 2.88
+    },
+    {
+      "text": "backpack",
+      "start": 1144.32,
+      "duration": 3.92
+    },
+    {
+      "text": "george's backpack",
+      "start": 1145.6,
+      "duration": 5.76
+    },
+    {
+      "text": "the heck is that white stain there",
+      "start": 1148.24,
+      "duration": 5.6
+    },
+    {
+      "text": "maybe jory took the nsp song objects of",
+      "start": 1151.36,
+      "duration": 4.4
+    },
+    {
+      "text": "desire as inspiration",
+      "start": 1153.84,
+      "duration": 3.36
+    },
+    {
+      "text": "know what i mean",
+      "start": 1155.76,
+      "duration": 3.52
+    },
+    {
+      "text": "unfortunately we all know what you mean",
+      "start": 1157.2,
+      "duration": 4.56
+    },
+    {
+      "text": "mr sexbang that he fucked the backpack",
+      "start": 1159.28,
+      "duration": 5.92
+    },
+    {
+      "text": "that's mr business to you sir yes",
+      "start": 1161.76,
+      "duration": 6.48
+    },
+    {
+      "text": "quite indeed as i was saying",
+      "start": 1165.2,
+      "duration": 5.359
+    },
+    {
+      "text": "the missing dinos while quickly found",
+      "start": 1168.24,
+      "duration": 4.08
+    },
+    {
+      "text": "put a big delay on setting up for the",
+      "start": 1170.559,
+      "duration": 3.441
+    },
+    {
+      "text": "power hour i really hope",
+      "start": 1172.32,
+      "duration": 3.599
+    },
+    {
+      "text": "jack is watching this",
+      "start": 1174.0,
+      "duration": 4.4
+    },
+    {
+      "text": "and just cringing at my casual",
+      "start": 1175.919,
+      "duration": 4.321
+    },
+    {
+      "text": "jacksepticeye impression",
+      "start": 1178.4,
+      "duration": 4.159
+    },
+    {
+      "text": "i honestly think it's better than",
+      "start": 1180.24,
+      "duration": 4.319
+    },
+    {
+      "text": "he might have had any reason to suspect",
+      "start": 1182.559,
+      "duration": 3.201
+    },
+    {
+      "text": "it would be",
+      "start": 1184.559,
+      "duration": 3.521
+    },
+    {
+      "text": "at least it's not ross's like",
+      "start": 1185.76,
+      "duration": 5.68
+    },
+    {
+      "text": "let me see dinos well quickly found yeah",
+      "start": 1188.08,
+      "duration": 5.839
+    },
+    {
+      "text": "i think he got off easy honestly yeah",
+      "start": 1191.44,
+      "duration": 4.0
+    },
+    {
+      "text": "i have been informed that recording",
+      "start": 1193.919,
+      "duration": 3.841
+    },
+    {
+      "text": "cannot begin without them as such they",
+      "start": 1195.44,
+      "duration": 4.96
+    },
+    {
+      "text": "are critical pieces of evidence",
+      "start": 1197.76,
+      "duration": 5.12
+    },
+    {
+      "text": "stolen dinos out of the court",
+      "start": 1200.4,
+      "duration": 4.8
+    },
+    {
+      "text": "while mr griffith's backpack is somewhat",
+      "start": 1202.88,
+      "duration": 4.48
+    },
+    {
+      "text": "unique the prosecution deemed it",
+      "start": 1205.2,
+      "duration": 5.28
+    },
+    {
+      "text": "necessary to prove its owner's identity",
+      "start": 1207.36,
+      "duration": 4.72
+    },
+    {
+      "text": "in the very same pocket in which the",
+      "start": 1210.48,
+      "duration": 3.84
+    },
+    {
+      "text": "dinos were found we discovered some good",
+      "start": 1212.08,
+      "duration": 4.56
+    },
+    {
+      "text": "boy coins gbc baby",
+      "start": 1214.32,
+      "duration": 3.76
+    },
+    {
+      "text": "all day",
+      "start": 1216.64,
+      "duration": 2.56
+    },
+    {
+      "text": "these were",
+      "start": 1218.08,
+      "duration": 2.959
+    },
+    {
+      "text": "all day every day man",
+      "start": 1219.2,
+      "duration": 4.0
+    },
+    {
+      "text": "they kind of you gotta flick they don't",
+      "start": 1221.039,
+      "duration": 4.561
+    },
+    {
+      "text": "stack no they don't they sure don't it's",
+      "start": 1223.2,
+      "duration": 3.599
+    },
+    {
+      "text": "a real bummer",
+      "start": 1225.6,
+      "duration": 3.12
+    },
+    {
+      "text": "these were the very same coins jory was",
+      "start": 1226.799,
+      "duration": 4.24
+    },
+    {
+      "text": "polishing during the live stream",
+      "start": 1228.72,
+      "duration": 4.079
+    },
+    {
+      "text": "this was confirmed by other members of",
+      "start": 1231.039,
+      "duration": 3.601
+    },
+    {
+      "text": "the grump team present at the time the",
+      "start": 1232.799,
+      "duration": 3.601
+    },
+    {
+      "text": "dinos were discovered",
+      "start": 1234.64,
+      "duration": 4.159
+    },
+    {
+      "text": "this clearly suggests the perpetrator is",
+      "start": 1236.4,
+      "duration": 3.84
+    },
+    {
+      "text": "the defendant",
+      "start": 1238.799,
+      "duration": 3.601
+    },
+    {
+      "text": "i am here to prove beyond any doubt that",
+      "start": 1240.24,
+      "duration": 4.559
+    },
+    {
+      "text": "jory griffith stole the dinosaurs",
+      "start": 1242.4,
+      "duration": 4.8
+    },
+    {
+      "text": "in order to sabotage the 10-minute power",
+      "start": 1244.799,
+      "duration": 3.921
+    },
+    {
+      "text": "hour",
+      "start": 1247.2,
+      "duration": 3.839
+    },
+    {
+      "text": "yes that seems to be very solid opening",
+      "start": 1248.72,
+      "duration": 3.36
+    },
+    {
+      "text": "statement",
+      "start": 1251.039,
+      "duration": 2.801
+    },
+    {
+      "text": "you may uh call your first witness mr",
+      "start": 1252.08,
+      "duration": 2.07
+    },
+    {
+      "text": "boy",
+      "start": 1253.84,
+      "duration": 1.92
+    },
+    {
+      "text": "[Laughter]",
+      "start": 1254.15,
+      "duration": 4.009
+    },
+    {
+      "text": "yes your honor i would now like to call",
+      "start": 1255.76,
+      "duration": 4.08
+    },
+    {
+      "text": "said defendant jory griffiths to the",
+      "start": 1258.159,
+      "duration": 4.64
+    },
+    {
+      "text": "stand so angry wait you can't do that it",
+      "start": 1259.84,
+      "duration": 4.8
+    },
+    {
+      "text": "violates the fifth amendment",
+      "start": 1262.799,
+      "duration": 5.681
+    },
+    {
+      "text": "yeah wait is this even a real courthouse",
+      "start": 1264.64,
+      "duration": 5.76
+    },
+    {
+      "text": "keep your pants on i make up the rules",
+      "start": 1268.48,
+      "duration": 3.76
+    },
+    {
+      "text": "in this courthouse i will allow the",
+      "start": 1270.4,
+      "duration": 3.759
+    },
+    {
+      "text": "testifying of the defendant",
+      "start": 1272.24,
+      "duration": 3.28
+    },
+    {
+      "text": "it needs more it needs more brent",
+      "start": 1274.159,
+      "duration": 2.721
+    },
+    {
+      "text": "metaphors",
+      "start": 1275.52,
+      "duration": 3.279
+    },
+    {
+      "text": "that's what it really needs such as just",
+      "start": 1276.88,
+      "duration": 4.159
+    },
+    {
+      "text": "brent making metaphors about like",
+      "start": 1278.799,
+      "duration": 4.0
+    },
+    {
+      "text": "you know like oh we gotta kick the tires",
+      "start": 1281.039,
+      "duration": 3.041
+    },
+    {
+      "text": "here and yeah you know like that kind of",
+      "start": 1282.799,
+      "duration": 4.161
+    },
+    {
+      "text": "shit yeah just uh gonna sniff the butt",
+      "start": 1284.08,
+      "duration": 4.959
+    },
+    {
+      "text": "he says that all the time please stop",
+      "start": 1286.96,
+      "duration": 4.32
+    },
+    {
+      "text": "saying that yeah yeah we just you know",
+      "start": 1289.039,
+      "duration": 3.76
+    },
+    {
+      "text": "we gotta get sniff each other's butts",
+      "start": 1291.28,
+      "duration": 3.84
+    },
+    {
+      "text": "and just get to know each other",
+      "start": 1292.799,
+      "duration": 4.961
+    },
+    {
+      "text": "witness stature i'm sorry please forgive",
+      "start": 1295.12,
+      "duration": 3.6
+    },
+    {
+      "text": "me",
+      "start": 1297.76,
+      "duration": 2.799
+    },
+    {
+      "text": "jory what the heck",
+      "start": 1298.72,
+      "duration": 3.28
+    },
+    {
+      "text": "ah geez",
+      "start": 1300.559,
+      "duration": 2.801
+    },
+    {
+      "text": "just take a deep breath and answer the",
+      "start": 1302.0,
+      "duration": 4.32
+    },
+    {
+      "text": "questions i i i do like",
+      "start": 1303.36,
+      "duration": 4.48
+    },
+    {
+      "text": "because jordy's the reason i say what",
+      "start": 1306.32,
+      "duration": 2.64
+    },
+    {
+      "text": "the heck",
+      "start": 1307.84,
+      "duration": 3.839
+    },
+    {
+      "text": "and what the hay yup um because he's a",
+      "start": 1308.96,
+      "duration": 5.76
+    },
+    {
+      "text": "clean boy who doesn't swear right",
+      "start": 1311.679,
+      "duration": 5.521
+    },
+    {
+      "text": "does he never swear no i mean he of",
+      "start": 1314.72,
+      "duration": 4.319
+    },
+    {
+      "text": "course he swears but i i feel like i've",
+      "start": 1317.2,
+      "duration": 3.839
+    },
+    {
+      "text": "never heard him swear but he always uses",
+      "start": 1319.039,
+      "duration": 5.201
+    },
+    {
+      "text": "like alternatives yeah what the h is my",
+      "start": 1321.039,
+      "duration": 5.441
+    },
+    {
+      "text": "personal favorite oh okay",
+      "start": 1324.24,
+      "duration": 3.52
+    },
+    {
+      "text": "this is gonna be rough i can already",
+      "start": 1326.48,
+      "duration": 2.88
+    },
+    {
+      "text": "tell",
+      "start": 1327.76,
+      "duration": 5.12
+    },
+    {
+      "text": "ow wicked",
+      "start": 1329.36,
+      "duration": 5.04
+    },
+    {
+      "text": "i have questions about the time before",
+      "start": 1332.88,
+      "duration": 4.0
+    },
+    {
+      "text": "the incident and you will answer",
+      "start": 1334.4,
+      "duration": 4.8
+    },
+    {
+      "text": "ah geez okay",
+      "start": 1336.88,
+      "duration": 4.48
+    },
+    {
+      "text": "when the console broke you yourself were",
+      "start": 1339.2,
+      "duration": 4.24
+    },
+    {
+      "text": "the first volunteer to go get a backup",
+      "start": 1341.36,
+      "duration": 4.16
+    },
+    {
+      "text": "console were you not",
+      "start": 1343.44,
+      "duration": 3.599
+    },
+    {
+      "text": "well it's sort of my job to help with",
+      "start": 1345.52,
+      "duration": 3.84
+    },
+    {
+      "text": "technical issues but",
+      "start": 1347.039,
+      "duration": 3.76
+    },
+    {
+      "text": "so you admit that you jumped on the",
+      "start": 1349.36,
+      "duration": 2.72
+    },
+    {
+      "text": "opportunity to be the one to do the",
+      "start": 1350.799,
+      "duration": 3.041
+    },
+    {
+      "text": "grunt work for the grumps",
+      "start": 1352.08,
+      "duration": 3.36
+    },
+    {
+      "text": "how suspicious",
+      "start": 1353.84,
+      "duration": 4.0
+    },
+    {
+      "text": "surely there were other less busy people",
+      "start": 1355.44,
+      "duration": 4.08
+    },
+    {
+      "text": "who could have gotten it but you didn't",
+      "start": 1357.84,
+      "duration": 4.959
+    },
+    {
+      "text": "hesitate he called him sassy",
+      "start": 1359.52,
+      "duration": 5.039
+    },
+    {
+      "text": "is he a sassy buck you know what that",
+      "start": 1362.799,
+      "duration": 3.201
+    },
+    {
+      "text": "links to",
+      "start": 1364.559,
+      "duration": 2.721
+    },
+    {
+      "text": "box",
+      "start": 1366.0,
+      "duration": 4.559
+    },
+    {
+      "text": "fucking sassy bockage",
+      "start": 1367.28,
+      "duration": 4.96
+    },
+    {
+      "text": "yeah i guess i didn't but again it's",
+      "start": 1370.559,
+      "duration": 2.801
+    },
+    {
+      "text": "part of my job",
+      "start": 1372.24,
+      "duration": 2.4
+    },
+    {
+      "text": "by the way",
+      "start": 1373.36,
+      "duration": 3.439
+    },
+    {
+      "text": "i the first time i said sassy bacca as a",
+      "start": 1374.64,
+      "duration": 3.6
+    },
+    {
+      "text": "joke on the show",
+      "start": 1376.799,
+      "duration": 3.201
+    },
+    {
+      "text": "people loved it thought it was so funny",
+      "start": 1378.24,
+      "duration": 3.439
+    },
+    {
+      "text": "like oh listen dad's using new",
+      "start": 1380.0,
+      "duration": 4.48
+    },
+    {
+      "text": "terminology and uh the second time i",
+      "start": 1381.679,
+      "duration": 5.201
+    },
+    {
+      "text": "said it as a joke on the show people",
+      "start": 1384.48,
+      "duration": 5.439
+    },
+    {
+      "text": "fucking hated it really okay because",
+      "start": 1386.88,
+      "duration": 4.72
+    },
+    {
+      "text": "they started thinking like oh god is he",
+      "start": 1389.919,
+      "duration": 3.601
+    },
+    {
+      "text": "really trying to say this like a thing",
+      "start": 1391.6,
+      "duration": 4.079
+    },
+    {
+      "text": "that he can say like",
+      "start": 1393.52,
+      "duration": 4.639
+    },
+    {
+      "text": "no i'm not i assure you but it's fucking",
+      "start": 1395.679,
+      "duration": 4.641
+    },
+    {
+      "text": "hysterical it's so funny",
+      "start": 1398.159,
+      "duration": 4.321
+    },
+    {
+      "text": "people drew fan art of it sassy me",
+      "start": 1400.32,
+      "duration": 2.96
+    },
+    {
+      "text": "saying",
+      "start": 1402.48,
+      "duration": 2.8
+    },
+    {
+      "text": "yeah because it's hilarious really yeah",
+      "start": 1403.28,
+      "duration": 3.12
+    },
+    {
+      "text": "oh that's great",
+      "start": 1405.28,
+      "duration": 4.16
+    },
+    {
+      "text": "it made me lose my mind when you said it",
+      "start": 1406.4,
+      "duration": 5.519
+    },
+    {
+      "text": "it cracks me up by the way just so",
+      "start": 1409.44,
+      "duration": 3.84
+    },
+    {
+      "text": "everybody knows",
+      "start": 1411.919,
+      "duration": 3.601
+    },
+    {
+      "text": "jory was the the narrative designer on",
+      "start": 1413.28,
+      "duration": 4.48
+    },
+    {
+      "text": "dream daddy and he was working on",
+      "start": 1415.52,
+      "duration": 4.32
+    },
+    {
+      "text": "another game",
+      "start": 1417.76,
+      "duration": 4.72
+    },
+    {
+      "text": "like after that so he's not really like",
+      "start": 1419.84,
+      "duration": 5.839
+    },
+    {
+      "text": "the technical guy yeah i mean",
+      "start": 1422.48,
+      "duration": 4.799
+    },
+    {
+      "text": "the fact that they included jory in this",
+      "start": 1425.679,
+      "duration": 3.841
+    },
+    {
+      "text": "game at all is pretty amazing i have to",
+      "start": 1427.279,
+      "duration": 3.201
+    },
+    {
+      "text": "say like",
+      "start": 1429.52,
+      "duration": 3.279
+    },
+    {
+      "text": "jory and brent for that matter like are",
+      "start": 1430.48,
+      "duration": 4.16
+    },
+    {
+      "text": "are fairly i don't think they'll be",
+      "start": 1432.799,
+      "duration": 4.48
+    },
+    {
+      "text": "upset if i say they're fairly deep cuts",
+      "start": 1434.64,
+      "duration": 4.159
+    },
+    {
+      "text": "you know but like",
+      "start": 1437.279,
+      "duration": 3.441
+    },
+    {
+      "text": "not your your casual grump watcher may",
+      "start": 1438.799,
+      "duration": 4.24
+    },
+    {
+      "text": "not know who they are so i mean",
+      "start": 1440.72,
+      "duration": 4.559
+    },
+    {
+      "text": "all the more uh applause to the people",
+      "start": 1443.039,
+      "duration": 3.601
+    },
+    {
+      "text": "who did this for their attention to",
+      "start": 1445.279,
+      "duration": 3.52
+    },
+    {
+      "text": "detail yeah i just want to give jory",
+      "start": 1446.64,
+      "duration": 5.039
+    },
+    {
+      "text": "more credit than he's our technical guy",
+      "start": 1448.799,
+      "duration": 4.161
+    },
+    {
+      "text": "yes like",
+      "start": 1451.679,
+      "duration": 3.761
+    },
+    {
+      "text": "occasionally yeah he's very smart about",
+      "start": 1452.96,
+      "duration": 4.4
+    },
+    {
+      "text": "computers and programming so",
+      "start": 1455.44,
+      "duration": 3.2
+    },
+    {
+      "text": "occasionally he'll help us with that",
+      "start": 1457.36,
+      "duration": 2.319
+    },
+    {
+      "text": "kind of stuff",
+      "start": 1458.64,
+      "duration": 3.519
+    },
+    {
+      "text": "um but for the most part his job is",
+      "start": 1459.679,
+      "duration": 5.281
+    },
+    {
+      "text": "making games so that's the",
+      "start": 1462.159,
+      "duration": 4.481
+    },
+    {
+      "text": "just to give you a little rundown on joy",
+      "start": 1464.96,
+      "duration": 3.839
+    },
+    {
+      "text": "and also being a sweet boy yeah oh well",
+      "start": 1466.64,
+      "duration": 4.0
+    },
+    {
+      "text": "sir he did he did get a lot of good boy",
+      "start": 1468.799,
+      "duration": 3.201
+    },
+    {
+      "text": "coins yes that's right he has the most",
+      "start": 1470.64,
+      "duration": 3.919
+    },
+    {
+      "text": "good boy coins still to this did to date",
+      "start": 1472.0,
+      "duration": 4.799
+    },
+    {
+      "text": "piece of shit yikes",
+      "start": 1474.559,
+      "duration": 4.321
+    },
+    {
+      "text": "dang this guy is intense",
+      "start": 1476.799,
+      "duration": 4.48
+    },
+    {
+      "text": "suspicious behavior indeed",
+      "start": 1478.88,
+      "duration": 3.919
+    },
+    {
+      "text": "especially since according to the live",
+      "start": 1481.279,
+      "duration": 3.441
+    },
+    {
+      "text": "stream recording here you were busy",
+      "start": 1482.799,
+      "duration": 4.24
+    },
+    {
+      "text": "cleaning your good boy coins",
+      "start": 1484.72,
+      "duration": 4.079
+    },
+    {
+      "text": "is this correct",
+      "start": 1487.039,
+      "duration": 3.841
+    },
+    {
+      "text": "dude what do his coins have to do with",
+      "start": 1488.799,
+      "duration": 3.921
+    },
+    {
+      "text": "this and what's with this guilt tripping",
+      "start": 1490.88,
+      "duration": 3.679
+    },
+    {
+      "text": "over being helpful",
+      "start": 1492.72,
+      "duration": 3.92
+    },
+    {
+      "text": "you should say something aaron",
+      "start": 1494.559,
+      "duration": 3.201
+    },
+    {
+      "text": "hmm",
+      "start": 1496.64,
+      "duration": 5.039
+    },
+    {
+      "text": "what am i wearing around my neck uh",
+      "start": 1497.76,
+      "duration": 6.24
+    },
+    {
+      "text": "i don't i mean obviously it's the it's",
+      "start": 1501.679,
+      "duration": 4.801
+    },
+    {
+      "text": "the it's the sex bang it's like a danny",
+      "start": 1504.0,
+      "duration": 4.64
+    },
+    {
+      "text": "sexbang medallion but i don't know what",
+      "start": 1506.48,
+      "duration": 4.16
+    },
+    {
+      "text": "the green thing hanging off the end is",
+      "start": 1508.64,
+      "duration": 3.84
+    },
+    {
+      "text": "yeah",
+      "start": 1510.64,
+      "duration": 3.36
+    },
+    {
+      "text": "what is the green thing we'll have to",
+      "start": 1512.48,
+      "duration": 3.679
+    },
+    {
+      "text": "we'll have to ask them is it pooping",
+      "start": 1514.0,
+      "duration": 4.32
+    },
+    {
+      "text": "i don't think so aaron though that is",
+      "start": 1516.159,
+      "duration": 3.601
+    },
+    {
+      "text": "your answer for everything it's probably",
+      "start": 1518.32,
+      "duration": 4.56
+    },
+    {
+      "text": "pooping okay i'm gonna object",
+      "start": 1519.76,
+      "duration": 4.96
+    },
+    {
+      "text": "we not gucci",
+      "start": 1522.88,
+      "duration": 3.039
+    },
+    {
+      "text": "my client's behavior during the",
+      "start": 1524.72,
+      "duration": 3.28
+    },
+    {
+      "text": "livestream is auspicious in the least",
+      "start": 1525.919,
+      "duration": 4.24
+    },
+    {
+      "text": "dory is a great employee who works hard",
+      "start": 1528.0,
+      "duration": 4.08
+    },
+    {
+      "text": "for the team the prosecution is twisting",
+      "start": 1530.159,
+      "duration": 3.76
+    },
+    {
+      "text": "the truth here your honor",
+      "start": 1532.08,
+      "duration": 3.28
+    },
+    {
+      "text": "hmm",
+      "start": 1533.919,
+      "duration": 4.081
+    },
+    {
+      "text": "objection sustained mr boy you will",
+      "start": 1535.36,
+      "duration": 4.64
+    },
+    {
+      "text": "refrain from flowery language when",
+      "start": 1538.0,
+      "duration": 4.32
+    },
+    {
+      "text": "questioning your witness",
+      "start": 1540.0,
+      "duration": 4.32
+    },
+    {
+      "text": "yes your honor the spirit of justice",
+      "start": 1542.32,
+      "duration": 4.56
+    },
+    {
+      "text": "took hold of me and i got carried away",
+      "start": 1544.32,
+      "duration": 4.719
+    },
+    {
+      "text": "also please don't slam your head onto",
+      "start": 1546.88,
+      "duration": 4.0
+    },
+    {
+      "text": "the desk again it's making everyone",
+      "start": 1549.039,
+      "duration": 3.52
+    },
+    {
+      "text": "nervous",
+      "start": 1550.88,
+      "duration": 3.2
+    },
+    {
+      "text": "yeah i knew it",
+      "start": 1552.559,
+      "duration": 4.561
+    },
+    {
+      "text": "never it's my only way of objecting",
+      "start": 1554.08,
+      "duration": 4.719
+    },
+    {
+      "text": "you can't be serious yeah his arms are",
+      "start": 1557.12,
+      "duration": 4.0
+    },
+    {
+      "text": "tied down objections sustainable i'll",
+      "start": 1558.799,
+      "duration": 4.0
+    },
+    {
+      "text": "allow it your honor that kind of",
+      "start": 1561.12,
+      "duration": 2.88
+    },
+    {
+      "text": "behavior isn't appropriate in this",
+      "start": 1562.799,
+      "duration": 3.841
+    },
+    {
+      "text": "courtroom perhaps but i get to make the",
+      "start": 1564.0,
+      "duration": 6.64
+    },
+    {
+      "text": "call and it's amusing to watch him do it",
+      "start": 1566.64,
+      "duration": 5.6
+    },
+    {
+      "text": "very amazing",
+      "start": 1570.64,
+      "duration": 4.32
+    },
+    {
+      "text": "so like a high-pitched obama impression",
+      "start": 1572.24,
+      "duration": 4.4
+    },
+    {
+      "text": "get to watch him do yeah",
+      "start": 1574.96,
+      "duration": 3.04
+    },
+    {
+      "text": "i was president and",
+      "start": 1576.64,
+      "duration": 3.279
+    },
+    {
+      "text": "now i'm not",
+      "start": 1578.0,
+      "duration": 3.6
+    },
+    {
+      "text": "i always have thought that brent and",
+      "start": 1579.919,
+      "duration": 5.36
+    },
+    {
+      "text": "obama are almost interchangeable people",
+      "start": 1581.6,
+      "duration": 5.52
+    },
+    {
+      "text": "the prosecution may continue with the",
+      "start": 1585.279,
+      "duration": 3.601
+    },
+    {
+      "text": "witnesses testimony",
+      "start": 1587.12,
+      "duration": 3.52
+    },
+    {
+      "text": "thank you your honor",
+      "start": 1588.88,
+      "duration": 3.84
+    },
+    {
+      "text": "so you were cleaning your coins during",
+      "start": 1590.64,
+      "duration": 5.279
+    },
+    {
+      "text": "the live stream which we have on record",
+      "start": 1592.72,
+      "duration": 4.8
+    },
+    {
+      "text": "when you are asked to go get a",
+      "start": 1595.919,
+      "duration": 3.681
+    },
+    {
+      "text": "replacement switch what did you do with",
+      "start": 1597.52,
+      "duration": 4.159
+    },
+    {
+      "text": "those coins",
+      "start": 1599.6,
+      "duration": 4.079
+    },
+    {
+      "text": "well since i had just finished polishing",
+      "start": 1601.679,
+      "duration": 3.441
+    },
+    {
+      "text": "them i decided to put them away in my",
+      "start": 1603.679,
+      "duration": 2.48
+    },
+    {
+      "text": "backpack",
+      "start": 1605.12,
+      "duration": 2.559
+    },
+    {
+      "text": "and leave it in the 10 minute power hour",
+      "start": 1606.159,
+      "duration": 3.041
+    },
+    {
+      "text": "recording room since i knew i had to do",
+      "start": 1607.679,
+      "duration": 3.161
+    },
+    {
+      "text": "setup for that right",
+      "start": 1609.2,
+      "duration": 3.76
+    },
+    {
+      "text": "after jory doesn't do set up for the",
+      "start": 1610.84,
+      "duration": 4.76
+    },
+    {
+      "text": "power it was fine not at all but i mean",
+      "start": 1612.96,
+      "duration": 4.319
+    },
+    {
+      "text": "it's just as well he's appeared on power",
+      "start": 1615.6,
+      "duration": 3.36
+    },
+    {
+      "text": "hours before he's just because he's he",
+      "start": 1617.279,
+      "duration": 3.681
+    },
+    {
+      "text": "loves he loves a good bit that is a good",
+      "start": 1618.96,
+      "duration": 3.28
+    },
+    {
+      "text": "that is there's something to say about",
+      "start": 1620.96,
+      "duration": 3.52
+    },
+    {
+      "text": "jory jory loves a good bit no question",
+      "start": 1622.24,
+      "duration": 3.76
+    },
+    {
+      "text": "very committed to the bit which is why",
+      "start": 1624.48,
+      "duration": 3.76
+    },
+    {
+      "text": "he's willing to sit under a table and",
+      "start": 1626.0,
+      "duration": 4.0
+    },
+    {
+      "text": "have us send",
+      "start": 1628.24,
+      "duration": 5.039
+    },
+    {
+      "text": "uh pancake after pokemon shaped pancake",
+      "start": 1630.0,
+      "duration": 5.919
+    },
+    {
+      "text": "yes while he pretends to be a robot",
+      "start": 1633.279,
+      "duration": 5.28
+    },
+    {
+      "text": "would those coins happen to be",
+      "start": 1635.919,
+      "duration": 4.561
+    },
+    {
+      "text": "these",
+      "start": 1638.559,
+      "duration": 3.201
+    },
+    {
+      "text": "ben coins out of the court record oh",
+      "start": 1640.48,
+      "duration": 4.4
+    },
+    {
+      "text": "crap bent coins yeah you can't bend a",
+      "start": 1641.76,
+      "duration": 4.799
+    },
+    {
+      "text": "good boy coin those things are sturdy as",
+      "start": 1644.88,
+      "duration": 3.519
+    },
+    {
+      "text": "fuck yeah they're solid steel we found",
+      "start": 1646.559,
+      "duration": 4.161
+    },
+    {
+      "text": "our first loophole uh uh",
+      "start": 1648.399,
+      "duration": 5.041
+    },
+    {
+      "text": "as stated before these coins were found",
+      "start": 1650.72,
+      "duration": 5.28
+    },
+    {
+      "text": "in the same pockets as the dinosaurs",
+      "start": 1653.44,
+      "duration": 3.92
+    },
+    {
+      "text": "and they fit the description of the",
+      "start": 1656.0,
+      "duration": 3.52
+    },
+    {
+      "text": "coins the witness just gave what more",
+      "start": 1657.36,
+      "duration": 3.919
+    },
+    {
+      "text": "proof do you need",
+      "start": 1659.52,
+      "duration": 4.32
+    },
+    {
+      "text": "confess to your crimes jory",
+      "start": 1661.279,
+      "duration": 6.561
+    },
+    {
+      "text": "i or uh oh man yeah those are my coins",
+      "start": 1663.84,
+      "duration": 5.36
+    },
+    {
+      "text": "but but that",
+      "start": 1667.84,
+      "duration": 3.199
+    },
+    {
+      "text": "is that a confession look how high his",
+      "start": 1669.2,
+      "duration": 3.12
+    },
+    {
+      "text": "mouth is",
+      "start": 1671.039,
+      "duration": 3.201
+    },
+    {
+      "text": "he's so pleased",
+      "start": 1672.32,
+      "duration": 4.4
+    },
+    {
+      "text": "is that a confession i hear you admit",
+      "start": 1674.24,
+      "duration": 4.4
+    },
+    {
+      "text": "you're killed",
+      "start": 1676.72,
+      "duration": 4.4
+    },
+    {
+      "text": "the prosecution is hectoring the witness",
+      "start": 1678.64,
+      "duration": 4.08
+    },
+    {
+      "text": "quit hectoring",
+      "start": 1681.12,
+      "duration": 4.0
+    },
+    {
+      "text": "stop hectoring me the coins being in the",
+      "start": 1682.72,
+      "duration": 4.24
+    },
+    {
+      "text": "pocket with the dinos doesn't directly",
+      "start": 1685.12,
+      "duration": 4.32
+    },
+    {
+      "text": "prove he put them both there",
+      "start": 1686.96,
+      "duration": 4.719
+    },
+    {
+      "text": "what just look at the witness his",
+      "start": 1689.44,
+      "duration": 4.16
+    },
+    {
+      "text": "sweatiness and nervous behavior is that",
+      "start": 1691.679,
+      "duration": 3.681
+    },
+    {
+      "text": "of a criminal",
+      "start": 1693.6,
+      "duration": 4.16
+    },
+    {
+      "text": "what the defense says holds up",
+      "start": 1695.36,
+      "duration": 4.72
+    },
+    {
+      "text": "so i will sustain their objection",
+      "start": 1697.76,
+      "duration": 4.32
+    },
+    {
+      "text": "oh",
+      "start": 1700.08,
+      "duration": 3.36
+    },
+    {
+      "text": "very well",
+      "start": 1702.08,
+      "duration": 2.64
+    },
+    {
+      "text": "but don't think you're out of the hot",
+      "start": 1703.44,
+      "duration": 2.479
+    },
+    {
+      "text": "water yet",
+      "start": 1704.72,
+      "duration": 2.64
+    },
+    {
+      "text": "you said you were doing setup for",
+      "start": 1705.919,
+      "duration": 3.841
+    },
+    {
+      "text": "something right after the live stream",
+      "start": 1707.36,
+      "duration": 3.84
+    },
+    {
+      "text": "please tell the court what that",
+      "start": 1709.76,
+      "duration": 4.24
+    },
+    {
+      "text": "something was going to be hmm",
+      "start": 1711.2,
+      "duration": 3.839
+    },
+    {
+      "text": "well",
+      "start": 1714.0,
+      "duration": 2.799
+    },
+    {
+      "text": "you see we were planning on doing the 10",
+      "start": 1715.039,
+      "duration": 3.52
+    },
+    {
+      "text": "minute power hour right after the live",
+      "start": 1716.799,
+      "duration": 4.0
+    },
+    {
+      "text": "stream and i had to help set up since we",
+      "start": 1718.559,
+      "duration": 4.801
+    },
+    {
+      "text": "were planning on doing something",
+      "start": 1720.799,
+      "duration": 4.24
+    },
+    {
+      "text": "different",
+      "start": 1723.36,
+      "duration": 2.72
+    },
+    {
+      "text": "sorry",
+      "start": 1725.039,
+      "duration": 3.041
+    },
+    {
+      "text": "and what was that something that was so",
+      "start": 1726.08,
+      "duration": 4.079
+    },
+    {
+      "text": "different",
+      "start": 1728.08,
+      "duration": 4.88
+    },
+    {
+      "text": "well to put it simply we were going to",
+      "start": 1730.159,
+      "duration": 5.201
+    },
+    {
+      "text": "do a dunk tank contest oh my god that's",
+      "start": 1732.96,
+      "duration": 3.839
+    },
+    {
+      "text": "a great idea",
+      "start": 1735.36,
+      "duration": 2.96
+    },
+    {
+      "text": "but instead of water it was going to be",
+      "start": 1736.799,
+      "duration": 3.12
+    },
+    {
+      "text": "strawberries and cream oh that's an even",
+      "start": 1738.32,
+      "duration": 4.16
+    },
+    {
+      "text": "better idea something about ninja party",
+      "start": 1739.919,
+      "duration": 4.401
+    },
+    {
+      "text": "school i don't know it was dan and",
+      "start": 1742.48,
+      "duration": 3.76
+    },
+    {
+      "text": "aaron's idea but i wasn't really looking",
+      "start": 1744.32,
+      "duration": 4.8
+    },
+    {
+      "text": "forward to being dunked in cream",
+      "start": 1746.24,
+      "duration": 4.4
+    },
+    {
+      "text": "don't say that you're gonna get yourself",
+      "start": 1749.12,
+      "duration": 5.2
+    },
+    {
+      "text": "into more trouble and so you decided to",
+      "start": 1750.64,
+      "duration": 6.48
+    },
+    {
+      "text": "sabotage the episode's production",
+      "start": 1754.32,
+      "duration": 4.959
+    },
+    {
+      "text": "so you wouldn't have to suffer through",
+      "start": 1757.12,
+      "duration": 5.6
+    },
+    {
+      "text": "such a menial and humiliating task",
+      "start": 1759.279,
+      "duration": 6.481
+    },
+    {
+      "text": "i see right through you jory griffiths",
+      "start": 1762.72,
+      "duration": 5.839
+    },
+    {
+      "text": "no no i would never",
+      "start": 1765.76,
+      "duration": 4.88
+    },
+    {
+      "text": "save your lies",
+      "start": 1768.559,
+      "duration": 5.12
+    },
+    {
+      "text": "this is a courtroom of truth",
+      "start": 1770.64,
+      "duration": 5.44
+    },
+    {
+      "text": "wow you're really crushing that trivia",
+      "start": 1773.679,
+      "duration": 4.961
+    },
+    {
+      "text": "boy impersonation there is no proof that",
+      "start": 1776.08,
+      "duration": 4.4
+    },
+    {
+      "text": "jory is lying",
+      "start": 1778.64,
+      "duration": 3.519
+    },
+    {
+      "text": "you're simply pushing a false narrative",
+      "start": 1780.48,
+      "duration": 4.319
+    },
+    {
+      "text": "to make my client look bad",
+      "start": 1782.159,
+      "duration": 4.24
+    },
+    {
+      "text": "oh",
+      "start": 1784.799,
+      "duration": 4.081
+    },
+    {
+      "text": "i love this like guest head it's so",
+      "start": 1786.399,
+      "duration": 6.081
+    },
+    {
+      "text": "funny i assure you this is no bravado we",
+      "start": 1788.88,
+      "duration": 5.76
+    },
+    {
+      "text": "have true motivation and i love that the",
+      "start": 1792.48,
+      "duration": 4.559
+    },
+    {
+      "text": "post-it note moves when he talks",
+      "start": 1794.64,
+      "duration": 4.24
+    },
+    {
+      "text": "we have evidence that connects jory to",
+      "start": 1797.039,
+      "duration": 3.36
+    },
+    {
+      "text": "the crime and",
+      "start": 1798.88,
+      "duration": 4.96
+    },
+    {
+      "text": "we have a witness to jori's crime",
+      "start": 1800.399,
+      "duration": 3.441
+    },
+    {
+      "text": "there will be enough from the jury",
+      "start": 1806.0,
+      "duration": 4.08
+    },
+    {
+      "text": "you say you have a witness to the crime",
+      "start": 1808.559,
+      "duration": 2.72
+    },
+    {
+      "text": "itself",
+      "start": 1810.08,
+      "duration": 3.28
+    },
+    {
+      "text": "that is correct your honor i have simply",
+      "start": 1811.279,
+      "duration": 4.801
+    },
+    {
+      "text": "been building my case up to this point",
+      "start": 1813.36,
+      "duration": 4.799
+    },
+    {
+      "text": "members of the court you see that jory",
+      "start": 1816.08,
+      "duration": 4.16
+    },
+    {
+      "text": "knows he is guilty and his behavior is",
+      "start": 1818.159,
+      "duration": 3.281
+    },
+    {
+      "text": "proof of that",
+      "start": 1820.24,
+      "duration": 3.2
+    },
+    {
+      "text": "but now you will see that with my next",
+      "start": 1821.44,
+      "duration": 4.0
+    },
+    {
+      "text": "witness there could be no doubt of mr",
+      "start": 1823.44,
+      "duration": 4.239
+    },
+    {
+      "text": "griffith's guilt and we'll meet that",
+      "start": 1825.44,
+      "duration": 3.119
+    },
+    {
+      "text": "witness",
+      "start": 1827.679,
+      "duration": 2.88
+    },
+    {
+      "text": "next time i gave her oh my god this is",
+      "start": 1828.559,
+      "duration": 4.081
+    },
+    {
+      "text": "wonderful i'm i'm thoroughly enjoying",
+      "start": 1830.559,
+      "duration": 3.681
+    },
+    {
+      "text": "this i'm definitely getting a text from",
+      "start": 1832.64,
+      "duration": 4.0
+    },
+    {
+      "text": "brent being like i don't",
+      "start": 1834.24,
+      "duration": 3.6
+    },
+    {
+      "text": "sound like that",
+      "start": 1836.64,
+      "duration": 3.44
+    },
+    {
+      "text": "hey uh so that impression of me yeah",
+      "start": 1837.84,
+      "duration": 3.839
+    },
+    {
+      "text": "yeah exactly that's exactly what he'll",
+      "start": 1840.08,
+      "duration": 4.079
+    },
+    {
+      "text": "say but no brent i know you don't sound",
+      "start": 1841.679,
+      "duration": 3.921
+    },
+    {
+      "text": "like that i'm just garbage at",
+      "start": 1844.159,
+      "duration": 3.041
+    },
+    {
+      "text": "impressions but there's no one else here",
+      "start": 1845.6,
+      "duration": 3.36
+    },
+    {
+      "text": "to do the show",
+      "start": 1847.2,
+      "duration": 4.8
+    },
+    {
+      "text": "nine years happy birthday nine years man",
+      "start": 1848.96,
+      "duration": 5.76
+    },
+    {
+      "text": "nine years dude that's unbelievable yeah",
+      "start": 1852.0,
+      "duration": 4.159
+    },
+    {
+      "text": "you only get so many chunks in nine",
+      "start": 1854.72,
+      "duration": 3.04
+    },
+    {
+      "text": "years in your life well you know when",
+      "start": 1856.159,
+      "duration": 3.681
+    },
+    {
+      "text": "you put it that way it sounds really sad",
+      "start": 1857.76,
+      "duration": 4.32
+    },
+    {
+      "text": "no it's just it's incredible it's",
+      "start": 1859.84,
+      "duration": 5.92
+    },
+    {
+      "text": "what is that a third of your life almost",
+      "start": 1862.08,
+      "duration": 5.52
+    },
+    {
+      "text": "a little bit less",
+      "start": 1865.76,
+      "duration": 6.08
+    },
+    {
+      "text": "34 34 yeah nine times three is 27. yeah",
+      "start": 1867.6,
+      "duration": 5.6
+    },
+    {
+      "text": "i mean it's almost like a third of your",
+      "start": 1871.84,
+      "duration": 2.959
+    },
+    {
+      "text": "waking life because it's like a fourth",
+      "start": 1873.2,
+      "duration": 3.839
+    },
+    {
+      "text": "of my life almost yeah you don't really",
+      "start": 1874.799,
+      "duration": 4.641
+    },
+    {
+      "text": "oh god yeah you don't really",
+      "start": 1877.039,
+      "duration": 4.401
+    },
+    {
+      "text": "pay attention to the first five years",
+      "start": 1879.44,
+      "duration": 3.2
+    },
+    {
+      "text": "you know actually when i think of that",
+      "start": 1881.44,
+      "duration": 3.359
+    },
+    {
+      "text": "it's like almost like under a fourth of",
+      "start": 1882.64,
+      "duration": 4.639
+    },
+    {
+      "text": "my life",
+      "start": 1884.799,
+      "duration": 2.48
+    },
+    {
+      "text": "or i guess",
+      "start": 1887.44,
+      "duration": 4.56
+    },
+    {
+      "text": "over a fourth over a four days over yeah",
+      "start": 1888.64,
+      "duration": 5.44
+    },
+    {
+      "text": "um",
+      "start": 1892.0,
+      "duration": 5.44
+    },
+    {
+      "text": "is it over yes yes okay",
+      "start": 1894.08,
+      "duration": 5.439
+    },
+    {
+      "text": "almost a third is more than a fourth",
+      "start": 1897.44,
+      "duration": 3.92
+    },
+    {
+      "text": "okay got it yeah",
+      "start": 1899.519,
+      "duration": 4.16
+    },
+    {
+      "text": "the point is",
+      "start": 1901.36,
+      "duration": 4.24
+    },
+    {
+      "text": "uh that actually is kind of cool because",
+      "start": 1903.679,
+      "duration": 3.6
+    },
+    {
+      "text": "i'm like oh grumps and then there's like",
+      "start": 1905.6,
+      "duration": 4.0
+    },
+    {
+      "text": "three more chunks of",
+      "start": 1907.279,
+      "duration": 3.921
+    },
+    {
+      "text": "the time that grumps has been around of",
+      "start": 1909.6,
+      "duration": 3.12
+    },
+    {
+      "text": "my life oh yeah it's like that's a lot",
+      "start": 1911.2,
+      "duration": 3.76
+    },
+    {
+      "text": "of life oh yeah yeah yeah",
+      "start": 1912.72,
+      "duration": 3.76
+    },
+    {
+      "text": "it's",
+      "start": 1914.96,
+      "duration": 2.719
+    },
+    {
+      "text": "i mean",
+      "start": 1916.48,
+      "duration": 2.96
+    },
+    {
+      "text": "every now and then",
+      "start": 1917.679,
+      "duration": 4.641
+    },
+    {
+      "text": "i'll get the like jesus your old comment",
+      "start": 1919.44,
+      "duration": 6.0
+    },
+    {
+      "text": "from people and it's like nah dude like",
+      "start": 1922.32,
+      "duration": 5.68
+    },
+    {
+      "text": "pretty happy about this i",
+      "start": 1925.44,
+      "duration": 5.68
+    },
+    {
+      "text": "it's a it beats the alternative and b",
+      "start": 1928.0,
+      "duration": 6.32
+    },
+    {
+      "text": "like what being dead yeah",
+      "start": 1931.12,
+      "duration": 5.679
+    },
+    {
+      "text": "my only when you're born in 1979 your",
+      "start": 1934.32,
+      "duration": 6.88
+    },
+    {
+      "text": "only choices right now are be 42 or dead",
+      "start": 1936.799,
+      "duration": 7.921
+    },
+    {
+      "text": "and it's i don't know man like i just uh",
+      "start": 1941.2,
+      "duration": 4.959
+    },
+    {
+      "text": "i'm very grateful that i made it this",
+      "start": 1944.72,
+      "duration": 3.76
+    },
+    {
+      "text": "far you know there's there's times in",
+      "start": 1946.159,
+      "duration": 4.0
+    },
+    {
+      "text": "your life where like",
+      "start": 1948.48,
+      "duration": 3.52
+    },
+    {
+      "text": "things get a little hectic and you're",
+      "start": 1950.159,
+      "duration": 2.88
+    },
+    {
+      "text": "like",
+      "start": 1952.0,
+      "duration": 4.24
+    },
+    {
+      "text": "i don't know if you've ever had an nde a",
+      "start": 1953.039,
+      "duration": 5.601
+    },
+    {
+      "text": "near-death experience but like",
+      "start": 1956.24,
+      "duration": 4.319
+    },
+    {
+      "text": "i remember having one where i thought",
+      "start": 1958.64,
+      "duration": 3.519
+    },
+    {
+      "text": "like man i would give anything to get to",
+      "start": 1960.559,
+      "duration": 2.72
+    },
+    {
+      "text": "40.",
+      "start": 1962.159,
+      "duration": 4.561
+    },
+    {
+      "text": "and uh wow yeah so now that i am i'm",
+      "start": 1963.279,
+      "duration": 6.24
+    },
+    {
+      "text": "like pretty goddamn grateful i feel like",
+      "start": 1966.72,
+      "duration": 4.4
+    },
+    {
+      "text": "maybe the",
+      "start": 1969.519,
+      "duration": 3.921
+    },
+    {
+      "text": "when i had weed that first time maybe",
+      "start": 1971.12,
+      "duration": 4.64
+    },
+    {
+      "text": "maybe like the chemicals of nde were",
+      "start": 1973.44,
+      "duration": 3.839
+    },
+    {
+      "text": "being released because that was like a",
+      "start": 1975.76,
+      "duration": 4.0
+    },
+    {
+      "text": "really traumatic yeah yeah",
+      "start": 1977.279,
+      "duration": 3.441
+    },
+    {
+      "text": "but",
+      "start": 1979.76,
+      "duration": 3.44
+    },
+    {
+      "text": "no i've never had an actual nde you are",
+      "start": 1980.72,
+      "duration": 4.079
+    },
+    {
+      "text": "you saying you executed some joint",
+      "start": 1983.2,
+      "duration": 4.4
+    },
+    {
+      "text": "justice on yourself oh",
+      "start": 1984.799,
+      "duration": 5.6
+    },
+    {
+      "text": "it was an edible but still okay uh",
+      "start": 1987.6,
+      "duration": 7.199
+    },
+    {
+      "text": "join us next time okay sorry goodbye bye",
+      "start": 1990.399,
+      "duration": 4.4
+    },
+    {
+      "text": "this is freaking delightful oh it's",
+      "start": 1995.519,
+      "duration": 4.601
+    },
+    {
+      "text": "amazing",
+      "start": 1997.12,
+      "duration": 3.0
+    }
+  ]
+}

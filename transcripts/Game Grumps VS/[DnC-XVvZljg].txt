@@ -1,0 +1,1198 @@
+{
+  "video_id": "DnC-XVvZljg",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "[Arin] Looks like we're just plucking at random",
+      "start": 9.24,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] Yeah",
+      "start": 9.74,
+      "duration": 0.8
+    },
+    {
+      "text": "[Arin] Hi!",
+      "start": 11.18,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] (Singing) We're playing Micro Machines!",
+      "start": 14.88,
+      "duration": 3.08
+    },
+    {
+      "text": "[Arin] It's like really pleasant to look at-",
+      "start": 18.94,
+      "duration": 1.9
+    },
+    {
+      "text": "[Arin] It's got like really nice primary colors and-",
+      "start": 21.26,
+      "duration": 2.34
+    },
+    {
+      "text": "[Dan] Yeah",
+      "start": 23.76,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] I-It's just fun-",
+      "start": 25.28,
+      "duration": 0.88
+    },
+    {
+      "text": "[Arin] It's fun.",
+      "start": 26.64,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] You're player one so-",
+      "start": 27.14,
+      "duration": 1.06
+    },
+    {
+      "text": "[Dan] G-get some rough trucks, some sports cars.",
+      "start": 28.2,
+      "duration": 1.54
+    },
+    {
+      "text": "[Arin] You're in control.",
+      "start": 29.74,
+      "duration": 0.86
+    },
+    {
+      "text": "[Dan] Alright.",
+      "start": 30.6,
+      "duration": 0.66
+    },
+    {
+      "text": "[Dan] Uh-- oh shit!",
+      "start": 31.58,
+      "duration": 0.62
+    },
+    {
+      "text": "[Arin] Two playas!",
+      "start": 32.2,
+      "duration": 0.66
+    },
+    {
+      "text": "[Dan] Two playa-",
+      "start": 32.86,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] (laughing) No no no no no!",
+      "start": 34.44,
+      "duration": 1.68
+    },
+    {
+      "text": "[Arin] (laughing) Nuh-uh!",
+      "start": 36.38,
+      "duration": 0.84
+    },
+    {
+      "text": "[Dan] Ooooh! Whoa what's hAPPENING TO MY HAND!?",
+      "start": 37.22,
+      "duration": 1.96
+    },
+    {
+      "text": "(Arin laughing)",
+      "start": 39.18,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] Alright",
+      "start": 39.68,
+      "duration": 0.58
+    },
+    {
+      "text": "[Arin] Yeah yeah yeah yeah!",
+      "start": 40.26,
+      "duration": 0.94
+    },
+    {
+      "text": "[Dan] Alright, two players it is.",
+      "start": 41.72,
+      "duration": 1.22
+    },
+    {
+      "text": "[Arin] Gotta get an exorcism goin'.",
+      "start": 42.94,
+      "duration": 1.08
+    },
+    {
+      "text": "[Dan] Oh my god, Ace?",
+      "start": 44.02,
+      "duration": 1.24
+    },
+    {
+      "text": "[Both] Fab?",
+      "start": 45.42,
+      "duration": 1.28
+    },
+    {
+      "text": "[Dan] Oh, no. Spider, Bonnie, Jethro-",
+      "start": 47.02,
+      "duration": 2.56
+    },
+    {
+      "text": "[Dan] Cherry, Emilio-",
+      "start": 49.88,
+      "duration": 1.52
+    },
+    {
+      "text": "[Arin] It's a description of the kind of person that they are",
+      "start": 51.74,
+      "duration": 2.2
+    },
+    {
+      "text": "[Dan] Joel, he's smooth.",
+      "start": 53.94,
+      "duration": 1.66
+    },
+    {
+      "text": "[Arin] Oh yeah-",
+      "start": 55.6,
+      "duration": 0.62
+    },
+    {
+      "text": "[Dan] Yuck.",
+      "start": 56.22,
+      "duration": 0.52
+    },
+    {
+      "text": "[Arin] -is he?",
+      "start": 56.74,
+      "duration": 0.54
+    },
+    {
+      "text": "[Dan] Anne is fair, Chen is able",
+      "start": 57.62,
+      "duration": 2.16
+    },
+    {
+      "text": "[Dan] Mire is--",
+      "start": 60.2,
+      "duration": 0.94
+    },
+    {
+      "text": "[Arin] It's Mike.",
+      "start": 61.52,
+      "duration": 0.58
+    },
+    {
+      "text": "[Dan] --where's Waldo.",
+      "start": 62.1,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] Ok, sorry.",
+      "start": 62.6,
+      "duration": 1.04
+    },
+    {
+      "text": "[Both] Dwayne?",
+      "start": 64.04,
+      "duration": 0.62
+    },
+    {
+      "text": "[Dan] Dwayne is poor?!",
+      "start": 64.66,
+      "duration": 1.02
+    },
+    {
+      "text": "[Arin] (laughing and clapping)",
+      "start": 65.68,
+      "duration": 1.2
+    },
+    {
+      "text": "[Dan] That's fucked up!",
+      "start": 66.88,
+      "duration": 0.8
+    },
+    {
+      "text": "[Arin] (continues to clap)",
+      "start": 67.68,
+      "duration": 1.24
+    },
+    {
+      "text": "[Arin] That's not a character trait.",
+      "start": 69.26,
+      "duration": 1.1
+    },
+    {
+      "text": "[Dan] Yeah.",
+      "start": 70.36,
+      "duration": 0.76
+    },
+    {
+      "text": "[Dan] Dwayne is TRASH according to...",
+      "start": 71.96,
+      "duration": 2.64
+    },
+    {
+      "text": "[Dan] Anne.",
+      "start": 74.88,
+      "duration": 0.76
+    },
+    {
+      "text": "[Arin] (sarcastically) Ooo!",
+      "start": 76.04,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] who grew up in a-",
+      "start": 76.54,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] -upper middle-class background.",
+      "start": 77.46,
+      "duration": 1.96
+    },
+    {
+      "text": "[Dan] Walter is dire.",
+      "start": 79.62,
+      "duration": 1.44
+    },
+    {
+      "text": "[Dan] Alright.",
+      "start": 81.68,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] Dire?",
+      "start": 82.18,
+      "duration": 0.54
+    },
+    {
+      "text": "[Dan] I don't know.",
+      "start": 83.0,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] What the fuck-",
+      "start": 83.5,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] This is strange, but i like Jethro-",
+      "start": 84.36,
+      "duration": 1.46
+    },
+    {
+      "text": "[Dan] -I like Jethro's style.",
+      "start": 85.82,
+      "duration": 1.26
+    },
+    {
+      "text": "[Arin] Alright",
+      "start": 87.08,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] I bet you'll pick Cherry",
+      "start": 88.12,
+      "duration": 0.84
+    },
+    {
+      "text": "[Arin] Ch- Yeah, I was just gonna pick Cherry.",
+      "start": 89.04,
+      "duration": 2.02
+    },
+    {
+      "text": "[Dan] Yeah, She's Crazy™!",
+      "start": 91.06,
+      "duration": 1.14
+    },
+    {
+      "text": "(Arin:) She's Crazy™!",
+      "start": 92.2,
+      "duration": 0.78
+    },
+    {
+      "text": "[Arin] (laughing)",
+      "start": 92.98,
+      "duration": 0.54
+    },
+    {
+      "text": "[Arin] (high-pitched voice) Yeah, I'm fucking crazy!",
+      "start": 93.52,
+      "duration": 1.66
+    },
+    {
+      "text": "[Dan] (high-pitched voice) I'm fucking crazyyyy!",
+      "start": 95.18,
+      "duration": 1.58
+    },
+    {
+      "text": "[Dan] (weird laugh)",
+      "start": 96.76,
+      "duration": 0.84
+    },
+    {
+      "text": "[Arin] (high-pitched voice) You don't even fucking understand how crazy I am-",
+      "start": 97.6,
+      "duration": 1.7
+    },
+    {
+      "text": "[Arin] (High-pitched voice) -if you would like look at my Instagram it's ridiculous!",
+      "start": 99.3,
+      "duration": 3.14
+    },
+    {
+      "text": "[Arin] Tournament, tournament, tournament!",
+      "start": 103.26,
+      "duration": 0.96
+    },
+    {
+      "text": "[Dan] (New-yorker accent) Hey, do you want this... do you you want fuckin this over here?",
+      "start": 104.22,
+      "duration": 2.34
+    },
+    {
+      "text": "[Arin] (laughing)",
+      "start": 106.56,
+      "duration": 0.66
+    },
+    {
+      "text": "[Dan] (New-yorker accent) You want this over here or this fuckin over here?",
+      "start": 107.22,
+      "duration": 1.42
+    },
+    {
+      "text": "[Arin] (New-yorker accent) Eh- Just pick already! Cuz my arm-",
+      "start": 108.64,
+      "duration": 1.6
+    },
+    {
+      "text": "[Arin] (New-yorker accent) It-I-I want it back.",
+      "start": 110.34,
+      "duration": 1.16
+    },
+    {
+      "text": "[Dan] (New-yorker accent) Yeah",
+      "start": 111.56,
+      "duration": 0.8
+    },
+    {
+      "text": "[Dan] (New-yorker accent) Alright, fuck you. Tournament.",
+      "start": 112.8,
+      "duration": 1.06
+    },
+    {
+      "text": "[Arin] We're doing a tournament, baby.",
+      "start": 114.7,
+      "duration": 0.92
+    },
+    {
+      "text": "[Arin] I think it's gonna like run us through the gambit.",
+      "start": 115.62,
+      "duration": 2.02
+    },
+    {
+      "text": "[Dan] I love it!",
+      "start": 117.66,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] So it's like we're in boats right now.",
+      "start": 119.04,
+      "duration": 1.22
+    },
+    {
+      "text": "[Arin] And then the next one will be in like cars.",
+      "start": 120.26,
+      "duration": 1.5
+    },
+    {
+      "text": "[Dan] Oh, I love it.",
+      "start": 121.76,
+      "duration": 0.96
+    },
+    {
+      "text": "[Dan] I'm oh- I'm-",
+      "start": 123.24,
+      "duration": 0.72
+    },
+    {
+      "text": "[Arin] (singing) ha do do do do.",
+      "start": 123.96,
+      "duration": 0.62
+    },
+    {
+      "text": "[Dan] -I'm excited.",
+      "start": 124.58,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] We don't know how to play this at all.",
+      "start": 125.08,
+      "duration": 1.56
+    },
+    {
+      "text": "[Arin] I bet I know how to play it.",
+      "start": 126.96,
+      "duration": 1.0
+    },
+    {
+      "text": "[Dan] I'm pretty sure it's pretty intuitive.",
+      "start": 128.02,
+      "duration": 1.42
+    },
+    {
+      "text": "[Arin] It's probably like super off-roady-- oh.",
+      "start": 129.44,
+      "duration": 1.3
+    },
+    {
+      "text": "[Dan] Whoa! whoa, whoa!",
+      "start": 130.74,
+      "duration": 1.42
+    },
+    {
+      "text": "[Arin] I'm blue!",
+      "start": 132.34,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] I'm blue!",
+      "start": 133.02,
+      "duration": 0.5
+    },
+    {
+      "text": "[Arin] Look at me go! [Dan] Wh-wh-what are you pressing to go?",
+      "start": 133.52,
+      "duration": 1.28
+    },
+    {
+      "text": "[Arin] Uhhh B?",
+      "start": 134.8,
+      "duration": 0.5
+    },
+    {
+      "text": "[Dan] Oh-uh right you are.",
+      "start": 135.3,
+      "duration": 1.84
+    },
+    {
+      "text": "[Dan] Ohhhhh- oh we have to go around the soap!",
+      "start": 137.14,
+      "duration": 2.72
+    },
+    {
+      "text": "(Dan:) OH GOD!",
+      "start": 140.74,
+      "duration": 0.5
+    },
+    {
+      "text": "(Arin:) We're in a bathtub!",
+      "start": 141.28,
+      "duration": 0.88
+    },
+    {
+      "text": "(Dan:) Ohhhhhhhh how cute.",
+      "start": 142.16,
+      "duration": 1.88
+    },
+    {
+      "text": "(Arin:) Oh my god, Oh my god you're already beating me, fuck you! Oh that's our shadowwwww!",
+      "start": 144.22,
+      "duration": 3.72
+    },
+    {
+      "text": "(Dan:) What do you mean that's our shadow?",
+      "start": 148.18,
+      "duration": 1.18
+    },
+    {
+      "text": "(Arin:) Th-the black thing that shows up when we, when we uhh jump. (Dan:) oh oh oh.",
+      "start": 149.36,
+      "duration": 3.78
+    },
+    {
+      "text": "(Dan:) DAMN YOU RUBBER DUCKY! (Arin:) Ahhaha got a bonus!",
+      "start": 153.38,
+      "duration": 3.5
+    },
+    {
+      "text": "(Dan & Arin:) Ohhh",
+      "start": 157.66,
+      "duration": 0.76
+    },
+    {
+      "text": "(Arin:) Oh if I like, outrun you..",
+      "start": 158.42,
+      "duration": 1.18
+    },
+    {
+      "text": "(Dan:) Oh yeahhh",
+      "start": 159.76,
+      "duration": 0.5
+    },
+    {
+      "text": "(Arin:) Then I-I get points.",
+      "start": 160.26,
+      "duration": 2.0
+    },
+    {
+      "text": "(Arin:) S-so that's the objective.",
+      "start": 162.26,
+      "duration": 0.5
+    },
+    {
+      "text": "(Dan:) I got, I got stuck on the dots. I got dot stuck.",
+      "start": 162.76,
+      "duration": 1.48
+    },
+    {
+      "text": "*engine noises*",
+      "start": 164.24,
+      "duration": 1.34
+    },
+    {
+      "text": "(Dan:) Woahhhhh no! (Arin:) Ye-hesss!",
+      "start": 165.58,
+      "duration": 1.36
+    },
+    {
+      "text": "(Dan:) Oh boy, you're incredible.",
+      "start": 166.94,
+      "duration": 2.02
+    },
+    {
+      "text": "(Arin:) That's a really interesting mechanic okay that's cool. (Dan:) Yeah.",
+      "start": 168.96,
+      "duration": 2.0
+    },
+    {
+      "text": "(Arin:) I can dig it.",
+      "start": 172.22,
+      "duration": 0.74
+    },
+    {
+      "text": "*engine noises*",
+      "start": 172.96,
+      "duration": 0.9
+    },
+    {
+      "text": "(Arin:) I ca- oh. (Dan:) NOooOO THE DUCK!",
+      "start": 173.86,
+      "duration": 2.0
+    },
+    {
+      "text": "(Arin:) YEs!",
+      "start": 175.86,
+      "duration": 0.5
+    },
+    {
+      "text": "(Dan:) The duck is my fucking- (Arin:) Tshhhhh. (Dan:) i- it's my nightmare.",
+      "start": 176.36,
+      "duration": 3.44
+    },
+    {
+      "text": "(Arin:) That's the fuck duck? (Dan:) Yeah.",
+      "start": 179.8,
+      "duration": 1.08
+    },
+    {
+      "text": "(Dan:) It's the suck duck.",
+      "start": 181.16,
+      "duration": 0.72
+    },
+    {
+      "text": "(Arin:) You gotta stay- you gotta stay in the inside turns.",
+      "start": 181.88,
+      "duration": 3.24
+    },
+    {
+      "text": "(Arin:) Oh shit, OH SHIT! (Dan:) Now the bonus is mine!",
+      "start": 185.12,
+      "duration": 3.3
+    },
+    {
+      "text": "(Arin:) Ugh this is- (Dan:) Because I went through the PVC pipe that kid had in his-",
+      "start": 188.42,
+      "duration": 3.36
+    },
+    {
+      "text": "(Arin laughing)",
+      "start": 192.08,
+      "duration": 0.5
+    },
+    {
+      "text": "(Dan:) -bathtub?",
+      "start": 192.6,
+      "duration": 0.5
+    },
+    {
+      "text": "(Arin:) This is some fucking \"Kirby's Dream Course\" shit (Dan:) We might just be in a sink.",
+      "start": 193.44,
+      "duration": 3.42
+    },
+    {
+      "text": "(Arin:) Yes! (Dan:) Fuck me.",
+      "start": 196.86,
+      "duration": 1.6
+    },
+    {
+      "text": "(Arin:) It's a pretty big tub- (Dan:) Yeah. (Arin:) -for sure.",
+      "start": 198.46,
+      "duration": 2.0
+    },
+    {
+      "text": "(Arin:) To be fair. (Dan imitating buzzer noise:) Boooow",
+      "start": 200.46,
+      "duration": 1.36
+    },
+    {
+      "text": "*engine noises*",
+      "start": 201.96,
+      "duration": 0.5
+    },
+    {
+      "text": "(Dan:) Or these machines are incredibly micro- OH god. (Arin:) Yessss!",
+      "start": 202.46,
+      "duration": 4.08
+    },
+    {
+      "text": "(Dan:) Oh you won! (Arin:) I am the most micro of them all!",
+      "start": 207.06,
+      "duration": 2.0
+    },
+    {
+      "text": "(Dan:) Congratulations! (Arin:) I am the host of \"Dirty Jobs\" Mike Rowe!",
+      "start": 209.3,
+      "duration": 3.1
+    },
+    {
+      "text": "(Dan laughing)",
+      "start": 212.4,
+      "duration": 1.38
+    },
+    {
+      "text": "(Dan whispering:) Micro machines.",
+      "start": 213.78,
+      "duration": 2.0
+    },
+    {
+      "text": "*xylophone music plays* (Arin:) Yes! (Dan:) Son of a bitch. Oh-uh-",
+      "start": 215.78,
+      "duration": 1.98
+    },
+    {
+      "text": "(Arin, high pitched:) Raise the roof!!",
+      "start": 218.0,
+      "duration": 0.65
+    },
+    {
+      "text": "(Dan:) Eh-he, Jethro was like \"Well, I'll just let my hair eat my face, I guess.\"",
+      "start": 218.65,
+      "duration": 4.51
+    },
+    {
+      "text": "(Arin, high pitched:) Let's celebrate by going to the \"Cheesecake Factory!\"",
+      "start": 223.46,
+      "duration": 2.92
+    },
+    {
+      "text": "(Dan laughing)",
+      "start": 226.38,
+      "duration": 1.74
+    },
+    {
+      "text": "(Dan, high pitched:) Have you seen the size of their menus it's... huge.",
+      "start": 228.24,
+      "duration": 2.24
+    },
+    {
+      "text": "(Arin, high pitched:) Yeah but I only stick to the skinnylicious section. (Dan, laughing in normal voice:) Skinnylicious.",
+      "start": 230.48,
+      "duration": 3.78
+    },
+    {
+      "text": "(Arin, high pitched:) Yeah! It's like- it's tasty and it's also good for you and it leaves room for some cheesecakeeee!!",
+      "start": 234.3,
+      "duration": 3.64
+    },
+    {
+      "text": "(Dan, high pitched) YeAAHH!! yEAH.",
+      "start": 238.14,
+      "duration": 1.11
+    },
+    {
+      "text": "(Arin laughing) (Dan, normal voice) Oh fuck I forgot I was red.",
+      "start": 239.25,
+      "duration": 2.49
+    },
+    {
+      "text": "(Arin, high pitched:) He-yaaa. Oh shit. (Dan:) Awww now I got the colours-",
+      "start": 241.74,
+      "duration": 2.76
+    },
+    {
+      "text": "(Arin:) Oh you fucking tator-tot.",
+      "start": 244.62,
+      "duration": 1.12
+    },
+    {
+      "text": "(Dan): -cause they were flying around this garden.",
+      "start": 245.74,
+      "duration": 2.0
+    },
+    {
+      "text": "*engine noises* (Dan imitating engine noises: Br-brb-r-br-r-br",
+      "start": 247.74,
+      "duration": 1.52
+    },
+    {
+      "text": "(Dan and Arin:) Whoa. (Arin:) whoa whoa whoa.",
+      "start": 249.34,
+      "duration": 2.4
+    },
+    {
+      "text": "(Dan and Arin screaming:) Ahhhhh- ohhhh myyyy godddd",
+      "start": 251.74,
+      "duration": 1.6
+    },
+    {
+      "text": "(Arin, yelling:) Oh my god I was so close, I was so close!",
+      "start": 253.44,
+      "duration": 1.56
+    },
+    {
+      "text": "(Dan:) Uhhhhh... ohhhh. Agh there is so much vegetation!!",
+      "start": 255.0,
+      "duration": 3.58
+    },
+    {
+      "text": "(Arin, yelling:) OHHH SHIT.. OHHHH FUCK",
+      "start": 258.58,
+      "duration": 2.64
+    },
+    {
+      "text": "(Arin, laughing:) I was so close. (Dan:) God dammit!",
+      "start": 261.22,
+      "duration": 3.14
+    },
+    {
+      "text": "(Arin, yelling:) OH NO! (Dan:) Yes!!!",
+      "start": 264.58,
+      "duration": 1.5
+    },
+    {
+      "text": "(Arin:) Oh you-you titty sprinkler.  (Dan:) Yeah, yeah NO you are the one who sprinkles titties my frien- (Arin:) I do it all the time.",
+      "start": 266.08,
+      "duration": 4.12
+    },
+    {
+      "text": "(Dan scoffs)",
+      "start": 270.38,
+      "duration": 0.5
+    },
+    {
+      "text": "(Arin:) Oh shit oh shit. (Dan:) AH-uh-oh-oh-OH-OH god. Boy the- it's- it's so tough cause they don't- you don't know what's coming.",
+      "start": 271.28,
+      "duration": 8.76
+    },
+    {
+      "text": "(Arin:) Yeah well that's like the- that's like the trade off rig- (Dan:) Ohhh I was caught, I'm caught. (Arin:)-ht. It's such a clever design.",
+      "start": 280.38,
+      "duration": 3.92
+    },
+    {
+      "text": "(Dan:) Yeah. (Arin:) Like when you- when you're in first you sort of hav- you're at a disadvantage. (Dan:) Almost yeah.",
+      "start": 284.3,
+      "duration": 5.48
+    },
+    {
+      "text": "(Arin:) It's like \"Mario Kart\" dude. It's auto-balancing.",
+      "start": 290.02,
+      "duration": 3.14
+    },
+    {
+      "text": "*propeller noises*",
+      "start": 293.16,
+      "duration": 1.72
+    },
+    {
+      "text": "(Arin:) Oh shit. Uhhhhh. Haha I love the sound of us just hitting walls.",
+      "start": 294.88,
+      "duration": 4.42
+    },
+    {
+      "text": "(Arin, imitating noise) Tic, tic. Just somebody hit wood with wood and they were like \"Uhhh, that's good.\"  (Dan:) \"Uhh perfect-\" (Arin:) \"Sounds good, sounds right\" (Dan:) \"Let's use that for everything.\"",
+      "start": 299.48,
+      "duration": 6.42
+    },
+    {
+      "text": "*propeller noises*",
+      "start": 305.9,
+      "duration": 0.78
+    },
+    {
+      "text": "(Dan:) NOOooooO. (Arin:) I like the bathtub level 'cause there was more stuff to it.",
+      "start": 306.68,
+      "duration": 3.94
+    },
+    {
+      "text": "(Dan, imitating propeller noises:) *blows raspberry* PLlLl-bleh-bleh-bleh-bleh-bleh-bleh-bleh-bleh (Arin, laughs)",
+      "start": 310.78,
+      "duration": 2.8
+    },
+    {
+      "text": "(Arin:) Uh Oh, UH OH. (Dan:) Yeahhhhh.",
+      "start": 313.58,
+      "duration": 1.44
+    },
+    {
+      "text": "(Arin:) Ohhhh- oh you're really killing it right now. (Dan:) I'm feeling good about this-uhhh- gardencopter situati- oh fuck- oh fuckin- oh you fuckin- oh you fucker.",
+      "start": 315.02,
+      "duration": 8.18
+    },
+    {
+      "text": "(Arin, lower voice) \"Oh you fucking- oh you fuck.",
+      "start": 323.2,
+      "duration": 1.72
+    },
+    {
+      "text": "(Arin:) UH-uh. (Dan:) UH-UH-UH. *Arin starts beatboxing* (Dan:) Uh-uh-uh....uh-uh-uh-uh OH NO awwwww. *Arin stops beatboxing*",
+      "start": 326.28,
+      "duration": 5.28
+    },
+    {
+      "text": "(Arin:) Yessss. (Dan:) Shi- (Arin:) YES.",
+      "start": 331.56,
+      "duration": 2.0
+    },
+    {
+      "text": "(Arin:) You gotta watch out for the sprinkler. (Dan:) You found the garden hose.",
+      "start": 333.56,
+      "duration": 2.2
+    },
+    {
+      "text": "*propeller noises*",
+      "start": 336.08,
+      "duration": 1.22
+    },
+    {
+      "text": "(Arin:) Oh. (Dan:) Woah. Well then. *laughs* That's immediate death. (Arin:) Yikes.",
+      "start": 337.3,
+      "duration": 4.02
+    },
+    {
+      "text": "(Dan:) No-ted. (Arin:) The boat can handle water but the helicopter is like a fucking little tiny spray and it dies?",
+      "start": 341.32,
+      "duration": 4.92
+    },
+    {
+      "text": "(Dan and Arin, whispering:) Yessssss. (Arin:) OH NO THAT WAS YOU!? (Dan:) I'm red Arin. (Arin:) Awwwww tits. (Dan: I know these are-these are the reverse of our usual colours.  (Arin:) I got mixed up.",
+      "start": 346.24,
+      "duration": 7.02
+    },
+    {
+      "text": "(Dan:) OHHH god damnit.",
+      "start": 353.26,
+      "duration": 2.14
+    },
+    {
+      "text": "(Arin, singing:) I am an anussssss. Ohhhh shit comes out of meeeee.",
+      "start": 356.34,
+      "duration": 3.96
+    },
+    {
+      "text": "(Arin and Dan, laughing:) (Dan:) What the fuck?",
+      "start": 360.3,
+      "duration": 2.88
+    },
+    {
+      "text": "(Dan:) Uhhh, uh, uh. (Dan and Arin:) Uhhhh, uh, uh, uh, uh, uh, oh, oh, oh. (Dan:) Uh, uh, AH, AH, AH, uh, uh, AH, AH AH. (Arin:) UH OH, UH OH, UH OH, UH OH.",
+      "start": 363.38,
+      "duration": 8.22
+    },
+    {
+      "text": "(Dan:) It's-uh-uh- yeahhhhh baby.",
+      "start": 371.6,
+      "duration": 2.0
+    },
+    {
+      "text": "(Arin and Dan, breathing heavily:)",
+      "start": 374.72,
+      "duration": 2.0
+    },
+    {
+      "text": "(Arin:) What? What the hell just happened? (Dan:) I-I dun- (Arin:) Why did we got that way?",
+      "start": 376.72,
+      "duration": 2.34
+    },
+    {
+      "text": "(Dan:) YAAAAAA (Arin:) WOAH WOAH WOAH WOAH WOAH, why did we drift to the right a little bit? (Dan:) I don't know, there, like, I-I-I had that too I think we got blown by something.",
+      "start": 379.24,
+      "duration": 6.14
+    },
+    {
+      "text": "(Arin:) That's... ohhhhh- (Dan:) But not someone. (Arin:)- I think we were jus next to a fan or something like that. (Dan:) Yeahhhhhhh.",
+      "start": 385.38,
+      "duration": 3.76
+    },
+    {
+      "text": "*xylephone muisc plays* (Dan:) YAAAAAA! (Arin:) \"Ohhhhhhh- this is how I jerk off two dickssss.\"",
+      "start": 389.14,
+      "duration": 4.7
+    },
+    {
+      "text": "(Dan:) \"This is how I jerk off, you won't even SEE me in the little box!\" (Arin, laughs:) (Dan:) I'm just doin' my thang!",
+      "start": 394.02,
+      "duration": 5.4
+    },
+    {
+      "text": "(Arin:) *sighs* Okay next challenge. (Dan:) This is-this is, of all the ness [idk what he said lmao] games we've played today, this is by FAR the most fun.",
+      "start": 399.42,
+      "duration": 5.46
+    },
+    {
+      "text": "(Arin:) It-it's really fun. (Dan:) By FAR.",
+      "start": 404.88,
+      "duration": 2.26
+    },
+    {
+      "text": "(Arin:) Whoo! Oh we're on hot rods now. (Dan:) Yeah, you better believe it.",
+      "start": 407.32,
+      "duration": 1.98
+    },
+    {
+      "text": "(Arin:) Whooh (Dan:) Awww look at these tiny little monkeyyyyy- ahhhhhh.",
+      "start": 409.3,
+      "duration": 5.22
+    },
+    {
+      "text": "(Arin:) Yesssss, knock you off track bitch. (Dan:) Oh dear! (Arin:) YESSS. (Dan:) Cheese is great.",
+      "start": 414.52,
+      "duration": 3.46
+    },
+    {
+      "text": "(Arin:) I have feeling that things are starting to go \"A-okay\". (Dan:) Oh, I forgot to follow the cocaine.",
+      "start": 418.12,
+      "duration": 3.86
+    },
+    {
+      "text": "(Arin laughs:) *tires screech*",
+      "start": 421.98,
+      "duration": 2.0
+    },
+    {
+      "text": "(Arin:) It's salt, they don't want any slugs getting on their ra-ra-race tracks. (Dan:) Oh aw. *laughs*",
+      "start": 423.98,
+      "duration": 4.78
+    },
+    {
+      "text": "(Dan:) Yeah th-the slug hits it and it *high pitched screams* (Arin and Dan laugh).",
+      "start": 429.72,
+      "duration": 5.82
+    },
+    {
+      "text": "(Dan:) What are those, contact lenses? (Arin:) Woahhhh. (Dan:) Awwwww we both hit the same nut!",
+      "start": 435.54,
+      "duration": 4.56
+    },
+    {
+      "text": "(Arin:) The fuck off a track bitch!",
+      "start": 440.4,
+      "duration": 1.66
+    },
+    {
+      "text": "(Arin:) What? (Dan:) Well, I hope you're happy.",
+      "start": 442.06,
+      "duration": 2.2
+    },
+    {
+      "text": "(Arin:) That's the sound of- that's the sound of you-your life fading away.",
+      "start": 445.28,
+      "duration": 3.2
+    },
+    {
+      "text": "(Arin laughs:) (Dan:) Jesus Christ. (Arin, imitates crash sound) Pt.",
+      "start": 450.32,
+      "duration": 2.0
+    },
+    {
+      "text": "(Dan:) I don't fully understand. (Arin:) Ohhhh you gotta watch out for the \"pt\"",
+      "start": 452.6,
+      "duration": 2.44
+    },
+    {
+      "text": "*tires screech*",
+      "start": 455.04,
+      "duration": 1.62
+    },
+    {
+      "text": "(Arin:) Ohhhhhhhhhhh.",
+      "start": 456.96,
+      "duration": 2.0
+    },
+    {
+      "text": "(Arin:) Oh it's glue. (Dan:) Oh. (Arin:) I thought it was just water. (Dan:) Ohhhhhhhhhh. (Arin:) \"pt\"",
+      "start": 460.14,
+      "duration": 4.74
+    },
+    {
+      "text": "(Dan:) It is- (Arin:) UH UH! (Arin and Dan, yelling:) HOOOOOOOOOO (Dan:) NO.",
+      "start": 465.74,
+      "duration": 6.66
+    },
+    {
+      "text": "(Arin:) GUH!",
+      "start": 472.72,
+      "duration": 0.5
+    },
+    {
+      "text": "(Arin:) I DON'-OHHHH- (Dan:) YEAHHH! (Arin:) FUCK! (Dan laughs)",
+      "start": 473.22,
+      "duration": 3.7
+    },
+    {
+      "text": "(Dan:) It's pretty agonizing when like, yo-yo-your lead gets undone. (Arin:) Oh yeah 'cause you can feel it like in your fucking bones you can feel it. (Dan:) Yeah like \"Oh my bones.\"",
+      "start": 476.92,
+      "duration": 9.74
+    },
+    {
+      "text": "(Arin:) Uh oh, Uh oh. (Dan:) YEssssss. (Arin, high pitched) OHhhhHHHH.",
+      "start": 488.04,
+      "duration": 2.42
+    },
+    {
+      "text": "(Arin, low voice:) My asshole. (Dan, yells:) MY MICROPUSSY! (Arin and Dan laugh:) (Arin, singing:) Micropusssssy!",
+      "start": 491.1,
+      "duration": 6.1
+    },
+    {
+      "text": "*tires screech*",
+      "start": 497.64,
+      "duration": 1.44
+    },
+    {
+      "text": "(Arin:) Mhhhhhhhhm. (Dan:) Oh god! Boy you hit one pencil- (Arin laughs:) (Dan:) -and you are fucked for life. (Arin:) Yeah dude. It's that drug life.",
+      "start": 499.08,
+      "duration": 9.64
+    },
+    {
+      "text": "(Arin:) You hit- (Dan:) It's one pencil- (Arin:) -and you're done. (Dan:) It's my life. Bow! (Arin:) You're done-ion rings.",
+      "start": 508.92,
+      "duration": 5.14
+    },
+    {
+      "text": "(Arin:) Uh oh, oh that's a smart move, that's a smart move- (Dan:) Ohhh-uh-ohh (Arin:) -to bad it wasn't... AS SMART AS SAFE DRIVING!!",
+      "start": 515.4,
+      "duration": 5.22
+    },
+    {
+      "text": "(Arin and Dan laugh)",
+      "start": 520.62,
+      "duration": 3.84
+    },
+    {
+      "text": "(Dan: Oh god, wow, as much as the last three games have sucked the life from us- (Arin, laughs:) (Dan:) -this is like, regenerating everything.",
+      "start": 524.46,
+      "duration": 7.18
+    },
+    {
+      "text": "(Arin:) OH \"pt\" OH FUCK OH FUCK  (Dan:) Yeah. (Arin,screaming:) IIIIYEEEEEEYA. (Dan:) I don-I don't care if you were scratching your ear.",
+      "start": 531.88,
+      "duration": 6.7
+    },
+    {
+      "text": "(Arin:) God damn, this is fucking neck and neck dude. Yeah, yeah suck me off. (Dan:) I-I- (Arin) Uh oh, oh, no-no-No-NO (Dan:) Yeahhhhh! Jack me off! (Arin:) Oh boy.",
+      "start": 538.74,
+      "duration": 9.5
+    },
+    {
+      "text": "(Dan:) Bow! (Arin:) This is definitely the most interesting, visually, stage. (Dan:) Ohhhhhhhh. (Arin:) It's like shit going on. (Dan:) Yeah theres- we're just like in a tool shed. Going crazy pants.",
+      "start": 549.1,
+      "duration": 10.92
+    },
+    {
+      "text": "*tires screech*",
+      "start": 560.02,
+      "duration": 2.0
+    },
+    {
+      "text": "(Dan: Wuh, ohhhhh. (Arin laughs:) (Dan:) I guess like- (Arin:) I should get the point for that.",
+      "start": 562.02,
+      "duration": 4.46
+    },
+    {
+      "text": "(Dan:) Oh should you Arin? (Arin:) Yeah cause I ram- I t-boned you- (Dan:) Mhmmmmm. (Arin:) -that's how it is in every other bot-battle racing game. (Dan:) Mhmm. (Arin:) I'm just saying.",
+      "start": 566.9,
+      "duration": 8.82
+    },
+    {
+      "text": "(Arin:) I'm just super sayi-fuck! (Dan:) YEsss! (Arin:) You weren't even on the track and you won! (Dan:) I know, I know you just have to ditch the other person at any cost! (Arin:) Can I do this? Can I go this way?",
+      "start": 575.72,
+      "duration": 9.08
+    },
+    {
+      "text": "(Arin, laughing:) (Dan:) Apparently not! IIIIII'M THE WINNNEEER. (Arin:) Damn it!",
+      "start": 585.26,
+      "duration": 4.38
+    },
+    {
+      "text": "(Dan:) YAaaaaaay. (Arin:) Are you winning right now is it two to one? (Dan:) It's two to one, it's two to one lookout my little legs kicking up in the air! (Arin:) Shit. (Dan:) Yessssuhhh.",
+      "start": 590.0,
+      "duration": 6.58
+    },
+    {
+      "text": "(Arin:) \"I'm gonna jerk off these dicks for a while!\" (Dan:) Huh-huh so angerz! (Arin:) Mhhhhhm.",
+      "start": 596.58,
+      "duration": 4.42
+    },
+    {
+      "text": "(Dan:) Wait do you wanna finish the tournament next time on \"Game Grumps\"? (Arin:) How many more rounds are there? (Dan:) I dunno, there, I think there's six?",
+      "start": 601.2,
+      "duration": 5.42
+    },
+    {
+      "text": "(Dan:) So this would be the perfect halfway point.",
+      "start": 606.96,
+      "duration": 2.0
+    },
+    {
+      "text": "(Arin:) Owuhh.",
+      "start": 608.96,
+      "duration": 0.84
+    },
+    {
+      "text": "(Arin:) *breaths deeply* Alright. (Dan:) Alright. So ca-wait hold on.",
+      "start": 609.8,
+      "duration": 4.38
+    },
+    {
+      "text": "*Dan burps*",
+      "start": 615.12,
+      "duration": 1.06
+    },
+    {
+      "text": "(Dan:) There we go. (Arin:) Oh nice. (Dan:) Yeah thank you.",
+      "start": 616.92,
+      "duration": 1.26
+    },
+    {
+      "text": "(Dan:) Ju- somethin-something's a little wrong with Jethro's face right?",
+      "start": 620.3,
+      "duration": 2.98
+    },
+    {
+      "text": "(Dan:) Like something, something-",
+      "start": 624.1,
+      "duration": 1.12
+    },
+    {
+      "text": "(Dan:) -something's not quite right.",
+      "start": 626.08,
+      "duration": 1.14
+    }
+  ]
+}

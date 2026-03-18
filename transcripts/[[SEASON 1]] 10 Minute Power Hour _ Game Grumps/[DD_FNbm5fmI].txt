@@ -1,0 +1,2133 @@
+{
+  "video_id": "DD_FNbm5fmI",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "*music*",
+      "start": 3.94,
+      "duration": 5.12
+    },
+    {
+      "text": "Arin: Hi. Hey! Woaah! Hey! Hey!\nDan: Oh, hey! Oh, hey!",
+      "start": 10.34,
+      "duration": 2.52
+    },
+    {
+      "text": "A: HEY! WOAH!\nD: WOO! Hello!",
+      "start": 13.06,
+      "duration": 1.6
+    },
+    {
+      "text": "A: YEAAAAAH!!!",
+      "start": 14.76,
+      "duration": 1.32
+    },
+    {
+      "text": "D: Welcome to the 10 Minute-",
+      "start": 17.32,
+      "duration": 1.0
+    },
+    {
+      "text": "D: ...Power Hour.",
+      "start": 19.26,
+      "duration": 0.84
+    },
+    {
+      "text": "A: We're going to p-",
+      "start": 20.36,
+      "duration": 0.76
+    },
+    {
+      "text": "A: Can you see that?",
+      "start": 21.32,
+      "duration": 1.28
+    },
+    {
+      "text": "D: Yeah, let's- Well, you just pointed right at it.",
+      "start": 22.6,
+      "duration": 1.34
+    },
+    {
+      "text": "D: Welcome to the 10 Minute Power Hour. That's Arin Hanson and I'm Daniel Avidan and today-",
+      "start": 24.24,
+      "duration": 4.48
+    },
+    {
+      "text": "A: Is that how you pronounce it?",
+      "start": 28.72,
+      "duration": 1.3
+    },
+    {
+      "text": "D: Yeah.",
+      "start": 30.02,
+      "duration": 0.62
+    },
+    {
+      "text": "*balloons rustling/squeaking*",
+      "start": 31.3,
+      "duration": 19.92
+    },
+    {
+      "text": "D: Ohh!",
+      "start": 52.7,
+      "duration": 0.66
+    },
+    {
+      "text": "D: It's flying awaaay!",
+      "start": 53.64,
+      "duration": 1.84
+    },
+    {
+      "text": "A: It wasn't... wasn't enough balloons.",
+      "start": 59.6,
+      "duration": 2.0
+    },
+    {
+      "text": "D: It's pretty flawless.",
+      "start": 62.1,
+      "duration": 1.28
+    },
+    {
+      "text": "A: Just wrap it up.",
+      "start": 65.1,
+      "duration": 1.72
+    },
+    {
+      "text": "*dinosaur and cup crashing to the ground*",
+      "start": 69.92,
+      "duration": 1.0
+    },
+    {
+      "text": "A: What are we doing today, Dan?",
+      "start": 71.06,
+      "duration": 1.94
+    },
+    {
+      "text": "D: I don't know.",
+      "start": 73.0,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Oh, I- I'm the one who knows.\nD: Yeah.",
+      "start": 74.6,
+      "duration": 2.32
+    },
+    {
+      "text": "A: It's- We're doing...",
+      "start": 76.92,
+      "duration": 0.9
+    },
+    {
+      "text": "A: ...Taxidermyyyy!",
+      "start": 78.38,
+      "duration": 1.22
+    },
+    {
+      "text": "D: Oh my God!",
+      "start": 79.72,
+      "duration": 0.64
+    },
+    {
+      "text": "A: With our special guest, Suzy, my wife!",
+      "start": 81.02,
+      "duration": 2.02
+    },
+    {
+      "text": "D: It's Suzanne Berhow!",
+      "start": 83.04,
+      "duration": 1.28
+    },
+    {
+      "text": "A: She's beautiful, and I love her!",
+      "start": 84.32,
+      "duration": 1.22
+    },
+    {
+      "text": "Suzy: [mouthing] No...",
+      "start": 86.36,
+      "duration": 0.56
+    },
+    {
+      "text": "D: [laughs]",
+      "start": 86.92,
+      "duration": 0.7
+    },
+    {
+      "text": "A: What do you mean, \"No?\"",
+      "start": 87.62,
+      "duration": 1.44
+    },
+    {
+      "text": "S: Are you guys ready?",
+      "start": 89.07,
+      "duration": 0.56
+    },
+    {
+      "text": "A: Yeah!\nD: Yeah, yeah. Oh, yeah. Yeah.",
+      "start": 90.0,
+      "duration": 1.26
+    },
+    {
+      "text": "D: Come on over.",
+      "start": 91.7,
+      "duration": 1.7
+    },
+    {
+      "text": "A: Come on over. Bring your chair, ladies.",
+      "start": 93.4,
+      "duration": 1.92
+    },
+    {
+      "text": "S: Hi guys, welcome to 10 Minute Power Hour!",
+      "start": 95.32,
+      "duration": 2.22
+    },
+    {
+      "text": "D: Yaaaaay!\n[Suzy giggles]",
+      "start": 97.54,
+      "duration": 0.96
+    },
+    {
+      "text": "S: I'm your host, Suzy Berhow, and today we're gonna be taxiderming some bugs!",
+      "start": 98.54,
+      "duration": 3.3
+    },
+    {
+      "text": "A: [softly] Oh, shit.",
+      "start": 101.84,
+      "duration": 0.62
+    },
+    {
+      "text": "D: I cannot wait.",
+      "start": 102.46,
+      "duration": 1.34
+    },
+    {
+      "text": "D: Teach us how, Suzy, because I don't know anything.",
+      "start": 103.8,
+      "duration": 3.0
+    },
+    {
+      "text": "D: Do you have bugs?",
+      "start": 106.8,
+      "duration": 0.76
+    },
+    {
+      "text": "A: Where are your materials?",
+      "start": 107.56,
+      "duration": 1.1
+    },
+    {
+      "text": "S: I have them all right here.",
+      "start": 108.66,
+      "duration": 2.0
+    },
+    {
+      "text": "D: [excited gasp]",
+      "start": 110.66,
+      "duration": 1.26
+    },
+    {
+      "text": "A: She's gonna get them.",
+      "start": 112.59,
+      "duration": 1.59
+    },
+    {
+      "text": "D: So, how are you guys?",
+      "start": 114.98,
+      "duration": 0.72
+    },
+    {
+      "text": "D: Everything good?",
+      "start": 117.1,
+      "duration": 1.66
+    },
+    {
+      "text": "Tucker: Don't talk to us.",
+      "start": 119.1,
+      "duration": 0.96
+    },
+    {
+      "text": "D: Okay.",
+      "start": 120.06,
+      "duration": 0.5
+    },
+    {
+      "text": "A: How come Dan gets the clean one and I get the one that's, like, covered in bug shit?",
+      "start": 120.56,
+      "duration": 3.06
+    },
+    {
+      "text": "S: So you guys have everything you need. You have your boards- Don't smell it.",
+      "start": 123.88,
+      "duration": 2.56
+    },
+    {
+      "text": "A: [weird gagging noise]",
+      "start": 126.6,
+      "duration": 0.5
+    },
+    {
+      "text": "S: These are your pins; you guys will share. And then these are... important.",
+      "start": 127.1,
+      "duration": 4.42
+    },
+    {
+      "text": "S: All right. (D: Okay.) So, to get started, I'm gonna give you each a Luna Moth.",
+      "start": 131.52,
+      "duration": 3.62
+    },
+    {
+      "text": "A: Oh, the Luna Moth is so beautiful!",
+      "start": 135.149,
+      "duration": 1.67
+    },
+    {
+      "text": "S: There you go. These ones are from Georgia, here in the United States.",
+      "start": 136.82,
+      "duration": 2.66
+    },
+    {
+      "text": "S: Go ahead and reach in there and pull it out.",
+      "start": 139.48,
+      "duration": 1.179
+    },
+    {
+      "text": "D: It's more moist then I wanted it to be...",
+      "start": 140.659,
+      "duration": 1.391
+    },
+    {
+      "text": "A: What do you mean, \"Pull it out?\" I'm gonna fuckin'...",
+      "start": 142.05,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Can I just shake it out?",
+      "start": 144.8,
+      "duration": 1.48
+    },
+    {
+      "text": "S: Yeah! I mean, be gentle.",
+      "start": 146.28,
+      "duration": 2.0
+    },
+    {
+      "text": "A: [gagging]",
+      "start": 148.28,
+      "duration": 0.64
+    },
+    {
+      "text": "S: It's kind of got the consistency of wet paper towel. So you really want to be careful with it.\nA: [continuously gagging]",
+      "start": 148.92,
+      "duration": 3.82
+    },
+    {
+      "text": "D: Euughh...",
+      "start": 152.86,
+      "duration": 1.08
+    },
+    {
+      "text": "S: Look, you did it!\nA: [still gagging]\nD: [giggles]",
+      "start": 153.94,
+      "duration": 1.9
+    },
+    {
+      "text": "A: It's beautif- [gags again]",
+      "start": 156.32,
+      "duration": 1.42
+    },
+    {
+      "text": "D: [giggles]",
+      "start": 157.74,
+      "duration": 0.58
+    },
+    {
+      "text": "D: How'd you get it out? Did you touch the wing?",
+      "start": 158.74,
+      "duration": 1.94
+    },
+    {
+      "text": "A: I just ripped the bag open, and fuckin' (D: Ohh.) dumped it out on the stupid piece of wood.",
+      "start": 160.68,
+      "duration": 3.8
+    },
+    {
+      "text": "D: That's a smart idea.",
+      "start": 164.48,
+      "duration": 1.001
+    },
+    {
+      "text": "A: Sorry. I didn't mean to call your piece of wood stupid.",
+      "start": 165.481,
+      "duration": 1.699
+    },
+    {
+      "text": "*Funky Jams*",
+      "start": 167.84,
+      "duration": 2.32
+    },
+    {
+      "text": "A: You want us to... rip the legs off this tiny little creature?",
+      "start": 170.38,
+      "duration": 3.3
+    },
+    {
+      "text": "A: What if it hurts him?",
+      "start": 173.68,
+      "duration": 0.98
+    },
+    {
+      "text": "S: [as the dead moth] Hi, Dan! Nice to see you!",
+      "start": 174.66,
+      "duration": 1.8
+    },
+    {
+      "text": "D: Nooo! Don't personify him!",
+      "start": 176.46,
+      "duration": 2.02
+    },
+    {
+      "text": "S: [still the dead moth] What're you doin', Dan?",
+      "start": 178.48,
+      "duration": 1.28
+    },
+    {
+      "text": "A: Oh, he's so fluff- his fluff is coming off on me!!",
+      "start": 179.92,
+      "duration": 2.56
+    },
+    {
+      "text": "A: Nooo! His fluff is rubbing off on my fingers!",
+      "start": 182.72,
+      "duration": 2.82
+    },
+    {
+      "text": "S: You gotta be more delicate.",
+      "start": 185.54,
+      "duration": 1.26
+    },
+    {
+      "text": "A: What do you mean more delicate?! [Dan screams] How am I supposed to hold it if its fluff is coming off?",
+      "start": 186.8,
+      "duration": 3.38
+    },
+    {
+      "text": "S: You're yelling! You're gonna make Dan scared.",
+      "start": 190.18,
+      "duration": 1.94
+    },
+    {
+      "text": "D: Yeah, I am s- AAAA! AAGH!!",
+      "start": 192.12,
+      "duration": 2.58
+    },
+    {
+      "text": "D: Oh, I don't like it!!",
+      "start": 195.02,
+      "duration": 1.14
+    },
+    {
+      "text": "D: [intermittent yells of disgust]",
+      "start": 196.82,
+      "duration": 1.94
+    },
+    {
+      "text": "S: You got it. You got it.",
+      "start": 198.76,
+      "duration": 1.14
+    },
+    {
+      "text": "* p o p *",
+      "start": 200.7,
+      "duration": 0.5
+    },
+    {
+      "text": "D: AAAAAA-HA-HAAAUGH",
+      "start": 201.2,
+      "duration": 1.58
+    },
+    {
+      "text": "A: AH! He's got little pricks! He pricked my finger!",
+      "start": 202.78,
+      "duration": 2.34
+    },
+    {
+      "text": "D: Okay...",
+      "start": 205.12,
+      "duration": 1.14
+    },
+    {
+      "text": "S: Perfect, Dan!\nA: Oh, no...",
+      "start": 206.76,
+      "duration": 0.98
+    },
+    {
+      "text": "D: Thank you.",
+      "start": 207.74,
+      "duration": 0.98
+    },
+    {
+      "text": "S: Wow... Dan's beating you.",
+      "start": 208.82,
+      "duration": 1.62
+    },
+    {
+      "text": "D: Yeah.",
+      "start": 210.44,
+      "duration": 0.84
+    },
+    {
+      "text": "A: What do you mean he's beating me?",
+      "start": 211.28,
+      "duration": 0.74
+    },
+    {
+      "text": "D: In the race to rip off an innocent creature's legs.",
+      "start": 212.02,
+      "duration": 1.92
+    },
+    {
+      "text": "A: Yeah, he's beating the insects...",
+      "start": 214.46,
+      "duration": 1.44
+    },
+    {
+      "text": "S: He's dead.",
+      "start": 215.9,
+      "duration": 0.88
+    },
+    {
+      "text": "S: I promise he can't feel anything.",
+      "start": 217.64,
+      "duration": 1.94
+    },
+    {
+      "text": "D: [uncomfortable laugh]",
+      "start": 219.58,
+      "duration": 1.02
+    },
+    {
+      "text": "D: It's just gross 'cause, like, it extends when you pull it...",
+      "start": 220.6,
+      "duration": 3.16
+    },
+    {
+      "text": "D: Like, \"Yes, take my hand!\" Then you rip the whole thi-... Ugh...",
+      "start": 223.76,
+      "duration": 3.82
+    },
+    {
+      "text": "S: Now, for some bugs, you will leave the legs on. But for butterflies and moths when you display them-",
+      "start": 227.58,
+      "duration": 4.08
+    },
+    {
+      "text": "S: -it's better if you take them off 'cause it's easier to display them.",
+      "start": 231.66,
+      "duration": 2.6
+    },
+    {
+      "text": "A: Okay. Did it.\nD: Okay, and-",
+      "start": 234.26,
+      "duration": 0.64
+    },
+    {
+      "text": "S: And we're gonna frame these in the office afterwards, right?",
+      "start": 234.9,
+      "duration": 1.98
+    },
+    {
+      "text": "D: Oh! No shit!\nS: I'm sure this will be really nice.",
+      "start": 237.16,
+      "duration": 1.68
+    },
+    {
+      "text": "A: I did your dirty deed, Suzy.",
+      "start": 238.84,
+      "duration": 1.92
+    },
+    {
+      "text": "S: Okay, great.",
+      "start": 240.76,
+      "duration": 0.66
+    },
+    {
+      "text": "D: What do I do with the legs?",
+      "start": 241.42,
+      "duration": 0.7
+    },
+    {
+      "text": "S: Uh-",
+      "start": 242.24,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Do I sweep them into this?",
+      "start": 243.0,
+      "duration": 1.24
+    },
+    {
+      "text": "S: Put 'em on this.",
+      "start": 244.24,
+      "duration": 0.6
+    },
+    {
+      "text": "*more Funky Music*",
+      "start": 244.84,
+      "duration": 2.72
+    },
+    {
+      "text": "S: You gotta hold it yourself, Dan. You're gonna prick me.",
+      "start": 247.78,
+      "duration": 1.7
+    },
+    {
+      "text": "A: Oh no, I lost an antenna! Suzy, nooo!",
+      "start": 249.48,
+      "duration": 1.86
+    },
+    {
+      "text": "S: That happens. You gotta be more delicate, Arin.",
+      "start": 251.76,
+      "duration": 3.04
+    },
+    {
+      "text": "A: What do you mean be more delicate? You just said rip his legs off!",
+      "start": 254.8,
+      "duration": 2.74
+    },
+    {
+      "text": "A: The hell is delicate about that?!",
+      "start": 257.74,
+      "duration": 1.0
+    },
+    {
+      "text": "D: [giggles]",
+      "start": 258.8,
+      "duration": 0.7
+    },
+    {
+      "text": "D: My pin is kind of coming out the side, is that bad?",
+      "start": 259.52,
+      "duration": 2.88
+    },
+    {
+      "text": "D: Does it need to be from the-?",
+      "start": 262.62,
+      "duration": 1.06
+    },
+    {
+      "text": "A: Mine's in the dead center, 'cause I'm epic.",
+      "start": 263.86,
+      "duration": 1.14
+    },
+    {
+      "text": "S: We'll make it work! I'm just narrating it.\nD: Okay...",
+      "start": 265.0,
+      "duration": 2.24
+    },
+    {
+      "text": "S: So, I mean, whichever way you do it, we'll make it work.",
+      "start": 267.24,
+      "duration": 2.36
+    },
+    {
+      "text": "S: This is, like, the most complicated 10 Minute Power Hour ever.",
+      "start": 269.6,
+      "duration": 2.54
+    },
+    {
+      "text": "A: Look how fucking fuzzy my goddamn thumb is! look at this fuzz!",
+      "start": 272.36,
+      "duration": 2.6
+    },
+    {
+      "text": "A: There's like a hundred fuzzes on here!",
+      "start": 276.04,
+      "duration": 2.36
+    },
+    {
+      "text": "D: Pin it down through the...",
+      "start": 278.4,
+      "duration": 1.68
+    },
+    {
+      "text": "S: Oh!",
+      "start": 280.08,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Like that?",
+      "start": 280.58,
+      "duration": 0.7
+    },
+    {
+      "text": "S:  I forgot. Don't put the pin through the wing.",
+      "start": 281.28,
+      "duration": 2.6
+    },
+    {
+      "text": "D: Ah.",
+      "start": 283.94,
+      "duration": 0.5
+    },
+    {
+      "text": "S: You put the pin through the card.",
+      "start": 284.44,
+      "duration": 1.4
+    },
+    {
+      "text": "A: That's why you use the card.",
+      "start": 285.84,
+      "duration": 0.78
+    },
+    {
+      "text": "D: Ahhh-ohh!",
+      "start": 286.68,
+      "duration": 1.38
+    },
+    {
+      "text": "S: Arin gets it. Yeah, look at you~!",
+      "start": 288.06,
+      "duration": 2.58
+    },
+    {
+      "text": "A: [goofy voice] i'M LeArNinG",
+      "start": 291.1,
+      "duration": 1.04
+    },
+    {
+      "text": "S: You're breaking the wing...",
+      "start": 292.16,
+      "duration": 1.0
+    },
+    {
+      "text": "A: I'm not breaking it, what do you mean?",
+      "start": 293.2,
+      "duration": 1.94
+    },
+    {
+      "text": "D: How's that look?",
+      "start": 295.8,
+      "duration": 1.02
+    },
+    {
+      "text": "S: You know, that's a lot better, Dan.",
+      "start": 296.82,
+      "duration": 1.94
+    },
+    {
+      "text": "D: Thanks, Suzy!",
+      "start": 298.76,
+      "duration": 0.58
+    },
+    {
+      "text": "S: I really like that..",
+      "start": 299.34,
+      "duration": 0.78
+    },
+    {
+      "text": "D: That's an F+!",
+      "start": 300.12,
+      "duration": 1.38
+    },
+    {
+      "text": "A: Suzy, I-",
+      "start": 301.5,
+      "duration": 1.04
+    },
+    {
+      "text": "A: I gotta redo it... (2x)",
+      "start": 304.32,
+      "duration": 2.54
+    },
+    {
+      "text": "A: NO- What do you mean I'm breaking it? Which wing am I breaking?!",
+      "start": 308.2,
+      "duration": 2.16
+    },
+    {
+      "text": "S: It's breaking right h-\nA: [shrill scream]\nS: [giggles]",
+      "start": 310.36,
+      "duration": 2.16
+    },
+    {
+      "text": "D: That wing is one step closer to the edge...",
+      "start": 312.64,
+      "duration": 2.68
+    },
+    {
+      "text": "D: ...and it's abOUt to brEAK!",
+      "start": 315.32,
+      "duration": 0.96
+    },
+    {
+      "text": "A: [laughs]\nD: [laughs at his own Funny Joke]",
+      "start": 316.28,
+      "duration": 3.46
+    },
+    {
+      "text": "S: That was really good.",
+      "start": 320.08,
+      "duration": 1.18
+    },
+    {
+      "text": "A: [laughs]",
+      "start": 321.26,
+      "duration": 1.1
+    },
+    {
+      "text": "D: Look at that, Tucker.",
+      "start": 322.36,
+      "duration": 1.64
+    },
+    {
+      "text": "D: Does that fuckin'... jerk your gherkin?",
+      "start": 324.88,
+      "duration": 2.56
+    },
+    {
+      "text": "A&D: [laugh]",
+      "start": 327.44,
+      "duration": 1.56
+    },
+    {
+      "text": "S: Did you get the... uh-",
+      "start": 329.0,
+      "duration": 1.56
+    },
+    {
+      "text": "A&D: [still laughing]\nS: [patiently waiting for them to be professionals]",
+      "start": 330.56,
+      "duration": 1.78
+    },
+    {
+      "text": "S: Did you get the antennas secured?",
+      "start": 332.68,
+      "duration": 2.64
+    },
+    {
+      "text": "D: The antennas secured?",
+      "start": 335.32,
+      "duration": 1.16
+    },
+    {
+      "text": "S: Yours is already perfectly shaped..",
+      "start": 336.48,
+      "duration": 1.8
+    },
+    {
+      "text": "D: Yaaay!",
+      "start": 338.28,
+      "duration": 1.28
+    },
+    {
+      "text": "A: Yeah... Oh, good job winning the fuckin'...",
+      "start": 339.56,
+      "duration": 3.44
+    },
+    {
+      "text": "A: ...gene pool lottery, dude.\nD: [laughs]",
+      "start": 343.0,
+      "duration": 1.6
+    },
+    {
+      "text": "D: [genuinely] Thank you.",
+      "start": 344.92,
+      "duration": 0.72
+    },
+    {
+      "text": "A: Asshole.",
+      "start": 346.02,
+      "duration": 0.62
+    },
+    {
+      "text": "D: [laughs]",
+      "start": 346.92,
+      "duration": 0.52
+    },
+    {
+      "text": "S: Wow, Arin, that looks so much better!",
+      "start": 347.9,
+      "duration": 1.72
+    },
+    {
+      "text": "A: Yeah, it does, doesn't it?\nS: Wow~!",
+      "start": 350.4,
+      "duration": 1.44
+    },
+    {
+      "text": "D: Oh, that does look good.\nA: It's fuckin' great.",
+      "start": 351.84,
+      "duration": 1.38
+    },
+    {
+      "text": "S: If I was gonna give it another grade, it's not asymmetrical in this V-shape on the other side.",
+      "start": 353.22,
+      "duration": 3.98
+    },
+    {
+      "text": "S: But that's fine.",
+      "start": 357.5,
+      "duration": 0.76
+    },
+    {
+      "text": "S: We have another bug to do now.",
+      "start": 358.56,
+      "duration": 1.5
+    },
+    {
+      "text": "*more Funky Fresh Jams*",
+      "start": 360.38,
+      "duration": 3.04
+    },
+    {
+      "text": "D: [high-pitched scream]",
+      "start": 363.54,
+      "duration": 0.86
+    },
+    {
+      "text": "D: He's looking at me!!!",
+      "start": 364.64,
+      "duration": 1.46
+    },
+    {
+      "text": "D: Hold on, let me turn him around so he's looking away.",
+      "start": 366.42,
+      "duration": 2.1
+    },
+    {
+      "text": "A: [whispering] Don't look at me...\nD: Eugh...",
+      "start": 370.42,
+      "duration": 1.5
+    },
+    {
+      "text": "D: Oh, God, why are the legs so long and spindly?",
+      "start": 372.54,
+      "duration": 2.86
+    },
+    {
+      "text": "D: Ohhh- OH! AUHGH!",
+      "start": 375.4,
+      "duration": 2.16
+    },
+    {
+      "text": "D: I hate this part!",
+      "start": 377.56,
+      "duration": 1.34
+    },
+    {
+      "text": "A: Hey! This guy's got a long proboscis!",
+      "start": 379.04,
+      "duration": 2.32
+    },
+    {
+      "text": "S: He does, does he?\nD: He does.",
+      "start": 381.36,
+      "duration": 0.9
+    },
+    {
+      "text": "A: Look at his curly little proboscis!!",
+      "start": 382.26,
+      "duration": 1.84
+    },
+    {
+      "text": "S: Oooooo!\nA: [giggle of pure joy]",
+      "start": 384.44,
+      "duration": 0.84
+    },
+    {
+      "text": "D: Do we rip that off too? Like an animal?\nS: Woooo!",
+      "start": 385.28,
+      "duration": 2.02
+    },
+    {
+      "text": "A: It's got a huge proboscis!",
+      "start": 387.3,
+      "duration": 1.02
+    },
+    {
+      "text": "A: Are you gonna extend his proboscis?\nS: I am!",
+      "start": 388.34,
+      "duration": 2.3
+    },
+    {
+      "text": "A: OOOOH! LOOK AT IT!!",
+      "start": 390.64,
+      "duration": 1.16
+    },
+    {
+      "text": "A: IT'S SO LONG AND SPINDLY!",
+      "start": 391.8,
+      "duration": 1.48
+    },
+    {
+      "text": "D: Woaaah!\nA: [joyful laughter]",
+      "start": 393.3,
+      "duration": 0.96
+    },
+    {
+      "text": "A: He uses that to drink nectar from flowers and such!",
+      "start": 394.4,
+      "duration": 2.62
+    },
+    {
+      "text": "S: That's right~!",
+      "start": 397.18,
+      "duration": 1.12
+    },
+    {
+      "text": "S: Wow, Arin!",
+      "start": 398.6,
+      "duration": 0.96
+    },
+    {
+      "text": "[laughter in background]",
+      "start": 399.98,
+      "duration": 1.38
+    },
+    {
+      "text": "D: [inaudible]\nA: [laughs]",
+      "start": 401.56,
+      "duration": 1.7
+    },
+    {
+      "text": "S: Here you go ~",
+      "start": 403.7,
+      "duration": 0.96
+    },
+    {
+      "text": "A: Thank you.",
+      "start": 404.66,
+      "duration": 0.84
+    },
+    {
+      "text": "Ross?: Good job, buddy!",
+      "start": 405.5,
+      "duration": 1.18
+    },
+    {
+      "text": "A&D: [laughing]",
+      "start": 406.68,
+      "duration": 1.0
+    },
+    {
+      "text": "D: Who's havin' a special science day?",
+      "start": 407.94,
+      "duration": 1.9
+    },
+    {
+      "text": "[all three laugh]",
+      "start": 409.84,
+      "duration": 2.1
+    },
+    {
+      "text": "A: Do you want a staaaar sticker~?\nS: It's true!",
+      "start": 411.94,
+      "duration": 2.08
+    },
+    {
+      "text": "A: I think my butterfly is crook'd...",
+      "start": 414.92,
+      "duration": 1.8
+    },
+    {
+      "text": "S: Y'know, I thought that you're going for more like a resting position?",
+      "start": 417.3,
+      "duration": 3.04
+    },
+    {
+      "text": "S: Like he's, like, resting on a... flower.",
+      "start": 420.62,
+      "duration": 2.36
+    },
+    {
+      "text": "A: Did I fuck it up?",
+      "start": 423.08,
+      "duration": 0.88
+    },
+    {
+      "text": "A: Oh, I'm such an idiot.",
+      "start": 425.3,
+      "duration": 1.28
+    },
+    {
+      "text": "S: It looks like he's resting! It's a more natural pose. Some people like the natural pose.",
+      "start": 426.58,
+      "duration": 4.0
+    },
+    {
+      "text": "A: Yeah, I... went for that. That was my intention.",
+      "start": 430.72,
+      "duration": 2.56
+    },
+    {
+      "text": "A: So, thank you for noticing. \nD: Is mine good? Mine's kind of flopping up...",
+      "start": 433.64,
+      "duration": 2.58
+    },
+    {
+      "text": "A: [huge laughter]",
+      "start": 436.56,
+      "duration": 1.22
+    },
+    {
+      "text": "D: Suzy- Alright...",
+      "start": 437.78,
+      "duration": 0.72
+    },
+    {
+      "text": "A: He's just saying hi, dude!",
+      "start": 438.5,
+      "duration": 1.5
+    },
+    {
+      "text": "A: He's like, \"Hellooooo!\"\nD: Like, \"Suuup!\"",
+      "start": 440.4,
+      "duration": 1.72
+    },
+    {
+      "text": "S: You know, it's great.",
+      "start": 442.44,
+      "duration": 1.38
+    },
+    {
+      "text": "D: He's got [claps] personALITY!",
+      "start": 443.82,
+      "duration": 2.18
+    },
+    {
+      "text": "A&D: [laughing]",
+      "start": 446.18,
+      "duration": 1.16
+    },
+    {
+      "text": "* f u n k y  j a m s *",
+      "start": 447.36,
+      "duration": 2.8
+    },
+    {
+      "text": "A: Its adorable little antennas get in the fuckin' way.",
+      "start": 450.16,
+      "duration": 2.58
+    },
+    {
+      "text": "D: Fuck him!!",
+      "start": 453.62,
+      "duration": 1.08
+    },
+    {
+      "text": "S: Are you getting mad?",
+      "start": 454.84,
+      "duration": 0.98
+    },
+    {
+      "text": "A: Yeah.",
+      "start": 456.3,
+      "duration": 0.5
+    },
+    {
+      "text": "S: This is supposed to be calming.",
+      "start": 456.8,
+      "duration": 1.22
+    },
+    {
+      "text": "A: What do you mean calming? Shit's breakin' all over the place.",
+      "start": 458.02,
+      "duration": 2.1
+    },
+    {
+      "text": "S: Come on, Arin. Do your breathing exercises.",
+      "start": 460.22,
+      "duration": 3.44
+    },
+    {
+      "text": "A: [breathing?]",
+      "start": 464.42,
+      "duration": 0.62
+    },
+    {
+      "text": "* funky music *",
+      "start": 465.22,
+      "duration": 2.96
+    },
+    {
+      "text": "D: OOOOH, NOOooooo!",
+      "start": 468.18,
+      "duration": 1.88
+    },
+    {
+      "text": "D: Whoaaa, grOSS!",
+      "start": 471.04,
+      "duration": 2.08
+    },
+    {
+      "text": "D: I'm actually a little grossed out by this.\nS: Here you go~!",
+      "start": 473.12,
+      "duration": 2.36
+    },
+    {
+      "text": "A: Look at him. He's cool!",
+      "start": 476.1,
+      "duration": 1.72
+    },
+    {
+      "text": "S: These are some Rhino Beetles.",
+      "start": 477.82,
+      "duration": 1.024
+    },
+    {
+      "text": "Ross: That's my favorite bug!",
+      "start": 478.844,
+      "duration": 0.896
+    },
+    {
+      "text": "R: Now I'm interested!\nD: Maybe he's just sleeping...",
+      "start": 481.12,
+      "duration": 1.9
+    },
+    {
+      "text": "A: It looks like the tip of my wiener! [laughs]",
+      "start": 483.46,
+      "duration": 2.26
+    },
+    {
+      "text": "S: You gotta... uh... stretch out the legs.",
+      "start": 485.94,
+      "duration": 1.72
+    },
+    {
+      "text": "A: What the fuck?!",
+      "start": 487.66,
+      "duration": 0.96
+    },
+    {
+      "text": "D: Oooooh, God. I wish you'd done that with mine...\nS: You don't pull 'em off...",
+      "start": 488.62,
+      "duration": 1.96
+    },
+    {
+      "text": "S: You just stretch 'em out!",
+      "start": 491.3,
+      "duration": 1.92
+    },
+    {
+      "text": "A: Stop, stop! You're ruining it.",
+      "start": 493.22,
+      "duration": 1.72
+    },
+    {
+      "text": "S: Oh! I should probably say...",
+      "start": 494.94,
+      "duration": 1.16
+    },
+    {
+      "text": "S: Uh... I have been approached by the Los Angeles Natural History Museum-",
+      "start": 496.24,
+      "duration": 4.02
+    },
+    {
+      "text": "S: -to preserve their bug collection for them, as well.",
+      "start": 500.26,
+      "duration": 1.9
+    },
+    {
+      "text": "D: Whoa!",
+      "start": 502.22,
+      "duration": 0.68
+    },
+    {
+      "text": "S: Unfortunately, it was not a paid position so I had to turn it down.",
+      "start": 502.98,
+      "duration": 2.8
+    },
+    {
+      "text": "D: Fair enough.",
+      "start": 505.78,
+      "duration": 0.62
+    },
+    {
+      "text": "S: But- So, if people like ever wonder about my accreditation... There you go.",
+      "start": 506.4,
+      "duration": 2.7
+    },
+    {
+      "text": "D: Gotta make that paper, boo boo.",
+      "start": 509.26,
+      "duration": 1.32
+    },
+    {
+      "text": "D: How's that?",
+      "start": 510.64,
+      "duration": 0.72
+    },
+    {
+      "text": "S: That's great!",
+      "start": 511.36,
+      "duration": 0.7
+    },
+    {
+      "text": "D: Yeah?",
+      "start": 512.06,
+      "duration": 0.5
+    },
+    {
+      "text": "S: Yeah! Do the other side.",
+      "start": 512.56,
+      "duration": 0.96
+    },
+    {
+      "text": "D: [uncomfortable laugh]",
+      "start": 514.36,
+      "duration": 0.76
+    },
+    {
+      "text": "D: It doesn't- I don't know if I'm doing this right, cuz it kind of looks like he's flying. Like-",
+      "start": 515.38,
+      "duration": 3.4
+    },
+    {
+      "text": "D: wEeeEEeEeEEE!\nS: [giggles]",
+      "start": 518.98,
+      "duration": 2.54
+    },
+    {
+      "text": "S: We'll secure him more (2x)\nA: Hey, look at him.",
+      "start": 521.52,
+      "duration": 1.48
+    },
+    {
+      "text": "A: Look at him; he's silly! Look at how silly he is! [laughs] He's jumping for joy!",
+      "start": 523.22,
+      "duration": 4.94
+    },
+    {
+      "text": "A: [imitating dead beetle] h-yAAa!",
+      "start": 528.36,
+      "duration": 1.4
+    },
+    {
+      "text": "D: I'm sure he'd be happy to know we're having fun with his corpse.",
+      "start": 530.1,
+      "duration": 2.84
+    },
+    {
+      "text": "A: [imitating dead beetle again] yAAa!",
+      "start": 532.94,
+      "duration": 0.88
+    },
+    {
+      "text": "S: So, the next part's the hard part. You're gonna lift up this...",
+      "start": 534.78,
+      "duration": 1.94
+    },
+    {
+      "text": "(crunCH)",
+      "start": 536.94,
+      "duration": 0.5
+    },
+    {
+      "text": "D: [disgusted groan]",
+      "start": 537.96,
+      "duration": 0.98
+    },
+    {
+      "text": "D: [uncomfortable laugh]",
+      "start": 539.5,
+      "duration": 1.02
+    },
+    {
+      "text": "D: Our producer, Hanna, did not have a good reaction to that cracking sound...",
+      "start": 540.52,
+      "duration": 3.8
+    },
+    {
+      "text": "(cruncH)",
+      "start": 544.88,
+      "duration": 0.5
+    },
+    {
+      "text": "D: hOHhhh, no...",
+      "start": 545.62,
+      "duration": 1.3
+    },
+    {
+      "text": "D: Yes...",
+      "start": 547.48,
+      "duration": 0.74
+    },
+    {
+      "text": "D: Yes, it feels good on my skin.",
+      "start": 548.82,
+      "duration": 2.16
+    },
+    {
+      "text": "A&S: [laughing]",
+      "start": 551.22,
+      "duration": 1.5
+    },
+    {
+      "text": "S: Oh, this one you almost had there!",
+      "start": 552.84,
+      "duration": 1.7
+    },
+    {
+      "text": "D: I-I almost-",
+      "start": 554.54,
+      "duration": 0.68
+    },
+    {
+      "text": "D: Ugh...",
+      "start": 555.88,
+      "duration": 0.5
+    },
+    {
+      "text": "D: I don't know what the difference between, like, the Good Crunch and the You're-Ruining-This-Thing Crunch.",
+      "start": 557.34,
+      "duration": 4.457
+    },
+    {
+      "text": "A: Oh, I think they're the same crunch.",
+      "start": 562.06,
+      "duration": 1.18
+    },
+    {
+      "text": "D: Are they basically...?",
+      "start": 563.24,
+      "duration": 0.78
+    },
+    {
+      "text": "S: [quietly] Alright.",
+      "start": 564.3,
+      "duration": 0.5
+    },
+    {
+      "text": "A: I don't- I don't know that bugs were meant to be pinned on a board of wood.",
+      "start": 564.94,
+      "duration": 3.96
+    },
+    {
+      "text": "S: So, now that you have the wing shells up, you're gonna go ahead and take out the wing.",
+      "start": 569.16,
+      "duration": 3.8
+    },
+    {
+      "text": "A: It feels like plastic; it doesn't feel real.",
+      "start": 573.46,
+      "duration": 2.66
+    },
+    {
+      "text": "D: It really doesn't.",
+      "start": 576.12,
+      "duration": 1.26
+    },
+    {
+      "text": "D: Oh, I fucked up the pin...",
+      "start": 577.8,
+      "duration": 1.32
+    },
+    {
+      "text": "A: Do I pin him?",
+      "start": 579.18,
+      "duration": 1.32
+    },
+    {
+      "text": "S: Mhm!",
+      "start": 580.5,
+      "duration": 0.68
+    },
+    {
+      "text": "S: No, not through him.",
+      "start": 581.18,
+      "duration": 1.12
+    },
+    {
+      "text": "A: No? Nooo...\nS: No. Here, I'm gonna get some pins for you. Here you go.",
+      "start": 582.3,
+      "duration": 2.42
+    },
+    {
+      "text": "A: Mmmmmm...",
+      "start": 585.06,
+      "duration": 1.396
+    },
+    {
+      "text": "A: Scary.",
+      "start": 586.46,
+      "duration": 1.2
+    },
+    {
+      "text": "A: Okay. Okay.\nD: [laughs] \"Scaryyy.\"",
+      "start": 587.66,
+      "duration": 1.4
+    },
+    {
+      "text": "S: So, what you're gonna do is place it between the head and the leg so like-",
+      "start": 589.06,
+      "duration": 2.78
+    },
+    {
+      "text": "S: -right here.",
+      "start": 591.88,
+      "duration": 0.84
+    },
+    {
+      "text": "S: On all four sides to kind of hold them in place, and then you're gonna pin the wings just like the butterfly wings.",
+      "start": 594.0,
+      "duration": 4.32
+    },
+    {
+      "text": "A: Ow, I pricked myself.",
+      "start": 598.6,
+      "duration": 0.94
+    },
+    {
+      "text": "S: Wait 'til you see what we have for the last bug...",
+      "start": 599.54,
+      "duration": 2.02
+    },
+    {
+      "text": "D: Oh, crap.\nA: The last bug?!",
+      "start": 601.58,
+      "duration": 0.8
+    },
+    {
+      "text": "A: I don't have any more room!",
+      "start": 602.38,
+      "duration": 1.12
+    },
+    {
+      "text": "D: Yeah, I didn't leave much room...",
+      "start": 603.5,
+      "duration": 0.84
+    },
+    {
+      "text": "S: I brought another board; don't worry. We're safe.",
+      "start": 604.34,
+      "duration": 2.02
+    },
+    {
+      "text": "D: Cool.",
+      "start": 606.36,
+      "duration": 0.64
+    },
+    {
+      "text": "S: We needed something bigger for the bug.",
+      "start": 607.0,
+      "duration": 1.2
+    },
+    {
+      "text": "A: I had it posed, and now it's not posed!",
+      "start": 608.22,
+      "duration": 2.12
+    },
+    {
+      "text": "D: Sounds like it's going well over there.",
+      "start": 610.34,
+      "duration": 1.4
+    },
+    {
+      "text": "D: Ross, don't eat McDonald's in here!",
+      "start": 611.74,
+      "duration": 1.76
+    },
+    {
+      "text": "R: I was bringin' Suzy her fries!",
+      "start": 613.8,
+      "duration": 1.06
+    },
+    {
+      "text": "D: Oh, okay. [laughs]",
+      "start": 615.12,
+      "duration": 0.66
+    },
+    {
+      "text": "S: I can't eat 'em right now.",
+      "start": 615.78,
+      "duration": 1.52
+    },
+    {
+      "text": "R: I'm just telling you it's here.",
+      "start": 617.3,
+      "duration": 0.96
+    },
+    {
+      "text": "S: Oh, thank you, Ross.",
+      "start": 618.26,
+      "duration": 0.76
+    },
+    {
+      "text": "R: I got us some McDonald's.",
+      "start": 619.02,
+      "duration": 1.0
+    },
+    {
+      "text": "S: Thanks, Ross.",
+      "start": 620.1,
+      "duration": 0.7
+    },
+    {
+      "text": "D: Allie, throw some fries into my mouth.\nS: You're so sweet.",
+      "start": 620.96,
+      "duration": 1.78
+    },
+    {
+      "text": "D: No, no, I- No, it's okay.",
+      "start": 622.84,
+      "duration": 1.38
+    },
+    {
+      "text": "Allie: [laughing] I'm like, \"Alright!\"",
+      "start": 624.22,
+      "duration": 1.06
+    },
+    {
+      "text": "S: Wow, Arin! Look at that!",
+      "start": 625.42,
+      "duration": 1.32
+    },
+    {
+      "text": "D: Yours look beautiful.",
+      "start": 626.74,
+      "duration": 0.8
+    },
+    {
+      "text": "R: [laughing] And a Chicken McNugget!\nS: Nooo.",
+      "start": 627.68,
+      "duration": 1.08
+    },
+    {
+      "text": "D: Ohhh, God.\nR: [laughing]",
+      "start": 628.82,
+      "duration": 1.8
+    },
+    {
+      "text": "S: Alright.",
+      "start": 630.7,
+      "duration": 0.66
+    },
+    {
+      "text": "[everyone talking over each other]",
+      "start": 631.36,
+      "duration": 0.9
+    },
+    {
+      "text": "D: Wait- Actually, Ross-",
+      "start": 632.26,
+      "duration": 1.18
+    },
+    {
+      "text": "D: Can you- Can you hand me a chicken nugget please?",
+      "start": 633.44,
+      "duration": 2.12
+    },
+    {
+      "text": "R: [still laughing] Here you go.",
+      "start": 635.56,
+      "duration": 0.68
+    },
+    {
+      "text": "D: Thank you.",
+      "start": 636.24,
+      "duration": 0.8
+    },
+    {
+      "text": "S: I'm actually so hungry. I can't believe you guys are eating-",
+      "start": 637.04,
+      "duration": 1.82
+    },
+    {
+      "text": "R: You want some sweet and sour sauce, man?",
+      "start": 638.86,
+      "duration": 1.22
+    },
+    {
+      "text": "D: No, thank you, no.\nR: Okay, cool.",
+      "start": 640.08,
+      "duration": 1.52
+    },
+    {
+      "text": "D: I'm just gonna...\nA: [laughing]",
+      "start": 641.6,
+      "duration": 1.52
+    },
+    {
+      "text": "A: It might as well be preserved forever.\n[laughing in the background]",
+      "start": 643.12,
+      "duration": 1.66
+    },
+    {
+      "text": "D: Yeah that's just what I want. [giggles]",
+      "start": 644.78,
+      "duration": 1.64
+    },
+    {
+      "text": "* crank those funky tunes, baby *",
+      "start": 646.5,
+      "duration": 2.8
+    },
+    {
+      "text": "A: [strained] It's a spider...",
+      "start": 649.54,
+      "duration": 1.42
+    },
+    {
+      "text": "A: Hooray...",
+      "start": 651.42,
+      "duration": 1.12
+    },
+    {
+      "text": "D: Oh, God, it's so fucking disgusting!",
+      "start": 652.54,
+      "duration": 3.0
+    },
+    {
+      "text": "A: What, you don't like it?",
+      "start": 655.84,
+      "duration": 0.86
+    },
+    {
+      "text": "D: Augh. God.",
+      "start": 656.7,
+      "duration": 1.1
+    },
+    {
+      "text": "A: What, it's not your friend?",
+      "start": 657.8,
+      "duration": 0.96
+    },
+    {
+      "text": "D: There's something about this that's so much worse-",
+      "start": 658.76,
+      "duration": 2.18
+    },
+    {
+      "text": "A: What, you don't want more of it?",
+      "start": 660.94,
+      "duration": 0.82
+    },
+    {
+      "text": "D: [horrified yell]\nA: You don't want it?",
+      "start": 661.76,
+      "duration": 1.56
+    },
+    {
+      "text": "D: Get it away!!",
+      "start": 663.52,
+      "duration": 0.88
+    },
+    {
+      "text": "D: Get it away.",
+      "start": 664.66,
+      "duration": 1.38
+    },
+    {
+      "text": "S: I think he's kind of cute.",
+      "start": 666.26,
+      "duration": 1.36
+    },
+    {
+      "text": "D: Ugh...\nS: You don't like him?",
+      "start": 667.62,
+      "duration": 0.88
+    },
+    {
+      "text": "D: Suzy...\nA: He looks like he's you know, he's-",
+      "start": 668.5,
+      "duration": 1.74
+    },
+    {
+      "text": "S: Look at his teeth!",
+      "start": 670.24,
+      "duration": 0.82
+    },
+    {
+      "text": "D: Suzy...\nA&S: [laughing]",
+      "start": 671.12,
+      "duration": 0.72
+    },
+    {
+      "text": "D: I swear, I would never hit anyone, but I- I- I will start swinging wildly.",
+      "start": 671.94,
+      "duration": 4.74
+    },
+    {
+      "text": "S: Look at all his eyes!",
+      "start": 676.68,
+      "duration": 1.24
+    },
+    {
+      "text": "A: It looks like he's doing, like, that cat stretch, you know where they're like- [stretching noise]",
+      "start": 678.08,
+      "duration": 2.84
+    },
+    {
+      "text": "S: Yeah!\nA: See, he's doing that.",
+      "start": 680.92,
+      "duration": 1.24
+    },
+    {
+      "text": "S: Look at- Babe, you're so cute~.\nA: Oh, gosh! [giggles]",
+      "start": 682.32,
+      "duration": 3.24
+    },
+    {
+      "text": "S: Well, you can start pulling on his- not pulling out, but pulling-",
+      "start": 685.88,
+      "duration": 2.2
+    },
+    {
+      "text": "S: -them around like we did with the beetle. Kind of arranging them.",
+      "start": 688.08,
+      "duration": 2.38
+    },
+    {
+      "text": "D: When his legs are spread out it like- like a-",
+      "start": 690.64,
+      "duration": 2.26
+    },
+    {
+      "text": "D: -normal spider. It doesn't bother me as much it's only when it was, like-",
+      "start": 692.9,
+      "duration": 2.62
+    },
+    {
+      "text": "D: [wheeze] \"I'm tobogganing towards you!\"\nS: Ready to pounce?",
+      "start": 695.74,
+      "duration": 2.6
+    },
+    {
+      "text": "D: Like, it fucking... ughH!",
+      "start": 698.34,
+      "duration": 1.54
+    },
+    {
+      "text": "S: Look at that, Arin!",
+      "start": 699.88,
+      "duration": 1.18
+    },
+    {
+      "text": "A: Look at that. He's beautiful!",
+      "start": 701.12,
+      "duration": 1.45
+    },
+    {
+      "text": "S: So, now, this is a basic arrangement.",
+      "start": 702.57,
+      "duration": 1.45
+    },
+    {
+      "text": "S: You guys wouldn't know- \nA: [sarcastic] Oh, I'm sorry Suzy!",
+      "start": 704.54,
+      "duration": 2.92
+    },
+    {
+      "text": "S: This would work for-",
+      "start": 707.74,
+      "duration": 0.86
+    },
+    {
+      "text": "D: \"What my basic bitch husband here has completed.\"",
+      "start": 708.6,
+      "duration": 2.32
+    },
+    {
+      "text": "D&S: [laugh]",
+      "start": 710.92,
+      "duration": 1.16
+    },
+    {
+      "text": "A: I did it. (4x)",
+      "start": 712.48,
+      "duration": 1.74
+    },
+    {
+      "text": "D: Thank you...\nA: Yes!",
+      "start": 714.22,
+      "duration": 1.04
+    },
+    {
+      "text": "S: Yeah, look at that!",
+      "start": 715.3,
+      "duration": 0.88
+    },
+    {
+      "text": "A: Do you like that shit?",
+      "start": 716.32,
+      "duration": 1.08
+    },
+    {
+      "text": "S: Yeah, it looks great.",
+      "start": 717.4,
+      "duration": 0.78
+    },
+    {
+      "text": "A: Yeah, that's fucking right you like it.",
+      "start": 718.18,
+      "duration": 1.64
+    },
+    {
+      "text": "S: So sexy.",
+      "start": 719.82,
+      "duration": 1.42
+    },
+    {
+      "text": "D: Oh, my God, guys. Fucking...",
+      "start": 721.44,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Keep it in the-",
+      "start": 724.019,
+      "duration": 1.581
+    },
+    {
+      "text": "D: GeT a ScIEnce rOoM!",
+      "start": 725.6,
+      "duration": 1.36
+    },
+    {
+      "text": "A: [laughing]",
+      "start": 727.1,
+      "duration": 1.12
+    },
+    {
+      "text": "A: GeT a LAb, yoU GuYs!",
+      "start": 728.36,
+      "duration": 1.58
+    },
+    {
+      "text": "D: [laughing]",
+      "start": 730.0,
+      "duration": 0.96
+    },
+    {
+      "text": "A: \"A science room?\"",
+      "start": 731.6,
+      "duration": 1.56
+    },
+    {
+      "text": "D: I couldn't think of the word 'lab.'\nA: [laughs]",
+      "start": 733.32,
+      "duration": 2.56
+    },
+    {
+      "text": "D: It's too... It's too complicated.",
+      "start": 735.96,
+      "duration": 2.3
+    },
+    {
+      "text": "[everyone giggling]",
+      "start": 738.72,
+      "duration": 2.42
+    },
+    {
+      "text": "D: I put my s- I... I put my spider's leg up.",
+      "start": 741.52,
+      "duration": 2.76
+    },
+    {
+      "text": "D: So, he's kinda doing like a...\nA: [laughing] I like how you pinned the leg separately!",
+      "start": 744.28,
+      "duration": 4.52
+    },
+    {
+      "text": "D: ...like a little, \"See you later boys!\"",
+      "start": 749.04,
+      "duration": 2.46
+    },
+    {
+      "text": "A&S: [laughing]",
+      "start": 751.52,
+      "duration": 1.12
+    },
+    {
+      "text": "A: Dude, this shit fucking kills me. [laughs]\nD: Yeah?",
+      "start": 753.0,
+      "duration": 2.16
+    },
+    {
+      "text": "D: Thanks.",
+      "start": 755.16,
+      "duration": 1.42
+    },
+    {
+      "text": "D: It's nice and secure.",
+      "start": 756.78,
+      "duration": 1.32
+    },
+    {
+      "text": "A: [still laughing]",
+      "start": 758.12,
+      "duration": 1.04
+    },
+    {
+      "text": "D: You can barely tell!",
+      "start": 759.5,
+      "duration": 1.52
+    },
+    {
+      "text": "D: I don't know, Arin, which leg are you talking about? There's eight to choose from!",
+      "start": 761.5,
+      "duration": 3.86
+    },
+    {
+      "text": "A: What do you think of mine? [hacks out of nowhere]",
+      "start": 765.9,
+      "duration": 1.76
+    },
+    {
+      "text": "D: Yours actually looks amazing.",
+      "start": 767.9,
+      "duration": 1.5
+    },
+    {
+      "text": "A: Thanks. It's got a little smiley face on the back.",
+      "start": 769.4,
+      "duration": 2.147
+    },
+    {
+      "text": "S: You guys did really great.",
+      "start": 771.547,
+      "duration": 1.013
+    },
+    {
+      "text": "S: I'm really proud of how everything turned out. I mean, your guys's displays are...",
+      "start": 772.56,
+      "duration": 3.64
+    },
+    {
+      "text": "S: ...truly one-of-a-kind.",
+      "start": 776.84,
+      "duration": 0.97
+    },
+    {
+      "text": "D: Don't disturb the nugget, please.",
+      "start": 777.81,
+      "duration": 1.41
+    },
+    {
+      "text": "[Ross dying of laughter]",
+      "start": 779.44,
+      "duration": 2.52
+    },
+    {
+      "text": "S: Uh, I-I'm-",
+      "start": 782.36,
+      "duration": 1.26
+    },
+    {
+      "text": "S: -so proud of you guys. Uh...",
+      "start": 783.62,
+      "duration": 1.71
+    },
+    {
+      "text": "S: Thanks for having me on so we can do this-",
+      "start": 785.33,
+      "duration": 1.99
+    },
+    {
+      "text": "S: -fun October...\nD: Allie!",
+      "start": 787.32,
+      "duration": 1.36
+    },
+    {
+      "text": "S: ...insect pinning class...\nA: You want French fries?",
+      "start": 789.24,
+      "duration": 1.9
+    },
+    {
+      "text": "D: Thank you, Suzy.",
+      "start": 791.42,
+      "duration": 0.94
+    },
+    {
+      "text": "D: Anyway, thank you for joining us on the 10 Minute Power Hour. We hope you enjoyed this!",
+      "start": 792.36,
+      "duration": 3.6
+    },
+    {
+      "text": "A: Thanks for having Suzy with, uh- thanks for Suzy having...",
+      "start": 795.97,
+      "duration": 2.75
+    },
+    {
+      "text": "A: Thanks for coming, Suzy.\nD: Thanks, Suzy!",
+      "start": 798.72,
+      "duration": 0.8
+    },
+    {
+      "text": "S: Yeah, thanks for having me.",
+      "start": 799.72,
+      "duration": 1.44
+    },
+    {
+      "text": "A: Yeah, you can check her out at her Instagram @mortemer.",
+      "start": 801.26,
+      "duration": 2.62
+    },
+    {
+      "text": "S: Yeah, or, uh, my store Psychic Circle.",
+      "start": 803.88,
+      "duration": 2.1
+    },
+    {
+      "text": "S: I sell some pinned bugs there.",
+      "start": 805.99,
+      "duration": 1.95
+    },
+    {
+      "text": "A: psychiccircleoddities.com.",
+      "start": 807.94,
+      "duration": 1.94
+    },
+    {
+      "text": "S: Yeah, but, uh, thanks for having me. You guys did great.",
+      "start": 809.88,
+      "duration": 2.48
+    },
+    {
+      "text": "S: I'm actually impressed how well you did.",
+      "start": 812.36,
+      "duration": 1.76
+    },
+    {
+      "text": "S: I'll frame these guys up for you, and you guys can see what they look like when they're all done.",
+      "start": 814.12,
+      "duration": 3.8
+    },
+    {
+      "text": "D: That's awesome.",
+      "start": 817.92,
+      "duration": 0.7
+    },
+    {
+      "text": "D: Alright, on the count of three, everyone smell their hands. \nA: Okay.",
+      "start": 818.64,
+      "duration": 2.36
+    },
+    {
+      "text": "D: Okay, ready?\nA&D: One, two, three.",
+      "start": 821.0,
+      "duration": 2.66
+    },
+    {
+      "text": "D: OOOOOOOH-",
+      "start": 823.78,
+      "duration": 0.5
+    },
+    {
+      "text": "* smooth and funky outro tunes *",
+      "start": 824.28,
+      "duration": 2.12
+    },
+    {
+      "text": "translation : ?v=XTnlsKÑÌÍ",
+      "start": 826.6,
+      "duration": 1.5
+    }
+  ]
+}

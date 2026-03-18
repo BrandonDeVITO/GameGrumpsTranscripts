@@ -1,0 +1,2678 @@
+{
+  "video_id": "MLgOSPaeFDc",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Last time on Game Grumps!",
+      "start": 0.0,
+      "duration": 2.0
+    },
+    {
+      "text": "What is that, 12 bucks?",
+      "start": 2.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Four- Fourteen dollars.",
+      "start": 4.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Damn! Mmm!",
+      "start": 6.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I will spend it on drugs!",
+      "start": 8.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Hahahaha!",
+      "start": 12.0,
+      "duration": 2.0
+    },
+    {
+      "text": "A bad kind!",
+      "start": 14.0,
+      "duration": 4.0
+    },
+    {
+      "text": "In this corner, Grump! In the other corner, Grump!",
+      "start": 18.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Let's go! It's Game Grumps!",
+      "start": 20.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yay!",
+      "start": 22.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Well, hello there.",
+      "start": 26.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Daddy's...",
+      "start": 28.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Go on.",
+      "start": 30.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It's your roll.",
+      "start": 32.0,
+      "duration": 2.0
+    },
+    {
+      "text": "You wanna roll?",
+      "start": 34.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, you can go ahead.",
+      "start": 36.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Your turn starts now.",
+      "start": 38.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Right now, Fabrizio has zero properties.",
+      "start": 40.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Just not a four, five, or a seven.",
+      "start": 42.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Or I could go to jail. Thanks, Arin.",
+      "start": 44.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I just pressed a button!",
+      "start": 46.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I know, I'm just kidding.",
+      "start": 48.0,
+      "duration": 2.0
+    },
+    {
+      "text": "What, do you think I willed it into existence?",
+      "start": 50.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I wasn't even thinking about it, I was thinking, drink!",
+      "start": 52.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That's all I was thinking.",
+      "start": 54.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I just wanted the water.",
+      "start": 56.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That's okay.",
+      "start": 58.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Maybe it's because I wasn't paying attention and putting my energy into it.",
+      "start": 60.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow. That's probably what it was.",
+      "start": 62.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It's very profound.",
+      "start": 64.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright, let's end the turn.",
+      "start": 66.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Where am I at?",
+      "start": 68.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright.",
+      "start": 70.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Here we go!",
+      "start": 72.0,
+      "duration": 2.0
+    },
+    {
+      "text": "What is this? What is this? What is this?",
+      "start": 74.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Where? Where? Where? Where?",
+      "start": 76.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay.",
+      "start": 78.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That's fine, that's your normals.",
+      "start": 80.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh.",
+      "start": 82.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Who's this?",
+      "start": 84.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, sis, sis, sis.",
+      "start": 86.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, dear.",
+      "start": 88.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I gotta make my properties.",
+      "start": 90.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Gotta go to the hospital.",
+      "start": 92.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Desperate times call for desperate measures.",
+      "start": 94.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Desperate times call for desperate measures.",
+      "start": 96.0,
+      "duration": 2.0
+    },
+    {
+      "text": "You know what?",
+      "start": 98.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Must be both of these.",
+      "start": 100.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, why not?",
+      "start": 102.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Get that cash money.",
+      "start": 104.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright.",
+      "start": 106.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Still not enough to buy another house, but that's okay.",
+      "start": 108.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I wish you luck.",
+      "start": 110.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, gosh dang it.",
+      "start": 112.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Leo, I'm gonna need you to land on some green props, bruh.",
+      "start": 114.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Mm-hmm.",
+      "start": 116.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Bruh?",
+      "start": 118.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Um, brew?",
+      "start": 120.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Um, brew?",
+      "start": 122.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright.",
+      "start": 124.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Leo already owns that.",
+      "start": 126.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I bet Leo's feeling real stupid now that he didn't take my offer of one dollar.",
+      "start": 128.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Your time has come.",
+      "start": 132.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright, kitten cat.",
+      "start": 134.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Kitten cat.",
+      "start": 136.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Kitten cat.",
+      "start": 138.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Let's go over here.",
+      "start": 140.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That's what I like to see.",
+      "start": 142.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Fabrizio's like the king of doubles, dude.",
+      "start": 144.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "start": 146.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Ooh.",
+      "start": 148.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh-oh.",
+      "start": 150.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Electric company.",
+      "start": 152.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I think a little shenanigans are in order.",
+      "start": 154.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Let's see what happens.",
+      "start": 156.0,
+      "duration": 2.0
+    },
+    {
+      "text": "What's your bid?",
+      "start": 158.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh, withdraw.",
+      "start": 160.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Come on, Leo.",
+      "start": 162.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, Leo!",
+      "start": 164.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Fuck off!",
+      "start": 166.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Leo!",
+      "start": 168.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright.",
+      "start": 170.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Fabrizio will beat the death of all.",
+      "start": 172.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It's your turn.",
+      "start": 174.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, good job, Fabrizio.",
+      "start": 176.0,
+      "duration": 2.0
+    },
+    {
+      "text": "You have succeeded in owning no properties.",
+      "start": 178.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, he's good at that.",
+      "start": 180.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, man.",
+      "start": 182.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Someone might be joining me in jail.",
+      "start": 184.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Or as they say in Norway,",
+      "start": 188.0,
+      "duration": 2.0
+    },
+    {
+      "text": "the eye of...",
+      "start": 190.0,
+      "duration": 2.0
+    },
+    {
+      "text": "They both have get out of jail free cards.",
+      "start": 192.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Get out of jail free cards.",
+      "start": 194.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I could really use one of those.",
+      "start": 196.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Considering I've been in jail for quite some time now.",
+      "start": 198.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Five?",
+      "start": 200.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, fiddle-dee-dee.",
+      "start": 202.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Look at that.",
+      "start": 204.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know why I'm excited.",
+      "start": 206.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Like, he would just skip it anyway.",
+      "start": 208.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It's so true.",
+      "start": 210.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, that's why I need to get out of jail.",
+      "start": 212.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Um, I'll pay.",
+      "start": 214.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, I have to.",
+      "start": 216.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Because everyone's landed on the properties I've needed.",
+      "start": 218.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It's just, I can't, uh...",
+      "start": 220.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I can't get it going.",
+      "start": 222.0,
+      "duration": 2.0
+    },
+    {
+      "text": "They always pass.",
+      "start": 224.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh-oh.",
+      "start": 226.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, good, good, good.",
+      "start": 228.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, wait.",
+      "start": 230.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh-oh, indeed, my friend.",
+      "start": 232.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Listen, we made a pact.",
+      "start": 234.0,
+      "duration": 2.0
+    },
+    {
+      "text": "We did make a pact.",
+      "start": 236.0,
+      "duration": 2.0
+    },
+    {
+      "text": "And how I regret that now.",
+      "start": 238.0,
+      "duration": 2.0
+    },
+    {
+      "text": "This is more than I can afford.",
+      "start": 240.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow, it is.",
+      "start": 242.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Want me to get it and then we can swing some sort of",
+      "start": 244.0,
+      "duration": 2.0
+    },
+    {
+      "text": "naughty trade?",
+      "start": 246.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Um...",
+      "start": 248.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Great, let's auction.",
+      "start": 250.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Either way.",
+      "start": 252.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Well, this is you.",
+      "start": 254.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, that's right.",
+      "start": 256.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, god.",
+      "start": 260.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It's not helpful enough.",
+      "start": 262.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Better skip.",
+      "start": 264.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my god, look at that.",
+      "start": 266.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Well, even for you.",
+      "start": 268.0,
+      "duration": 2.0
+    },
+    {
+      "text": "You're going to concentrate on the green anyway.",
+      "start": 270.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm going to concentrate on the green.",
+      "start": 272.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I have the green.",
+      "start": 274.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It will bring me joy.",
+      "start": 278.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I am the maker of the money.",
+      "start": 282.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my gosh.",
+      "start": 284.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Is that income tax?",
+      "start": 286.0,
+      "duration": 2.0
+    },
+    {
+      "text": "No, you're just going to be like five dollars.",
+      "start": 288.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I think it's more like four.",
+      "start": 290.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Your rent is due.",
+      "start": 292.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It is.",
+      "start": 294.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It's much more like four.",
+      "start": 296.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Five dollars!",
+      "start": 298.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Nah, it's more around the range of four.",
+      "start": 300.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 302.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That's actually running at an 80% investment.",
+      "start": 304.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Four dollars.",
+      "start": 306.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh-oh.",
+      "start": 308.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh-oh.",
+      "start": 310.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh-oh.",
+      "start": 312.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Another ten.",
+      "start": 314.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That's something.",
+      "start": 316.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Everyone's just sailing across the board.",
+      "start": 318.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Wait a second.",
+      "start": 320.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Hang on a tick.",
+      "start": 322.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't want it.",
+      "start": 324.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't care.",
+      "start": 326.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Let's roll again.",
+      "start": 328.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I just need the money, dawg.",
+      "start": 330.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Be careful!",
+      "start": 332.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It's your third roll.",
+      "start": 334.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Dude, it's on your space!",
+      "start": 336.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Fourteen!",
+      "start": 338.0,
+      "duration": 2.0
+    },
+    {
+      "text": "This makes up for the four to five thing!",
+      "start": 340.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my god.",
+      "start": 342.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That's right.",
+      "start": 344.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I forgot that fourteen dollar place.",
+      "start": 346.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Stop sharding myself.",
+      "start": 348.0,
+      "duration": 2.0
+    },
+    {
+      "text": "You do.",
+      "start": 350.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Actually.",
+      "start": 352.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, you're getting there.",
+      "start": 354.0,
+      "duration": 2.0
+    },
+    {
+      "text": "You guys are getting there. Let's do it.",
+      "start": 356.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I'll do it. Fuck it.",
+      "start": 358.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Fuck it, right?",
+      "start": 360.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Who cares?",
+      "start": 362.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It's like gas.",
+      "start": 364.0,
+      "duration": 2.0
+    },
+    {
+      "text": "The future holds for you.",
+      "start": 366.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I love the really sassy one you do.",
+      "start": 368.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Jazz!",
+      "start": 372.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Jazz queen!",
+      "start": 374.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I can't do it. I don't have the gift.",
+      "start": 376.0,
+      "duration": 2.0
+    },
+    {
+      "text": "My favorite is the one from the Power Hour.",
+      "start": 378.0,
+      "duration": 2.0
+    },
+    {
+      "text": "When you were like...",
+      "start": 380.0,
+      "duration": 2.0
+    },
+    {
+      "text": "You were like, I'm gonna feed you Kit Kats and you...",
+      "start": 382.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Just close your eyes and you have to guess the flavor.",
+      "start": 384.0,
+      "duration": 2.0
+    },
+    {
+      "text": "And I was like, ah!",
+      "start": 386.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Jazz queen!",
+      "start": 388.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That was a fun day.",
+      "start": 392.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh god.",
+      "start": 394.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Skip. It's a railroad. Really?",
+      "start": 396.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Man, I'd like...",
+      "start": 398.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, I do have a railroad. I forgot I had a railroad.",
+      "start": 400.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright. I'm in.",
+      "start": 402.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah? One dollar.",
+      "start": 404.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm out.",
+      "start": 406.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Always with the one dollar.",
+      "start": 408.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay.",
+      "start": 410.0,
+      "duration": 2.0
+    },
+    {
+      "text": "This is exciting.",
+      "start": 416.0,
+      "duration": 2.0
+    },
+    {
+      "text": "This is brutal. Brutalizing me.",
+      "start": 418.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Brutalizing me.",
+      "start": 420.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm just gonna do one dollar until you tell me not to.",
+      "start": 422.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay.",
+      "start": 424.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Well, Leo and Fabrizio,",
+      "start": 426.0,
+      "duration": 2.0
+    },
+    {
+      "text": "you're officially killing me.",
+      "start": 428.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh!",
+      "start": 432.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh!",
+      "start": 434.0,
+      "duration": 2.0
+    },
+    {
+      "text": "No!",
+      "start": 436.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I paid overmarket value!",
+      "start": 438.0,
+      "duration": 2.0
+    },
+    {
+      "text": "This railroad",
+      "start": 440.0,
+      "duration": 2.0
+    },
+    {
+      "text": "is costing me millions!",
+      "start": 442.0,
+      "duration": 2.0
+    },
+    {
+      "text": "In pennies.",
+      "start": 444.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright.",
+      "start": 446.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Millions of thousands of pennies.",
+      "start": 448.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah. Yeah.",
+      "start": 450.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Actually, millions of pennies would be pretty sweet.",
+      "start": 452.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That's literally hundreds of nickels.",
+      "start": 456.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, and we're already",
+      "start": 462.0,
+      "duration": 2.0
+    },
+    {
+      "text": "cleaning up.",
+      "start": 464.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That's pretty tasty.",
+      "start": 466.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Large.",
+      "start": 468.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh man.",
+      "start": 472.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh god. Here's where it gets brutal though.",
+      "start": 474.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright. I'm nervous.",
+      "start": 476.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Scratchy scratch.",
+      "start": 478.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Daddy's very nervous.",
+      "start": 480.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Daddy's very nervous.",
+      "start": 482.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Daddy's very nervous.",
+      "start": 484.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Leo wants this one.",
+      "start": 486.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Well, Leo can suck a hard one.",
+      "start": 488.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Cause I'm skipping.",
+      "start": 490.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That's what I say to you Leo.",
+      "start": 492.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That's so brutal.",
+      "start": 494.0,
+      "duration": 2.0
+    },
+    {
+      "text": "The skip is brutal.",
+      "start": 496.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I know. I've been on the other side of it",
+      "start": 498.0,
+      "duration": 2.0
+    },
+    {
+      "text": "like three times now.",
+      "start": 500.0,
+      "duration": 2.0
+    },
+    {
+      "text": "The light blue, dark blue, and brown",
+      "start": 502.0,
+      "duration": 2.0
+    },
+    {
+      "text": "got landed on.",
+      "start": 504.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow. Hey everyone.",
+      "start": 520.0,
+      "duration": 2.0
+    },
+    {
+      "text": "You guys are all right.",
+      "start": 522.0,
+      "duration": 2.0
+    },
+    {
+      "text": "This is rare.",
+      "start": 524.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That's not good!",
+      "start": 528.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It's not good? Damn it!",
+      "start": 530.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I threaded the needle!",
+      "start": 532.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Dang it.",
+      "start": 534.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Fuck.",
+      "start": 536.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow, that's the game ender.",
+      "start": 542.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Your time has come.",
+      "start": 544.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Here we go, Fabrizio.",
+      "start": 546.0,
+      "duration": 2.0
+    },
+    {
+      "text": "He rolls an eight too.",
+      "start": 548.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh no.",
+      "start": 550.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Not quite there.",
+      "start": 552.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Leo's in cashola.",
+      "start": 554.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Fabrizio's fucking",
+      "start": 558.0,
+      "duration": 2.0
+    },
+    {
+      "text": "floating in the middle of the ocean.",
+      "start": 560.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Little pool floaties.",
+      "start": 562.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay, so this is a brutal run.",
+      "start": 564.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Four is bad, five is bad, six",
+      "start": 566.0,
+      "duration": 2.0
+    },
+    {
+      "text": "is bad, and eight is bad.",
+      "start": 568.0,
+      "duration": 2.0
+    },
+    {
+      "text": "So just not four, five, six, or eight.",
+      "start": 570.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Dope. Going back to jail.",
+      "start": 574.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I feel like that's the less...",
+      "start": 576.0,
+      "duration": 2.0
+    },
+    {
+      "text": "No, it's not good.",
+      "start": 578.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I cannot move",
+      "start": 580.0,
+      "duration": 2.0
+    },
+    {
+      "text": "forward in this game at all.",
+      "start": 582.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh god, three trips to",
+      "start": 584.0,
+      "duration": 2.0
+    },
+    {
+      "text": "jail. Kill me.",
+      "start": 586.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I have another shot at hitting the orange.",
+      "start": 588.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Kill me, dad!",
+      "start": 590.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Do it!",
+      "start": 592.0,
+      "duration": 2.0
+    },
+    {
+      "text": "What are you waiting for?",
+      "start": 594.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Thanks for rolling for me, bro.",
+      "start": 596.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Now I'm in jail with you.",
+      "start": 598.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yay!",
+      "start": 600.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't want to be your accomplice in this.",
+      "start": 602.0,
+      "duration": 2.0
+    },
+    {
+      "text": "You're not my accomplice, you're my lover.",
+      "start": 604.0,
+      "duration": 2.0
+    },
+    {
+      "text": "There's a difference.",
+      "start": 606.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Listen, you really wanted to see me,",
+      "start": 608.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and then you decided, hey, maybe I'll",
+      "start": 610.0,
+      "duration": 2.0
+    },
+    {
+      "text": "do a little crime.",
+      "start": 612.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That'll help me to see you faster.",
+      "start": 614.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Visit jail stays in jail.",
+      "start": 616.0,
+      "duration": 2.0
+    },
+    {
+      "text": "The whole entire visit could be a conjugal visit.",
+      "start": 618.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know. Maybe cellmates, who knows?",
+      "start": 620.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Kiss me, kiss me.",
+      "start": 624.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh god, he's gonna skip it again.",
+      "start": 626.0,
+      "duration": 2.0
+    },
+    {
+      "text": "What's he gonna skip?",
+      "start": 628.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Monster.",
+      "start": 630.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Maybe though, maybe though.",
+      "start": 634.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh!",
+      "start": 636.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, alright.",
+      "start": 638.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, let's go.",
+      "start": 640.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Ding!",
+      "start": 642.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, uh, withdraw?",
+      "start": 644.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yep.",
+      "start": 646.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Finally, I'll have him, I'll have him",
+      "start": 656.0,
+      "duration": 2.0
+    },
+    {
+      "text": "aploppily.",
+      "start": 658.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That's my favorite monopoly to have.",
+      "start": 660.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I know.",
+      "start": 662.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Don't make me pay over original.",
+      "start": 664.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my god.",
+      "start": 666.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow, boy, they really know how to rake someone",
+      "start": 668.0,
+      "duration": 2.0
+    },
+    {
+      "text": "over the coals. Fabrizio, you have all this",
+      "start": 670.0,
+      "duration": 2.0
+    },
+    {
+      "text": "money to",
+      "start": 672.0,
+      "duration": 2.0
+    },
+    {
+      "text": "strong arm people with.",
+      "start": 674.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Wait, you can just load it up with houses now.",
+      "start": 676.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I can, but I'm also",
+      "start": 678.0,
+      "duration": 2.0
+    },
+    {
+      "text": "terrified of",
+      "start": 680.0,
+      "duration": 2.0
+    },
+    {
+      "text": "your green gauntlet.",
+      "start": 682.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That's my favorite Marvel character.",
+      "start": 684.0,
+      "duration": 2.0
+    },
+    {
+      "text": "The green gauntlet? Yeah.",
+      "start": 686.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I'll throw",
+      "start": 688.0,
+      "duration": 2.0
+    },
+    {
+      "text": "gloves at you.",
+      "start": 690.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I shoot green out of my",
+      "start": 692.0,
+      "duration": 2.0
+    },
+    {
+      "text": "hands.",
+      "start": 694.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yah!",
+      "start": 696.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Green!",
+      "start": 698.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Dang it. You really got me with that green.",
+      "start": 700.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow, advanced to boardwalk.",
+      "start": 702.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Hey, fifty bucks.",
+      "start": 704.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright. Dope.",
+      "start": 706.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Hook it up, Fabriz.",
+      "start": 708.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Did he not? Oh, I guess you don't.",
+      "start": 712.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, cause I'm in jail?",
+      "start": 714.0,
+      "duration": 2.0
+    },
+    {
+      "text": "What?",
+      "start": 716.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't understand. Yeah.",
+      "start": 718.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm gonna pay the monies.",
+      "start": 720.0,
+      "duration": 2.0
+    },
+    {
+      "text": "You're gonna pay the fifty bucks",
+      "start": 722.0,
+      "duration": 2.0
+    },
+    {
+      "text": "that I owe you? That I did not get, yeah.",
+      "start": 724.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oops. Ow, ow. I meant to manage",
+      "start": 726.0,
+      "duration": 2.0
+    },
+    {
+      "text": "my properties. Thank you, El.",
+      "start": 728.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow. Is that the one you need?",
+      "start": 730.0,
+      "duration": 2.0
+    },
+    {
+      "text": "No.",
+      "start": 732.0,
+      "duration": 2.0
+    },
+    {
+      "text": "No, it never is.",
+      "start": 734.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It never is.",
+      "start": 736.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Why, dude?",
+      "start": 738.0,
+      "duration": 2.0
+    },
+    {
+      "text": "My properties.",
+      "start": 742.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, you're gonna do some stuff",
+      "start": 744.0,
+      "duration": 2.0
+    },
+    {
+      "text": "with your property? Can I?",
+      "start": 746.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, that's right, cause you have the browns.",
+      "start": 748.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I've got those browns, dog.",
+      "start": 750.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Baltic and Mediterranean.",
+      "start": 752.0,
+      "duration": 2.0
+    },
+    {
+      "text": "They sound so fancy.",
+      "start": 754.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Mediterranean.",
+      "start": 756.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Ooh.",
+      "start": 758.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Great.",
+      "start": 760.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Great.",
+      "start": 762.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Might as well start mortgaging",
+      "start": 764.0,
+      "duration": 2.0
+    },
+    {
+      "text": "stuff, too, I'm not gonna use.",
+      "start": 766.0,
+      "duration": 2.0
+    },
+    {
+      "text": "When you buy houses on it,",
+      "start": 768.0,
+      "duration": 2.0
+    },
+    {
+      "text": "it becomes a trailer park?",
+      "start": 770.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh,",
+      "start": 772.0,
+      "duration": 2.0
+    },
+    {
+      "text": "yeah.",
+      "start": 774.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, yeah?",
+      "start": 776.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Um.",
+      "start": 778.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh.",
+      "start": 780.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm gonna mortgage",
+      "start": 782.0,
+      "duration": 2.0
+    },
+    {
+      "text": "this nonsense.",
+      "start": 784.0,
+      "duration": 2.0
+    },
+    {
+      "text": "You're doing nothing.",
+      "start": 786.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Nothing for me.",
+      "start": 788.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Ooh.",
+      "start": 794.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Locked up.",
+      "start": 796.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Locked up. Is it worth it to mortgage these?",
+      "start": 798.0,
+      "duration": 2.0
+    },
+    {
+      "text": "And buy",
+      "start": 800.0,
+      "duration": 2.0
+    },
+    {
+      "text": "more stuff?",
+      "start": 802.0,
+      "duration": 2.0
+    },
+    {
+      "text": "They're not really doing anything. Yeah, I say you, like,",
+      "start": 804.0,
+      "duration": 2.0
+    },
+    {
+      "text": "double down on what you have. Yeah, might as well.",
+      "start": 806.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That should keep you in the game.",
+      "start": 808.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That's what the computer did last time.",
+      "start": 810.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Mm-hmm.",
+      "start": 812.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I think we had them on hard last time.",
+      "start": 814.0,
+      "duration": 2.0
+    },
+    {
+      "text": "At least they had me on hard,",
+      "start": 816.0,
+      "duration": 2.0
+    },
+    {
+      "text": "you know what I'm saying?",
+      "start": 818.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't get it, but",
+      "start": 820.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I'll laugh along.",
+      "start": 822.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I'll explain it when you're older.",
+      "start": 824.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay.",
+      "start": 826.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay, Dad.",
+      "start": 828.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I love you, Dad.",
+      "start": 830.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay.",
+      "start": 832.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright, not in public.",
+      "start": 834.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay.",
+      "start": 836.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, one more house, huh?",
+      "start": 840.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Now you got a little, uh,",
+      "start": 844.0,
+      "duration": 2.0
+    },
+    {
+      "text": "what do they call it?",
+      "start": 846.0,
+      "duration": 2.0
+    },
+    {
+      "text": "A valley court?",
+      "start": 848.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Court? Village court?",
+      "start": 850.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Village court.",
+      "start": 852.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay.",
+      "start": 856.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Back.",
+      "start": 858.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh, how do I end? Oh, end",
+      "start": 860.0,
+      "duration": 2.0
+    },
+    {
+      "text": "the turn. Alright, so it's",
+      "start": 862.0,
+      "duration": 2.0
+    },
+    {
+      "text": "getting a little dangerous. It's getting a little dangerous now.",
+      "start": 864.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know if I can",
+      "start": 866.0,
+      "duration": 2.0
+    },
+    {
+      "text": "handle it.",
+      "start": 868.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, shit. I can't control",
+      "start": 870.0,
+      "duration": 2.0
+    },
+    {
+      "text": "rent?",
+      "start": 872.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Shit.",
+      "start": 874.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, you mean to buy",
+      "start": 876.0,
+      "duration": 2.0
+    },
+    {
+      "text": "properties? Yeah, dog.",
+      "start": 878.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I might have to pay my way out of jail, dog.",
+      "start": 880.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It's a drag.",
+      "start": 882.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Two,",
+      "start": 884.0,
+      "duration": 2.0
+    },
+    {
+      "text": "maybe? No.",
+      "start": 886.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Roll up a",
+      "start": 888.0,
+      "duration": 2.0
+    },
+    {
+      "text": "two now.",
+      "start": 890.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yes.",
+      "start": 892.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Pay me my fourteen",
+      "start": 894.0,
+      "duration": 2.0
+    },
+    {
+      "text": "dollars. I will",
+      "start": 896.0,
+      "duration": 2.0
+    },
+    {
+      "text": "use it on cocaine.",
+      "start": 898.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I can't.",
+      "start": 900.0,
+      "duration": 2.0
+    },
+    {
+      "text": "He doesn't give me anything because I'm in jail.",
+      "start": 902.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, that's terrible.",
+      "start": 904.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 906.0,
+      "duration": 2.0
+    },
+    {
+      "text": "How about a two or a four, Fabrizio?",
+      "start": 908.0,
+      "duration": 2.0
+    },
+    {
+      "text": "You",
+      "start": 910.0,
+      "duration": 2.0
+    },
+    {
+      "text": "skunk. Nope.",
+      "start": 912.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I should have known before that",
+      "start": 916.0,
+      "duration": 2.0
+    },
+    {
+      "text": "kind of bullshit.",
+      "start": 918.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Ooh.",
+      "start": 920.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Are you actually going to buy something",
+      "start": 922.0,
+      "duration": 2.0
+    },
+    {
+      "text": "this time, Fabrizio? No.",
+      "start": 924.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Do you want to invest?",
+      "start": 926.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Are you fucking serious?",
+      "start": 928.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Dude, I mean, like, why even play Monopoly,",
+      "start": 930.0,
+      "duration": 2.0
+    },
+    {
+      "text": "dude? It's your turn.",
+      "start": 932.0,
+      "duration": 2.0
+    },
+    {
+      "text": "What an idiot.",
+      "start": 934.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Nice. This guy's so",
+      "start": 936.0,
+      "duration": 2.0
+    },
+    {
+      "text": "2010.",
+      "start": 938.0,
+      "duration": 2.0
+    },
+    {
+      "text": "He's so 2000",
+      "start": 940.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and late.",
+      "start": 942.0,
+      "duration": 2.0
+    },
+    {
+      "text": "But I'm 3000 and late. That's correct.",
+      "start": 944.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That is correct.",
+      "start": 946.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, boy, this is not good.",
+      "start": 948.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It's getting real dangerous around",
+      "start": 950.0,
+      "duration": 2.0
+    },
+    {
+      "text": "here. I just have to make it through this one",
+      "start": 952.0,
+      "duration": 2.0
+    },
+    {
+      "text": "uh",
+      "start": 954.0,
+      "duration": 2.0
+    },
+    {
+      "text": "God awful moment.",
+      "start": 956.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It's going to be an awful moment for you.",
+      "start": 958.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright. Um.",
+      "start": 960.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Up to you, dog. We'll pay the dollars. No.",
+      "start": 962.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Let's roll the dice.",
+      "start": 964.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Just in time for me to, uh,",
+      "start": 966.0,
+      "duration": 2.0
+    },
+    {
+      "text": "have to run the gauntlet. Ooh, and I landed",
+      "start": 968.0,
+      "duration": 2.0
+    },
+    {
+      "text": "on your guy. You",
+      "start": 970.0,
+      "duration": 2.0
+    },
+    {
+      "text": "stinky, stinky muffin. You can't even afford",
+      "start": 972.0,
+      "duration": 2.0
+    },
+    {
+      "text": "it. I can't. And then the other ones",
+      "start": 974.0,
+      "duration": 2.0
+    },
+    {
+      "text": "are mortgaged anyway. So I'm doing you a favor by",
+      "start": 976.0,
+      "duration": 2.0
+    },
+    {
+      "text": "skipping it. That's very cool",
+      "start": 978.0,
+      "duration": 2.0
+    },
+    {
+      "text": "of you.",
+      "start": 980.0,
+      "duration": 2.0
+    },
+    {
+      "text": "There we go.",
+      "start": 982.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, how sad.",
+      "start": 984.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It's not sad. It's",
+      "start": 986.0,
+      "duration": 2.0
+    },
+    {
+      "text": "capitalism, baby.",
+      "start": 988.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It's not sad.",
+      "start": 990.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Every time I hear you say that, I think of that",
+      "start": 992.0,
+      "duration": 2.0
+    },
+    {
+      "text": "microwave for one",
+      "start": 994.0,
+      "duration": 2.0
+    },
+    {
+      "text": "book. It's not sad.",
+      "start": 996.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It's not sad. It's not sad.",
+      "start": 998.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It says here on the book it's not sad.",
+      "start": 1000.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It's not sad.",
+      "start": 1002.0,
+      "duration": 2.0
+    },
+    {
+      "text": "The book has to say that it's",
+      "start": 1010.0,
+      "duration": 2.0
+    },
+    {
+      "text": "not sad. I know. Right on the cover.",
+      "start": 1012.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Right on the cover.",
+      "start": 1014.0,
+      "duration": 2.0
+    },
+    {
+      "text": "This not sad book will",
+      "start": 1018.0,
+      "duration": 2.0
+    },
+    {
+      "text": "help you. Oh my gosh.",
+      "start": 1020.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh boy.",
+      "start": 1022.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Can't tell you how much I love",
+      "start": 1024.0,
+      "duration": 2.0
+    },
+    {
+      "text": "seeing this whole orange thing really come together",
+      "start": 1026.0,
+      "duration": 2.0
+    },
+    {
+      "text": "as soon as I'm mortgaged on all the properties.",
+      "start": 1028.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright.",
+      "start": 1030.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, here we go. It's your turn.",
+      "start": 1032.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Once again, no threes, four",
+      "start": 1034.0,
+      "duration": 2.0
+    },
+    {
+      "text": "fives or sevens. Incredibly",
+      "start": 1036.0,
+      "duration": 2.0
+    },
+    {
+      "text": "common roles.",
+      "start": 1038.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh.",
+      "start": 1040.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my goodness.",
+      "start": 1042.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Well done. Thank you. Very nerve-wracking.",
+      "start": 1044.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I mean, I hate it.",
+      "start": 1046.0,
+      "duration": 2.0
+    },
+    {
+      "text": "You go back one space.",
+      "start": 1048.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Pay $800.",
+      "start": 1050.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Hey, okay.",
+      "start": 1052.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't have that.",
+      "start": 1054.0,
+      "duration": 2.0
+    },
+    {
+      "text": "You got 10 bucks.",
+      "start": 1056.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Somebody's like, alright, let's all pitch in for this.",
+      "start": 1058.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm like, um.",
+      "start": 1060.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1062.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, that's fine. It's totally fine.",
+      "start": 1064.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, how much?",
+      "start": 1066.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, it's just 50 bucks.",
+      "start": 1068.0,
+      "duration": 2.0
+    },
+    {
+      "text": "50 bucks.",
+      "start": 1070.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, yeah.",
+      "start": 1072.0,
+      "duration": 2.0
+    },
+    {
+      "text": "We do love him, don't we?",
+      "start": 1074.0,
+      "duration": 2.0
+    },
+    {
+      "text": "And believe me, I've had plenty of",
+      "start": 1076.0,
+      "duration": 2.0
+    },
+    {
+      "text": "poverty-stricken moments in my life.",
+      "start": 1078.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Every amount of money is",
+      "start": 1080.0,
+      "duration": 2.0
+    },
+    {
+      "text": "a lot of money if you don't have it.",
+      "start": 1082.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1084.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay.",
+      "start": 1086.0,
+      "duration": 2.0
+    },
+    {
+      "text": "God, I remember",
+      "start": 1088.0,
+      "duration": 2.0
+    },
+    {
+      "text": "living with my roommates in Brooklyn",
+      "start": 1090.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and just, like, we would have",
+      "start": 1092.0,
+      "duration": 2.0
+    },
+    {
+      "text": "a change",
+      "start": 1094.0,
+      "duration": 2.0
+    },
+    {
+      "text": "bowl, you know, just to throw",
+      "start": 1096.0,
+      "duration": 2.0
+    },
+    {
+      "text": "your spare change in. Yeah.",
+      "start": 1098.0,
+      "duration": 2.0
+    },
+    {
+      "text": "But, like, everyone was",
+      "start": 1100.0,
+      "duration": 2.0
+    },
+    {
+      "text": "really hungry all the time and, like,",
+      "start": 1102.0,
+      "duration": 2.0
+    },
+    {
+      "text": "not doing well financially, so",
+      "start": 1104.0,
+      "duration": 2.0
+    },
+    {
+      "text": "everyone would take from it.",
+      "start": 1106.0,
+      "duration": 2.0
+    },
+    {
+      "text": "And so it was always just nickels and pennies.",
+      "start": 1108.0,
+      "duration": 2.0
+    },
+    {
+      "text": "And then you'd go to the bodega and",
+      "start": 1110.0,
+      "duration": 2.0
+    },
+    {
+      "text": "buy a sandwich with, like, a thousand",
+      "start": 1112.0,
+      "duration": 2.0
+    },
+    {
+      "text": "nickels. Such a...",
+      "start": 1114.0,
+      "duration": 2.0
+    },
+    {
+      "text": "It was a rough time.",
+      "start": 1116.0,
+      "duration": 2.0
+    },
+    {
+      "text": "What's the days, man?",
+      "start": 1118.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah. Oh. Oh, my",
+      "start": 1120.0,
+      "duration": 2.0
+    },
+    {
+      "text": "God, Fabrizio. You have",
+      "start": 1122.0,
+      "duration": 2.0
+    },
+    {
+      "text": "to own a property. Fabrizio is",
+      "start": 1124.0,
+      "duration": 2.0
+    },
+    {
+      "text": "2,000. Fabrizio 2,000",
+      "start": 1126.0,
+      "duration": 2.0
+    },
+    {
+      "text": "activated.",
+      "start": 1128.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I have finally reached my goal.",
+      "start": 1130.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I win. Do not charge me one dollar.",
+      "start": 1134.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Alternate win condition.",
+      "start": 1136.0,
+      "duration": 2.0
+    },
+    {
+      "text": "There is a... Achievement unlocked.",
+      "start": 1140.0,
+      "duration": 2.0
+    },
+    {
+      "text": "There is a...",
+      "start": 1142.0,
+      "duration": 2.0
+    },
+    {
+      "text": "one of the... Oh, I don't think we've ever played it.",
+      "start": 1144.0,
+      "duration": 2.0
+    },
+    {
+      "text": "There's a game mode where",
+      "start": 1146.0,
+      "duration": 2.0
+    },
+    {
+      "text": "if you get to 3,000, you win.",
+      "start": 1148.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Really? Yeah.",
+      "start": 1150.0,
+      "duration": 2.0
+    },
+    {
+      "text": "That is interesting. Like, it's just",
+      "start": 1152.0,
+      "duration": 2.0
+    },
+    {
+      "text": "in addition to everything else going on? Yeah.",
+      "start": 1154.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Huh. Yeah, that's wild.",
+      "start": 1156.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Next time on Game Grumps.",
+      "start": 1158.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm 3,008.",
+      "start": 1162.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, man, if I land on 4, that's",
+      "start": 1164.0,
+      "duration": 2.0
+    },
+    {
+      "text": "gonna be very depressing.",
+      "start": 1166.0,
+      "duration": 2.0
+    }
+  ]
+}

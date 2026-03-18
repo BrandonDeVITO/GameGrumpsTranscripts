@@ -1,0 +1,3448 @@
+{
+  "video_id": "H6CAKlJUdp4",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Last time I'm on Game Grumps!",
+      "start": 0.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Why is Shadow locking doors?",
+      "start": 2.0,
+      "duration": 1.5
+    },
+    {
+      "text": "And what was Rouge- Rouge searching for?",
+      "start": 3.5,
+      "duration": 3.0
+    },
+    {
+      "text": "And am I drunk?",
+      "start": 6.5,
+      "duration": 1.0
+    },
+    {
+      "text": "Why can't I say Rouge searching?",
+      "start": 7.5,
+      "duration": 2.0
+    },
+    {
+      "text": "Rouge searching.",
+      "start": 9.5,
+      "duration": 2.0
+    },
+    {
+      "text": "It's tough.",
+      "start": 11.5,
+      "duration": 1.0
+    },
+    {
+      "text": "You're gonna have to find them and ask them yourselves.",
+      "start": 12.5,
+      "duration": 3.0
+    },
+    {
+      "text": "Zell.",
+      "start": 15.5,
+      "duration": 1.0
+    },
+    {
+      "text": "Zell.",
+      "start": 16.5,
+      "duration": 1.0
+    },
+    {
+      "text": "That was the perfect time for the music to start a new song.",
+      "start": 17.5,
+      "duration": 5.6
+    },
+    {
+      "text": "Phew!",
+      "start": 23.1,
+      "duration": 1.0
+    },
+    {
+      "text": "You sell yourselves.",
+      "start": 24.1,
+      "duration": 1.0
+    },
+    {
+      "text": "Hey I'm Grump!",
+      "start": 25.1,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm not so Grump!",
+      "start": 26.1,
+      "duration": 1.0
+    },
+    {
+      "text": "Hey I'm Grump!",
+      "start": 27.1,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm not so Grump!",
+      "start": 28.1,
+      "duration": 1.0
+    },
+    {
+      "text": "And we're the Game Grumps!",
+      "start": 29.1,
+      "duration": 3.8
+    },
+    {
+      "text": "Welcome back to Episode 4 of Sonic Murder Mystery.",
+      "start": 32.9,
+      "duration": 5.6
+    },
+    {
+      "text": "Tales is currently in the library.",
+      "start": 38.5,
+      "duration": 2.0
+    },
+    {
+      "text": "It's the murder of Sonic Hedgehog.",
+      "start": 40.5,
+      "duration": 1.0
+    },
+    {
+      "text": "What?",
+      "start": 41.5,
+      "duration": 1.0
+    },
+    {
+      "text": "Keep saying Sonic Murder Mystery.",
+      "start": 42.5,
+      "duration": 1.0
+    },
+    {
+      "text": "It's the murder of Sonic the Hedgehog.",
+      "start": 43.5,
+      "duration": 2.0
+    },
+    {
+      "text": "Sorry?",
+      "start": 45.5,
+      "duration": 1.0
+    },
+    {
+      "text": "It's the name of the game.",
+      "start": 46.5,
+      "duration": 1.9
+    },
+    {
+      "text": "The mystery murder of Sonic the Hedgehog murder mystery.",
+      "start": 48.4,
+      "duration": 5.0
+    },
+    {
+      "text": "The story of the murder...",
+      "start": 53.4,
+      "duration": 2.0
+    },
+    {
+      "text": "The mysterious murderiest murder of the mystery.",
+      "start": 55.4,
+      "duration": 5.0
+    },
+    {
+      "text": "Okay so Tales is in the library.",
+      "start": 60.4,
+      "duration": 2.48
+    },
+    {
+      "text": "We're talking to Espio and Vector and we're just gathering evidence so we can interrogate",
+      "start": 62.88,
+      "duration": 4.92
+    },
+    {
+      "text": "them.",
+      "start": 67.8,
+      "duration": 1.0
+    },
+    {
+      "text": "Yep.",
+      "start": 68.8,
+      "duration": 1.0
+    },
+    {
+      "text": "So let's take a look at those books Arin.",
+      "start": 69.8,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay.",
+      "start": 71.8,
+      "duration": 1.0
+    },
+    {
+      "text": "But Sonic needs me.",
+      "start": 72.8,
+      "duration": 1.0
+    },
+    {
+      "text": "No time to rest.",
+      "start": 73.8,
+      "duration": 1.0
+    },
+    {
+      "text": "Well he doesn't-",
+      "start": 74.8,
+      "duration": 1.0
+    },
+    {
+      "text": "Sonic's dead.",
+      "start": 75.8,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah he doesn't need you.",
+      "start": 76.8,
+      "duration": 1.0
+    },
+    {
+      "text": "He needs you less than anyone else really.",
+      "start": 77.8,
+      "duration": 1.0
+    },
+    {
+      "text": "There's really no hurry.",
+      "start": 78.8,
+      "duration": 1.0
+    },
+    {
+      "text": "We're on a train so nobody can leave.",
+      "start": 79.8,
+      "duration": 2.84
+    },
+    {
+      "text": "You have essentially eternity to get this figured out.",
+      "start": 82.64,
+      "duration": 3.48
+    },
+    {
+      "text": "Alright let's move on then.",
+      "start": 86.12,
+      "duration": 1.84
+    },
+    {
+      "text": "Well I mean a little peek wouldn't hurt.",
+      "start": 87.96,
+      "duration": 2.48
+    },
+    {
+      "text": "He's scavenging through all the book titles excitedly.",
+      "start": 90.44,
+      "duration": 3.2
+    },
+    {
+      "text": "He's like a kid in a candy shop or in this case a genius in a train library.",
+      "start": 93.64,
+      "duration": 5.2
+    },
+    {
+      "text": "They have one punch man!",
+      "start": 98.84,
+      "duration": 1.76
+    },
+    {
+      "text": "Number 7!",
+      "start": 100.6,
+      "duration": 1.0
+    },
+    {
+      "text": "Pfft.",
+      "start": 101.6,
+      "duration": 1.0
+    },
+    {
+      "text": "That's odd.",
+      "start": 102.6,
+      "duration": 1.0
+    },
+    {
+      "text": "I know some books have fallen out on the floor and everything but every book on these",
+      "start": 103.6,
+      "duration": 4.76
+    },
+    {
+      "text": "shelves is in alphabetical order but this one.",
+      "start": 108.36,
+      "duration": 3.16
+    },
+    {
+      "text": "The Mirage Express manual.",
+      "start": 112.0,
+      "duration": 1.92
+    },
+    {
+      "text": "It's the usual-",
+      "start": 113.92,
+      "duration": 1.0
+    },
+    {
+      "text": "It's the usual-",
+      "start": 114.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh my god.",
+      "start": 115.92,
+      "duration": 1.0
+    },
+    {
+      "text": "It's the user guide to the Mirage Express.",
+      "start": 116.92,
+      "duration": 2.52
+    },
+    {
+      "text": "The train we're currently on.",
+      "start": 119.44,
+      "duration": 2.0
+    },
+    {
+      "text": "Do you think that's how Sonic was able to steal the conductor's wife?",
+      "start": 121.44,
+      "duration": 3.36
+    },
+    {
+      "text": "What?",
+      "start": 124.8,
+      "duration": 1.0
+    },
+    {
+      "text": "Thank you for bringing that up the conductor comes in.",
+      "start": 125.8,
+      "duration": 3.16
+    },
+    {
+      "text": "Do you think someone found it on the ground and put it back?",
+      "start": 128.96,
+      "duration": 3.72
+    },
+    {
+      "text": "Not fucking likely maybe but it is interesting.",
+      "start": 132.68,
+      "duration": 4.16
+    },
+    {
+      "text": "Let's make a note of this.",
+      "start": 136.84,
+      "duration": 1.08
+    },
+    {
+      "text": "Do you have a notepad or?",
+      "start": 137.92,
+      "duration": 2.4
+    },
+    {
+      "text": "I thought you had a notepad.",
+      "start": 140.32,
+      "duration": 1.0
+    },
+    {
+      "text": "Alright, let's see if we can interrogate Espio now.",
+      "start": 141.32,
+      "duration": 4.52
+    },
+    {
+      "text": "Fancy a poem?",
+      "start": 145.84,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, nope.",
+      "start": 146.84,
+      "duration": 1.0
+    },
+    {
+      "text": "Alright.",
+      "start": 147.84,
+      "duration": 1.0
+    },
+    {
+      "text": "Maybe we can try Vector, yeah.",
+      "start": 148.84,
+      "duration": 3.2
+    },
+    {
+      "text": "Did you bring me any meat to chop?",
+      "start": 152.04,
+      "duration": 2.16
+    },
+    {
+      "text": "I may be a butcher but they confiscated my meat cleaver before getting on the train.",
+      "start": 154.2,
+      "duration": 5.8
+    },
+    {
+      "text": "That guy's very one-track-minded.",
+      "start": 160.0,
+      "duration": 1.84
+    },
+    {
+      "text": "You actually tried to bring a knife on the train?",
+      "start": 161.84,
+      "duration": 2.84
+    },
+    {
+      "text": "I'm a man of authenticity tales without a knife.",
+      "start": 164.68,
+      "duration": 3.04
+    },
+    {
+      "text": "I'm just a chef and a ketchup stained apron, not a butcher.",
+      "start": 167.72,
+      "duration": 3.96
+    },
+    {
+      "text": "I think if you had a knife on you we definitely think you were the murderer.",
+      "start": 171.68,
+      "duration": 3.64
+    },
+    {
+      "text": "Hmm.",
+      "start": 175.32,
+      "duration": 1.0
+    },
+    {
+      "text": "But what if I hid the knife?",
+      "start": 176.32,
+      "duration": 2.28
+    },
+    {
+      "text": "In Sonic's body.",
+      "start": 178.6,
+      "duration": 2.36
+    },
+    {
+      "text": "You know, I'm not the biggest fan of this line of thought.",
+      "start": 180.96,
+      "duration": 3.16
+    },
+    {
+      "text": "Oh dang.",
+      "start": 184.12,
+      "duration": 2.0
+    },
+    {
+      "text": "Alright.",
+      "start": 186.12,
+      "duration": 1.0
+    },
+    {
+      "text": "Let me take your order.",
+      "start": 187.12,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh yes, please I'm starved.",
+      "start": 189.12,
+      "duration": 1.4
+    },
+    {
+      "text": "Actually, I'm off duty at the moment.",
+      "start": 190.52,
+      "duration": 1.64
+    },
+    {
+      "text": "Sorry I asked.",
+      "start": 192.16,
+      "duration": 1.0
+    },
+    {
+      "text": "The murder mystery is more important than why would you show the menu to me?",
+      "start": 193.16,
+      "duration": 4.52
+    },
+    {
+      "text": "Boy, he's sassy.",
+      "start": 197.76,
+      "duration": 1.56
+    },
+    {
+      "text": "Come on, glare of the cat.",
+      "start": 199.32,
+      "duration": 1.72
+    },
+    {
+      "text": "Why would you tease him like that?",
+      "start": 201.04,
+      "duration": 1.4
+    },
+    {
+      "text": "Hold an option.",
+      "start": 202.44,
+      "duration": 1.0
+    },
+    {
+      "text": "And there I thought I could trust you.",
+      "start": 203.44,
+      "duration": 2.4
+    },
+    {
+      "text": "You've made a fool of me.",
+      "start": 205.84,
+      "duration": 1.76
+    },
+    {
+      "text": "Now I'm going to eat you.",
+      "start": 207.6,
+      "duration": 1.6
+    },
+    {
+      "text": "Look, glare of the cat.",
+      "start": 209.2,
+      "duration": 1.52
+    },
+    {
+      "text": "Cat.",
+      "start": 210.72,
+      "duration": 1.0
+    },
+    {
+      "text": "You made him a fool.",
+      "start": 211.72,
+      "duration": 2.04
+    },
+    {
+      "text": "Come on, glare of the cat.",
+      "start": 213.76,
+      "duration": 1.4
+    },
+    {
+      "text": "Smooth this over.",
+      "start": 215.16,
+      "duration": 1.0
+    },
+    {
+      "text": "No, I'm the fool.",
+      "start": 216.16,
+      "duration": 1.56
+    },
+    {
+      "text": "I'm boo-boo.",
+      "start": 217.72,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 218.72,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 219.72,
+      "duration": 1.0
+    },
+    {
+      "text": "I smooth things over but at what cost?",
+      "start": 220.72,
+      "duration": 4.24
+    },
+    {
+      "text": "What cost?",
+      "start": 224.96,
+      "duration": 1.0
+    },
+    {
+      "text": "Shadow supposedly walked through the library car before going into the saloon car.",
+      "start": 226.96,
+      "duration": 5.6
+    },
+    {
+      "text": "When Shadow left the library car, he locked the store on his way out.",
+      "start": 232.56,
+      "duration": 4.0
+    },
+    {
+      "text": "There's gotta be a reason he's doing this.",
+      "start": 236.56,
+      "duration": 2.12
+    },
+    {
+      "text": "Should we make a note of it?",
+      "start": 238.68,
+      "duration": 1.84
+    },
+    {
+      "text": "Yeah, I do believe we should.",
+      "start": 240.52,
+      "duration": 2.96
+    },
+    {
+      "text": "Several of them.",
+      "start": 243.48,
+      "duration": 1.48
+    },
+    {
+      "text": "Also a surprising lack of statements about the unlocked door that was supposed to be",
+      "start": 244.96,
+      "duration": 4.0
+    },
+    {
+      "text": "locked.",
+      "start": 248.96,
+      "duration": 1.0
+    },
+    {
+      "text": "I think we've found enough clues.",
+      "start": 249.96,
+      "duration": 1.0
+    },
+    {
+      "text": "Let's go interrogate Vector and Espio to find out what really happened.",
+      "start": 250.96,
+      "duration": 3.44
+    },
+    {
+      "text": "Amy, I'm not good.",
+      "start": 254.4,
+      "duration": 1.84
+    },
+    {
+      "text": "Ooh, dip.",
+      "start": 256.24,
+      "duration": 3.16
+    },
+    {
+      "text": "We should really confirm Vector and Espio's stories before moving on to the next car.",
+      "start": 259.4,
+      "duration": 2.92
+    },
+    {
+      "text": "Are you just saying that because you want to look at the books longer?",
+      "start": 262.32,
+      "duration": 2.72
+    },
+    {
+      "text": "Either way.",
+      "start": 265.04,
+      "duration": 1.0
+    },
+    {
+      "text": "You each should get back to the investigation.",
+      "start": 266.04,
+      "duration": 2.0
+    },
+    {
+      "text": "It's so shy about liking books.",
+      "start": 268.04,
+      "duration": 3.44
+    },
+    {
+      "text": "Did you bring me any major chat?",
+      "start": 271.48,
+      "duration": 1.92
+    },
+    {
+      "text": "Okay.",
+      "start": 273.4,
+      "duration": 1.0
+    },
+    {
+      "text": "I may be a butcher, but oh, I already got it.",
+      "start": 274.4,
+      "duration": 2.08
+    },
+    {
+      "text": "Yep.",
+      "start": 276.48,
+      "duration": 1.0
+    },
+    {
+      "text": "This already happened.",
+      "start": 277.48,
+      "duration": 2.0
+    },
+    {
+      "text": "Start the interrogation.",
+      "start": 279.48,
+      "duration": 1.0
+    },
+    {
+      "text": "Start the...okay.",
+      "start": 280.48,
+      "duration": 2.2
+    },
+    {
+      "text": "Fancy a poem?",
+      "start": 282.68,
+      "duration": 1.56
+    },
+    {
+      "text": "What'll it be?",
+      "start": 284.24,
+      "duration": 1.8
+    },
+    {
+      "text": "Space.",
+      "start": 286.04,
+      "duration": 1.0
+    },
+    {
+      "text": "I made it up to space with my beloved antique vase, but a mistake in my haste dropped the",
+      "start": 287.04,
+      "duration": 4.96
+    },
+    {
+      "text": "vase from my embrace, so my antique I must now replace.",
+      "start": 292.0,
+      "duration": 3.2
+    },
+    {
+      "text": "Damn, that was pretty fucking sick.",
+      "start": 295.2,
+      "duration": 2.04
+    },
+    {
+      "text": "I think it was supposed to be red like a limerick.",
+      "start": 297.24,
+      "duration": 3.12
+    },
+    {
+      "text": "Oh, well.",
+      "start": 300.36,
+      "duration": 1.0
+    },
+    {
+      "text": "What caused you to drop the vase?",
+      "start": 301.36,
+      "duration": 1.84
+    },
+    {
+      "text": "I was killing this guy.",
+      "start": 303.2,
+      "duration": 1.48
+    },
+    {
+      "text": "Don't read it too deeply.",
+      "start": 304.68,
+      "duration": 1.0
+    },
+    {
+      "text": "It's just a poem.",
+      "start": 305.68,
+      "duration": 1.0
+    },
+    {
+      "text": "He hasn't thought it through, has he?",
+      "start": 306.68,
+      "duration": 3.16
+    },
+    {
+      "text": "Okay.",
+      "start": 309.84,
+      "duration": 1.0
+    },
+    {
+      "text": "Very good.",
+      "start": 310.84,
+      "duration": 1.0
+    },
+    {
+      "text": "Arin, please interrogate him.",
+      "start": 311.84,
+      "duration": 2.6
+    },
+    {
+      "text": "It won't let me.",
+      "start": 314.44,
+      "duration": 1.0
+    },
+    {
+      "text": "Yes, you will.",
+      "start": 315.44,
+      "duration": 1.48
+    },
+    {
+      "text": "Oh.",
+      "start": 316.92,
+      "duration": 1.0
+    },
+    {
+      "text": "What the fuck?",
+      "start": 317.92,
+      "duration": 1.0
+    },
+    {
+      "text": "It had a whole thing where he was like, we have enough clues now.",
+      "start": 318.92,
+      "duration": 1.96
+    },
+    {
+      "text": "Oh.",
+      "start": 320.88,
+      "duration": 1.0
+    },
+    {
+      "text": "How did I not?",
+      "start": 321.88,
+      "duration": 1.48
+    },
+    {
+      "text": "That's okay.",
+      "start": 323.36,
+      "duration": 1.0
+    },
+    {
+      "text": "So?",
+      "start": 324.36,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, that's you.",
+      "start": 325.36,
+      "duration": 1.0
+    },
+    {
+      "text": "So the two of you don't believe us, eh?",
+      "start": 326.36,
+      "duration": 2.4
+    },
+    {
+      "text": "It's not that I don't trust either of you, but I wouldn't be a proper detective without",
+      "start": 328.76,
+      "duration": 3.88
+    },
+    {
+      "text": "examining the validity of your alibis.",
+      "start": 332.64,
+      "duration": 2.88
+    },
+    {
+      "text": "It's a Libis.",
+      "start": 335.52,
+      "duration": 1.0
+    },
+    {
+      "text": "Claire, if the cat and I are here to confirm two things, why have a vector left to go",
+      "start": 336.52,
+      "duration": 5.2
+    },
+    {
+      "text": "play games with Knuckles and if Espio really was reading in the library car?",
+      "start": 341.72,
+      "duration": 3.92
+    },
+    {
+      "text": "Vector, we'll start with you.",
+      "start": 345.64,
+      "duration": 2.32
+    },
+    {
+      "text": "Why did you leave the library car because she's like, what is in the library car?",
+      "start": 347.96,
+      "duration": 4.6
+    },
+    {
+      "text": "I think I skipped a bunch of dialogue.",
+      "start": 352.56,
+      "duration": 4.84
+    },
+    {
+      "text": "I think I skipped a bunch of dialogue.",
+      "start": 357.4,
+      "duration": 1.0
+    },
+    {
+      "text": "Exactly.",
+      "start": 358.4,
+      "duration": 1.0
+    },
+    {
+      "text": "You've managed it.",
+      "start": 359.4,
+      "duration": 1.0
+    },
+    {
+      "text": "Is there a way to build text?",
+      "start": 360.4,
+      "duration": 2.0
+    },
+    {
+      "text": "Nope.",
+      "start": 362.4,
+      "duration": 1.0
+    },
+    {
+      "text": "All right.",
+      "start": 363.4,
+      "duration": 2.0
+    },
+    {
+      "text": "I wasn't entertaining him enough, it seems.",
+      "start": 365.4,
+      "duration": 1.96
+    },
+    {
+      "text": "Vector enjoys being social.",
+      "start": 367.36,
+      "duration": 2.0
+    },
+    {
+      "text": "Plus, we were instructed to mingle.",
+      "start": 369.36,
+      "duration": 2.24
+    },
+    {
+      "text": "I remember the arcade machine and the saloon car was a chick magnet, so figured I'd go",
+      "start": 371.6,
+      "duration": 5.24
+    },
+    {
+      "text": "chuck it out.",
+      "start": 376.84,
+      "duration": 1.32
+    },
+    {
+      "text": "That seems to line up with the information we gathered with Knuckles.",
+      "start": 378.16,
+      "duration": 4.2
+    },
+    {
+      "text": "Then that brings our attention to you, Espio, Rouge entered the library car, found something",
+      "start": 382.36,
+      "duration": 5.12
+    },
+    {
+      "text": "then left.",
+      "start": 387.48,
+      "duration": 1.0
+    },
+    {
+      "text": "You said you immediately started reading, but were you actually reading the entire time",
+      "start": 388.48,
+      "duration": 4.16
+    },
+    {
+      "text": "you were in the library car?",
+      "start": 392.64,
+      "duration": 1.72
+    },
+    {
+      "text": "Of course he was.",
+      "start": 394.72,
+      "duration": 2.0
+    },
+    {
+      "text": "Rouge?",
+      "start": 396.72,
+      "duration": 3.0
+    },
+    {
+      "text": "Once Espio starts reading, he doesn't stop till it's done.",
+      "start": 399.72,
+      "duration": 3.0
+    },
+    {
+      "text": "I've seen it happen.",
+      "start": 402.72,
+      "duration": 1.56
+    },
+    {
+      "text": "He's a rapid reader.",
+      "start": 404.28,
+      "duration": 3.68
+    },
+    {
+      "text": "It must have been a good read.",
+      "start": 407.96,
+      "duration": 1.16
+    },
+    {
+      "text": "What was the book?",
+      "start": 409.12,
+      "duration": 1.4
+    },
+    {
+      "text": "The Bernstein Bears first day at school.",
+      "start": 410.52,
+      "duration": 2.56
+    },
+    {
+      "text": "Espio doesn't argue that detective, let the man live.",
+      "start": 413.08,
+      "duration": 3.0
+    },
+    {
+      "text": "Wow.",
+      "start": 416.08,
+      "duration": 1.0
+    },
+    {
+      "text": "What if it was a bird thing?",
+      "start": 417.08,
+      "duration": 2.96
+    },
+    {
+      "text": "What kind of things do you think I read?",
+      "start": 420.04,
+      "duration": 3.32
+    },
+    {
+      "text": "If you won't talk, I have a hunch on what that book might be.",
+      "start": 423.36,
+      "duration": 3.84
+    },
+    {
+      "text": "Gleyrf the Cat, could you help me out?",
+      "start": 427.2,
+      "duration": 2.6
+    },
+    {
+      "text": "All right, Gleyrf the Cat.",
+      "start": 429.8,
+      "duration": 2.44
+    },
+    {
+      "text": "What book do we think Espio may have been reading?",
+      "start": 432.24,
+      "duration": 4.64
+    },
+    {
+      "text": "The man.",
+      "start": 436.88,
+      "duration": 1.28
+    },
+    {
+      "text": "The only book in my thing.",
+      "start": 438.16,
+      "duration": 3.16
+    },
+    {
+      "text": "The manual.",
+      "start": 441.32,
+      "duration": 2.16
+    },
+    {
+      "text": "You think Espio was reading instructions?",
+      "start": 443.48,
+      "duration": 3.24
+    },
+    {
+      "text": "What argument could you possibly have to support this?",
+      "start": 446.72,
+      "duration": 4.0
+    },
+    {
+      "text": "I think Sonic the Hedgehog got it wrong fast.",
+      "start": 450.72,
+      "duration": 5.8
+    },
+    {
+      "text": "I'm going to cut it so fast.",
+      "start": 456.52,
+      "duration": 3.04
+    },
+    {
+      "text": "Shit.",
+      "start": 459.56,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm doing a raise.",
+      "start": 460.56,
+      "duration": 1.4
+    },
+    {
+      "text": "Oh, I know!",
+      "start": 461.96,
+      "duration": 2.0
+    },
+    {
+      "text": "Shit.",
+      "start": 463.96,
+      "duration": 1.0
+    },
+    {
+      "text": "You are grasping.",
+      "start": 464.96,
+      "duration": 1.0
+    },
+    {
+      "text": "I know it.",
+      "start": 465.96,
+      "duration": 1.0
+    },
+    {
+      "text": "We got this, Gleyrf the Cat.",
+      "start": 466.96,
+      "duration": 1.96
+    },
+    {
+      "text": "Let's try again.",
+      "start": 468.92,
+      "duration": 1.0
+    },
+    {
+      "text": "Think, damn you, think of Sonic running so fast.",
+      "start": 469.92,
+      "duration": 3.6
+    },
+    {
+      "text": "Oh, yeah, that's right.",
+      "start": 473.52,
+      "duration": 2.72
+    },
+    {
+      "text": "Whoops.",
+      "start": 476.24,
+      "duration": 1.0
+    },
+    {
+      "text": "Get a little harder.",
+      "start": 477.24,
+      "duration": 3.08
+    },
+    {
+      "text": "What the fuck is this?",
+      "start": 480.32,
+      "duration": 2.0
+    },
+    {
+      "text": "Whoa.",
+      "start": 482.32,
+      "duration": 1.0
+    },
+    {
+      "text": "Whoops.",
+      "start": 483.32,
+      "duration": 1.0
+    },
+    {
+      "text": "Whoops.",
+      "start": 484.32,
+      "duration": 1.0
+    },
+    {
+      "text": "Ah.",
+      "start": 485.32,
+      "duration": 1.0
+    },
+    {
+      "text": "Ah.",
+      "start": 486.32,
+      "duration": 1.0
+    },
+    {
+      "text": "Ah.",
+      "start": 487.32,
+      "duration": 1.0
+    },
+    {
+      "text": "Ah.",
+      "start": 488.32,
+      "duration": 1.0
+    },
+    {
+      "text": "Fucking stop.",
+      "start": 489.32,
+      "duration": 1.0
+    },
+    {
+      "text": "Did the Sonic in your brain fall down again?",
+      "start": 490.32,
+      "duration": 2.0
+    },
+    {
+      "text": "Yes.",
+      "start": 492.32,
+      "duration": 1.0
+    },
+    {
+      "text": "Hurry up and think, damn you.",
+      "start": 493.32,
+      "duration": 3.0
+    },
+    {
+      "text": "All right.",
+      "start": 496.32,
+      "duration": 2.0
+    },
+    {
+      "text": "That's good.",
+      "start": 498.32,
+      "duration": 1.0
+    },
+    {
+      "text": "There's just so many things happening.",
+      "start": 499.32,
+      "duration": 4.44
+    },
+    {
+      "text": "Yeah.",
+      "start": 503.76,
+      "duration": 1.0
+    },
+    {
+      "text": "You got a one, dude.",
+      "start": 504.76,
+      "duration": 3.0
+    },
+    {
+      "text": "One.",
+      "start": 508.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Whoa.",
+      "start": 509.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Whoa.",
+      "start": 510.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Okay.",
+      "start": 511.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Ah.",
+      "start": 512.76,
+      "duration": 1.0
+    },
+    {
+      "text": "All right.",
+      "start": 513.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Ninja stars.",
+      "start": 514.76,
+      "duration": 1.0
+    },
+    {
+      "text": "We learned the Cat's dream, dude.",
+      "start": 515.76,
+      "duration": 4.0
+    },
+    {
+      "text": "Nice.",
+      "start": 519.76,
+      "duration": 1.0
+    },
+    {
+      "text": "There are books scattered around the floor, sure, but the remaining books on the shelves",
+      "start": 520.76,
+      "duration": 5.0
+    },
+    {
+      "text": "were all in alphabetical order.",
+      "start": 525.76,
+      "duration": 2.0
+    },
+    {
+      "text": "I'll accept this manual, meaning someone, at the very least, picked the manual up and",
+      "start": 527.76,
+      "duration": 5.0
+    },
+    {
+      "text": "put it back in the incorrect place.",
+      "start": 532.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, that was me.",
+      "start": 534.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Next question.",
+      "start": 535.76,
+      "duration": 1.0
+    },
+    {
+      "text": "This lack of attention to detail isn't normally like you, S.P.O.",
+      "start": 536.76,
+      "duration": 4.0
+    },
+    {
+      "text": "Hey, now.",
+      "start": 540.76,
+      "duration": 1.0
+    },
+    {
+      "text": "You're an all-star.",
+      "start": 541.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I would have you in something my pal like this.",
+      "start": 542.76,
+      "duration": 3.0
+    },
+    {
+      "text": "I'm going to get my game on.",
+      "start": 545.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Calm down, Victor.",
+      "start": 547.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I know you mean well, but I can handle myself.",
+      "start": 548.76,
+      "duration": 3.0
+    },
+    {
+      "text": "That's not what you say, though.",
+      "start": 551.76,
+      "duration": 2.0
+    },
+    {
+      "text": "No, no, no.",
+      "start": 553.76,
+      "duration": 1.0
+    },
+    {
+      "text": "The positive is S.P.O.",
+      "start": 554.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I put you in a poet.",
+      "start": 555.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Friendship can form anywhere.",
+      "start": 557.76,
+      "duration": 3.0
+    },
+    {
+      "text": "That is indeed the book I was reading.",
+      "start": 560.76,
+      "duration": 2.0
+    },
+    {
+      "text": "The Mirage Express manual.",
+      "start": 562.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Trains are cool.",
+      "start": 564.76,
+      "duration": 2.0
+    },
+    {
+      "text": "You know we're like friends outside of this, right?",
+      "start": 566.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Like...",
+      "start": 568.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, that's...",
+      "start": 569.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I don't have to be weird about it.",
+      "start": 570.76,
+      "duration": 2.0
+    },
+    {
+      "text": "In that case, we'd like to ask you a few questions about the manual.",
+      "start": 572.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Clear the Cat if you don't mind.",
+      "start": 575.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Could you ask S.P.O. some questions about the manual?",
+      "start": 577.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Just flip to a page and ask away.",
+      "start": 580.76,
+      "duration": 2.0
+    },
+    {
+      "text": "You just lie.",
+      "start": 582.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, I see Quiz S.P.O. about the manual to prove he read it.",
+      "start": 583.76,
+      "duration": 4.0
+    },
+    {
+      "text": "What page did I quiz him on?",
+      "start": 587.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Page 14.",
+      "start": 589.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay.",
+      "start": 591.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm assuming he didn't get very far.",
+      "start": 592.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay, what?",
+      "start": 594.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Efficient and extremely accurate technology was installed to insist in keeping this train spotless.",
+      "start": 595.76,
+      "duration": 6.0
+    },
+    {
+      "text": "Robotic arms.",
+      "start": 601.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Drink events that can perform a variety of tasks and are responsible for cleaning up trash and messes afterwards.",
+      "start": 603.76,
+      "duration": 5.0
+    },
+    {
+      "text": "I mean, I don't know.",
+      "start": 608.76,
+      "duration": 2.0
+    },
+    {
+      "text": "I remember the conductor saying the train can clean itself.",
+      "start": 610.76,
+      "duration": 5.0
+    },
+    {
+      "text": "Unless that incriminates me, in which case, trains.",
+      "start": 615.76,
+      "duration": 3.0
+    },
+    {
+      "text": "What are trains?",
+      "start": 618.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Though I have a feeling the train company just didn't want to hire any janitors.",
+      "start": 620.76,
+      "duration": 4.0
+    },
+    {
+      "text": "The robotic arms can also detect weapons or explosives being brought under the train, ensuring passenger safety.",
+      "start": 624.76,
+      "duration": 6.0
+    },
+    {
+      "text": "So that's where my knife went.",
+      "start": 630.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh, yeah.",
+      "start": 633.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Seems like S.P.O.A.'s that question.",
+      "start": 634.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Clear the Cat, hit it with another one.",
+      "start": 637.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, okay, which page do I choose?",
+      "start": 639.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh, A9.",
+      "start": 641.76,
+      "duration": 2.0
+    },
+    {
+      "text": "What is the Mirage Express's cancellation policy?",
+      "start": 643.76,
+      "duration": 4.0
+    },
+    {
+      "text": "No refunds, and you will be charged a no-show fee.",
+      "start": 647.76,
+      "duration": 3.0
+    },
+    {
+      "text": "This does not apply if you are over the age of 65.",
+      "start": 650.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Gee, the person who made this rule must have been over 65.",
+      "start": 653.76,
+      "duration": 4.0
+    },
+    {
+      "text": "Last one, glare of the cat.",
+      "start": 657.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Let's see if S.P.O. can go three for three.",
+      "start": 659.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Why would he make the rules?",
+      "start": 662.76,
+      "duration": 2.0
+    },
+    {
+      "text": "If he owns the rules, he could probably get on the train any time he wants.",
+      "start": 664.76,
+      "duration": 5.0
+    },
+    {
+      "text": "Gotcha, which page should I pick last?",
+      "start": 669.76,
+      "duration": 3.0
+    },
+    {
+      "text": "420.",
+      "start": 672.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Nice.",
+      "start": 673.76,
+      "duration": 2.0
+    },
+    {
+      "text": "What was implemented to support the conductor duties and ease general train obligations?",
+      "start": 676.76,
+      "duration": 6.0
+    },
+    {
+      "text": "An intelligent data processing system.",
+      "start": 682.76,
+      "duration": 2.0
+    },
+    {
+      "text": "It works in tandem with the conductor to assure smooth travels for guests.",
+      "start": 684.76,
+      "duration": 4.0
+    },
+    {
+      "text": "I remember this.",
+      "start": 688.76,
+      "duration": 1.0
+    },
+    {
+      "text": "The train has an autopilot, but it can't access its full suite of capabilities without the conductor present.",
+      "start": 689.76,
+      "duration": 7.0
+    },
+    {
+      "text": "And now, did I pass your little test?",
+      "start": 696.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Yes.",
+      "start": 699.76,
+      "duration": 1.0
+    },
+    {
+      "text": "P.N. of this cup.",
+      "start": 700.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Go on.",
+      "start": 702.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Totally.",
+      "start": 705.76,
+      "duration": 1.0
+    },
+    {
+      "text": "It's wild you were able to retain all this information so quickly.",
+      "start": 706.76,
+      "duration": 3.0
+    },
+    {
+      "text": "A poet's brain is often surprising.",
+      "start": 709.76,
+      "duration": 3.0
+    },
+    {
+      "text": "I don't know if I'd be bragging about that.",
+      "start": 712.76,
+      "duration": 4.0
+    },
+    {
+      "text": "What, that he's smart?",
+      "start": 716.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 717.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, there goes S.P.O.",
+      "start": 718.76,
+      "duration": 2.0
+    },
+    {
+      "text": "He's got poets born.",
+      "start": 720.76,
+      "duration": 3.0
+    },
+    {
+      "text": "You clearly read the manual.",
+      "start": 723.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Those answers feel far too specific to be guesses.",
+      "start": 725.76,
+      "duration": 3.0
+    },
+    {
+      "text": "And you both had the nerve to question my buddy like that.",
+      "start": 728.76,
+      "duration": 4.0
+    },
+    {
+      "text": "Isn't that right?",
+      "start": 732.76,
+      "duration": 1.0
+    },
+    {
+      "text": "That's weird.",
+      "start": 733.76,
+      "duration": 1.0
+    },
+    {
+      "text": "He like, slaps it with his giant hand on the back.",
+      "start": 734.76,
+      "duration": 2.0
+    },
+    {
+      "text": "He's like, oh, oh, Jesus.",
+      "start": 736.76,
+      "duration": 4.0
+    },
+    {
+      "text": "Don't we want to be supporting folks who read?",
+      "start": 740.76,
+      "duration": 3.0
+    },
+    {
+      "text": "You have to admit though, reading the entire time a murder occurred does sound a bit suspicious,",
+      "start": 743.76,
+      "duration": 7.0
+    },
+    {
+      "text": "even if true.",
+      "start": 750.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I mean, he read the whole fucking book clearly.",
+      "start": 751.76,
+      "duration": 2.0
+    },
+    {
+      "text": "It depends on how fast the murder is.",
+      "start": 753.76,
+      "duration": 2.0
+    },
+    {
+      "text": "But he never shot it could take seconds.",
+      "start": 755.76,
+      "duration": 2.0
+    },
+    {
+      "text": "But he answered all of my questions so calmly.",
+      "start": 757.76,
+      "duration": 3.0
+    },
+    {
+      "text": "That's very impressive.",
+      "start": 760.76,
+      "duration": 2.0
+    },
+    {
+      "text": "No, no.",
+      "start": 762.76,
+      "duration": 2.0
+    },
+    {
+      "text": "I understand.",
+      "start": 764.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Everyone's cautious attitudes.",
+      "start": 766.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Vector was the only one to see me reading after all.",
+      "start": 768.76,
+      "duration": 3.0
+    },
+    {
+      "text": "My Alibi is hard to substantiate despite being the truth.",
+      "start": 771.76,
+      "duration": 4.0
+    },
+    {
+      "text": "Huh?",
+      "start": 775.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Well, you definitely read through the manual.",
+      "start": 776.76,
+      "duration": 3.0
+    },
+    {
+      "text": "So I suppose we call...",
+      "start": 779.76,
+      "duration": 2.0
+    },
+    {
+      "text": "S.P.O.",
+      "start": 781.76,
+      "duration": 1.0
+    },
+    {
+      "text": "S.P.O. is that true?",
+      "start": 782.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Vector was the only one to see you reading?",
+      "start": 784.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Yes, that's correct.",
+      "start": 786.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Bravo.",
+      "start": 787.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Bravo?",
+      "start": 788.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Like the troll face.",
+      "start": 789.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Frankly, I don't believe that can be true.",
+      "start": 791.76,
+      "duration": 3.0
+    },
+    {
+      "text": "And we have evidence to back it up.",
+      "start": 794.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay.",
+      "start": 796.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Glerf the cat.",
+      "start": 797.76,
+      "duration": 2.0
+    },
+    {
+      "text": "What?",
+      "start": 799.76,
+      "duration": 1.0
+    },
+    {
+      "text": "He always puts me on the spot, okay?",
+      "start": 800.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Glerf the cat?",
+      "start": 802.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Think.",
+      "start": 803.76,
+      "duration": 1.0
+    },
+    {
+      "text": "We should have a piece of evidence linked to someone who also saw S.P.O. reading.",
+      "start": 804.76,
+      "duration": 3.0
+    },
+    {
+      "text": "But what?",
+      "start": 807.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Um...",
+      "start": 809.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Is it the lock?",
+      "start": 810.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, yeah, because of Shadow.",
+      "start": 811.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Shadows.",
+      "start": 813.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Lock?",
+      "start": 815.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Please, pretel.",
+      "start": 817.76,
+      "duration": 1.0
+    },
+    {
+      "text": "What has this to do with anything?",
+      "start": 818.76,
+      "duration": 2.0
+    },
+    {
+      "text": "We're out Glerf the cat.",
+      "start": 820.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Let's get our argument together.",
+      "start": 823.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Time to play an approximation of Sonic the Hedgehog.",
+      "start": 825.76,
+      "duration": 3.0
+    },
+    {
+      "text": "I love it.",
+      "start": 828.76,
+      "duration": 2.0
+    },
+    {
+      "text": "How does this work?",
+      "start": 830.76,
+      "duration": 1.0
+    },
+    {
+      "text": "There's no licensing for...",
+      "start": 831.76,
+      "duration": 2.0
+    },
+    {
+      "text": "This is a real game.",
+      "start": 833.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Like, super real?",
+      "start": 835.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, this is released by Sega.",
+      "start": 836.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow, that's awesome.",
+      "start": 838.76,
+      "duration": 2.0
+    },
+    {
+      "text": "I had no idea.",
+      "start": 840.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I thought it was like a fan-made studio game.",
+      "start": 841.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh, man.",
+      "start": 844.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Well, I mean it...",
+      "start": 845.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Yes, but...",
+      "start": 846.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Sega...",
+      "start": 847.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Bought it?",
+      "start": 848.76,
+      "duration": 2.0
+    },
+    {
+      "text": "I...",
+      "start": 850.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I don't know.",
+      "start": 851.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Whoa, whoa, give me rings, dude.",
+      "start": 852.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh!",
+      "start": 855.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh!",
+      "start": 856.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, no.",
+      "start": 857.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh!",
+      "start": 858.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh!",
+      "start": 859.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh!",
+      "start": 860.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Enough cash, stranger!",
+      "start": 861.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Hmm.",
+      "start": 863.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Consider my time wasted by one measly little ring.",
+      "start": 864.76,
+      "duration": 5.0
+    },
+    {
+      "text": "Let's give it another go, Glerf!",
+      "start": 869.76,
+      "duration": 4.0
+    },
+    {
+      "text": "And...",
+      "start": 873.76,
+      "duration": 1.9
+    },
+    {
+      "text": "Yeah, boy.",
+      "start": 875.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh yeah, boy!",
+      "start": 876.66,
+      "duration": 1.1
+    },
+    {
+      "text": "Boy!",
+      "start": 877.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Get him...",
+      "start": 878.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh!",
+      "start": 881.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm the ring, boy.",
+      "start": 882.76,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm the one who collects.",
+      "start": 884.76,
+      "duration": 8.0
+    },
+    {
+      "text": "Got all the rings.",
+      "start": 892.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh man.",
+      "start": 895.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh!",
+      "start": 896.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh no!",
+      "start": 897.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh no!",
+      "start": 899.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh my god!",
+      "start": 900.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh yeah, Arin.",
+      "start": 901.76,
+      "duration": 1.0
+    },
+    {
+      "text": "You saw water sailor.",
+      "start": 902.76,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know.",
+      "start": 904.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I don't know.",
+      "start": 905.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I don't know.",
+      "start": 906.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I don't know.",
+      "start": 907.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Shadow walked through the library car to get to the saloon car where he set the original high score in the arcade machine.",
+      "start": 908.76,
+      "duration": 5.0
+    },
+    {
+      "text": "Yeah, but I ended up beating it.",
+      "start": 913.76,
+      "duration": 2.0
+    },
+    {
+      "text": "It wasn't the high score along.",
+      "start": 915.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Crocs are natural gamers.",
+      "start": 917.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Everybody knows that.",
+      "start": 920.76,
+      "duration": 2.0
+    },
+    {
+      "text": "And everybody knows that.",
+      "start": 922.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Gamers naturally wear crocs.",
+      "start": 924.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Maybe that's what the connection they were trying to make.",
+      "start": 926.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Espio said he saw Shadow enter the library car, but he's mentioned nothing about Shadow's return.",
+      "start": 929.76,
+      "duration": 6.0
+    },
+    {
+      "text": "He only mentions that Vector came back.",
+      "start": 935.76,
+      "duration": 3.0
+    },
+    {
+      "text": "When Shadow left Knuckles in Vector in the saloon car, Espio was fully seated, reading his book for a good while at this point.",
+      "start": 938.76,
+      "duration": 7.0
+    },
+    {
+      "text": "We know Shadow had to walk back through the library car when he left the saloon car.",
+      "start": 945.76,
+      "duration": 4.0
+    },
+    {
+      "text": "So there's absolutely no way Shadow and Espio didn't notice one another on Shadow's return trip.",
+      "start": 949.76,
+      "duration": 6.0
+    },
+    {
+      "text": "I mean, it was a simple slip up.",
+      "start": 955.76,
+      "duration": 2.0
+    },
+    {
+      "text": "I was just fully immersed in my book that I didn't notice Shadow.",
+      "start": 957.76,
+      "duration": 3.0
+    },
+    {
+      "text": "It was so engaging.",
+      "start": 960.76,
+      "duration": 2.0
+    },
+    {
+      "text": "All this talk about like windows and like cleaning the windows.",
+      "start": 962.76,
+      "duration": 7.0
+    },
+    {
+      "text": "You're telling me the sound of doors opening and locky wouldn't have caused you to look up?",
+      "start": 969.76,
+      "duration": 5.0
+    },
+    {
+      "text": "I will.",
+      "start": 974.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I will see.",
+      "start": 975.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I could sense Espio's desperation here.",
+      "start": 976.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Defending the argument that he was reading the entire time isn't easy.",
+      "start": 979.76,
+      "duration": 3.0
+    },
+    {
+      "text": "So if you didn't see Shadow returning from the saloon car to lock all the doors, then who's juicy tip is this?",
+      "start": 983.76,
+      "duration": 7.0
+    },
+    {
+      "text": "Sorry, what were you saying?",
+      "start": 993.76,
+      "duration": 1.0
+    },
+    {
+      "text": "No, let's go ahead.",
+      "start": 994.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Then at that moment, were you really in the library car at all?",
+      "start": 996.76,
+      "duration": 3.0
+    },
+    {
+      "text": "But how would Espio leave Shadow locked all the doors and no one saw Espio in the saloon car?",
+      "start": 1000.76,
+      "duration": 5.0
+    },
+    {
+      "text": "It's a mystery, my dear glare for the cat.",
+      "start": 1005.76,
+      "duration": 3.0
+    },
+    {
+      "text": "One that I would love for Espio to solve.",
+      "start": 1008.76,
+      "duration": 3.0
+    },
+    {
+      "text": "But I'm not the detective.",
+      "start": 1011.76,
+      "duration": 1.0
+    },
+    {
+      "text": "You gotta believe me.",
+      "start": 1012.76,
+      "duration": 2.0
+    },
+    {
+      "text": "That cool demeanor is vanishing.",
+      "start": 1014.76,
+      "duration": 3.0
+    },
+    {
+      "text": "I was so involved with my book, I didn't notice Shadow pass back through the library car.",
+      "start": 1017.76,
+      "duration": 4.0
+    },
+    {
+      "text": "Honest.",
+      "start": 1021.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah, honest.",
+      "start": 1022.76,
+      "duration": 1.0
+    },
+    {
+      "text": "When Vector returned, he even had to tap me on the shoulder to get my attention.",
+      "start": 1023.76,
+      "duration": 4.0
+    },
+    {
+      "text": "Yeah, I think I remember doing that.",
+      "start": 1027.76,
+      "duration": 3.0
+    },
+    {
+      "text": "I must have avenged my friend's death, so I'll ask you again, Espio.",
+      "start": 1030.76,
+      "duration": 4.0
+    },
+    {
+      "text": "If you weren't there for Shadow to see you reading, then how did you leave the library car?",
+      "start": 1035.76,
+      "duration": 5.0
+    },
+    {
+      "text": "I wasn't.",
+      "start": 1040.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I didn't.",
+      "start": 1041.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I couldn't.",
+      "start": 1042.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I mustn't.",
+      "start": 1043.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Why doesn't this seem right to me?",
+      "start": 1044.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Tales definitely feels like he's on to something, but I don't see it.",
+      "start": 1046.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Was Espio simply sitting reading, or did he somehow vanish to not notice Shadow's return",
+      "start": 1049.76,
+      "duration": 4.0
+    },
+    {
+      "text": "to the library car?",
+      "start": 1053.76,
+      "duration": 2.0
+    },
+    {
+      "text": "What should I do?",
+      "start": 1055.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Would anybody like coffee?",
+      "start": 1057.76,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know.",
+      "start": 1063.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I mean, I kind of am with Espio on this.",
+      "start": 1064.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1067.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Sometimes you don't notice things.",
+      "start": 1069.76,
+      "duration": 2.0
+    },
+    {
+      "text": "I have to make sure our guests are taken care of.",
+      "start": 1071.76,
+      "duration": 3.0
+    },
+    {
+      "text": "I have to speak up.",
+      "start": 1074.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Tales!",
+      "start": 1076.76,
+      "duration": 1.0
+    },
+    {
+      "text": "We have a piece of evidence that can answer all of our problems.",
+      "start": 1077.76,
+      "duration": 5.0
+    },
+    {
+      "text": "All right, my fellow associate.",
+      "start": 1082.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Lay it on me.",
+      "start": 1084.76,
+      "duration": 1.0
+    },
+    {
+      "text": "All right, genius rapper.",
+      "start": 1085.76,
+      "duration": 2.0
+    },
+    {
+      "text": "What?",
+      "start": 1087.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Well, yeah, what's the...",
+      "start": 1088.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Lay it on me, genius rapper.",
+      "start": 1091.76,
+      "duration": 2.0
+    },
+    {
+      "text": "What piece of evidence shows Shadow and Espio couldn't have seen one another?",
+      "start": 1093.76,
+      "duration": 4.0
+    },
+    {
+      "text": "Uh...",
+      "start": 1097.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh.",
+      "start": 1099.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Maybe this, I guess?",
+      "start": 1101.76,
+      "duration": 4.0
+    },
+    {
+      "text": "The layout?",
+      "start": 1105.76,
+      "duration": 2.0
+    },
+    {
+      "text": "I don't know.",
+      "start": 1107.76,
+      "duration": 1.0
+    },
+    {
+      "text": "All right, now let's get my thoughts in order.",
+      "start": 1108.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Well, I mean...",
+      "start": 1111.76,
+      "duration": 4.0
+    },
+    {
+      "text": "I like the idea of this being the thing that all business men are stuck doing.",
+      "start": 1115.76,
+      "duration": 9.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1125.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Like, oh!",
+      "start": 1126.76,
+      "duration": 1.0
+    },
+    {
+      "text": "When they're trying to think something over in a meeting,",
+      "start": 1127.76,
+      "duration": 3.0
+    },
+    {
+      "text": "their brains are actually in Sonic the Hedgehog Land.",
+      "start": 1130.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Perfect.",
+      "start": 1136.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Tell us your idea.",
+      "start": 1137.76,
+      "duration": 2.0
+    },
+    {
+      "text": "And fill out that form and triplicate.",
+      "start": 1139.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Lightbulb.",
+      "start": 1152.76,
+      "duration": 1.0
+    },
+    {
+      "text": "You did it.",
+      "start": 1153.76,
+      "duration": 1.0
+    },
+    {
+      "text": "You...",
+      "start": 1154.76,
+      "duration": 1.0
+    },
+    {
+      "text": "You master.",
+      "start": 1155.76,
+      "duration": 1.0
+    },
+    {
+      "text": "The library map?",
+      "start": 1156.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, oh, I see.",
+      "start": 1158.76,
+      "duration": 3.0
+    },
+    {
+      "text": "See the exits?",
+      "start": 1161.76,
+      "duration": 1.0
+    },
+    {
+      "text": "They're right across from one another.",
+      "start": 1162.76,
+      "duration": 2.0
+    },
+    {
+      "text": "A straight path.",
+      "start": 1164.76,
+      "duration": 1.0
+    },
+    {
+      "text": "If Shadow walks down this straight path,",
+      "start": 1165.76,
+      "duration": 3.0
+    },
+    {
+      "text": "there's a way Espio and Shadow couldn't have seen one another.",
+      "start": 1168.76,
+      "duration": 4.0
+    },
+    {
+      "text": "Looks like you'll have to point out where exactly on the map you mean.",
+      "start": 1172.76,
+      "duration": 4.0
+    },
+    {
+      "text": "Um...",
+      "start": 1176.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh...",
+      "start": 1177.76,
+      "duration": 1.0
+    },
+    {
+      "text": "This one, I guess?",
+      "start": 1178.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Where could Espio?",
+      "start": 1181.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh.",
+      "start": 1184.76,
+      "duration": 1.0
+    },
+    {
+      "text": "That's you.",
+      "start": 1185.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, where could Espio have been for Shadow to not see him?",
+      "start": 1187.76,
+      "duration": 3.0
+    },
+    {
+      "text": "I was looking for a place.",
+      "start": 1190.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh...",
+      "start": 1192.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Here?",
+      "start": 1193.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I don't know.",
+      "start": 1194.76,
+      "duration": 2.0
+    },
+    {
+      "text": "They're all kind of, like, within you.",
+      "start": 1196.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Shadow was where?",
+      "start": 1199.76,
+      "duration": 2.0
+    },
+    {
+      "text": "He came in through that door.",
+      "start": 1201.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Well, it's saying, like, if you did this,",
+      "start": 1202.76,
+      "duration": 3.0
+    },
+    {
+      "text": "where would you have been able to sit where you wouldn't",
+      "start": 1205.76,
+      "duration": 4.0
+    },
+    {
+      "text": "see that?",
+      "start": 1210.76,
+      "duration": 2.0
+    },
+    {
+      "text": "I guess this one?",
+      "start": 1212.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, I guess the one behind the wall.",
+      "start": 1214.76,
+      "duration": 2.0
+    },
+    {
+      "text": "This?",
+      "start": 1216.76,
+      "duration": 1.0
+    },
+    {
+      "text": "No, no, no.",
+      "start": 1217.76,
+      "duration": 1.0
+    },
+    {
+      "text": "This?",
+      "start": 1218.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Yes.",
+      "start": 1219.76,
+      "duration": 1.0
+    },
+    {
+      "text": "But that's...",
+      "start": 1220.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Which way are these chairs?",
+      "start": 1221.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm assuming this means it's forward.",
+      "start": 1222.76,
+      "duration": 2.0
+    },
+    {
+      "text": "It's facing towards the table.",
+      "start": 1224.76,
+      "duration": 3.0
+    },
+    {
+      "text": "But...",
+      "start": 1227.76,
+      "duration": 1.0
+    },
+    {
+      "text": "But, I mean, that's the only one that, like, is completely covered on the way to the door,",
+      "start": 1228.76,
+      "duration": 4.0
+    },
+    {
+      "text": "from the door to the door.",
+      "start": 1232.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Okay.",
+      "start": 1233.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Well, I don't know what this is.",
+      "start": 1234.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I guess it's a shelf?",
+      "start": 1235.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1236.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, I see.",
+      "start": 1238.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Wait, what?",
+      "start": 1240.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Why are the shelves?",
+      "start": 1242.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Uh...",
+      "start": 1244.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I don't know.",
+      "start": 1245.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Interesting.",
+      "start": 1246.76,
+      "duration": 1.0
+    },
+    {
+      "text": "That's where I was sitting reading my book.",
+      "start": 1247.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Yes, of course.",
+      "start": 1249.76,
+      "duration": 1.0
+    },
+    {
+      "text": "The place where I wouldn't have been able to see Shadow.",
+      "start": 1250.76,
+      "duration": 2.0
+    },
+    {
+      "text": "That's where I was sitting.",
+      "start": 1252.76,
+      "duration": 2.0
+    },
+    {
+      "text": "I can second this.",
+      "start": 1254.76,
+      "duration": 1.0
+    },
+    {
+      "text": "When I returned from the saloon car,",
+      "start": 1255.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Espio was definitely sitting down.",
+      "start": 1257.76,
+      "duration": 2.0
+    },
+    {
+      "text": "In fact, I wasn't even on a train.",
+      "start": 1259.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Is this a train?",
+      "start": 1261.76,
+      "duration": 1.0
+    },
+    {
+      "text": "What is a train?",
+      "start": 1262.76,
+      "duration": 1.0
+    },
+    {
+      "text": "That confirms it then.",
+      "start": 1263.76,
+      "duration": 1.0
+    },
+    {
+      "text": "You see, Shadow and Espio couldn't have seen one another",
+      "start": 1264.76,
+      "duration": 2.0
+    },
+    {
+      "text": "from this spot because of bookcases in the way.",
+      "start": 1266.76,
+      "duration": 3.0
+    },
+    {
+      "text": "There's no way Shadow could have seen Espio or vice versa.",
+      "start": 1269.76,
+      "duration": 5.0
+    },
+    {
+      "text": "It makes a lot of sense why you never mentioned Shadow's return Espio.",
+      "start": 1276.76,
+      "duration": 3.0
+    },
+    {
+      "text": "There's just no way you would have seen him.",
+      "start": 1279.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Like I said, I apologize for losing my cool back there.",
+      "start": 1281.76,
+      "duration": 5.0
+    },
+    {
+      "text": "I felt like I was grasping, despite telling the truth.",
+      "start": 1286.76,
+      "duration": 3.0
+    },
+    {
+      "text": "But I'm glad you all believe me now.",
+      "start": 1289.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Your alibi isn't the most airtight, but I have no further points.",
+      "start": 1292.76,
+      "duration": 3.0
+    },
+    {
+      "text": "The tip could be juicier.",
+      "start": 1295.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Thank you both for answering all our questions.",
+      "start": 1297.76,
+      "duration": 2.0
+    },
+    {
+      "text": "We did it.",
+      "start": 1299.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Another pair of alibis validated.",
+      "start": 1300.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Bye.",
+      "start": 1303.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Wow.",
+      "start": 1305.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Too many locked doors to worry about,",
+      "start": 1306.76,
+      "duration": 2.0
+    },
+    {
+      "text": "but I'm glad everything strained itself out in the end.",
+      "start": 1308.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Nice.",
+      "start": 1310.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Well, I'm exhausted.",
+      "start": 1311.76,
+      "duration": 2.0
+    },
+    {
+      "text": "A lot of murdering today.",
+      "start": 1313.76,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm going to crash here for a little bit.",
+      "start": 1315.76,
+      "duration": 2.0
+    },
+    {
+      "text": "These chairs are so comfy.",
+      "start": 1317.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Likewise, I could use it breather.",
+      "start": 1319.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Sadly, our work isn't done.",
+      "start": 1322.76,
+      "duration": 2.0
+    },
+    {
+      "text": "I have plenty of questions for Rouge,",
+      "start": 1324.76,
+      "duration": 2.0
+    },
+    {
+      "text": "and especially Shadow, the murderer.",
+      "start": 1326.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, it seems the door to the next car is open.",
+      "start": 1328.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Amy must have kept it open when she passed through earlier.",
+      "start": 1331.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Then that's our cue to leave.",
+      "start": 1334.76,
+      "duration": 2.0
+    },
+    {
+      "text": "See you later, Vector and Espio.",
+      "start": 1336.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Get them back!",
+      "start": 1338.76,
+      "duration": 2.0
+    },
+    {
+      "text": "And if you need any meat chopped up, say the word.",
+      "start": 1340.76,
+      "duration": 3.0
+    },
+    {
+      "text": "I'll keep my poetry sharp for you both.",
+      "start": 1343.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Like I keep my murdering knives.",
+      "start": 1346.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, nice and tight.",
+      "start": 1348.76,
+      "duration": 2.0
+    },
+    {
+      "text": "A murderer is under loose,",
+      "start": 1350.76,
+      "duration": 2.0
+    },
+    {
+      "text": "while doors keep getting locked.",
+      "start": 1352.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Tick-tock.",
+      "start": 1354.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Tick-tock goes to clock,",
+      "start": 1355.76,
+      "duration": 2.0
+    },
+    {
+      "text": "while our heroes are in the caboose.",
+      "start": 1357.76,
+      "duration": 2.0
+    },
+    {
+      "text": "At this point, I'm feeling pretty confident in our detective abilities.",
+      "start": 1359.76,
+      "duration": 4.0
+    },
+    {
+      "text": "We're really doing this.",
+      "start": 1363.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Come on, clear of the cat.",
+      "start": 1365.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Let's see what's next.",
+      "start": 1366.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Just like, smash cut to like,",
+      "start": 1368.76,
+      "duration": 2.0
+    },
+    {
+      "text": "flies over Sonic's body.",
+      "start": 1370.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Coming!",
+      "start": 1373.76,
+      "duration": 2.0
+    },
+    {
+      "text": "We're having such a fun adventure, are we?",
+      "start": 1375.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1378.76,
+      "duration": 1.0
+    },
+    {
+      "text": "You sure you don't want to say it in all the great books a little longer.",
+      "start": 1384.76,
+      "duration": 3.0
+    },
+    {
+      "text": "The mystery calls....",
+      "start": 1387.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Okay, the investigation continues....",
+      "start": 1389.76,
+      "duration": 3.0
+    },
+    {
+      "text": "I'll be back here and I'm going to read some fucking books.",
+      "start": 1392.76,
+      "duration": 4.0
+    },
+    {
+      "text": "I'm going to buy this whole place out.",
+      "start": 1396.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Whoa!",
+      "start": 1400.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Sign me up.",
+      "start": 1403.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Let me play a metal game all day.",
+      "start": 1405.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1407.76,
+      "duration": 1.0
+    },
+    {
+      "text": "All this stuff's getting heavy.",
+      "start": 1408.76,
+      "duration": 2.0
+    },
+    {
+      "text": "I'll dump what I don't need.",
+      "start": 1410.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Rouge, there you are.",
+      "start": 1415.76,
+      "duration": 1.0
+    },
+    {
+      "text": "We have a lot to say to you.",
+      "start": 1416.76,
+      "duration": 2.0
+    },
+    {
+      "text": "We visited every train car so far and everyone said they've seen you wandering about.",
+      "start": 1418.76,
+      "duration": 5.0
+    },
+    {
+      "text": "It's high time you told us why.",
+      "start": 1424.76,
+      "duration": 2.0
+    },
+    {
+      "text": "My, my talk about a warm welcome.",
+      "start": 1427.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Quick to the point, aren't you darling?",
+      "start": 1429.76,
+      "duration": 2.0
+    },
+    {
+      "text": "And I see you brought the microwave master with you.",
+      "start": 1432.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Please don't let that be my legacy.",
+      "start": 1435.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Tails is right.",
+      "start": 1438.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Folks have brought you up a lot.",
+      "start": 1439.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Care to explain?",
+      "start": 1441.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1443.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm hot.",
+      "start": 1444.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I'm that bitch.",
+      "start": 1445.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh sure.",
+      "start": 1447.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I can't be clear of the cat with 40 inch cat dick.",
+      "start": 1448.76,
+      "duration": 6.0
+    },
+    {
+      "text": "But you microwave one spaghetti dish.",
+      "start": 1455.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Tell him Rouge, we're going to need the help.",
+      "start": 1458.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Please?",
+      "start": 1462.76,
+      "duration": 1.0
+    },
+    {
+      "text": "That's my name.",
+      "start": 1463.76,
+      "duration": 1.0
+    },
+    {
+      "text": "All right.",
+      "start": 1465.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I've been hunting for treasure.",
+      "start": 1466.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Rumor to be stored here at the trade.",
+      "start": 1467.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Let's give them the same voice.",
+      "start": 1468.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Treasure.",
+      "start": 1470.76,
+      "duration": 1.0
+    },
+    {
+      "text": "They certainly didn't tell me about treasure in the interview.",
+      "start": 1471.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Since I'm part business tycoon, pure purveyor of fine collectibles.",
+      "start": 1475.76,
+      "duration": 3.0
+    },
+    {
+      "text": "I knew, oh my God.",
+      "start": 1479.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I cannot speak.",
+      "start": 1480.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Since I'm part business tycoon.",
+      "start": 1481.76,
+      "duration": 2.0
+    },
+    {
+      "text": "Do I smell burning toast?",
+      "start": 1483.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Part purveyor of fine collectibles.",
+      "start": 1484.76,
+      "duration": 2.0
+    },
+    {
+      "text": "I knew I had to find it.",
+      "start": 1486.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Tell him what it is Rouge.",
+      "start": 1488.76,
+      "duration": 1.0
+    },
+    {
+      "text": "All right.",
+      "start": 1490.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Well, it's a Faberge chow egg.",
+      "start": 1491.76,
+      "duration": 3.0
+    },
+    {
+      "text": "A Faberge egg.",
+      "start": 1494.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Imagine that.",
+      "start": 1495.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Do you remember the Game Grumps episode where we talked about the Faberge burrito?",
+      "start": 1497.76,
+      "duration": 5.0
+    },
+    {
+      "text": "No.",
+      "start": 1503.76,
+      "duration": 1.0
+    },
+    {
+      "text": "We're like a $2 million burrito made with diamonds and filled with meat.",
+      "start": 1504.76,
+      "duration": 3.0
+    },
+    {
+      "text": "I love that.",
+      "start": 1508.76,
+      "duration": 1.0
+    },
+    {
+      "text": "No.",
+      "start": 1509.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Wow.",
+      "start": 1511.76,
+      "duration": 1.0
+    },
+    {
+      "text": "That does sound extravagant.",
+      "start": 1512.76,
+      "duration": 1.0
+    },
+    {
+      "text": "But please don't tell me you've accepted Amy's birthday party invite only to find that egg.",
+      "start": 1514.76,
+      "duration": 4.0
+    },
+    {
+      "text": "A woman can have multiple goals.",
+      "start": 1519.76,
+      "duration": 2.0
+    },
+    {
+      "text": "I gave Amy her birthday present already.",
+      "start": 1521.76,
+      "duration": 2.0
+    },
+    {
+      "text": "So everything's well taken care of.",
+      "start": 1523.76,
+      "duration": 2.0
+    },
+    {
+      "text": "She broke me in on the hunt immediately.",
+      "start": 1525.76,
+      "duration": 2.0
+    },
+    {
+      "text": "I stayed here while she searched the train cards with Glubus.",
+      "start": 1527.76,
+      "duration": 3.0
+    },
+    {
+      "text": "I deduced the chow Faberge chow egg is here in this train car.",
+      "start": 1530.76,
+      "duration": 6.0
+    },
+    {
+      "text": "I think you are smelling burnt toast locked in a shave.",
+      "start": 1536.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Okay.",
+      "start": 1539.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Well, all right.",
+      "start": 1540.76,
+      "duration": 1.0
+    },
+    {
+      "text": "I'll get back to it.",
+      "start": 1541.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Game Grumps.",
+      "start": 1542.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Bye bye.",
+      "start": 1543.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Goodbye.",
+      "start": 1544.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Wow.",
+      "start": 1546.76,
+      "duration": 1.0
+    },
+    {
+      "text": "My brain is fucking on the struggle bus.",
+      "start": 1547.76,
+      "duration": 4.0
+    },
+    {
+      "text": "Yeah.",
+      "start": 1551.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Thank you.",
+      "start": 1553.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Good video.",
+      "start": 1554.76,
+      "duration": 1.0
+    },
+    {
+      "text": "Thank you.",
+      "start": 1555.76,
+      "duration": 1.0
+    }
+  ]
+}

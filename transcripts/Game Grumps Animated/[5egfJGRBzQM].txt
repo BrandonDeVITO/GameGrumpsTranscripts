@@ -1,0 +1,413 @@
+{
+  "video_id": "5egfJGRBzQM",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "*Beepity-beep*",
+      "start": 0.0,
+      "duration": 0.62
+    },
+    {
+      "text": "*Broop*",
+      "start": 0.62,
+      "duration": 0.72
+    },
+    {
+      "text": "Dan: Do it! Do it! Do it!",
+      "start": 3.02,
+      "duration": 0.78
+    },
+    {
+      "text": "Arin: Get it! Get it!\nDan: Go for the gold.",
+      "start": 3.8,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Like it.",
+      "start": 4.3,
+      "duration": 0.62
+    },
+    {
+      "text": "Want it!",
+      "start": 4.92,
+      "duration": 0.5
+    },
+    {
+      "text": "HAVE IT!",
+      "start": 5.42,
+      "duration": 0.54
+    },
+    {
+      "text": "NEED IT!",
+      "start": 5.96,
+      "duration": 0.58
+    },
+    {
+      "text": "WHY?!?!?!",
+      "start": 6.64,
+      "duration": 0.78
+    },
+    {
+      "text": "WHY?!",
+      "start": 8.56,
+      "duration": 1.02
+    },
+    {
+      "text": "Dan: Oh, boy...",
+      "start": 9.88,
+      "duration": 1.26
+    },
+    {
+      "text": "Arin: It's right here!! It right... Froggy...",
+      "start": 11.14,
+      "duration": 1.42
+    },
+    {
+      "text": "It's right here. It's... It's right here.",
+      "start": 12.56,
+      "duration": 1.54
+    },
+    {
+      "text": "You could see it.",
+      "start": 14.12,
+      "duration": 0.76
+    },
+    {
+      "text": "You could smell it.",
+      "start": 14.88,
+      "duration": 0.64
+    },
+    {
+      "text": "You can taste it.",
+      "start": 15.52,
+      "duration": 0.72
+    },
+    {
+      "text": "It's REAL.",
+      "start": 16.24,
+      "duration": 0.8
+    },
+    {
+      "text": "It's in front of your face.",
+      "start": 17.04,
+      "duration": 1.0
+    },
+    {
+      "text": "Arin: You can get it.\nDan: Oh, oh!",
+      "start": 18.04,
+      "duration": 1.12
+    },
+    {
+      "text": "Arin: Grabitgrabitgrabit!\nDan: OH! HOH!",
+      "start": 19.16,
+      "duration": 1.02
+    },
+    {
+      "text": "Arin: YE... YEAH!\nDan:Is that a hit?",
+      "start": 20.18,
+      "duration": 0.98
+    },
+    {
+      "text": "Arin: GRAAAAAGH",
+      "start": 21.16,
+      "duration": 1.02
+    },
+    {
+      "text": "Froggy, it's right here, come on!",
+      "start": 22.18,
+      "duration": 1.46
+    },
+    {
+      "text": "Come on Froggy!",
+      "start": 23.64,
+      "duration": 0.86
+    },
+    {
+      "text": "Yeah, you want it.",
+      "start": 24.5,
+      "duration": 1.1
+    },
+    {
+      "text": "Dan: Nope.\nArin: You want it.",
+      "start": 25.6,
+      "duration": 0.58
+    },
+    {
+      "text": "Dan: He does not want it.",
+      "start": 26.18,
+      "duration": 1.08
+    },
+    {
+      "text": "Arin: He wants it, he sees it.\nDan: Oh, he wants it!",
+      "start": 27.26,
+      "duration": 1.08
+    },
+    {
+      "text": "Dan: He wants it. He's into it.",
+      "start": 28.34,
+      "duration": 1.14
+    },
+    {
+      "text": "*achoo*",
+      "start": 30.24,
+      "duration": 0.66
+    },
+    {
+      "text": "Arin: OOOOH",
+      "start": 31.46,
+      "duration": 0.9
+    },
+    {
+      "text": "MY",
+      "start": 32.36,
+      "duration": 0.58
+    },
+    {
+      "text": "GAAAWD!",
+      "start": 32.94,
+      "duration": 1.16
+    },
+    {
+      "text": "Dan: He... oh... second bite!",
+      "start": 34.26,
+      "duration": 2.0
+    },
+    {
+      "text": "He's going for second! *sneeze*",
+      "start": 36.26,
+      "duration": 1.34
+    },
+    {
+      "text": "I...krgh... OH....",
+      "start": 37.6,
+      "duration": 1.54
+    },
+    {
+      "text": "oOOOhH...",
+      "start": 39.14,
+      "duration": 1.6
+    },
+    {
+      "text": "mMMmh...",
+      "start": 41.86,
+      "duration": 0.62
+    },
+    {
+      "text": "Arin: Froggy, where'd you go?",
+      "start": 42.68,
+      "duration": 1.2
+    },
+    {
+      "text": "Dan: There he is!\nArin: There you are.",
+      "start": 43.88,
+      "duration": 0.9
+    },
+    {
+      "text": "Dan: Coming in.",
+      "start": 44.78,
+      "duration": 0.84
+    },
+    {
+      "text": "Coming in for another nibble, then leave.",
+      "start": 45.62,
+      "duration": 1.08
+    },
+    {
+      "text": "Arin: Froggy, froggy, froggy!",
+      "start": 46.72,
+      "duration": 2.0
+    },
+    {
+      "text": "What the GARBAGE, MAN?",
+      "start": 48.72,
+      "duration": 2.54
+    },
+    {
+      "text": "GAAAAWD!",
+      "start": 51.78,
+      "duration": 1.26
+    },
+    {
+      "text": "Dan: The",
+      "start": 53.3,
+      "duration": 0.5
+    },
+    {
+      "text": "- FISHING POLE -",
+      "start": 53.8,
+      "duration": 0.76
+    },
+    {
+      "text": "has been tossed away.",
+      "start": 54.56,
+      "duration": 1.52
+    },
+    {
+      "text": "No one has the",
+      "start": 57.04,
+      "duration": 0.88
+    },
+    {
+      "text": "- FISHING POLE -",
+      "start": 57.92,
+      "duration": 0.94
+    },
+    {
+      "text": "right now.",
+      "start": 58.92,
+      "duration": 0.68
+    },
+    {
+      "text": "Dan: Arin is picking up the",
+      "start": 60.6,
+      "duration": 0.82
+    },
+    {
+      "text": "-FISHING POLE-",
+      "start": 61.42,
+      "duration": 0.88
+    },
+    {
+      "text": "again.",
+      "start": 62.3,
+      "duration": 0.76
+    },
+    {
+      "text": "Arin: Here we go!",
+      "start": 63.06,
+      "duration": 1.08
+    },
+    {
+      "text": "15th one's a charm!",
+      "start": 64.14,
+      "duration": 1.42
+    },
+    {
+      "text": "Arin: OH!\nDan: YES.",
+      "start": 67.88,
+      "duration": 0.92
+    },
+    {
+      "text": "Arin: OHMYGOD.",
+      "start": 68.8,
+      "duration": 1.08
+    },
+    {
+      "text": "oHMyGaWD.",
+      "start": 69.88,
+      "duration": 0.76
+    },
+    {
+      "text": "OhmYgAwd.",
+      "start": 70.64,
+      "duration": 1.0
+    },
+    {
+      "text": "Dan: Bring him in, bring him!",
+      "start": 71.64,
+      "duration": 0.86
+    },
+    {
+      "text": "Arin: Holy fuck",
+      "start": 72.8,
+      "duration": 0.8
+    },
+    {
+      "text": "Dan: I hope you hooked him through is fucking eyeballs.",
+      "start": 73.6,
+      "duration": 1.5
+    },
+    {
+      "text": "*the situation chintensifies*\nArin: OHMYGAWD",
+      "start": 75.1,
+      "duration": 1.34
+    },
+    {
+      "text": "Dan: And then he feels this!",
+      "start": 76.44,
+      "duration": 0.54
+    },
+    {
+      "text": "Oh, he's putting up fight!",
+      "start": 77.08,
+      "duration": 1.7
+    },
+    {
+      "text": "Arin: Froggy, why, dude?",
+      "start": 79.08,
+      "duration": 1.62
+    },
+    {
+      "text": "Dan: Oh my god, he is really figthing you.",
+      "start": 81.98,
+      "duration": 2.14
+    },
+    {
+      "text": "Arin: Froggy, come on dude!",
+      "start": 84.12,
+      "duration": 1.86
+    },
+    {
+      "text": "Dan: You didn't do anything differently...",
+      "start": 85.98,
+      "duration": 1.24
+    },
+    {
+      "text": "Dan: ...to catch him that time?\nArin: NOO!",
+      "start": 87.22,
+      "duration": 1.22
+    },
+    {
+      "text": "Dan: Okay, okay! Sorry!",
+      "start": 88.44,
+      "duration": 1.7
+    },
+    {
+      "text": "Arin: I dit nothing! It's completely random!",
+      "start": 90.14,
+      "duration": 1.92
+    },
+    {
+      "text": "Dan: I'm sorry, I didn't mean to upset you!",
+      "start": 92.06,
+      "duration": 1.32
+    },
+    {
+      "text": "Dan: You're right there!",
+      "start": 93.64,
+      "duration": 0.72
+    },
+    {
+      "text": "Arin: AAAGH!\nDan: Oooh!",
+      "start": 94.36,
+      "duration": 1.28
+    },
+    {
+      "text": "*shrieking*",
+      "start": 95.64,
+      "duration": 1.18
+    },
+    {
+      "text": "Dan: Oh, my god.",
+      "start": 97.04,
+      "duration": 1.0
+    },
+    {
+      "text": "Oh, my god, thank you.",
+      "start": 98.32,
+      "duration": 1.58
+    },
+    {
+      "text": "Arin: Ah, it's my victory dance!",
+      "start": 99.9,
+      "duration": 1.82
+    },
+    {
+      "text": "-FISHING POLE-",
+      "start": 108.24,
+      "duration": 0.8
+    }
+  ]
+}

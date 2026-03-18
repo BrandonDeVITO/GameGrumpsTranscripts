@@ -1,0 +1,2718 @@
+{
+  "video_id": "tWPJwrCigS8",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Arin: Hey I'm Grump",
+      "start": 0.0,
+      "duration": 0.68
+    },
+    {
+      "text": "Dan: I'm Not So Grump",
+      "start": 1.04,
+      "duration": 1.16
+    },
+    {
+      "text": "Both: and",
+      "start": 2.52,
+      "duration": 0.5
+    },
+    {
+      "text": "Both: we're",
+      "start": 3.02,
+      "duration": 0.66
+    },
+    {
+      "text": "Both: the Game Grumps",
+      "start": 3.86,
+      "duration": 1.16
+    },
+    {
+      "text": "D(Singing): Lookin' for a frog in the ocean",
+      "start": 5.74,
+      "duration": 2.38
+    },
+    {
+      "text": "A: (Yeah)",
+      "start": 8.28,
+      "duration": 1.22
+    },
+    {
+      "text": "D: Gonna... take...",
+      "start": 9.54,
+      "duration": 1.54
+    },
+    {
+      "text": "D: many... fuckin' years...",
+      "start": 11.54,
+      "duration": 2.08
+    },
+    {
+      "text": "A: Oh, yeah, there's a lot of water here, isn't there?",
+      "start": 14.26,
+      "duration": 2.5
+    },
+    {
+      "text": "D: Yes.",
+      "start": 16.96,
+      "duration": 0.68
+    },
+    {
+      "text": "D: In fact, in the ocean, one could make the argument there's almost nothing but water.",
+      "start": 17.98,
+      "duration": 3.84
+    },
+    {
+      "text": "A: There's- there's islands and stuff, though.",
+      "start": 23.36,
+      "duration": 1.64
+    },
+    {
+      "text": "D: That's true.",
+      "start": 25.2,
+      "duration": 0.78
+    },
+    {
+      "text": "D: Technically not *in* the ocean, though.",
+      "start": 26.4,
+      "duration": 1.8
+    },
+    {
+      "text": "A: OK, so there's fish.",
+      "start": 29.14,
+      "duration": 1.02
+    },
+    {
+      "text": "D: Yes.",
+      "start": 30.24,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Displacing the water.",
+      "start": 30.74,
+      "duration": 0.88
+    },
+    {
+      "text": "D: Correct.",
+      "start": 31.64,
+      "duration": 0.54
+    },
+    {
+      "text": "D: That's why I said \"almost.\"",
+      "start": 32.88,
+      "duration": 1.02
+    },
+    {
+      "text": "D: Arin...",
+      "start": 34.04,
+      "duration": 0.66
+    },
+    {
+      "text": "D: ...don't be that kid in class.",
+      "start": 35.48,
+      "duration": 1.66
+    },
+    {
+      "text": "A: \"But you always call on Dan!\"",
+      "start": 39.34,
+      "duration": 2.0
+    },
+    {
+      "text": "D: We are- we are on a mission.",
+      "start": 41.92,
+      "duration": 1.58
+    },
+    {
+      "text": "D: And that mission is to find a Single Fucking Frog",
+      "start": 44.0,
+      "duration": 3.02
+    },
+    {
+      "text": "A: That mission...",
+      "start": 47.26,
+      "duration": 0.9
+    },
+    {
+      "text": "A: ...is to prevent myself from pulling the trigger!",
+      "start": 48.32,
+      "duration": 2.34
+    },
+    {
+      "text": "D: (vociferous laughter)",
+      "start": 50.8,
+      "duration": 1.64
+    },
+    {
+      "text": "A: Getting harder and harder!",
+      "start": 52.44,
+      "duration": 2.3
+    },
+    {
+      "text": "D: Dude, that would actually-",
+      "start": 55.52,
+      "duration": 1.56
+    },
+    {
+      "text": "D: That would actually add a lot of fucking intrigue.",
+      "start": 57.96,
+      "duration": 2.3
+    },
+    {
+      "text": "D: To a Game Grumps let's play.",
+      "start": 60.6,
+      "duration": 1.44
+    },
+    {
+      "text": "A: If it was like a Russian roulette playthrough?",
+      "start": 62.04,
+      "duration": 2.26
+    },
+    {
+      "text": "D: Well, just like-",
+      "start": 64.56,
+      "duration": 0.88
+    },
+    {
+      "text": "D: The next Sonic game we play-",
+      "start": 66.06,
+      "duration": 1.38
+    },
+    {
+      "text": "D: -is there one that you consider worse than this?",
+      "start": 68.58,
+      "duration": 2.48
+    },
+    {
+      "text": "A: Uh, well, Sonic '06 for sure. And Sonic Boom's...",
+      "start": 71.58,
+      "duration": 2.9
+    },
+    {
+      "text": "D: Oh, yeah, of course.",
+      "start": 74.48,
+      "duration": 0.5
+    },
+    {
+      "text": "A: But, like, there's some- there- like, Sonic & the Black Knight is pretty lame.",
+      "start": 75.36,
+      "duration": 3.4
+    },
+    {
+      "text": "A: I've never played it, though.",
+      "start": 78.76,
+      "duration": 0.78
+    },
+    {
+      "text": "D: Cool.",
+      "start": 80.0,
+      "duration": 0.5
+    },
+    {
+      "text": "A: I've just heard it's really bad.",
+      "start": 80.58,
+      "duration": 0.6
+    },
+    {
+      "text": "D: Talk to Navi!",
+      "start": 81.18,
+      "duration": 0.5
+    },
+    {
+      "text": "D: She's to your right.",
+      "start": 82.34,
+      "duration": 0.78
+    },
+    {
+      "text": "A: \"Find Froggy!\"",
+      "start": 83.72,
+      "duration": 0.5
+    },
+    {
+      "text": "D: (dawning realization) Ah!",
+      "start": 85.52,
+      "duration": 1.7
+    },
+    {
+      "text": "A: Oh my God... there's-",
+      "start": 87.22,
+      "duration": 0.72
+    },
+    {
+      "text": "D: Because the regular ocean isn't tough enough!",
+      "start": 87.94,
+      "duration": 2.36
+    },
+    {
+      "text": "A: Yeah, what the fuck, man??",
+      "start": 90.3,
+      "duration": 1.5
+    },
+    {
+      "text": "D: Um...",
+      "start": 92.24,
+      "duration": 0.5
+    },
+    {
+      "text": "A: (exasperated moan)",
+      "start": 93.02,
+      "duration": 0.56
+    },
+    {
+      "text": "D: Yeah, the uh...",
+      "start": 94.88,
+      "duration": 1.46
+    },
+    {
+      "text": "A: Alright, stop freaking out...",
+      "start": 96.98,
+      "duration": 0.84
+    },
+    {
+      "text": "D: (Woah)",
+      "start": 98.1,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Um, yeah. It would be very exciting, if for the next Sonic game we play-",
+      "start": 99.12,
+      "duration": 3.62
+    },
+    {
+      "text": "D: -whichever it is-",
+      "start": 102.74,
+      "duration": 1.1
+    },
+    {
+      "text": "D: - if we just... you know, didn't really mention it too much...",
+      "start": 104.42,
+      "duration": 2.96
+    },
+    {
+      "text": "D: ...didn't make a big deal out of it...",
+      "start": 107.38,
+      "duration": 1.72
+    },
+    {
+      "text": "D: ...but just had a loaded hand gun...",
+      "start": 109.56,
+      "duration": 2.96
+    },
+    {
+      "text": "D: ...sitting on a table over there. To-",
+      "start": 113.38,
+      "duration": 2.06
+    },
+    {
+      "text": "D: -maybe near the wall.",
+      "start": 115.44,
+      "duration": 1.12
+    },
+    {
+      "text": "A: And why would that purpose be?",
+      "start": 116.9,
+      "duration": 1.74
+    },
+    {
+      "text": "D: No- no...",
+      "start": 118.76,
+      "duration": 0.68
+    },
+    {
+      "text": "D: ...no stated purpose.",
+      "start": 119.44,
+      "duration": 1.4
+    },
+    {
+      "text": "D: Just, it'll be there.",
+      "start": 121.26,
+      "duration": 1.26
+    },
+    {
+      "text": "(ominous laughter)",
+      "start": 122.86,
+      "duration": 1.72
+    },
+    {
+      "text": "A: ...Oh.",
+      "start": 125.76,
+      "duration": 0.66
+    },
+    {
+      "text": "D: Yeah, you know.",
+      "start": 126.42,
+      "duration": 0.98
+    },
+    {
+      "text": "D: Whatever happens, happens.",
+      "start": 127.4,
+      "duration": 0.84
+    },
+    {
+      "text": "A: Ah, cool, I'm like:",
+      "start": 128.7,
+      "duration": 0.62
+    },
+    {
+      "text": "A: (Big voice) I'm SPINNING!",
+      "start": 129.88,
+      "duration": 1.1
+    },
+    {
+      "text": "(spinning noises)",
+      "start": 131.42,
+      "duration": 0.76
+    },
+    {
+      "text": "D: Alright, alright",
+      "start": 132.7,
+      "duration": 0.8
+    },
+    {
+      "text": "A: Oh, I'm just having-",
+      "start": 133.94,
+      "duration": 0.74
+    },
+    {
+      "text": "A: -trying to make my own fun, Dan.",
+      "start": 134.68,
+      "duration": 0.96
+    },
+    {
+      "text": "D: Oh, yeah. Don't- No, don't let me stop you.",
+      "start": 135.64,
+      "duration": 1.86
+    },
+    {
+      "text": "A: Don't ruin this for me.",
+      "start": 137.5,
+      "duration": 0.86
+    },
+    {
+      "text": "D: God, this fuckin' place is MASSIVE!",
+      "start": 138.84,
+      "duration": 1.88
+    },
+    {
+      "text": "A: Yeah...",
+      "start": 140.72,
+      "duration": 0.5
+    },
+    {
+      "text": "D: There's so much ocean!",
+      "start": 141.22,
+      "duration": 1.34
+    },
+    {
+      "text": "A: Yeah, but according to Navi...",
+      "start": 143.12,
+      "duration": 1.6
+    },
+    {
+      "text": "A: ...there's a-",
+      "start": 145.16,
+      "duration": 0.52
+    },
+    {
+      "text": "A: God-",
+      "start": 146.08,
+      "duration": 0.72
+    },
+    {
+      "text": "A: -DAMN it, Big the Cat!",
+      "start": 146.8,
+      "duration": 1.82
+    },
+    {
+      "text": "A: ...according to Navi, there's a secret passage somewhere.",
+      "start": 149.9,
+      "duration": 2.36
+    },
+    {
+      "text": "D: Right.",
+      "start": 152.5,
+      "duration": 0.5
+    },
+    {
+      "text": "A: So I'm gonna go ahead and look for that...",
+      "start": 154.16,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Cool.",
+      "start": 156.42,
+      "duration": 0.56
+    },
+    {
+      "text": "A: Sure it's- I'm sure it's really gonna pay off in the end.",
+      "start": 157.76,
+      "duration": 2.56
+    },
+    {
+      "text": "D: It's gotta be near the-",
+      "start": 160.32,
+      "duration": 0.94
+    },
+    {
+      "text": "D: Hey, there's Navi again!",
+      "start": 161.32,
+      "duration": 0.94
+    },
+    {
+      "text": "D: Will she say-",
+      "start": 163.08,
+      "duration": 0.74
+    },
+    {
+      "text": "A: She's gonna be like, \"DUUUH!\"",
+      "start": 164.02,
+      "duration": 0.98
+    },
+    {
+      "text": "D: She might say something different.",
+      "start": 165.0,
+      "duration": 0.82
+    },
+    {
+      "text": "A: \"BIG THE CAT. UUHHHH...\"",
+      "start": 166.18,
+      "duration": 1.48
+    },
+    {
+      "text": "D: ...that's a different Navi!",
+      "start": 168.14,
+      "duration": 0.86
+    },
+    {
+      "text": "D: Ah, see?",
+      "start": 170.86,
+      "duration": 0.62
+    },
+    {
+      "text": "A:What?!",
+      "start": 171.58,
+      "duration": 0.5
+    },
+    {
+      "text": "A: ...what?! She's just gonna tell me that?!",
+      "start": 173.58,
+      "duration": 1.6
+    },
+    {
+      "text": "D: I- I'm glad.",
+      "start": 175.82,
+      "duration": 0.92
+    },
+    {
+      "text": "D: I'm glad she did.",
+      "start": 177.32,
+      "duration": 0.72
+    },
+    {
+      "text": "A: Where's Froggy?",
+      "start": 178.04,
+      "duration": 0.9
+    },
+    {
+      "text": "D: Just keep going straight. Straight line.",
+      "start": 179.7,
+      "duration": 1.72
+    },
+    {
+      "text": "A: Okay, but...",
+      "start": 182.62,
+      "duration": 0.86
+    },
+    {
+      "text": "A: It might be here. I just gotta look around for a sec.",
+      "start": 183.8,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Yeah, but-",
+      "start": 186.56,
+      "duration": 0.5
+    },
+    {
+      "text": "A: \"Froggy?\"",
+      "start": 187.06,
+      "duration": 0.68
+    },
+    {
+      "text": "A: You gotta look for a secret passage, first.",
+      "start": 187.92,
+      "duration": 2.0
+    },
+    {
+      "text": "A: \"Froggy where are you?\"",
+      "start": 189.92,
+      "duration": 0.58
+    },
+    {
+      "text": "A: Yeah but it probably gives me some kinda-",
+      "start": 191.22,
+      "duration": 1.34
+    },
+    {
+      "text": "A: I can't go cant further.That's clearly not where I'm supposed to go.",
+      "start": 192.66,
+      "duration": 1.88
+    },
+    {
+      "text": "D: Okay.",
+      "start": 194.64,
+      "duration": 0.62
+    },
+    {
+      "text": "A: So I gotta fuckin' hang around here for a while-",
+      "start": 196.08,
+      "duration": 1.82
+    },
+    {
+      "text": "A: -and check for Froggy.",
+      "start": 197.94,
+      "duration": 1.04
+    },
+    {
+      "text": "D: What if the secret passage is in the end of that path?",
+      "start": 199.18,
+      "duration": 2.52
+    },
+    {
+      "text": "D: ...that comes to a very suspicious-looking circular ending?",
+      "start": 202.4,
+      "duration": 2.68
+    },
+    {
+      "text": "A: ...This, right here?",
+      "start": 206.28,
+      "duration": 0.98
+    },
+    {
+      "text": "D: Yes.",
+      "start": 207.68,
+      "duration": 0.78
+    },
+    {
+      "text": "A: So you think there's like a secret passage, like...",
+      "start": 209.38,
+      "duration": 1.92
+    },
+    {
+      "text": "A: ...under the ground or something?",
+      "start": 211.3,
+      "duration": 1.44
+    },
+    {
+      "text": "D: I mean, there's a circle of rings in this cul-de-sac-like ending...",
+      "start": 212.74,
+      "duration": 3.36
+    },
+    {
+      "text": "D: ...to this path.",
+      "start": 216.4,
+      "duration": 0.5
+    },
+    {
+      "text": "D: But there's nothing to do, huh?",
+      "start": 218.3,
+      "duration": 1.94
+    },
+    {
+      "text": "A: ...I don't know, Dan.",
+      "start": 221.38,
+      "duration": 1.54
+    },
+    {
+      "text": "D: Alright.",
+      "start": 223.04,
+      "duration": 0.5
+    },
+    {
+      "text": "A: I just don't know!",
+      "start": 223.64,
+      "duration": 1.02
+    },
+    {
+      "text": "D: Alright!",
+      "start": 224.92,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Uh... question, though:",
+      "start": 226.36,
+      "duration": 0.94
+    },
+    {
+      "text": "D: (Maybe I'll just take a quick peek at this walkthrough.)",
+      "start": 227.3,
+      "duration": 1.56
+    },
+    {
+      "text": "A: I do have a question.",
+      "start": 228.86,
+      "duration": 1.22
+    },
+    {
+      "text": "D: Go ahead.",
+      "start": 230.2,
+      "duration": 0.66
+    },
+    {
+      "text": "A: Um... not important, not terribly important...",
+      "start": 231.22,
+      "duration": 1.92
+    },
+    {
+      "text": "D: Mm-hm.",
+      "start": 233.14,
+      "duration": 0.7
+    },
+    {
+      "text": "A: ...I FOUND HIM!!",
+      "start": 234.12,
+      "duration": 0.66
+    },
+    {
+      "text": "D: Did you?",
+      "start": 235.12,
+      "duration": 0.5
+    },
+    {
+      "text": "A: I FOUND FROGGY!",
+      "start": 236.48,
+      "duration": 0.76
+    },
+    {
+      "text": "D: Oh, shit, there he is!",
+      "start": 237.24,
+      "duration": 1.1
+    },
+    {
+      "text": "D: What the fuck secret passage-",
+      "start": 238.7,
+      "duration": 1.74
+    },
+    {
+      "text": "A: It's just to get some secret stuff, dude.",
+      "start": 241.04,
+      "duration": 1.44
+    },
+    {
+      "text": "D: Oh!",
+      "start": 242.7,
+      "duration": 0.5
+    },
+    {
+      "text": "A: There's an eel eating fucking kelp or something...",
+      "start": 243.34,
+      "duration": 1.3
+    },
+    {
+      "text": "D: Yeah, you're gonna catch the moray-",
+      "start": 244.64,
+      "duration": 1.16
+    },
+    {
+      "text": "A: Yo! Yo! Yo! Froggy! Froggy!",
+      "start": 245.82,
+      "duration": 1.28
+    },
+    {
+      "text": "D: Jeez, I can't believe this is the game!",
+      "start": 247.18,
+      "duration": 1.82
+    },
+    {
+      "text": "D: This is like...",
+      "start": 250.4,
+      "duration": 0.76
+    },
+    {
+      "text": "D: This is like games, like, from the Commodore 64 days, you know?",
+      "start": 251.74,
+      "duration": 3.64
+    },
+    {
+      "text": "D: Like...",
+      "start": 255.8,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Like the controls are janky and they don't make much sense?",
+      "start": 256.98,
+      "duration": 2.32
+    },
+    {
+      "text": "D:The game is weird...",
+      "start": 259.3,
+      "duration": 1.0
+    },
+    {
+      "text": "A: It's not fun...",
+      "start": 260.3,
+      "duration": 0.5
+    },
+    {
+      "text": "D: ...and the objective is strange, and...",
+      "start": 260.8,
+      "duration": 1.5
+    },
+    {
+      "text": "D: It's hard and...",
+      "start": 263.16,
+      "duration": 0.72
+    },
+    {
+      "text": "A: Yeah!",
+      "start": 264.08,
+      "duration": 0.5
+    },
+    {
+      "text": "D: You just buy it and then never beat it.",
+      "start": 264.98,
+      "duration": 2.0
+    },
+    {
+      "text": "A: I'm so glad that you're finally somewhat on the same page I am.",
+      "start": 267.34,
+      "duration": 3.54
+    },
+    {
+      "text": "D: Oh, I've... don't get me wrong, I'm fucking enjoying the CHRIST out of this.",
+      "start": 270.88,
+      "duration": 3.58
+    },
+    {
+      "text": "A: I mean...",
+      "start": 274.46,
+      "duration": 0.5
+    },
+    {
+      "text": "D: But like...",
+      "start": 274.96,
+      "duration": 0.72
+    },
+    {
+      "text": "A: ...I don't think you'll ever get as livid as I.",
+      "start": 276.82,
+      "duration": 2.04
+    },
+    {
+      "text": "D: No, no...",
+      "start": 279.08,
+      "duration": 0.72
+    },
+    {
+      "text": "D: I think this game has plenty of good things to offer.",
+      "start": 280.4,
+      "duration": 2.0
+    },
+    {
+      "text": "D: It's just that it's...",
+      "start": 282.4,
+      "duration": 1.12
+    },
+    {
+      "text": "D: I wouldn't say it's perfect.",
+      "start": 283.86,
+      "duration": 1.18
+    },
+    {
+      "text": "A: (derisive sniggering)",
+      "start": 285.3,
+      "duration": 0.5
+    },
+    {
+      "text": "D: I would say there's room for improvement.",
+      "start": 285.96,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Oh?",
+      "start": 288.34,
+      "duration": 0.56
+    },
+    {
+      "text": "D: Yeah.",
+      "start": 289.66,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Really?",
+      "start": 290.16,
+      "duration": 0.6
+    },
+    {
+      "text": "A: Wow, you're being very kind.",
+      "start": 291.12,
+      "duration": 1.88
+    },
+    {
+      "text": "A: Alright, I've gotta check out fuckin' Froggy's pattern.",
+      "start": 293.2,
+      "duration": 2.8
+    },
+    {
+      "text": "D: Dude, he swims- he's under you.",
+      "start": 296.0,
+      "duration": 1.42
+    },
+    {
+      "text": "A: -right here.",
+      "start": 297.42,
+      "duration": 0.5
+    },
+    {
+      "text": "D: He's right under you.",
+      "start": 297.92,
+      "duration": 0.64
+    },
+    {
+      "text": "A: Check it.",
+      "start": 298.56,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Froggy, come on.",
+      "start": 300.28,
+      "duration": 0.84
+    },
+    {
+      "text": "Come on, baby.",
+      "start": 301.66,
+      "duration": 0.5
+    },
+    {
+      "text": "Check, ch-che-che check check check  it out.",
+      "start": 302.16,
+      "duration": 1.74
+    },
+    {
+      "text": "Wrong fucking way...",
+      "start": 303.9,
+      "duration": 0.86
+    },
+    {
+      "text": "Wh-wh what's it all about",
+      "start": 304.86,
+      "duration": 0.64
+    },
+    {
+      "text": "I don't want-",
+      "start": 305.6,
+      "duration": 0.5
+    },
+    {
+      "text": "You got that eel.",
+      "start": 306.1,
+      "duration": 0.5
+    },
+    {
+      "text": "N-no, I don't want-",
+      "start": 306.6,
+      "duration": 0.56
+    },
+    {
+      "text": "You got that eel. That eel wants it!",
+      "start": 307.16,
+      "duration": 1.34
+    },
+    {
+      "text": "I don't want the eel!",
+      "start": 308.5,
+      "duration": 0.76
+    },
+    {
+      "text": "The eel wants you!",
+      "start": 309.26,
+      "duration": 0.9
+    },
+    {
+      "text": "Stay away from me, eel.",
+      "start": 310.22,
+      "duration": 0.7
+    },
+    {
+      "text": "Alright!",
+      "start": 310.92,
+      "duration": 0.5
+    },
+    {
+      "text": "Maybe you should be on land.",
+      "start": 312.42,
+      "duration": 1.04
+    },
+    {
+      "text": "...While fishing.",
+      "start": 313.46,
+      "duration": 1.08
+    },
+    {
+      "text": "I mean, I don't-",
+      "start": 314.54,
+      "duration": 0.98
+    },
+    {
+      "text": "I'm not a master fisherman, but...",
+      "start": 315.62,
+      "duration": 2.0
+    },
+    {
+      "text": "I think that's traditional.",
+      "start": 317.62,
+      "duration": 1.44
+    },
+    {
+      "text": "Look, Dan:",
+      "start": 319.06,
+      "duration": 0.88
+    },
+    {
+      "text": "Shut the fuck up.",
+      "start": 319.94,
+      "duration": 1.34
+    },
+    {
+      "text": "I- you know what?",
+      "start": 321.28,
+      "duration": 0.86
+    },
+    {
+      "text": "I- maybe I'll do that.",
+      "start": 322.14,
+      "duration": 1.42
+    },
+    {
+      "text": "Maybe we'll see how good your fuckin precious Let's Play is.",
+      "start": 323.56,
+      "duration": 2.42
+    },
+    {
+      "text": "Ah!",
+      "start": 325.98,
+      "duration": 0.5
+    },
+    {
+      "text": "God damn it! Froggy!",
+      "start": 326.48,
+      "duration": 1.5
+    },
+    {
+      "text": "You son of a bitch!",
+      "start": 327.98,
+      "duration": 1.12
+    },
+    {
+      "text": "You fuckin asshole!",
+      "start": 329.18,
+      "duration": 1.38
+    },
+    {
+      "text": "You been nibbling on my lure for fucking days now,",
+      "start": 332.2,
+      "duration": 2.36
+    },
+    {
+      "text": "and you can't even fuckin- have the decency to",
+      "start": 334.56,
+      "duration": 1.7
+    },
+    {
+      "text": "bite down on that hook and let me kill you?",
+      "start": 336.32,
+      "duration": 2.06
+    },
+    {
+      "text": "I just remembered, uh, the Jerky Boys",
+      "start": 338.38,
+      "duration": 1.76
+    },
+    {
+      "text": "...the uh, prank phone call team from the early 90's",
+      "start": 340.14,
+      "duration": 2.76
+    },
+    {
+      "text": "used to use \"nibble nuts\" as one of their curses for people.",
+      "start": 343.04,
+      "duration": 4.36
+    },
+    {
+      "text": "\"Nibble nuts\"?",
+      "start": 347.9,
+      "duration": 0.78
+    },
+    {
+      "text": "\"Nice goin' there, nibble nuts!\"",
+      "start": 348.68,
+      "duration": 1.64
+    },
+    {
+      "text": "I love those guys.",
+      "start": 350.74,
+      "duration": 1.02
+    },
+    {
+      "text": "Oh! Is that a hammer head?",
+      "start": 351.76,
+      "duration": 1.46
+    },
+    {
+      "text": "That's a straight up hammerhead shark.",
+      "start": 353.22,
+      "duration": 1.64
+    },
+    {
+      "text": "Hammerhead sherk with big doofy eyes?",
+      "start": 354.92,
+      "duration": 2.28
+    },
+    {
+      "text": "Come on, baby.",
+      "start": 358.64,
+      "duration": 0.66
+    },
+    {
+      "text": "Come on, Froggy.",
+      "start": 360.28,
+      "duration": 0.76
+    },
+    {
+      "text": "(whistling Big fishin at Emerald Coast)",
+      "start": 361.56,
+      "duration": 0.72
+    },
+    {
+      "text": "Froggy!",
+      "start": 362.28,
+      "duration": 0.68
+    },
+    {
+      "text": "See, here's the thing about you, Froggy.",
+      "start": 364.04,
+      "duration": 1.22
+    },
+    {
+      "text": "Uh, you're a waste of my time.",
+      "start": 365.26,
+      "duration": 2.06
+    },
+    {
+      "text": "I don't even want to be friends with-",
+      "start": 367.7,
+      "duration": 0.92
+    },
+    {
+      "text": "-don't even.",
+      "start": 368.62,
+      "duration": 0.5
+    },
+    {
+      "text": "Don't even with that fuckin' fish bullshit nonsense right there.",
+      "start": 369.12,
+      "duration": 3.02
+    },
+    {
+      "text": "Don't even with that fuckin fish.",
+      "start": 372.14,
+      "duration": 1.32
+    },
+    {
+      "text": "(sadistic laughter)",
+      "start": 373.9,
+      "duration": 0.5
+    },
+    {
+      "text": "Is he gone?",
+      "start": 375.94,
+      "duration": 0.7
+    },
+    {
+      "text": "I'm gonna grab your-",
+      "start": 376.78,
+      "duration": 0.5
+    },
+    {
+      "text": "No there he is.",
+      "start": 377.28,
+      "duration": 0.5
+    },
+    {
+      "text": "I'm gonna grab your fuckin' frog ass.",
+      "start": 377.92,
+      "duration": 1.62
+    },
+    {
+      "text": "Come here, Froggy.",
+      "start": 380.84,
+      "duration": 0.86
+    },
+    {
+      "text": "Come here, you fuckin'...",
+      "start": 382.56,
+      "duration": 0.96
+    },
+    {
+      "text": "Garbage piece of garbage...",
+      "start": 383.58,
+      "duration": 1.68
+    },
+    {
+      "text": "(delighted tittering)",
+      "start": 385.42,
+      "duration": 0.5
+    },
+    {
+      "text": "WHY'D YOU SWIM AWAY? OHH!!",
+      "start": 386.1,
+      "duration": 1.88
+    },
+    {
+      "text": "I'd love it if the Navi was just like, \"the frog is right there!\"",
+      "start": 388.98,
+      "duration": 3.52
+    },
+    {
+      "text": "Sssstupid!",
+      "start": 393.26,
+      "duration": 1.4
+    },
+    {
+      "text": "What are you doing? You think he's just going to hang out at the bottom?",
+      "start": 396.62,
+      "duration": 2.46
+    },
+    {
+      "text": "Ow, I just hit my nose in the wrong place.",
+      "start": 399.08,
+      "duration": 1.52
+    },
+    {
+      "text": "Aw, I'm sorry buddy.",
+      "start": 400.76,
+      "duration": 1.2
+    },
+    {
+      "text": "It hurt.",
+      "start": 402.0,
+      "duration": 0.52
+    },
+    {
+      "text": "Oh, I'm sorry.",
+      "start": 402.64,
+      "duration": 1.0
+    },
+    {
+      "text": "It's ok.",
+      "start": 404.02,
+      "duration": 1.04
+    },
+    {
+      "text": "You'll get him.",
+      "start": 405.06,
+      "duration": 1.22
+    },
+    {
+      "text": "Oh shit...",
+      "start": 406.28,
+      "duration": 1.38
+    },
+    {
+      "text": "I believe in you.",
+      "start": 407.66,
+      "duration": 1.38
+    },
+    {
+      "text": "God, fucking...",
+      "start": 409.04,
+      "duration": 1.88
+    },
+    {
+      "text": "I- I'm livid, Dan.",
+      "start": 412.12,
+      "duration": 2.0
+    },
+    {
+      "text": "I'm like-",
+      "start": 414.12,
+      "duration": 0.5
+    },
+    {
+      "text": "I know.",
+      "start": 414.62,
+      "duration": 0.72
+    },
+    {
+      "text": "I'm like- as livid as I could ever be.",
+      "start": 415.4,
+      "duration": 1.64
+    },
+    {
+      "text": "I know, you are irate.",
+      "start": 417.04,
+      "duration": 1.56
+    },
+    {
+      "text": "I can feel the heat coming off of you.",
+      "start": 418.6,
+      "duration": 1.68
+    },
+    {
+      "text": "Dude, I'm a straight Irate Gamer.",
+      "start": 420.28,
+      "duration": 1.48
+    },
+    {
+      "text": "Uggh. Nice.",
+      "start": 421.76,
+      "duration": 1.26
+    },
+    {
+      "text": "Exctellent.",
+      "start": 423.52,
+      "duration": 0.8
+    },
+    {
+      "text": "(defeated moan)",
+      "start": 425.46,
+      "duration": 0.86
+    },
+    {
+      "text": "I was- I meant to say 'excellent' and 'I'm ecstatic'",
+      "start": 426.32,
+      "duration": 2.46
+    },
+    {
+      "text": "...and \"excstellent\" came out instead.",
+      "start": 429.3,
+      "duration": 2.0
+    },
+    {
+      "text": "Froggy? Froggy. Where did you go?",
+      "start": 432.12,
+      "duration": 2.0
+    },
+    {
+      "text": "Dude you do a lot of casting where, like, the frog just",
+      "start": 435.2,
+      "duration": 1.46
+    },
+    {
+      "text": "never comes into the frame.",
+      "start": 436.66,
+      "duration": 1.7
+    },
+    {
+      "text": "Yeah! I kn- I cast right in front of his face and it never-",
+      "start": 438.36,
+      "duration": 2.82
+    },
+    {
+      "text": "Sh- just THIS CAMERA'S THE WORST!",
+      "start": 441.18,
+      "duration": 1.96
+    },
+    {
+      "text": "You can't control the camera while you're...",
+      "start": 444.16,
+      "duration": 2.3
+    },
+    {
+      "text": "...casting! It's so stupid!",
+      "start": 446.76,
+      "duration": 1.78
+    },
+    {
+      "text": "It's the only time you would ever need the camera!",
+      "start": 449.56,
+      "duration": 2.4
+    },
+    {
+      "text": "...It's fuckin' garbage!",
+      "start": 452.08,
+      "duration": 2.0
+    },
+    {
+      "text": "It- OHHHH it's going the wrong way!",
+      "start": 456.04,
+      "duration": 2.84
+    },
+    {
+      "text": "Where is it? It's over here!",
+      "start": 460.1,
+      "duration": 1.32
+    },
+    {
+      "text": "There he is, there he is.",
+      "start": 461.42,
+      "duration": 0.72
+    },
+    {
+      "text": "Froggy, Froggy, Froggy....",
+      "start": 462.14,
+      "duration": 1.64
+    },
+    {
+      "text": "Oh! He's coming in!",
+      "start": 463.78,
+      "duration": 0.82
+    },
+    {
+      "text": "He's coming in!",
+      "start": 464.7,
+      "duration": 0.82
+    },
+    {
+      "text": "Yeah, so's this fish!",
+      "start": 465.66,
+      "duration": 0.76
+    },
+    {
+      "text": "Oh no, the fish is coming in first!",
+      "start": 466.42,
+      "duration": 1.08
+    },
+    {
+      "text": "Fish is coming in first!",
+      "start": 467.5,
+      "duration": 1.46
+    },
+    {
+      "text": "The fish is gettin it!",
+      "start": 468.96,
+      "duration": 1.14
+    },
+    {
+      "text": "...blub blub blub (unintelligible apoplexia)",
+      "start": 470.1,
+      "duration": 0.9
+    },
+    {
+      "text": "...\"Ohhhhhh noooo!\"",
+      "start": 471.0,
+      "duration": 1.72
+    },
+    {
+      "text": "Oh man, you just got fuckin...",
+      "start": 473.72,
+      "duration": 2.32
+    },
+    {
+      "text": "Fish-blocked.",
+      "start": 476.04,
+      "duration": 1.02
+    },
+    {
+      "text": "You just got cod-clocked!",
+      "start": 477.06,
+      "duration": 1.74
+    },
+    {
+      "text": "Cod blocked!",
+      "start": 478.8,
+      "duration": 1.54
+    },
+    {
+      "text": "That's what it is.",
+      "start": 480.34,
+      "duration": 0.84
+    },
+    {
+      "text": "Alright, Froggy...",
+      "start": 482.16,
+      "duration": 1.68
+    },
+    {
+      "text": "Motherfucker, just cast the fucking lure you",
+      "start": 483.84,
+      "duration": 1.94
+    },
+    {
+      "text": "piece of garbage.",
+      "start": 485.78,
+      "duration": 0.94
+    },
+    {
+      "text": "Do it. Do it. Do it. Do it.",
+      "start": 486.72,
+      "duration": 0.98
+    },
+    {
+      "text": "Get it! Get it! Like it, want it, have it, need it-",
+      "start": 487.76,
+      "duration": 2.24
+    },
+    {
+      "text": "WHY?!",
+      "start": 490.2,
+      "duration": 1.06
+    },
+    {
+      "text": "WHY??",
+      "start": 492.0,
+      "duration": 1.38
+    },
+    {
+      "text": "Oh boy...",
+      "start": 496.04,
+      "duration": 1.18
+    },
+    {
+      "text": "It's right here, it's",
+      "start": 497.22,
+      "duration": 1.36
+    },
+    {
+      "text": "Froggy, it's right here.",
+      "start": 498.58,
+      "duration": 0.92
+    },
+    {
+      "text": "It's- it's right here.",
+      "start": 499.52,
+      "duration": 1.28
+    },
+    {
+      "text": "You can see it, you can smell it, you can taste it-",
+      "start": 500.8,
+      "duration": 1.58
+    },
+    {
+      "text": "It's real.",
+      "start": 502.38,
+      "duration": 0.84
+    },
+    {
+      "text": "It's in front of your face...",
+      "start": 503.22,
+      "duration": 0.98
+    },
+    {
+      "text": "You can get it...",
+      "start": 504.34,
+      "duration": 0.54
+    },
+    {
+      "text": "Oh! Oh!",
+      "start": 504.88,
+      "duration": 0.5
+    },
+    {
+      "text": "Grab it grab it grab it grab it-",
+      "start": 505.38,
+      "duration": 0.86
+    },
+    {
+      "text": "Is that a hit?!",
+      "start": 506.6,
+      "duration": 0.74
+    },
+    {
+      "text": "(soul-rending shriek)",
+      "start": 507.34,
+      "duration": 0.84
+    },
+    {
+      "text": "(paroxysmal laughter)",
+      "start": 509.12,
+      "duration": 3.36
+    },
+    {
+      "text": "I mean, I-",
+      "start": 524.3,
+      "duration": 1.64
+    },
+    {
+      "text": "Froggy. Froggy...",
+      "start": 526.56,
+      "duration": 0.92
+    },
+    {
+      "text": "Come on. Come on, Froggy. C'mon.",
+      "start": 527.48,
+      "duration": 1.56
+    },
+    {
+      "text": "Ah! Oh! ...Nope.",
+      "start": 529.28,
+      "duration": 2.0
+    },
+    {
+      "text": "(languid moaning)",
+      "start": 534.12,
+      "duration": 0.84
+    },
+    {
+      "text": "Is there another lure upgrade you could have gotten?",
+      "start": 535.06,
+      "duration": 2.28
+    },
+    {
+      "text": "It's just random, dude, it's just-",
+      "start": 540.16,
+      "duration": 2.56
+    },
+    {
+      "text": "It's-",
+      "start": 542.9,
+      "duration": 0.56
+    },
+    {
+      "text": "Oh...",
+      "start": 543.96,
+      "duration": 0.5
+    },
+    {
+      "text": "Mm-hm!",
+      "start": 546.42,
+      "duration": 0.52
+    },
+    {
+      "text": "I'm gonna-",
+      "start": 547.96,
+      "duration": 0.88
+    },
+    {
+      "text": "When you're just drifting off to sleep tonight, I'm gonna",
+      "start": 549.12,
+      "duration": 2.02
+    },
+    {
+      "text": "come into your room",
+      "start": 551.14,
+      "duration": 0.86
+    },
+    {
+      "text": "and sing the music from this.",
+      "start": 552.0,
+      "duration": 2.0
+    },
+    {
+      "text": "(amelodic replication of Big fishing at Emerald Coast music)",
+      "start": 554.3,
+      "duration": 4.18
+    },
+    {
+      "text": "It's right here. Froggy, it's right here-",
+      "start": 558.48,
+      "duration": 1.48
+    },
+    {
+      "text": "C'mon.",
+      "start": 559.96,
+      "duration": 0.5
+    },
+    {
+      "text": "Come on, Froggy.",
+      "start": 560.68,
+      "duration": 0.98
+    },
+    {
+      "text": "Yeah, you want it.",
+      "start": 561.74,
+      "duration": 0.98
+    },
+    {
+      "text": "Nope, he does not want it.",
+      "start": 562.72,
+      "duration": 1.06
+    },
+    {
+      "text": "Oh- he wants it!",
+      "start": 563.96,
+      "duration": 0.5
+    },
+    {
+      "text": "Oh! He sees it!",
+      "start": 564.56,
+      "duration": 0.86
+    },
+    {
+      "text": "He wants it!",
+      "start": 565.42,
+      "duration": 0.72
+    },
+    {
+      "text": "He's into it!",
+      "start": 566.14,
+      "duration": 0.8
+    },
+    {
+      "text": "OH",
+      "start": 568.46,
+      "duration": 0.72
+    },
+    {
+      "text": "MY",
+      "start": 569.18,
+      "duration": 0.82
+    },
+    {
+      "text": "GOD!",
+      "start": 570.0,
+      "duration": 1.1
+    },
+    {
+      "text": "He- Oh! Second bite!",
+      "start": 571.74,
+      "duration": 1.52
+    },
+    {
+      "text": "He's going in for seconds!",
+      "start": 573.68,
+      "duration": 0.94
+    },
+    {
+      "text": "I c- oh!",
+      "start": 574.62,
+      "duration": 1.3
+    },
+    {
+      "text": "Ohhhhh!",
+      "start": 576.58,
+      "duration": 1.06
+    },
+    {
+      "text": "(demented cackling)",
+      "start": 578.2,
+      "duration": 1.4
+    },
+    {
+      "text": "The best part about this",
+      "start": 583.68,
+      "duration": 1.62
+    },
+    {
+      "text": "is knowing that",
+      "start": 585.3,
+      "duration": 1.12
+    },
+    {
+      "text": "there's gonna be a thousand comments-",
+      "start": 586.42,
+      "duration": 1.86
+    },
+    {
+      "text": "-not of sympathy-",
+      "start": 588.28,
+      "duration": 1.32
+    },
+    {
+      "text": "...but telling you why you're a fuckin' bullshit screwup at this game.",
+      "start": 589.66,
+      "duration": 4.0
+    },
+    {
+      "text": "Oh, it is so unfortunate.",
+      "start": 595.76,
+      "duration": 2.54
+    },
+    {
+      "text": "Froggy, where'd you go-",
+      "start": 599.52,
+      "duration": 0.74
+    },
+    {
+      "text": "There he is.",
+      "start": 600.26,
+      "duration": 0.5
+    },
+    {
+      "text": "There you are.",
+      "start": 601.1,
+      "duration": 0.5
+    },
+    {
+      "text": "Coming in.",
+      "start": 601.66,
+      "duration": 0.64
+    },
+    {
+      "text": "Coming in for another nibble and leave.",
+      "start": 602.44,
+      "duration": 1.38
+    },
+    {
+      "text": "...Froggy, Froggy Froggy....",
+      "start": 603.82,
+      "duration": 1.26
+    },
+    {
+      "text": "Mmm, that one went through him!",
+      "start": 605.28,
+      "duration": 1.86
+    },
+    {
+      "text": "...why.",
+      "start": 607.14,
+      "duration": 0.5
+    },
+    {
+      "text": "Wait, wait...",
+      "start": 608.14,
+      "duration": 0.82
+    },
+    {
+      "text": "Wait...",
+      "start": 609.18,
+      "duration": 0.82
+    },
+    {
+      "text": "...maybe?",
+      "start": 610.36,
+      "duration": 0.72
+    },
+    {
+      "text": "WHAT- ...the GARBAGE, MAN?!",
+      "start": 611.52,
+      "duration": 2.76
+    },
+    {
+      "text": "GOD!",
+      "start": 614.98,
+      "duration": 1.04
+    },
+    {
+      "text": "(disbelieving moan)",
+      "start": 617.76,
+      "duration": 1.6
+    },
+    {
+      "text": "Froggy? Froggy!",
+      "start": 619.92,
+      "duration": 0.92
+    },
+    {
+      "text": "Is that what- he's coming...",
+      "start": 621.0,
+      "duration": 0.9
+    },
+    {
+      "text": "(strenuous cackling)",
+      "start": 624.1,
+      "duration": 1.14
+    },
+    {
+      "text": "...The controller has been tossed away.",
+      "start": 627.92,
+      "duration": 2.52
+    },
+    {
+      "text": "...No one has the controller right now.",
+      "start": 631.5,
+      "duration": 2.14
+    },
+    {
+      "text": "This is a rudderless ship we are on.",
+      "start": 634.88,
+      "duration": 2.6
+    },
+    {
+      "text": "Oh, my...",
+      "start": 637.92,
+      "duration": 1.0
+    },
+    {
+      "text": "...Arin is picking up the controller again.",
+      "start": 639.02,
+      "duration": 1.78
+    },
+    {
+      "text": "Woah!",
+      "start": 641.0,
+      "duration": 0.5
+    },
+    {
+      "text": "I saw Froggy for a second.",
+      "start": 641.92,
+      "duration": 1.96
+    },
+    {
+      "text": "I saw a floppy foot.",
+      "start": 644.16,
+      "duration": 2.0
+    },
+    {
+      "text": "Here we go.",
+      "start": 647.88,
+      "duration": 0.66
+    },
+    {
+      "text": "This one's the-",
+      "start": 649.62,
+      "duration": 1.06
+    },
+    {
+      "text": "Fifteenth one's the charm!",
+      "start": 651.24,
+      "duration": 1.94
+    },
+    {
+      "text": "(\"humming\" Big Fishing at Emerald Coast music)",
+      "start": 656.34,
+      "duration": 2.0
+    },
+    {
+      "text": "(broken laughter)",
+      "start": 658.36,
+      "duration": 2.0
+    },
+    {
+      "text": "Ah... this brings back the good ol' memories of fishin' with paw.",
+      "start": 662.6,
+      "duration": 3.9
+    },
+    {
+      "text": "(slide guitar impersonation)",
+      "start": 667.92,
+      "duration": 2.22
+    },
+    {
+      "text": "...Like a de-tuned slide guitar",
+      "start": 670.48,
+      "duration": 2.76
+    },
+    {
+      "text": "just fucking going crazy!",
+      "start": 673.44,
+      "duration": 2.32
+    },
+    {
+      "text": "WHAT THE FUCK, DUDE?!",
+      "start": 677.86,
+      "duration": 2.0
+    },
+    {
+      "text": "(Danny laughs)",
+      "start": 680.18,
+      "duration": 0.72
+    },
+    {
+      "text": "I have to catch this fish!",
+      "start": 683.78,
+      "duration": 2.0
+    },
+    {
+      "text": "It's not a fish...",
+      "start": 685.78,
+      "duration": 1.16
+    },
+    {
+      "text": "Frog!",
+      "start": 687.48,
+      "duration": 0.5
+    },
+    {
+      "text": "...it's an amphibian.",
+      "start": 687.98,
+      "duration": 0.72
+    },
+    {
+      "text": "Oh, boy...",
+      "start": 689.26,
+      "duration": 0.96
+    },
+    {
+      "text": "Come on, Froggy. Don't-",
+      "start": 690.22,
+      "duration": 1.34
+    },
+    {
+      "text": "Froggy, don't play that way.",
+      "start": 691.56,
+      "duration": 1.9
+    },
+    {
+      "text": "Oh. he's playing that way.",
+      "start": 693.46,
+      "duration": 1.24
+    },
+    {
+      "text": "Oh, he's coming, he's coming",
+      "start": 694.7,
+      "duration": 0.5
+    },
+    {
+      "text": "Here he comes.",
+      "start": 695.2,
+      "duration": 0.5
+    },
+    {
+      "text": "Nibble, nibble, nibble nibble ...done",
+      "start": 695.7,
+      "duration": 1.64
+    },
+    {
+      "text": "...What is this game?",
+      "start": 698.8,
+      "duration": 2.0
+    },
+    {
+      "text": "I- ...dude, dude...",
+      "start": 700.8,
+      "duration": 1.14
+    },
+    {
+      "text": "Do you think they make people at Guantanamo Bay play this?",
+      "start": 702.18,
+      "duration": 2.98
+    },
+    {
+      "text": "...until they go insane?",
+      "start": 706.54,
+      "duration": 2.0
+    },
+    {
+      "text": "(desperate pleading moan)",
+      "start": 713.38,
+      "duration": 1.74
+    },
+    {
+      "text": "...Alright, Froggy.",
+      "start": 717.9,
+      "duration": 0.98
+    },
+    {
+      "text": "You're up. You're up...",
+      "start": 718.88,
+      "duration": 1.18
+    },
+    {
+      "text": "Your turn, buddy.",
+      "start": 721.7,
+      "duration": 2.0
+    },
+    {
+      "text": "Come on, Froggy.",
+      "start": 724.5,
+      "duration": 1.16
+    },
+    {
+      "text": "Oh, boy.",
+      "start": 726.2,
+      "duration": 0.68
+    },
+    {
+      "text": "Froggy...",
+      "start": 726.88,
+      "duration": 0.5
+    },
+    {
+      "text": "Hey, buddy! Hey, buddy!",
+      "start": 727.92,
+      "duration": 0.98
+    },
+    {
+      "text": "Here he comes!",
+      "start": 728.9,
+      "duration": 1.08
+    },
+    {
+      "text": "...Nope! Never mind...",
+      "start": 730.26,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh...",
+      "start": 733.24,
+      "duration": 0.58
+    },
+    {
+      "text": "Do you think his tail is just a giant, green middle finger",
+      "start": 733.82,
+      "duration": 2.66
+    },
+    {
+      "text": "...growing out of his ass?",
+      "start": 736.48,
+      "duration": 1.02
+    },
+    {
+      "text": "(screaming from playing Sonic Adventure)",
+      "start": 743.02,
+      "duration": 1.12
+    },
+    {
+      "text": "Okay...",
+      "start": 745.4,
+      "duration": 0.5
+    },
+    {
+      "text": "Oh! Oh! Oh!",
+      "start": 746.36,
+      "duration": 0.5
+    },
+    {
+      "text": "Froggy Froggy Froggy FROGGY!!",
+      "start": 746.98,
+      "duration": 1.48
+    },
+    {
+      "text": "Oh- he sees it! He's coming for it!",
+      "start": 748.76,
+      "duration": 0.9
+    },
+    {
+      "text": "Oh, is he?",
+      "start": 749.76,
+      "duration": 0.5
+    },
+    {
+      "text": "I think so.",
+      "start": 750.5,
+      "duration": 0.6
+    },
+    {
+      "text": "How do you know? Oh! Wow, good job.",
+      "start": 751.18,
+      "duration": 1.6
+    },
+    {
+      "text": "(Dan hums the stage music some more)",
+      "start": 753.58,
+      "duration": 1.86
+    },
+    {
+      "text": "Eat it, you piece of shit!",
+      "start": 758.36,
+      "duration": 2.0
+    },
+    {
+      "text": "Fucking eat it!",
+      "start": 760.6,
+      "duration": 1.46
+    },
+    {
+      "text": "What are you d- WHAT HAPPENED?!",
+      "start": 763.02,
+      "duration": 2.46
+    },
+    {
+      "text": "Ohhhhhh, no!",
+      "start": 770.46,
+      "duration": 2.0
+    },
+    {
+      "text": "(sobs softly)",
+      "start": 773.2,
+      "duration": 1.18
+    },
+    {
+      "text": "Oh, my God!",
+      "start": 775.76,
+      "duration": 1.44
+    },
+    {
+      "text": "This is where- this is where I am right now, in life!",
+      "start": 777.34,
+      "duration": 2.98
+    },
+    {
+      "text": "Oh, I'm gonna throw up!",
+      "start": 784.76,
+      "duration": 1.08
+    },
+    {
+      "text": "Everything I've ever accomplished in my life has lead to this exact moment!",
+      "start": 785.84,
+      "duration": 4.32
+    },
+    {
+      "text": "It has everything to do with all the accomplishments that have ever happened in my life!",
+      "start": 790.54,
+      "duration": 4.06
+    },
+    {
+      "text": "Oh, Jesus...",
+      "start": 794.6,
+      "duration": 0.88
+    },
+    {
+      "text": "It's-",
+      "start": 795.84,
+      "duration": 0.5
+    },
+    {
+      "text": "COME. ON!! ARE YOU FUCKING SERIOUS, DUDE?!",
+      "start": 796.34,
+      "duration": 4.28
+    },
+    {
+      "text": "Oh! Pl- just-",
+      "start": 800.62,
+      "duration": 1.06
+    },
+    {
+      "text": "JUST FUCKING TAKE THE LURE!",
+      "start": 801.68,
+      "duration": 2.14
+    },
+    {
+      "text": "JUST TAKE IT!",
+      "start": 804.8,
+      "duration": 1.36
+    },
+    {
+      "text": "Just say 'hit'!",
+      "start": 808.14,
+      "duration": 1.02
+    },
+    {
+      "text": "WHY?!",
+      "start": 809.54,
+      "duration": 1.42
+    },
+    {
+      "text": "This is as hard to- like,",
+      "start": 811.06,
+      "duration": 1.3
+    },
+    {
+      "text": "It's as hard to get this hit as, like, a top 40 radio hit!",
+      "start": 812.36,
+      "duration": 3.18
+    },
+    {
+      "text": "My God!",
+      "start": 816.34,
+      "duration": 1.38
+    },
+    {
+      "text": "(rage wretch)",
+      "start": 819.92,
+      "duration": 0.5
+    },
+    {
+      "text": "I think-",
+      "start": 821.4,
+      "duration": 0.5
+    },
+    {
+      "text": "Froggy...",
+      "start": 821.9,
+      "duration": 0.5
+    },
+    {
+      "text": "You know, Arin? I'm gonna say it:",
+      "start": 822.4,
+      "duration": 1.46
+    },
+    {
+      "text": "I got a good feeling about this one.",
+      "start": 824.28,
+      "duration": 1.54
+    },
+    {
+      "text": "Dude!",
+      "start": 830.42,
+      "duration": 0.76
+    },
+    {
+      "text": "Froggy!",
+      "start": 832.06,
+      "duration": 0.8
+    },
+    {
+      "text": "This i-",
+      "start": 841.16,
+      "duration": 0.58
+    },
+    {
+      "text": "I'm gonna sing you a little song, Arin.",
+      "start": 842.96,
+      "duration": 1.9
+    },
+    {
+      "text": "UH-huh.",
+      "start": 844.86,
+      "duration": 0.5
+    },
+    {
+      "text": "Wait... just wait for it.",
+      "start": 846.52,
+      "duration": 1.34
+    },
+    {
+      "text": "(following stage music melody): ARIN YOU'RE DOING",
+      "start": 850.32,
+      "duration": 2.38
+    },
+    {
+      "text": "SUCH A GOOD JOB.",
+      "start": 852.7,
+      "duration": 3.8
+    },
+    {
+      "text": "That was beautiful.",
+      "start": 857.92,
+      "duration": 0.86
+    },
+    {
+      "text": "Yeah...",
+      "start": 858.78,
+      "duration": 0.5
+    },
+    {
+      "text": "I don't know why, it speaks to my soul.",
+      "start": 859.28,
+      "duration": 1.78
+    },
+    {
+      "text": "I- I mean,",
+      "start": 861.06,
+      "duration": 1.22
+    },
+    {
+      "text": "It's where I'm at, too. I'm...",
+      "start": 862.28,
+      "duration": 1.4
+    },
+    {
+      "text": "You act like I'm not even here experiencing this right next to you.",
+      "start": 864.22,
+      "duration": 3.62
+    },
+    {
+      "text": "Please, please...",
+      "start": 868.3,
+      "duration": 1.0
+    },
+    {
+      "text": "OH!",
+      "start": 870.2,
+      "duration": 0.5
+    },
+    {
+      "text": "Yes!",
+      "start": 870.7,
+      "duration": 0.5
+    },
+    {
+      "text": "OH MY GOD! OH MY GOD!",
+      "start": 871.2,
+      "duration": 0.92
+    },
+    {
+      "text": "OH MY GOD!",
+      "start": 872.48,
+      "duration": 0.86
+    },
+    {
+      "text": "Bring him in, bring him in...",
+      "start": 873.4,
+      "duration": 1.22
+    },
+    {
+      "text": "Holy fuck...",
+      "start": 874.64,
+      "duration": 0.58
+    },
+    {
+      "text": "Oh, I hope you hooked him through his fuckin' eyeball!",
+      "start": 875.38,
+      "duration": 1.52
+    },
+    {
+      "text": "Oh, my God!",
+      "start": 877.0,
+      "duration": 0.62
+    },
+    {
+      "text": "I hope he FEELS this!",
+      "start": 877.62,
+      "duration": 1.26
+    },
+    {
+      "text": "Froggy, you little son of a bitch...",
+      "start": 879.98,
+      "duration": 1.52
+    },
+    {
+      "text": "I can't breathe...",
+      "start": 881.5,
+      "duration": 0.92
+    },
+    {
+      "text": "Please, please... just-",
+      "start": 883.04,
+      "duration": 1.14
+    },
+    {
+      "text": "Just reel him in...",
+      "start": 884.18,
+      "duration": 1.08
+    },
+    {
+      "text": "Just reel him in...",
+      "start": 885.64,
+      "duration": 1.02
+    },
+    {
+      "text": "...Can't fuckin' breathe, dude...",
+      "start": 886.66,
+      "duration": 1.02
+    },
+    {
+      "text": "Please, please...",
+      "start": 887.68,
+      "duration": 0.86
+    },
+    {
+      "text": "Oh, he's putting up a fight!",
+      "start": 890.38,
+      "duration": 2.0
+    },
+    {
+      "text": "Froggy, why, dude?",
+      "start": 892.38,
+      "duration": 1.82
+    },
+    {
+      "text": "Froggy...",
+      "start": 894.78,
+      "duration": 1.12
+    },
+    {
+      "text": "Oh, my God...",
+      "start": 896.2,
+      "duration": 1.16
+    },
+    {
+      "text": "Among the top villains of video game history.",
+      "start": 897.38,
+      "duration": 2.26
+    },
+    {
+      "text": "Froggy is on the fucking, like-",
+      "start": 899.64,
+      "duration": 1.9
+    },
+    {
+      "text": "By a long shot! He's in space.",
+      "start": 901.54,
+      "duration": 2.18
+    },
+    {
+      "text": "Oh...",
+      "start": 903.72,
+      "duration": 0.72
+    },
+    {
+      "text": "Oh, my God, he is really fighting you!",
+      "start": 906.24,
+      "duration": 2.32
+    },
+    {
+      "text": "Froggy, come ON, dude!",
+      "start": 908.56,
+      "duration": 1.98
+    },
+    {
+      "text": "And you didn't do ANYTHING differently to catch him that time?",
+      "start": 910.54,
+      "duration": 1.44
+    },
+    {
+      "text": "NO!",
+      "start": 911.98,
+      "duration": 0.72
+    },
+    {
+      "text": "Okay! Okay!",
+      "start": 912.7,
+      "duration": 1.02
+    },
+    {
+      "text": "I did nothing- it's COMPLETELY random!",
+      "start": 913.72,
+      "duration": 2.46
+    },
+    {
+      "text": "I'm sorry. I'm sorry, I didn't mean to upset you.",
+      "start": 916.18,
+      "duration": 1.46
+    },
+    {
+      "text": "Damn it, it's just...",
+      "start": 917.64,
+      "duration": 1.66
+    },
+    {
+      "text": "Oh! You're right there!",
+      "start": 919.3,
+      "duration": 1.9
+    },
+    {
+      "text": "(jubilant screaming)",
+      "start": 921.62,
+      "duration": 2.04
+    },
+    {
+      "text": "Oh my God.",
+      "start": 923.66,
+      "duration": 0.86
+    },
+    {
+      "text": "Oh my God, thank you...",
+      "start": 925.0,
+      "duration": 1.62
+    },
+    {
+      "text": "AHH IT'S MY VICTORY DANCE!",
+      "start": 926.86,
+      "duration": 1.3
+    },
+    {
+      "text": "Yeah. He like, victory throws Froggy-",
+      "start": 928.16,
+      "duration": 2.84
+    },
+    {
+      "text": "\"And now to release him into the wild!\"",
+      "start": 931.22,
+      "duration": 2.9
+    },
+    {
+      "text": "\"...So he can be caught once again!\"",
+      "start": 934.22,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh, God...",
+      "start": 936.22,
+      "duration": 0.8
+    },
+    {
+      "text": "\"In a fun minigame!\"",
+      "start": 937.02,
+      "duration": 1.16
+    },
+    {
+      "text": "Is there a fourth one? Of this?",
+      "start": 938.18,
+      "duration": 1.28
+    },
+    {
+      "text": "Yes.",
+      "start": 939.46,
+      "duration": 0.5
+    },
+    {
+      "text": "Yes! Awesome!",
+      "start": 939.96,
+      "duration": 2.04
+    },
+    {
+      "text": "Oh! Cutscene.",
+      "start": 942.0,
+      "duration": 1.76
+    },
+    {
+      "text": "(hysterical laughter)",
+      "start": 944.6,
+      "duration": 1.0
+    },
+    {
+      "text": "...WHAT?",
+      "start": 945.68,
+      "duration": 1.14
+    },
+    {
+      "text": "What the fuck?!",
+      "start": 949.84,
+      "duration": 2.0
+    },
+    {
+      "text": "WHAT THE- WHAT?!",
+      "start": 954.22,
+      "duration": 1.32
+    },
+    {
+      "text": "Does this frog, like, power diamond fuel or some shit?!",
+      "start": 955.9,
+      "duration": 3.6
+    },
+    {
+      "text": "Why does ev-",
+      "start": 959.56,
+      "duration": 1.18
+    },
+    {
+      "text": "Oh, my God!",
+      "start": 960.94,
+      "duration": 2.16
+    },
+    {
+      "text": "(long, lugubrious sigh)",
+      "start": 964.62,
+      "duration": 2.22
+    },
+    {
+      "text": "Oh, here comes the ship!",
+      "start": 967.96,
+      "duration": 1.42
+    },
+    {
+      "text": "Ah, he's a nuclear frog!",
+      "start": 969.38,
+      "duration": 1.34
+    },
+    {
+      "text": "Oh, good thing the sky was rotate- was...",
+      "start": 971.16,
+      "duration": 1.62
+    },
+    {
+      "text": "Oh, that's right!",
+      "start": 972.88,
+      "duration": 0.5
+    },
+    {
+      "text": "THIS is what Big the Cat has been doing this entire time",
+      "start": 973.68,
+      "duration": 3.02
+    },
+    {
+      "text": "whlile everyone else was saving the world?!",
+      "start": 976.7,
+      "duration": 1.86
+    },
+    {
+      "text": "Well, yeah.",
+      "start": 978.56,
+      "duration": 0.5
+    },
+    {
+      "text": "He's gotta catch his FROGGY!",
+      "start": 979.96,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh my God...",
+      "start": 981.96,
+      "duration": 1.82
+    },
+    {
+      "text": "Ow, me head hurts...",
+      "start": 983.78,
+      "duration": 1.3
+    },
+    {
+      "text": "Oh my God!",
+      "start": 985.08,
+      "duration": 1.04
+    },
+    {
+      "text": "(anguished sigh)",
+      "start": 987.1,
+      "duration": 1.2
+    },
+    {
+      "text": "Jesus!",
+      "start": 989.36,
+      "duration": 0.78
+    },
+    {
+      "text": "Ooooh, it burns!",
+      "start": 991.3,
+      "duration": 2.0
+    },
+    {
+      "text": "Just stop, dude! Am I gonna have to fish for him",
+      "start": 993.3,
+      "duration": 1.82
+    },
+    {
+      "text": "in Robotnik's smelly fucking pool?",
+      "start": 995.12,
+      "duration": 2.0
+    },
+    {
+      "text": "Where his gross, tiny chode...",
+      "start": 997.12,
+      "duration": 0.92
+    },
+    {
+      "text": "Oh, yeah!",
+      "start": 998.14,
+      "duration": 1.14
+    },
+    {
+      "text": "No, it does not, Big.",
+      "start": 1000.78,
+      "duration": 2.0
+    },
+    {
+      "text": "You're new here.",
+      "start": 1003.18,
+      "duration": 1.08
+    },
+    {
+      "text": "Ugh, God...",
+      "start": 1004.44,
+      "duration": 1.04
+    },
+    {
+      "text": "Dude, this episode has been my fucking favorite",
+      "start": 1006.36,
+      "duration": 3.92
+    },
+    {
+      "text": "of this playthrough.",
+      "start": 1010.28,
+      "duration": 1.14
+    },
+    {
+      "text": "By a mile!",
+      "start": 1012.14,
+      "duration": 1.8
+    },
+    {
+      "text": "By a country mile!",
+      "start": 1013.94,
+      "duration": 1.94
+    },
+    {
+      "text": "Oh, boy...",
+      "start": 1015.88,
+      "duration": 1.18
+    },
+    {
+      "text": "Alright, next time on Game Grumps...",
+      "start": 1017.88,
+      "duration": 1.68
+    },
+    {
+      "text": "It's the... finale, of Big the Cat's story.",
+      "start": 1022.18,
+      "duration": 3.06
+    },
+    {
+      "text": "Yeah, we'll just see about that, won't we?",
+      "start": 1025.24,
+      "duration": 2.04
+    },
+    {
+      "text": "Yep...",
+      "start": 1027.42,
+      "duration": 0.64
+    },
+    {
+      "text": "Oh my God, amazing!",
+      "start": 1028.36,
+      "duration": 2.54
+    },
+    {
+      "text": "So good!",
+      "start": 1033.46,
+      "duration": 1.0
+    },
+    {
+      "text": "SO good!",
+      "start": 1035.14,
+      "duration": 1.42
+    }
+  ]
+}

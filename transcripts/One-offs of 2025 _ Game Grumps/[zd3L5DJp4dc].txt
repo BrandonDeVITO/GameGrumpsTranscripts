@@ -1,0 +1,6793 @@
+{
+  "video_id": "zd3L5DJp4dc",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippets": [
+    {
+      "text": "Hey, I'm Grubs. I'm not so Grub. And",
+      "start": 0.16,
+      "duration": 5.119
+    },
+    {
+      "text": "we're the Game Grumps.",
+      "start": 3.439,
+      "duration": 4.32
+    },
+    {
+      "text": ">> Good day, everyone. Hello. Welcome to",
+      "start": 5.279,
+      "duration": 4.561
+    },
+    {
+      "text": "Game Grumps, everybody. We're playing",
+      "start": 7.759,
+      "duration": 4.8
+    },
+    {
+      "text": "the lift. Uh, which uh they were kind",
+      "start": 9.84,
+      "duration": 5.04
+    },
+    {
+      "text": "enough to send us. Tiny Build was kind",
+      "start": 12.559,
+      "duration": 5.441
+    },
+    {
+      "text": "enough to send us the uh a a early",
+      "start": 14.88,
+      "duration": 5.44
+    },
+    {
+      "text": "version. It's an early version of the",
+      "start": 18.0,
+      "duration": 5.039
+    },
+    {
+      "text": "game, an early build. Uh you can try uh",
+      "start": 20.32,
+      "duration": 4.48
+    },
+    {
+      "text": "the early free version by going to the",
+      "start": 23.039,
+      "duration": 3.201
+    },
+    {
+      "text": "game Steam page and clicking the join",
+      "start": 24.8,
+      "duration": 4.879
+    },
+    {
+      "text": "the play test button. Um, this is a",
+      "start": 26.24,
+      "duration": 5.279
+    },
+    {
+      "text": "firstp person handyman simulator in",
+      "start": 29.679,
+      "duration": 3.601
+    },
+    {
+      "text": "which you're renovating a huge research",
+      "start": 31.519,
+      "duration": 4.161
+    },
+    {
+      "text": "facility abandoned after a mysterious",
+      "start": 33.28,
+      "duration": 3.2
+    },
+    {
+      "text": "incident.",
+      "start": 35.68,
+      "duration": 2.0
+    },
+    {
+      "text": ">> I love that.",
+      "start": 36.48,
+      "duration": 2.96
+    },
+    {
+      "text": ">> Uh, and yes, we're playing we're playing",
+      "start": 37.68,
+      "duration": 3.44
+    },
+    {
+      "text": "an early build. Uh, there's also an",
+      "start": 39.44,
+      "duration": 2.799
+    },
+    {
+      "text": "announcement trailer if you want to go",
+      "start": 41.12,
+      "duration": 3.439
+    },
+    {
+      "text": "check that out. Um, the official",
+      "start": 42.239,
+      "duration": 3.84
+    },
+    {
+      "text": "announcement trailer for the lift.",
+      "start": 44.559,
+      "duration": 1.921
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 46.079,
+      "duration": 2.241
+    },
+    {
+      "text": ">> Uh, but here we are.",
+      "start": 46.48,
+      "duration": 3.04
+    },
+    {
+      "text": ">> Thanks, guys. Thanks for sending us",
+      "start": 48.32,
+      "duration": 1.44
+    },
+    {
+      "text": "this.",
+      "start": 49.52,
+      "duration": 1.12
+    },
+    {
+      "text": ">> Yeah, we're going to be playing this",
+      "start": 49.76,
+      "duration": 2.639
+    },
+    {
+      "text": "game, which seems pretty cool. I, you",
+      "start": 50.64,
+      "duration": 4.079
+    },
+    {
+      "text": "know, I I respect it and I enjoy the",
+      "start": 52.399,
+      "duration": 4.561
+    },
+    {
+      "text": "idea of a handyman simulator being one",
+      "start": 54.719,
+      "duration": 4.401
+    },
+    {
+      "text": "of the least handy people in real life",
+      "start": 56.96,
+      "duration": 2.96
+    },
+    {
+      "text": "on Earth.",
+      "start": 59.12,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Oh, it makes you feel super smart.",
+      "start": 59.92,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Like that light bulb. Couldn't have",
+      "start": 62.8,
+      "duration": 2.48
+    },
+    {
+      "text": "installed that on my own.",
+      "start": 63.92,
+      "duration": 2.0
+    },
+    {
+      "text": ">> How many people?",
+      "start": 65.28,
+      "duration": 2.879
+    },
+    {
+      "text": ">> Without you, you would be completely",
+      "start": 65.92,
+      "duration": 3.36
+    },
+    {
+      "text": "dark here.",
+      "start": 68.159,
+      "duration": 3.601
+    },
+    {
+      "text": ">> Thank you for noticing.",
+      "start": 69.28,
+      "duration": 5.76
+    },
+    {
+      "text": ">> I am special. I am the bestest boy.",
+      "start": 71.76,
+      "duration": 4.8
+    },
+    {
+      "text": ">> Question.",
+      "start": 75.04,
+      "duration": 3.439
+    },
+    {
+      "text": "Things with meaning have a function.",
+      "start": 76.56,
+      "duration": 4.08
+    },
+    {
+      "text": ">> Got an inventory. People with meaning do",
+      "start": 78.479,
+      "duration": 5.441
+    },
+    {
+      "text": "too. Sometimes they function for longer.",
+      "start": 80.64,
+      "duration": 6.56
+    },
+    {
+      "text": "A chair exists to be sat on. That is its",
+      "start": 83.92,
+      "duration": 5.199
+    },
+    {
+      "text": "meaning. An elevator.",
+      "start": 87.2,
+      "duration": 2.72
+    },
+    {
+      "text": ">> My meaning.",
+      "start": 89.119,
+      "duration": 2.64
+    },
+    {
+      "text": ">> Yeah, I'm like a chair you can put your",
+      "start": 89.92,
+      "duration": 3.28
+    },
+    {
+      "text": "ass on.",
+      "start": 91.759,
+      "duration": 3.441
+    },
+    {
+      "text": ">> My meaning is to sit on a couch and",
+      "start": 93.2,
+      "duration": 4.16
+    },
+    {
+      "text": "scroll YouTube shorts. That's the",
+      "start": 95.2,
+      "duration": 4.16
+    },
+    {
+      "text": "meaning of my life.",
+      "start": 97.36,
+      "duration": 2.799
+    },
+    {
+      "text": ">> That's beautiful.",
+      "start": 99.36,
+      "duration": 3.759
+    },
+    {
+      "text": ">> Oh god.",
+      "start": 100.159,
+      "duration": 4.721
+    },
+    {
+      "text": ">> What is the sense of slowly creeping",
+      "start": 103.119,
+      "duration": 2.561
+    },
+    {
+      "text": "horror around me?",
+      "start": 104.88,
+      "duration": 3.04
+    },
+    {
+      "text": ">> What has become of me?",
+      "start": 105.68,
+      "duration": 6.16
+    },
+    {
+      "text": "Close it. Close it. Yeah.",
+      "start": 107.92,
+      "duration": 6.4
+    },
+    {
+      "text": "Now, uh, turn it on. Wait, is there like",
+      "start": 111.84,
+      "duration": 4.319
+    },
+    {
+      "text": "a thing I Oh, I can open everything now.",
+      "start": 114.32,
+      "duration": 4.56
+    },
+    {
+      "text": "Oh, it's blocked. Great work.",
+      "start": 116.159,
+      "duration": 7.521
+    },
+    {
+      "text": ">> Go, go, go to the different floors.",
+      "start": 118.88,
+      "duration": 5.919
+    },
+    {
+      "text": "Go to the first floor.",
+      "start": 123.68,
+      "duration": 2.719
+    },
+    {
+      "text": ">> Screwed in the light bulb and put on the",
+      "start": 124.799,
+      "duration": 3.761
+    },
+    {
+      "text": "cover. You're the man.",
+      "start": 126.399,
+      "duration": 5.521
+    },
+    {
+      "text": ">> I'm so good at this. All right.",
+      "start": 128.56,
+      "duration": 4.8
+    },
+    {
+      "text": ">> Reminds me of that tweet. I can't",
+      "start": 131.92,
+      "duration": 4.48
+    },
+    {
+      "text": "remember who wrote it, but it was like",
+      "start": 133.36,
+      "duration": 5.599
+    },
+    {
+      "text": "eating pizza right now. Hell yeah. And",
+      "start": 136.4,
+      "duration": 5.52
+    },
+    {
+      "text": "just got a text. Killing it. Okay, that",
+      "start": 138.959,
+      "duration": 4.561
+    },
+    {
+      "text": "text was for the pizza guy, but still",
+      "start": 141.92,
+      "duration": 5.52
+    },
+    {
+      "text": "we're cruising. Something like that.",
+      "start": 143.52,
+      "duration": 6.88
+    },
+    {
+      "text": "Uh, all right.",
+      "start": 147.44,
+      "duration": 5.519
+    },
+    {
+      "text": "Now, we're going to do something else,",
+      "start": 150.4,
+      "duration": 5.28
+    },
+    {
+      "text": "which is exciting.",
+      "start": 152.959,
+      "duration": 4.801
+    },
+    {
+      "text": "I've got a broken flashlight. I'm going",
+      "start": 155.68,
+      "duration": 3.04
+    },
+    {
+      "text": "to throw it at something.",
+      "start": 157.76,
+      "duration": 2.72
+    },
+    {
+      "text": ">> It's a light bulb.",
+      "start": 158.72,
+      "duration": 3.76
+    },
+    {
+      "text": ">> Uh, oops. Yeah, a light bulb. Yeah.",
+      "start": 160.48,
+      "duration": 3.44
+    },
+    {
+      "text": "Yeah. Well, you put a light bulb in a",
+      "start": 162.48,
+      "duration": 2.399
+    },
+    {
+      "text": "flashlight.",
+      "start": 163.92,
+      "duration": 1.84
+    },
+    {
+      "text": ">> Yes.",
+      "start": 164.879,
+      "duration": 1.601
+    },
+    {
+      "text": ">> Going to open this.",
+      "start": 165.76,
+      "duration": 3.28
+    },
+    {
+      "text": ">> But that doesn't make it Well, whatever.",
+      "start": 166.48,
+      "duration": 4.24
+    },
+    {
+      "text": "Like, I'm going to fight you on this.",
+      "start": 169.04,
+      "duration": 4.08
+    },
+    {
+      "text": ">> All right. All right. Go ahead and fight",
+      "start": 170.72,
+      "duration": 4.799
+    },
+    {
+      "text": "me, dude. Go ahead and fight me.",
+      "start": 173.12,
+      "duration": 3.28
+    },
+    {
+      "text": ">> See what fucking happens.",
+      "start": 175.519,
+      "duration": 2.321
+    },
+    {
+      "text": ">> See if I give a freak.",
+      "start": 176.4,
+      "duration": 3.52
+    },
+    {
+      "text": ">> Oh, dude. You know this game.",
+      "start": 177.84,
+      "duration": 2.8
+    },
+    {
+      "text": ">> I do?",
+      "start": 179.92,
+      "duration": 3.2
+    },
+    {
+      "text": ">> Yeah. This this pipy game. We've done",
+      "start": 180.64,
+      "duration": 3.519
+    },
+    {
+      "text": "stuff like this before.",
+      "start": 183.12,
+      "duration": 2.72
+    },
+    {
+      "text": ">> Sure.",
+      "start": 184.159,
+      "duration": 2.8
+    },
+    {
+      "text": ">> Connect input to output",
+      "start": 185.84,
+      "duration": 3.679
+    },
+    {
+      "text": ">> to return meaning to broken things.",
+      "start": 186.959,
+      "duration": 2.961
+    },
+    {
+      "text": "Thank you.",
+      "start": 189.519,
+      "duration": 2.881
+    },
+    {
+      "text": ">> To repair a cirqu. Yeah, no problem.",
+      "start": 189.92,
+      "duration": 6.0
+    },
+    {
+      "text": ">> Working devices emit waves. Waves are",
+      "start": 192.4,
+      "duration": 6.32
+    },
+    {
+      "text": "energy for the station and for the whole",
+      "start": 195.92,
+      "duration": 3.36
+    },
+    {
+      "text": "world.",
+      "start": 198.72,
+      "duration": 0.96
+    },
+    {
+      "text": ">> Sure.",
+      "start": 199.28,
+      "duration": 0.879
+    },
+    {
+      "text": ">> That's true.",
+      "start": 199.68,
+      "duration": 3.12
+    },
+    {
+      "text": ">> It's your task to ensure the waves are",
+      "start": 200.159,
+      "duration": 6.0
+    },
+    {
+      "text": "always present in every room for",
+      "start": 202.8,
+      "duration": 5.519
+    },
+    {
+      "text": ">> Oh my god, this voice is so great.",
+      "start": 206.159,
+      "duration": 2.8
+    },
+    {
+      "text": ">> There are no waves.",
+      "start": 208.319,
+      "duration": 2.881
+    },
+    {
+      "text": ">> Tell me I'm a good boy.",
+      "start": 208.959,
+      "duration": 4.56
+    },
+    {
+      "text": "I'm like a shark. I'm riding the waves.",
+      "start": 211.2,
+      "duration": 5.36
+    },
+    {
+      "text": ">> You're a good boy.",
+      "start": 213.519,
+      "duration": 5.921
+    },
+    {
+      "text": "That's all I needed.",
+      "start": 216.56,
+      "duration": 4.8
+    },
+    {
+      "text": "Thank you. Dismbembodied British robot",
+      "start": 219.44,
+      "duration": 4.719
+    },
+    {
+      "text": "voice.",
+      "start": 221.36,
+      "duration": 5.2
+    },
+    {
+      "text": ">> Oh man, I got to fix some more stuff.",
+      "start": 224.159,
+      "duration": 4.961
+    },
+    {
+      "text": "Uh, let's see this thing. What do we got",
+      "start": 226.56,
+      "duration": 6.08
+    },
+    {
+      "text": "in here? Flick. Flick.",
+      "start": 229.12,
+      "duration": 6.24
+    },
+    {
+      "text": "Uh, make sure all switches are up, then",
+      "start": 232.64,
+      "duration": 4.64
+    },
+    {
+      "text": "turn the lever.",
+      "start": 235.36,
+      "duration": 3.599
+    },
+    {
+      "text": "Turn the lever.",
+      "start": 237.28,
+      "duration": 3.12
+    },
+    {
+      "text": ">> Okay.",
+      "start": 238.959,
+      "duration": 3.441
+    },
+    {
+      "text": ">> Fix. Repair. Repeat.",
+      "start": 240.4,
+      "duration": 3.919
+    },
+    {
+      "text": ">> Oh, I thought she said thanks.",
+      "start": 242.4,
+      "duration": 3.52
+    },
+    {
+      "text": ">> That did it for me. But then when she",
+      "start": 244.319,
+      "duration": 3.761
+    },
+    {
+      "text": "said fix, I was like",
+      "start": 245.92,
+      "duration": 2.959
+    },
+    {
+      "text": ">> if something goes wrong,",
+      "start": 248.08,
+      "duration": 1.76
+    },
+    {
+      "text": ">> it reversed it.",
+      "start": 248.879,
+      "duration": 3.201
+    },
+    {
+      "text": ">> Maybe you forgot. It's your job to fix",
+      "start": 249.84,
+      "duration": 2.88
+    },
+    {
+      "text": "it.",
+      "start": 252.08,
+      "duration": 2.799
+    },
+    {
+      "text": ">> It is my job to fix it.",
+      "start": 252.72,
+      "duration": 4.479
+    },
+    {
+      "text": ">> You're a handyman, Aaron.",
+      "start": 254.879,
+      "duration": 6.721
+    },
+    {
+      "text": ">> Oh, I'm Mr. Fix It. That's me.",
+      "start": 257.199,
+      "duration": 6.481
+    },
+    {
+      "text": ">> Complete. Congratulations on passing the",
+      "start": 261.6,
+      "duration": 3.52
+    },
+    {
+      "text": "test for flying colors.",
+      "start": 263.68,
+      "duration": 3.519
+    },
+    {
+      "text": ">> Thanks. I You feel like family. I feel",
+      "start": 265.12,
+      "duration": 6.32
+    },
+    {
+      "text": "so close to you. The lift.",
+      "start": 267.199,
+      "duration": 6.801
+    },
+    {
+      "text": ">> So, how did you like our test lift, by",
+      "start": 271.44,
+      "duration": 3.6
+    },
+    {
+      "text": "the way? Oh, weird.",
+      "start": 274.0,
+      "duration": 3.12
+    },
+    {
+      "text": ">> Looks like a real one, isn't it?",
+      "start": 275.04,
+      "duration": 4.64
+    },
+    {
+      "text": ">> Damn, where was I? Oh, right. The bug.",
+      "start": 277.12,
+      "duration": 6.16
+    },
+    {
+      "text": ">> Oh, where?",
+      "start": 279.68,
+      "duration": 5.2
+    },
+    {
+      "text": ">> The Bureau Utility Gadget.",
+      "start": 283.28,
+      "duration": 4.16
+    },
+    {
+      "text": ">> You didn't give me a zapper.",
+      "start": 284.88,
+      "duration": 5.36
+    },
+    {
+      "text": "A zap racket.",
+      "start": 287.44,
+      "duration": 3.759
+    },
+    {
+      "text": ">> Bureau utility gadget.",
+      "start": 290.24,
+      "duration": 2.64
+    },
+    {
+      "text": ">> You will be induced into a long-term",
+      "start": 291.199,
+      "duration": 4.081
+    },
+    {
+      "text": "hibernation until your designated shift",
+      "start": 292.88,
+      "duration": 5.2
+    },
+    {
+      "text": "as keeper at the station.",
+      "start": 295.28,
+      "duration": 4.96
+    },
+    {
+      "text": ">> Please proceed to the hibernation room",
+      "start": 298.08,
+      "duration": 4.559
+    },
+    {
+      "text": "and follow the instructions. Oh,",
+      "start": 300.24,
+      "duration": 3.92
+    },
+    {
+      "text": "hibernation room",
+      "start": 302.639,
+      "duration": 4.161
+    },
+    {
+      "text": ">> in my bug. How am I going to see inside",
+      "start": 304.16,
+      "duration": 3.28
+    },
+    {
+      "text": "of it?",
+      "start": 306.8,
+      "duration": 3.04
+    },
+    {
+      "text": ">> That must be perfect illness. Should",
+      "start": 307.44,
+      "duration": 4.88
+    },
+    {
+      "text": "have skipped a late night with cryo",
+      "start": 309.84,
+      "duration": 3.6
+    },
+    {
+      "text": "physiologists.",
+      "start": 312.32,
+      "duration": 2.08
+    },
+    {
+      "text": ">> All right.",
+      "start": 313.44,
+      "duration": 1.599
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 314.4,
+      "duration": 3.44
+    },
+    {
+      "text": ">> Anyway, you're still talking. Okay.",
+      "start": 315.039,
+      "duration": 3.681
+    },
+    {
+      "text": ">> Sorry, I was going to sleep.",
+      "start": 317.84,
+      "duration": 2.639
+    },
+    {
+      "text": ">> Sorry, you lost me a cryophysiologist,",
+      "start": 318.72,
+      "duration": 4.56
+    },
+    {
+      "text": "but I'm back.",
+      "start": 320.479,
+      "duration": 5.801
+    },
+    {
+      "text": ">> Hi,",
+      "start": 323.28,
+      "duration": 3.0
+    },
+    {
+      "text": "I'm Sphiny",
+      "start": 326.32,
+      "duration": 3.4
+    },
+    {
+      "text": "the talking butthole.",
+      "start": 330.16,
+      "duration": 6.0
+    },
+    {
+      "text": "Uh oh.",
+      "start": 333.28,
+      "duration": 4.639
+    },
+    {
+      "text": ">> Is this wise to be sitting in here?",
+      "start": 336.16,
+      "duration": 3.28
+    },
+    {
+      "text": ">> Yeah, that's what my job is.",
+      "start": 337.919,
+      "duration": 1.921
+    },
+    {
+      "text": ">> Okay.",
+      "start": 339.44,
+      "duration": 3.88
+    },
+    {
+      "text": ">> I should be hibernating.",
+      "start": 339.84,
+      "duration": 3.48
+    },
+    {
+      "text": ">> Everything's a dystopia. Dan,",
+      "start": 343.52,
+      "duration": 4.16
+    },
+    {
+      "text": ">> I don't know. This place looks kind of",
+      "start": 346.4,
+      "duration": 1.68
+    },
+    {
+      "text": "nice.",
+      "start": 347.68,
+      "duration": 3.4
+    },
+    {
+      "text": ">> Sleepy.",
+      "start": 348.08,
+      "duration": 3.0
+    },
+    {
+      "text": ">> Oh, that's a man leaning out and being",
+      "start": 351.759,
+      "duration": 4.561
+    },
+    {
+      "text": "like, \"Hey, I see it now.\"",
+      "start": 353.28,
+      "duration": 3.759
+    },
+    {
+      "text": ">> Is it",
+      "start": 356.32,
+      "duration": 4.76
+    },
+    {
+      "text": ">> next to the exclamation point?",
+      "start": 357.039,
+      "duration": 4.041
+    },
+    {
+      "text": "Uh, is are you sure?",
+      "start": 361.44,
+      "duration": 2.64
+    },
+    {
+      "text": ">> I don't know. That's what I That's what",
+      "start": 362.72,
+      "duration": 3.12
+    },
+    {
+      "text": "it looks like. Little stick man going",
+      "start": 364.08,
+      "duration": 5.87
+    },
+    {
+      "text": "like, \"How you doing?\"",
+      "start": 365.84,
+      "duration": 5.199
+    },
+    {
+      "text": "[Music]",
+      "start": 369.95,
+      "duration": 2.77
+    },
+    {
+      "text": ">> That's some hot rotary phone action up",
+      "start": 371.039,
+      "duration": 2.241
+    },
+    {
+      "text": "there.",
+      "start": 372.72,
+      "duration": 2.16
+    },
+    {
+      "text": ">> Yeah. Uh-oh.",
+      "start": 373.28,
+      "duration": 4.56
+    },
+    {
+      "text": ">> It is 6 years later.",
+      "start": 374.88,
+      "duration": 6.24
+    },
+    {
+      "text": ">> Mankind has fallen to the salt bombs.",
+      "start": 377.84,
+      "duration": 5.12
+    },
+    {
+      "text": ">> The salt bombs.",
+      "start": 381.12,
+      "duration": 5.68
+    },
+    {
+      "text": ">> What? Take a large lamp tube. Okay, I've",
+      "start": 382.96,
+      "duration": 6.72
+    },
+    {
+      "text": "taken it. I'm inspecting it. I'm not",
+      "start": 386.8,
+      "duration": 4.88
+    },
+    {
+      "text": "inspecting it anymore. I'm inspecting",
+      "start": 389.68,
+      "duration": 5.44
+    },
+    {
+      "text": "it. I'm not inspecting it anymore. I'm",
+      "start": 391.68,
+      "duration": 4.0
+    },
+    {
+      "text": "changing.",
+      "start": 395.12,
+      "duration": 2.16
+    },
+    {
+      "text": ">> Fix what couldn't.",
+      "start": 395.68,
+      "duration": 4.239
+    },
+    {
+      "text": ">> Fix what couldn't. Fix what I couldn't.",
+      "start": 397.28,
+      "duration": 4.16
+    },
+    {
+      "text": ">> Fix what I couldn't. Sorry, I thought it",
+      "start": 399.919,
+      "duration": 4.081
+    },
+    {
+      "text": "was spelling couldn't with a K for for",
+      "start": 401.44,
+      "duration": 3.68
+    },
+    {
+      "text": "maximum wackiness.",
+      "start": 404.0,
+      "duration": 4.759
+    },
+    {
+      "text": ">> Fix what could",
+      "start": 405.12,
+      "duration": 3.639
+    },
+    {
+      "text": "uh wait.",
+      "start": 409.6,
+      "duration": 4.159
+    },
+    {
+      "text": "Oh, I can just like interact with",
+      "start": 412.0,
+      "duration": 2.8
+    },
+    {
+      "text": "everything, dog.",
+      "start": 413.759,
+      "duration": 2.72
+    },
+    {
+      "text": ">> That's cool. You're going to need to put",
+      "start": 414.8,
+      "duration": 3.36
+    },
+    {
+      "text": "more weights on if you need if you want",
+      "start": 416.479,
+      "duration": 4.961
+    },
+    {
+      "text": "it to go back upright.",
+      "start": 418.16,
+      "duration": 5.84
+    },
+    {
+      "text": ">> Maybe I'll just sit on it. Dude,",
+      "start": 421.44,
+      "duration": 4.4
+    },
+    {
+      "text": "remember when that was an insult?",
+      "start": 424.0,
+      "duration": 2.8
+    },
+    {
+      "text": ">> What? Sit on it?",
+      "start": 425.84,
+      "duration": 1.28
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 426.8,
+      "duration": 1.44
+    },
+    {
+      "text": ">> Sit and spin.",
+      "start": 427.12,
+      "duration": 5.12
+    },
+    {
+      "text": ">> Oh, sit on it. Like like the fs. Sit on",
+      "start": 428.24,
+      "duration": 4.959
+    },
+    {
+      "text": "it.",
+      "start": 432.24,
+      "duration": 3.04
+    },
+    {
+      "text": ">> What was he referring to?",
+      "start": 433.199,
+      "duration": 4.481
+    },
+    {
+      "text": ">> Your butt.",
+      "start": 435.28,
+      "duration": 5.039
+    },
+    {
+      "text": ">> Oh, okay.",
+      "start": 437.68,
+      "duration": 4.16
+    },
+    {
+      "text": ">> Oh, hey. What's up?",
+      "start": 440.319,
+      "duration": 3.121
+    },
+    {
+      "text": ">> I thought it was a lot more graphic than",
+      "start": 441.84,
+      "duration": 3.12
+    },
+    {
+      "text": "that.",
+      "start": 443.44,
+      "duration": 6.0
+    },
+    {
+      "text": "Oh, have you ever seen The Happy Days?",
+      "start": 444.96,
+      "duration": 6.56
+    },
+    {
+      "text": ">> First of all, I haven't had anyone say",
+      "start": 449.44,
+      "duration": 4.64
+    },
+    {
+      "text": "that sentence to me in the last 30",
+      "start": 451.52,
+      "duration": 7.04
+    },
+    {
+      "text": "years, and certainly not in that tone.",
+      "start": 454.08,
+      "duration": 6.16
+    },
+    {
+      "text": ">> You've never seen Happy Days?",
+      "start": 458.56,
+      "duration": 3.68
+    },
+    {
+      "text": ">> How haven't you seen it?",
+      "start": 460.24,
+      "duration": 4.56
+    },
+    {
+      "text": ">> Sunday, Monday, Happy Days, Screwdriver.",
+      "start": 462.24,
+      "duration": 6.64
+    },
+    {
+      "text": "Dude, I don't want this freaking thing.",
+      "start": 464.8,
+      "duration": 7.28
+    },
+    {
+      "text": "Hide item. Okay, great.",
+      "start": 468.88,
+      "duration": 6.08
+    },
+    {
+      "text": "If you spot the decay, call keeper right",
+      "start": 472.08,
+      "duration": 4.399
+    },
+    {
+      "text": "away.",
+      "start": 474.96,
+      "duration": 3.12
+    },
+    {
+      "text": "Okay. I don't know if there's anyone",
+      "start": 476.479,
+      "duration": 3.361
+    },
+    {
+      "text": "left.",
+      "start": 478.08,
+      "duration": 4.399
+    },
+    {
+      "text": "Oh, lights,",
+      "start": 479.84,
+      "duration": 6.32
+    },
+    {
+      "text": "systems. I need screwdriver.",
+      "start": 482.479,
+      "duration": 6.0
+    },
+    {
+      "text": "Oh, this is where the guy was.",
+      "start": 486.16,
+      "duration": 4.159
+    },
+    {
+      "text": ">> This But this is the same office.",
+      "start": 488.479,
+      "duration": 3.84
+    },
+    {
+      "text": ">> Yeah. Yeah. What do you think? I",
+      "start": 490.319,
+      "duration": 2.88
+    },
+    {
+      "text": "traveled.",
+      "start": 492.319,
+      "duration": 1.761
+    },
+    {
+      "text": ">> I don't know, man. It's",
+      "start": 493.199,
+      "duration": 3.44
+    },
+    {
+      "text": ">> in a hibernation chamber.",
+      "start": 494.08,
+      "duration": 5.92
+    },
+    {
+      "text": ">> It's just like how much time has passed?",
+      "start": 496.639,
+      "duration": 5.12
+    },
+    {
+      "text": ">> I don't know.",
+      "start": 500.0,
+      "duration": 3.84
+    },
+    {
+      "text": "find a way out.",
+      "start": 501.759,
+      "duration": 4.081
+    },
+    {
+      "text": "I obviously a lot of time.",
+      "start": 503.84,
+      "duration": 3.52
+    },
+    {
+      "text": ">> Were you Were you supposed to read the",
+      "start": 505.84,
+      "duration": 3.359
+    },
+    {
+      "text": "paper that was on that desk?",
+      "start": 507.36,
+      "duration": 3.279
+    },
+    {
+      "text": ">> What paper?",
+      "start": 509.199,
+      "duration": 3.601
+    },
+    {
+      "text": ">> The the big paper on the desk. No, the",
+      "start": 510.639,
+      "duration": 3.2
+    },
+    {
+      "text": "one on the desk.",
+      "start": 512.8,
+      "duration": 1.679
+    },
+    {
+      "text": ">> This paper?",
+      "start": 513.839,
+      "duration": 1.921
+    },
+    {
+      "text": ">> That one.",
+      "start": 514.479,
+      "duration": 3.04
+    },
+    {
+      "text": ">> If anyone finds this, I acted strictly",
+      "start": 515.76,
+      "duration": 3.199
+    },
+    {
+      "text": "according to protocol until the very",
+      "start": 517.519,
+      "duration": 3.841
+    },
+    {
+      "text": "end. There were, trust me, there were",
+      "start": 518.959,
+      "duration": 4.96
+    },
+    {
+      "text": "two impacts of unclear origin. Emergency",
+      "start": 521.36,
+      "duration": 4.08
+    },
+    {
+      "text": "alarms were triggered. Personnel",
+      "start": 523.919,
+      "duration": 3.36
+    },
+    {
+      "text": "evacuation was carried out. But there is",
+      "start": 525.44,
+      "duration": 5.6
+    },
+    {
+      "text": "a problem. As you can see, according to",
+      "start": 527.279,
+      "duration": 6.721
+    },
+    {
+      "text": "section 512 of the protocol, I am not",
+      "start": 531.04,
+      "duration": 4.16
+    },
+    {
+      "text": "authorized to interact with the",
+      "start": 534.0,
+      "duration": 3.04
+    },
+    {
+      "text": "hibernation capsules or interrupt stasis",
+      "start": 535.2,
+      "duration": 3.44
+    },
+    {
+      "text": "without a medical officer present.",
+      "start": 537.04,
+      "duration": 4.16
+    },
+    {
+      "text": "According to section 261, I cannot seal",
+      "start": 538.64,
+      "duration": 4.24
+    },
+    {
+      "text": "the facility if living individuals",
+      "start": 541.2,
+      "duration": 4.079
+    },
+    {
+      "text": "remain inside. I am temporarily leaving",
+      "start": 542.88,
+      "duration": 3.92
+    },
+    {
+      "text": "my post to locate the onduty",
+      "start": 545.279,
+      "duration": 3.441
+    },
+    {
+      "text": "cryoysiologist. If that's still",
+      "start": 546.8,
+      "duration": 6.64
+    },
+    {
+      "text": "possible, of course. Okay,",
+      "start": 548.72,
+      "duration": 6.4
+    },
+    {
+      "text": "dude. How am I supposed to stay calm",
+      "start": 553.44,
+      "duration": 3.76
+    },
+    {
+      "text": "with all this hot cryophysiologist talk",
+      "start": 555.12,
+      "duration": 4.399
+    },
+    {
+      "text": "going on?",
+      "start": 557.2,
+      "duration": 3.6
+    },
+    {
+      "text": "I'm losing my mind over here.",
+      "start": 559.519,
+      "duration": 2.961
+    },
+    {
+      "text": ">> I have to use the bathroom real quick.",
+      "start": 560.8,
+      "duration": 2.64
+    },
+    {
+      "text": ">> I'll be back.",
+      "start": 562.48,
+      "duration": 2.96
+    },
+    {
+      "text": ">> Oh, here's a screw. But where's the",
+      "start": 563.44,
+      "duration": 5.28
+    },
+    {
+      "text": "driver? Excellent.",
+      "start": 565.44,
+      "duration": 7.079
+    },
+    {
+      "text": ">> Oh, there it is.",
+      "start": 568.72,
+      "duration": 3.799
+    },
+    {
+      "text": "Oh, note. You must always keep a spare",
+      "start": 572.64,
+      "duration": 5.199
+    },
+    {
+      "text": "key for the engine that you destroy.",
+      "start": 575.92,
+      "duration": 2.72
+    },
+    {
+      "text": ">> Spare gear.",
+      "start": 577.839,
+      "duration": 3.281
+    },
+    {
+      "text": ">> Spare gear for the engine.",
+      "start": 578.64,
+      "duration": 4.24
+    },
+    {
+      "text": "I don't know.",
+      "start": 581.12,
+      "duration": 3.6
+    },
+    {
+      "text": ">> This bloody thing breaks every other",
+      "start": 582.88,
+      "duration": 6.32
+    },
+    {
+      "text": "cycle of air knows. I'm sick of it. Air.",
+      "start": 584.72,
+      "duration": 5.52
+    },
+    {
+      "text": "Is that a guy?",
+      "start": 589.2,
+      "duration": 3.04
+    },
+    {
+      "text": ">> I believe that's a nature goddess.",
+      "start": 590.24,
+      "duration": 3.2
+    },
+    {
+      "text": ">> Oh, beautiful.",
+      "start": 592.24,
+      "duration": 2.4
+    },
+    {
+      "text": ">> I don't think that's correct.",
+      "start": 593.44,
+      "duration": 2.8
+    },
+    {
+      "text": ">> I'll have to ask the mechanic to take a",
+      "start": 594.64,
+      "duration": 3.12
+    },
+    {
+      "text": "look at it when he comes back from his",
+      "start": 596.24,
+      "duration": 2.4
+    },
+    {
+      "text": "vacation.",
+      "start": 597.76,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Why am I asking a mechanic when there's",
+      "start": 598.64,
+      "duration": 3.68
+    },
+    {
+      "text": "so many perfectly good physio",
+      "start": 600.64,
+      "duration": 4.68
+    },
+    {
+      "text": "cryological",
+      "start": 602.32,
+      "duration": 3.0
+    },
+    {
+      "text": ">> uh screwdriver is one one.",
+      "start": 606.56,
+      "duration": 6.719
+    },
+    {
+      "text": "Check this shit out.",
+      "start": 611.04,
+      "duration": 4.479
+    },
+    {
+      "text": "Boom.",
+      "start": 613.279,
+      "duration": 3.201
+    },
+    {
+      "text": "D.",
+      "start": 615.519,
+      "duration": 3.121
+    },
+    {
+      "text": ">> That's inspiring stuff.",
+      "start": 616.48,
+      "duration": 5.76
+    },
+    {
+      "text": ">> Oh yeah. Here we go. I'm grabbing pipes",
+      "start": 618.64,
+      "duration": 5.12
+    },
+    {
+      "text": "up the wazoo.",
+      "start": 622.24,
+      "duration": 2.8
+    },
+    {
+      "text": ">> Maybe you're supposed to connect the",
+      "start": 623.76,
+      "duration": 2.96
+    },
+    {
+      "text": "circuit instead of keeping everything",
+      "start": 625.04,
+      "duration": 3.52
+    },
+    {
+      "text": "for yourself, Aaron.",
+      "start": 626.72,
+      "duration": 4.32
+    },
+    {
+      "text": ">> What? I didn't keep it. Well, I'm going",
+      "start": 628.56,
+      "duration": 3.2
+    },
+    {
+      "text": "to use it.",
+      "start": 631.04,
+      "duration": 1.2
+    },
+    {
+      "text": ">> Okay.",
+      "start": 631.76,
+      "duration": 1.92
+    },
+    {
+      "text": ">> Well, you think I'm not going to use it?",
+      "start": 632.24,
+      "duration": 2.24
+    },
+    {
+      "text": ">> I don't know.",
+      "start": 633.68,
+      "duration": 2.8
+    },
+    {
+      "text": ">> Damn, dude. You really don't have that",
+      "start": 634.48,
+      "duration": 2.96
+    },
+    {
+      "text": "much faith in me, do you?",
+      "start": 636.48,
+      "duration": 2.64
+    },
+    {
+      "text": ">> It was unclear.",
+      "start": 637.44,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Huh.",
+      "start": 639.12,
+      "duration": 4.05
+    },
+    {
+      "text": ">> Interesting.",
+      "start": 641.12,
+      "duration": 5.87
+    },
+    {
+      "text": "[Laughter]",
+      "start": 643.17,
+      "duration": 3.82
+    },
+    {
+      "text": "Check this ass out.",
+      "start": 649.04,
+      "duration": 2.88
+    },
+    {
+      "text": ">> What was that thing you said to me when",
+      "start": 649.92,
+      "duration": 4.72
+    },
+    {
+      "text": "I said that I like robots and you like",
+      "start": 651.92,
+      "duration": 3.919
+    },
+    {
+      "text": "you don't like it when they're tearing",
+      "start": 654.64,
+      "duration": 5.48
+    },
+    {
+      "text": "your face off and saying interesting.",
+      "start": 655.839,
+      "duration": 4.281
+    },
+    {
+      "text": "I thought about that like five or six",
+      "start": 664.0,
+      "duration": 6.92
+    },
+    {
+      "text": "times since you said it.",
+      "start": 665.92,
+      "duration": 5.0
+    },
+    {
+      "text": ">> That's pretty funny.",
+      "start": 671.44,
+      "duration": 4.24
+    },
+    {
+      "text": "Sorry to laugh at my own joke.",
+      "start": 674.32,
+      "duration": 4.72
+    },
+    {
+      "text": ">> Oh man, it was funny.",
+      "start": 675.68,
+      "duration": 5.279
+    },
+    {
+      "text": ">> Wait. Oh, can I rotate this? Oh, and I",
+      "start": 679.04,
+      "duration": 3.84
+    },
+    {
+      "text": "can move it, too. That's crazy. Look at",
+      "start": 680.959,
+      "duration": 3.921
+    },
+    {
+      "text": "that. That's nuts, dude.",
+      "start": 682.88,
+      "duration": 3.12
+    },
+    {
+      "text": ">> Well, that changes everything.",
+      "start": 684.88,
+      "duration": 4.639
+    },
+    {
+      "text": ">> It sure does. Uh oh, this is what a",
+      "start": 686.0,
+      "duration": 6.079
+    },
+    {
+      "text": "pickle. Okay, so I have to",
+      "start": 689.519,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Is it pickly?",
+      "start": 692.079,
+      "duration": 3.681
+    },
+    {
+      "text": ">> I see what I have to do. Okay, I'm going",
+      "start": 693.519,
+      "duration": 6.241
+    },
+    {
+      "text": "to take this. Um, remove take this.",
+      "start": 695.76,
+      "duration": 4.88
+    },
+    {
+      "text": ">> Yeah, there you go.",
+      "start": 699.76,
+      "duration": 2.72
+    },
+    {
+      "text": ">> Right there.",
+      "start": 700.64,
+      "duration": 5.439
+    },
+    {
+      "text": "And then this can go.",
+      "start": 702.48,
+      "duration": 9.039
+    },
+    {
+      "text": "This can go. And then bend that. Whoops.",
+      "start": 706.079,
+      "duration": 8.0
+    },
+    {
+      "text": "Go ahead and bend that. There we go. Oh,",
+      "start": 711.519,
+      "duration": 4.081
+    },
+    {
+      "text": "it's that way.",
+      "start": 714.079,
+      "duration": 3.361
+    },
+    {
+      "text": ">> Nice.",
+      "start": 715.6,
+      "duration": 3.679
+    },
+    {
+      "text": ">> All right. Whoops.",
+      "start": 717.44,
+      "duration": 2.88
+    },
+    {
+      "text": ">> I don't think that was correct.",
+      "start": 719.279,
+      "duration": 3.441
+    },
+    {
+      "text": ">> I accidentally",
+      "start": 720.32,
+      "duration": 3.519
+    },
+    {
+      "text": "There we go.",
+      "start": 722.72,
+      "duration": 2.559
+    },
+    {
+      "text": ">> Shouldn't the other green light have",
+      "start": 723.839,
+      "duration": 4.24
+    },
+    {
+      "text": "come on?",
+      "start": 725.279,
+      "duration": 4.481
+    },
+    {
+      "text": "Yeah.",
+      "start": 728.079,
+      "duration": 4.0
+    },
+    {
+      "text": "Yeah, bro. Fix the assessment lift",
+      "start": 729.76,
+      "duration": 3.84
+    },
+    {
+      "text": "panel.",
+      "start": 732.079,
+      "duration": 2.32
+    },
+    {
+      "text": "Okay.",
+      "start": 733.6,
+      "duration": 2.72
+    },
+    {
+      "text": ">> Since there are no oop there it said",
+      "start": 734.399,
+      "duration": 3.12
+    },
+    {
+      "text": "something in there that might have been",
+      "start": 736.32,
+      "duration": 1.6
+    },
+    {
+      "text": "useful.",
+      "start": 737.519,
+      "duration": 2.0
+    },
+    {
+      "text": ">> What?",
+      "start": 737.92,
+      "duration": 4.32
+    },
+    {
+      "text": ">> Since there no Oh, never mind.",
+      "start": 739.519,
+      "duration": 4.161
+    },
+    {
+      "text": ">> It's just like do it.",
+      "start": 742.24,
+      "duration": 1.839
+    },
+    {
+      "text": ">> Yeah,",
+      "start": 743.68,
+      "duration": 1.36
+    },
+    {
+      "text": ">> do it, idiot.",
+      "start": 744.079,
+      "duration": 1.76
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 745.04,
+      "duration": 2.239
+    },
+    {
+      "text": ">> Oh, it has to be right next to it, I'm",
+      "start": 745.839,
+      "duration": 1.761
+    },
+    {
+      "text": "assuming.",
+      "start": 747.279,
+      "duration": 2.961
+    },
+    {
+      "text": ">> Do it. Do it. Do it. Cryophysiologist.",
+      "start": 747.6,
+      "duration": 2.96
+    },
+    {
+      "text": "Do it.",
+      "start": 750.24,
+      "duration": 2.48
+    },
+    {
+      "text": ">> There we go. There we go.",
+      "start": 750.56,
+      "duration": 2.719
+    },
+    {
+      "text": ">> Okay.",
+      "start": 752.72,
+      "duration": 2.0
+    },
+    {
+      "text": ">> It's got to be right next to it. This",
+      "start": 753.279,
+      "duration": 2.321
+    },
+    {
+      "text": "was right next to it.",
+      "start": 754.72,
+      "duration": 2.96
+    },
+    {
+      "text": ">> Now 24.",
+      "start": 755.6,
+      "duration": 4.799
+    },
+    {
+      "text": ">> Okay. So, I did it. Did it. Was that",
+      "start": 757.68,
+      "duration": 4.24
+    },
+    {
+      "text": "what it was? Oh, no. That was something",
+      "start": 760.399,
+      "duration": 3.041
+    },
+    {
+      "text": "different.",
+      "start": 761.92,
+      "duration": 2.88
+    },
+    {
+      "text": "That was something different. It was a",
+      "start": 763.44,
+      "duration": 2.88
+    },
+    {
+      "text": "different thing. Oh, there was something",
+      "start": 764.8,
+      "duration": 3.76
+    },
+    {
+      "text": "else I could screw.",
+      "start": 766.32,
+      "duration": 4.639
+    },
+    {
+      "text": "Hold on. Hold on. Wait.",
+      "start": 768.56,
+      "duration": 4.0
+    },
+    {
+      "text": ">> I got to go back to Look, there's",
+      "start": 770.959,
+      "duration": 4.161
+    },
+    {
+      "text": "something else I could screw.",
+      "start": 772.56,
+      "duration": 4.32
+    },
+    {
+      "text": ">> Love that for you.",
+      "start": 775.12,
+      "duration": 4.78
+    },
+    {
+      "text": ">> Thank you.",
+      "start": 776.88,
+      "duration": 6.399
+    },
+    {
+      "text": "[Laughter]",
+      "start": 779.9,
+      "duration": 6.9
+    },
+    {
+      "text": "Need motor gear. Oh, man. Oh, there's",
+      "start": 783.279,
+      "duration": 6.521
+    },
+    {
+      "text": "one.",
+      "start": 786.8,
+      "duration": 3.0
+    },
+    {
+      "text": "Need motor gear. A",
+      "start": 790.079,
+      "duration": 6.081
+    },
+    {
+      "text": ">> All right. I guess I got to find another",
+      "start": 794.16,
+      "duration": 3.119
+    },
+    {
+      "text": "motor gear.",
+      "start": 796.16,
+      "duration": 2.4
+    },
+    {
+      "text": ">> There's got to be one lying around here",
+      "start": 797.279,
+      "duration": 2.321
+    },
+    {
+      "text": "somewhere.",
+      "start": 798.56,
+      "duration": 3.36
+    },
+    {
+      "text": ">> There's got to be one, right? That's how",
+      "start": 799.6,
+      "duration": 4.479
+    },
+    {
+      "text": "it feels at least. I mean, this is a",
+      "start": 801.92,
+      "duration": 3.2
+    },
+    {
+      "text": "video game. They're not going to just be",
+      "start": 804.079,
+      "duration": 3.041
+    },
+    {
+      "text": "like, \"No, there's not one.\" It reminds",
+      "start": 805.12,
+      "duration": 5.36
+    },
+    {
+      "text": "me so much of that scene in Halfbaked",
+      "start": 807.12,
+      "duration": 7.279
+    },
+    {
+      "text": "uh where he's looking for the weed um or",
+      "start": 810.48,
+      "duration": 5.2
+    },
+    {
+      "text": "he's trying to get the weed out of the",
+      "start": 814.399,
+      "duration": 5.201
+    },
+    {
+      "text": "science lab and uh and his friend is",
+      "start": 815.68,
+      "duration": 7.2
+    },
+    {
+      "text": "like just fill out the forms. I mean,",
+      "start": 819.6,
+      "duration": 4.88
+    },
+    {
+      "text": "they're scientists. There's got to be",
+      "start": 822.88,
+      "duration": 3.28
+    },
+    {
+      "text": "forms lying around, right? And he's",
+      "start": 824.48,
+      "duration": 3.039
+    },
+    {
+      "text": "like, \"What the fuck are you guys",
+      "start": 826.16,
+      "duration": 4.6
+    },
+    {
+      "text": "talking about?\"",
+      "start": 827.519,
+      "duration": 3.241
+    },
+    {
+      "text": ">> Lead keeper personal file.",
+      "start": 831.76,
+      "duration": 3.44
+    },
+    {
+      "text": ">> Personnel file.",
+      "start": 834.079,
+      "duration": 3.841
+    },
+    {
+      "text": ">> Okay. Order considering acceptance of",
+      "start": 835.2,
+      "duration": 5.6
+    },
+    {
+      "text": "candidate 1965 for employment.",
+      "start": 837.92,
+      "duration": 4.56
+    },
+    {
+      "text": "Classified documents withdrawn from",
+      "start": 840.8,
+      "duration": 3.76
+    },
+    {
+      "text": "public access. I don't know if that's",
+      "start": 842.48,
+      "duration": 3.44
+    },
+    {
+      "text": "important. Whoa. Who's going to",
+      "start": 844.56,
+      "duration": 2.8
+    },
+    {
+      "text": "guarantee the intern can handle the",
+      "start": 845.92,
+      "duration": 3.039
+    },
+    {
+      "text": "situation?",
+      "start": 847.36,
+      "duration": 4.599
+    },
+    {
+      "text": "Repairs.",
+      "start": 848.959,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh, missing documents, dude.",
+      "start": 852.16,
+      "duration": 4.799
+    },
+    {
+      "text": ">> Oh, where the were some pages ripped",
+      "start": 854.72,
+      "duration": 3.359
+    },
+    {
+      "text": "out?",
+      "start": 856.959,
+      "duration": 4.12
+    },
+    {
+      "text": ">> Sure.",
+      "start": 858.079,
+      "duration": 3.0
+    },
+    {
+      "text": "Sure.",
+      "start": 861.279,
+      "duration": 3.281
+    },
+    {
+      "text": ">> If anyone finds this, I did my job super",
+      "start": 862.16,
+      "duration": 3.679
+    },
+    {
+      "text": "good.",
+      "start": 864.56,
+      "duration": 3.519
+    },
+    {
+      "text": "when like right until the end.",
+      "start": 865.839,
+      "duration": 3.761
+    },
+    {
+      "text": ">> I was the best. I was the best. I was",
+      "start": 868.079,
+      "duration": 3.841
+    },
+    {
+      "text": "the best guy.",
+      "start": 869.6,
+      "duration": 4.08
+    },
+    {
+      "text": "Uh, all right. Let's get the f out of",
+      "start": 871.92,
+      "duration": 2.159
+    },
+    {
+      "text": "here.",
+      "start": 873.68,
+      "duration": 2.719
+    },
+    {
+      "text": ">> Fix what I couldn't.",
+      "start": 874.079,
+      "duration": 4.161
+    },
+    {
+      "text": "Well, maybe if he spent less time",
+      "start": 876.399,
+      "duration": 3.841
+    },
+    {
+      "text": "writing intricate notes on the wall in",
+      "start": 878.24,
+      "duration": 4.32
+    },
+    {
+      "text": "electrical tape and more time fixing",
+      "start": 880.24,
+      "duration": 3.2
+    },
+    {
+      "text": "shit.",
+      "start": 882.56,
+      "duration": 3.12
+    },
+    {
+      "text": ">> This guy.",
+      "start": 883.44,
+      "duration": 5.6
+    },
+    {
+      "text": "Did I skip something from this de?",
+      "start": 885.68,
+      "duration": 4.399
+    },
+    {
+      "text": ">> Screw the drawer.",
+      "start": 889.04,
+      "duration": 4.479
+    },
+    {
+      "text": ">> It's freaking jammed, bro. Oh,",
+      "start": 890.079,
+      "duration": 6.88
+    },
+    {
+      "text": ">> I'm going to take that mother effer.",
+      "start": 893.519,
+      "duration": 6.241
+    },
+    {
+      "text": "Yeah, boy. I'm fixing shit.",
+      "start": 896.959,
+      "duration": 5.841
+    },
+    {
+      "text": ">> Outstanding. Now you can open it.",
+      "start": 899.76,
+      "duration": 3.519
+    },
+    {
+      "text": ">> Oh,",
+      "start": 902.8,
+      "duration": 3.479
+    },
+    {
+      "text": ">> boom.",
+      "start": 903.279,
+      "duration": 3.0
+    },
+    {
+      "text": ">> What' I tell you? Motor gear is just",
+      "start": 906.56,
+      "duration": 2.959
+    },
+    {
+      "text": "lying around.",
+      "start": 908.72,
+      "duration": 4.88
+    },
+    {
+      "text": ">> I'm smart as willy- dilly.",
+      "start": 909.519,
+      "duration": 5.68
+    },
+    {
+      "text": ">> Boy, that feels good. That's very",
+      "start": 913.6,
+      "duration": 2.96
+    },
+    {
+      "text": "satisfying.",
+      "start": 915.199,
+      "duration": 2.561
+    },
+    {
+      "text": ">> Start going.",
+      "start": 916.56,
+      "duration": 1.6
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 917.76,
+      "duration": 1.199
+    },
+    {
+      "text": ">> Uh uh.",
+      "start": 918.16,
+      "duration": 1.6
+    },
+    {
+      "text": ">> Poke it with a stick.",
+      "start": 918.959,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Uh beep. Uh, beep. Start calling.",
+      "start": 919.76,
+      "duration": 4.319
+    },
+    {
+      "text": ">> Do something.",
+      "start": 922.959,
+      "duration": 3.761
+    },
+    {
+      "text": ">> Um,",
+      "start": 924.079,
+      "duration": 5.2
+    },
+    {
+      "text": "what is this? I wonder.",
+      "start": 926.72,
+      "duration": 3.2
+    },
+    {
+      "text": ">> I don't know.",
+      "start": 929.279,
+      "duration": 3.441
+    },
+    {
+      "text": ">> I wonder with my little brain. I wonder",
+      "start": 929.92,
+      "duration": 4.96
+    },
+    {
+      "text": "wonder.",
+      "start": 932.72,
+      "duration": 3.84
+    },
+    {
+      "text": "Uh, is there like a like activate",
+      "start": 934.88,
+      "duration": 3.84
+    },
+    {
+      "text": "button?",
+      "start": 936.56,
+      "duration": 5.279
+    },
+    {
+      "text": "Turn this S on. Maybe. Where's the turn",
+      "start": 938.72,
+      "duration": 5.52
+    },
+    {
+      "text": "this S on button?",
+      "start": 941.839,
+      "duration": 3.761
+    },
+    {
+      "text": ">> It's got to be around here somewhere.",
+      "start": 944.24,
+      "duration": 2.719
+    },
+    {
+      "text": ">> Oh, I probably have to close it.",
+      "start": 945.6,
+      "duration": 2.72
+    },
+    {
+      "text": ">> Oh, yeah. Absolutely.",
+      "start": 946.959,
+      "duration": 3.281
+    },
+    {
+      "text": ">> There we go. And then lock lock that S",
+      "start": 948.32,
+      "duration": 4.879
+    },
+    {
+      "text": "up.",
+      "start": 950.24,
+      "duration": 6.08
+    },
+    {
+      "text": "All right, it's secured. Now, let's",
+      "start": 953.199,
+      "duration": 7.041
+    },
+    {
+      "text": "press the button. The go button.",
+      "start": 956.32,
+      "duration": 5.199
+    },
+    {
+      "text": "I probably just have to walk into the",
+      "start": 960.24,
+      "duration": 3.92
+    },
+    {
+      "text": "lift.",
+      "start": 961.519,
+      "duration": 3.841
+    },
+    {
+      "text": "Okay, I'm in here.",
+      "start": 964.16,
+      "duration": 3.84
+    },
+    {
+      "text": ">> Mhm.",
+      "start": 965.36,
+      "duration": 3.599
+    },
+    {
+      "text": "What's up?",
+      "start": 968.0,
+      "duration": 2.16
+    },
+    {
+      "text": ">> Blocked.",
+      "start": 968.959,
+      "duration": 6.24
+    },
+    {
+      "text": ">> Blocked by what? Cool guy.",
+      "start": 970.16,
+      "duration": 7.919
+    },
+    {
+      "text": ">> Guess I should move out of the way.",
+      "start": 975.199,
+      "duration": 5.681
+    },
+    {
+      "text": "Oh, wouldn't it be funny if it's like",
+      "start": 978.079,
+      "duration": 4.32
+    },
+    {
+      "text": "cock blocks if there were like a bunch",
+      "start": 980.88,
+      "duration": 2.959
+    },
+    {
+      "text": "of roosters at the way? You got to like",
+      "start": 982.399,
+      "duration": 3.761
+    },
+    {
+      "text": "nudge them out and they're like pock",
+      "start": 983.839,
+      "duration": 5.841
+    },
+    {
+      "text": "roosters don't go pock. They go",
+      "start": 986.16,
+      "duration": 6.88
+    },
+    {
+      "text": "that they do, Aaron.",
+      "start": 989.68,
+      "duration": 4.64
+    },
+    {
+      "text": "Oh, I thought you were going to go that",
+      "start": 993.04,
+      "duration": 3.76
+    },
+    {
+      "text": "they do. You know",
+      "start": 994.32,
+      "duration": 5.84
+    },
+    {
+      "text": "that'll do, farm hand.",
+      "start": 996.8,
+      "duration": 6.08
+    },
+    {
+      "text": "All right. Well, I did it. I fixed it.",
+      "start": 1000.16,
+      "duration": 4.0
+    },
+    {
+      "text": "Oh, there's probably a door over here",
+      "start": 1002.88,
+      "duration": 3.199
+    },
+    {
+      "text": "now.",
+      "start": 1004.16,
+      "duration": 4.4
+    },
+    {
+      "text": "Door open. Button press control panel.",
+      "start": 1006.079,
+      "duration": 6.32
+    },
+    {
+      "text": ">> Oh, that sounds promising.",
+      "start": 1008.56,
+      "duration": 4.959
+    },
+    {
+      "text": ">> That's not doing much, is it?",
+      "start": 1012.399,
+      "duration": 4.24
+    },
+    {
+      "text": ">> Use the screwdriver.",
+      "start": 1013.519,
+      "duration": 5.601
+    },
+    {
+      "text": ">> Use the screwdriver.",
+      "start": 1016.639,
+      "duration": 4.32
+    },
+    {
+      "text": "But put a click on the 26.",
+      "start": 1019.12,
+      "duration": 4.32
+    },
+    {
+      "text": ">> I'm Christopher Walking. I I I Moonlight",
+      "start": 1020.959,
+      "duration": 4.48
+    },
+    {
+      "text": "as a mechanic.",
+      "start": 1023.44,
+      "duration": 3.759
+    },
+    {
+      "text": ">> Why is this busted? Why is this busted",
+      "start": 1025.439,
+      "duration": 4.0
+    },
+    {
+      "text": "up? Why can't I open this S? Is it",
+      "start": 1027.199,
+      "duration": 3.36
+    },
+    {
+      "text": "because it's locked?",
+      "start": 1029.439,
+      "duration": 3.441
+    },
+    {
+      "text": ">> Maybe pull it over. It's got a 24 in it",
+      "start": 1030.559,
+      "duration": 4.64
+    },
+    {
+      "text": "like the uh the other one. Ah, I see it",
+      "start": 1032.88,
+      "duration": 3.52
+    },
+    {
+      "text": "was locked.",
+      "start": 1035.199,
+      "duration": 3.441
+    },
+    {
+      "text": ">> Power unit here. Yeah, I know.",
+      "start": 1036.4,
+      "duration": 2.639
+    },
+    {
+      "text": ">> Yeah,",
+      "start": 1038.64,
+      "duration": 3.679
+    },
+    {
+      "text": ">> I already figured that one out.",
+      "start": 1039.039,
+      "duration": 6.28
+    },
+    {
+      "text": "All right.",
+      "start": 1042.319,
+      "duration": 3.0
+    },
+    {
+      "text": ">> H Yeah, dude. I'm a freaking master of",
+      "start": 1045.439,
+      "duration": 6.081
+    },
+    {
+      "text": "disaster over here. Close that back up",
+      "start": 1048.48,
+      "duration": 5.12
+    },
+    {
+      "text": "nice and clean.",
+      "start": 1051.52,
+      "duration": 4.48
+    },
+    {
+      "text": "Thank you for saying ha and not heck. I",
+      "start": 1053.6,
+      "duration": 4.64
+    },
+    {
+      "text": "like I'm very easily offended.",
+      "start": 1056.0,
+      "duration": 3.76
+    },
+    {
+      "text": ">> I don't know if my brain can handle",
+      "start": 1058.24,
+      "duration": 4.4
+    },
+    {
+      "text": "that. Uh,",
+      "start": 1059.76,
+      "duration": 4.32
+    },
+    {
+      "text": "I don't know if I want to press any of",
+      "start": 1062.64,
+      "duration": 4.32
+    },
+    {
+      "text": "those. All right. No subject detected",
+      "start": 1064.08,
+      "duration": 4.32
+    },
+    {
+      "text": "because I'm not in there. You know what",
+      "start": 1066.96,
+      "duration": 3.839
+    },
+    {
+      "text": "I'm saying?",
+      "start": 1068.4,
+      "duration": 5.279
+    },
+    {
+      "text": "Move.",
+      "start": 1070.799,
+      "duration": 4.161
+    },
+    {
+      "text": ">> Shake.",
+      "start": 1073.679,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Did Is it Was it doing it?",
+      "start": 1074.96,
+      "duration": 3.36
+    },
+    {
+      "text": ">> I don't know. But you've got a panel",
+      "start": 1076.559,
+      "duration": 4.401
+    },
+    {
+      "text": "where you can be a moving and a shaking.",
+      "start": 1078.32,
+      "duration": 5.64
+    },
+    {
+      "text": ">> Shake.",
+      "start": 1080.96,
+      "duration": 3.0
+    },
+    {
+      "text": "Now that's funny.",
+      "start": 1086.48,
+      "duration": 6.48
+    },
+    {
+      "text": "Doors. Is this door open?",
+      "start": 1089.2,
+      "duration": 6.32
+    },
+    {
+      "text": "There we go. Aha.",
+      "start": 1092.96,
+      "duration": 7.2
+    },
+    {
+      "text": "Go inside here. Oh, I can come back out.",
+      "start": 1095.52,
+      "duration": 7.68
+    },
+    {
+      "text": "Hey, it's shaking.",
+      "start": 1100.16,
+      "duration": 5.519
+    },
+    {
+      "text": "Should I Oh, I can go here now. Yeah,",
+      "start": 1103.2,
+      "duration": 5.68
+    },
+    {
+      "text": "boy. This is the S, dude. This is the",
+      "start": 1105.679,
+      "duration": 4.88
+    },
+    {
+      "text": "absolute S.",
+      "start": 1108.88,
+      "duration": 3.76
+    },
+    {
+      "text": ">> Follow the evacuation route.",
+      "start": 1110.559,
+      "duration": 3.921
+    },
+    {
+      "text": ">> Place to stabilize objects in the",
+      "start": 1112.64,
+      "duration": 3.279
+    },
+    {
+      "text": "container and press the button. Then",
+      "start": 1114.48,
+      "duration": 4.64
+    },
+    {
+      "text": "take your completed components.",
+      "start": 1115.919,
+      "duration": 5.12
+    },
+    {
+      "text": "Okay.",
+      "start": 1119.12,
+      "duration": 3.76
+    },
+    {
+      "text": "Oh man, it's freaking blocked. Why does",
+      "start": 1121.039,
+      "duration": 3.52
+    },
+    {
+      "text": "everything got to be I need a vagabond",
+      "start": 1122.88,
+      "duration": 3.84
+    },
+    {
+      "text": "lock pick?",
+      "start": 1124.559,
+      "duration": 4.081
+    },
+    {
+      "text": "What the hell do I look like? Some kind",
+      "start": 1126.72,
+      "duration": 4.88
+    },
+    {
+      "text": "of guy who has that.",
+      "start": 1128.64,
+      "duration": 5.6
+    },
+    {
+      "text": ">> Take a look at the disassembly thing one",
+      "start": 1131.6,
+      "duration": 3.68
+    },
+    {
+      "text": "more time.",
+      "start": 1134.24,
+      "duration": 2.24
+    },
+    {
+      "text": ">> Did it have the instructions?",
+      "start": 1135.28,
+      "duration": 1.68
+    },
+    {
+      "text": ">> This",
+      "start": 1136.48,
+      "duration": 1.12
+    },
+    {
+      "text": ">> was that",
+      "start": 1136.96,
+      "duration": 1.36
+    },
+    {
+      "text": ">> that's it.",
+      "start": 1137.6,
+      "duration": 1.36
+    },
+    {
+      "text": ">> Oh,",
+      "start": 1138.32,
+      "duration": 3.28
+    },
+    {
+      "text": ">> that's it, man. I'm just exploring at",
+      "start": 1138.96,
+      "duration": 3.599
+    },
+    {
+      "text": "this point, man. I'm just looking",
+      "start": 1141.6,
+      "duration": 2.24
+    },
+    {
+      "text": "around.",
+      "start": 1142.559,
+      "duration": 3.441
+    },
+    {
+      "text": ">> Disassemble.",
+      "start": 1143.84,
+      "duration": 5.04
+    },
+    {
+      "text": ">> Can I open that? No. Oh, can I hold",
+      "start": 1146.0,
+      "duration": 4.64
+    },
+    {
+      "text": "please?",
+      "start": 1148.88,
+      "duration": 5.56
+    },
+    {
+      "text": "I can't slippy slidey.",
+      "start": 1150.64,
+      "duration": 3.8
+    },
+    {
+      "text": "Oh, the synthesizer.",
+      "start": 1154.72,
+      "duration": 5.04
+    },
+    {
+      "text": "Good job. Fuck yeah. I'm getting tokens",
+      "start": 1157.52,
+      "duration": 4.48
+    },
+    {
+      "text": "of the wazoo.",
+      "start": 1159.76,
+      "duration": 3.76
+    },
+    {
+      "text": "So, I keep seeing these signs about the",
+      "start": 1162.0,
+      "duration": 3.919
+    },
+    {
+      "text": "decay and I feel like uh something might",
+      "start": 1163.52,
+      "duration": 5.64
+    },
+    {
+      "text": "be wrong.",
+      "start": 1165.919,
+      "duration": 3.241
+    },
+    {
+      "text": "Okay, so I've got a block here.",
+      "start": 1169.44,
+      "duration": 4.08
+    },
+    {
+      "text": ">> I'm unclear.",
+      "start": 1171.039,
+      "duration": 3.361
+    },
+    {
+      "text": ">> Unclear what",
+      "start": 1173.52,
+      "duration": 2.08
+    },
+    {
+      "text": ">> what you're supposed to be doing now.",
+      "start": 1174.4,
+      "duration": 2.48
+    },
+    {
+      "text": "I'm supposed to be getting out of the",
+      "start": 1175.6,
+      "duration": 1.92
+    },
+    {
+      "text": "facility.",
+      "start": 1176.88,
+      "duration": 3.2
+    },
+    {
+      "text": ">> That that much I got.",
+      "start": 1177.52,
+      "duration": 4.399
+    },
+    {
+      "text": ">> Well, that's it.",
+      "start": 1180.08,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Do we have any leads on how to do that?",
+      "start": 1181.919,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Well, just look around and do stuff.",
+      "start": 1184.08,
+      "duration": 3.86
+    },
+    {
+      "text": "That's what I'm doing right now.",
+      "start": 1185.919,
+      "duration": 3.281
+    },
+    {
+      "text": "[Music]",
+      "start": 1187.94,
+      "duration": 4.3
+    },
+    {
+      "text": "Can move this S. Get the doors going.",
+      "start": 1189.2,
+      "duration": 5.28
+    },
+    {
+      "text": "Stop the shakies.",
+      "start": 1192.24,
+      "duration": 4.0
+    },
+    {
+      "text": "So, I have full control over the lift",
+      "start": 1194.48,
+      "duration": 2.64
+    },
+    {
+      "text": "now,",
+      "start": 1196.24,
+      "duration": 2.96
+    },
+    {
+      "text": ">> which is pretty sick.",
+      "start": 1197.12,
+      "duration": 5.04
+    },
+    {
+      "text": "So, I think if I get",
+      "start": 1199.2,
+      "duration": 4.56
+    },
+    {
+      "text": "Well, maybe something changed now that I",
+      "start": 1202.16,
+      "duration": 3.759
+    },
+    {
+      "text": "shook it. Maybe something shook loose.",
+      "start": 1203.76,
+      "duration": 3.039
+    },
+    {
+      "text": "You know what I'm saying?",
+      "start": 1205.919,
+      "duration": 2.961
+    },
+    {
+      "text": ">> Yeah,",
+      "start": 1206.799,
+      "duration": 3.441
+    },
+    {
+      "text": ">> there's definitely more stuff on the",
+      "start": 1208.88,
+      "duration": 3.52
+    },
+    {
+      "text": "floor.",
+      "start": 1210.24,
+      "duration": 3.52
+    },
+    {
+      "text": ">> What happened here?",
+      "start": 1212.4,
+      "duration": 4.639
+    },
+    {
+      "text": ">> Uh, I think that's the question.",
+      "start": 1213.76,
+      "duration": 5.039
+    },
+    {
+      "text": ">> It's like",
+      "start": 1217.039,
+      "duration": 3.52
+    },
+    {
+      "text": "I know the ravages of time can be cruel",
+      "start": 1218.799,
+      "duration": 3.601
+    },
+    {
+      "text": "on a building, but that shit looks",
+      "start": 1220.559,
+      "duration": 3.281
+    },
+    {
+      "text": "exploded outwards.",
+      "start": 1222.4,
+      "duration": 3.84
+    },
+    {
+      "text": ">> Oh, something exploded for sure.",
+      "start": 1223.84,
+      "duration": 4.48
+    },
+    {
+      "text": ">> Cool.",
+      "start": 1226.24,
+      "duration": 5.08
+    },
+    {
+      "text": "Okay,",
+      "start": 1228.32,
+      "duration": 3.0
+    },
+    {
+      "text": ">> we might be in what the Scottish call",
+      "start": 1232.4,
+      "duration": 5.36
+    },
+    {
+      "text": "the upside dune.",
+      "start": 1234.559,
+      "duration": 6.0
+    },
+    {
+      "text": ">> Well, clearly there's like these things",
+      "start": 1237.76,
+      "duration": 3.52
+    },
+    {
+      "text": "growing.",
+      "start": 1240.559,
+      "duration": 1.041
+    },
+    {
+      "text": ">> Yeah,",
+      "start": 1241.28,
+      "duration": 2.32
+    },
+    {
+      "text": ">> unless that's just how it's always been.",
+      "start": 1241.6,
+      "duration": 2.16
+    },
+    {
+      "text": "But",
+      "start": 1243.6,
+      "duration": 1.76
+    },
+    {
+      "text": ">> this feels a little infection-eye.",
+      "start": 1243.76,
+      "duration": 4.24
+    },
+    {
+      "text": ">> Yeah, that feels new. Feels new.",
+      "start": 1245.36,
+      "duration": 4.08
+    },
+    {
+      "text": ">> Feels like some kind of like robot",
+      "start": 1248.0,
+      "duration": 3.039
+    },
+    {
+      "text": "uprising sort of thing.",
+      "start": 1249.44,
+      "duration": 2.4
+    },
+    {
+      "text": ">> You know what I'm saying?",
+      "start": 1251.039,
+      "duration": 2.721
+    },
+    {
+      "text": ">> But like real tentacally.",
+      "start": 1251.84,
+      "duration": 4.079
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 1253.76,
+      "duration": 6.279
+    },
+    {
+      "text": "I want to go into the shake house.",
+      "start": 1255.919,
+      "duration": 4.12
+    },
+    {
+      "text": "Yeah.",
+      "start": 1260.559,
+      "duration": 3.0
+    },
+    {
+      "text": ">> Okay. All right. So, I think what I can",
+      "start": 1267.679,
+      "duration": 3.601
+    },
+    {
+      "text": "do here,",
+      "start": 1269.2,
+      "duration": 6.4
+    },
+    {
+      "text": "so when I move it, stop shaking, please.",
+      "start": 1271.28,
+      "duration": 7.879
+    },
+    {
+      "text": "If I move it.",
+      "start": 1275.6,
+      "duration": 3.559
+    },
+    {
+      "text": "Okay, now it's over there.",
+      "start": 1279.52,
+      "duration": 2.56
+    },
+    {
+      "text": ">> Mhm.",
+      "start": 1280.96,
+      "duration": 4.32
+    },
+    {
+      "text": ">> So, I can come this way.",
+      "start": 1282.08,
+      "duration": 6.32
+    },
+    {
+      "text": "Oh, so this is blocked.",
+      "start": 1285.28,
+      "duration": 7.519
+    },
+    {
+      "text": "But how do I unblock it? I wonder.",
+      "start": 1288.4,
+      "duration": 5.92
+    },
+    {
+      "text": "Yes,",
+      "start": 1292.799,
+      "duration": 4.461
+    },
+    {
+      "text": "some such nonsense and what have you.",
+      "start": 1294.32,
+      "duration": 5.359
+    },
+    {
+      "text": "[Music]",
+      "start": 1297.26,
+      "duration": 4.5
+    },
+    {
+      "text": "Okay,",
+      "start": 1299.679,
+      "duration": 4.321
+    },
+    {
+      "text": "how about a little",
+      "start": 1301.76,
+      "duration": 6.2
+    },
+    {
+      "text": "checking of our jaw?",
+      "start": 1304.0,
+      "duration": 3.96
+    },
+    {
+      "text": "Let's see.",
+      "start": 1311.52,
+      "duration": 5.76
+    },
+    {
+      "text": "Let's see.",
+      "start": 1314.48,
+      "duration": 4.64
+    },
+    {
+      "text": "Was there a hole in the ceiling in that",
+      "start": 1317.28,
+      "duration": 3.279
+    },
+    {
+      "text": "thing?",
+      "start": 1319.12,
+      "duration": 3.12
+    },
+    {
+      "text": ">> I don't know.",
+      "start": 1320.559,
+      "duration": 5.521
+    },
+    {
+      "text": ">> You don't know? Oh, hold on a second.",
+      "start": 1322.24,
+      "duration": 5.52
+    },
+    {
+      "text": "What the hell is this?",
+      "start": 1326.08,
+      "duration": 3.28
+    },
+    {
+      "text": ">> Oh, this is just like when you find a",
+      "start": 1327.76,
+      "duration": 3.36
+    },
+    {
+      "text": "new spot in your house and you're like,",
+      "start": 1329.36,
+      "duration": 3.6
+    },
+    {
+      "text": "I'm going to crawl in there. This could",
+      "start": 1331.12,
+      "duration": 4.08
+    },
+    {
+      "text": "be so dope. And then you get stuck for 5",
+      "start": 1332.96,
+      "duration": 5.199
+    },
+    {
+      "text": "hours and you have to call a hospital.",
+      "start": 1335.2,
+      "duration": 4.4
+    },
+    {
+      "text": ">> But you left your phone outside.",
+      "start": 1338.159,
+      "duration": 3.841
+    },
+    {
+      "text": ">> Yeah. So, you just have to wait till you",
+      "start": 1339.6,
+      "duration": 6.079
+    },
+    {
+      "text": "get thinner and then you can slide out.",
+      "start": 1342.0,
+      "duration": 3.679
+    },
+    {
+      "text": "That'll take a couple days.",
+      "start": 1346.159,
+      "duration": 1.52
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 1347.28,
+      "duration": 1.279
+    },
+    {
+      "text": ">> But I can do it.",
+      "start": 1347.679,
+      "duration": 1.681
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 1348.559,
+      "duration": 2.881
+    },
+    {
+      "text": ">> And the added benefit, I get thinner.",
+      "start": 1349.36,
+      "duration": 4.4
+    },
+    {
+      "text": ">> Yep. I look great. I feel great. I've",
+      "start": 1351.44,
+      "duration": 3.119
+    },
+    {
+      "text": "shot myself.",
+      "start": 1353.76,
+      "duration": 3.039
+    },
+    {
+      "text": ">> I'm trying to lose weight anyway and",
+      "start": 1354.559,
+      "duration": 4.24
+    },
+    {
+      "text": "smell like shit.",
+      "start": 1356.799,
+      "duration": 5.521
+    },
+    {
+      "text": ">> Two birds, one stone, my friend.",
+      "start": 1358.799,
+      "duration": 5.441
+    },
+    {
+      "text": ">> Sometimes you just need to put yourself",
+      "start": 1362.32,
+      "duration": 4.239
+    },
+    {
+      "text": "in the situation where you end up doing",
+      "start": 1364.24,
+      "duration": 4.24
+    },
+    {
+      "text": "something good for yourself. Now, it's",
+      "start": 1366.559,
+      "duration": 4.081
+    },
+    {
+      "text": "not necessarily about the doing. It's",
+      "start": 1368.48,
+      "duration": 4.559
+    },
+    {
+      "text": "about setting up the doing. You know",
+      "start": 1370.64,
+      "duration": 4.88
+    },
+    {
+      "text": "what I'm saying?",
+      "start": 1373.039,
+      "duration": 5.281
+    },
+    {
+      "text": ">> Not really, but you are my boss. So,",
+      "start": 1375.52,
+      "duration": 4.72
+    },
+    {
+      "text": ">> you get me.",
+      "start": 1378.32,
+      "duration": 3.52
+    },
+    {
+      "text": ">> Ah, you get me.",
+      "start": 1380.24,
+      "duration": 3.84
+    },
+    {
+      "text": ">> You understand there? There ain't",
+      "start": 1381.84,
+      "duration": 3.36
+    },
+    {
+      "text": "nothing in there. There ain't nothing",
+      "start": 1384.08,
+      "duration": 4.8
+    },
+    {
+      "text": "but a hound dog. Uh, okay.",
+      "start": 1385.2,
+      "duration": 5.76
+    },
+    {
+      "text": "Yeah. Use a motor to turn electricity",
+      "start": 1388.88,
+      "duration": 4.4
+    },
+    {
+      "text": "into torque.",
+      "start": 1390.96,
+      "duration": 4.32
+    },
+    {
+      "text": ">> Some outputs require torque.",
+      "start": 1393.28,
+      "duration": 5.879
+    },
+    {
+      "text": ">> Oh, thanks for the light bulb.",
+      "start": 1395.28,
+      "duration": 3.879
+    },
+    {
+      "text": "I love looking at things. Oh, look at",
+      "start": 1399.2,
+      "duration": 5.2
+    },
+    {
+      "text": "this. This is awesome. Okay,",
+      "start": 1401.12,
+      "duration": 6.96
+    },
+    {
+      "text": ">> found it. My favorite panel.",
+      "start": 1404.4,
+      "duration": 6.48
+    },
+    {
+      "text": ">> Okay.",
+      "start": 1408.08,
+      "duration": 4.32
+    },
+    {
+      "text": ">> Yeah, we're torquing it.",
+      "start": 1410.88,
+      "duration": 3.12
+    },
+    {
+      "text": ">> Okay.",
+      "start": 1412.4,
+      "duration": 3.44
+    },
+    {
+      "text": "Straight torqueing it.",
+      "start": 1414.0,
+      "duration": 4.48
+    },
+    {
+      "text": ">> So, what did that do? Not for personnel.",
+      "start": 1415.84,
+      "duration": 8.36
+    },
+    {
+      "text": ">> And by by it, I mean, my penis.",
+      "start": 1418.48,
+      "duration": 5.72
+    },
+    {
+      "text": ">> Oh, I can jump on top. Grab this. Grab",
+      "start": 1425.039,
+      "duration": 4.801
+    },
+    {
+      "text": "ledge. Grab ledge. Gradles.",
+      "start": 1427.28,
+      "duration": 5.84
+    },
+    {
+      "text": "Grab less. Oh, I can't grab the ledge.",
+      "start": 1429.84,
+      "duration": 4.8
+    },
+    {
+      "text": "What a stupid idiot I am.",
+      "start": 1433.12,
+      "duration": 3.84
+    },
+    {
+      "text": ">> Cool. I love it.",
+      "start": 1434.64,
+      "duration": 4.96
+    },
+    {
+      "text": ">> How about this?",
+      "start": 1436.96,
+      "duration": 4.719
+    },
+    {
+      "text": "About a little this action. Wait, wait,",
+      "start": 1439.6,
+      "duration": 3.68
+    },
+    {
+      "text": "hold on. I can ro I can Oh, I can do",
+      "start": 1441.679,
+      "duration": 5.36
+    },
+    {
+      "text": "this. Jump on this. Jump on this and",
+      "start": 1443.28,
+      "duration": 6.96
+    },
+    {
+      "text": "jump up here. Come on. Come on. I'm so",
+      "start": 1447.039,
+      "duration": 6.321
+    },
+    {
+      "text": "close. I'm so close. Oh, I can just use",
+      "start": 1450.24,
+      "duration": 3.679
+    },
+    {
+      "text": "this.",
+      "start": 1453.36,
+      "duration": 2.72
+    },
+    {
+      "text": ">> Oh, dude.",
+      "start": 1453.919,
+      "duration": 5.12
+    },
+    {
+      "text": "Come on, man.",
+      "start": 1456.08,
+      "duration": 6.0
+    },
+    {
+      "text": ">> All right. Well, you know,",
+      "start": 1459.039,
+      "duration": 5.041
+    },
+    {
+      "text": "I'm a problem solver. I like to solve",
+      "start": 1462.08,
+      "duration": 2.479
+    },
+    {
+      "text": "problems.",
+      "start": 1464.08,
+      "duration": 3.44
+    },
+    {
+      "text": ">> I know now why you jump.",
+      "start": 1464.559,
+      "duration": 6.401
+    },
+    {
+      "text": ">> All right. All right. Motor. Yep. Yep.",
+      "start": 1467.52,
+      "duration": 4.96
+    },
+    {
+      "text": "Mhm.",
+      "start": 1470.96,
+      "duration": 3.599
+    },
+    {
+      "text": ">> Bro, you can make crazy ass torque with",
+      "start": 1472.48,
+      "duration": 2.72
+    },
+    {
+      "text": "that,",
+      "start": 1474.559,
+      "duration": 3.12
+    },
+    {
+      "text": ">> dude. I'm torquing like crazy. Oh, look",
+      "start": 1475.2,
+      "duration": 4.56
+    },
+    {
+      "text": "at this torque action.",
+      "start": 1477.679,
+      "duration": 3.841
+    },
+    {
+      "text": "All right. How about a little bit of",
+      "start": 1479.76,
+      "duration": 4.56
+    },
+    {
+      "text": "this? How about a little bit of",
+      "start": 1481.52,
+      "duration": 7.279
+    },
+    {
+      "text": "uh How do I cycle through?",
+      "start": 1484.32,
+      "duration": 8.0
+    },
+    {
+      "text": "I don't need torque. Wouldn't be kosher.",
+      "start": 1488.799,
+      "duration": 7.041
+    },
+    {
+      "text": ">> Oh, okay. So, I have to put it here.",
+      "start": 1492.32,
+      "duration": 6.239
+    },
+    {
+      "text": "Uh-huh.",
+      "start": 1495.84,
+      "duration": 5.8
+    },
+    {
+      "text": "All right.",
+      "start": 1498.559,
+      "duration": 3.081
+    },
+    {
+      "text": "Hey, you.",
+      "start": 1501.76,
+      "duration": 1.6
+    },
+    {
+      "text": ">> Bless you.",
+      "start": 1502.72,
+      "duration": 2.959
+    },
+    {
+      "text": ">> Thank you. Oh, it's unlocked.",
+      "start": 1503.36,
+      "duration": 2.72
+    },
+    {
+      "text": ">> Yes.",
+      "start": 1505.679,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Yes.",
+      "start": 1506.08,
+      "duration": 4.4
+    },
+    {
+      "text": ">> Okay.",
+      "start": 1508.559,
+      "duration": 5.561
+    },
+    {
+      "text": ">> Something changed.",
+      "start": 1510.48,
+      "duration": 3.64
+    },
+    {
+      "text": ">> Get to the SRI main wing. Cleveland",
+      "start": 1514.4,
+      "duration": 7.12
+    },
+    {
+      "text": "looks different, but not that different.",
+      "start": 1516.799,
+      "duration": 6.081
+    },
+    {
+      "text": ">> Where's the Rock and Roll Hall of Fame?",
+      "start": 1521.52,
+      "duration": 3.44
+    },
+    {
+      "text": ">> Just messing with you, Cleveland.",
+      "start": 1522.88,
+      "duration": 6.2
+    },
+    {
+      "text": ">> We love you. Shout out to the Agora.",
+      "start": 1524.96,
+      "duration": 4.12
+    },
+    {
+      "text": ">> You know, somebody named The Agora.",
+      "start": 1529.44,
+      "duration": 4.0
+    },
+    {
+      "text": ">> The Agora. You and I have played that",
+      "start": 1531.679,
+      "duration": 4.081
+    },
+    {
+      "text": "venue several times.",
+      "start": 1533.44,
+      "duration": 5.68
+    },
+    {
+      "text": ">> What are you talking about?",
+      "start": 1535.76,
+      "duration": 4.88
+    },
+    {
+      "text": ">> Nights of our lives were spent there,",
+      "start": 1539.12,
+      "duration": 3.439
+    },
+    {
+      "text": "Aaron.",
+      "start": 1540.64,
+      "duration": 3.44
+    },
+    {
+      "text": ">> What's going on?",
+      "start": 1542.559,
+      "duration": 3.201
+    },
+    {
+      "text": ">> Where am I? I've signed so many bricks",
+      "start": 1544.08,
+      "duration": 2.719
+    },
+    {
+      "text": "on that wall.",
+      "start": 1545.76,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Yeah. Oh no. Oh no. What have I done?",
+      "start": 1546.799,
+      "duration": 6.561
+    },
+    {
+      "text": "Okay. Nothing. Oh, the lift. A lift. Oh,",
+      "start": 1549.44,
+      "duration": 4.239
+    },
+    {
+      "text": "it's",
+      "start": 1553.36,
+      "duration": 4.0
+    },
+    {
+      "text": ">> a long time ago in a place far far. Oh,",
+      "start": 1553.679,
+      "duration": 6.161
+    },
+    {
+      "text": "wrong show. Let's start.",
+      "start": 1557.36,
+      "duration": 6.439
+    },
+    {
+      "text": ">> He was doing a Star Wars.",
+      "start": 1559.84,
+      "duration": 3.959
+    },
+    {
+      "text": ">> A long time ago, there was a house here",
+      "start": 1565.12,
+      "duration": 6.64
+    },
+    {
+      "text": "and people. So many people.",
+      "start": 1568.559,
+      "duration": 4.081
+    },
+    {
+      "text": ">> Goodbye.",
+      "start": 1571.76,
+      "duration": 2.96
+    },
+    {
+      "text": ">> Then it ended. Okay.",
+      "start": 1572.64,
+      "duration": 4.639
+    },
+    {
+      "text": ">> No one remained and almost nothing of",
+      "start": 1574.72,
+      "duration": 3.76
+    },
+    {
+      "text": "the house did either.",
+      "start": 1577.279,
+      "duration": 2.561
+    },
+    {
+      "text": ">> I thought you said it ended.",
+      "start": 1578.48,
+      "duration": 3.52
+    },
+    {
+      "text": ">> They ran.",
+      "start": 1579.84,
+      "duration": 5.36
+    },
+    {
+      "text": "No one ever came back.",
+      "start": 1582.0,
+      "duration": 6.96
+    },
+    {
+      "text": "But they forgot one thing.",
+      "start": 1585.2,
+      "duration": 7.28
+    },
+    {
+      "text": ">> The coolest guy in the world by accident",
+      "start": 1588.96,
+      "duration": 7.599
+    },
+    {
+      "text": "was left behind. Someone survived",
+      "start": 1592.48,
+      "duration": 6.72
+    },
+    {
+      "text": ">> because something here",
+      "start": 1596.559,
+      "duration": 6.761
+    },
+    {
+      "text": ">> made sure they did.",
+      "start": 1599.2,
+      "duration": 4.12
+    },
+    {
+      "text": ">> So are you.",
+      "start": 1603.52,
+      "duration": 1.519
+    },
+    {
+      "text": ">> How do you do",
+      "start": 1604.24,
+      "duration": 1.679
+    },
+    {
+      "text": ">> a robot?",
+      "start": 1605.039,
+      "duration": 4.481
+    },
+    {
+      "text": ">> No, that's you. I thought Well, you're",
+      "start": 1605.919,
+      "duration": 6.721
+    },
+    {
+      "text": "awake now. So, does this mean a",
+      "start": 1609.52,
+      "duration": 4.96
+    },
+    {
+      "text": "different ending for us all? I wonder",
+      "start": 1612.64,
+      "duration": 5.6
+    },
+    {
+      "text": "what kind. What does this mean for me? H",
+      "start": 1614.48,
+      "duration": 7.76
+    },
+    {
+      "text": "I'll have to re me.",
+      "start": 1618.24,
+      "duration": 5.84
+    },
+    {
+      "text": ">> Will you be able to figure out what this",
+      "start": 1622.24,
+      "duration": 3.52
+    },
+    {
+      "text": "means for you by yourself?",
+      "start": 1624.08,
+      "duration": 3.68
+    },
+    {
+      "text": ">> He's got an abacus to guide",
+      "start": 1625.76,
+      "duration": 2.88
+    },
+    {
+      "text": ">> a computer.",
+      "start": 1627.76,
+      "duration": 1.84
+    },
+    {
+      "text": ">> Here's a hint.",
+      "start": 1628.64,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Capable of countless calculations. Maybe",
+      "start": 1629.6,
+      "duration": 5.04
+    },
+    {
+      "text": "I could get a matter less than the",
+      "start": 1632.32,
+      "duration": 4.08
+    },
+    {
+      "text": "choice you make.",
+      "start": 1634.64,
+      "duration": 4.88
+    },
+    {
+      "text": ">> That choice will decide how our story",
+      "start": 1636.4,
+      "duration": 6.48
+    },
+    {
+      "text": "ends. You are the one in the spotlight.",
+      "start": 1639.52,
+      "duration": 6.32
+    },
+    {
+      "text": "I am merely the one pulling the rope to",
+      "start": 1642.88,
+      "duration": 4.32
+    },
+    {
+      "text": "open the curtain",
+      "start": 1645.84,
+      "duration": 5.04
+    },
+    {
+      "text": ">> and with it you shall hang.",
+      "start": 1647.2,
+      "duration": 5.04
+    },
+    {
+      "text": ">> Well,",
+      "start": 1650.88,
+      "duration": 4.64
+    },
+    {
+      "text": ">> do you like my watch? It's gigantic.",
+      "start": 1652.24,
+      "duration": 4.559
+    },
+    {
+      "text": ">> Anyway, your shit.",
+      "start": 1655.52,
+      "duration": 2.48
+    },
+    {
+      "text": ">> And it doesn't tell time.",
+      "start": 1656.799,
+      "duration": 2.48
+    },
+    {
+      "text": ">> Starts now.",
+      "start": 1658.0,
+      "duration": 3.039
+    },
+    {
+      "text": ">> And it's part of my have already",
+      "start": 1659.279,
+      "duration": 4.561
+    },
+    {
+      "text": "realized how badly things need a touchup",
+      "start": 1661.039,
+      "duration": 5.441
+    },
+    {
+      "text": "here. You won't get into the SRI without",
+      "start": 1663.84,
+      "duration": 4.88
+    },
+    {
+      "text": "me. Power's been down,",
+      "start": 1666.48,
+      "duration": 4.16
+    },
+    {
+      "text": ">> according to me.",
+      "start": 1668.72,
+      "duration": 4.72
+    },
+    {
+      "text": ">> Hold on. I'll send a spark to the door.",
+      "start": 1670.64,
+      "duration": 4.8
+    },
+    {
+      "text": "That should get you through.",
+      "start": 1673.44,
+      "duration": 4.56
+    },
+    {
+      "text": ">> Okay. No, I see the spark.",
+      "start": 1675.44,
+      "duration": 4.4
+    },
+    {
+      "text": ">> But keep in mind, most",
+      "start": 1678.0,
+      "duration": 4.08
+    },
+    {
+      "text": ">> you need the SRI. Don't even get me",
+      "start": 1679.84,
+      "duration": 3.36
+    },
+    {
+      "text": "started on the long",
+      "start": 1682.08,
+      "duration": 5.12
+    },
+    {
+      "text": ">> operative. Now, I suggest you first find",
+      "start": 1683.2,
+      "duration": 5.839
+    },
+    {
+      "text": "I do. It was good. Thank you.",
+      "start": 1687.2,
+      "duration": 2.479
+    },
+    {
+      "text": ">> Well,",
+      "start": 1689.039,
+      "duration": 2.24
+    },
+    {
+      "text": ">> I was thinking like SSRI",
+      "start": 1689.679,
+      "duration": 2.641
+    },
+    {
+      "text": ">> on what to do next.",
+      "start": 1691.279,
+      "duration": 3.28
+    },
+    {
+      "text": ">> Like, you're going to need the SRI cuz",
+      "start": 1692.32,
+      "duration": 3.839
+    },
+    {
+      "text": "uh you're looking a little depressed",
+      "start": 1694.559,
+      "duration": 2.561
+    },
+    {
+      "text": "there, buddy.",
+      "start": 1696.159,
+      "duration": 2.561
+    },
+    {
+      "text": ">> I don't even know what an SSRI is.",
+      "start": 1697.12,
+      "duration": 3.2
+    },
+    {
+      "text": ">> It's like a depression medication.",
+      "start": 1698.72,
+      "duration": 2.559
+    },
+    {
+      "text": ">> Oh. Yeah,",
+      "start": 1700.32,
+      "duration": 2.719
+    },
+    {
+      "text": ">> that'd be a good name for a boat.",
+      "start": 1701.279,
+      "duration": 4.64
+    },
+    {
+      "text": ">> It's like serotonin intake reception",
+      "start": 1703.039,
+      "duration": 4.24
+    },
+    {
+      "text": "inhibitor or some shit.",
+      "start": 1705.919,
+      "duration": 2.64
+    },
+    {
+      "text": ">> The SSRI.",
+      "start": 1707.279,
+      "duration": 2.88
+    },
+    {
+      "text": ">> What the hell? Why is the couple there",
+      "start": 1708.559,
+      "duration": 4.921
+    },
+    {
+      "text": "going crazy?",
+      "start": 1710.159,
+      "duration": 3.321
+    },
+    {
+      "text": "Why is it going crazy?",
+      "start": 1713.52,
+      "duration": 5.519
+    },
+    {
+      "text": ">> Maybe it's uh fing.",
+      "start": 1715.36,
+      "duration": 6.16
+    },
+    {
+      "text": ">> This is like a Ukrainian thing. That's",
+      "start": 1719.039,
+      "duration": 4.081
+    },
+    {
+      "text": "that that's where it's like a glass, but",
+      "start": 1721.52,
+      "duration": 3.279
+    },
+    {
+      "text": "it's inside a little mug. I mean, maybe",
+      "start": 1723.12,
+      "duration": 3.039
+    },
+    {
+      "text": "there's a ton of other cultures that do",
+      "start": 1724.799,
+      "duration": 3.281
+    },
+    {
+      "text": "it, too. I just know a Ukrainian",
+      "start": 1726.159,
+      "duration": 2.961
+    },
+    {
+      "text": "restaurant that does it.",
+      "start": 1728.08,
+      "duration": 3.12
+    },
+    {
+      "text": ">> Looks cool.",
+      "start": 1729.12,
+      "duration": 7.24
+    },
+    {
+      "text": "Can I open these? Why is it going crazy?",
+      "start": 1731.2,
+      "duration": 5.16
+    },
+    {
+      "text": "This This is going to This is going to",
+      "start": 1736.96,
+      "duration": 2.959
+    },
+    {
+      "text": "power me up like crazy.",
+      "start": 1738.08,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Whatever you do, don't drink the jumping",
+      "start": 1739.919,
+      "duration": 3.441
+    },
+    {
+      "text": "tea.",
+      "start": 1741.76,
+      "duration": 2.24
+    },
+    {
+      "text": "Oh. All right.",
+      "start": 1743.36,
+      "duration": 1.76
+    },
+    {
+      "text": ">> Oh, look at the stapler. It's going",
+      "start": 1744.0,
+      "duration": 1.44
+    },
+    {
+      "text": "crazy.",
+      "start": 1745.12,
+      "duration": 2.799
+    },
+    {
+      "text": ">> Now you tell me. W",
+      "start": 1745.44,
+      "duration": 5.04
+    },
+    {
+      "text": ">> Oh, there's more. Can I take them all?",
+      "start": 1747.919,
+      "duration": 4.48
+    },
+    {
+      "text": "Yeah, I'm just going to take them all.",
+      "start": 1750.48,
+      "duration": 3.52
+    },
+    {
+      "text": ">> I want a collection of neverending",
+      "start": 1752.399,
+      "duration": 4.561
+    },
+    {
+      "text": "wriggling things around my body. around",
+      "start": 1754.0,
+      "duration": 5.76
+    },
+    {
+      "text": "my body.",
+      "start": 1756.96,
+      "duration": 5.599
+    },
+    {
+      "text": ">> You were bored from the calculator. I",
+      "start": 1759.76,
+      "duration": 3.039
+    },
+    {
+      "text": "was",
+      "start": 1762.559,
+      "duration": 2.401
+    },
+    {
+      "text": ">> put destabilized items in the trash and",
+      "start": 1762.799,
+      "duration": 2.961
+    },
+    {
+      "text": "get tokens.",
+      "start": 1764.96,
+      "duration": 3.04
+    },
+    {
+      "text": ">> Oh, they're destabilized.",
+      "start": 1765.76,
+      "duration": 6.08
+    },
+    {
+      "text": "Turn in the trash for tokens. Okay.",
+      "start": 1768.0,
+      "duration": 5.6
+    },
+    {
+      "text": ">> Well, you're unstable. So, put yourself",
+      "start": 1771.84,
+      "duration": 4.319
+    },
+    {
+      "text": "in the trash and then get a bunch of",
+      "start": 1773.6,
+      "duration": 4.319
+    },
+    {
+      "text": "Bitcoin",
+      "start": 1776.159,
+      "duration": 3.361
+    },
+    {
+      "text": "cuz those are the I assume those are the",
+      "start": 1777.919,
+      "duration": 4.321
+    },
+    {
+      "text": "tokens they're referring to.",
+      "start": 1779.52,
+      "duration": 4.639
+    },
+    {
+      "text": ">> Yeah. Nonfgeables.",
+      "start": 1782.24,
+      "duration": 3.6
+    },
+    {
+      "text": ">> Yeah. Yeah. Yeah, if they were more",
+      "start": 1784.159,
+      "duration": 3.041
+    },
+    {
+      "text": "funible, they wouldn't be moving so",
+      "start": 1785.84,
+      "duration": 3.199
+    },
+    {
+      "text": "much.",
+      "start": 1787.2,
+      "duration": 3.599
+    },
+    {
+      "text": ">> Come on, man.",
+      "start": 1789.039,
+      "duration": 3.201
+    },
+    {
+      "text": ">> Oh,",
+      "start": 1790.799,
+      "duration": 3.281
+    },
+    {
+      "text": ">> use your head for freak's sake.",
+      "start": 1792.24,
+      "duration": 2.96
+    },
+    {
+      "text": ">> I'm sorry.",
+      "start": 1794.08,
+      "duration": 3.04
+    },
+    {
+      "text": ">> Are you basically doing like the turn a",
+      "start": 1795.2,
+      "duration": 3.92
+    },
+    {
+      "text": "pet and squish it into a souvenir penny",
+      "start": 1797.12,
+      "duration": 2.48
+    },
+    {
+      "text": "kind of thing?",
+      "start": 1799.12,
+      "duration": 2.799
+    },
+    {
+      "text": ">> Oh, yeah.",
+      "start": 1799.6,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Interesting.",
+      "start": 1801.919,
+      "duration": 4.401
+    },
+    {
+      "text": ">> I only got one for that. That sucks. Get",
+      "start": 1802.48,
+      "duration": 6.0
+    },
+    {
+      "text": "me more.",
+      "start": 1806.32,
+      "duration": 4.479
+    },
+    {
+      "text": "All right, that's all I got. All right,",
+      "start": 1808.48,
+      "duration": 3.6
+    },
+    {
+      "text": "I'm going to find some more trash around",
+      "start": 1810.799,
+      "duration": 1.681
+    },
+    {
+      "text": "here.",
+      "start": 1812.08,
+      "duration": 1.199
+    },
+    {
+      "text": ">> Okay,",
+      "start": 1812.48,
+      "duration": 1.919
+    },
+    {
+      "text": ">> this is my favorite part of the game",
+      "start": 1813.279,
+      "duration": 2.961
+    },
+    {
+      "text": "now. Oh, there's some destabilized",
+      "start": 1814.399,
+      "duration": 2.241
+    },
+    {
+      "text": "trash.",
+      "start": 1816.24,
+      "duration": 2.08
+    },
+    {
+      "text": ">> Oh, I'm about to destabilize the he out",
+      "start": 1816.64,
+      "duration": 5.279
+    },
+    {
+      "text": "of this. All right, check this S out.",
+      "start": 1818.32,
+      "duration": 5.359
+    },
+    {
+      "text": "Drop",
+      "start": 1821.919,
+      "duration": 3.441
+    },
+    {
+      "text": "pull.",
+      "start": 1823.679,
+      "duration": 5.841
+    },
+    {
+      "text": "Yeah, boy. Token. Oh, this is not good.",
+      "start": 1825.36,
+      "duration": 6.24
+    },
+    {
+      "text": "This is not good. I'm going to be doing",
+      "start": 1829.52,
+      "duration": 4.72
+    },
+    {
+      "text": "this all day. I'm going to be recycling",
+      "start": 1831.6,
+      "duration": 3.76
+    },
+    {
+      "text": "shit like crazy.",
+      "start": 1834.24,
+      "duration": 3.2
+    },
+    {
+      "text": ">> How many did you have to get?",
+      "start": 1835.36,
+      "duration": 3.12
+    },
+    {
+      "text": ">> I I don't know.",
+      "start": 1837.44,
+      "duration": 1.28
+    },
+    {
+      "text": ">> Okay.",
+      "start": 1838.48,
+      "duration": 1.52
+    },
+    {
+      "text": ">> I think they're just tokens.",
+      "start": 1838.72,
+      "duration": 1.679
+    },
+    {
+      "text": ">> Cool.",
+      "start": 1840.0,
+      "duration": 3.44
+    },
+    {
+      "text": ">> They're just fun to have, you know.",
+      "start": 1840.399,
+      "duration": 6.241
+    },
+    {
+      "text": ">> So, like what? like a hundred",
+      "start": 1843.44,
+      "duration": 5.68
+    },
+    {
+      "text": "thousand. I mean, as many as they all",
+      "start": 1846.64,
+      "duration": 4.48
+    },
+    {
+      "text": "can find.",
+      "start": 1849.12,
+      "duration": 3.52
+    },
+    {
+      "text": "He's a ballsy bastard, ladies and",
+      "start": 1851.12,
+      "duration": 2.4
+    },
+    {
+      "text": "gentlemen.",
+      "start": 1852.64,
+      "duration": 3.6
+    },
+    {
+      "text": ">> Ladies and gentle balls bastard. Minus",
+      "start": 1853.52,
+      "duration": 5.759
+    },
+    {
+      "text": "two, huh? H.",
+      "start": 1856.24,
+      "duration": 6.48
+    },
+    {
+      "text": "Well, let's uh let's",
+      "start": 1859.279,
+      "duration": 6.721
+    },
+    {
+      "text": "connecting up. Oh, okay. So, um Oh, how",
+      "start": 1862.72,
+      "duration": 3.92
+    },
+    {
+      "text": "about this?",
+      "start": 1866.0,
+      "duration": 3.039
+    },
+    {
+      "text": ">> Dig up, stupid.",
+      "start": 1866.64,
+      "duration": 5.44
+    },
+    {
+      "text": ">> Dig up like this.",
+      "start": 1869.039,
+      "duration": 6.921
+    },
+    {
+      "text": ">> Oh, no, no, no. it.",
+      "start": 1872.08,
+      "duration": 3.88
+    },
+    {
+      "text": "Ah, yes. But there ain't no power right",
+      "start": 1876.48,
+      "duration": 4.079
+    },
+    {
+      "text": "now. There ain't no power.",
+      "start": 1879.279,
+      "duration": 2.561
+    },
+    {
+      "text": ">> Does it have to run through that bottom",
+      "start": 1880.559,
+      "duration": 1.6
+    },
+    {
+      "text": "one?",
+      "start": 1881.84,
+      "duration": 1.76
+    },
+    {
+      "text": ">> Well, there's two. There's this one that",
+      "start": 1882.159,
+      "duration": 2.721
+    },
+    {
+      "text": "goes there, and then there's this one",
+      "start": 1883.6,
+      "duration": 3.28
+    },
+    {
+      "text": "that goes there. And now they're minus",
+      "start": 1884.88,
+      "duration": 3.6
+    },
+    {
+      "text": "three. H",
+      "start": 1886.88,
+      "duration": 3.36
+    },
+    {
+      "text": ">> the hell does that mean? Oh, okay.",
+      "start": 1888.48,
+      "duration": 3.679
+    },
+    {
+      "text": "Simple light bulb. Use it in the light",
+      "start": 1890.24,
+      "duration": 4.159
+    },
+    {
+      "text": "sources. Always carry a couple just in",
+      "start": 1892.159,
+      "duration": 6.481
+    },
+    {
+      "text": "case. Uh, okay. I've got a light bulb,",
+      "start": 1894.399,
+      "duration": 6.481
+    },
+    {
+      "text": "don't I?",
+      "start": 1898.64,
+      "duration": 4.24
+    },
+    {
+      "text": "Why would you use the light bulb in the",
+      "start": 1900.88,
+      "duration": 3.919
+    },
+    {
+      "text": "light sources? You'd want to use it in",
+      "start": 1902.88,
+      "duration": 3.679
+    },
+    {
+      "text": "the dark sources so it can then",
+      "start": 1904.799,
+      "duration": 4.161
+    },
+    {
+      "text": "illuminate them. God, what is it with",
+      "start": 1906.559,
+      "duration": 3.441
+    },
+    {
+      "text": "this game?",
+      "start": 1908.96,
+      "duration": 4.319
+    },
+    {
+      "text": ">> Use it for Oh, is this like a fancy",
+      "start": 1910.0,
+      "duration": 5.6
+    },
+    {
+      "text": "screw? Yes, please.",
+      "start": 1913.279,
+      "duration": 4.88
+    },
+    {
+      "text": ">> Oh, this is like I put tokens in.",
+      "start": 1915.6,
+      "duration": 3.199
+    },
+    {
+      "text": ">> Oh, cool.",
+      "start": 1918.159,
+      "duration": 2.64
+    },
+    {
+      "text": ">> I think I I think I can like buy some",
+      "start": 1918.799,
+      "duration": 4.24
+    },
+    {
+      "text": "stuff, but it's out of order. Yeah, I",
+      "start": 1920.799,
+      "duration": 4.0
+    },
+    {
+      "text": "could put a token in. Take a little",
+      "start": 1923.039,
+      "duration": 5.041
+    },
+    {
+      "text": "token from here. Maybe another one.",
+      "start": 1924.799,
+      "duration": 5.281
+    },
+    {
+      "text": "I see. So, you put a token in here and",
+      "start": 1928.08,
+      "duration": 4.8
+    },
+    {
+      "text": "then you can get stuff, which is cool.",
+      "start": 1930.08,
+      "duration": 3.36
+    },
+    {
+      "text": ">> That is cool.",
+      "start": 1932.88,
+      "duration": 1.679
+    },
+    {
+      "text": ">> This is like my little headquarters",
+      "start": 1933.44,
+      "duration": 2.56
+    },
+    {
+      "text": "where I can get like resources and",
+      "start": 1934.559,
+      "duration": 1.921
+    },
+    {
+      "text": "stuff.",
+      "start": 1936.0,
+      "duration": 0.96
+    },
+    {
+      "text": ">> Yeah,",
+      "start": 1936.48,
+      "duration": 2.64
+    },
+    {
+      "text": ">> that's cute. All right, what do we got?",
+      "start": 1936.96,
+      "duration": 3.439
+    },
+    {
+      "text": ">> It's like one of those truck stop",
+      "start": 1939.12,
+      "duration": 3.36
+    },
+    {
+      "text": "bathrooms where you can get condams off",
+      "start": 1940.399,
+      "duration": 5.321
+    },
+    {
+      "text": "the wall.",
+      "start": 1942.48,
+      "duration": 3.24
+    },
+    {
+      "text": ">> Condams.",
+      "start": 1945.76,
+      "duration": 3.0
+    },
+    {
+      "text": ">> What are you going to buy? Ran out of",
+      "start": 1950.24,
+      "duration": 4.48
+    },
+    {
+      "text": "parts. Buy more in a vending machine.",
+      "start": 1952.559,
+      "duration": 5.521
+    },
+    {
+      "text": "Thanks. I figured that out on my own.",
+      "start": 1954.72,
+      "duration": 4.559
+    },
+    {
+      "text": "like a smart boy.",
+      "start": 1958.08,
+      "duration": 2.479
+    },
+    {
+      "text": ">> Brought to you by the makers of a",
+      "start": 1959.279,
+      "duration": 4.601
+    },
+    {
+      "text": "vending machine.",
+      "start": 1960.559,
+      "duration": 3.321
+    },
+    {
+      "text": "Wait a second. I could get this",
+      "start": 1964.0,
+      "duration": 3.679
+    },
+    {
+      "text": "somewhere else.",
+      "start": 1965.519,
+      "duration": 5.801
+    },
+    {
+      "text": "Light bulb, please.",
+      "start": 1967.679,
+      "duration": 3.641
+    },
+    {
+      "text": "Sorry. I'm just having fun.",
+      "start": 1973.84,
+      "duration": 3.92
+    },
+    {
+      "text": ">> Yeah. No, please.",
+      "start": 1975.12,
+      "duration": 6.48
+    },
+    {
+      "text": ">> Open door. No. What about get on the",
+      "start": 1977.76,
+      "duration": 6.48
+    },
+    {
+      "text": "floor?",
+      "start": 1981.6,
+      "duration": 6.559
+    },
+    {
+      "text": "What about walking the dinosaur?",
+      "start": 1984.24,
+      "duration": 6.72
+    },
+    {
+      "text": "Oh, here we go.",
+      "start": 1988.159,
+      "duration": 5.921
+    },
+    {
+      "text": "Found this thing. Needed it. Needed it.",
+      "start": 1990.96,
+      "duration": 4.719
+    },
+    {
+      "text": "All right.",
+      "start": 1994.08,
+      "duration": 4.0
+    },
+    {
+      "text": "Uh oh. Was that Okay, so I'm going to",
+      "start": 1995.679,
+      "duration": 3.281
+    },
+    {
+      "text": "keep this for now.",
+      "start": 1998.08,
+      "duration": 3.28
+    },
+    {
+      "text": ">> That floor looks like Pac-Man.",
+      "start": 1998.96,
+      "duration": 4.079
+    },
+    {
+      "text": ">> What?",
+      "start": 2001.36,
+      "duration": 2.72
+    },
+    {
+      "text": ">> Floor looks like Pac-Man.",
+      "start": 2003.039,
+      "duration": 1.681
+    },
+    {
+      "text": ">> Oh, it does.",
+      "start": 2004.08,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 2004.72,
+      "duration": 3.679
+    },
+    {
+      "text": ">> And it kind of looks like a ghost going",
+      "start": 2006.96,
+      "duration": 5.079
+    },
+    {
+      "text": "into him like a",
+      "start": 2008.399,
+      "duration": 3.64
+    },
+    {
+      "text": ">> just at that at that moment of truth.",
+      "start": 2012.399,
+      "duration": 5.841
+    },
+    {
+      "text": "Pac-Man's sort of like the original uh",
+      "start": 2015.44,
+      "duration": 4.16
+    },
+    {
+      "text": "ghost hunter, you know, a",
+      "start": 2018.24,
+      "duration": 1.76
+    },
+    {
+      "text": ">> little bit",
+      "start": 2019.6,
+      "duration": 2.16
+    },
+    {
+      "text": ">> like he's the original Zack Baggins.",
+      "start": 2020.0,
+      "duration": 2.08
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 2021.76,
+      "duration": 3.6
+    },
+    {
+      "text": ">> Please follow instructions.",
+      "start": 2022.08,
+      "duration": 5.52
+    },
+    {
+      "text": ">> Okay. To switch the engine to",
+      "start": 2025.36,
+      "duration": 3.679
+    },
+    {
+      "text": "maintenance mode, pull the lever towards",
+      "start": 2027.6,
+      "duration": 4.079
+    },
+    {
+      "text": "yourself. All right. Done. Grab the",
+      "start": 2029.039,
+      "duration": 6.24
+    },
+    {
+      "text": "handles. Nice. And rotate the drum so",
+      "start": 2031.679,
+      "duration": 5.36
+    },
+    {
+      "text": "the opening lines up like in the",
+      "start": 2035.279,
+      "duration": 4.64
+    },
+    {
+      "text": "picture. Okay.",
+      "start": 2037.039,
+      "duration": 5.201
+    },
+    {
+      "text": "Whoops. Whoops. Oh, I did stuff out of",
+      "start": 2039.919,
+      "duration": 4.721
+    },
+    {
+      "text": "order.",
+      "start": 2042.24,
+      "duration": 3.12
+    },
+    {
+      "text": "Okay.",
+      "start": 2044.64,
+      "duration": 3.999
+    },
+    {
+      "text": ">> Oh man. Looks like a face, doesn't it?",
+      "start": 2045.36,
+      "duration": 4.719
+    },
+    {
+      "text": "Like,",
+      "start": 2048.639,
+      "duration": 1.841
+    },
+    {
+      "text": ">> yes.",
+      "start": 2050.079,
+      "duration": 3.52
+    },
+    {
+      "text": ">> Leave me alone.",
+      "start": 2050.48,
+      "duration": 5.76
+    },
+    {
+      "text": ">> Okay. Ensure there is at least one B",
+      "start": 2053.599,
+      "duration": 5.121
+    },
+    {
+      "text": "installed.",
+      "start": 2056.24,
+      "duration": 4.399
+    },
+    {
+      "text": "Uh, okay.",
+      "start": 2058.72,
+      "duration": 2.959
+    },
+    {
+      "text": ">> Okay.",
+      "start": 2060.639,
+      "duration": 5.04
+    },
+    {
+      "text": ">> Let's install a B, I guess.",
+      "start": 2061.679,
+      "duration": 5.761
+    },
+    {
+      "text": "Do I have a B? I don't know if I have a",
+      "start": 2065.679,
+      "duration": 3.841
+    },
+    {
+      "text": "B. I got find a B around here. Where's a",
+      "start": 2067.44,
+      "duration": 4.88
+    },
+    {
+      "text": "B at?",
+      "start": 2069.52,
+      "duration": 5.92
+    },
+    {
+      "text": "Oh, is that a bee? Oh, stapler. It's to",
+      "start": 2072.32,
+      "duration": 5.519
+    },
+    {
+      "text": "stabilize.",
+      "start": 2075.44,
+      "duration": 4.8
+    },
+    {
+      "text": "I love to stabilize stuff. Oh, there's a",
+      "start": 2077.839,
+      "duration": 3.601
+    },
+    {
+      "text": "B. Okay.",
+      "start": 2080.24,
+      "duration": 3.599
+    },
+    {
+      "text": ">> Oh, yeah.",
+      "start": 2081.44,
+      "duration": 6.479
+    },
+    {
+      "text": ">> All right. Let's put a B in.",
+      "start": 2083.839,
+      "duration": 7.121
+    },
+    {
+      "text": "B is for banana.",
+      "start": 2087.919,
+      "duration": 5.121
+    },
+    {
+      "text": ">> Weird. It's a mechanical B.",
+      "start": 2090.96,
+      "duration": 5.36
+    },
+    {
+      "text": ">> Where's the B goes into there,",
+      "start": 2093.04,
+      "duration": 6.72
+    },
+    {
+      "text": "right? That's what that is.",
+      "start": 2096.32,
+      "duration": 6.24
+    },
+    {
+      "text": "Oh. Oh, I see. Okay.",
+      "start": 2099.76,
+      "duration": 4.8
+    },
+    {
+      "text": "Aha!",
+      "start": 2102.56,
+      "duration": 4.72
+    },
+    {
+      "text": "Take my bee.",
+      "start": 2104.56,
+      "duration": 4.08
+    },
+    {
+      "text": ">> Okay, there's a bee in there.",
+      "start": 2107.28,
+      "duration": 2.16
+    },
+    {
+      "text": ">> Okay, great.",
+      "start": 2108.64,
+      "duration": 3.28
+    },
+    {
+      "text": ">> If all bees are missing, use emergency",
+      "start": 2109.44,
+      "duration": 4.96
+    },
+    {
+      "text": "B. Okay, I got that. Turn on the",
+      "start": 2111.92,
+      "duration": 5.28
+    },
+    {
+      "text": "switches. Power awakening of working",
+      "start": 2114.4,
+      "duration": 8.04
+    },
+    {
+      "text": "bees air intake. Okay,",
+      "start": 2117.2,
+      "duration": 5.24
+    },
+    {
+      "text": "that's on. That's on. That's on.",
+      "start": 2122.88,
+      "duration": 6.32
+    },
+    {
+      "text": ">> Oh, it's on.",
+      "start": 2126.48,
+      "duration": 4.96
+    },
+    {
+      "text": ">> Or is that on? Oh, now it's on.",
+      "start": 2129.2,
+      "duration": 3.84
+    },
+    {
+      "text": ">> And would you follow the instructions,",
+      "start": 2131.44,
+      "duration": 3.36
+    },
+    {
+      "text": "please?",
+      "start": 2133.04,
+      "duration": 5.36
+    },
+    {
+      "text": "It clearly says it.",
+      "start": 2134.8,
+      "duration": 6.72
+    },
+    {
+      "text": ">> You got it, buddy. Use the manual pump",
+      "start": 2138.4,
+      "duration": 5.12
+    },
+    {
+      "text": "handle to increase pressure. The",
+      "start": 2141.52,
+      "duration": 3.92
+    },
+    {
+      "text": "pressure gauge needle must hit the green",
+      "start": 2143.52,
+      "duration": 3.599
+    },
+    {
+      "text": "zone.",
+      "start": 2145.44,
+      "duration": 4.679
+    },
+    {
+      "text": "Okay,",
+      "start": 2147.119,
+      "duration": 3.0
+    },
+    {
+      "text": "I'm going.",
+      "start": 2152.32,
+      "duration": 4.08
+    },
+    {
+      "text": "Oh, I'm just going to keep pumping it.",
+      "start": 2155.04,
+      "duration": 3.6
+    },
+    {
+      "text": "Oh. Oh, shit. Okay.",
+      "start": 2156.4,
+      "duration": 4.64
+    },
+    {
+      "text": ">> Pressure. Uh, if the previous steps are",
+      "start": 2158.64,
+      "duration": 4.24
+    },
+    {
+      "text": "performed, the the drum will begin to",
+      "start": 2161.04,
+      "duration": 6.24
+    },
+    {
+      "text": "rotate. Okay, cool. Disengage lever.",
+      "start": 2162.88,
+      "duration": 6.83
+    },
+    {
+      "text": "Oh, hell yeah.",
+      "start": 2167.28,
+      "duration": 5.04
+    },
+    {
+      "text": "[Laughter]",
+      "start": 2169.71,
+      "duration": 5.649
+    },
+    {
+      "text": "It's going to kill me.",
+      "start": 2172.32,
+      "duration": 5.12
+    },
+    {
+      "text": "All right, so we have power now. Very",
+      "start": 2175.359,
+      "duration": 3.041
+    },
+    {
+      "text": "cool. Very cool.",
+      "start": 2177.44,
+      "duration": 2.159
+    },
+    {
+      "text": ">> Mhm.",
+      "start": 2178.4,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Now I can start moving fans and stuff",
+      "start": 2179.599,
+      "duration": 2.0
+    },
+    {
+      "text": "around.",
+      "start": 2181.28,
+      "duration": 1.92
+    },
+    {
+      "text": ">> Did it say under the phone, answer the",
+      "start": 2181.599,
+      "duration": 2.641
+    },
+    {
+      "text": "call?",
+      "start": 2183.2,
+      "duration": 2.0
+    },
+    {
+      "text": ">> Answer the call.",
+      "start": 2184.24,
+      "duration": 3.599
+    },
+    {
+      "text": ">> Yeah, in that um menu you just had up on",
+      "start": 2185.2,
+      "duration": 4.399
+    },
+    {
+      "text": "the screen.",
+      "start": 2187.839,
+      "duration": 2.561
+    },
+    {
+      "text": "I had a menu.",
+      "start": 2189.599,
+      "duration": 3.52
+    },
+    {
+      "text": ">> He had like a to-do list.",
+      "start": 2190.4,
+      "duration": 4.24
+    },
+    {
+      "text": ">> Answer the call. Okay.",
+      "start": 2193.119,
+      "duration": 2.48
+    },
+    {
+      "text": ">> What does that mean?",
+      "start": 2194.64,
+      "duration": 1.84
+    },
+    {
+      "text": ">> There's a phone ringing.",
+      "start": 2195.599,
+      "duration": 2.24
+    },
+    {
+      "text": ">> There is a phone ringing now that I hear",
+      "start": 2196.48,
+      "duration": 1.76
+    },
+    {
+      "text": "it.",
+      "start": 2197.839,
+      "duration": 2.561
+    },
+    {
+      "text": ">> Oh, there it is.",
+      "start": 2198.24,
+      "duration": 6.4
+    },
+    {
+      "text": ">> Oh, wow. Are Are you really alive in",
+      "start": 2200.4,
+      "duration": 7.52
+    },
+    {
+      "text": "there? Can you hear me? You You can hear",
+      "start": 2204.64,
+      "duration": 6.719
+    },
+    {
+      "text": "me, right? Huh? That's That's",
+      "start": 2207.92,
+      "duration": 4.88
+    },
+    {
+      "text": "incredible. Where in the waves have you",
+      "start": 2211.359,
+      "duration": 2.401
+    },
+    {
+      "text": "been all this time?",
+      "start": 2212.8,
+      "duration": 1.76
+    },
+    {
+      "text": ">> Where in the waves?",
+      "start": 2213.76,
+      "duration": 2.72
+    },
+    {
+      "text": ">> Without luck. Just started my shift,",
+      "start": 2214.56,
+      "duration": 3.36
+    },
+    {
+      "text": "double checked all the frequencies, and",
+      "start": 2216.48,
+      "duration": 4.32
+    },
+    {
+      "text": "then bam, a whole living person. Wait,",
+      "start": 2217.92,
+      "duration": 4.64
+    },
+    {
+      "text": "who am I actually talking to? No, no,",
+      "start": 2220.8,
+      "duration": 3.44
+    },
+    {
+      "text": "no. Name's okay.",
+      "start": 2222.56,
+      "duration": 3.76
+    },
+    {
+      "text": ">> Judging by the uniform",
+      "start": 2224.24,
+      "duration": 2.96
+    },
+    {
+      "text": ">> keeper, right?",
+      "start": 2226.32,
+      "duration": 1.68
+    },
+    {
+      "text": ">> No, Carl.",
+      "start": 2227.2,
+      "duration": 3.12
+    },
+    {
+      "text": ">> Which means your hibernation capsule",
+      "start": 2228.0,
+      "duration": 3.44
+    },
+    {
+      "text": "made it through all this mess.",
+      "start": 2230.32,
+      "duration": 2.16
+    },
+    {
+      "text": ">> That's what I've been saying.",
+      "start": 2231.44,
+      "duration": 3.2
+    },
+    {
+      "text": ">> Rubus just arrived to your station not",
+      "start": 2232.48,
+      "duration": 4.0
+    },
+    {
+      "text": "long ago. The rest of the crew's still",
+      "start": 2234.64,
+      "duration": 3.52
+    },
+    {
+      "text": "asleep. I'll introduce you later. I",
+      "start": 2236.48,
+      "duration": 3.359
+    },
+    {
+      "text": "promise. You've done well restoring the",
+      "start": 2238.16,
+      "duration": 3.919
+    },
+    {
+      "text": "lift's engine. Without it, the comm's",
+      "start": 2239.839,
+      "duration": 3.121
+    },
+    {
+      "text": "network would have been",
+      "start": 2242.079,
+      "duration": 2.881
+    },
+    {
+      "text": ">> Hey, where's the bathroom around it?",
+      "start": 2242.96,
+      "duration": 3.76
+    },
+    {
+      "text": "Now, let's get you out of here. You can",
+      "start": 2244.96,
+      "duration": 3.36
+    },
+    {
+      "text": "see the state of things for yourself.",
+      "start": 2246.72,
+      "duration": 4.72
+    },
+    {
+      "text": ">> Yeah. Enter the post office. There's a",
+      "start": 2248.32,
+      "duration": 4.64
+    },
+    {
+      "text": "very important job waiting for you.",
+      "start": 2251.44,
+      "duration": 3.36
+    },
+    {
+      "text": "Though I don't know exactly what it's",
+      "start": 2252.96,
+      "duration": 5.2
+    },
+    {
+      "text": "about to make a post office through his",
+      "start": 2254.8,
+      "duration": 6.16
+    },
+    {
+      "text": "rooms and fix whatever's broken. Got to",
+      "start": 2258.16,
+      "duration": 5.04
+    },
+    {
+      "text": "hit the first mark on the wave gauge",
+      "start": 2260.96,
+      "duration": 2.72
+    },
+    {
+      "text": "scale.",
+      "start": 2263.2,
+      "duration": 3.2
+    },
+    {
+      "text": ">> Sure, but then call once you're there.",
+      "start": 2263.68,
+      "duration": 4.08
+    },
+    {
+      "text": "I'll go wake up my colleagues in the",
+      "start": 2266.4,
+      "duration": 1.92
+    },
+    {
+      "text": "meantime.",
+      "start": 2267.76,
+      "duration": 4.2
+    },
+    {
+      "text": ">> Yep. Where's the bath?",
+      "start": 2268.32,
+      "duration": 3.64
+    },
+    {
+      "text": ">> Oh, another question. Do you think",
+      "start": 2272.32,
+      "duration": 4.56
+    },
+    {
+      "text": "Do you think Postmates is like a Tinder",
+      "start": 2275.04,
+      "duration": 5.4
+    },
+    {
+      "text": "for postal workers?",
+      "start": 2276.88,
+      "duration": 3.56
+    },
+    {
+      "text": ">> Never thought of it like that.",
+      "start": 2281.76,
+      "duration": 4.88
+    },
+    {
+      "text": ">> Hello. Hello. Like hitting the call the",
+      "start": 2283.2,
+      "duration": 4.8
+    },
+    {
+      "text": "little hang up button.",
+      "start": 2286.64,
+      "duration": 4.88
+    },
+    {
+      "text": ">> Guess I'll just piss on the floor.",
+      "start": 2288.0,
+      "duration": 5.359
+    },
+    {
+      "text": "Okay.",
+      "start": 2291.52,
+      "duration": 5.28
+    },
+    {
+      "text": "Oh, box. Wait, is the box destabilized?",
+      "start": 2293.359,
+      "duration": 4.401
+    },
+    {
+      "text": "No.",
+      "start": 2296.8,
+      "duration": 2.4
+    },
+    {
+      "text": ">> It might have something destabilized",
+      "start": 2297.76,
+      "duration": 4.0
+    },
+    {
+      "text": "inside of it. Ashtray.",
+      "start": 2299.2,
+      "duration": 3.6
+    },
+    {
+      "text": ">> Oh, you think so?",
+      "start": 2301.76,
+      "duration": 3.04
+    },
+    {
+      "text": ">> Why not? It looked like it was shaking",
+      "start": 2302.8,
+      "duration": 5.319
+    },
+    {
+      "text": "and jiggling.",
+      "start": 2304.8,
+      "duration": 3.319
+    },
+    {
+      "text": ">> Why am I Why am I holding it so close?",
+      "start": 2309.359,
+      "duration": 5.841
+    },
+    {
+      "text": ">> I don't know. Maybe you can open it.",
+      "start": 2311.68,
+      "duration": 5.679
+    },
+    {
+      "text": ">> I would like to. Okay. What's this?",
+      "start": 2315.2,
+      "duration": 4.72
+    },
+    {
+      "text": "Okay. Lift status is at 38%. Got it.",
+      "start": 2317.359,
+      "duration": 5.441
+    },
+    {
+      "text": "Easy. Need empty cassette. Need screen.",
+      "start": 2319.92,
+      "duration": 4.4
+    },
+    {
+      "text": "I could find a screen for you.",
+      "start": 2322.8,
+      "duration": 2.559
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 2324.32,
+      "duration": 2.08
+    },
+    {
+      "text": ">> In this economy.",
+      "start": 2325.359,
+      "duration": 4.48
+    },
+    {
+      "text": ">> Set the thermos upright",
+      "start": 2326.4,
+      "duration": 6.4
+    },
+    {
+      "text": "and wave gauge level one. All right.",
+      "start": 2329.839,
+      "duration": 5.841
+    },
+    {
+      "text": "Cool. Let's explore some of these dang",
+      "start": 2332.8,
+      "duration": 4.48
+    },
+    {
+      "text": "rooms.",
+      "start": 2335.68,
+      "duration": 5.679
+    },
+    {
+      "text": "Whoa. Wait a second. Is this the lift?",
+      "start": 2337.28,
+      "duration": 7.079
+    },
+    {
+      "text": ">> What?",
+      "start": 2341.359,
+      "duration": 3.0
+    },
+    {
+      "text": ">> All right, let's throw some items on",
+      "start": 2344.88,
+      "duration": 2.479
+    },
+    {
+      "text": "here.",
+      "start": 2347.04,
+      "duration": 0.96
+    },
+    {
+      "text": ">> Excellent.",
+      "start": 2347.359,
+      "duration": 3.441
+    },
+    {
+      "text": ">> I got myself a destabilized",
+      "start": 2348.0,
+      "duration": 5.8
+    },
+    {
+      "text": "stabler.",
+      "start": 2350.8,
+      "duration": 3.0
+    },
+    {
+      "text": ">> He took my destabler.",
+      "start": 2353.839,
+      "duration": 5.121
+    },
+    {
+      "text": ">> All right.",
+      "start": 2356.48,
+      "duration": 6.96
+    },
+    {
+      "text": "Kachchunk. Thank you for L tokens.",
+      "start": 2358.96,
+      "duration": 6.48
+    },
+    {
+      "text": "All right, time to make this S start",
+      "start": 2363.44,
+      "duration": 5.44
+    },
+    {
+      "text": "working, bro.",
+      "start": 2365.44,
+      "duration": 7.36
+    },
+    {
+      "text": "Uh-huh. No, stop doing that straight",
+      "start": 2368.88,
+      "duration": 8.32
+    },
+    {
+      "text": "line. Love to see it. All right.",
+      "start": 2372.8,
+      "duration": 8.0
+    },
+    {
+      "text": "Oh, man. That's too That's too long.",
+      "start": 2377.2,
+      "duration": 4.96
+    },
+    {
+      "text": "All right, check this S out.",
+      "start": 2380.8,
+      "duration": 4.08
+    },
+    {
+      "text": ">> Okay, I'm checking.",
+      "start": 2382.16,
+      "duration": 5.679
+    },
+    {
+      "text": ">> I'm about to make this thing work. I'm",
+      "start": 2384.88,
+      "duration": 6.16
+    },
+    {
+      "text": "about to make this thing work.",
+      "start": 2387.839,
+      "duration": 5.601
+    },
+    {
+      "text": "Oh yeah.",
+      "start": 2391.04,
+      "duration": 3.36
+    },
+    {
+      "text": ">> Check this ass. You",
+      "start": 2393.44,
+      "duration": 3.12
+    },
+    {
+      "text": ">> okay?",
+      "start": 2394.4,
+      "duration": 4.08
+    },
+    {
+      "text": ">> Is it? Oh, I need the power thing.",
+      "start": 2396.56,
+      "duration": 6.44
+    },
+    {
+      "text": ">> Oh my god, it's incredible.",
+      "start": 2398.48,
+      "duration": 4.52
+    },
+    {
+      "text": ">> I dropped it.",
+      "start": 2404.16,
+      "duration": 4.4
+    },
+    {
+      "text": ">> Sorry. No one saw that. No one's here.",
+      "start": 2405.04,
+      "duration": 5.6
+    },
+    {
+      "text": ">> All right.",
+      "start": 2408.56,
+      "duration": 6.4
+    },
+    {
+      "text": "Power's going out that thing now.",
+      "start": 2410.64,
+      "duration": 5.68
+    },
+    {
+      "text": "They think you're still in cryosleep",
+      "start": 2414.96,
+      "duration": 4.08
+    },
+    {
+      "text": "from like however many years ago",
+      "start": 2416.32,
+      "duration": 4.72
+    },
+    {
+      "text": "when in fact you are being a asshole",
+      "start": 2419.04,
+      "duration": 2.88
+    },
+    {
+      "text": "around the office.",
+      "start": 2421.04,
+      "duration": 3.039
+    },
+    {
+      "text": ">> I'm not being a asshole. I'm being a",
+      "start": 2421.92,
+      "duration": 4.72
+    },
+    {
+      "text": "cool guy. Add tokens. All right. I don't",
+      "start": 2424.079,
+      "duration": 3.841
+    },
+    {
+      "text": "think I need any of this stuff right now",
+      "start": 2426.64,
+      "duration": 2.88
+    },
+    {
+      "text": "cuz I have a screw and I have a light",
+      "start": 2427.92,
+      "duration": 2.08
+    },
+    {
+      "text": "bulb.",
+      "start": 2429.52,
+      "duration": 1.2
+    },
+    {
+      "text": ">> Okay.",
+      "start": 2430.0,
+      "duration": 3.92
+    },
+    {
+      "text": ">> I think Yeah, I've got fancy screws.",
+      "start": 2430.72,
+      "duration": 5.04
+    },
+    {
+      "text": "Well, is a fancy screw just a regular",
+      "start": 2433.92,
+      "duration": 3.36
+    },
+    {
+      "text": "screw? Hold on.",
+      "start": 2435.76,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Hard to gauge.",
+      "start": 2437.28,
+      "duration": 3.76
+    },
+    {
+      "text": ">> Let's check it out.",
+      "start": 2438.64,
+      "duration": 5.439
+    },
+    {
+      "text": "Ooh, no. Fancy screw is a regular screw.",
+      "start": 2441.04,
+      "duration": 3.6
+    },
+    {
+      "text": "Yeah,",
+      "start": 2444.079,
+      "duration": 2.081
+    },
+    {
+      "text": ">> it's a totally normal screw.",
+      "start": 2444.64,
+      "duration": 3.92
+    },
+    {
+      "text": ">> Still nice to have. Nice to know.",
+      "start": 2446.16,
+      "duration": 5.12
+    },
+    {
+      "text": ">> Yeah, I had three, so I'm feeling good",
+      "start": 2448.56,
+      "duration": 4.4
+    },
+    {
+      "text": "about that.",
+      "start": 2451.28,
+      "duration": 5.92
+    },
+    {
+      "text": "Can you open me? Thank you.",
+      "start": 2452.96,
+      "duration": 6.56
+    },
+    {
+      "text": "The whift. All right, what's next? Fill",
+      "start": 2457.2,
+      "duration": 4.8
+    },
+    {
+      "text": "wave length wave gauge level one through",
+      "start": 2459.52,
+      "duration": 4.799
+    },
+    {
+      "text": "repairs. Going to another floor requires",
+      "start": 2462.0,
+      "duration": 3.68
+    },
+    {
+      "text": "powering up a lift with a set of amount",
+      "start": 2464.319,
+      "duration": 3.52
+    },
+    {
+      "text": "of waves. Operational electronics and",
+      "start": 2465.68,
+      "duration": 5.28
+    },
+    {
+      "text": "duly repaired furniture emit waves. Oh,",
+      "start": 2467.839,
+      "duration": 4.721
+    },
+    {
+      "text": "I see. So, I just have to repair a bunch",
+      "start": 2470.96,
+      "duration": 2.56
+    },
+    {
+      "text": "of junk.",
+      "start": 2472.56,
+      "duration": 2.64
+    },
+    {
+      "text": ">> Okay, here you go.",
+      "start": 2473.52,
+      "duration": 4.96
+    },
+    {
+      "text": ">> And then that'll make everything better.",
+      "start": 2475.2,
+      "duration": 6.56
+    },
+    {
+      "text": ">> You are are a handyman after all.",
+      "start": 2478.48,
+      "duration": 5.839
+    },
+    {
+      "text": ">> Why is it stuck?",
+      "start": 2481.76,
+      "duration": 4.319
+    },
+    {
+      "text": "Why is it stuck?",
+      "start": 2484.319,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Bigger narrow.",
+      "start": 2486.079,
+      "duration": 6.24
+    },
+    {
+      "text": ">> Oh, I guess it's just good. Oh.",
+      "start": 2488.319,
+      "duration": 7.0
+    },
+    {
+      "text": "Hello.",
+      "start": 2492.319,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh, is it fixed?",
+      "start": 2495.599,
+      "duration": 3.801
+    },
+    {
+      "text": "It's still stuck. I guess I have to move",
+      "start": 2500.4,
+      "duration": 4.56
+    },
+    {
+      "text": "that thing in there.",
+      "start": 2502.4,
+      "duration": 4.56
+    },
+    {
+      "text": ">> I like an abandoned futuristic warehouse",
+      "start": 2504.96,
+      "duration": 5.84
+    },
+    {
+      "text": "with a, you know, a comfy seat. Some",
+      "start": 2506.96,
+      "duration": 6.879
+    },
+    {
+      "text": "stadium seating.",
+      "start": 2510.8,
+      "duration": 4.799
+    },
+    {
+      "text": ">> Oh, I have to line up the hole with the",
+      "start": 2513.839,
+      "duration": 3.041
+    },
+    {
+      "text": "thing. Got it.",
+      "start": 2515.599,
+      "duration": 4.601
+    },
+    {
+      "text": ">> Oh, interesting.",
+      "start": 2516.88,
+      "duration": 3.32
+    },
+    {
+      "text": "There we go. That's nice. Now it's",
+      "start": 2521.119,
+      "duration": 5.041
+    },
+    {
+      "text": "emitting waves like crazy.",
+      "start": 2524.48,
+      "duration": 2.96
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 2526.16,
+      "duration": 4.159
+    },
+    {
+      "text": ">> Look at that. Nice little seat.",
+      "start": 2527.44,
+      "duration": 4.159
+    },
+    {
+      "text": ">> This fucking guy.",
+      "start": 2530.319,
+      "duration": 6.081
+    },
+    {
+      "text": ">> Call me Sandy the handy man. D",
+      "start": 2531.599,
+      "duration": 6.48
+    },
+    {
+      "text": "could do this all day.",
+      "start": 2536.4,
+      "duration": 4.0
+    },
+    {
+      "text": ">> 58%.",
+      "start": 2538.079,
+      "duration": 4.481
+    },
+    {
+      "text": "I'm getting things repaired like crazy.",
+      "start": 2540.4,
+      "duration": 5.919
+    },
+    {
+      "text": "What? What is this? Hold on. Oh, I ran",
+      "start": 2542.56,
+      "duration": 7.519
+    },
+    {
+      "text": "out of screws. That's okay. Open up this",
+      "start": 2546.319,
+      "duration": 6.641
+    },
+    {
+      "text": "dang door. Who would have thought fixing",
+      "start": 2550.079,
+      "duration": 5.121
+    },
+    {
+      "text": "stuff would be so good?",
+      "start": 2552.96,
+      "duration": 4.32
+    },
+    {
+      "text": ">> Yeah, it's pretty great. I might get",
+      "start": 2555.2,
+      "duration": 2.72
+    },
+    {
+      "text": "another one. Hey,",
+      "start": 2557.28,
+      "duration": 3.44
+    },
+    {
+      "text": ">> get yourself Mr. Boss coffee.",
+      "start": 2557.92,
+      "duration": 4.48
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 2560.72,
+      "duration": 2.48
+    },
+    {
+      "text": "Yum, yum, yum.",
+      "start": 2562.4,
+      "duration": 2.0
+    },
+    {
+      "text": ">> Tastes like Tommy Lee Jones. It",
+      "start": 2563.2,
+      "duration": 3.919
+    },
+    {
+      "text": ">> tastes exactly like Tommy Lee Jones.",
+      "start": 2564.4,
+      "duration": 4.16
+    },
+    {
+      "text": ">> Do you have any of that Tommy Lee Jones",
+      "start": 2567.119,
+      "duration": 2.081
+    },
+    {
+      "text": "flavored coffee?",
+      "start": 2568.56,
+      "duration": 3.279
+    },
+    {
+      "text": ">> Oh, I've got it right here. The boss,",
+      "start": 2569.2,
+      "duration": 2.96
+    },
+    {
+      "text": "you mean?",
+      "start": 2571.839,
+      "duration": 2.0
+    },
+    {
+      "text": ">> Well, you're a lot better than Starbucks",
+      "start": 2572.16,
+      "duration": 5.04
+    },
+    {
+      "text": "then, cuz they just give me looks.",
+      "start": 2573.839,
+      "duration": 4.561
+    },
+    {
+      "text": ">> Like, what the hell are you talking",
+      "start": 2577.2,
+      "duration": 2.879
+    },
+    {
+      "text": "about?",
+      "start": 2578.4,
+      "duration": 3.52
+    },
+    {
+      "text": "I'm talking about that boss coffee and",
+      "start": 2580.079,
+      "duration": 3.681
+    },
+    {
+      "text": "then the theme song starts playing.",
+      "start": 2581.92,
+      "duration": 3.679
+    },
+    {
+      "text": "Yeah,",
+      "start": 2583.76,
+      "duration": 3.839
+    },
+    {
+      "text": "he was the lead role in The Deer Hunter",
+      "start": 2585.599,
+      "duration": 6.961
+    },
+    {
+      "text": "from 1976. So, where have you been,",
+      "start": 2587.599,
+      "duration": 7.841
+    },
+    {
+      "text": ">> idiot?",
+      "start": 2592.56,
+      "duration": 5.92
+    },
+    {
+      "text": "Got myself a destabilized object. Cup",
+      "start": 2595.44,
+      "duration": 5.52
+    },
+    {
+      "text": "with the holder.",
+      "start": 2598.48,
+      "duration": 5.92
+    },
+    {
+      "text": ">> That just will not fucking stand in my",
+      "start": 2600.96,
+      "duration": 4.159
+    },
+    {
+      "text": "house.",
+      "start": 2604.4,
+      "duration": 5.12
+    },
+    {
+      "text": ">> Cup with the holder with the fur.",
+      "start": 2605.119,
+      "duration": 7.601
+    },
+    {
+      "text": "Oh, it's not even destabilized.",
+      "start": 2609.52,
+      "duration": 6.559
+    },
+    {
+      "text": "Oh man, all this stuff is like wavy.",
+      "start": 2612.72,
+      "duration": 4.879
+    },
+    {
+      "text": "All right, I got to fix something in",
+      "start": 2616.079,
+      "duration": 4.161
+    },
+    {
+      "text": "here. Maybe you got that apple bottom",
+      "start": 2617.599,
+      "duration": 5.361
+    },
+    {
+      "text": "frankincense boots with the myrr. With",
+      "start": 2620.24,
+      "duration": 6.04
+    },
+    {
+      "text": "the myrr.",
+      "start": 2622.96,
+      "duration": 3.32
+    },
+    {
+      "text": "I want to stick stuff in there. Oh,",
+      "start": 2628.16,
+      "duration": 4.08
+    },
+    {
+      "text": "whoops. My bad. My bad. My bad. I'm",
+      "start": 2630.079,
+      "duration": 3.76
+    },
+    {
+      "text": "sorry. I'm sorry.",
+      "start": 2632.24,
+      "duration": 2.079
+    },
+    {
+      "text": ">> Uh",
+      "start": 2633.839,
+      "duration": 2.081
+    },
+    {
+      "text": ">> shit. My bad. I'm sorry.",
+      "start": 2634.319,
+      "duration": 3.52
+    },
+    {
+      "text": ">> Can you undo that?",
+      "start": 2635.92,
+      "duration": 2.56
+    },
+    {
+      "text": ">> Oh.",
+      "start": 2637.839,
+      "duration": 2.161
+    },
+    {
+      "text": ">> Oh, good job, Aaron. You turned off the",
+      "start": 2638.48,
+      "duration": 2.0
+    },
+    {
+      "text": "whole game.",
+      "start": 2640.0,
+      "duration": 4.64
+    },
+    {
+      "text": ">> I I'm sorry. Yeah, I I I didn't mean to.",
+      "start": 2640.48,
+      "duration": 4.8
+    },
+    {
+      "text": "Uh-oh.",
+      "start": 2644.64,
+      "duration": 2.24
+    },
+    {
+      "text": ">> It's like in space space balls when they",
+      "start": 2645.28,
+      "duration": 3.68
+    },
+    {
+      "text": "turn off the movie.",
+      "start": 2646.88,
+      "duration": 6.04
+    },
+    {
+      "text": ">> Oh jeez. All right,",
+      "start": 2648.96,
+      "duration": 3.96
+    },
+    {
+      "text": "there we go. Did I do it? I think I did",
+      "start": 2654.88,
+      "duration": 6.64
+    },
+    {
+      "text": "it. Okay. Whoops. I didn't realize there",
+      "start": 2657.04,
+      "duration": 6.559
+    },
+    {
+      "text": "was a turn everything off button.",
+      "start": 2661.52,
+      "duration": 3.92
+    },
+    {
+      "text": ">> That's okay. Everybody needs one.",
+      "start": 2663.599,
+      "duration": 3.441
+    },
+    {
+      "text": ">> All right. It's back. It's back.",
+      "start": 2665.44,
+      "duration": 2.72
+    },
+    {
+      "text": ">> You don't need a button for that. You",
+      "start": 2667.04,
+      "duration": 2.16
+    },
+    {
+      "text": "can do that on your own.",
+      "start": 2668.16,
+      "duration": 4.88
+    },
+    {
+      "text": ">> Yeah. I just have to uh",
+      "start": 2669.2,
+      "duration": 6.639
+    },
+    {
+      "text": "I just have to remember awkward things",
+      "start": 2673.04,
+      "duration": 5.52
+    },
+    {
+      "text": "that happened to me in my life",
+      "start": 2675.839,
+      "duration": 3.601
+    },
+    {
+      "text": ">> such as,",
+      "start": 2678.56,
+      "duration": 2.4
+    },
+    {
+      "text": ">> you know, just like saying something to",
+      "start": 2679.44,
+      "duration": 2.879
+    },
+    {
+      "text": "somebody and being like, \"Oh my god,",
+      "start": 2680.96,
+      "duration": 3.44
+    },
+    {
+      "text": "that was an awful joke.\"",
+      "start": 2682.319,
+      "duration": 3.76
+    },
+    {
+      "text": ">> Fucking never forgive myself for saying",
+      "start": 2684.4,
+      "duration": 3.04
+    },
+    {
+      "text": "something like that.",
+      "start": 2686.079,
+      "duration": 1.681
+    },
+    {
+      "text": ">> Yeah,",
+      "start": 2687.44,
+      "duration": 1.36
+    },
+    {
+      "text": ">> this is stupid.",
+      "start": 2687.76,
+      "duration": 2.8
+    },
+    {
+      "text": ">> And then 2 minutes later you're like,",
+      "start": 2688.8,
+      "duration": 6.64
+    },
+    {
+      "text": "\"Ted is near near Ted. Ted is far",
+      "start": 2690.56,
+      "duration": 7.519
+    },
+    {
+      "text": "far Ted.\"",
+      "start": 2695.44,
+      "duration": 6.32
+    },
+    {
+      "text": ">> That's a good joke, though.",
+      "start": 2698.079,
+      "duration": 4.481
+    },
+    {
+      "text": "Yeah, you're right.",
+      "start": 2701.76,
+      "duration": 2.8
+    },
+    {
+      "text": ">> Give yourself a little more credit,",
+      "start": 2702.56,
+      "duration": 2.48
+    },
+    {
+      "text": "buddy.",
+      "start": 2704.56,
+      "duration": 2.559
+    },
+    {
+      "text": ">> Yeah, I think you kind of jack nailed",
+      "start": 2705.04,
+      "duration": 4.16
+    },
+    {
+      "text": "it.",
+      "start": 2707.119,
+      "duration": 4.881
+    },
+    {
+      "text": ">> Give me a token.",
+      "start": 2709.2,
+      "duration": 3.36
+    },
+    {
+      "text": ">> Oh,",
+      "start": 2712.0,
+      "duration": 1.28
+    },
+    {
+      "text": ">> cha ch",
+      "start": 2712.56,
+      "duration": 2.559
+    },
+    {
+      "text": ">> double to",
+      "start": 2713.28,
+      "duration": 3.36
+    },
+    {
+      "text": "Was that a watch? Was that a whole ass",
+      "start": 2715.119,
+      "duration": 1.841
+    },
+    {
+      "text": "watch?",
+      "start": 2716.64,
+      "duration": 1.6
+    },
+    {
+      "text": ">> No, it was just a token.",
+      "start": 2716.96,
+      "duration": 1.6
+    },
+    {
+      "text": ">> Okay.",
+      "start": 2718.24,
+      "duration": 2.96
+    },
+    {
+      "text": ">> Just a regular type token. I like it out",
+      "start": 2718.56,
+      "duration": 4.16
+    },
+    {
+      "text": "there to be honest with you. All right.",
+      "start": 2721.2,
+      "duration": 4.399
+    },
+    {
+      "text": "Uh, so I need to repair like one more",
+      "start": 2722.72,
+      "duration": 5.84
+    },
+    {
+      "text": "thing. So, what needs repairing around",
+      "start": 2725.599,
+      "duration": 5.52
+    },
+    {
+      "text": "here, do you think?",
+      "start": 2728.56,
+      "duration": 5.039
+    },
+    {
+      "text": "Like a door or like a",
+      "start": 2731.119,
+      "duration": 8.361
+    },
+    {
+      "text": ">> friendship? Well, okay. Well,",
+      "start": 2733.599,
+      "duration": 5.881
+    },
+    {
+      "text": ">> let me cook.",
+      "start": 2739.76,
+      "duration": 3.76
+    },
+    {
+      "text": ">> This guy's going crazy over here. Okay.",
+      "start": 2740.64,
+      "duration": 4.8
+    },
+    {
+      "text": "Door blocked.",
+      "start": 2743.52,
+      "duration": 4.0
+    },
+    {
+      "text": "Hanging things",
+      "start": 2745.44,
+      "duration": 3.679
+    },
+    {
+      "text": "box.",
+      "start": 2747.52,
+      "duration": 3.68
+    },
+    {
+      "text": "Sorry. Oh, light, light, light, light,",
+      "start": 2749.119,
+      "duration": 3.681
+    },
+    {
+      "text": "light.",
+      "start": 2751.2,
+      "duration": 4.159
+    },
+    {
+      "text": "Does that count as being fixed?",
+      "start": 2752.8,
+      "duration": 4.319
+    },
+    {
+      "text": "Oh, there's a missing light.",
+      "start": 2755.359,
+      "duration": 2.641
+    },
+    {
+      "text": ">> Oh,",
+      "start": 2757.119,
+      "duration": 3.041
+    },
+    {
+      "text": ">> take that out.",
+      "start": 2758.0,
+      "duration": 5.04
+    },
+    {
+      "text": ">> Done. Yeah.",
+      "start": 2760.16,
+      "duration": 5.04
+    },
+    {
+      "text": "All right. Light work. Oh, same deal",
+      "start": 2763.04,
+      "duration": 6.44
+    },
+    {
+      "text": "over here. Put in light.",
+      "start": 2765.2,
+      "duration": 4.28
+    },
+    {
+      "text": "Done. Okay, great.",
+      "start": 2769.839,
+      "duration": 2.081
+    },
+    {
+      "text": ">> Amazing.",
+      "start": 2771.04,
+      "duration": 3.6
+    },
+    {
+      "text": ">> I need 10% more repair. What else can I",
+      "start": 2771.92,
+      "duration": 4.96
+    },
+    {
+      "text": "repair?",
+      "start": 2774.64,
+      "duration": 3.92
+    },
+    {
+      "text": ">> I don't know. But you wielding that",
+      "start": 2776.88,
+      "duration": 3.04
+    },
+    {
+      "text": "fluorescent light like that looks like",
+      "start": 2778.56,
+      "duration": 2.96
+    },
+    {
+      "text": "one of those lightsaber swords you make",
+      "start": 2779.92,
+      "duration": 2.96
+    },
+    {
+      "text": "at Disneyland.",
+      "start": 2781.52,
+      "duration": 4.389
+    },
+    {
+      "text": "[Music]",
+      "start": 2782.88,
+      "duration": 3.029
+    },
+    {
+      "text": "And now you're a wizard.",
+      "start": 2788.64,
+      "duration": 5.52
+    },
+    {
+      "text": ">> Ari,",
+      "start": 2792.079,
+      "duration": 5.881
+    },
+    {
+      "text": ">> a space wizard.",
+      "start": 2794.16,
+      "duration": 3.8
+    },
+    {
+      "text": "I got to fix one more thing. And here's",
+      "start": 2799.2,
+      "duration": 5.36
+    },
+    {
+      "text": "where it is, baby. Take out that bulb.",
+      "start": 2800.96,
+      "duration": 6.32
+    },
+    {
+      "text": "Replace it with a good",
+      "start": 2804.56,
+      "duration": 5.2
+    },
+    {
+      "text": "Oh, I need to repair something else.",
+      "start": 2807.28,
+      "duration": 4.24
+    },
+    {
+      "text": ">> What? There's one more thing to repair.",
+      "start": 2809.76,
+      "duration": 5.2
+    },
+    {
+      "text": "I don't know. I have to find it.",
+      "start": 2811.52,
+      "duration": 3.44
+    },
+    {
+      "text": "That's the thing is you kind of just got",
+      "start": 2815.68,
+      "duration": 3.84
+    },
+    {
+      "text": "to look around and Is this it? Is that",
+      "start": 2817.44,
+      "duration": 5.919
+    },
+    {
+      "text": "the light? Is that a light? Yeah. Slide",
+      "start": 2819.52,
+      "duration": 5.52
+    },
+    {
+      "text": "that S in.",
+      "start": 2823.359,
+      "duration": 2.48
+    },
+    {
+      "text": ">> Can we show that?",
+      "start": 2825.04,
+      "duration": 1.44
+    },
+    {
+      "text": ">> Done.",
+      "start": 2825.839,
+      "duration": 1.52
+    },
+    {
+      "text": ">> All right.",
+      "start": 2826.48,
+      "duration": 3.119
+    },
+    {
+      "text": ">> All right. Lift status level two. My",
+      "start": 2827.359,
+      "duration": 3.76
+    },
+    {
+      "text": "wavelength.",
+      "start": 2829.599,
+      "duration": 2.961
+    },
+    {
+      "text": ">> Oh, status level.",
+      "start": 2831.119,
+      "duration": 1.761
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 2832.56,
+      "duration": 2.16
+    },
+    {
+      "text": ">> I thought you said the status level.",
+      "start": 2832.88,
+      "duration": 3.439
+    },
+    {
+      "text": ">> No, no, no, no.",
+      "start": 2834.72,
+      "duration": 7.2
+    },
+    {
+      "text": ">> Good. I don't want that. Contour Borm.",
+      "start": 2836.319,
+      "duration": 7.681
+    },
+    {
+      "text": "Borm.",
+      "start": 2841.92,
+      "duration": 3.6
+    },
+    {
+      "text": ">> But it doesn't it look like a little",
+      "start": 2844.0,
+      "duration": 3.92
+    },
+    {
+      "text": "face that's smiling at you.",
+      "start": 2845.52,
+      "duration": 6.559
+    },
+    {
+      "text": ">> Thanks for changing my Borm settings.",
+      "start": 2847.92,
+      "duration": 5.6
+    },
+    {
+      "text": ">> Hey, you did it.",
+      "start": 2852.079,
+      "duration": 3.441
+    },
+    {
+      "text": ">> All right. Hey, that was fun, man.",
+      "start": 2853.52,
+      "duration": 2.4
+    },
+    {
+      "text": ">> Yeah,",
+      "start": 2855.52,
+      "duration": 2.16
+    },
+    {
+      "text": ">> you're you're you're quite the handyman,",
+      "start": 2855.92,
+      "duration": 2.24
+    },
+    {
+      "text": "Aaron.",
+      "start": 2857.68,
+      "duration": 3.679
+    },
+    {
+      "text": ">> Thanks. Uh and you can grab this game on",
+      "start": 2858.16,
+      "duration": 4.64
+    },
+    {
+      "text": "your wish list. Well, it's not out yet,",
+      "start": 2861.359,
+      "duration": 3.681
+    },
+    {
+      "text": "but you can wishlist it on Steam. Uh,",
+      "start": 2862.8,
+      "duration": 4.0
+    },
+    {
+      "text": "you could try the early free version by",
+      "start": 2865.04,
+      "duration": 2.96
+    },
+    {
+      "text": "going to the game Steam page and",
+      "start": 2866.8,
+      "duration": 2.799
+    },
+    {
+      "text": "clicking join the play test. Like I said",
+      "start": 2868.0,
+      "duration": 3.359
+    },
+    {
+      "text": "at the beginning of the episode, it",
+      "start": 2869.599,
+      "duration": 4.0
+    },
+    {
+      "text": "launches on PC in 2026.",
+      "start": 2871.359,
+      "duration": 3.841
+    },
+    {
+      "text": ">> Add it to your Steam wish list.",
+      "start": 2873.599,
+      "duration": 2.24
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 2875.2,
+      "duration": 2.399
+    },
+    {
+      "text": ">> Link in the description.",
+      "start": 2875.839,
+      "duration": 5.24
+    },
+    {
+      "text": ">> Lincoln Park.",
+      "start": 2877.599,
+      "duration": 3.48
+    },
+    {
+      "text": ">> All right. Bye.",
+      "start": 2881.2,
+      "duration": 4.36
+    },
+    {
+      "text": ">> Goodbye everyone.",
+      "start": 2882.0,
+      "duration": 3.56
+    },
+    {
+      "text": "[Music]",
+      "start": 2886.78,
+      "duration": 14.399
+    },
+    {
+      "text": "Heat. Heat.",
+      "start": 2901.52,
+      "duration": 4.91
+    },
+    {
+      "text": "[Music]",
+      "start": 2903.24,
+      "duration": 3.19
+    },
+    {
+      "text": "[Music]",
+      "start": 2910.31,
+      "duration": 7.269
+    },
+    {
+      "text": "They don't seem",
+      "start": 2919.04,
+      "duration": 18.48
+    },
+    {
+      "text": "[Music]",
+      "start": 2922.17,
+      "duration": 15.35
+    },
+    {
+      "text": "Heat.",
+      "start": 2937.599,
+      "duration": 7.691
+    },
+    {
+      "text": "[Music]",
+      "start": 2940.35,
+      "duration": 4.94
+    },
+    {
+      "text": "Heat.",
+      "start": 2950.24,
+      "duration": 3.0
+    },
+    {
+      "text": "[Music]",
+      "start": 2959.5,
+      "duration": 9.51
+    },
+    {
+      "text": "I don't see",
+      "start": 2972.319,
+      "duration": 7.641
+    },
+    {
+      "text": "it's made of scientist. Yes.",
+      "start": 2975.52,
+      "duration": 4.44
+    },
+    {
+      "text": "[Music]",
+      "start": 2981.38,
+      "duration": 13.219
+    },
+    {
+      "text": "Watching the ch",
+      "start": 2990.96,
+      "duration": 3.639
+    },
+    {
+      "text": "[Music]",
+      "start": 2996.87,
+      "duration": 11.41
+    },
+    {
+      "text": "Heat. Heat.",
+      "start": 3005.28,
+      "duration": 3.0
+    },
+    {
+      "text": "[Music]",
+      "start": 3019.11,
+      "duration": 34.829
+    },
+    {
+      "text": "I appre. Free. What is it? Free. Those",
+      "start": 3055.119,
+      "duration": 7.121
+    },
+    {
+      "text": "are all words from my brain, not from a",
+      "start": 3058.48,
+      "duration": 6.76
+    },
+    {
+      "text": "paper.",
+      "start": 3062.24,
+      "duration": 3.0
+    }
+  ]
+}

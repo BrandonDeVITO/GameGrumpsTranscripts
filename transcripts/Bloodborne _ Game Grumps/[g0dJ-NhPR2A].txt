@@ -1,0 +1,1948 @@
+{
+  "video_id": "g0dJ-NhPR2A",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "[Arin] ♪ Hey I'm Grump! ♪",
+      "start": 0.0,
+      "duration": 1.0
+    },
+    {
+      "text": "[Dan] ♪ I'm not so Grump! ♪",
+      "start": 1.0,
+      "duration": 1.6
+    },
+    {
+      "text": "[Both] ♪ And we're the Game Grumps! ♪",
+      "start": 2.6,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] Hey. Hey, welcome.",
+      "start": 5.3,
+      "duration": 1.46
+    },
+    {
+      "text": "[Dan] Oh! Oh, we're playing.",
+      "start": 6.86,
+      "duration": 0.92
+    },
+    {
+      "text": "[Arin] Welcome to the series.",
+      "start": 7.78,
+      "duration": 1.3
+    },
+    {
+      "text": "[Dan] Ohh, it's Bloodborne.\n[Arin] This is Bloodborne.",
+      "start": 9.08,
+      "duration": 1.74
+    },
+    {
+      "text": "[Arin] Now I know what you're thinking\n[Dan] What?",
+      "start": 10.82,
+      "duration": 1.52
+    },
+    {
+      "text": "[Arin] This game's really hard.\n[Dan] Yes, and cheese is delicious.",
+      "start": 12.34,
+      "duration": 2.36
+    },
+    {
+      "text": "[Arin] And—\n[Dan] That's what I was thinking",
+      "start": 14.7,
+      "duration": 1.58
+    },
+    {
+      "text": "[Dan, giggling] Sorry.\n[Arin] Now I know what you're thinking...",
+      "start": 16.28,
+      "duration": 3.0
+    },
+    {
+      "text": "[Arin, theatrically] I don't know if I put socks on today!",
+      "start": 19.92,
+      "duration": 2.88
+    },
+    {
+      "text": "[Dan] *laughs* I did, I'm looking at my feet right now.\n[Arin] Oh, okay",
+      "start": 22.8,
+      "duration": 2.64
+    },
+    {
+      "text": "[Arin] Uh, this a game for the PS4. \n[Dan] God, this is beautiful!",
+      "start": 25.68,
+      "duration": 3.44
+    },
+    {
+      "text": "[Arin] This was made by the creator of Dark Souls.",
+      "start": 29.12,
+      "duration": 3.48
+    },
+    {
+      "text": "[Arin] Oh, these are spoilers.",
+      "start": 32.6,
+      "duration": 1.64
+    },
+    {
+      "text": "[Dan] Really?\n[Arin] I mean,",
+      "start": 34.24,
+      "duration": 1.18
+    },
+    {
+      "text": "[Arin] I guess calling them spoilers would be spoilers.",
+      "start": 35.42,
+      "duration": 2.9
+    },
+    {
+      "text": "[Dan] Maybe he's friendly",
+      "start": 38.32,
+      "duration": 1.08
+    },
+    {
+      "text": "[Arin] Yeah, I think he wants to just say hi. \n[Dan] Damn!",
+      "start": 39.58,
+      "duration": 2.46
+    },
+    {
+      "text": "[Arin] He just wants to say hi.",
+      "start": 42.04,
+      "duration": 1.2
+    },
+    {
+      "text": "[Dan] From the inside. \n[Arin] \"Hello~ How ya doin'?\"",
+      "start": 43.24,
+      "duration": 2.74
+    },
+    {
+      "text": "[Dan] Holy crap!\n[Arin] Okay, Bloodborne, yay!",
+      "start": 45.98,
+      "duration": 1.98
+    },
+    {
+      "text": "[Dan] This game looks awesome!\n[Arin] Yeah, it is.",
+      "start": 47.96,
+      "duration": 1.94
+    },
+    {
+      "text": "[Dan] Let's do it.\n[Arin] It is. Trust me, it is.",
+      "start": 49.9,
+      "duration": 2.3
+    },
+    {
+      "text": "[Dan] The graphics aren't quite as good as Mario 64, we apologize for that",
+      "start": 52.54,
+      "duration": 4.44
+    },
+    {
+      "text": "[Arin] I don't want Playstation Plus.\n[Dan] Do you wanna try Playstation Plus, Arin?",
+      "start": 56.98,
+      "duration": 3.54
+    },
+    {
+      "text": "[Arin, reading] You will not be able to use this feature until you join PlayStation Plus",
+      "start": 60.52,
+      "duration": 3.76
+    },
+    {
+      "text": "[Dan] What feature? Playing the game?",
+      "start": 64.28,
+      "duration": 1.96
+    },
+    {
+      "text": "[Arin, reading] Not able to verify.",
+      "start": 66.24,
+      "duration": 2.08
+    },
+    {
+      "text": "[Arin] What, you can't play this game without PlayStation Plus?",
+      "start": 68.88,
+      "duration": 2.68
+    },
+    {
+      "text": "[Dan] No, no, no, you can't play it online.",
+      "start": 71.56,
+      "duration": 2.04
+    },
+    {
+      "text": "[Arin] Yeah, but I want to play it online",
+      "start": 73.6,
+      "duration": 1.24
+    },
+    {
+      "text": "[Dan] Oh you do!\n[Arin] Then I get notes.",
+      "start": 74.84,
+      "duration": 1.9
+    },
+    {
+      "text": "[Dan] Ohh",
+      "start": 76.9,
+      "duration": 0.86
+    },
+    {
+      "text": "[Arin] Eh, whatever, I'll do it later.",
+      "start": 77.92,
+      "duration": 2.02
+    },
+    {
+      "text": "[Dan, in bratty voice] Fine!",
+      "start": 79.94,
+      "duration": 1.12
+    },
+    {
+      "text": "[Arin] Alright. This is fine— I don't want him to be invisible! It's hard to see.",
+      "start": 81.06,
+      "duration": 3.46
+    },
+    {
+      "text": "[Arin] So I'll make it like this-ish.",
+      "start": 84.52,
+      "duration": 2.2
+    },
+    {
+      "text": "[Dan] Okay",
+      "start": 86.96,
+      "duration": 1.02
+    },
+    {
+      "text": "[Arin] Um, these are all good.",
+      "start": 88.04,
+      "duration": 1.12
+    },
+    {
+      "text": "[Dan] Pfft, I love it.",
+      "start": 89.42,
+      "duration": 1.22
+    },
+    {
+      "text": "[Arin, ominously] Welcome to Bloodborne!",
+      "start": 90.82,
+      "duration": 1.53
+    },
+    {
+      "text": "[Arin] First, uh, tell me your preferences on whether or not you like the right stick to be a camera",
+      "start": 92.35,
+      "duration": 4.75
+    },
+    {
+      "text": "[Dan] *whispers* Plot!",
+      "start": 97.1,
+      "duration": 1.4
+    },
+    {
+      "text": "[Dan] Thank you.",
+      "start": 100.62,
+      "duration": 0.72
+    },
+    {
+      "text": "[Arin] Hey, alright.",
+      "start": 103.98,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] Okay",
+      "start": 107.56,
+      "duration": 1.28
+    },
+    {
+      "text": "[Arin] Go on...\n[Dan] It's a never ending story.",
+      "start": 109.8,
+      "duration": 1.84
+    },
+    {
+      "text": "[Dan] Bada-da dada-da dada-da.",
+      "start": 112.2,
+      "duration": 1.48
+    },
+    {
+      "text": "[Arin] Begin with what? You're the one talking.",
+      "start": 113.96,
+      "duration": 2.26
+    },
+    {
+      "text": "[Arin] Really? How do you know?",
+      "start": 118.18,
+      "duration": 2.0
+    },
+    {
+      "text": "[Dan] Eww!",
+      "start": 121.66,
+      "duration": 1.18
+    },
+    {
+      "text": "[Arin] Yeah, are his eyes missing or are they just...?\n[Dan] Yeah, they're not there.",
+      "start": 123.1,
+      "duration": 3.18
+    },
+    {
+      "text": "[Arin] Oh, okay. Just making sure.",
+      "start": 126.28,
+      "duration": 2.9
+    },
+    {
+      "text": "[Arin] I don't need a contract!\n[Dan] Yeah and why would you bother looking at me?",
+      "start": 129.18,
+      "duration": 2.82
+    },
+    {
+      "text": "[Arin] Oh, I gotta make a character.\n[Dan] You've got no eyes.",
+      "start": 132.0,
+      "duration": 2.04
+    },
+    {
+      "text": "[Dan] Oh sick!\n[Arin] Okay, so my name is gonna be...",
+      "start": 134.04,
+      "duration": 2.98
+    },
+    {
+      "text": "[Dan] ...Itta?\n[Arin] *laughs* Yeah okay alright.",
+      "start": 137.02,
+      "duration": 3.2
+    },
+    {
+      "text": "[Arin] You're on the right track",
+      "start": 140.28,
+      "duration": 1.54
+    },
+    {
+      "text": "[Arin] Uh, Itta.",
+      "start": 141.82,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] And then last name will be, uhh",
+      "start": 144.3,
+      "duration": 3.26
+    },
+    {
+      "text": "[Arin] \"Pupu\"\n[Dan, w/ vaguely foreign accent] Itta Pupu.",
+      "start": 150.24,
+      "duration": 2.68
+    },
+    {
+      "text": "[Dan, w/ accent] They eat the poopoo.",
+      "start": 153.58,
+      "duration": 2.74
+    },
+    {
+      "text": "[Dan, w/ accent] We will NOT have this sickness in Uganda!",
+      "start": 156.32,
+      "duration": 2.06
+    },
+    {
+      "text": "[Both] *laugh*",
+      "start": 158.38,
+      "duration": 1.82
+    },
+    {
+      "text": "[Arin, w/ accent] We do not want this sickness!",
+      "start": 160.2,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] I wanna be young. I don't wanna be Milquetoast. I want to have... *deliberates* ... a Troubled Childhood.",
+      "start": 163.08,
+      "duration": 6.06
+    },
+    {
+      "text": "[Dan] Oh, okay.\n[Arin] I mean I could...",
+      "start": 169.14,
+      "duration": 2.02
+    },
+    {
+      "text": "[Dan] Milquetoast sounds delicious\n [Arin] Well that's just like average attributes, right.",
+      "start": 171.48,
+      "duration": 4.22
+    },
+    {
+      "text": "[Dan] Oh, I see.\n[Arin] But I wanna... *sneezes*",
+      "start": 175.7,
+      "duration": 2.86
+    },
+    {
+      "text": "[Dan] Bless you.\n[Arin] I wanna have high endurance.",
+      "start": 178.56,
+      "duration": 1.94
+    },
+    {
+      "text": "[Dan, mispronouncing \"scion\"] What about a Noble Scion?",
+      "start": 180.5,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] Ooh, Lone Survivor, that's pretty good.\n[Dan, faintly and correctly this time] Scion...",
+      "start": 182.5,
+      "duration": 2.48
+    },
+    {
+      "text": "[Arin] That's actually really good. You know what? I might do that.",
+      "start": 184.98,
+      "duration": 2.8
+    },
+    {
+      "text": "[Arin] I'm gonna do that.",
+      "start": 188.94,
+      "duration": 2.08
+    },
+    {
+      "text": "[Dan] What the fuck is it? I think it's either from \"Archer\" or",
+      "start": 191.02,
+      "duration": 3.78
+    },
+    {
+      "text": "[Dan] Uhh, \"Frisky Dingo.\"",
+      "start": 194.8,
+      "duration": 2.5
+    },
+    {
+      "text": "[Dan] But like somebody's saying something and out of nowhere like this douchey marketing guy walks in",
+      "start": 197.3,
+      "duration": 4.54
+    },
+    {
+      "text": "[Dan] and he's like, \"*scoffs* Oh man! That's exactly the kind of forward thinking we love over at Scion!\"",
+      "start": 201.84,
+      "duration": 5.26
+    },
+    {
+      "text": "[Dan] \"Hi, Jim Edwards, Scion marketing.\"\n[Both] *laugh*",
+      "start": 207.1,
+      "duration": 4.4
+    },
+    {
+      "text": "[Dan] So fucking funny\n[Arin] Aw, I'm I'm I'm wrapped up in this.",
+      "start": 212.64,
+      "duration": 4.64
+    },
+    {
+      "text": "[Dan] You're lookin' good, man!\n[Arin] Thanks.",
+      "start": 217.28,
+      "duration": 1.84
+    },
+    {
+      "text": "[Dan] You got a gorgeous clavicle.",
+      "start": 219.12,
+      "duration": 1.72
+    },
+    {
+      "text": "[Arin] I'm gonna go straight young apparent age. I'm gonna be very feminine.",
+      "start": 220.84,
+      "duration": 3.72
+    },
+    {
+      "text": "[Dan] Mm-hm",
+      "start": 224.8,
+      "duration": 1.74
+    },
+    {
+      "text": "[Dan] The boobs just start like *makes inflating sound*",
+      "start": 226.54,
+      "duration": 3.02
+    },
+    {
+      "text": "[Arin] Do I want to go weak? Yeah, cuz that makes her face rounder",
+      "start": 229.56,
+      "duration": 3.06
+    },
+    {
+      "text": "[Arin] Because if she looks strong then she ends up just looking like a dude.",
+      "start": 233.2,
+      "duration": 3.08
+    },
+    {
+      "text": "[Dan] No-ho-ho! She looks really...ooh",
+      "start": 236.28,
+      "duration": 2.24
+    },
+    {
+      "text": "[Arin] Yeah, so I’m gonna go full… \n[Dan] Oh I see",
+      "start": 238.64,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] Yeah see?",
+      "start": 240.64,
+      "duration": 1.1
+    },
+    {
+      "text": "[Dan] I like my women weak, Arin!\n[Both] *facetious laughter*",
+      "start": 241.74,
+      "duration": 2.74
+    },
+    {
+      "text": "[Dan] Send your complaints to Arin Hanson at gmail.com!",
+      "start": 244.48,
+      "duration": 3.04
+    },
+    {
+      "text": "[Arin] It's just— it's just the way to get it to look at the right way!",
+      "start": 247.52,
+      "duration": 2.84
+    },
+    {
+      "text": "[Dan] *giggling*",
+      "start": 250.36,
+      "duration": 0.92
+    },
+    {
+      "text": "[Arin] I'm so— it's not my fault, it's the game's fault! The game's racist!",
+      "start": 251.28,
+      "duration": 3.6
+    },
+    {
+      "text": "[Dan] Whoa, look at those eyes.\n[Arin] Yeah, I'm gonna make 'em cool, right.",
+      "start": 254.88,
+      "duration": 2.6
+    },
+    {
+      "text": "[Dan] Whoa!",
+      "start": 257.48,
+      "duration": 1.12
+    },
+    {
+      "text": "[Arin] You can make them different colors, too.",
+      "start": 259.1,
+      "duration": 2.02
+    },
+    {
+      "text": "[Dan] Aw sweet. \n[Arin] I can make this one like...",
+      "start": 261.3,
+      "duration": 2.52
+    },
+    {
+      "text": "[Dan] *awestruck sound*",
+      "start": 264.16,
+      "duration": 1.1
+    },
+    {
+      "text": "[Arin] ...Blue.",
+      "start": 265.26,
+      "duration": 1.02
+    },
+    {
+      "text": "[Dan] That's crazy rad.\n[Arin] Yeah.",
+      "start": 266.28,
+      "duration": 1.94
+    },
+    {
+      "text": "[Arin] That's cool right?\n[Dan] Yeah, very cool.",
+      "start": 268.46,
+      "duration": 2.56
+    },
+    {
+      "text": "[Arin] Aw shit! I fucked it up!\n[Dan] Dang it.",
+      "start": 271.02,
+      "duration": 2.0
+    },
+    {
+      "text": "[Dan] It's okay, you probably look better with two matching eyes.",
+      "start": 273.12,
+      "duration": 2.18
+    },
+    {
+      "text": "[Arin] Nahhh\n[Dan] Okay cool.",
+      "start": 275.3,
+      "duration": 1.4
+    },
+    {
+      "text": "[Arin] I'll go straight blue.",
+      "start": 276.7,
+      "duration": 0.98
+    },
+    {
+      "text": "[Dan] Go cyborg style?\n[Arin] Done. Alright uhh",
+      "start": 277.68,
+      "duration": 2.68
+    },
+    {
+      "text": "[Arin] Let's give her a mark",
+      "start": 280.4,
+      "duration": 1.98
+    },
+    {
+      "text": "[Arin] Let's give her like a little like scar or something\n[Dan] Yeah",
+      "start": 282.38,
+      "duration": 3.62
+    },
+    {
+      "text": "[Arin] Two little dots.\n[Dan] Ueghh",
+      "start": 286.1,
+      "duration": 1.62
+    },
+    {
+      "text": "[Dan] Those aren't little dots...\n[Arin] Eye scar",
+      "start": 287.72,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] Ehh, they're dots-ish.",
+      "start": 290.24,
+      "duration": 2.22
+    },
+    {
+      "text": "[Dan] Yeah, give her the John Lennon glasses.\n[Arin] Uh, yeah",
+      "start": 292.46,
+      "duration": 2.32
+    },
+    {
+      "text": "[Arin] Whoaa\n[Dan] Ohhkay",
+      "start": 294.78,
+      "duration": 1.12
+    },
+    {
+      "text": "[Arin] Okay!\n[Dan] Okay!",
+      "start": 295.9,
+      "duration": 1.58
+    },
+    {
+      "text": "[Arin] I like these.\n[Dan] Yeah, those are nice. Some bifocals.",
+      "start": 298.14,
+      "duration": 4.06
+    },
+    {
+      "text": "[Arin] Color of the glasses?\n[Dan] God, she's like a sexy librarian.",
+      "start": 302.48,
+      "duration": 2.62
+    },
+    {
+      "text": "[Dan, as sexy librarian] Can I help you find a book?\n[Arin] *laughs*",
+      "start": 305.36,
+      "duration": 2.46
+    },
+    {
+      "text": "[Arin, as sexy librarian] In ancient times?",
+      "start": 307.9,
+      "duration": 1.56
+    },
+    {
+      "text": "[Arin, normal] Just like I dude eating your face like, \"help me!\"",
+      "start": 309.46,
+      "duration": 2.26
+    },
+    {
+      "text": "[Arin, as sexy librarian] Do you need a book on help to not get people to eat your face?",
+      "start": 311.72,
+      "duration": 3.18
+    },
+    {
+      "text": "[Dan, as sexy librarian] Hold on let me check the bibliography\n[Arin, as sexy librarian] Yeah~",
+      "start": 314.9,
+      "duration": 2.7
+    },
+    {
+      "text": "[Arin] All right, this is good. You can't even see her hair when you're playing, so.",
+      "start": 317.72,
+      "duration": 3.54
+    },
+    {
+      "text": "[Dan] Yay\n[Arin] Done",
+      "start": 321.26,
+      "duration": 1.0
+    },
+    {
+      "text": "[Dan] You can't see that sweet clavicle either when she's wearing all those layers.",
+      "start": 322.3,
+      "duration": 3.4
+    },
+    {
+      "text": "[Arin] Okay, cool. Finish. Yes. This is my contract.\n[Dan, in fancy voice] Finalize the contract.",
+      "start": 326.7,
+      "duration": 5.26
+    },
+    {
+      "text": "[Arin] All right, we're playing Bloodborne. \n[Dan] You're a hot chick, sign here.",
+      "start": 332.1,
+      "duration": 2.72
+    },
+    {
+      "text": "[Arin] Cool glasses, check. \n[Dan] Noted.",
+      "start": 336.72,
+      "duration": 2.28
+    },
+    {
+      "text": "[Arin] Those are actually extra. It's like guacamole at Chipotle.",
+      "start": 339.0,
+      "duration": 2.96
+    },
+    {
+      "text": "[Dan] Fucking. How dare they charge extra. \n[Arin] I don't, yeah, every single time.",
+      "start": 342.46,
+      "duration": 3.98
+    },
+    {
+      "text": "[Dan] They're avocados, they're the cheapest fucking thing.\n[Arin] Every single time.",
+      "start": 346.44,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] Well, it's like, I don't wanna sit through the rigmarole of like, \"It's extra!\"",
+      "start": 348.64,
+      "duration": 3.16
+    },
+    {
+      "text": "[Arin] So I'm just like, \"I know it's extra.\" and then it makes me sound douchey, you know?",
+      "start": 351.9,
+      "duration": 4.44
+    },
+    {
+      "text": "[Arin] I'm like, \"I'll have guacamole, I know it's extra.\"",
+      "start": 356.34,
+      "duration": 1.48
+    },
+    {
+      "text": "[Dan] Yeah, you always do sound douchey whenever you know, like, the place a little too well",
+      "start": 357.82,
+      "duration": 3.72
+    },
+    {
+      "text": "[Dan] and you're trying to help them by being really specific with your order",
+      "start": 361.54,
+      "duration": 3.76
+    },
+    {
+      "text": "[Dan] Like when I go to Panera I'm like,",
+      "start": 365.3,
+      "duration": 1.6
+    },
+    {
+      "text": "[Dan] \"I'll have a turkey, plain, with apple on the side and a large iced green tea. No need to do the thing you guys always do!",
+      "start": 366.9,
+      "duration": 6.24
+    },
+    {
+      "text": "[Dan] And they're like, \"Ugh, fuckin', this guy.\"",
+      "start": 373.14,
+      "duration": 1.18
+    },
+    {
+      "text": "[Arin] \"Not a baguette, please!\n[Dan, in agreement] Yeah, yeah, yeah.",
+      "start": 374.32,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] Transfusion? But then I'll lose the power",
+      "start": 379.68,
+      "duration": 2.74
+    },
+    {
+      "text": "[Arin] That was an \"Edge of Tomorrow\" reference.\n[Dan] Oh! Got it.",
+      "start": 383.58,
+      "duration": 2.34
+    },
+    {
+      "text": "[Arin] If you've never seen that movie.",
+      "start": 385.92,
+      "duration": 1.84
+    },
+    {
+      "text": "[Dan] Oh he's just got bandages over his eyes. He might still have eyes. They're probably not looking good.",
+      "start": 389.54,
+      "duration": 5.42
+    },
+    {
+      "text": "[Arin, as old man] I just remembered a funny joke my son told me. It was a poop joke.",
+      "start": 396.8,
+      "duration": 4.96
+    },
+    {
+      "text": "[Dan, as old man] I read your name.\n[Arin] *laughs*",
+      "start": 401.76,
+      "duration": 2.22
+    },
+    {
+      "text": "[Dan] Itta Pupu...\n[Arin] *laughter devolves into gross coughing sounds*",
+      "start": 403.98,
+      "duration": 2.38
+    },
+    {
+      "text": "[Arin, in crazed gravelly voice] Itta Pupu!",
+      "start": 406.44,
+      "duration": 1.86
+    },
+    {
+      "text": "[Arin, dialing back] Ahh, it's so funny!",
+      "start": 408.3,
+      "duration": 1.94
+    },
+    {
+      "text": "[Dan] Oh man. Did we just leave the door open for this being like... it was all a dream? Like one of those plots?",
+      "start": 410.24,
+      "duration": 4.619
+    },
+    {
+      "text": "[Arin] Oh, no, not at all. This guy's just gone and now there's uh blood demons or something?",
+      "start": 414.86,
+      "duration": 5.02
+    },
+    {
+      "text": "[Dan] I hate this stuff.\n[Arin] Yeah, so",
+      "start": 419.88,
+      "duration": 2.26
+    },
+    {
+      "text": "[Arin] 'Sup!",
+      "start": 422.14,
+      "duration": 0.96
+    },
+    {
+      "text": "[Arin] What's goin' on?",
+      "start": 423.3,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] Here he comes! \n[Dan, as if speaking to a dog] Who'sa bozers? (nonsensical pet name)",
+      "start": 426.44,
+      "duration": 2.9
+    },
+    {
+      "text": "[Dan, continued dog speak] Who'sa bozers?\n[Arin, enthusiastically as dog?] Oh, I'm the bozers!!",
+      "start": 429.86,
+      "duration": 3.12
+    },
+    {
+      "text": "[Dan, continued dog speak] You're the sweetest little puppy!",
+      "start": 432.98,
+      "duration": 1.94
+    },
+    {
+      "text": "[Arin] And it's like, \"Press 'X' to throw bone.\"",
+      "start": 434.92,
+      "duration": 2.54
+    },
+    {
+      "text": "[Arin] Oh no! Oh, he got flamed-ed.",
+      "start": 438.12,
+      "duration": 3.46
+    },
+    {
+      "text": "[Arin] Oh, that poor lycanthrope.",
+      "start": 442.68,
+      "duration": 1.52
+    },
+    {
+      "text": "[Dan] Yeah. That's what happens when you don't stick to your uh dry diet.",
+      "start": 444.2,
+      "duration": 4.9
+    },
+    {
+      "text": "[Giggles]",
+      "start": 449.1,
+      "duration": 1.7
+    },
+    {
+      "text": "[Arin] Start eating that wet food, you're gonna have horrible diarrhea. Hi!",
+      "start": 450.92,
+      "duration": 3.52
+    },
+    {
+      "text": "[Dan] Hi! Hi!\n[Arin] Hello.",
+      "start": 454.44,
+      "duration": 1.64
+    },
+    {
+      "text": "[Dan] And who are you, little funny fella?",
+      "start": 456.08,
+      "duration": 2.28
+    },
+    {
+      "text": "[Arin, in creepy voice] My name's Steven!",
+      "start": 458.36,
+      "duration": 2.54
+    },
+    {
+      "text": "[Arin, in lower voice] And I'm Sharol!\n[Dan] Eww!",
+      "start": 460.9,
+      "duration": 2.28
+    },
+    {
+      "text": "[Dan] Oh God, oh",
+      "start": 463.36,
+      "duration": 1.42
+    },
+    {
+      "text": "[Dan] Oh, well this is relaxing!",
+      "start": 464.78,
+      "duration": 3.44
+    },
+    {
+      "text": "[Dan] Oh, I do not– this is why I don't like sleeping on my back cuz I have dreams like this",
+      "start": 468.44,
+      "duration": 5.18
+    },
+    {
+      "text": "[Arin] Really?\n[Dan] Where like things are coming over me? *makes spooked noise*",
+      "start": 473.62,
+      "duration": 2.96
+    },
+    {
+      "text": "[Arin] Well, they're gonna come over you one way or another no matter how you lay.",
+      "start": 476.72,
+      "duration": 3.0
+    },
+    {
+      "text": "[Dan] Oh, no. If I'm fetal I don't have the dreams",
+      "start": 479.72,
+      "duration": 1.76
+    },
+    {
+      "text": "[Arin] *giggling incredulously* If you're fetal?",
+      "start": 481.48,
+      "duration": 1.36
+    },
+    {
+      "text": "[Dan] Yeah, yeah, I'm nice and fetal.\n[Arin] If I'm in the full fetal position.",
+      "start": 482.84,
+      "duration": 3.24
+    },
+    {
+      "text": "[Dan] You know it.",
+      "start": 486.08,
+      "duration": 0.76
+    },
+    {
+      "text": "[Arin] Full fetal \"posish\" (\"position\" shortened)",
+      "start": 486.84,
+      "duration": 1.16
+    },
+    {
+      "text": "[Dan] Yeah some sweet \"posish\".",
+      "start": 488.0,
+      "duration": 1.86
+    },
+    {
+      "text": "[Dan] Okay, so are we just gonna gloss over that weird, like, gross groping session we just received?",
+      "start": 489.86,
+      "duration": 5.12
+    },
+    {
+      "text": "[Arin] Yeah, it's fine. Everything's fine. I feel like there's items in here.",
+      "start": 494.98,
+      "duration": 3.3
+    },
+    {
+      "text": "[Arin] So I have played this to preface people",
+      "start": 499.18,
+      "duration": 2.24
+    },
+    {
+      "text": "[Arin] I've been playing this for a long time—\n[Dan] *laughs*",
+      "start": 501.7,
+      "duration": 2.66
+    },
+    {
+      "text": "[Dan] To assuage the fears of anyone who saw this in the thumbnail and was like, \"Oh god, no!\"\n[Arin] *laughs*",
+      "start": 504.36,
+      "duration": 6.26
+    },
+    {
+      "text": "[Arin] Yes, I've been playing it for quite a while, so. \n[Dan] Cool.",
+      "start": 510.7,
+      "duration": 4.44
+    },
+    {
+      "text": "[Arin] I should be okay at it",
+      "start": 515.14,
+      "duration": 1.66
+    },
+    {
+      "text": "[Arin, nervously] But you never know!",
+      "start": 516.8,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] These situations, they just...",
+      "start": 518.8,
+      "duration": 2.74
+    },
+    {
+      "text": "[Arin] Oh boy...",
+      "start": 521.54,
+      "duration": 1.42
+    },
+    {
+      "text": "[Arin] Okay, where is, uh...?",
+      "start": 522.96,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] Oh, these are all tutorials.",
+      "start": 525.28,
+      "duration": 1.72
+    },
+    {
+      "text": "[Dan] Oh, okay.\n[Arin] Yeah, so those little guys that were–",
+      "start": 527.0,
+      "duration": 2.58
+    },
+    {
+      "text": "[Dan] Oh yeah, there they are!",
+      "start": 529.7,
+      "duration": 0.9
+    },
+    {
+      "text": "[Arin] And they're like, \"Hey, what's up?\"\n[Dan] \"Hii!\"",
+      "start": 530.6,
+      "duration": 1.86
+    },
+    {
+      "text": "[Arin] \"You want my scroll?\"\n[Dan] ♪ \"Hello! Hello!\" ♪",
+      "start": 532.46,
+      "duration": 2.36
+    },
+    {
+      "text": "[Both] *laugh*",
+      "start": 534.82,
+      "duration": 2.4
+    },
+    {
+      "text": "[Arin] ♪ \"Here's some tips! Here's some tips! Here's some tips! Lock on!\" ♪",
+      "start": 537.24,
+      "duration": 4.58
+    },
+    {
+      "text": "[Dan] So they're friendly, those little guys?\n[Arin] Yeah, they're helpin' you out.",
+      "start": 541.84,
+      "duration": 2.96
+    },
+    {
+      "text": "[Dan] Get the fuck outta here.\n[Arin] Yeah, totally nice.",
+      "start": 544.8,
+      "duration": 1.9
+    },
+    {
+      "text": "[Dan] Whoa. Did not see that coming.",
+      "start": 546.7,
+      "duration": 2.8
+    },
+    {
+      "text": "[Arin] Alright, so there's a lycanthrope over there.",
+      "start": 549.5,
+      "duration": 2.5
+    },
+    {
+      "text": "[Dan] Alright. Is that good?",
+      "start": 552.2,
+      "duration": 1.48
+    },
+    {
+      "text": "[Arin] Well, he is definitely going to kill the shit out of me",
+      "start": 553.68,
+      "duration": 2.82
+    },
+    {
+      "text": "[Dan] Oh!",
+      "start": 556.5,
+      "duration": 1.38
+    },
+    {
+      "text": "[Dan] Is /that/ good?\n[Arin] I don't know how– fuck.",
+      "start": 557.96,
+      "duration": 2.08
+    },
+    {
+      "text": "[Dan] LYCANTHROPE!\n[Arin] *laughs*",
+      "start": 560.1,
+      "duration": 2.58
+    },
+    {
+      "text": "[Arin] COME AT ME BEAST!\n[Dan] *laughs*",
+      "start": 562.68,
+      "duration": 2.24
+    },
+    {
+      "text": "[Arin] I AM UNARMED!",
+      "start": 564.98,
+      "duration": 1.32
+    },
+    {
+      "text": "[Dan] *laughs louder*",
+      "start": 566.3,
+      "duration": 1.12
+    },
+    {
+      "text": "[Dan] Should've...",
+      "start": 567.42,
+      "duration": 1.18
+    },
+    {
+      "text": "[Dan] Should've grabbed a sword in retrospect!",
+      "start": 569.16,
+      "duration": 2.44
+    },
+    {
+      "text": "[Arin] I wonder if I can just, like, run by him.\n[Dan] Ohh, yeah. Look at you.",
+      "start": 571.6,
+      "duration": 3.0
+    },
+    {
+      "text": "[Arin] 'Sup. See ya! See ya!",
+      "start": 574.6,
+      "duration": 2.12
+    },
+    {
+      "text": "[Arin] I'm outtie!\n[Dan] Yeah",
+      "start": 576.72,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] Goodbye!",
+      "start": 579.36,
+      "duration": 1.66
+    },
+    {
+      "text": "[Dan] Whoever that lycanthrope was eating was probably like,",
+      "start": 581.24,
+      "duration": 3.2
+    },
+    {
+      "text": "[Dan] He probably saw you and he was like, *weak voice* \"Oh, my last hope\"",
+      "start": 584.44,
+      "duration": 2.44
+    },
+    {
+      "text": "[Arin] *panicked yell* Oh god!",
+      "start": 586.88,
+      "duration": 1.52
+    },
+    {
+      "text": "[Arin] *laughs*\n[Dan] Holy shit!",
+      "start": 588.4,
+      "duration": 2.14
+    },
+    {
+      "text": "[Dan] Whoo!\n[Arin] Come here!",
+      "start": 590.54,
+      "duration": 1.66
+    },
+    {
+      "text": "[Arin] I'll punch you with my three damage fists!\n[Dan] Damn.",
+      "start": 592.2,
+      "duration": 3.56
+    },
+    {
+      "text": "[Arin] Yaw! Yaw! Yaw! Yaw! Yaw! I'll stun your ass! ...Okay.",
+      "start": 595.76,
+      "duration": 4.26
+    },
+    {
+      "text": "[Dan] Fuck.\n[Arin, giggling] Wow, I'm actually doing pretty well against him!",
+      "start": 600.02,
+      "duration": 2.44
+    },
+    {
+      "text": "[Dan] This is a really tough guy to face in the room you woke up in.",
+      "start": 602.46,
+      "duration": 4.24
+    },
+    {
+      "text": "[Arin] Oh yeah.",
+      "start": 606.7,
+      "duration": 1.06
+    },
+    {
+      "text": "[Arin] C'mon. Come at me. Come at me! Come at me, bro!",
+      "start": 607.76,
+      "duration": 2.08
+    },
+    {
+      "text": "[Dan] You sure you want him to come at you?\n[Arin] Come at me!",
+      "start": 609.84,
+      "duration": 1.4
+    },
+    {
+      "text": "[Arin] Well he's vulnerable when he comes at me. Yaw! Yaw!",
+      "start": 611.24,
+      "duration": 3.1
+    },
+    {
+      "text": "[Arin] C'mere, baby. Come on, baby! HAHA!\n[Dan] Oh god damn, dude!",
+      "start": 614.8,
+      "duration": 4.26
+    },
+    {
+      "text": "[Dan] This is crazy town! Hit him in the taint!",
+      "start": 619.66,
+      "duration": 2.92
+    },
+    {
+      "text": "[Arin] *laughs*",
+      "start": 622.58,
+      "duration": 1.54
+    },
+    {
+      "text": "[Dan] Hit him in his gross lycan-taint.",
+      "start": 624.12,
+      "duration": 2.16
+    },
+    {
+      "text": "[Arin] Oh god, oh god, OH GOD NO!",
+      "start": 626.28,
+      "duration": 1.98
+    },
+    {
+      "text": "[Arin] Nope, nope! No, that's it for me.\n[Dan] Okay",
+      "start": 628.26,
+      "duration": 3.1
+    },
+    {
+      "text": "[Dan] Well",
+      "start": 632.04,
+      "duration": 1.64
+    },
+    {
+      "text": "[Dan] This was the finale. I hope you all enjoyed our playthrough\n[Arin] *laughs*",
+      "start": 633.7,
+      "duration": 3.9
+    },
+    {
+      "text": "[Arin] That was supposed to happen.",
+      "start": 637.9,
+      "duration": 1.58
+    },
+    {
+      "text": "[Dan] Really?\n[Arin] Yeah.",
+      "start": 639.48,
+      "duration": 1.6
+    },
+    {
+      "text": "[Dan] Fuck, Bloodborne. \n[Arin] There's no way, I'm fuckin'– I tried.",
+      "start": 641.08,
+      "duration": 2.88
+    },
+    {
+      "text": "[Arin] But",
+      "start": 644.26,
+      "duration": 1.889
+    },
+    {
+      "text": "[Arin] Try as I may!",
+      "start": 646.149,
+      "duration": 1.531
+    },
+    {
+      "text": "[Arin] I'm sure you can, there's somebody out there who can.",
+      "start": 647.68,
+      "duration": 3.16
+    },
+    {
+      "text": "[Dan] That's part of the plot, to die...?",
+      "start": 650.84,
+      "duration": 1.74
+    },
+    {
+      "text": "[Arin] Yeah. Cuz then you go to Hunter's Dream.",
+      "start": 652.58,
+      "duration": 2.34
+    },
+    {
+      "text": "[Dan] Ohh\n[Arin, in girl voice] Oh, it's so beautiful here.",
+      "start": 655.46,
+      "duration": 2.5
+    },
+    {
+      "text": "[Arin, in girl voice] Oh, it's so glorious and beautiful, wow.\n[Dan, in girl voice] It's really pretty.",
+      "start": 657.98,
+      "duration": 3.4
+    },
+    {
+      "text": "[Arin, in girl voice] Wow, it makes me wanna [????] gosh",
+      "start": 661.6,
+      "duration": 2.22
+    },
+    {
+      "text": "[Dan, in girl voice] Hi, hi!\n[Arin, in girl voice] Oh, it's going good.",
+      "start": 664.02,
+      "duration": 2.78
+    },
+    {
+      "text": "[Arin, in girl voice] Wow, look at that! Oh my God it's beautiful. Come into focus please?",
+      "start": 667.32,
+      "duration": 3.9
+    },
+    {
+      "text": "[Arin, in girl voice] Please, world? World?",
+      "start": 672.18,
+      "duration": 1.44
+    },
+    {
+      "text": "[Dan, in girl voice] How are my butt buckles looking? Are they tight?",
+      "start": 673.62,
+      "duration": 2.7
+    },
+    {
+      "text": "[Arin] Oh I love butt buckles\n[Dan] Me too. Didn't realize I did until just now, but",
+      "start": 676.32,
+      "duration": 4.64
+    },
+    {
+      "text": "[Dan] I am on board.",
+      "start": 680.96,
+      "duration": 1.78
+    },
+    {
+      "text": "[Arin] Sup, doll? \n[Dan] Hello little friends.",
+      "start": 682.74,
+      "duration": 2.26
+    },
+    {
+      "text": "[Arin] Hey guys!",
+      "start": 685.86,
+      "duration": 1.5
+    },
+    {
+      "text": "[Dan, high pitched] \"Hii!\"",
+      "start": 687.36,
+      "duration": 1.18
+    },
+    {
+      "text": "[Arin] The messengers offer you a trick weapon. Alright. I'm gonna go with the saw cleaver.",
+      "start": 688.54,
+      "duration": 4.74
+    },
+    {
+      "text": "[Arin] So I have three options, these three. But I know the saw cleaver, so I'm going to use it.",
+      "start": 693.58,
+      "duration": 4.56
+    },
+    {
+      "text": "[Dan] Okay, cool. That was the one from the intro, yeah?",
+      "start": 698.14,
+      "duration": 2.98
+    },
+    {
+      "text": "[Dan] Like where you're dicing up the dog in the alleyway?",
+      "start": 701.48,
+      "duration": 2.22
+    },
+    {
+      "text": "[Arin] Yes, actually! Yes it is.\n[Dan] Okay. That looked cool.",
+      "start": 703.7,
+      "duration": 2.58
+    },
+    {
+      "text": "[Arin] Whoops. Yeah there we go.",
+      "start": 709.24,
+      "duration": 2.26
+    },
+    {
+      "text": "[Arin] This motherfucker gives me a gun and I'm gonna go with the motherfucking Blunderbuss",
+      "start": 711.5,
+      "duration": 4.08
+    },
+    {
+      "text": "[Dan] You hear the moaning and you're like, *mockingly* Oooh! I get it!",
+      "start": 716.72,
+      "duration": 4.0
+    },
+    {
+      "text": "[Both] *laugh*",
+      "start": 720.72,
+      "duration": 1.82
+    },
+    {
+      "text": "[Arin] Please stop.",
+      "start": 722.8,
+      "duration": 1.46
+    },
+    {
+      "text": "[Dan] Aw, you're gonna talk to him! \n[Arin] Yeah, I got a notebook.",
+      "start": 724.26,
+      "duration": 2.78
+    },
+    {
+      "text": "[Arin] Just gonna take a little sit to get the notebook I guess.",
+      "start": 727.48,
+      "duration": 3.22
+    },
+    {
+      "text": "[Dan] Let me tell you something, I never pick up a book unless I sit fully Indian-style",
+      "start": 730.7,
+      "duration": 4.36
+    },
+    {
+      "text": "[Dan] And meditate for a hot minute first.",
+      "start": 735.22,
+      "duration": 1.94
+    },
+    {
+      "text": "[Arin] Alright, this guy's taking a little bath.\n[Dan] Look at this cutie.",
+      "start": 737.16,
+      "duration": 2.68
+    },
+    {
+      "text": "[Arin] I don't have any echoes though, so.",
+      "start": 739.84,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] Alright so back to the world. World at large.",
+      "start": 741.94,
+      "duration": 2.74
+    },
+    {
+      "text": "[Arin] Let's do it.  Now I'm gonna kick the fuck out of this lycanthrope!",
+      "start": 745.82,
+      "duration": 3.24
+    },
+    {
+      "text": "[Dan] Oh yeah?\n[Arin] Yeah. He's gonna get so dead.",
+      "start": 749.06,
+      "duration": 2.68
+    },
+    {
+      "text": "[Dan, whispers] I love it.\n[Arin] So fucking dead, you have no idea.",
+      "start": 752.04,
+      "duration": 3.04
+    },
+    {
+      "text": "[Arin] Watch this, I'm gonna cleave his ass.",
+      "start": 755.44,
+      "duration": 2.28
+    },
+    {
+      "text": "[Dan] You're going to leave? Leave his ass?",
+      "start": 758.38,
+      "duration": 2.66
+    },
+    {
+      "text": "[Arin] ...Cleave.",
+      "start": 761.86,
+      "duration": 1.16
+    },
+    {
+      "text": "[Dan] Oh okay.",
+      "start": 763.02,
+      "duration": 1.12
+    },
+    {
+      "text": "[Arin] Like at like a butcher.",
+      "start": 764.5,
+      "duration": 1.2
+    },
+    {
+      "text": "[Dan, emotional] You and I are done, lycanthrope!",
+      "start": 765.7,
+      "duration": 2.0
+    },
+    {
+      "text": "[Dan, emotional] You're not attentive to my needs!",
+      "start": 768.24,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin, emotional] You never take me to the movies anymore.",
+      "start": 770.92,
+      "duration": 2.36
+    },
+    {
+      "text": "[Dan, emotional] Why don't you look at me during?",
+      "start": 773.28,
+      "duration": 2.08
+    },
+    {
+      "text": "[Arin, laughing] I feel like you've made that joke and I laughed at exact same...",
+      "start": 776.16,
+      "duration": 5.86
+    },
+    {
+      "text": "[Arin] During!\n[Dan] It makes me laugh every time.",
+      "start": 782.02,
+      "duration": 2.28
+    },
+    {
+      "text": "[Arin] Alright! This motherfucker's gonna die\n[Dan] Okay.",
+      "start": 784.74,
+      "duration": 2.84
+    },
+    {
+      "text": "[Arin] In a hot minute\n[Dan, reading] Iosefka's Clinic.",
+      "start": 787.58,
+      "duration": 2.96
+    },
+    {
+      "text": "[Arin] Sup!",
+      "start": 791.14,
+      "duration": 1.259
+    },
+    {
+      "text": "[Arin] Those are...",
+      "start": 792.399,
+      "duration": 1.62
+    },
+    {
+      "text": "[Dan] Who's he eating? Not the dude right? \n[Arin] Ah just like a dude. Oh it might be that dude, yeah.",
+      "start": 794.02,
+      "duration": 4.28
+    },
+    {
+      "text": "[Dan] Aw poor guy.\n[Arin] Hold on. I can sneak up. I can sneak up on him, check this out.",
+      "start": 798.3,
+      "duration": 3.08
+    },
+    {
+      "text": "[Dan] He had a funky hat.\n[Arin] Sneak up on this mothafucka.",
+      "start": 801.38,
+      "duration": 2.72
+    },
+    {
+      "text": "[Arin] Sup lycan?",
+      "start": 806.38,
+      "duration": 1.46
+    },
+    {
+      "text": "[Arin] Oh god, oh god!\n[Dan] Oh! Oh okay, okay!",
+      "start": 807.84,
+      "duration": 2.7
+    },
+    {
+      "text": "[Dan] Whoaaa.",
+      "start": 810.54,
+      "duration": 1.98
+    },
+    {
+      "text": "[Dan] Duuude.",
+      "start": 812.52,
+      "duration": 0.9
+    },
+    {
+      "text": "[Arin] Soo fuck him.",
+      "start": 813.42,
+      "duration": 1.88
+    },
+    {
+      "text": "[Arin, as lycanthrope] No please! \n[Dan, as lycanthrope] Wait, wait, wait!",
+      "start": 816.24,
+      "duration": 1.6
+    },
+    {
+      "text": "[Arin, as lycanthrope] No, hold on wait!",
+      "start": 817.84,
+      "duration": 1.86
+    },
+    {
+      "text": "[Dan, as lycanthrope] You forgot your– uh, my license, my drivers license.",
+      "start": 819.7,
+      "duration": 3.6
+    },
+    {
+      "text": "[Arin, as lycanthrope] Just bring me over there.",
+      "start": 823.3,
+      "duration": 1.84
+    },
+    {
+      "text": "[Dan] *laughs*",
+      "start": 825.14,
+      "duration": 0.86
+    },
+    {
+      "text": "[Dan, as lycanthrope] Unh! I just have to dance!",
+      "start": 826.0,
+      "duration": 3.12
+    },
+    {
+      "text": "[Arin, as lycanthrope] Just put me on the table. Just c'mon, ohh god.",
+      "start": 829.12,
+      "duration": 2.16
+    },
+    {
+      "text": "[Arin, as lycanthrope] Ah this is not going well \n[Dan, as lycanthrope] Yeah, yeah, mush me around.",
+      "start": 831.28,
+      "duration": 3.52
+    },
+    {
+      "text": "[Arin] Know what? Just forget it. I'm comfy. I'm comfy!",
+      "start": 834.8,
+      "duration": 2.36
+    },
+    {
+      "text": "[Dan] I'm fine, this is how wanted to be.\n[Arin] *laughing*",
+      "start": 837.48,
+      "duration": 1.84
+    },
+    {
+      "text": "[Dan] Oh wait, take a good look at the corpse? Let me just see if it's the dude?",
+      "start": 839.56,
+      "duration": 3.6
+    },
+    {
+      "text": "[Arin] I can't really tell his face is all uh\n[Dan] Mm, fairly difficult to recognize",
+      "start": 844.5,
+      "duration": 3.9
+    },
+    {
+      "text": "[Arin] Yeah I don't know.\n[Dan] Alright, well!",
+      "start": 848.4,
+      "duration": 1.9
+    },
+    {
+      "text": "[Dan] I'm gonna say probably not.\n[Arin] Just sucks for that guy I guess.",
+      "start": 850.3,
+      "duration": 4.1
+    },
+    {
+      "text": "[Dan] He's fine.\n[Arin] Alright I'm outtie. I'm outtie.",
+      "start": 854.4,
+      "duration": 1.94
+    },
+    {
+      "text": "[Arin] I forgot what's out here. Are there enemies out here?",
+      "start": 856.34,
+      "duration": 1.98
+    },
+    {
+      "text": "[Dan] What a fucking great, like from a design standpoint",
+      "start": 858.32,
+      "duration": 3.3
+    },
+    {
+      "text": "[Dan] What a great idea to show how impossible it is to fight these things without your weapons and then illustrate",
+      "start": 861.62,
+      "duration": 6.2
+    },
+    {
+      "text": "[Dan] How badass your weapons are.",
+      "start": 867.82,
+      "duration": 1.8
+    },
+    {
+      "text": "[Arin] Well, you would still have a problem.",
+      "start": 869.62,
+      "duration": 2.08
+    },
+    {
+      "text": "[Arin] I had a problem the first time I fought him with weapons.",
+      "start": 871.7,
+      "duration": 2.52
+    },
+    {
+      "text": "[Dan] Really?\n[Arin] I just know how to fight him. So.",
+      "start": 874.22,
+      "duration": 3.5
+    },
+    {
+      "text": "[Arin] Cuz I was like, *in dumb voice* \"Umm, I don't know uhhh.\"",
+      "start": 878.04,
+      "duration": 3.52
+    },
+    {
+      "text": "[Arin] And then he's just like ROAR and I'm like AHH!",
+      "start": 881.56,
+      "duration": 2.16
+    },
+    {
+      "text": "[Arin] And I just hit buttons and...\n[Dan] Sir! Sir.",
+      "start": 883.78,
+      "duration": 2.62
+    },
+    {
+      "text": "[Arin] *laughs* Please stop, please stop!",
+      "start": 886.4,
+      "duration": 2.2
+    },
+    {
+      "text": "[Arin] Oh there's an item down here. \n[Dan] Ooh.",
+      "start": 889.36,
+      "duration": 1.66
+    },
+    {
+      "text": "[Arin] Yeah, so this is Yharnam. It's a beautiful town as you can see.",
+      "start": 891.02,
+      "duration": 3.52
+    },
+    {
+      "text": "[Dan] Oh it is lovely.",
+      "start": 894.54,
+      "duration": 1.6
+    },
+    {
+      "text": "[Arin] It's filled with ancient architecture, a bridge",
+      "start": 896.38,
+      "duration": 3.58
+    },
+    {
+      "text": "[Dan] And possible nuclear fallout drifting down from the sky.",
+      "start": 899.96,
+      "duration": 3.96
+    },
+    {
+      "text": "[Arin] There's some kind of sickness",
+      "start": 903.92,
+      "duration": 2.4
+    },
+    {
+      "text": "[Dan] I don't know about that.",
+      "start": 906.82,
+      "duration": 1.5
+    },
+    {
+      "text": "[Both] *laugh*",
+      "start": 908.32,
+      "duration": 0.88
+    },
+    {
+      "text": "[Arin] That has taken over the town and all these people are infected with it, I guess?",
+      "start": 909.22,
+      "duration": 4.8
+    },
+    {
+      "text": "[Dan] Sir!",
+      "start": 914.66,
+      "duration": 1.0
+    },
+    {
+      "text": "[Dan] Excuse me. Hi.",
+      "start": 915.66,
+      "duration": 1.54
+    },
+    {
+      "text": "[Dan] I'm looking for Avon Road?",
+      "start": 917.94,
+      "duration": 2.06
+    },
+    {
+      "text": "[Dan] Do you know where Avon is?",
+      "start": 920.1,
+      "duration": 2.0
+    },
+    {
+      "text": "[Dan] Whoa! Whoa, okay. Um, it's A-V-O-N.",
+      "start": 922.26,
+      "duration": 4.34
+    },
+    {
+      "text": "[Arin] Do you know where I can find The Galleria?",
+      "start": 926.6,
+      "duration": 2.3
+    },
+    {
+      "text": "[Dan] *laughs*",
+      "start": 928.9,
+      "duration": 0.9
+    },
+    {
+      "text": "[Arin] I'm looking for a new pair of sneaks.",
+      "start": 929.8,
+      "duration": 2.72
+    },
+    {
+      "text": "[Arin] Uh, new kicks.",
+      "start": 933.06,
+      "duration": 1.68
+    },
+    {
+      "text": "[Dan] That'd be awesome. You just interact with all the people like they're normal.",
+      "start": 937.38,
+      "duration": 3.72
+    },
+    {
+      "text": "[Dan] Sir, I'm looking for a Jamba Juice?",
+      "start": 941.52,
+      "duration": 2.48
+    },
+    {
+      "text": "[Arin] *laughs*",
+      "start": 944.0,
+      "duration": 1.8
+    },
+    {
+      "text": "[Dan] I'm in the mood for a Razzmatazz– WHOA!",
+      "start": 945.8,
+      "duration": 2.64
+    },
+    {
+      "text": "[Both] *laugh*",
+      "start": 948.68,
+      "duration": 1.42
+    },
+    {
+      "text": "[Arin] I'm gonna need a protein pump. Is there is there a Jamba Juice around here that does protein pumps?",
+      "start": 950.46,
+      "duration": 5.6
+    },
+    {
+      "text": "[Arin] I'm gonna need two.",
+      "start": 957.12,
+      "duration": 1.12
+    },
+    {
+      "text": "[Dan] Gonna need that vitamin C booster!",
+      "start": 958.24,
+      "duration": 1.66
+    },
+    {
+      "text": "[Dan] Having kind of a slow day, you know what I'm sayin– WHOA!",
+      "start": 959.9,
+      "duration": 3.62
+    },
+    {
+      "text": "[Both] *laugh*",
+      "start": 963.52,
+      "duration": 1.12
+    },
+    {
+      "text": "[Arin] OH god!",
+      "start": 964.64,
+      "duration": 0.98
+    },
+    {
+      "text": "[Dan] *laughs",
+      "start": 965.62,
+      "duration": 1.02
+    },
+    {
+      "text": "[Arin] Vitamin C. Not vitamin... see?",
+      "start": 968.0,
+      "duration": 2.86
+    },
+    {
+      "text": "[Dan] Not vitamin K for \"Kill\"",
+      "start": 972.24,
+      "duration": 2.64
+    },
+    {
+      "text": "[Arin] Vitamin OH god!",
+      "start": 975.14,
+      "duration": 1.86
+    },
+    {
+      "text": "[Arin] The lamp now transports you back to Hunter's Dream. So you're just going from lamp to lamp really.",
+      "start": 977.14,
+      "duration": 4.3
+    },
+    {
+      "text": "[Arin] That's pretty much it.\n[Dan] Oh, I see.",
+      "start": 981.5,
+      "duration": 1.6
+    },
+    {
+      "text": "[Arin] And there's people, like, they're like...",
+      "start": 983.1,
+      "duration": 1.96
+    },
+    {
+      "text": "[Arin] Yep.",
+      "start": 986.7,
+      "duration": 0.56
+    },
+    {
+      "text": "[Arin] No.",
+      "start": 990.56,
+      "duration": 0.88
+    },
+    {
+      "text": "[Dan, w/ Scottish? accent] And you've got poo on your chin.",
+      "start": 991.44,
+      "duration": 2.66
+    },
+    {
+      "text": "[Arin, w/ accent] And what the fuck is wrong with your eyes?",
+      "start": 995.16,
+      "duration": 2.38
+    },
+    {
+      "text": "[Arin, w/ accent] Looks like a goddamn Lisa Frank folder.",
+      "start": 997.74,
+      "duration": 2.78
+    },
+    {
+      "text": "[Arin] I don't care. I don't care what you have to say. I don't care.",
+      "start": 1004.12,
+      "duration": 2.3
+    },
+    {
+      "text": "[Dan, w/ accent] If ye had a chance to change yer fate",
+      "start": 1006.42,
+      "duration": 2.94
+    },
+    {
+      "text": "[Dan, w/ accent] Would ya?",
+      "start": 1009.36,
+      "duration": 0.72
+    },
+    {
+      "text": "[Arin, w/ accent] If you had the chance to change your feet",
+      "start": 1010.08,
+      "duration": 2.3
+    },
+    {
+      "text": "[Arin, w/ accent] What size would you choose?",
+      "start": 1012.38,
+      "duration": 1.88
+    },
+    {
+      "text": "[Dan] Wait was he just in indoors there?",
+      "start": 1014.26,
+      "duration": 1.98
+    },
+    {
+      "text": "[Arin] Yeah, so there's like all these people that are like trying to save themselves from the sickness",
+      "start": 1016.26,
+      "duration": 4.96
+    },
+    {
+      "text": "[Arin] That has taken over this land of Yharnum.\n[Dan] Oh okay, so they're just staying inside?",
+      "start": 1021.44,
+      "duration": 3.86
+    },
+    {
+      "text": "[Arin] I am a hunter. I come from a different part of the land.",
+      "start": 1025.3,
+      "duration": 3.36
+    },
+    {
+      "text": "[Dan] Was he like, \"It's so nice to have someone to talk to– oh. Okay.\"",
+      "start": 1028.7,
+      "duration": 3.76
+    },
+    {
+      "text": "[Arin] *laughs*",
+      "start": 1032.46,
+      "duration": 1.24
+    },
+    {
+      "text": "[Arin, w/ accent] Man, so lonely... Hello?",
+      "start": 1034.08,
+      "duration": 4.06
+    },
+    {
+      "text": "[Dan] *laughs*",
+      "start": 1038.16,
+      "duration": 0.82
+    },
+    {
+      "text": "[Arin, w/ accent] ...Anybody?",
+      "start": 1038.98,
+      "duration": 1.42
+    },
+    {
+      "text": "[Arin] Alright, next time on Game Grumps I'm going to fight all those guys.",
+      "start": 1041.0,
+      "duration": 3.98
+    },
+    {
+      "text": "[Dan] Let's fuckin' do it! This is rad.",
+      "start": 1044.98,
+      "duration": 1.46
+    },
+    {
+      "text": "[Arin] All those fucking guys.\n[Dan] It seems– they seem friendly.",
+      "start": 1046.44,
+      "duration": 2.44
+    },
+    {
+      "text": "[Arin] Yeah they'll be– it'll be easy. Easy. Easy peasy.",
+      "start": 1048.88,
+      "duration": 4.4
+    },
+    {
+      "text": "[Dan, w/ accent] If ye had a chance to kill yer neighbors, would ya?",
+      "start": 1053.78,
+      "duration": 4.08
+    },
+    {
+      "text": "[Dan, w/ accent] Oh clearly, yes. Yes you would.",
+      "start": 1058.14,
+      "duration": 2.1
+    }
+  ]
+}

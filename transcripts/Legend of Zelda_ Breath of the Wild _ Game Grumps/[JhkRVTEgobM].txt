@@ -1,0 +1,3158 @@
+{
+  "video_id": "JhkRVTEgobM",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "[singing] Arin: \"Hey I'm Grump!\"",
+      "start": 0.0,
+      "duration": 0.72
+    },
+    {
+      "text": "[singing] Danny: \"I'm not so Grump!\"",
+      "start": 0.72,
+      "duration": 1.26
+    },
+    {
+      "text": "[singing together] \"And we're the Game Grumps!\"",
+      "start": 1.98,
+      "duration": 3.1
+    },
+    {
+      "text": "Arin: \"Hey,\"",
+      "start": 5.58,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Hello.\"",
+      "start": 6.08,
+      "duration": 0.6
+    },
+    {
+      "text": "Arin: \"Hey, you sexy tit-lovers.\"",
+      "start": 6.68,
+      "duration": 1.9
+    },
+    {
+      "text": "Danny: *groan of approval*",
+      "start": 8.58,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Welcome back,\"",
+      "start": 9.08,
+      "duration": 0.9
+    },
+    {
+      "text": "Danny: \"Consider me included.\"",
+      "start": 9.98,
+      "duration": 0.8
+    },
+    {
+      "text": "Arin: \"If you are not sexy or a tit-lover,\"",
+      "start": 10.78,
+      "duration": 1.3
+    },
+    {
+      "text": "Danny: \"Wow, he really was broken up about the loss of his orb. He went right back to sleep.\"",
+      "start": 12.08,
+      "duration": 3.76
+    },
+    {
+      "text": "Arin: *laughs*",
+      "start": 15.84,
+      "duration": 1.04
+    },
+    {
+      "text": "Arin: \"Oh, I can like push this down and maybe like, piss him off a little bit.\"",
+      "start": 16.88,
+      "duration": 3.5
+    },
+    {
+      "text": "Danny: \"Oh,\"",
+      "start": 20.38,
+      "duration": 0.76
+    },
+    {
+      "text": "Arin: \"Let's see if that works.\"",
+      "start": 21.66,
+      "duration": 0.9
+    },
+    {
+      "text": "Arin: *false grunt of effort*",
+      "start": 23.8,
+      "duration": 1.9
+    },
+    {
+      "text": "Arin: *laughs*",
+      "start": 30.32,
+      "duration": 1.04
+    },
+    {
+      "text": "Danny: \"Oh you got him a pillow.\"",
+      "start": 31.36,
+      "duration": 1.14
+    },
+    {
+      "text": "Arin: *laughs more*",
+      "start": 32.5,
+      "duration": 1.26
+    },
+    {
+      "text": "Danny: \"How considerate of you.\"",
+      "start": 33.76,
+      "duration": 1.16
+    },
+    {
+      "text": "Arin: *silly monster growl*",
+      "start": 35.88,
+      "duration": 0.94
+    },
+    {
+      "text": "Arin: \"Rolls over and hugs it like a toy.\"",
+      "start": 36.82,
+      "duration": 1.64
+    },
+    {
+      "text": "Danny *chuckle* \"Yeah,\"",
+      "start": 38.46,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Oh that one's gonna hit.\"",
+      "start": 39.92,
+      "duration": 1.04
+    },
+    {
+      "text": "Arin: *pained* \"Oh!\"",
+      "start": 41.4,
+      "duration": 1.44
+    },
+    {
+      "text": "Arin: \"I don't think that did much damage.\"",
+      "start": 43.48,
+      "duration": 0.96
+    },
+    {
+      "text": "Danny: *silly monster voice* \"What the fuck?\"",
+      "start": 44.44,
+      "duration": 1.38
+    },
+    {
+      "text": "Arin: \"Do you see me?\"",
+      "start": 47.78,
+      "duration": 0.6
+    },
+    {
+      "text": "Arin: \"Do you see me?\"",
+      "start": 48.82,
+      "duration": 0.58
+    },
+    {
+      "text": "Arin: \"Do you see me?\"",
+      "start": 50.12,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Look up here, look up here.\"",
+      "start": 50.62,
+      "duration": 1.44
+    },
+    {
+      "text": "Arin: \"Look, do you see me?\"",
+      "start": 52.06,
+      "duration": 1.18
+    },
+    {
+      "text": "Arin: \"See if I can,\"",
+      "start": 54.08,
+      "duration": 0.86
+    },
+    {
+      "text": "Arin: *umpf*",
+      "start": 55.98,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Oh, one left. Make it count.\"",
+      "start": 56.48,
+      "duration": 1.74
+    },
+    {
+      "text": "Danny: \"You...did not make it count.\"",
+      "start": 59.64,
+      "duration": 1.36
+    },
+    {
+      "text": "Arin: *silly monster voice* \"I got a big club, I'm gonna throw it at-cha.\"",
+      "start": 61.5,
+      "duration": 2.42
+    },
+    {
+      "text": "Arin: \"Hey come on up here buddy. Come on up here the water's fine.",
+      "start": 64.64,
+      "duration": 2.58
+    },
+    {
+      "text": "Arin: \"The water is fine. Hey! How 'bout I send you a little present?\"",
+      "start": 67.72,
+      "duration": 4.56
+    },
+    {
+      "text": "Danny: \"From Hell.\"",
+      "start": 72.74,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Oh! Oh I missed.\"",
+      "start": 73.24,
+      "duration": 0.86
+    },
+    {
+      "text": "Danny: Oh, okay well.\" *umpf*",
+      "start": 74.1,
+      "duration": 0.98
+    },
+    {
+      "text": "Arin: \"Hey come here. Hey, hey, hey. You wanna? Oh uh he's actually coming.\"",
+      "start": 75.6,
+      "duration": 2.54
+    },
+    {
+      "text": "Danny: *deeper monster voice* \"I'm awake, cue the jazz band.\"",
+      "start": 78.14,
+      "duration": 3.08
+    },
+    {
+      "text": "Arin: *chuckles*",
+      "start": 81.22,
+      "duration": 0.54
+    },
+    {
+      "text": "Arin: \"Here we go, here we go, here we go, here we go, here we go.\"",
+      "start": 82.56,
+      "duration": 3.24
+    },
+    {
+      "text": "Arin: *slightly effeminate grunt of effort*",
+      "start": 86.84,
+      "duration": 0.88
+    },
+    {
+      "text": "Arin: \"Oooo,\"",
+      "start": 89.06,
+      "duration": 0.54
+    },
+    {
+      "text": "Danny: \"Ow.\"",
+      "start": 90.06,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: *deeper monster voice* \"My tootsies.\"",
+      "start": 90.56,
+      "duration": 0.82
+    },
+    {
+      "text": "Danny: *monster voice* \"My ankle.\"",
+      "start": 91.38,
+      "duration": 1.76
+    },
+    {
+      "text": "Arin: \"Does he like fall off cliffs or something? 'Cause he's getting awful close.\"",
+      "start": 94.06,
+      "duration": 4.32
+    },
+    {
+      "text": "Arin: \"Whoo!\"",
+      "start": 100.26,
+      "duration": 0.96
+    },
+    {
+      "text": "Danny: \"Ugh!\"",
+      "start": 102.04,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"On no that hurt.\"",
+      "start": 102.54,
+      "duration": 1.02
+    },
+    {
+      "text": "Danny: \"That's not gonna cut it.",
+      "start": 103.56,
+      "duration": 1.3
+    },
+    {
+      "text": "Arin: *likely shrugging* \"Eh.\"",
+      "start": 105.52,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"I don't need to kill him. Just nice.\"",
+      "start": 106.54,
+      "duration": 2.4
+    },
+    {
+      "text": "Danny: \"It just feels good to kill.\"",
+      "start": 109.96,
+      "duration": 1.06
+    },
+    {
+      "text": "Arin: \"Yeah.\"",
+      "start": 111.02,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Just,\"",
+      "start": 112.44,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"I don't have any more arrows.\"",
+      "start": 112.94,
+      "duration": 0.76
+    },
+    {
+      "text": "Danny: \"Good old fashioned murder.\"",
+      "start": 113.7,
+      "duration": 1.16
+    },
+    {
+      "text": "Arin: \"Well, I guess I'll see you later.\"",
+      "start": 115.34,
+      "duration": 0.94
+    },
+    {
+      "text": "Arin: \"Oh shit it's not raining anymore, I could be cooking.\"",
+      "start": 116.72,
+      "duration": 2.54
+    },
+    {
+      "text": "Arin: \"But, on no, but the fire went out.\"",
+      "start": 120.04,
+      "duration": 1.56
+    },
+    {
+      "text": "Arin: \"Fuck, well if I threw a thing on there the fire would go back on.\"",
+      "start": 121.6,
+      "duration": 2.9
+    },
+    {
+      "text": "Danny: \"Right.\"",
+      "start": 124.5,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Goddamn, decisions.\"",
+      "start": 125.22,
+      "duration": 0.62
+    },
+    {
+      "text": "Danny: \"This is an awkward time. This is an awkward time for cooking.\"",
+      "start": 125.84,
+      "duration": 2.78
+    },
+    {
+      "text": "Arin: \"Yeah, but...*sigh*\"",
+      "start": 129.28,
+      "duration": 0.68
+    },
+    {
+      "text": "Arin: \"Alright, I'll see you later Hinox.\"",
+      "start": 131.24,
+      "duration": 1.6
+    },
+    {
+      "text": "Arin: \"Goodbye my friend.\"",
+      "start": 133.76,
+      "duration": 0.72
+    },
+    {
+      "text": "Danny: \"I mean he was just sleeping, you could've fucking chilled out up there.\"",
+      "start": 134.48,
+      "duration": 3.02
+    },
+    {
+      "text": "Arin: \"And the fucking blood moon is coming out when I'm on Eventide?! Come on!\"",
+      "start": 137.5,
+      "duration": 3.76
+    },
+    {
+      "text": "Danny: \"This is good. This is what I wanted.\"",
+      "start": 141.26,
+      "duration": 1.44
+    },
+    {
+      "text": "Arin: \"Jesus! This sucks.\"",
+      "start": 142.7,
+      "duration": 1.7
+    },
+    {
+      "text": "Danny: \"Well, you didn't kill much.\"",
+      "start": 144.4,
+      "duration": 1.16
+    },
+    {
+      "text": "Arin: \"No! I killed some bokoblins over there, and I damaged a Hinox.\"",
+      "start": 146.12,
+      "duration": 4.12
+    },
+    {
+      "text": "Danny: *scoff*",
+      "start": 150.24,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: *wavering voice* \"The blood moon rises once again!\"",
+      "start": 151.54,
+      "duration": 3.5
+    },
+    {
+      "text": "Arin: \"It's like dude, get out of your massage chair when you're doing voiceover.\"",
+      "start": 155.72,
+      "duration": 2.5
+    },
+    {
+      "text": "Danny/Arin: *laugh charmingly*",
+      "start": 158.22,
+      "duration": 3.38
+    },
+    {
+      "text": "Danny: \"Woah.\"",
+      "start": 162.62,
+      "duration": 0.6
+    },
+    {
+      "text": "Danny: \"Pretty harsh bud there, Arin.\"",
+      "start": 164.56,
+      "duration": 1.2
+    },
+    {
+      "text": "Arin: \"Yeah, dude.\"",
+      "start": 165.76,
+      "duration": 0.86
+    },
+    {
+      "text": "Arin: \"Here's fire. I'm gonna use it to...I don't know.\"",
+      "start": 167.44,
+      "duration": 3.18
+    },
+    {
+      "text": "Arin: \"I don't need it right now.\"",
+      "start": 170.62,
+      "duration": 1.06
+    },
+    {
+      "text": "Arin: \"Where's the Hinox? Did he leave? Did he go back to sleep?\"",
+      "start": 171.68,
+      "duration": 2.44
+    },
+    {
+      "text": "Arin: \"Is he still up there? He went back to sleep.\"",
+      "start": 174.62,
+      "duration": 2.08
+    },
+    {
+      "text": "Arin: \"Alright.\"",
+      "start": 177.48,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"I don't fucking know.\"",
+      "start": 177.98,
+      "duration": 1.64
+    },
+    {
+      "text": "Danny/Arin: *chuckle*",
+      "start": 181.52,
+      "duration": 1.4
+    },
+    {
+      "text": "Arin: \"Alright.\"",
+      "start": 183.58,
+      "duration": 0.66
+    },
+    {
+      "text": "Danny: *chuckles*",
+      "start": 184.6,
+      "duration": 0.78
+    },
+    {
+      "text": "Arin: \"Sorry, dude.\"",
+      "start": 185.38,
+      "duration": 1.02
+    },
+    {
+      "text": "Danny: \"No I was just--\"",
+      "start": 186.4,
+      "duration": 0.8
+    },
+    {
+      "text": "Arin: \"I didn't mean to upset you.\"",
+      "start": 187.2,
+      "duration": 1.22
+    },
+    {
+      "text": "Danny: \"I figured I would try on some harshness. For, take that for a spin.\"",
+      "start": 188.42,
+      "duration": 3.9
+    },
+    {
+      "text": "Arin: \"That doesn't look good on you.\"",
+      "start": 192.32,
+      "duration": 0.82
+    },
+    {
+      "text": "Danny: \"It didn't, yeah.\"",
+      "start": 193.14,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"No, it's not a good look.\"",
+      "start": 193.64,
+      "duration": 1.2
+    },
+    {
+      "text": "Danny: \"Oh!\"",
+      "start": 194.84,
+      "duration": 0.52
+    },
+    {
+      "text": "Danny: *mimics Link's grunt*",
+      "start": 196.16,
+      "duration": 0.98
+    },
+    {
+      "text": "Danny: \"Woah! Ah, that would have been great if you continued your sword spin after falling down.\"",
+      "start": 198.38,
+      "duration": 4.7
+    },
+    {
+      "text": "Arin: \"What if I just took off into the air?\"",
+      "start": 203.08,
+      "duration": 2.08
+    },
+    {
+      "text": "Danny: \"Yeah.\"",
+      "start": 205.16,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: *helicopter noise*",
+      "start": 205.66,
+      "duration": 1.38
+    },
+    {
+      "text": "Danny: *helicopter noise*",
+      "start": 207.04,
+      "duration": 1.32
+    },
+    {
+      "text": "Danny: \"Just like a helicopter.\"",
+      "start": 208.38,
+      "duration": 1.2
+    },
+    {
+      "text": "Arin: \"Let me get some wood baby. Yo! Yo! Let me get it. Yo, let me get at that wood girl.\"",
+      "start": 210.56,
+      "duration": 3.94
+    },
+    {
+      "text": "Danny: *effeminate* \"Uh huh.\"",
+      "start": 214.5,
+      "duration": 0.62
+    },
+    {
+      "text": "Arin: \"Let me get at that wood.\"",
+      "start": 215.12,
+      "duration": 0.8
+    },
+    {
+      "text": "Danny: *effeminate* \"Mmmhmm.\"",
+      "start": 216.38,
+      "duration": 0.74
+    },
+    {
+      "text": "Arin: \"Ugh.\"",
+      "start": 217.36,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Alright here's the second ball, up here.\"",
+      "start": 218.38,
+      "duration": 1.54
+    },
+    {
+      "text": "Danny: \"Do it.\"",
+      "start": 220.06,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Um, easy peasy. And then this fucker over here. Check this out, watch this.\"",
+      "start": 221.36,
+      "duration": 4.1
+    },
+    {
+      "text": "Arin: \"This guy thinks he's so cool.\"",
+      "start": 226.3,
+      "duration": 1.0
+    },
+    {
+      "text": "Danny: *grunt of effort*",
+      "start": 227.3,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"But he's dead.\"",
+      "start": 228.88,
+      "duration": 0.7
+    },
+    {
+      "text": "Danny: *laughs*",
+      "start": 229.58,
+      "duration": 1.86
+    },
+    {
+      "text": "Danny: \"This guy thinks he's so cool. Then you just look at his broken body on the ground.\"",
+      "start": 231.44,
+      "duration": 3.54
+    },
+    {
+      "text": "Danny: \"Boy, he hopped up though.\"",
+      "start": 235.78,
+      "duration": 1.02
+    },
+    {
+      "text": "Danny: \"He's like 'I'm ready for action!'\"",
+      "start": 238.38,
+      "duration": 1.62
+    },
+    {
+      "text": "Arin: \"Hopped up on...\"",
+      "start": 240.06,
+      "duration": 1.08
+    },
+    {
+      "text": "Arin: \"Uuhhh...\"",
+      "start": 242.42,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \" `ludes.\"",
+      "start": 242.94,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Life.\"",
+      "start": 243.44,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \" `ludes? Quaaludes?\"",
+      "start": 244.08,
+      "duration": 1.04
+    },
+    {
+      "text": "Danny: \"Yeah.\"",
+      "start": 245.12,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: *manly laughs*",
+      "start": 245.62,
+      "duration": 0.7
+    },
+    {
+      "text": "Danny: \"Hopped up on `ludes.\"",
+      "start": 246.32,
+      "duration": 0.66
+    },
+    {
+      "text": "Arin: \"They don't even make those anymore.\"",
+      "start": 247.46,
+      "duration": 1.2
+    },
+    {
+      "text": "Danny: \"The don't, and even when they did, you did not get 'hopped up' on them.\"",
+      "start": 248.66,
+      "duration": 4.12
+    },
+    {
+      "text": "Arin: \"Wait, how did they...?\"",
+      "start": 252.78,
+      "duration": 1.02
+    },
+    {
+      "text": "Arin: \"How did they just stop making a drug? People love drugs.\"",
+      "start": 254.48,
+      "duration": 3.94
+    },
+    {
+      "text": "Danny: \"They, they sure do Arin.\"",
+      "start": 258.88,
+      "duration": 1.32
+    },
+    {
+      "text": "Arin: \"That just, that just baffles me. That they were just like 'No, we're just not gonna make it anymore.'\"",
+      "start": 261.14,
+      "duration": 3.88
+    },
+    {
+      "text": "Danny: \"I'm sure quaaludes are still out there.\"",
+      "start": 265.02,
+      "duration": 1.26
+    },
+    {
+      "text": "Arin: \"But, are they?\"",
+      "start": 266.6,
+      "duration": 1.3
+    },
+    {
+      "text": "Danny: \"I mean, it's not like in the '70s when they were...\"",
+      "start": 267.9,
+      "duration": 2.46
+    },
+    {
+      "text": "Arin: \"But they were always illegal, right?\"",
+      "start": 270.36,
+      "duration": 1.18
+    },
+    {
+      "text": "Danny: \"The Belle of the Ball.\"",
+      "start": 271.54,
+      "duration": 1.62
+    },
+    {
+      "text": "Danny: \"I don't know. Maybe, they were like, uh, prescription type of narcotics, that were abused.\"",
+      "start": 273.6,
+      "duration": 6.12
+    },
+    {
+      "text": "Danny: \"Let's find out.\"",
+      "start": 280.52,
+      "duration": 0.9
+    },
+    {
+      "text": "Arin: \"That seems accurate.\"",
+      "start": 281.42,
+      "duration": 1.32
+    },
+    {
+      "text": "Arin: \"Alright, I gotta, bring this fucking ball up.\"",
+      "start": 284.5,
+      "duration": 3.26
+    },
+    {
+      "text": "Arin: \"How do I get up there with this ball?\"",
+      "start": 288.34,
+      "duration": 2.04
+    },
+    {
+      "text": "Danny: *talking to Siri* \"What are quaaludes?\"",
+      "start": 291.24,
+      "duration": 1.36
+    },
+    {
+      "text": "Arin: \"A lot of fun.\"",
+      "start": 294.04,
+      "duration": 0.74
+    },
+    {
+      "text": "Danny: \"Yeah.\"",
+      "start": 294.78,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Says me.\"",
+      "start": 295.28,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: *chuckles*",
+      "start": 295.78,
+      "duration": 1.28
+    },
+    {
+      "text": "Danny: *imitating Siri* \" 'A good fucking time,' says Siri.\"",
+      "start": 297.64,
+      "duration": 2.52
+    },
+    {
+      "text": "Arin: \"Wait, so how?\"",
+      "start": 301.3,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Methaqualone sold under the brand name quaalude in the US and Mandrex. The US and MANDRAX.\"",
+      "start": 301.8,
+      "duration": 7.7
+    },
+    {
+      "text": "Danny: \"Wow.\"",
+      "start": 309.5,
+      "duration": 0.6
+    },
+    {
+      "text": "Arin: \"What the fuck is Mandrax? Is that like another planet where dudes have like three horns?\"",
+      "start": 310.1,
+      "duration": 4.72
+    },
+    {
+      "text": "Danny: \"It's a sedative and hypnotic medication.\"",
+      "start": 315.04,
+      "duration": 2.78
+    },
+    {
+      "text": "Danny: \"Woah.\"",
+      "start": 318.7,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Hypnotic medication?\"",
+      "start": 319.2,
+      "duration": 1.22
+    },
+    {
+      "text": "Danny: \"Yeah.\"",
+      "start": 320.42,
+      "duration": 0.54
+    },
+    {
+      "text": "Danny: \"They became increasingly popular as a recreational drug and 'club drug' in the late 1960s and '70s.\"",
+      "start": 321.24,
+      "duration": 5.26
+    },
+    {
+      "text": "Danny: \"Known variously--\"",
+      "start": 326.94,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Oh, I thought it was, I thought it was like an 80s thing.\"",
+      "start": 327.44,
+      "duration": 1.82
+    },
+    {
+      "text": "Danny: \"Known as--no 80s were coke--Uh, known as ludes or sopers. Also soaps.\"",
+      "start": 329.26,
+      "duration": 6.94
+    },
+    {
+      "text": "Arin: \"But, wasn't that The Wolf of Wall Street? Wasn't that quaaludes?\"",
+      "start": 336.7,
+      "duration": 3.24
+    },
+    {
+      "text": "Danny: \"I don't know. Never saw it.\"",
+      "start": 340.3,
+      "duration": 1.46
+    },
+    {
+      "text": "Danny: \"The drug was often used by hippies and by people who went dancing at glam rock clubs in the '70s and at discos.\"",
+      "start": 342.64,
+      "duration": 5.38
+    },
+    {
+      "text": "Danny: \"The drug was so popular in the disco scene, that the drug sold under the brand name quaaludes, was nicknamed 'disco biscuits'.\"",
+      "start": 348.02,
+      "duration": 7.72
+    },
+    {
+      "text": "Danny: \"Aww.\"",
+      "start": 355.74,
+      "duration": 0.8
+    },
+    {
+      "text": "Arin: \"Well, that sounds fun.\"",
+      "start": 356.54,
+      "duration": 1.42
+    },
+    {
+      "text": "Danny: \"That's nice.\"",
+      "start": 357.96,
+      "duration": 0.98
+    },
+    {
+      "text": "Arin: \"I like the sound of that.\"",
+      "start": 358.94,
+      "duration": 0.78
+    },
+    {
+      "text": "Danny: \"So, I guess, they are still around.\"",
+      "start": 360.2,
+      "duration": 1.26
+    },
+    {
+      "text": "Arin: \"Disco biscuits.\"",
+      "start": 362.14,
+      "duration": 0.58
+    },
+    {
+      "text": "Danny: *lispy* \"Disco biscuits.\"",
+      "start": 362.72,
+      "duration": 1.06
+    },
+    {
+      "text": "Arin: \"Hey Dan, you wanna go get some disco biscuits?\"",
+      "start": 363.78,
+      "duration": 1.86
+    },
+    {
+      "text": "Danny: \"I'd love to.\"",
+      "start": 365.64,
+      "duration": 0.88
+    },
+    {
+      "text": "Arin: \"I heard Nabisco is...\"",
+      "start": 366.52,
+      "duration": 1.2
+    },
+    {
+      "text": "Arin: *chuckles*",
+      "start": 367.72,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Putting out some disco.\"",
+      "start": 368.22,
+      "duration": 2.16
+    },
+    {
+      "text": "Arin: *continues chuckling*",
+      "start": 370.38,
+      "duration": 0.56
+    },
+    {
+      "text": "Danny: \"Damn.\"",
+      "start": 371.82,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Damn Nabisco.\"",
+      "start": 372.94,
+      "duration": 1.02
+    },
+    {
+      "text": "Arin: \"Those little fucking elves, are getting into some hard shit.\"",
+      "start": 373.98,
+      "duration": 2.32
+    },
+    {
+      "text": "Danny: \"Is Keebler, Nabisco?\"",
+      "start": 377.02,
+      "duration": 1.16
+    },
+    {
+      "text": "Arin: \"No.\"",
+      "start": 379.46,
+      "duration": 0.68
+    },
+    {
+      "text": "Danny: \"Oh.\"",
+      "start": 380.14,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"There are more elves? There are more cracker and cookie elves?\"",
+      "start": 381.54,
+      "duration": 3.16
+    },
+    {
+      "text": "Arin: \"No, I don't know. Dan! I don't know, dammit!\"",
+      "start": 384.7,
+      "duration": 3.38
+    },
+    {
+      "text": "Danny: \"I don't know! I don't know either! Stop yelling at me about elves!\"",
+      "start": 388.08,
+      "duration": 3.24
+    },
+    {
+      "text": "Arin: \"Fine.\"",
+      "start": 392.8,
+      "duration": 0.58
+    },
+    {
+      "text": "Danny: \"I don't know if that guy is going to survive that fall.\"",
+      "start": 393.38,
+      "duration": 2.26
+    },
+    {
+      "text": "Arin: \"Well, I don't care.\"",
+      "start": 395.64,
+      "duration": 0.92
+    },
+    {
+      "text": "Danny: \"Cool.\"",
+      "start": 396.82,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"He can survive whatever fucking fall,\"",
+      "start": 397.32,
+      "duration": 1.76
+    },
+    {
+      "text": "Danny: \"Woah!\"",
+      "start": 399.08,
+      "duration": 0.68
+    },
+    {
+      "text": "Arin: \"These guys are dead. These guys are actually dead.\"",
+      "start": 400.44,
+      "duration": 2.3
+    },
+    {
+      "text": "Arin: \"They are not just dead to me, but they are actually dead.\"",
+      "start": 403.38,
+      "duration": 2.1
+    },
+    {
+      "text": "Danny: \"Yeah.\" Arin: \"Boom.\"",
+      "start": 405.48,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Yeah.\" Arin: \"Boom.\"",
+      "start": 405.98,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Yeah.\" Arin: \"Boom.\"",
+      "start": 406.48,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Yeah.\" Arin: \"Boom.\"",
+      "start": 406.98,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"So dead. That guy tried to throw a rock at me. That's how desperate he was.\"",
+      "start": 407.48,
+      "duration": 4.98
+    },
+    {
+      "text": "Arin: \"He's still trying to throw rocks.\"",
+      "start": 413.22,
+      "duration": 1.64
+    },
+    {
+      "text": "Arin: \"Now, he's dead.\"",
+      "start": 415.66,
+      "duration": 1.0
+    },
+    {
+      "text": "Arin: \"That's what you get for trying to fucking do your piddly shit at me.\"",
+      "start": 417.5,
+      "duration": 3.46
+    },
+    {
+      "text": "Danny: *amused exhale*",
+      "start": 420.96,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Fucking d-hole. Disco biscuit.\"",
+      "start": 421.98,
+      "duration": 2.5
+    },
+    {
+      "text": "Danny: \"Yeah.\"",
+      "start": 424.48,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"You fucking disco biscuits. Oh, that's a great insult actually.\"",
+      "start": 425.6,
+      "duration": 3.2
+    },
+    {
+      "text": "Danny: \"Gonna start working that one into the rotation.\"",
+      "start": 429.36,
+      "duration": 1.6
+    },
+    {
+      "text": "Arin: \"You should do it, man.\"",
+      "start": 430.96,
+      "duration": 1.06
+    },
+    {
+      "text": "Arin: \"It's a good one.\"",
+      "start": 432.96,
+      "duration": 0.64
+    },
+    {
+      "text": "Danny: \"I like your, uh, I like your stance that you got going on right now.\"",
+      "start": 433.86,
+      "duration": 3.32
+    },
+    {
+      "text": "Arin: \"Oh with my like arm that's sorta like chilling.\"",
+      "start": 437.18,
+      "duration": 2.82
+    },
+    {
+      "text": "Danny: \"Yeah it's hard to explain, but Arin's got the one controller for the Switch,\"",
+      "start": 440.0,
+      "duration": 5.64
+    },
+    {
+      "text": "Arin: \"Oh no!\"",
+      "start": 445.64,
+      "duration": 1.66
+    },
+    {
+      "text": "Danny: \"Aww! You fucked it up.\"",
+      "start": 447.3,
+      "duration": 1.72
+    },
+    {
+      "text": "Arin: *disappointed groan*",
+      "start": 449.02,
+      "duration": 0.96
+    },
+    {
+      "text": "Danny: \"Nevermind.\"",
+      "start": 449.98,
+      "duration": 0.7
+    },
+    {
+      "text": "Arin: \"I'm doing like a, like a sitting dab.\"",
+      "start": 450.9,
+      "duration": 2.12
+    },
+    {
+      "text": "Danny: \"Yeah. Yeah it's kinda. One of your arms is fully extended working the shoot button.\"",
+      "start": 453.02,
+      "duration": 4.42
+    },
+    {
+      "text": "Danny: \"But, you just fucked it up.\"",
+      "start": 457.44,
+      "duration": 1.0
+    },
+    {
+      "text": "Arin: \"But I'm lounging. My arms are both laying on the couch.\"",
+      "start": 458.62,
+      "duration": 2.48
+    },
+    {
+      "text": "Danny: \"Does that mean you have to redo the orbs you already did?\"",
+      "start": 461.1,
+      "duration": 2.2
+    },
+    {
+      "text": "Arin: *defeated* \"Yes.\"",
+      "start": 463.3,
+      "duration": 0.58
+    },
+    {
+      "text": "Danny: \"Ahh. Let's pause the episode then.\"",
+      "start": 463.88,
+      "duration": 2.24
+    },
+    {
+      "text": "Arin: \"What? No.\"",
+      "start": 466.12,
+      "duration": 1.08
+    },
+    {
+      "text": "Danny: \"Oh, yeah. Oh, yeah. People don't want to watch you do that shit again.\"",
+      "start": 467.2,
+      "duration": 2.88
+    },
+    {
+      "text": "Arin: \"Well, that's, it was easy.\"",
+      "start": 470.08,
+      "duration": 1.8
+    },
+    {
+      "text": "Danny: \"See you soon!\"",
+      "start": 471.88,
+      "duration": 0.5
+    },
+    {
+      "text": "*funky banjo music*",
+      "start": 472.38,
+      "duration": 6.36
+    },
+    {
+      "text": "(Thanks Barry! <3)",
+      "start": 478.74,
+      "duration": 1.28
+    },
+    {
+      "text": "*funky banjo music*",
+      "start": 480.02,
+      "duration": 4.4
+    },
+    {
+      "text": "Arin: \"Give it away! Give it away! Give it away now!\"",
+      "start": 484.42,
+      "duration": 1.7
+    },
+    {
+      "text": "Arin: *chuckles*",
+      "start": 486.12,
+      "duration": 0.82
+    },
+    {
+      "text": "Arin: *unintelligible rapping*",
+      "start": 487.5,
+      "duration": 2.64
+    },
+    {
+      "text": "Arin: *beatboxing*",
+      "start": 490.14,
+      "duration": 1.14
+    },
+    {
+      "text": "Danny: *laughs*",
+      "start": 491.28,
+      "duration": 1.12
+    },
+    {
+      "text": "Danny: \"And welcome back!\"",
+      "start": 492.4,
+      "duration": 1.04
+    },
+    {
+      "text": "Arin: \"I don't know the lyrics.\"",
+      "start": 493.44,
+      "duration": 0.96
+    },
+    {
+      "text": "Danny: \"It's okay.\"",
+      "start": 494.4,
+      "duration": 1.02
+    },
+    {
+      "text": "Danny: \"Uhh.\"",
+      "start": 495.76,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"So, Arin, is uh doing better. Um, let me just unpause this puppy.",
+      "start": 496.72,
+      "duration": 5.36
+    },
+    {
+      "text": "Danny: \"And?\"",
+      "start": 502.5,
+      "duration": 0.92
+    },
+    {
+      "text": "Danny: \"Nope.\"",
+      "start": 503.68,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Help.\"",
+      "start": 504.72,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Whoops.\"",
+      "start": 506.7,
+      "duration": 0.68
+    },
+    {
+      "text": "Danny: \"Okay.\"",
+      "start": 508.5,
+      "duration": 0.64
+    },
+    {
+      "text": "Danny: *chuckles*",
+      "start": 509.56,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"I fucked that up, but whatever. Doesn't matter.\"",
+      "start": 510.06,
+      "duration": 2.24
+    },
+    {
+      "text": "Danny: \"What's that bigass flapjack doing there?\"",
+      "start": 513.4,
+      "duration": 1.68
+    },
+    {
+      "text": "Arin: \"Um, it's gonna be out of the way in a sec, oh.\"",
+      "start": 515.08,
+      "duration": 1.96
+    },
+    {
+      "text": "Danny: \"Oh.\"",
+      "start": 517.04,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Okay.\"",
+      "start": 517.54,
+      "duration": 0.88
+    },
+    {
+      "text": "Arin: \"Maybe not so much.\"",
+      "start": 519.2,
+      "duration": 2.14
+    },
+    {
+      "text": "Danny: \"'Kay.\"",
+      "start": 521.34,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Bigass flapjack.\"",
+      "start": 522.28,
+      "duration": 1.4
+    },
+    {
+      "text": "Danny: \"Yeah, I looked away for a second and when I looked back it was just a big,\"",
+      "start": 523.68,
+      "duration": 3.14
+    },
+    {
+      "text": "Arin: \"Just a slab of fucking metal.\"",
+      "start": 526.82,
+      "duration": 1.34
+    },
+    {
+      "text": "Danny: \"Chunk of butter, yeah, just sitting on there.\"",
+      "start": 528.16,
+      "duration": 1.98
+    },
+    {
+      "text": "Arin: \"Wait, what?\"",
+      "start": 531.88,
+      "duration": 0.88
+    },
+    {
+      "text": "Arin: \"There we go.\"",
+      "start": 533.98,
+      "duration": 0.6
+    },
+    {
+      "text": "Danny: \"Nice.\"",
+      "start": 534.58,
+      "duration": 0.64
+    },
+    {
+      "text": "Arin: \"Um\"",
+      "start": 535.22,
+      "duration": 0.72
+    },
+    {
+      "text": "Danny: \"Oh that shit is going flying. Slapping the shit out of it.\"",
+      "start": 541.32,
+      "duration": 3.06
+    },
+    {
+      "text": "Danny: \"Dude, you broke a whole boko club with that.\"",
+      "start": 545.62,
+      "duration": 1.48
+    },
+    {
+      "text": "Arin: \"Whoo!\"",
+      "start": 547.1,
+      "duration": 1.3
+    },
+    {
+      "text": "Danny: \"Boko club, more like broke-o club.\" \n*awkward laughs*",
+      "start": 549.06,
+      "duration": 1.52
+    },
+    {
+      "text": "Arin: *laugh that sounds like engine turning over*",
+      "start": 550.58,
+      "duration": 1.88
+    },
+    {
+      "text": "Danny: \"Alright, well, we're just kind of getting back into the swing of things here.\"",
+      "start": 553.56,
+      "duration": 2.26
+    },
+    {
+      "text": "Danny: \"You got to give us a minute.\"",
+      "start": 555.82,
+      "duration": 1.16
+    },
+    {
+      "text": "Arin: \"Oh he took a nap. Look he took a nap over there.\"",
+      "start": 557.32,
+      "duration": 2.3
+    },
+    {
+      "text": "Danny: \"Aww.\"",
+      "start": 559.82,
+      "duration": 0.64
+    },
+    {
+      "text": "Arin: \"I kind of want to wake him up and fuck with him, but that would be dangerous.\"",
+      "start": 560.72,
+      "duration": 2.82
+    },
+    {
+      "text": "Danny: \"Yeah.\"",
+      "start": 563.54,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"To be perfectly honest it would be very dangerous, and I could die again.\"",
+      "start": 564.04,
+      "duration": 2.72
+    },
+    {
+      "text": "Danny: \"Plus, he's a sleepy bear.\"",
+      "start": 566.76,
+      "duration": 0.96
+    },
+    {
+      "text": "Danny: \"Let him be.\"",
+      "start": 568.16,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"But I, you know, I got everything. Everything is good.\"",
+      "start": 568.66,
+      "duration": 2.92
+    },
+    {
+      "text": "Danny: \"Okay so now just one orb left, right?\"",
+      "start": 572.26,
+      "duration": 1.54
+    },
+    {
+      "text": "Arin: \"Two. I didn't redo the other one.\"",
+      "start": 573.8,
+      "duration": 2.56
+    },
+    {
+      "text": "Danny: \"You just, I just said 'Did you fight the Hinox?' And you were like 'Yeah.'\"",
+      "start": 576.36,
+      "duration": 4.08
+    },
+    {
+      "text": "Arin: \"Well, I got the orb out of his thing so I don't have to deal with him anymore.\"",
+      "start": 580.44,
+      "duration": 1.46
+    },
+    {
+      "text": "Danny: \"Oh, okay.\"",
+      "start": 581.9,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Just need to go pick up the orb.\"",
+      "start": 582.4,
+      "duration": 1.18
+    },
+    {
+      "text": "Arin: \"It's over here.\"",
+      "start": 584.0,
+      "duration": 0.76
+    },
+    {
+      "text": "Danny: \"Oh, okay.\"",
+      "start": 584.76,
+      "duration": 0.68
+    },
+    {
+      "text": "Arin: \"Yeah.\"",
+      "start": 585.46,
+      "duration": 0.7
+    },
+    {
+      "text": "Danny: \"Got it.\"",
+      "start": 587.0,
+      "duration": 0.66
+    },
+    {
+      "text": "Arin: \"So, see there's one right there and then, oh they're back! That's right the blood moon.\"",
+      "start": 587.66,
+      "duration": 3.44
+    },
+    {
+      "text": "Arin: \"That's the only time it's ever affected me.\"",
+      "start": 591.56,
+      "duration": 2.06
+    },
+    {
+      "text": "Danny: \"Dangit.\"",
+      "start": 593.94,
+      "duration": 0.52
+    },
+    {
+      "text": "Arin: \"This fucker.\"",
+      "start": 595.9,
+      "duration": 0.92
+    },
+    {
+      "text": "Arin: \"I wish they didn't fly off when you hit them with the last hit, it's kind of annoying.\"",
+      "start": 597.28,
+      "duration": 4.0
+    },
+    {
+      "text": "Danny: \"Ah, I think,\"",
+      "start": 601.5,
+      "duration": 0.66
+    },
+    {
+      "text": "Danny: \"I think it's pretty epic.\"",
+      "start": 602.38,
+      "duration": 1.22
+    },
+    {
+      "text": "Arin: *goofy voice* \"I think it's epic!!\"",
+      "start": 604.08,
+      "duration": 2.8
+    },
+    {
+      "text": "Danny: *melancholic* \"I am fucking epic.\"",
+      "start": 606.88,
+      "duration": 1.78
+    },
+    {
+      "text": "Arin: *goofy voice* \"My name's Randall. And I think it's epic!\"",
+      "start": 608.66,
+      "duration": 3.08
+    },
+    {
+      "text": "Danny: \"You're name is Lorendall?\"",
+      "start": 611.74,
+      "duration": 1.18
+    },
+    {
+      "text": "Arin: *slightly less goofy voice* \"Randall.\"",
+      "start": 612.92,
+      "duration": 0.98
+    },
+    {
+      "text": "Danny: \"Oh, Randall.\"",
+      "start": 614.44,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Randall the epic man.\"",
+      "start": 614.94,
+      "duration": 1.46
+    },
+    {
+      "text": "Danny: *chuckles*",
+      "start": 616.4,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: *high-pitched goofy voice* \"I am epic!\"",
+      "start": 617.42,
+      "duration": 1.08
+    },
+    {
+      "text": "Danny: *laughs*",
+      "start": 618.5,
+      "duration": 0.72
+    },
+    {
+      "text": "Danny/Arin: *laughs*",
+      "start": 619.22,
+      "duration": 1.72
+    },
+    {
+      "text": "Arin: *increasingly loud goofy voice* \"My name is Randall, I am carrying an orb and I am epic!\"",
+      "start": 620.94,
+      "duration": 4.4
+    },
+    {
+      "text": "Danny: \"Just talking to himself.\"",
+      "start": 625.34,
+      "duration": 1.08
+    },
+    {
+      "text": "Arin: *chuckles*",
+      "start": 626.42,
+      "duration": 1.2
+    },
+    {
+      "text": "Arin: \"Fucking Randall, man.\"",
+      "start": 628.26,
+      "duration": 1.0
+    },
+    {
+      "text": "Danny: \"Doesn't everyone agree?\"",
+      "start": 629.52,
+      "duration": 0.84
+    },
+    {
+      "text": "Arin: \"I mean he's the IT guy and everything, so we need him around. But,\"",
+      "start": 630.36,
+      "duration": 2.8
+    },
+    {
+      "text": "Danny: \"When I was a kid I used to have an imaginary gang of friends. Like,\"",
+      "start": 633.64,
+      "duration": 4.08
+    },
+    {
+      "text": "Arin: \"One wasn't enough?\"",
+      "start": 637.72,
+      "duration": 1.14
+    },
+    {
+      "text": "Danny: \"Yeah.\"",
+      "start": 638.86,
+      "duration": 0.6
+    },
+    {
+      "text": "Danny: \"I like, I had a gang, and like the fourth one, I think I talked about this on GameGrumps once.\"",
+      "start": 639.7,
+      "duration": 5.78
+    },
+    {
+      "text": "Danny: \"There were four of them, and the fourth one would always say something wacky.\"",
+      "start": 646.42,
+      "duration": 3.26
+    },
+    {
+      "text": "Danny: \"Like,\"",
+      "start": 650.04,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"I'd be like 'Hey guys let's roll!'\"",
+      "start": 651.12,
+      "duration": 1.76
+    },
+    {
+      "text": "Danny: \"And they'd be like,\"",
+      "start": 652.88,
+      "duration": 1.54
+    },
+    {
+      "text": "Danny: \"Heck yeah!\"   \"You know it!\" \n\"You're the best Dan!\"   \"I like pizza.\"",
+      "start": 654.42,
+      "duration": 4.38
+    },
+    {
+      "text": "Danny: \"And I'm like, 'Oh fourth imaginary friend.'\"",
+      "start": 658.92,
+      "duration": 2.72
+    },
+    {
+      "text": "Arin: \"That I made up.\"",
+      "start": 661.96,
+      "duration": 1.16
+    },
+    {
+      "text": "Danny: \"Yeah, just so weird.",
+      "start": 663.12,
+      "duration": 1.82
+    },
+    {
+      "text": "Danny: \"I was such a weird kid.\"",
+      "start": 665.24,
+      "duration": 1.88
+    },
+    {
+      "text": "Arin: \"Can't believe the fucking blood moon.\"",
+      "start": 667.12,
+      "duration": 1.5
+    },
+    {
+      "text": "Arin: \"So that's the thing about the blood moon. Everybody comes back forever.\"",
+      "start": 668.62,
+      "duration": 2.98
+    },
+    {
+      "text": "Danny: \"Oh dip.\"",
+      "start": 672.04,
+      "duration": 0.64
+    },
+    {
+      "text": "Arin: \"Yeah, it's just like a rest button.\"",
+      "start": 672.68,
+      "duration": 1.88
+    },
+    {
+      "text": "Arin: \"So there all back now. That sucks, being on eventide with the fucking blood moon sucks.\"",
+      "start": 675.2,
+      "duration": 4.1
+    },
+    {
+      "text": "Arin: \"Woah.\"",
+      "start": 679.3,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Oh, excuse me. Don't mind me with your fiery pokey sticks.\"",
+      "start": 679.8,
+      "duration": 4.18
+    },
+    {
+      "text": "Arin: \"Bye.\" *chuckles*",
+      "start": 683.98,
+      "duration": 0.98
+    },
+    {
+      "text": "Arin: \"Firey pokey sticks.\"",
+      "start": 685.62,
+      "duration": 1.3
+    },
+    {
+      "text": "Arin: \"Sounds like either a delicious Japanese treat or a great Pokemon item.\"",
+      "start": 686.94,
+      "duration": 4.86
+    },
+    {
+      "text": "Danny: \"Or a horrible medieval torture device.\"",
+      "start": 693.52,
+      "duration": 3.5
+    },
+    {
+      "text": "Arin: \"Oh, yeah.\"",
+      "start": 697.02,
+      "duration": 0.6
+    },
+    {
+      "text": "Arin: \"That could be the third. That could be the tertiary.\"",
+      "start": 698.54,
+      "duration": 3.56
+    },
+    {
+      "text": "Danny: \"Whats gonna happen when you, put in the third orb?\"",
+      "start": 702.22,
+      "duration": 2.68
+    },
+    {
+      "text": "Arin: \"I'll let you guess Dan.\"",
+      "start": 704.9,
+      "duration": 2.2
+    },
+    {
+      "text": "Danny: \"Okay.\"",
+      "start": 707.26,
+      "duration": 0.56
+    },
+    {
+      "text": "Arin: \"What happens after literally anything in this game?\"",
+      "start": 708.98,
+      "duration": 2.7
+    },
+    {
+      "text": "Danny: \"Oops.\"",
+      "start": 711.82,
+      "duration": 0.6
+    },
+    {
+      "text": "Danny: \"The orb just shatters and you can't complete it.\"",
+      "start": 712.42,
+      "duration": 2.92
+    },
+    {
+      "text": "Arin: \"Oops.\"",
+      "start": 715.52,
+      "duration": 1.64
+    },
+    {
+      "text": "Danny: \"Um.\"",
+      "start": 718.02,
+      "duration": 0.6
+    },
+    {
+      "text": "Danny: \"I'm gonna say,\"",
+      "start": 719.3,
+      "duration": 1.1
+    },
+    {
+      "text": "Danny: \"Pinatas.\"",
+      "start": 720.9,
+      "duration": 0.88
+    },
+    {
+      "text": "Danny: \"Lots of pinatas fall from all the trees.\"",
+      "start": 722.26,
+      "duration": 2.36
+    },
+    {
+      "text": "Arin: \"Close.\"",
+      "start": 724.62,
+      "duration": 0.6
+    },
+    {
+      "text": "Danny: \"And you break them open for the candy for the children.\"",
+      "start": 725.22,
+      "duration": 2.7
+    },
+    {
+      "text": "Arin: \"Very close.\"",
+      "start": 727.92,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"And you and the bokoblins dine on Laffy Taffy and other assorted treats.\"",
+      "start": 728.42,
+      "duration": 4.86
+    },
+    {
+      "text": "Arin: \"So close.\"",
+      "start": 733.28,
+      "duration": 1.36
+    },
+    {
+      "text": "Arin: \"What else do you think happens?\"",
+      "start": 736.26,
+      "duration": 1.42
+    },
+    {
+      "text": "Danny: \"I dare you to chuck it in from here.\"",
+      "start": 737.68,
+      "duration": 1.32
+    },
+    {
+      "text": "Arin: \"I can't.\"",
+      "start": 739.46,
+      "duration": 1.12
+    },
+    {
+      "text": "Danny: \"If you're so good.\"",
+      "start": 740.58,
+      "duration": 0.88
+    },
+    {
+      "text": "Arin: \"I, I can't.\"",
+      "start": 741.46,
+      "duration": 1.18
+    },
+    {
+      "text": "Arin: *valley girl voice* \"I literally can't.\"",
+      "start": 743.34,
+      "duration": 1.82
+    },
+    {
+      "text": "Danny: \"Kobe!\"",
+      "start": 745.16,
+      "duration": 0.72
+    },
+    {
+      "text": "Arin: *valley girl voice* \"I literally can't right now. You're being crazy and I literally can't.\"",
+      "start": 746.42,
+      "duration": 5.9
+    },
+    {
+      "text": "Arin: \"Um.\"",
+      "start": 753.6,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Got those crabs, yo.\"",
+      "start": 754.1,
+      "duration": 0.98
+    },
+    {
+      "text": "Arin: \"Yeah, so I just gotta get a raft.\"",
+      "start": 755.36,
+      "duration": 2.36
+    },
+    {
+      "text": "Danny: \"Assuming you're stuffing those crabs in your short-shorts, since there is no other place to put them,\"",
+      "start": 757.72,
+      "duration": 3.74
+    },
+    {
+      "text": "Danny: \"You're a bold man.\"",
+      "start": 761.46,
+      "duration": 1.84
+    },
+    {
+      "text": "Arin: \"They're having a real good time in there.\"",
+      "start": 763.3,
+      "duration": 1.3
+    },
+    {
+      "text": "Danny: \"Yeah.\"",
+      "start": 764.6,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"I like the pinches.\"",
+      "start": 765.3,
+      "duration": 1.1
+    },
+    {
+      "text": "Danny: \"I like them.\"",
+      "start": 766.66,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"You know I like the pinches.\"",
+      "start": 767.62,
+      "duration": 1.34
+    },
+    {
+      "text": "Danny: \"Zelda's like,\"",
+      "start": 769.5,
+      "duration": 0.72
+    },
+    {
+      "text": "Danny: *girly voice* \"I knew you had crabs, razorclaw crabs.\"",
+      "start": 770.32,
+      "duration": 4.2
+    },
+    {
+      "text": "Arin: \"It is my favorite Renaissance artist Leonardo Da Pinchy.\"",
+      "start": 774.52,
+      "duration": 2.92
+    },
+    {
+      "text": "Danny/Arin: *chuckles*",
+      "start": 777.44,
+      "duration": 1.0
+    },
+    {
+      "text": "Danny: \"Leonardo Da Pinchy?\"",
+      "start": 778.44,
+      "duration": 1.24
+    },
+    {
+      "text": "Danny: \"Oh my god, if I ever get a hermit crab I'm naming him that.\"",
+      "start": 779.68,
+      "duration": 3.5
+    },
+    {
+      "text": "Arin: *laughs*",
+      "start": 783.22,
+      "duration": 2.26
+    },
+    {
+      "text": "Danny/Arin: *laughing together as bbfls*",
+      "start": 785.48,
+      "duration": 5.34
+    },
+    {
+      "text": "Danny: \"That is adorable.\"",
+      "start": 790.86,
+      "duration": 1.44
+    },
+    {
+      "text": "Arin: \"Oh, man.\"",
+      "start": 792.3,
+      "duration": 0.92
+    },
+    {
+      "text": "Danny: \"Okay.\"",
+      "start": 795.12,
+      "duration": 0.66
+    },
+    {
+      "text": "Arin: \"Leonardo Da Pinchy.\"",
+      "start": 797.06,
+      "duration": 1.68
+    },
+    {
+      "text": "Arin: \"Uh, I just got to get the raft over here. Do I have a fucking?\"",
+      "start": 800.38,
+      "duration": 2.92
+    },
+    {
+      "text": "Danny: \"For what?\"",
+      "start": 803.3,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"For what purpose?\"",
+      "start": 803.94,
+      "duration": 1.16
+    },
+    {
+      "text": "Arin: \"Because I need to get the orb to the orb stand.\"",
+      "start": 805.1,
+      "duration": 3.4
+    },
+    {
+      "text": "Danny: \"Oh you can't even take it that short distance?\"",
+      "start": 808.5,
+      "duration": 1.88
+    },
+    {
+      "text": "Arin: No, because then I'd have to swim. That means I would drop it.\"",
+      "start": 810.38,
+      "duration": 2.04
+    },
+    {
+      "text": "Danny: \"Wow.\"",
+      "start": 812.42,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"You know, I don't want to drop it.\"",
+      "start": 812.92,
+      "duration": 1.76
+    },
+    {
+      "text": "Arin: \"And, oh that was close.\"",
+      "start": 815.04,
+      "duration": 1.72
+    },
+    {
+      "text": "Arin: \"Uh, so I got to chop down some trees real quick so I can possibly get some, a korok thing.\"",
+      "start": 817.18,
+      "duration": 5.76
+    },
+    {
+      "text": "Danny: \"Ow!\"",
+      "start": 822.94,
+      "duration": 0.88
+    },
+    {
+      "text": "Arin: \"Stop it.\"",
+      "start": 823.82,
+      "duration": 0.52
+    },
+    {
+      "text": "Danny: \"Oooww.\"",
+      "start": 825.12,
+      "duration": 1.34
+    },
+    {
+      "text": "Arin: \"There we go here's a korok leaf.\"",
+      "start": 827.1,
+      "duration": 1.22
+    },
+    {
+      "text": "Danny: \"Hello friend.\"",
+      "start": 828.32,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Don't. Don't with the fire. Don't with the fire. Stop it. Ow.\"",
+      "start": 828.82,
+      "duration": 3.38
+    },
+    {
+      "text": "Arin: \"My pot lid broke.\"",
+      "start": 832.5,
+      "duration": 1.22
+    },
+    {
+      "text": "Arin: \"You burned my pot lid!\"",
+      "start": 833.72,
+      "duration": 2.0
+    },
+    {
+      "text": "Danny: \"Also I'm on fire.\"",
+      "start": 835.72,
+      "duration": 1.76
+    },
+    {
+      "text": "Arin: \"Fucking asshole.\"",
+      "start": 837.8,
+      "duration": 0.84
+    },
+    {
+      "text": "Danny: \"Dude, it's like pirates are after you with that raft. Its like,\"",
+      "start": 838.64,
+      "duration": 2.84
+    },
+    {
+      "text": "Danny: \"You gotta.\"",
+      "start": 842.4,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Oh that's right you don't have a shield to blow it back at 'em.\"",
+      "start": 843.42,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: \"Well, I do.\"",
+      "start": 845.42,
+      "duration": 1.26
+    },
+    {
+      "text": "Danny: \"You do?\"",
+      "start": 846.94,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Sure.\"",
+      "start": 847.72,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Oh sure, you do. Well then\"",
+      "start": 848.26,
+      "duration": 1.88
+    },
+    {
+      "text": "Arin: \"I have many shields.\"",
+      "start": 850.82,
+      "duration": 1.18
+    },
+    {
+      "text": "Danny: \"Why not just do it?\"",
+      "start": 852.28,
+      "duration": 0.66
+    },
+    {
+      "text": "Arin: \"Because I'm busy!\"",
+      "start": 852.94,
+      "duration": 1.48
+    },
+    {
+      "text": "Danny: \"You're not busy.\"",
+      "start": 854.42,
+      "duration": 1.14
+    },
+    {
+      "text": "Arin: \"I'm fucking blowing shit at this thing! Now I have a shield made of sail.\"",
+      "start": 855.56,
+      "duration": 3.68
+    },
+    {
+      "text": "Arin: \"Ow.\"",
+      "start": 860.0,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: *laughs angelically again.*",
+      "start": 860.5,
+      "duration": 2.06
+    },
+    {
+      "text": "Arin: \"Ow. Stop.\"",
+      "start": 863.14,
+      "duration": 1.82
+    },
+    {
+      "text": "Danny: \"You're so stubborn about the weirdest shit.\"",
+      "start": 864.96,
+      "duration": 2.4
+    },
+    {
+      "text": "Arin: \"Well because, if I, all I'll do is, look I'll kill him now see? He's dead.\"",
+      "start": 867.36,
+      "duration": 4.48
+    },
+    {
+      "text": "Arin: \"Well. he's on my raft. And now he's dead.\"",
+      "start": 872.6,
+      "duration": 2.36
+    },
+    {
+      "text": "Danny: \"Wow, you killed him with the leaf.\"",
+      "start": 875.36,
+      "duration": 1.62
+    },
+    {
+      "text": "Arin: \"Yeah, it's like I wasn't gonna die from him hitting me with five rocks.\"",
+      "start": 876.98,
+      "duration": 3.22
+    },
+    {
+      "text": "Danny: \"That's true.\"",
+      "start": 880.2,
+      "duration": 0.62
+    },
+    {
+      "text": "Danny: \"You die from the other thing.\"",
+      "start": 881.2,
+      "duration": 1.12
+    },
+    {
+      "text": "Arin: \"Oops.\"",
+      "start": 882.32,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Well, you've run yourself aground.\"",
+      "start": 882.82,
+      "duration": 1.12
+    },
+    {
+      "text": "Arin: \"Oh, now it's gonna catch on fire.\"",
+      "start": 883.94,
+      "duration": 1.4
+    },
+    {
+      "text": "Arin: \"We're all gonna die the end.\"",
+      "start": 886.16,
+      "duration": 1.06
+    },
+    {
+      "text": "Arin: \"Alright, this way.\"",
+      "start": 887.94,
+      "duration": 0.98
+    },
+    {
+      "text": "Danny: \"Alright.\"",
+      "start": 888.92,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"If I get too far from the island, no not too far! \nNot too far!\"",
+      "start": 889.42,
+      "duration": 3.46
+    },
+    {
+      "text": "Arin: *screaming* \"No, no, no! No! No!\"",
+      "start": 892.88,
+      "duration": 3.74
+    },
+    {
+      "text": "Danny: \"Never.\"",
+      "start": 897.3,
+      "duration": 0.9
+    },
+    {
+      "text": "Arin: \"Goddammit. Fucking dammit. Why does it have to go so fucking fast all the time?\"",
+      "start": 899.14,
+      "duration": 4.64
+    },
+    {
+      "text": "Danny: \"Wait.\"",
+      "start": 904.18,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"No, it didn't reset it. It just made me fucking have to go back and get that raft again.\"",
+      "start": 905.16,
+      "duration": 4.28
+    },
+    {
+      "text": "Danny: \"Oh my god.\"",
+      "start": 909.44,
+      "duration": 0.98
+    },
+    {
+      "text": "Danny: \"No the raft is there.\"",
+      "start": 911.52,
+      "duration": 1.48
+    },
+    {
+      "text": "Arin: \"All the way over there. And I think it's still gonna be like 'do you wanna fucking leave the challenge 'cause?'\"",
+      "start": 913.0,
+      "duration": 6.7
+    },
+    {
+      "text": "Danny: \"Well how do you?\"",
+      "start": 919.76,
+      "duration": 0.82
+    },
+    {
+      "text": "Danny: \"Is there another way to get the?\"",
+      "start": 921.3,
+      "duration": 2.38
+    },
+    {
+      "text": "Arin: \"I don't know.\"",
+      "start": 924.58,
+      "duration": 0.88
+    },
+    {
+      "text": "Arin: \"I'm on the raft.\"",
+      "start": 925.74,
+      "duration": 1.28
+    },
+    {
+      "text": "Danny: \"The seagulls have like squeaky toys.\"",
+      "start": 927.04,
+      "duration": 1.68
+    },
+    {
+      "text": "Arin: \"There we go. Here we go it's fine.\"",
+      "start": 928.72,
+      "duration": 1.58
+    },
+    {
+      "text": "Arin: \"It's fine, everything's fine. Don't worry.\"",
+      "start": 930.7,
+      "duration": 2.0
+    },
+    {
+      "text": "Danny: \"How could you possibly affect the sail from there?\"",
+      "start": 932.7,
+      "duration": 2.26
+    },
+    {
+      "text": "Arin: \"No.\"",
+      "start": 936.82,
+      "duration": 0.8
+    },
+    {
+      "text": "Danny: *chuckles*",
+      "start": 937.72,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: *yelling* \"Uuggghh!\"",
+      "start": 938.78,
+      "duration": 1.2
+    },
+    {
+      "text": "Danny: *laughing*",
+      "start": 939.98,
+      "duration": 0.66
+    },
+    {
+      "text": "Arin: *yelling* \"This fucking sucks!\"",
+      "start": 940.8,
+      "duration": 1.86
+    },
+    {
+      "text": "Arin: \"God! I got to stand on the edge of this fucking raft and blow it with, like go,\" *breathes air forcefully*",
+      "start": 943.26,
+      "duration": 7.46
+    },
+    {
+      "text": "Arin: \"With my mouth!\"",
+      "start": 950.74,
+      "duration": 0.74
+    },
+    {
+      "text": "Danny: *chuckles*",
+      "start": 951.74,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"And it goes like a fucking inch every hour.\"",
+      "start": 952.4,
+      "duration": 2.5
+    },
+    {
+      "text": "Danny: \"Can you tug the raft like from the sea?\"",
+      "start": 954.9,
+      "duration": 2.28
+    },
+    {
+      "text": "Arin: \"Oh you wish.\"",
+      "start": 957.18,
+      "duration": 0.86
+    },
+    {
+      "text": "Danny: \"Alright.\"",
+      "start": 958.1,
+      "duration": 0.58
+    },
+    {
+      "text": "Danny: \"I do wish.\"",
+      "start": 959.16,
+      "duration": 0.96
+    },
+    {
+      "text": "Arin: \"What's that over there? What the fuck is that?\"",
+      "start": 961.14,
+      "duration": 2.02
+    },
+    {
+      "text": "Arin: \"The hell is that?\"",
+      "start": 963.5,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"It's just rocks.\"",
+      "start": 965.32,
+      "duration": 1.06
+    },
+    {
+      "text": "Danny: \"Yeah, it's big weirdly shaped funnely rock thing,\"",
+      "start": 966.38,
+      "duration": 2.6
+    },
+    {
+      "text": "Arin: \"Weird, alright.\"",
+      "start": 968.98,
+      "duration": 0.96
+    },
+    {
+      "text": "Arin: \"I just have to, I just gotta kinda nudge it.\"",
+      "start": 970.32,
+      "duration": 2.72
+    },
+    {
+      "text": "Danny: \"That'll do it?\"",
+      "start": 973.04,
+      "duration": 1.18
+    },
+    {
+      "text": "Arin: \"Like bit by bit.\"",
+      "start": 976.08,
+      "duration": 0.9
+    },
+    {
+      "text": "Arin: \"No!\"",
+      "start": 977.02,
+      "duration": 0.68
+    },
+    {
+      "text": "Danny: *chuckles*",
+      "start": 977.7,
+      "duration": 0.68
+    },
+    {
+      "text": "Arin: \"Goddammit! How am I supposed to do this now? The fucking raft is over there!\"",
+      "start": 978.38,
+      "duration": 4.72
+    },
+    {
+      "text": "Danny: \"I don't think you can.\"",
+      "start": 983.1,
+      "duration": 0.7
+    },
+    {
+      "text": "Arin: *unintelligible aggravated noise*",
+      "start": 984.74,
+      "duration": 2.18
+    },
+    {
+      "text": "Danny: \"You might have to die and do the whole thing over.\"",
+      "start": 987.32,
+      "duration": 1.4
+    },
+    {
+      "text": "Arin: \"No!\"",
+      "start": 988.76,
+      "duration": 0.78
+    },
+    {
+      "text": "Danny: *laughs*",
+      "start": 989.54,
+      "duration": 2.88
+    },
+    {
+      "text": "Arin: \"I'm just gonna try this.\"",
+      "start": 992.42,
+      "duration": 1.2
+    },
+    {
+      "text": "Danny: \"Okay.\"",
+      "start": 993.62,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"That doesn't work.\"",
+      "start": 995.34,
+      "duration": 1.84
+    },
+    {
+      "text": "Arin: \"Maybe if I like, maybe I can nudge it in the sea.\"",
+      "start": 997.18,
+      "duration": 2.68
+    },
+    {
+      "text": "Arin: \"Or you know what? Maybe I can just like throw it.\"",
+      "start": 1001.02,
+      "duration": 1.92
+    },
+    {
+      "text": "Danny: \"There you go.\"",
+      "start": 1004.3,
+      "duration": 1.48
+    },
+    {
+      "text": "Arin: \"Yeah, but I can't like pick it up in the ocean.\"",
+      "start": 1006.52,
+      "duration": 2.34
+    },
+    {
+      "text": "Arin: \"I can nudge it, but then I can't pick it up when it's like on the side of the thing.\"",
+      "start": 1011.84,
+      "duration": 3.9
+    },
+    {
+      "text": "Danny: \"Oh, this is just brutal. This whole situation is just brutal.\"",
+      "start": 1015.74,
+      "duration": 3.9
+    },
+    {
+      "text": "Arin: \"Son of a bitch, man.\"",
+      "start": 1019.64,
+      "duration": 1.32
+    },
+    {
+      "text": "Arin: \"Did I fuck myself? I think I fucked myself.\"",
+      "start": 1021.96,
+      "duration": 3.02
+    },
+    {
+      "text": "Danny: \"You fucked yourself.\"",
+      "start": 1025.02,
+      "duration": 0.72
+    },
+    {
+      "text": "Arin: \"And I can't, these things don't respond to magnesis. I think they respond to stasis.\"",
+      "start": 1026.98,
+      "duration": 5.26
+    },
+    {
+      "text": "Arin: \"Maybe.\"",
+      "start": 1032.8,
+      "duration": 1.04
+    },
+    {
+      "text": "Danny: \"Hit it.\"",
+      "start": 1035.16,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Like if I stasis it, and then, yeah.\"",
+      "start": 1035.66,
+      "duration": 3.72
+    },
+    {
+      "text": "Arin: \"Throw a bomb at it.\"",
+      "start": 1039.98,
+      "duration": 1.12
+    },
+    {
+      "text": "Arin: \"That might just make it worse.\"",
+      "start": 1042.24,
+      "duration": 1.98
+    },
+    {
+      "text": "Arin: \"Woah.\"",
+      "start": 1046.5,
+      "duration": 0.74
+    },
+    {
+      "text": "Danny: \"That's not good.\"",
+      "start": 1047.24,
+      "duration": 1.14
+    },
+    {
+      "text": "Danny: *laughs*",
+      "start": 1048.38,
+      "duration": 1.94
+    },
+    {
+      "text": "Danny: \"Bye!\"",
+      "start": 1050.98,
+      "duration": 1.06
+    },
+    {
+      "text": "Danny: \"Oh no, it's okay.\"",
+      "start": 1052.16,
+      "duration": 0.94
+    },
+    {
+      "text": "Arin: \"It came back.\"",
+      "start": 1053.1,
+      "duration": 0.9
+    },
+    {
+      "text": "Arin: \"Great.\"",
+      "start": 1054.24,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Oh well, at least, give it a shot dude. Maybe you can fucking get the perfect shot.\"",
+      "start": 1054.74,
+      "duration": 3.92
+    },
+    {
+      "text": "Arin: \"Maybe I can sort of arc it.\"",
+      "start": 1058.66,
+      "duration": 2.24
+    },
+    {
+      "text": "Danny: \"Oh god.\"",
+      "start": 1060.98,
+      "duration": 0.9
+    },
+    {
+      "text": "Danny: \"This is so stupid.\"",
+      "start": 1062.48,
+      "duration": 1.84
+    },
+    {
+      "text": "Arin: \"So what if I?\"",
+      "start": 1066.82,
+      "duration": 0.74
+    },
+    {
+      "text": "Arin: \"That seems good right?\"",
+      "start": 1070.56,
+      "duration": 1.44
+    },
+    {
+      "text": "Danny: \"I don't know.\"",
+      "start": 1072.0,
+      "duration": 0.86
+    },
+    {
+      "text": "Danny: \"I don't think it's going to get there.\"",
+      "start": 1073.74,
+      "duration": 1.28
+    },
+    {
+      "text": "Arin: *frustrated* \"Ugh!\"",
+      "start": 1077.02,
+      "duration": 1.3
+    },
+    {
+      "text": "Arin: \"Fucking dammit. Okay, what if I? Okay, what if I?\"",
+      "start": 1079.84,
+      "duration": 2.24
+    },
+    {
+      "text": "Danny: \"This is amazingly dumb.\"",
+      "start": 1082.08,
+      "duration": 1.34
+    },
+    {
+      "text": "Arin: \"Okay, what if I use my bow and arrow?\"",
+      "start": 1083.42,
+      "duration": 1.72
+    },
+    {
+      "text": "Arin: \"So let me try this.\"",
+      "start": 1086.14,
+      "duration": 1.1
+    },
+    {
+      "text": "Arin: \"Because a bomb is a little too extreme.\"",
+      "start": 1087.9,
+      "duration": 1.72
+    },
+    {
+      "text": "Arin: \"Okay, so let me see what I've got here.\"",
+      "start": 1090.18,
+      "duration": 2.32
+    },
+    {
+      "text": "Arin: \"And?\"",
+      "start": 1093.16,
+      "duration": 0.88
+    },
+    {
+      "text": "Arin: \"Boom.\"",
+      "start": 1094.04,
+      "duration": 0.74
+    },
+    {
+      "text": "Arin: \"Boom.\"",
+      "start": 1095.5,
+      "duration": 0.7
+    },
+    {
+      "text": "Arin: \"Boom.\"",
+      "start": 1097.0,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Okay, that might be enough.\"",
+      "start": 1098.0,
+      "duration": 1.08
+    },
+    {
+      "text": "Arin: \"Nope.\"",
+      "start": 1100.68,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Nope.\"",
+      "start": 1101.18,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"What happened?\"",
+      "start": 1101.68,
+      "duration": 0.66
+    },
+    {
+      "text": "Arin: \"Nope.\"",
+      "start": 1102.34,
+      "duration": 0.5
+    },
+    {
+      "text": "Suzy: *enters*",
+      "start": 1103.62,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Okay, Suzy, it's okay. You can take the blanket.\"",
+      "start": 1104.12,
+      "duration": 2.7
+    },
+    {
+      "text": "Suzy: \"I was trying to be so quiet.\"",
+      "start": 1106.82,
+      "duration": 1.46
+    },
+    {
+      "text": "Danny: *chuckles*",
+      "start": 1108.28,
+      "duration": 1.3
+    },
+    {
+      "text": "Suzy: \"It's the only blanket in the office.\"",
+      "start": 1109.58,
+      "duration": 2.9
+    },
+    {
+      "text": "Danny: \"No, by all means.\"",
+      "start": 1113.0,
+      "duration": 1.2
+    },
+    {
+      "text": "Arin: \"Okay, enjoy the blanket.\"",
+      "start": 1114.2,
+      "duration": 1.5
+    },
+    {
+      "text": "Danny: \"No, you're only, you're just missing your husband disgrace himself.\"",
+      "start": 1115.7,
+      "duration": 2.6
+    },
+    {
+      "text": "Suzy: \"Are you guys getting far?\"",
+      "start": 1118.3,
+      "duration": 1.64
+    },
+    {
+      "text": "Arin: \"I just fucked myself.\"",
+      "start": 1120.02,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: \"I, it's this island that takes like forever to do. And I,\"",
+      "start": 1122.5,
+      "duration": 3.7
+    },
+    {
+      "text": "Arin: *excited* \"Oh the raft is over there now!\"",
+      "start": 1126.2,
+      "duration": 1.22
+    },
+    {
+      "text": "Danny: \"Woah! How'd that happen?\"",
+      "start": 1127.42,
+      "duration": 0.92
+    },
+    {
+      "text": "Arin: \"I don't know! Something happened!\"",
+      "start": 1128.34,
+      "duration": 1.24
+    },
+    {
+      "text": "Danny: \"Okay. Alright.\"",
+      "start": 1129.58,
+      "duration": 0.78
+    },
+    {
+      "text": "Arin: \"Wait, oh that can be stasised?\"",
+      "start": 1130.36,
+      "duration": 2.04
+    },
+    {
+      "text": "Suzy: \"I'm backing up slowly, bye.\"",
+      "start": 1132.4,
+      "duration": 1.34
+    },
+    {
+      "text": "Danny: \"Bye Suz.\"",
+      "start": 1133.78,
+      "duration": 0.74
+    },
+    {
+      "text": "Arin: \"Woah, Woah, Woah. Maybe I can like reverse engineer an explosion.\"",
+      "start": 1134.52,
+      "duration": 3.58
+    },
+    {
+      "text": "Danny: \"Okay.\"",
+      "start": 1138.58,
+      "duration": 0.68
+    },
+    {
+      "text": "Arin: \"Uuuhhh. Hold on.\"",
+      "start": 1139.26,
+      "duration": 1.8
+    },
+    {
+      "text": "Arin: \"Oh, this might be cool.\"",
+      "start": 1141.12,
+      "duration": 1.48
+    },
+    {
+      "text": "Arin: \"Okay, okay, cool.\"",
+      "start": 1143.44,
+      "duration": 1.2
+    },
+    {
+      "text": "Arin: \"Let me.\"",
+      "start": 1145.26,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Oh man, okay, let me check this out.\"",
+      "start": 1146.86,
+      "duration": 2.1
+    },
+    {
+      "text": "Arin: \"Nah, that's not gonna work.\"",
+      "start": 1151.5,
+      "duration": 1.22
+    },
+    {
+      "text": "Danny: \"It might.\"",
+      "start": 1152.96,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"It's gonna make it go the other way.\"",
+      "start": 1154.04,
+      "duration": 1.28
+    },
+    {
+      "text": "Danny: \"Good job.\"",
+      "start": 1155.62,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"But I think it might be close enough for me to,\"",
+      "start": 1156.9,
+      "duration": 2.18
+    },
+    {
+      "text": "Arin: \"Like, get on here and blow it.\"",
+      "start": 1160.6,
+      "duration": 2.68
+    },
+    {
+      "text": "Arin: \"Oh dude! Nice.\"",
+      "start": 1164.18,
+      "duration": 0.76
+    },
+    {
+      "text": "Danny: \"Yay!\"",
+      "start": 1164.94,
+      "duration": 0.7
+    },
+    {
+      "text": "Arin: \"Yay!\"",
+      "start": 1165.76,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Do you wish to leave my challenge?\"",
+      "start": 1166.26,
+      "duration": 1.14
+    },
+    {
+      "text": "Arin: \"All of my problems have been solved by just randomly,\"",
+      "start": 1167.46,
+      "duration": 2.04
+    },
+    {
+      "text": "Danny: \"Random shit.\"",
+      "start": 1169.5,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"I guess the raft.\"",
+      "start": 1170.04,
+      "duration": 1.44
+    },
+    {
+      "text": "Danny: \"Okay, cool.\"",
+      "start": 1171.84,
+      "duration": 0.74
+    },
+    {
+      "text": "Arin: \"Cool man. Wow that was, that was a good, good six minutes of worthless time.\"",
+      "start": 1172.6,
+      "duration": 7.06
+    },
+    {
+      "text": "Danny: \"Of panic.\"",
+      "start": 1179.7,
+      "duration": 0.64
+    },
+    {
+      "text": "Arin: \"Uh, okay, cool great. Great that's easy for me then.\"",
+      "start": 1181.02,
+      "duration": 3.54
+    },
+    {
+      "text": "Arin: \"Done. Stop. Stop. Stop. Stop! Stop!\"",
+      "start": 1185.52,
+      "duration": 4.82
+    },
+    {
+      "text": "Danny: *chuckles*",
+      "start": 1190.34,
+      "duration": 0.6
+    },
+    {
+      "text": "Arin: \"Stop it!\"",
+      "start": 1191.4,
+      "duration": 1.08
+    },
+    {
+      "text": "Arin: \"Good, good. You're good. You're fine.\"",
+      "start": 1194.36,
+      "duration": 2.04
+    },
+    {
+      "text": "Arin: \"Thank you.\"",
+      "start": 1196.98,
+      "duration": 0.56
+    },
+    {
+      "text": "Danny: \"Good you're married. Kiss her!\"",
+      "start": 1198.12,
+      "duration": 1.38
+    },
+    {
+      "text": "Danny: *chuckles*",
+      "start": 1201.02,
+      "duration": 1.24
+    },
+    {
+      "text": "Danny: \"You suck.\"",
+      "start": 1202.26,
+      "duration": 0.76
+    },
+    {
+      "text": "Arin: *chuckles*",
+      "start": 1203.06,
+      "duration": 1.02
+    },
+    {
+      "text": "Danny/Arin: *laughs*",
+      "start": 1204.08,
+      "duration": 1.78
+    },
+    {
+      "text": "Arin: *whiny voice* \"No, don't.\"",
+      "start": 1205.86,
+      "duration": 2.58
+    },
+    {
+      "text": "Danny: \"Just gonna nudge this.\"",
+      "start": 1209.36,
+      "duration": 0.8
+    },
+    {
+      "text": "Arin: \"Aw shit!\"",
+      "start": 1210.16,
+      "duration": 0.88
+    },
+    {
+      "text": "Danny: \"Oh no!\"",
+      "start": 1211.04,
+      "duration": 0.9
+    },
+    {
+      "text": "Arin: \"I'm sure I can't. God fucking dammit.\"",
+      "start": 1212.78,
+      "duration": 3.26
+    },
+    {
+      "text": "Danny: \"Do you wish to leave my challenge?\"",
+      "start": 1216.72,
+      "duration": 1.52
+    },
+    {
+      "text": "Arin: \"No! I don't!\"",
+      "start": 1218.24,
+      "duration": 1.58
+    },
+    {
+      "text": "Arin: \"Just go. Just go. Just go ball. Just go ball.\"",
+      "start": 1221.14,
+      "duration": 3.78
+    },
+    {
+      "text": "Danny: \"Oh my god.\"",
+      "start": 1224.94,
+      "duration": 1.04
+    },
+    {
+      "text": "Arin: \"Just fucking go ball.\"",
+      "start": 1226.02,
+      "duration": 1.64
+    },
+    {
+      "text": "Danny: \"I cannot wait for the comments on this video.",
+      "start": 1228.94,
+      "duration": 2.26
+    },
+    {
+      "text": "Arin: \"I think I can pick it up from here. Yes!\"",
+      "start": 1231.2,
+      "duration": 1.7
+    },
+    {
+      "text": "Danny: \"Oh thank the lord.\"",
+      "start": 1232.9,
+      "duration": 0.88
+    },
+    {
+      "text": "Arin: \"Thank you.\"",
+      "start": 1233.78,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Okay.\"",
+      "start": 1234.28,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"There we go. That's it.\"",
+      "start": 1235.46,
+      "duration": 0.84
+    },
+    {
+      "text": "Arin: *yelling* \"Don't fall in the water! For fucks sake!\"",
+      "start": 1236.3,
+      "duration": 3.1
+    },
+    {
+      "text": "Danny: \"Almost.\"",
+      "start": 1240.72,
+      "duration": 0.76
+    },
+    {
+      "text": "Danny: \"Almost. Almost got it. Yeah!\"",
+      "start": 1241.88,
+      "duration": 3.1
+    },
+    {
+      "text": "Danny: \"Great job Arin.\"",
+      "start": 1245.4,
+      "duration": 0.76
+    },
+    {
+      "text": "Arin: \"Whoo! Eventide has been defeated!\"",
+      "start": 1246.16,
+      "duration": 2.58
+    },
+    {
+      "text": "Danny: \"Oh my god.\"",
+      "start": 1248.74,
+      "duration": 0.76
+    },
+    {
+      "text": "Arin: \"Once and for all.\"",
+      "start": 1249.5,
+      "duration": 1.66
+    },
+    {
+      "text": "Danny: \"So proud.\"",
+      "start": 1251.18,
+      "duration": 1.14
+    },
+    {
+      "text": "Arin: *drinks water*",
+      "start": 1252.52,
+      "duration": 0.58
+    },
+    {
+      "text": "Arin: \"My victory swig.\"",
+      "start": 1255.26,
+      "duration": 1.34
+    },
+    {
+      "text": "Danny: *deep voice* \"I watched that and I was laughing the whole time.\"",
+      "start": 1256.6,
+      "duration": 3.98
+    },
+    {
+      "text": "Arin: *deep voice* \"Now the earth nipple arises and sprays milky jizz everywhere.\"",
+      "start": 1261.02,
+      "duration": 4.56
+    },
+    {
+      "text": "Danny: \"Arise nipple.\"",
+      "start": 1266.08,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: *deep voice* \"What was that? I didn't say that.\"",
+      "start": 1266.58,
+      "duration": 1.48
+    },
+    {
+      "text": "Danny: \"Nipple arise.\"",
+      "start": 1268.6,
+      "duration": 1.02
+    },
+    {
+      "text": "Arin: \"Nip arise.\"",
+      "start": 1270.44,
+      "duration": 0.82
+    },
+    {
+      "text": "Arin: \"And now return your things as promised. They're all like used and shit.\"",
+      "start": 1272.54,
+      "duration": 4.26
+    },
+    {
+      "text": "Danny: \"Why are they moist?\"",
+      "start": 1276.8,
+      "duration": 1.12
+    },
+    {
+      "text": "Arin: \"Eeww!\"",
+      "start": 1277.92,
+      "duration": 1.22
+    },
+    {
+      "text": "Arin: \"Do I get to keep all my shit?\"",
+      "start": 1280.24,
+      "duration": 1.14
+    },
+    {
+      "text": "Danny: \"Come enter the shrine. And we'll do that next time on GameGrumps.\"",
+      "start": 1281.38,
+      "duration": 2.88
+    },
+    {
+      "text": "Arin: \"Uh, oh sure.\"",
+      "start": 1284.26,
+      "duration": 1.04
+    },
+    {
+      "text": "Danny: \"Yeah, see you later!\"",
+      "start": 1285.3,
+      "duration": 0.72
+    },
+    {
+      "text": "Arin: \"Alright bye.\"",
+      "start": 1286.02,
+      "duration": 0.5
+    },
+    {
+      "text": "Danny: \"Bye.\"",
+      "start": 1286.52,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: \"Forgot that this was a continuation.\"",
+      "start": 1289.18,
+      "duration": 1.68
+    },
+    {
+      "text": "Danny: \"Oh, yeah. This was a super long episode.\"",
+      "start": 1290.86,
+      "duration": 1.52
+    },
+    {
+      "text": "Arin: \"Cool. Eventide the episode. Call it, call it, uh, just call it Eventide.\"",
+      "start": 1292.96,
+      "duration": 8.1
+    },
+    {
+      "text": "Danny: *laughs*",
+      "start": 1301.1,
+      "duration": 1.66
+    },
+    {
+      "text": "Danny:  \"I'm emotionally exhausted.\"",
+      "start": 1302.76,
+      "duration": 1.74
+    }
+  ]
+}

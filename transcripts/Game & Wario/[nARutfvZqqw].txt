@@ -1,0 +1,1758 @@
+{
+  "video_id": "nARutfvZqqw",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Hey, I'm Grump",
+      "start": 0.02,
+      "duration": 0.98
+    },
+    {
+      "text": "I'm Not-So-Grump!",
+      "start": 1.0,
+      "duration": 1.4
+    },
+    {
+      "text": "Aaaand weeee're the Game Grumps!",
+      "start": 2.4,
+      "duration": 2.56
+    },
+    {
+      "text": "Danny: *reading words at bottom of screen* Greetings, I am Orbulon.",
+      "start": 5.5,
+      "duration": 1.36
+    },
+    {
+      "text": "Your planet is full of strange things that do not exist where I come from.",
+      "start": 6.86,
+      "duration": 3.22
+    },
+    {
+      "text": "Please play my game and draw pictures to teach me about your world.",
+      "start": 10.12,
+      "duration": 3.6
+    },
+    {
+      "text": "Arin: We're playin' Sketch!\nDanny: You got it, Orbulon....",
+      "start": 14.44,
+      "duration": 1.92
+    },
+    {
+      "text": "A: It's kinda like Pictionary.",
+      "start": 16.36,
+      "duration": 2.0
+    },
+    {
+      "text": "D: *in reference to Orbulon* you...DICK.",
+      "start": 18.36,
+      "duration": 2.0
+    },
+    {
+      "text": "A: *laughs*\nD: Sorry, sorry",
+      "start": 20.68,
+      "duration": 1.36
+    },
+    {
+      "text": "A: Well, he doesn't know what that means, so, I guess it wouldn't really be a big deal",
+      "start": 22.18,
+      "duration": 2.46
+    },
+    {
+      "text": "D: Oh, he's got good sunglasses.",
+      "start": 24.64,
+      "duration": 1.4
+    },
+    {
+      "text": "D: You're probably right.\n*burps* Excuse me.",
+      "start": 26.08,
+      "duration": 1.32
+    },
+    {
+      "text": "A: Alright, this game challenge is to communicate by drawing pictures rather than speaking",
+      "start": 27.4,
+      "duration": 4.04
+    },
+    {
+      "text": "A: Two players. Is this okay?\nD: Cool.",
+      "start": 31.96,
+      "duration": 1.92
+    },
+    {
+      "text": "D: It's probably good that we're not speaking on a show that requires us to speak over video games.",
+      "start": 33.88,
+      "duration": 5.629
+    },
+    {
+      "text": "A: We get a word on the gamepad and then we got to sketch it and then we gotta guess it. \nD: Oh, okay",
+      "start": 39.51,
+      "duration": 4.65
+    },
+    {
+      "text": "A:Yeah. \nD: I love it!",
+      "start": 44.32,
+      "duration": 2.12
+    },
+    {
+      "text": "A: So I gotta take a picture of myself. \nD: Oh, shit",
+      "start": 46.52,
+      "duration": 2.4
+    },
+    {
+      "text": "*camera click noise*",
+      "start": 51.88,
+      "duration": 1.04
+    },
+    {
+      "text": "A: Okay",
+      "start": 53.08,
+      "duration": 1.48
+    },
+    {
+      "text": "A: Lemme just go ahead and...",
+      "start": 54.56,
+      "duration": 1.64
+    },
+    {
+      "text": "A: There we go",
+      "start": 56.2,
+      "duration": 0.72
+    },
+    {
+      "text": "*both laugh*",
+      "start": 56.92,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: Aaaaand, go ahead.",
+      "start": 60.16,
+      "duration": 0.76
+    },
+    {
+      "text": "*camera click noise*",
+      "start": 64.16,
+      "duration": 1.04
+    },
+    {
+      "text": "A: hahAHAH! Just a normal-ass picture",
+      "start": 65.2,
+      "duration": 2.6
+    },
+    {
+      "text": "D: *cracks up*",
+      "start": 67.8,
+      "duration": 0.5
+    },
+    {
+      "text": "A: You don't wanna add a filter or anything...?",
+      "start": 68.3,
+      "duration": 1.36
+    },
+    {
+      "text": "D: Nah, man! Well- oh, oh uh- I see.",
+      "start": 69.66,
+      "duration": 2.24
+    },
+    {
+      "text": "A: Yeah.",
+      "start": 71.9,
+      "duration": 0.68
+    },
+    {
+      "text": "D: There it is.",
+      "start": 73.24,
+      "duration": 0.52
+    },
+    {
+      "text": "*both laugh loudly*",
+      "start": 73.76,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Woooow",
+      "start": 75.76,
+      "duration": 1.38
+    },
+    {
+      "text": "D: Fantastic! \nA: We look great.",
+      "start": 77.14,
+      "duration": 1.44
+    },
+    {
+      "text": "D: Yeah, looking pretty good.",
+      "start": 78.58,
+      "duration": 1.28
+    },
+    {
+      "text": "A:  Alright, c- uh, tap correct to move to the next word. All right. So, um...",
+      "start": 79.86,
+      "duration": 4.2
+    },
+    {
+      "text": "A: You- So what you're gonna do is I'm gonna start drawing,",
+      "start": 85.44,
+      "duration": 3.44
+    },
+    {
+      "text": "and then the and then you're just gonna start shouting shit",
+      "start": 88.88,
+      "duration": 2.48
+    },
+    {
+      "text": "D: Okay \nA: and then once you get it right...",
+      "start": 91.42,
+      "duration": 2.58
+    },
+    {
+      "text": "A: uh...",
+      "start": 94.0,
+      "duration": 1.2
+    },
+    {
+      "text": "A: We'll hit correct\nD: Okay",
+      "start": 95.2,
+      "duration": 2.52
+    },
+    {
+      "text": "A: Right, so, whoever's drawing the other person shouts what it is and if it's right, then...",
+      "start": 97.72,
+      "duration": 4.04
+    },
+    {
+      "text": "D: Wow, so this game is basically running on the honor system?",
+      "start": 102.42,
+      "duration": 3.38
+    },
+    {
+      "text": "A: Yeah. But I mean...",
+      "start": 105.8,
+      "duration": 2.0
+    },
+    {
+      "text": "D: *excited whisper* We could set the world record.",
+      "start": 107.8,
+      "duration": 2.0
+    },
+    {
+      "text": "*Arin laughs*\nD: Correct, correct correct correct!",
+      "start": 109.8,
+      "duration": 1.3
+    },
+    {
+      "text": "A: Tap correct to move to the next word to pass the skip word. Okay.",
+      "start": 111.1,
+      "duration": 3.62
+    },
+    {
+      "text": "D: Awesome.",
+      "start": 114.72,
+      "duration": 0.56
+    },
+    {
+      "text": "A: Take out the stylus. \nD: pff, l've ALWAYS got the STYLE-us, baby.",
+      "start": 115.96,
+      "duration": 2.92
+    },
+    {
+      "text": "D: I'm 150 pounds of twisted steel and sex appeal",
+      "start": 118.88,
+      "duration": 4.0
+    },
+    {
+      "text": "A: Alright, I will start to sketch\nD: LET'S DO IT!",
+      "start": 122.88,
+      "duration": 2.519
+    },
+    {
+      "text": "A: Okay. Uhhhh..",
+      "start": 125.399,
+      "duration": 1.511
+    },
+    {
+      "text": "A: You can just start shoutin-\nD: PANTS. Uh...",
+      "start": 126.91,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Uh, je- underwear\nA: uhmmm...?",
+      "start": 130.18,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Uhhhh, boxers",
+      "start": 132.34,
+      "duration": 1.08
+    },
+    {
+      "text": "A: Yes! \nD: Nice.",
+      "start": 133.42,
+      "duration": 1.28
+    },
+    {
+      "text": "A: Ummm, okay!",
+      "start": 135.92,
+      "duration": 2.38
+    },
+    {
+      "text": "A: Hmm... Uh-oh.",
+      "start": 138.3,
+      "duration": 1.52
+    },
+    {
+      "text": "D: *distressed* uhHHhh",
+      "start": 139.82,
+      "duration": 0.8
+    },
+    {
+      "text": "D: uhhhhhhhhhh",
+      "start": 140.62,
+      "duration": 1.52
+    },
+    {
+      "text": "D: Pillow. TV. Flag.",
+      "start": 142.14,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Uhm...",
+      "start": 145.28,
+      "duration": 0.58
+    },
+    {
+      "text": "D: uhhh........",
+      "start": 146.7,
+      "duration": 0.72
+    },
+    {
+      "text": "D: Uhhhh... G- W-Wha...?",
+      "start": 148.72,
+      "duration": 2.54
+    },
+    {
+      "text": "D: Oh! Uh, document? Uhhh\nA: ehmm...",
+      "start": 152.4,
+      "duration": 1.64
+    },
+    {
+      "text": "D: Writing, paper and scroll...",
+      "start": 154.04,
+      "duration": 4.08
+    },
+    {
+      "text": "D: Um...Torah",
+      "start": 158.12,
+      "duration": 0.62
+    },
+    {
+      "text": "A: That's not-",
+      "start": 158.74,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Bible??",
+      "start": 159.26,
+      "duration": 0.66
+    },
+    {
+      "text": "A: That's not good.",
+      "start": 159.92,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Boy this one- this one got tough all of a sudden.",
+      "start": 162.76,
+      "duration": 2.18
+    },
+    {
+      "text": "A: It's- n- *stutters*",
+      "start": 165.34,
+      "duration": 0.86
+    },
+    {
+      "text": "D: Horse \nA: Whatever.",
+      "start": 166.54,
+      "duration": 1.52
+    },
+    {
+      "text": "D: Square horse?\nA: Pass.",
+      "start": 168.06,
+      "duration": 1.32
+    },
+    {
+      "text": "D: Oh, dry erase board??",
+      "start": 169.38,
+      "duration": 1.02
+    },
+    {
+      "text": "A: Yeah, it's tough.",
+      "start": 170.4,
+      "duration": 0.5
+    },
+    {
+      "text": "D: I was not close!",
+      "start": 170.9,
+      "duration": 0.96
+    },
+    {
+      "text": "A: Um",
+      "start": 172.74,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Door\nA: Yes.",
+      "start": 173.62,
+      "duration": 0.92
+    },
+    {
+      "text": "D: *unenthusiastic* yay.",
+      "start": 174.54,
+      "duration": 0.88
+    },
+    {
+      "text": "*Arin laughs*\nD: Yeah, that's way easier. Oof!",
+      "start": 175.42,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Uhhhh, castle?",
+      "start": 180.76,
+      "duration": 1.2
+    },
+    {
+      "text": "A: Yep",
+      "start": 181.96,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Nice!",
+      "start": 182.46,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Well, that one was way easier than dry erase- oh, jeez...",
+      "start": 184.18,
+      "duration": 2.94
+    },
+    {
+      "text": "D: uhhh",
+      "start": 187.72,
+      "duration": 0.52
+    },
+    {
+      "text": "D: Martini. Ship. Uh,",
+      "start": 189.18,
+      "duration": 1.98
+    },
+    {
+      "text": "D: Cruise ship. Boat. Cliff.",
+      "start": 191.38,
+      "duration": 2.46
+    },
+    {
+      "text": "A: Yep!",
+      "start": 193.84,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Niiice.",
+      "start": 194.34,
+      "duration": 1.42
+    },
+    {
+      "text": "D: Nicely done.",
+      "start": 195.76,
+      "duration": 1.28
+    },
+    {
+      "text": "A: Wow.",
+      "start": 197.04,
+      "duration": 0.5
+    },
+    {
+      "text": "D: ...I meant the guys name was Cliff",
+      "start": 197.54,
+      "duration": 1.62
+    },
+    {
+      "text": "D: Hah!",
+      "start": 199.78,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Uh, train tracks.",
+      "start": 200.48,
+      "duration": 2.46
+    },
+    {
+      "text": "D: Angel",
+      "start": 203.26,
+      "duration": 1.56
+    },
+    {
+      "text": "D: Ghost? Saaad ghost. Meeean ghost- bat?",
+      "start": 204.82,
+      "duration": 3.6
+    },
+    {
+      "text": "D:What the f u c k ?",
+      "start": 208.42,
+      "duration": 1.849
+    },
+    {
+      "text": "D: Oh, uh, totem pole?",
+      "start": 211.44,
+      "duration": 0.9
+    },
+    {
+      "text": "A: Yes!",
+      "start": 212.34,
+      "duration": 0.62
+    },
+    {
+      "text": "D: Wow",
+      "start": 212.96,
+      "duration": 0.5
+    },
+    {
+      "text": "A: *deep sigh* Boy-o",
+      "start": 214.1,
+      "duration": 1.04
+    },
+    {
+      "text": "D: Yeah,  that took a second.",
+      "start": 215.14,
+      "duration": 1.32
+    },
+    {
+      "text": "A: Yikes.",
+      "start": 216.46,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Oh, um,",
+      "start": 216.96,
+      "duration": 0.98
+    },
+    {
+      "text": "D: Uhhhhhhh, igloo!",
+      "start": 219.02,
+      "duration": 1.22
+    },
+    {
+      "text": "A: yep",
+      "start": 220.38,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Nice.",
+      "start": 220.88,
+      "duration": 1.18
+    },
+    {
+      "text": "D: Duuuude. This is a good combo. Let's get ten.",
+      "start": 222.24,
+      "duration": 3.68
+    },
+    {
+      "text": "D: Uhhh, marshmallows.",
+      "start": 230.34,
+      "duration": 1.56
+    },
+    {
+      "text": "D: Um, uh,",
+      "start": 231.9,
+      "duration": 1.04
+    },
+    {
+      "text": "D: Uhhhh....",
+      "start": 234.0,
+      "duration": 0.56
+    },
+    {
+      "text": "D: Whoa, what the fuck?",
+      "start": 236.06,
+      "duration": 1.56
+    },
+    {
+      "text": "D: Oh, satellite!",
+      "start": 237.62,
+      "duration": 1.2
+    },
+    {
+      "text": "A:Yes! \nD: Niiice.",
+      "start": 238.82,
+      "duration": 1.14
+    },
+    {
+      "text": "A: Whooaaa. God, I gotta think like really hard about how to simplify this. Um...",
+      "start": 239.96,
+      "duration": 4.26
+    },
+    {
+      "text": "D: Uh...",
+      "start": 245.72,
+      "duration": 0.9
+    },
+    {
+      "text": "D: My bank \nA: Yep. *laughs*",
+      "start": 247.16,
+      "duration": 2.22
+    },
+    {
+      "text": "D: Great. One more, let's get one more.",
+      "start": 249.38,
+      "duration": 2.32
+    },
+    {
+      "text": "A: Yikes. Aw, shit. That's tough.",
+      "start": 251.7,
+      "duration": 2.34
+    },
+    {
+      "text": "D: Butterfly, book, uh,",
+      "start": 255.509,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Tome, Bible, ahh, fuck it",
+      "start": 258.389,
+      "duration": 2.791
+    },
+    {
+      "text": "A: Nah.",
+      "start": 261.18,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Magazines. I dunno why I- *laughs* said The Bible twice.",
+      "start": 261.68,
+      "duration": 2.669
+    },
+    {
+      "text": "*Arin laughs*",
+      "start": 264.349,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: \"The Bible! THE BIBLE!!!\"",
+      "start": 266.349,
+      "duration": 1.991
+    },
+    {
+      "text": "D: *laughing* What's goin' on with my head?",
+      "start": 268.38,
+      "duration": 1.52
+    },
+    {
+      "text": "A:alright \nD: alright, it could be- alright.",
+      "start": 269.9,
+      "duration": 2.18
+    },
+    {
+      "text": "D: Oh boy. I'm not a good artist. Okay.",
+      "start": 272.08,
+      "duration": 2.52
+    },
+    {
+      "text": "A: Okay.",
+      "start": 274.6,
+      "duration": 1.02
+    },
+    {
+      "text": "A: Uh- the- square. Diamond.",
+      "start": 275.62,
+      "duration": 1.56
+    },
+    {
+      "text": "D: Yes",
+      "start": 277.18,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Wow, okay,",
+      "start": 278.58,
+      "duration": 1.82
+    },
+    {
+      "text": "D: Nice. So far so good.",
+      "start": 280.4,
+      "duration": 0.93
+    },
+    {
+      "text": "D: Ohhh, f-",
+      "start": 281.33,
+      "duration": 0.97
+    },
+    {
+      "text": "A: George Washington",
+      "start": 282.3,
+      "duration": 1.16
+    },
+    {
+      "text": "D: Jesus Christ...",
+      "start": 283.7,
+      "duration": 1.16
+    },
+    {
+      "text": "A: Uhhh, house? Uh, tent. Uh, peeing.",
+      "start": 284.86,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Uhh...Fishing! Um,",
+      "start": 286.86,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Marriage? Eh- uhmm-",
+      "start": 289.86,
+      "duration": 1.16
+    },
+    {
+      "text": "A: Sword...fighting?",
+      "start": 292.02,
+      "duration": 1.44
+    },
+    {
+      "text": "A: Tug of war",
+      "start": 293.46,
+      "duration": 0.74
+    },
+    {
+      "text": "D: Yeaaaah! Good job",
+      "start": 294.2,
+      "duration": 1.26
+    },
+    {
+      "text": "A: oof.",
+      "start": 296.37,
+      "duration": 1.15
+    },
+    {
+      "text": "D: I know, it's very stressful. Oh, Jesus, uh-",
+      "start": 297.52,
+      "duration": 2.249
+    },
+    {
+      "text": "A: George Washington!",
+      "start": 299.769,
+      "duration": 0.88
+    },
+    {
+      "text": "A: Penis? Bowling. Bowling pin, peanut.",
+      "start": 301.77,
+      "duration": 2.53
+    },
+    {
+      "text": "D: Yeah!",
+      "start": 304.3,
+      "duration": 0.72
+    },
+    {
+      "text": "D: *sarcastically* George Washington CARVER.",
+      "start": 305.02,
+      "duration": 1.029
+    },
+    {
+      "text": "A: *sassily* ohhHHhhHh",
+      "start": 306.049,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Oh, jeez...",
+      "start": 308.28,
+      "duration": 1.24
+    },
+    {
+      "text": "A: Uh...George Washington!!!",
+      "start": 310.3,
+      "duration": 0.82
+    },
+    {
+      "text": "A: Top hat?",
+      "start": 312.419,
+      "duration": 1.411
+    },
+    {
+      "text": "Party? a dunce hat. a superhero",
+      "start": 313.83,
+      "duration": 3.67
+    },
+    {
+      "text": "D: *frustrated Danny noise*",
+      "start": 317.5,
+      "duration": 0.8
+    },
+    {
+      "text": "A: Uhh, fuck- oh, Witch!",
+      "start": 319.7,
+      "duration": 0.88
+    },
+    {
+      "text": "D: yes",
+      "start": 320.58,
+      "duration": 0.94
+    },
+    {
+      "text": "D: Boy, that's-",
+      "start": 321.539,
+      "duration": 1.154
+    },
+    {
+      "text": "A: That's pretty good",
+      "start": 322.693,
+      "duration": 0.846
+    },
+    {
+      "text": "D: ehhhhhhh\nA:  No, it's pretty good.",
+      "start": 323.539,
+      "duration": 2.0
+    },
+    {
+      "text": "A: You got all the, like, iconic things",
+      "start": 326.25,
+      "duration": 2.499
+    },
+    {
+      "text": "A: cake TV television a living room",
+      "start": 328.749,
+      "duration": 2.05
+    },
+    {
+      "text": "A: Bedtime...stories? pillow? Uh, air conditio- Speakers!",
+      "start": 332.43,
+      "duration": 4.08
+    },
+    {
+      "text": "D: Mm-mmm.",
+      "start": 336.51,
+      "duration": 1.15
+    },
+    {
+      "text": "A: Um *laughs* Fuck",
+      "start": 338.22,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Ice cube tray...? \nD: Fuck it",
+      "start": 340.62,
+      "duration": 2.92
+    },
+    {
+      "text": "A: ice cubes- \nD: Pass",
+      "start": 343.54,
+      "duration": 1.0
+    },
+    {
+      "text": "A: TV remote? Ohhh, got it.",
+      "start": 344.58,
+      "duration": 1.543
+    },
+    {
+      "text": "D: Yes, it was remote. Okay, cool",
+      "start": 346.123,
+      "duration": 0.857
+    },
+    {
+      "text": "A: Apples",
+      "start": 349.46,
+      "duration": 0.98
+    },
+    {
+      "text": "D: No",
+      "start": 350.44,
+      "duration": 0.5
+    },
+    {
+      "text": "A: George Washington?? \nD: Damni- *laughs*",
+      "start": 351.08,
+      "duration": 1.74
+    },
+    {
+      "text": "A: dress. \nD: shit! \nA: uh, happy?",
+      "start": 352.82,
+      "duration": 2.1
+    },
+    {
+      "text": "D: uh, fuck\nA: Cheering!",
+      "start": 354.92,
+      "duration": 1.5
+    },
+    {
+      "text": "D: Okay.\nA: Party? Uhh, rain. Raining?",
+      "start": 356.42,
+      "duration": 3.23
+    },
+    {
+      "text": "A: day rain",
+      "start": 360.35,
+      "duration": 1.74
+    },
+    {
+      "text": "A: cape.",
+      "start": 362.09,
+      "duration": 1.32
+    },
+    {
+      "text": "D: *frantic Danny noises*",
+      "start": 363.41,
+      "duration": 0.57
+    },
+    {
+      "text": "A: Flying?",
+      "start": 363.98,
+      "duration": 0.66
+    },
+    {
+      "text": "D: *stressed Danny noises*",
+      "start": 364.64,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Cape Cod??\n*stressed Danny noises intensify*",
+      "start": 365.15,
+      "duration": 2.0
+    },
+    {
+      "text": "A: *laughs*\nD: *even more stressed noises*",
+      "start": 367.15,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Raincoat?",
+      "start": 369.15,
+      "duration": 0.71
+    },
+    {
+      "text": "D: Yes!",
+      "start": 369.86,
+      "duration": 0.66
+    },
+    {
+      "text": "D: *long sigh*\nA: *laughs*",
+      "start": 370.52,
+      "duration": 2.0
+    },
+    {
+      "text": "D: *starts laughing too*",
+      "start": 372.52,
+      "duration": 1.42
+    },
+    {
+      "text": "A: It's just a game!\nD: I know...",
+      "start": 373.94,
+      "duration": 2.0
+    },
+    {
+      "text": "A: I'm surprised I didn't say poncho first- George Washington!",
+      "start": 376.16,
+      "duration": 3.4
+    },
+    {
+      "text": "D: No- what?!\n*both laugh*",
+      "start": 379.56,
+      "duration": 0.72
+    },
+    {
+      "text": "A: mountain range",
+      "start": 380.28,
+      "duration": 1.059
+    },
+    {
+      "text": "A: Hiking?\nD: uhhh-",
+      "start": 383.0,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Helmet\n*The frustrated Danny noises return*",
+      "start": 386.78,
+      "duration": 2.8
+    },
+    {
+      "text": "A; *stutters* Sw- Swimming gear?\nD: *exasperated noise*",
+      "start": 391.96,
+      "duration": 2.0
+    },
+    {
+      "text": "A: headgear?\n*Danny INTENSIFIES*",
+      "start": 393.96,
+      "duration": 2.16
+    },
+    {
+      "text": "A: helmet for swimming?",
+      "start": 396.12,
+      "duration": 1.2
+    },
+    {
+      "text": "D: YES!!! God damn it!\nA; I don't fuckin' know!",
+      "start": 397.32,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Swim cap!\nA; Oh, swim ca- *starts cracking up*",
+      "start": 399.32,
+      "duration": 2.0
+    },
+    {
+      "text": "D: \"Helmet for swimming\"???",
+      "start": 401.32,
+      "duration": 2.0
+    },
+    {
+      "text": "*both crack up*",
+      "start": 403.32,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Y'know, a good old fashion swim helmet!",
+      "start": 405.32,
+      "duration": 2.0
+    },
+    {
+      "text": "*both laughing again*",
+      "start": 407.32,
+      "duration": 3.72
+    },
+    {
+      "text": "D: Holy crap.",
+      "start": 411.04,
+      "duration": 1.36
+    },
+    {
+      "text": "A: Not great, but not bad\nD: Not great, but not bad either. Yeah, well, welcome to Game Grumps.",
+      "start": 412.4,
+      "duration": 3.16
+    },
+    {
+      "text": "A: yeah... *laughs really hard* yeah.",
+      "start": 415.56,
+      "duration": 2.0
+    },
+    {
+      "text": "A: It's a gallery",
+      "start": 420.32,
+      "duration": 0.9
+    },
+    {
+      "text": "D: oh, good. I'm glad, I'm glad that's getting framed.",
+      "start": 421.22,
+      "duration": 2.15
+    },
+    {
+      "text": "D: Tug of war actually is my- the one I'm proudest of",
+      "start": 424.1,
+      "duration": 4.06
+    },
+    {
+      "text": "A: Let's do this again! \nD: Yes.",
+      "start": 428.16,
+      "duration": 0.94
+    },
+    {
+      "text": "A: I love this game.",
+      "start": 429.1,
+      "duration": 1.16
+    },
+    {
+      "text": "D: Me too.",
+      "start": 430.3,
+      "duration": 1.36
+    },
+    {
+      "text": "A: All right. *whispering* Alright motherfucker here we go",
+      "start": 431.66,
+      "duration": 2.1
+    },
+    {
+      "text": "A: Yeah, yeah, it's my turn to get it",
+      "start": 434.42,
+      "duration": 2.76
+    },
+    {
+      "text": "Okay, uhhh...",
+      "start": 437.18,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Teeth smile hammock, uhh, belt.",
+      "start": 440.74,
+      "duration": 2.4
+    },
+    {
+      "text": "A: Yup!",
+      "start": 443.3,
+      "duration": 0.94
+    },
+    {
+      "text": "D: that was almost too well drawn",
+      "start": 445.74,
+      "duration": 2.48
+    },
+    {
+      "text": "A: oh um, shit.",
+      "start": 448.22,
+      "duration": 2.28
+    },
+    {
+      "text": "A: I don't know why I'm so much time on this.",
+      "start": 451.86,
+      "duration": 2.869
+    },
+    {
+      "text": "D: Cards \nA: yep",
+      "start": 456.2,
+      "duration": 1.64
+    },
+    {
+      "text": "D: Nice! \nA: Shit!",
+      "start": 457.84,
+      "duration": 1.24
+    },
+    {
+      "text": "A: I don't want to trash it.",
+      "start": 459.66,
+      "duration": 1.0
+    },
+    {
+      "text": "A: Okay, okay. *irritated* Oh my god, come on",
+      "start": 460.66,
+      "duration": 2.92
+    },
+    {
+      "text": "D: Turds",
+      "start": 467.04,
+      "duration": 1.89
+    },
+    {
+      "text": "D: cochlea, babies, babies connected, conjoined twins",
+      "start": 468.93,
+      "duration": 3.619
+    },
+    {
+      "text": "D: What am I looking at? Oh muscular man, bodybuilder,",
+      "start": 473.399,
+      "duration": 4.13
+    },
+    {
+      "text": "D: sad but angry man",
+      "start": 477.529,
+      "duration": 1.53
+    },
+    {
+      "text": "D: What the fuck...? A wrestler",
+      "start": 481.349,
+      "duration": 2.211
+    },
+    {
+      "text": "A: Yes",
+      "start": 483.56,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Wow, okay good work of the championship belt",
+      "start": 484.06,
+      "duration": 3.12
+    },
+    {
+      "text": "A: ahahah, jeez. Oh, come on!!",
+      "start": 487.18,
+      "duration": 2.3
+    },
+    {
+      "text": "A: uhhh",
+      "start": 489.48,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Mountains, pants, shirt",
+      "start": 492.62,
+      "duration": 2.0
+    },
+    {
+      "text": "collar",
+      "start": 495.21,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Okay... sweater\nA: Yes",
+      "start": 497.969,
+      "duration": 1.491
+    },
+    {
+      "text": "D: Wow.",
+      "start": 499.46,
+      "duration": 0.92
+    },
+    {
+      "text": "A: Hoo boy \nD: Hooo, baby",
+      "start": 500.38,
+      "duration": 2.259
+    },
+    {
+      "text": "D: Sir- uh, bread. a manhole cover",
+      "start": 505.469,
+      "duration": 3.32
+    },
+    {
+      "text": "D: grill. burger.\nA: *anxious Arin sounds*",
+      "start": 510.059,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Cook out\nA: *more anxious noises*",
+      "start": 512.339,
+      "duration": 2.0
+    },
+    {
+      "text": "A: other words!!",
+      "start": 515.099,
+      "duration": 2.0
+    },
+    {
+      "text": "D: I don't know the other words!",
+      "start": 517.099,
+      "duration": 1.031
+    },
+    {
+      "text": "A: Its-! ghhhh\nD: grilling cooking cooking burgers at a cookout on the grill",
+      "start": 518.13,
+      "duration": 5.449
+    },
+    {
+      "text": "A: adghjvkdsjdsnjk",
+      "start": 523.579,
+      "duration": 1.63
+    },
+    {
+      "text": "D: Barbecue \nA: YES\nD: Okay. Hahaha",
+      "start": 525.209,
+      "duration": 3.751
+    },
+    {
+      "text": "A: Oh, jeez. What? Oh, okay",
+      "start": 528.96,
+      "duration": 2.118
+    },
+    {
+      "text": "D: Loaf, TV- oh, wii gamepad.",
+      "start": 532.74,
+      "duration": 4.3
+    },
+    {
+      "text": "D: Wii \nA: yeah, yeah. There we go",
+      "start": 537.04,
+      "duration": 1.22
+    },
+    {
+      "text": "D: Nintendo wii.\nA: Yeah.",
+      "start": 538.26,
+      "duration": 1.069
+    },
+    {
+      "text": "A: Wow. Aww,, man!\nD: Oh dicks",
+      "start": 540.66,
+      "duration": 2.119
+    },
+    {
+      "text": "A: Ughhh, fuck",
+      "start": 542.779,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Uh- uh-",
+      "start": 544.779,
+      "duration": 1.72
+    },
+    {
+      "text": "D: Elephant Man, su- *stutters* smiley?",
+      "start": 546.499,
+      "duration": 4.981
+    },
+    {
+      "text": "A: This sucks.",
+      "start": 551.48,
+      "duration": 1.385
+    },
+    {
+      "text": "D: What, King Tut??",
+      "start": 552.865,
+      "duration": 1.484
+    },
+    {
+      "text": "A: I- I dunno\nD: *laughs*",
+      "start": 554.349,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Car\nA: *stressed noise*\nD: automobile",
+      "start": 558.859,
+      "duration": 2.36
+    },
+    {
+      "text": "D: Remote-control car.",
+      "start": 562.6,
+      "duration": 0.76
+    },
+    {
+      "text": "A: Yes!",
+      "start": 563.36,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Okay. \nA: Holy crap.",
+      "start": 563.86,
+      "duration": 2.06
+    },
+    {
+      "text": "A: One second left!\nD: Holy crap.",
+      "start": 565.92,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Lemme see that fucking \"King Tut\" one more time.\nA: *laughs loudly*",
+      "start": 567.92,
+      "duration": 3.16
+    },
+    {
+      "text": "A: I was trying to draw a sarcophagus\nD: oh my god",
+      "start": 571.08,
+      "duration": 2.7
+    },
+    {
+      "text": "A: Alright, here you go",
+      "start": 573.78,
+      "duration": 2.0
+    },
+    {
+      "text": "A: *laughs* \"Lemme see that King Tut again\"\nD: That was amazing.",
+      "start": 575.78,
+      "duration": 2.74
+    },
+    {
+      "text": "A: George Washington. Tombstone",
+      "start": 579.64,
+      "duration": 3.86
+    },
+    {
+      "text": "D: yes",
+      "start": 583.56,
+      "duration": 1.44
+    },
+    {
+      "text": "A: Okay, easy. That's a good one.",
+      "start": 585.38,
+      "duration": 3.477
+    },
+    {
+      "text": "A: Fuck. Geooooorge...Washington?",
+      "start": 588.857,
+      "duration": 2.423
+    },
+    {
+      "text": "*Danny cracks up*",
+      "start": 591.28,
+      "duration": 1.57
+    },
+    {
+      "text": "A: Rock, card, bed, pillow?",
+      "start": 592.85,
+      "duration": 4.35
+    },
+    {
+      "text": "D:Yes",
+      "start": 597.2,
+      "duration": 1.34
+    },
+    {
+      "text": "A: oof",
+      "start": 598.54,
+      "duration": 1.599
+    },
+    {
+      "text": "D: Don't say George Washington",
+      "start": 600.139,
+      "duration": 2.0
+    },
+    {
+      "text": "A: okay\nD: oh fuck this one!",
+      "start": 602.139,
+      "duration": 1.03
+    },
+    {
+      "text": "D: Are you kidding me?",
+      "start": 603.169,
+      "duration": 2.0
+    },
+    {
+      "text": "A: *mumbling* George...Washington...",
+      "start": 605.169,
+      "duration": 3.031
+    },
+    {
+      "text": "A: Shirt?",
+      "start": 608.44,
+      "duration": 1.08
+    },
+    {
+      "text": "A: T-shirt? polo shirt.",
+      "start": 609.52,
+      "duration": 1.8
+    },
+    {
+      "text": "D: Yes!! Oh my god. Amazing! \nArin: Wow",
+      "start": 611.32,
+      "duration": 2.64
+    },
+    {
+      "text": "Arin: That little thing in the corner. I figured...",
+      "start": 615.26,
+      "duration": 2.56
+    },
+    {
+      "text": "A: ITSSS...G...",
+      "start": 617.82,
+      "duration": 1.94
+    },
+    {
+      "text": "A: georgewashington",
+      "start": 619.76,
+      "duration": 0.78
+    },
+    {
+      "text": "A: Bird\nD: yeah!",
+      "start": 620.54,
+      "duration": 1.28
+    },
+    {
+      "text": "A: flying\nD: Uh, uh",
+      "start": 621.82,
+      "duration": 0.72
+    },
+    {
+      "text": "A: Flight power? flight bird mEagle \nD: close!",
+      "start": 623.809,
+      "duration": 4.751
+    },
+    {
+      "text": "A: flying \"M\". Pelican. seagulls.",
+      "start": 628.56,
+      "duration": 1.3
+    },
+    {
+      "text": "D: Yes! Phewww",
+      "start": 629.86,
+      "duration": 1.76
+    },
+    {
+      "text": "A: Jeez *laughs*",
+      "start": 632.48,
+      "duration": 0.86
+    },
+    {
+      "text": "D: *to the game* oh, fuck you",
+      "start": 634.36,
+      "duration": 1.9
+    },
+    {
+      "text": "A: The seagull. George Washington? Oh, uh, lochness monster",
+      "start": 636.62,
+      "duration": 4.32
+    },
+    {
+      "text": "D: Yeeees!",
+      "start": 640.94,
+      "duration": 0.96
+    },
+    {
+      "text": "D: *through laughter* \"George Washington\"",
+      "start": 641.9,
+      "duration": 3.74
+    },
+    {
+      "text": "D: Oh, fuck. Uh-",
+      "start": 646.24,
+      "duration": 0.964
+    },
+    {
+      "text": "A: tampons.",
+      "start": 647.204,
+      "duration": 1.276
+    },
+    {
+      "text": "D: No, shut up. I don't know how to do this right",
+      "start": 648.48,
+      "duration": 2.52
+    },
+    {
+      "text": "A: The................",
+      "start": 651.0,
+      "duration": 1.729
+    },
+    {
+      "text": "A: George Washington? Pi?",
+      "start": 652.729,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Pi. Pi, is it pi? Stapler?",
+      "start": 655.3,
+      "duration": 3.08
+    },
+    {
+      "text": "D: Yes!",
+      "start": 658.4,
+      "duration": 0.78
+    },
+    {
+      "text": "D: Jesus Christ, that's a terrible stapler. \nA: All right",
+      "start": 659.72,
+      "duration": 2.78
+    },
+    {
+      "text": "A: Line \nD: no.",
+      "start": 664.759,
+      "duration": 0.732
+    },
+    {
+      "text": "A: Curved line!\nD: Nooo! *laughs*",
+      "start": 665.491,
+      "duration": 1.268
+    },
+    {
+      "text": "A: Apple, lemon? Emergency. Blimp. Balloon? The...grave??",
+      "start": 668.44,
+      "duration": 6.54
+    },
+    {
+      "text": "A: Burial...?",
+      "start": 675.8,
+      "duration": 1.559
+    },
+    {
+      "text": "A: George Washington?? Bicep?",
+      "start": 677.359,
+      "duration": 2.9
+    },
+    {
+      "text": "D: *Danny sound*",
+      "start": 680.259,
+      "duration": 0.7
+    },
+    {
+      "text": "A: Muscle? \nD: Mm-hmm",
+      "start": 680.959,
+      "duration": 2.0
+    },
+    {
+      "text": "A: flex muscle?",
+      "start": 682.999,
+      "duration": 1.8
+    },
+    {
+      "text": "A: flexing",
+      "start": 684.799,
+      "duration": 1.56
+    },
+    {
+      "text": "Weights? Oh kettlebell.",
+      "start": 686.359,
+      "duration": 2.441
+    },
+    {
+      "text": "*anxious Danny sound*\nA: Dumbbell?",
+      "start": 688.8,
+      "duration": 1.08
+    },
+    {
+      "text": "*disappointed Danny sound*",
+      "start": 689.88,
+      "duration": 0.74
+    },
+    {
+      "text": "A: Ugh, goddammit.\nD: Shit!",
+      "start": 690.62,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Pass. Gym bag.",
+      "start": 693.4,
+      "duration": 1.68
+    },
+    {
+      "text": "A: Gym- ohhhh\nD: That's a hard one",
+      "start": 695.08,
+      "duration": 1.44
+    },
+    {
+      "text": "A: Hand. High five. Hand turkey? Turkey??? fingers????",
+      "start": 699.409,
+      "duration": 5.81
+    },
+    {
+      "text": "*DISTRESSED DAN NOISE*",
+      "start": 705.219,
+      "duration": 1.27
+    },
+    {
+      "text": "A: fingerlings \nD: *more distress*",
+      "start": 706.489,
+      "duration": 1.351
+    },
+    {
+      "text": "A: finger boys??\nD: finger puppets",
+      "start": 707.84,
+      "duration": 1.76
+    },
+    {
+      "text": "A: *disappointed* Oh, George Washington",
+      "start": 710.3,
+      "duration": 1.62
+    },
+    {
+      "text": "*Dan laughs and Arin joins in*",
+      "start": 711.92,
+      "duration": 4.74
+    },
+    {
+      "text": "D: Oh my God",
+      "start": 716.66,
+      "duration": 1.64
+    },
+    {
+      "text": "A: Oh we got 13 again \nD: yeahhh",
+      "start": 718.3,
+      "duration": 2.24
+    },
+    {
+      "text": "A: We could do better than that!\nD: Our skills are quite evenly matched :D",
+      "start": 720.54,
+      "duration": 2.96
+    },
+    {
+      "text": "D: We'll keep pushing each other another time.",
+      "start": 723.5,
+      "duration": 2.26
+    },
+    {
+      "text": "A: Alright. Dan. I really wanna play this again.",
+      "start": 725.76,
+      "duration": 1.9
+    },
+    {
+      "text": "D: Oh my God. Alright, let's do one more episode of it, Jesus!",
+      "start": 727.66,
+      "duration": 2.0
+    },
+    {
+      "text": "*they start laughing at the drawings*",
+      "start": 731.16,
+      "duration": 0.78
+    },
+    {
+      "text": "D: Swear to God. Let me see that King Tut!\n*Arin laughs*",
+      "start": 731.94,
+      "duration": 3.06
+    },
+    {
+      "text": "A: I don't think they'll show it 'cause we passed.\nD: God damn it. Oh, pro wrestler.",
+      "start": 735.0,
+      "duration": 3.12
+    },
+    {
+      "text": "A: Hold on, let me see if I can...",
+      "start": 738.28,
+      "duration": 1.62
+    },
+    {
+      "text": "D: yeah, see if we could swipe ahead",
+      "start": 739.9,
+      "duration": 2.02
+    },
+    {
+      "text": "A: Mmm, no,  it's not in it.",
+      "start": 741.92,
+      "duration": 1.4
+    },
+    {
+      "text": "D: Ohhhhh, what a shame",
+      "start": 743.32,
+      "duration": 1.86
+    },
+    {
+      "text": "A: the barbecue won the Orbulan award though.",
+      "start": 745.4,
+      "duration": 2.58
+    },
+    {
+      "text": "D: Oh, good for y- good for us.",
+      "start": 747.98,
+      "duration": 1.51
+    },
+    {
+      "text": "A: and then...",
+      "start": 749.49,
+      "duration": 0.85
+    },
+    {
+      "text": "A: pro wrestler won an award, too",
+      "start": 750.4,
+      "duration": 2.18
+    },
+    {
+      "text": "D: What'd stapler win?\nA: Your stapler did pretty well",
+      "start": 753.259,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Silver?",
+      "start": 755.259,
+      "duration": 2.0
+    },
+    {
+      "text": "D: *laughing* For \"luckiest guess\"",
+      "start": 757.26,
+      "duration": 2.0
+    },
+    {
+      "text": "A: And \"seagull\" won the bronze.",
+      "start": 759.26,
+      "duration": 1.2
+    },
+    {
+      "text": "D: That's pretty great. Just McDonald symbols over water",
+      "start": 760.46,
+      "duration": 2.76
+    },
+    {
+      "text": "A: Alright, next time on Game Grumps, I really want to rematch",
+      "start": 763.22,
+      "duration": 2.06
+    },
+    {
+      "text": "D: All right! \nA: I want to see if we can get an A.",
+      "start": 765.289,
+      "duration": 2.231
+    },
+    {
+      "text": "D: Okay",
+      "start": 767.52,
+      "duration": 0.549
+    },
+    {
+      "text": "A: So let's aim for an A.",
+      "start": 768.069,
+      "duration": 2.0
+    },
+    {
+      "text": "D: George Washington:",
+      "start": 770.069,
+      "duration": 1.76
+    },
+    {
+      "text": "D: Thank you for founding our country",
+      "start": 771.829,
+      "duration": 2.0
+    }
+  ]
+}

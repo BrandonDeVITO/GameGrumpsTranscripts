@@ -1,0 +1,1168 @@
+{
+  "video_id": "dz-X7UDpbIY",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Arin: Hey I'm Grump\nDan: I'm not so Grump",
+      "start": 0.2,
+      "duration": 2.0
+    },
+    {
+      "text": "A: and we're the Game Grumps\nD: and we're the Game Grumps",
+      "start": 2.56,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Hey welcome",
+      "start": 5.58,
+      "duration": 0.66
+    },
+    {
+      "text": "D: Hi there",
+      "start": 6.24,
+      "duration": 0.82
+    },
+    {
+      "text": "A: How are you?",
+      "start": 7.82,
+      "duration": 0.78
+    },
+    {
+      "text": "D: We are - I'm good, I'm good, how are you?",
+      "start": 8.6,
+      "duration": 1.9
+    },
+    {
+      "text": "D: I hope you're not in a fuckin giant river of death pudding",
+      "start": 10.54,
+      "duration": 3.02
+    },
+    {
+      "text": "A: That's ok",
+      "start": 13.56,
+      "duration": 0.94
+    },
+    {
+      "text": "D: Oh it's unfortunate, you are",
+      "start": 14.5,
+      "duration": 1.74
+    },
+    {
+      "text": "A: It's cool cause your jetpack cleans it up too",
+      "start": 16.26,
+      "duration": 2.18
+    },
+    {
+      "text": "A: cause it's all water\nD: Look at that",
+      "start": 18.44,
+      "duration": 1.4
+    },
+    {
+      "text": "A: I know right\nD: Ohhhh god no",
+      "start": 19.84,
+      "duration": 1.78
+    },
+    {
+      "text": "A: Another one",
+      "start": 21.62,
+      "duration": 1.0
+    },
+    {
+      "text": "A: It's like, he just ate something so he's like, [gulping noises]",
+      "start": 22.84,
+      "duration": 3.26
+    },
+    {
+      "text": "A: or you know when there's like a baby",
+      "start": 26.1,
+      "duration": 1.58
+    },
+    {
+      "text": "A: you know, and they have like a spit wing and they just don't care because they're fucking babies",
+      "start": 28.06,
+      "duration": 4.08
+    },
+    {
+      "text": "D: Yeah or old people",
+      "start": 32.14,
+      "duration": 0.78
+    },
+    {
+      "text": "A: They do care, they just don't care",
+      "start": 35.06,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Yeah they're like, 'I know I've got shit in the corner of my mouth, leave me alone'",
+      "start": 37.14,
+      "duration": 2.98
+    },
+    {
+      "text": "A: I guess that's worse\nD: Yeah",
+      "start": 40.72,
+      "duration": 1.32
+    },
+    {
+      "text": "A: cause babies like, aren't even capable of being aware",
+      "start": 42.42,
+      "duration": 2.92
+    },
+    {
+      "text": "A: but old people are aware, they just don't care",
+      "start": 45.7,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Yeah",
+      "start": 47.7,
+      "duration": 0.68
+    },
+    {
+      "text": "D: When I'm old, like when I'm super crusty old",
+      "start": 48.54,
+      "duration": 3.8
+    },
+    {
+      "text": "D: I can't wait to be like, 'HUH?'",
+      "start": 52.6,
+      "duration": 2.86
+    },
+    {
+      "text": "D: Like no matter what anyone says to me, even if I understood perfectly what they were trying to get across",
+      "start": 56.68,
+      "duration": 4.56
+    },
+    {
+      "text": "A: You gotta do it with like a New England accent, like, 'HENH?'",
+      "start": 61.24,
+      "duration": 3.38
+    },
+    {
+      "text": "D: 'WHAT?'",
+      "start": 64.62,
+      "duration": 1.02
+    },
+    {
+      "text": "A: 'HENH? What was that? Huh?'",
+      "start": 67.56,
+      "duration": 2.0
+    },
+    {
+      "text": "A: 'Speak up'",
+      "start": 69.92,
+      "duration": 0.98
+    },
+    {
+      "text": "D: 'Grandpa I just wanted to say that I love you and I know I don't get to see you often'",
+      "start": 71.42,
+      "duration": 3.08
+    },
+    {
+      "text": "D: 'but it's just always a pleasure cause you mean the world to me'",
+      "start": 74.5,
+      "duration": 2.46
+    },
+    {
+      "text": "A: 'HENH?'\nD: 'HUH?'",
+      "start": 76.96,
+      "duration": 0.8
+    },
+    {
+      "text": "D: 'Who are you?'",
+      "start": 79.84,
+      "duration": 0.78
+    },
+    {
+      "text": "D: 'Raisins?'",
+      "start": 86.58,
+      "duration": 1.74
+    },
+    {
+      "text": "A: 'Are you -  are you from the war?'",
+      "start": 88.32,
+      "duration": 1.92
+    },
+    {
+      "text": "A: Just so explicit like,  I'm senile",
+      "start": 91.5,
+      "duration": 2.66
+    },
+    {
+      "text": "D: 'I haven't seen you since nineteen aught six'",
+      "start": 97.56,
+      "duration": 2.62
+    },
+    {
+      "text": "A: 'Play The Entertainer on that piano'",
+      "start": 103.92,
+      "duration": 2.54
+    },
+    {
+      "text": "D: 'Are you world famous pugilist Tommy Ray Handley?'",
+      "start": 111.38,
+      "duration": 3.64
+    },
+    {
+      "text": "A: 'Eisenhower'",
+      "start": 117.52,
+      "duration": 1.16
+    },
+    {
+      "text": "D: Oh my god",
+      "start": 122.42,
+      "duration": 1.16
+    },
+    {
+      "text": "D: This was a special time",
+      "start": 123.58,
+      "duration": 1.88
+    },
+    {
+      "text": "D: 'What's your phone number? Mine is seven'",
+      "start": 127.4,
+      "duration": 2.76
+    },
+    {
+      "text": "A: And?",
+      "start": 135.12,
+      "duration": 0.68
+    },
+    {
+      "text": "A: 'HUH?'\nD: 'That's it'",
+      "start": 136.56,
+      "duration": 1.08
+    },
+    {
+      "text": "A: 'HENH?'\nD: 'What?'",
+      "start": 138.32,
+      "duration": 0.82
+    },
+    {
+      "text": "D: Oh man",
+      "start": 142.12,
+      "duration": 0.86
+    },
+    {
+      "text": "D: I'm gonna start just doing that at like 35",
+      "start": 143.18,
+      "duration": 2.14
+    },
+    {
+      "text": "A: Yeah you should",
+      "start": 146.28,
+      "duration": 1.06
+    },
+    {
+      "text": "A: and then just be like, I age fast",
+      "start": 147.34,
+      "duration": 1.92
+    },
+    {
+      "text": "A: I, you know",
+      "start": 149.92,
+      "duration": 1.36
+    },
+    {
+      "text": "A: I'm a fast learner",
+      "start": 151.72,
+      "duration": 1.14
+    },
+    {
+      "text": "D: 'Hey Dan, you've been working at this company a few years, we think you're doing a good job'",
+      "start": 153.74,
+      "duration": 3.28
+    },
+    {
+      "text": "D: 'and we just wanted to let you know, uh, you might be getting a raise'",
+      "start": 157.02,
+      "duration": 3.22
+    },
+    {
+      "text": "D: 'HUH?'",
+      "start": 160.24,
+      "duration": 0.66
+    },
+    {
+      "text": "D: 'Where am I?'",
+      "start": 162.98,
+      "duration": 0.82
+    },
+    {
+      "text": "A: 'Who are you?'",
+      "start": 165.54,
+      "duration": 0.92
+    },
+    {
+      "text": "A: 'Communist'",
+      "start": 168.74,
+      "duration": 1.0
+    },
+    {
+      "text": "D: 'Are you a Red?'",
+      "start": 171.06,
+      "duration": 1.08
+    },
+    {
+      "text": "D: Oh my god",
+      "start": 174.32,
+      "duration": 0.92
+    },
+    {
+      "text": "A: Then you say some like really fuckin outdated racial slur or something",
+      "start": 175.26,
+      "duration": 3.66
+    },
+    {
+      "text": "A: and people are like not even offended",
+      "start": 178.92,
+      "duration": 1.96
+    },
+    {
+      "text": "A: What's like an outdated-\nD: I can't even think of one",
+      "start": 181.84,
+      "duration": 2.76
+    },
+    {
+      "text": "A: They're all still relevant",
+      "start": 184.6,
+      "duration": 1.82
+    },
+    {
+      "text": "D: Yeah all of them have held pretty true",
+      "start": 186.46,
+      "duration": 2.4
+    },
+    {
+      "text": "A: Wait am I aiming to catch him or?",
+      "start": 189.56,
+      "duration": 2.32
+    },
+    {
+      "text": "D: I don't know\nA: I guess I should just try that",
+      "start": 192.28,
+      "duration": 2.36
+    },
+    {
+      "text": "D: 'You haven't been hanging out with those pineapple boys, have ya?'",
+      "start": 196.02,
+      "duration": 2.94
+    },
+    {
+      "text": "D: I think that just means Hawaiians",
+      "start": 201.04,
+      "duration": 1.28
+    },
+    {
+      "text": "A: Pineapple boys",
+      "start": 203.46,
+      "duration": 1.26
+    },
+    {
+      "text": "A: Cmere",
+      "start": 205.62,
+      "duration": 0.76
+    },
+    {
+      "text": "D: Aw man, that dick\nA: I know, he's fast, he's a fast 'un",
+      "start": 206.56,
+      "duration": 3.22
+    },
+    {
+      "text": "D: So he stole your girl, he's undoing all your work, and he's just shitting Ms everywhere",
+      "start": 210.46,
+      "duration": 5.04
+    },
+    {
+      "text": "A: Uh, \"stop the criminal in his tracks with some water\" oh ok\nD: Oh yeah",
+      "start": 216.82,
+      "duration": 2.78
+    },
+    {
+      "text": "D: Shoot him down",
+      "start": 219.6,
+      "duration": 1.28
+    },
+    {
+      "text": "A: This is what happens\nD: Yeah",
+      "start": 223.1,
+      "duration": 1.2
+    },
+    {
+      "text": "A: when we talk about old people for too long",
+      "start": 224.58,
+      "duration": 2.0
+    },
+    {
+      "text": "A: shit",
+      "start": 226.58,
+      "duration": 1.02
+    },
+    {
+      "text": "D: The whole town goes to shit",
+      "start": 228.36,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Literally there's all this shit everywhere with fuckin my name on it",
+      "start": 231.62,
+      "duration": 2.6
+    },
+    {
+      "text": "D: I gotta tell ya, this guy hasn't thought out his escape route very well",
+      "start": 234.76,
+      "duration": 4.32
+    },
+    {
+      "text": "A: 'Maybe I'll get away'",
+      "start": 240.8,
+      "duration": 1.42
+    },
+    {
+      "text": "D: 'They'll never catch me'",
+      "start": 242.22,
+      "duration": 1.28
+    },
+    {
+      "text": "D: 'until I lap around'",
+      "start": 244.38,
+      "duration": 1.66
+    },
+    {
+      "text": "D: Who is that guy?",
+      "start": 248.3,
+      "duration": 1.26
+    },
+    {
+      "text": "A: He's uh",
+      "start": 249.56,
+      "duration": 0.52
+    },
+    {
+      "text": "A: He's uh, baby Bowser",
+      "start": 250.88,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Ohhhhhhh ok",
+      "start": 253.2,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Bowser's fuckin like New Yorker son",
+      "start": 255.2,
+      "duration": 1.8
+    },
+    {
+      "text": "A: He's like, 'I hate you Mario'",
+      "start": 258.28,
+      "duration": 1.58
+    },
+    {
+      "text": "D: 'Yo Mario who the fuck you think you are?'",
+      "start": 260.76,
+      "duration": 2.52
+    },
+    {
+      "text": "D: 'you fuckin douchebag'",
+      "start": 263.28,
+      "duration": 2.0
+    },
+    {
+      "text": "A: He's like way too adult for this fuckin game",
+      "start": 266.86,
+      "duration": 2.7
+    },
+    {
+      "text": "D: 'I'm gonna draw fuckin Ms all over your cock and fist and fuckin island'",
+      "start": 269.88,
+      "duration": 3.68
+    },
+    {
+      "text": "A: 'Go fuck yourself Mario'",
+      "start": 274.14,
+      "duration": 2.0
+    },
+    {
+      "text": "A: 'Go stick your head in a dick'",
+      "start": 276.88,
+      "duration": 1.58
+    },
+    {
+      "text": "A: 'That's right, the hole that the dick has at the end of it'",
+      "start": 280.6,
+      "duration": 2.96
+    },
+    {
+      "text": "A: 'stick your head in that'",
+      "start": 283.56,
+      "duration": 1.28
+    },
+    {
+      "text": "A: 'ya pinhead'",
+      "start": 285.44,
+      "duration": 1.1
+    },
+    {
+      "text": "A: When is this motherfucker gonna die?",
+      "start": 292.22,
+      "duration": 2.0
+    },
+    {
+      "text": "D: 'Welcome to our happy island'",
+      "start": 294.22,
+      "duration": 1.74
+    },
+    {
+      "text": "D: 'I hope you enjoy your stay'",
+      "start": 295.96,
+      "duration": 1.9
+    },
+    {
+      "text": "D: 'HEY. PUSSYLIPS'",
+      "start": 298.24,
+      "duration": 1.52
+    },
+    {
+      "text": "D: 'GO FUCK YOURSELF'",
+      "start": 299.76,
+      "duration": 1.62
+    },
+    {
+      "text": "D: Barry please edit that out thank you",
+      "start": 302.94,
+      "duration": 2.0
+    },
+    {
+      "text": "A: yes",
+      "start": 304.94,
+      "duration": 0.96
+    },
+    {
+      "text": "A: \"Ow ow ow. You shouldn't be allowed to-\" oh don't by the way Barry",
+      "start": 306.28,
+      "duration": 3.06
+    },
+    {
+      "text": "D: Yeah\nA: I'll kill you if you do it",
+      "start": 309.34,
+      "duration": 1.78
+    },
+    {
+      "text": "A: I will fucking kill you",
+      "start": 311.12,
+      "duration": 1.5
+    },
+    {
+      "text": "D: I've asked Barry to edit things out like three times and you've superceded me every time",
+      "start": 312.9,
+      "duration": 5.92
+    },
+    {
+      "text": "D: No Barry, don't just do that but make a small rap around it",
+      "start": 320.76,
+      "duration": 3.1
+    },
+    {
+      "text": "A: Yeah\nD: Many visuals",
+      "start": 323.86,
+      "duration": 1.76
+    },
+    {
+      "text": "[rap to 'hey pussylips go fuck yourself']",
+      "start": 325.92,
+      "duration": 4.68
+    },
+    {
+      "text": "A: Cock-loving slut",
+      "start": 331.7,
+      "duration": 1.26
+    },
+    {
+      "text": "A: Barry edit that out",
+      "start": 332.96,
+      "duration": 1.12
+    },
+    {
+      "text": "A: No Barry, in fact find a visual representation of a cock-loving slut",
+      "start": 334.8,
+      "duration": 3.94
+    },
+    {
+      "text": "D: This Super Mario Sunshine episode has taken a strange turn",
+      "start": 341.32,
+      "duration": 4.54
+    },
+    {
+      "text": "A: I guess I need to go inside now",
+      "start": 346.0,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Whoaaaaa didn't expect that\nA: Mhm",
+      "start": 348.0,
+      "duration": 1.9
+    },
+    {
+      "text": "A: I did because I've played it before",
+      "start": 350.88,
+      "duration": 2.0
+    },
+    {
+      "text": "D: [accent] Bianco Hills",
+      "start": 353.34,
+      "duration": 2.0
+    },
+    {
+      "text": "A: I think it could be Blanco?",
+      "start": 355.46,
+      "duration": 2.0
+    },
+    {
+      "text": "D: [accent] Welcome to the road to the big windmill",
+      "start": 358.04,
+      "duration": 2.58
+    },
+    {
+      "text": "D: [accent] BIANco",
+      "start": 361.58,
+      "duration": 0.9
+    },
+    {
+      "text": "D: [accent] BIANco",
+      "start": 363.44,
+      "duration": 0.86
+    },
+    {
+      "text": "A: [accent] I once knew a lady named BIANco",
+      "start": 366.0,
+      "duration": 2.36
+    },
+    {
+      "text": "A: [accent] She had a nice...a-tushy tush",
+      "start": 369.4,
+      "duration": 2.62
+    },
+    {
+      "text": "A: [accent] It was plump",
+      "start": 374.86,
+      "duration": 2.0
+    },
+    {
+      "text": "A: [accent] and juicy",
+      "start": 377.38,
+      "duration": 1.0
+    },
+    {
+      "text": "A: That's a bit like van Damme",
+      "start": 379.74,
+      "duration": 1.62
+    },
+    {
+      "text": "D: J.C.V.D.?\nA: Yeah",
+      "start": 382.4,
+      "duration": 1.36
+    },
+    {
+      "text": "A: He always has that kind of like",
+      "start": 384.44,
+      "duration": 2.0
+    },
+    {
+      "text": "A: [accent] Bison",
+      "start": 387.24,
+      "duration": 1.12
+    },
+    {
+      "text": "A: [accent] I'm going to get you bison",
+      "start": 389.54,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Jean-Claude van Damme is my favorite of all those guys",
+      "start": 392.38,
+      "duration": 2.74
+    },
+    {
+      "text": "D: primarily because he kept getting sued",
+      "start": 395.34,
+      "duration": 3.4
+    },
+    {
+      "text": "D: by uh, the other people, like the stunt doubles",
+      "start": 398.92,
+      "duration": 3.78
+    },
+    {
+      "text": "A: in his movies because he refused to not kick them in the face for real",
+      "start": 402.76,
+      "duration": 5.12
+    },
+    {
+      "text": "D: He was like, [accent] 'I am an artist'",
+      "start": 408.52,
+      "duration": 2.0
+    },
+    {
+      "text": "A: [accent] 'This is what it takes'",
+      "start": 412.14,
+      "duration": 1.56
+    },
+    {
+      "text": "D: [accent] 'Your face is not worth this shit on my shoe'",
+      "start": 414.58,
+      "duration": 3.68
+    },
+    {
+      "text": "A: [accent] 'Haven't you ever seen Bloodsport?'",
+      "start": 419.7,
+      "duration": 2.82
+    },
+    {
+      "text": "A: [accent] 'one of the greatest movies of all time'",
+      "start": 423.84,
+      "duration": 2.0
+    },
+    {
+      "text": "D: [accent] 'I'm sorry, have you not seen Street Fighter II: The Movie?'",
+      "start": 426.52,
+      "duration": 4.22
+    },
+    {
+      "text": "A: [accent] 'the game'",
+      "start": 431.82,
+      "duration": 1.2
+    },
+    {
+      "text": "A: Have you ever played Street Fighter: The Movie the game?",
+      "start": 434.58,
+      "duration": 1.68
+    },
+    {
+      "text": "D: I- oh you mean the game based on the movie based on the game?\nA: Yeah",
+      "start": 436.7,
+      "duration": 3.7
+    },
+    {
+      "text": "D: I have not, I think I saw someone play it once",
+      "start": 441.28,
+      "duration": 3.24
+    },
+    {
+      "text": "D: It's got like that digitized kinda",
+      "start": 444.9,
+      "duration": 1.96
+    },
+    {
+      "text": "A: Yeah it's got that Mortal Kombat real people look to it\nD: Yeah",
+      "start": 446.86,
+      "duration": 3.06
+    },
+    {
+      "text": "D: It's bad right?",
+      "start": 449.92,
+      "duration": 0.7
+    },
+    {
+      "text": "A: I should check this with the... road to the big windmill, alright I'm going to the windmill",
+      "start": 450.7,
+      "duration": 3.68
+    },
+    {
+      "text": "D: [accent] Have you forgotten what Bianco told you?",
+      "start": 456.1,
+      "duration": 3.1
+    },
+    {
+      "text": "A: [accent] I was too busy looking at her tushy tush",
+      "start": 460.24,
+      "duration": 2.0
+    },
+    {
+      "text": "D: [accent] her hills, as I say",
+      "start": 462.88,
+      "duration": 1.68
+    },
+    {
+      "text": "A: [accent] oh Bianco",
+      "start": 466.58,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Aw cool, I got a blue coin",
+      "start": 468.58,
+      "duration": 1.62
+    },
+    {
+      "text": "A: That merits a save",
+      "start": 470.2,
+      "duration": 1.44
+    },
+    {
+      "text": "D: Does it?\nA: I should save my progress",
+      "start": 471.64,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Great\nA: for that blue coin",
+      "start": 473.64,
+      "duration": 1.48
+    },
+    {
+      "text": "D: What- did it say you could go to the boathouse?",
+      "start": 475.12,
+      "duration": 1.92
+    },
+    {
+      "text": "A: The boathouse?",
+      "start": 477.58,
+      "duration": 1.02
+    },
+    {
+      "text": "D: I think that's what it said, if you collect ten blue coins something happens",
+      "start": 478.7,
+      "duration": 2.98
+    },
+    {
+      "text": "A: Oh that's nice\nD: I didn't pay attention",
+      "start": 481.68,
+      "duration": 1.84
+    },
+    {
+      "text": "A: You can use it to pay off your fucking mortgage that your wife keeps nagging you about",
+      "start": 483.68,
+      "duration": 4.38
+    },
+    {
+      "text": "D: Peach...",
+      "start": 488.76,
+      "duration": 0.96
+    },
+    {
+      "text": "A: You bought the castle for her",
+      "start": 490.96,
+      "duration": 2.0
+    },
+    {
+      "text": "A: She's one of those girls who's like, 'treat me like a princess'",
+      "start": 493.62,
+      "duration": 3.24
+    },
+    {
+      "text": "A: She's not actually a princess, she's just like super delusional",
+      "start": 497.2,
+      "duration": 4.06
+    },
+    {
+      "text": "D: She just gets kidnapped a lot",
+      "start": 501.26,
+      "duration": 1.4
+    },
+    {
+      "text": "A: 'I'm gonna bake you a cake Mario'",
+      "start": 502.68,
+      "duration": 1.96
+    },
+    {
+      "text": "A: he's like, 'yeah fuckin bake me a cake, I don't give a shit'",
+      "start": 504.64,
+      "duration": 2.2
+    },
+    {
+      "text": "A: 'I've got shit to do, fuck'",
+      "start": 508.66,
+      "duration": 2.0
+    },
+    {
+      "text": "D: 'I've got-a better shit to do'",
+      "start": 511.2,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Has it ever been established that they're married?",
+      "start": 513.66,
+      "duration": 2.0
+    },
+    {
+      "text": "A: No\nD: No - are they dating or?",
+      "start": 516.18,
+      "duration": 2.28
+    },
+    {
+      "text": "A: No he just wants to save her",
+      "start": 518.72,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Ok\nA: And she gives him a kiss on the cheek every so often",
+      "start": 520.96,
+      "duration": 3.42
+    },
+    {
+      "text": "D: Ugh what a load of horseshit",
+      "start": 524.38,
+      "duration": 1.36
+    },
+    {
+      "text": "A: I know",
+      "start": 525.74,
+      "duration": 0.96
+    },
+    {
+      "text": "D: I'd be infuriated",
+      "start": 526.7,
+      "duration": 1.52
+    },
+    {
+      "text": "D: If I fuckin went through a hellish landscape",
+      "start": 530.06,
+      "duration": 2.36
+    },
+    {
+      "text": "D: Mario Sunshine not included cause this happens to be very happy",
+      "start": 532.68,
+      "duration": 3.8
+    },
+    {
+      "text": "D: but every other Mario",
+      "start": 536.48,
+      "duration": 1.42
+    },
+    {
+      "text": "D: If I went through a nightmare world of fuckin turtles and dragons and all that shit",
+      "start": 537.96,
+      "duration": 4.42
+    },
+    {
+      "text": "D: like, and I got a peck on the cheek",
+      "start": 542.78,
+      "duration": 2.1
+    },
+    {
+      "text": "D: She better be fuckin tongue on balls the second I see her",
+      "start": 545.28,
+      "duration": 3.88
+    },
+    {
+      "text": "A: tongue on balls",
+      "start": 550.78,
+      "duration": 1.5
+    },
+    {
+      "text": "D: There better be a lip to sack connection",
+      "start": 554.22,
+      "duration": 2.0
+    },
+    {
+      "text": "A: lip to sack",
+      "start": 558.78,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Hey alright",
+      "start": 563.56,
+      "duration": 0.68
+    },
+    {
+      "text": "A: What wire would you use for that?",
+      "start": 564.26,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Pardon me?",
+      "start": 566.26,
+      "duration": 0.72
+    },
+    {
+      "text": "A: like, it's a lip to sack connection",
+      "start": 567.54,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Oh oh\nA: it's like, what wire",
+      "start": 569.54,
+      "duration": 1.84
+    },
+    {
+      "text": "D: Yeah I dunno",
+      "start": 571.38,
+      "duration": 0.74
+    },
+    {
+      "text": "A: would be used to",
+      "start": 572.12,
+      "duration": 1.06
+    },
+    {
+      "text": "D: We could go wireless",
+      "start": 573.18,
+      "duration": 0.86
+    },
+    {
+      "text": "A: I'm thinking, I'm thinking, uh, Bluetooth",
+      "start": 576.58,
+      "duration": 2.78
+    },
+    {
+      "text": "A: Better not use it though",
+      "start": 580.24,
+      "duration": 1.24
+    },
+    {
+      "text": "D: Don't graze me with the Bluetooth",
+      "start": 583.92,
+      "duration": 1.42
+    },
+    {
+      "text": "D: swear to god",
+      "start": 586.32,
+      "duration": 0.92
+    },
+    {
+      "text": "A: Oh damn, my fuckin",
+      "start": 588.02,
+      "duration": 1.1
+    },
+    {
+      "text": "D: You're getting close\nA: Yeah",
+      "start": 589.12,
+      "duration": 0.94
+    },
+    {
+      "text": "A: It keeps transporting",
+      "start": 590.06,
+      "duration": 1.52
+    },
+    {
+      "text": "D: I can't uh",
+      "start": 591.58,
+      "duration": 0.76
+    },
+    {
+      "text": "A: trying to get that blue coin",
+      "start": 592.34,
+      "duration": 1.28
+    },
+    {
+      "text": "D: I can't wait to find out what those actually do for you",
+      "start": 594.02,
+      "duration": 2.62
+    },
+    {
+      "text": "A: I like that about the 3D Marios, you know",
+      "start": 597.76,
+      "duration": 2.0
+    },
+    {
+      "text": "A: I've been hard on Super Mario 64 in the past\nD: Uh huh",
+      "start": 600.18,
+      "duration": 3.1
+    },
+    {
+      "text": "A: I still think it's kind of a lame game",
+      "start": 603.28,
+      "duration": 1.8
+    },
+    {
+      "text": "A: but I like that you can kinda do a couple things",
+      "start": 605.18,
+      "duration": 2.98
+    },
+    {
+      "text": "A: even though the mission isn't to do those things\nD: Right right",
+      "start": 608.16,
+      "duration": 2.86
+    },
+    {
+      "text": "A: It's like, aw I'm collecting blue coins even though they want me to go to the windmill",
+      "start": 611.08,
+      "duration": 3.32
+    },
+    {
+      "text": "D: Well it's funny cause like, I um",
+      "start": 614.5,
+      "duration": 2.28
+    },
+    {
+      "text": "D: I was such an old school gamer when things star- I've never played Mario 64",
+      "start": 617.0,
+      "duration": 3.68
+    },
+    {
+      "text": "D: shockingly enough\nA: oh yeah?",
+      "start": 620.7,
+      "duration": 2.0
+    },
+    {
+      "text": "D: No I kinda skipped it because",
+      "start": 623.14,
+      "duration": 2.0
+    },
+    {
+      "text": "D: I was so passionately in love with sidescrollers",
+      "start": 626.2,
+      "duration": 2.5
+    },
+    {
+      "text": "D: and that's all I had ever known like my whole life",
+      "start": 628.92,
+      "duration": 2.32
+    },
+    {
+      "text": "D: so Mario 64 was kind of the first",
+      "start": 631.52,
+      "duration": 2.88
+    },
+    {
+      "text": "D: game where you could, you know, run foward - there's a word for it, I can't remember the word",
+      "start": 634.72,
+      "duration": 5.08
+    },
+    {
+      "text": "D: Platformer? Is that it? Yeah yeah\nA: Yeah",
+      "start": 640.04,
+      "duration": 2.0
+    },
+    {
+      "text": "D: where, you know, it was 3D and everything and I was like",
+      "start": 642.28,
+      "duration": 2.0
+    },
+    {
+      "text": "D: No one can live at this speed",
+      "start": 644.44,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Oh yeah I remember my brother used to like get sick",
+      "start": 648.22,
+      "duration": 2.86
+    },
+    {
+      "text": "D: Yeah\nA: when he watched me play Ocarina of Time",
+      "start": 651.22,
+      "duration": 2.0
+    },
+    {
+      "text": "D: It was very confusing at first, it took a while for me to get used to",
+      "start": 653.42,
+      "duration": 2.74
+    },
+    {
+      "text": "D: oh god",
+      "start": 657.16,
+      "duration": 0.94
+    },
+    {
+      "text": "A: Fuck these goddamn pieces of shit\nD: Yeah right?",
+      "start": 658.32,
+      "duration": 1.96
+    },
+    {
+      "text": "D: Next time on Game Grumps Arin fights the same enemy again",
+      "start": 660.28,
+      "duration": 3.46
+    }
+  ]
+}

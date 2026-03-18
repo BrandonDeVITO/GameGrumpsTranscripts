@@ -1,0 +1,33 @@
+{
+  "video_id": "wwUnXXH-3nw",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippets": [
+    {
+      "text": "Welcome back to Train Red Gumps. How",
+      "start": 0.4,
+      "duration": 5.04
+    },
+    {
+      "text": "many times have you heard that? Never,",
+      "start": 2.32,
+      "duration": 5.32
+    },
+    {
+      "text": "except for just now.",
+      "start": 5.44,
+      "duration": 5.52
+    },
+    {
+      "text": "[Music]",
+      "start": 7.64,
+      "duration": 3.32
+    },
+    {
+      "text": "I can't",
+      "start": 11.759,
+      "duration": 3.201
+    }
+  ]
+}

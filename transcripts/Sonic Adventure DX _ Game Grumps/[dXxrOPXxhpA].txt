@@ -1,0 +1,1613 @@
+{
+  "video_id": "dXxrOPXxhpA",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Hey, I'm Grump!",
+      "start": 0.02,
+      "duration": 0.98
+    },
+    {
+      "text": "I'm Not-so-Grump!",
+      "start": 1.0,
+      "duration": 1.36
+    },
+    {
+      "text": "AND WE'RE THE GAME GRUMPS!!",
+      "start": 2.46,
+      "duration": 2.42
+    },
+    {
+      "text": "Arin: Hey, welcome!",
+      "start": 5.46,
+      "duration": 0.92
+    },
+    {
+      "text": "Dan: Okay, I have my hat down.",
+      "start": 6.38,
+      "duration": 1.2
+    },
+    {
+      "text": "I have not seen what game this is, uh, it's a surprise that Arin is excited about and I'm looking now-",
+      "start": 7.58,
+      "duration": 5.36
+    },
+    {
+      "text": "Oh God.",
+      "start": 12.94,
+      "duration": 0.86
+    },
+    {
+      "text": "Dan: God damn it.",
+      "start": 15.36,
+      "duration": 1.0
+    },
+    {
+      "text": "Arin: It's Sonic the Hedgehog!",
+      "start": 16.36,
+      "duration": 1.04
+    },
+    {
+      "text": "Dan: Aw geez, what game is this?",
+      "start": 17.4,
+      "duration": 1.68
+    },
+    {
+      "text": "Arin: Uhhh, it's Sonic Adventure.",
+      "start": 19.08,
+      "duration": 2.1
+    },
+    {
+      "text": "Dan: Excellent. Is it good?",
+      "start": 21.38,
+      "duration": 1.08
+    },
+    {
+      "text": "Arin: No!",
+      "start": 22.46,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: Okay.",
+      "start": 22.96,
+      "duration": 0.62
+    },
+    {
+      "text": "Arin: It's fucking... it's horrible.",
+      "start": 23.58,
+      "duration": 2.0
+    },
+    {
+      "text": "Gee, look at this.",
+      "start": 26.04,
+      "duration": 1.64
+    },
+    {
+      "text": "Dan: Oh boy.",
+      "start": 27.68,
+      "duration": 0.84
+    },
+    {
+      "text": "Arin: Look at this nightmare this game is.",
+      "start": 28.52,
+      "duration": 1.44
+    },
+    {
+      "text": "Dan: What system is this?",
+      "start": 29.96,
+      "duration": 1.68
+    },
+    {
+      "text": "Arin: Well it was originally on the GameCube",
+      "start": 31.64,
+      "duration": 1.56
+    },
+    {
+      "text": "Dan: GameCube, yeah.",
+      "start": 33.2,
+      "duration": 0.84
+    },
+    {
+      "text": "Arin: I'm sorry, Dreamcast.",
+      "start": 34.04,
+      "duration": 1.0
+    },
+    {
+      "text": "Dan: Oh, Dreamcast?",
+      "start": 35.04,
+      "duration": 0.78
+    },
+    {
+      "text": "Arin: But it's on the GameCube 'cause it got ported to the GameCube 'cause nobody bought the Dreamcast.",
+      "start": 35.82,
+      "duration": 3.98
+    },
+    {
+      "text": "Dan: What do you mean 'No one bought the Dreamcast'? Dreamcast is everybody's favorite fucking system.",
+      "start": 39.8,
+      "duration": 3.24
+    },
+    {
+      "text": "Arin: It's my favourite system, for sure.",
+      "start": 43.04,
+      "duration": 1.36
+    },
+    {
+      "text": "Dan: Panzer Dragoon all the way.",
+      "start": 44.4,
+      "duration": 1.3
+    },
+    {
+      "text": "Arin: Panzer Dragoon was on... was on the Saturn.",
+      "start": 46.02,
+      "duration": 3.14
+    },
+    {
+      "text": "Dan: Oh.",
+      "start": 49.62,
+      "duration": 0.66
+    },
+    {
+      "text": "Arin: Yeah.",
+      "start": 51.12,
+      "duration": 0.88
+    },
+    {
+      "text": "Dan: *coughs* Excuse me.",
+      "start": 52.56,
+      "duration": 1.48
+    },
+    {
+      "text": "Dan: Well, this is fuckin, this is a surprise. I thought you were done with Sonic games forever.",
+      "start": 55.16,
+      "duration": 5.42
+    },
+    {
+      "text": "Arin: No, what the, what? No, we have to play all of them eventually.",
+      "start": 61.08,
+      "duration": 3.28
+    },
+    {
+      "text": "I mean, they're hilarious.",
+      "start": 65.42,
+      "duration": 1.4
+    },
+    {
+      "text": "Dan: Okay.",
+      "start": 66.82,
+      "duration": 0.9
+    },
+    {
+      "text": "Arin: Aren't they hilarious?",
+      "start": 67.72,
+      "duration": 0.94
+    },
+    {
+      "text": "Dan: They are! They're amazing.",
+      "start": 68.66,
+      "duration": 1.52
+    },
+    {
+      "text": "Does this have something to do with the fact that Sonic tweeted you recently?",
+      "start": 70.52,
+      "duration": 2.94
+    },
+    {
+      "text": "Arin: What? They tweeted you!",
+      "start": 74.04,
+      "duration": 1.84
+    },
+    {
+      "text": "Dan: Oh, uh, well they apparently caught wind of 'It's snowing on Mt. Fuji'.",
+      "start": 75.88,
+      "duration": 4.62
+    },
+    {
+      "text": "Arin: Yeah!",
+      "start": 80.5,
+      "duration": 0.86
+    },
+    {
+      "text": "Dan: Which is fucking awesome.",
+      "start": 81.36,
+      "duration": 1.76
+    },
+    {
+      "text": "Arin: So the official Sonic the Hedgehog Twitter tweeted out to somebody",
+      "start": 83.28,
+      "duration": 4.84
+    },
+    {
+      "text": "A haiku that ended in 'it's snowing on Mt. Fuji'.",
+      "start": 88.62,
+      "duration": 2.52
+    },
+    {
+      "text": "Dan: Nothing could make me happier than that.",
+      "start": 91.48,
+      "duration": 1.76
+    },
+    {
+      "text": "Arin: The Sonic the Hedgehog Twitter is actually really funny.",
+      "start": 93.24,
+      "duration": 2.44
+    },
+    {
+      "text": "Dan: Yeah, I mean, whoever is behind that is fucking cool as shit.",
+      "start": 95.68,
+      "duration": 3.16
+    },
+    {
+      "text": "Arin: Alright, here we go. We're gonna play the best game ever.",
+      "start": 99.08,
+      "duration": 1.92
+    },
+    {
+      "text": "Dan: Alright, let's do it!",
+      "start": 101.0,
+      "duration": 1.06
+    },
+    {
+      "text": "Arin, as Sonic: Too cool!",
+      "start": 102.24,
+      "duration": 0.94
+    },
+    {
+      "text": "Dan, as Sonic: HUEH",
+      "start": 103.18,
+      "duration": 0.56
+    },
+    {
+      "text": "Arin: That's, that's how I thumbs up every time I do.",
+      "start": 103.74,
+      "duration": 2.38
+    },
+    {
+      "text": "Dan: Yeah, yeah",
+      "start": 106.12,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: I just have a little muscle spasm.",
+      "start": 106.62,
+      "duration": 1.54
+    },
+    {
+      "text": "Dan: Yeah, and then my thumb is a square nub. Actually my thumb is a square- nevermind.",
+      "start": 108.16,
+      "duration": 4.58
+    },
+    {
+      "text": "Bad example.",
+      "start": 113.56,
+      "duration": 0.94
+    },
+    {
+      "text": "Arin: sssssss- Central Station.",
+      "start": 114.66,
+      "duration": 2.18
+    },
+    {
+      "text": "Dan: It's the SS Central Station.",
+      "start": 118.4,
+      "duration": 1.76
+    },
+    {
+      "text": "Arin: Oh, is it?",
+      "start": 120.16,
+      "duration": 0.84
+    },
+    {
+      "text": "Dan: It's a boat.",
+      "start": 121.0,
+      "duration": 0.72
+    },
+    {
+      "text": "Arin: Oh, look at these skiing girls",
+      "start": 121.72,
+      "duration": 1.2
+    },
+    {
+      "text": "Dan: Yeah. *chuckles*",
+      "start": 122.92,
+      "duration": 0.82
+    },
+    {
+      "text": "Arin: And guys.",
+      "start": 123.74,
+      "duration": 0.92
+    },
+    {
+      "text": "Dan: Oh good, its day-night.",
+      "start": 126.12,
+      "duration": 1.52
+    },
+    {
+      "text": "*Arin laughing*",
+      "start": 127.9,
+      "duration": 1.66
+    },
+    {
+      "text": "Arin: My favorite time of the day-night...",
+      "start": 130.38,
+      "duration": 2.72
+    },
+    {
+      "text": "Oh, ssss-books!",
+      "start": 133.64,
+      "duration": 1.48
+    },
+    {
+      "text": "What the fuck is happening?",
+      "start": 135.12,
+      "duration": 1.66
+    },
+    {
+      "text": "Dan: Oh my god! Is this New York? Is this clearly supposed to be New...",
+      "start": 136.78,
+      "duration": 3.32
+    },
+    {
+      "text": "Dan: Oh boy.",
+      "start": 142.3,
+      "duration": 1.24
+    },
+    {
+      "text": "Dan, as Sonic: Wha- my mouth!",
+      "start": 144.54,
+      "duration": 0.96
+    },
+    {
+      "text": "Dan: Jesus Christ.",
+      "start": 147.4,
+      "duration": 1.8
+    },
+    {
+      "text": "Are you kidding me with this?",
+      "start": 150.32,
+      "duration": 1.62
+    },
+    {
+      "text": "Arin, laughing: I'm not kidding you!",
+      "start": 151.94,
+      "duration": 1.44
+    },
+    {
+      "text": "Dan: Yeah, what is up?",
+      "start": 153.86,
+      "duration": 1.2
+    },
+    {
+      "text": "*Arin making weird Sonic-like noises*",
+      "start": 155.06,
+      "duration": 1.46
+    },
+    {
+      "text": "Dan: Amazing question.",
+      "start": 156.52,
+      "duration": 1.12
+    },
+    {
+      "text": "Arin: There he goes, the Blue Blur himself, Sonic the Hedgehog.",
+      "start": 157.64,
+      "duration": 3.42
+    },
+    {
+      "text": "Dan: God in heaven!",
+      "start": 161.32,
+      "duration": 0.96
+    },
+    {
+      "text": "Arin: Star of the hit game Sonic Adventure DX on the GameCube.",
+      "start": 162.28,
+      "duration": 3.02
+    },
+    {
+      "text": "Dan: Ah, the SSPD. *pronounces SSPD as one word*",
+      "start": 165.5,
+      "duration": 1.86
+    },
+    {
+      "text": "Arin: Oh here comes Chaos.",
+      "start": 167.74,
+      "duration": 1.34
+    },
+    {
+      "text": "Dan: Oh shit. Is that who that is?",
+      "start": 169.08,
+      "duration": 1.18
+    },
+    {
+      "text": "Arin: Yeah.",
+      "start": 170.26,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: Okay.",
+      "start": 171.0,
+      "duration": 0.52
+    },
+    {
+      "text": "Arin: He's like a jelly monster.",
+      "start": 171.52,
+      "duration": 1.04
+    },
+    {
+      "text": "Dan, as Chaos: bleh",
+      "start": 172.56,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: By gross jelly!",
+      "start": 175.0,
+      "duration": 1.66
+    },
+    {
+      "text": "Arin: I'm just... I'm so riveted. This is so cinematic.",
+      "start": 177.54,
+      "duration": 2.54
+    },
+    {
+      "text": "Dan: I know.",
+      "start": 180.08,
+      "duration": 0.58
+    },
+    {
+      "text": "Arin: Look at that panning shot!",
+      "start": 180.66,
+      "duration": 0.96
+    },
+    {
+      "text": "Dan: I know!",
+      "start": 181.62,
+      "duration": 0.68
+    },
+    {
+      "text": "Arin: Oh, there he goes!",
+      "start": 183.26,
+      "duration": 0.88
+    },
+    {
+      "text": "Dan: What???",
+      "start": 184.14,
+      "duration": 1.06
+    },
+    {
+      "text": "Arin, as the cops: Watch out! He's got polygons!",
+      "start": 187.2,
+      "duration": 1.82
+    },
+    {
+      "text": "Arin: He's made of goo, you guys. C'mon, seriously?",
+      "start": 191.42,
+      "duration": 2.88
+    },
+    {
+      "text": "Arin: Whoa, is he Neo?",
+      "start": 196.42,
+      "duration": 1.38
+    },
+    {
+      "text": "Dan: He's impervious to bullshit!",
+      "start": 197.8,
+      "duration": 1.88
+    },
+    {
+      "text": "Arin, as the cops: Why the fuck did we do this shot when there's two rings floating in front of everything?",
+      "start": 201.58,
+      "duration": 3.68
+    },
+    {
+      "text": "Dan, as the cops:  Hey, can you guys moonwalk? I can moonwalk!",
+      "start": 205.26,
+      "duration": 2.28
+    },
+    {
+      "text": "Dan, as Sonic: Awesome!",
+      "start": 211.24,
+      "duration": 1.14
+    },
+    {
+      "text": "Arin, as Sonic: Cool! I'm above the police.",
+      "start": 212.54,
+      "duration": 2.0
+    },
+    {
+      "text": "Dan, as Sonic: This could also be my death!",
+      "start": 214.54,
+      "duration": 1.52
+    },
+    {
+      "text": "Arin: Yeah, they start shooting at him instead.",
+      "start": 216.06,
+      "duration": 1.76
+    },
+    {
+      "text": "Dan: Yeah.",
+      "start": 217.82,
+      "duration": 0.6
+    },
+    {
+      "text": "Dan, as the cops: Jesus! Kill the hedgehog at least.",
+      "start": 218.98,
+      "duration": 1.88
+    },
+    {
+      "text": "Arin, as the cops: Yeah, what a monster!",
+      "start": 221.1,
+      "duration": 1.66
+    },
+    {
+      "text": "It looks like he's playing piano.",
+      "start": 223.0,
+      "duration": 1.62
+    },
+    {
+      "text": "Arin: It's Chaos.",
+      "start": 226.02,
+      "duration": 0.64
+    },
+    {
+      "text": "Dan: Oh boy.",
+      "start": 226.66,
+      "duration": 0.56
+    },
+    {
+      "text": "Arin: Zero.",
+      "start": 227.22,
+      "duration": 0.78
+    },
+    {
+      "text": "Dan: Yeah.",
+      "start": 228.56,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: He's not even the first Chaos.",
+      "start": 229.14,
+      "duration": 1.16
+    },
+    {
+      "text": "Dan: Oh, so you're just fucking...",
+      "start": 230.3,
+      "duration": 1.22
+    },
+    {
+      "text": "Oh, you're fighting!",
+      "start": 232.52,
+      "duration": 1.12
+    },
+    {
+      "text": "Arin: Ah, this game is a nightmare.",
+      "start": 233.64,
+      "duration": 1.8
+    },
+    {
+      "text": "Dan: Geeeez, wow!",
+      "start": 235.44,
+      "duration": 2.3
+    },
+    {
+      "text": "I didn't even know this one existed!",
+      "start": 237.94,
+      "duration": 1.44
+    },
+    {
+      "text": "Arin: Ugh. It was the first 3D - well..",
+      "start": 239.38,
+      "duration": 2.5
+    },
+    {
+      "text": "The first of its style of 3D Sonic.",
+      "start": 242.24,
+      "duration": 2.56
+    },
+    {
+      "text": "Dan: Wow.",
+      "start": 244.9,
+      "duration": 0.92
+    },
+    {
+      "text": "So this is the...",
+      "start": 246.1,
+      "duration": 0.9
+    },
+    {
+      "text": "Arin: This is the one that-",
+      "start": 247.2,
+      "duration": 0.62
+    },
+    {
+      "text": "Dan: This is the bullshit that launched a thousand shits.",
+      "start": 247.82,
+      "duration": 2.32
+    },
+    {
+      "text": "Arin: Oof. Did you see that nonsense where you're looking through the ground?",
+      "start": 250.14,
+      "duration": 3.6
+    },
+    {
+      "text": "Arin: You coming down here? So I can hit your brain a couple ti- oh no...",
+      "start": 254.32,
+      "duration": 2.9
+    },
+    {
+      "text": "Dan: Oh God, how do you even know... even know what to do?",
+      "start": 257.22,
+      "duration": 3.46
+    },
+    {
+      "text": "Arin: Exactly, right?!",
+      "start": 260.68,
+      "duration": 1.6
+    },
+    {
+      "text": "I guess when he's doing an attack...",
+      "start": 262.48,
+      "duration": 1.48
+    },
+    {
+      "text": "Oh, I died.",
+      "start": 263.96,
+      "duration": 0.94
+    },
+    {
+      "text": "*Dan laughing*",
+      "start": 265.04,
+      "duration": 1.48
+    },
+    {
+      "text": "Arin: I guess I died.",
+      "start": 266.52,
+      "duration": 0.86
+    },
+    {
+      "text": "Dan: I didn't even notice until I saw you face-down.",
+      "start": 267.38,
+      "duration": 2.0
+    },
+    {
+      "text": "Eww, look at his pulsating brain.",
+      "start": 269.38,
+      "duration": 1.66
+    },
+    {
+      "text": "Arin: Yeah, that what he is, man. He's like a...",
+      "start": 271.04,
+      "duration": 1.98
+    },
+    {
+      "text": "Get out of here, fucking Navi, whatever.",
+      "start": 273.02,
+      "duration": 2.04
+    },
+    {
+      "text": "Dan: Yeah, like, she's helping you.",
+      "start": 275.06,
+      "duration": 1.54
+    },
+    {
+      "text": "Arin: Yeah, oh she's helping me, sure.",
+      "start": 276.6,
+      "duration": 1.94
+    },
+    {
+      "text": "She's more like she's annoying the heck out of me. Hahaha.",
+      "start": 279.04,
+      "duration": 2.44
+    },
+    {
+      "text": "Dan: Yeah, I can run into telephone poles face-first on my own, thank you very much.",
+      "start": 281.48,
+      "duration": 3.46
+    },
+    {
+      "text": "Arin: Yeah, I don't need instruction.",
+      "start": 284.94,
+      "duration": 1.88
+    },
+    {
+      "text": "Dan: You better get a ring, son.",
+      "start": 287.88,
+      "duration": 1.3
+    },
+    {
+      "text": "Okay.",
+      "start": 289.34,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Yeah, you got served.",
+      "start": 289.84,
+      "duration": 1.6
+    },
+    {
+      "text": "Dan: Served is a strong-",
+      "start": 292.24,
+      "duration": 1.22
+    },
+    {
+      "text": "Dan, as Sonic: Whoa!",
+      "start": 293.46,
+      "duration": 0.9
+    },
+    {
+      "text": "Arin: I go too fast for the camera. Watch this! Noho! I'm out the camera.",
+      "start": 294.5,
+      "duration": 2.62
+    },
+    {
+      "text": "Arin: Come on down here, baby.",
+      "start": 298.66,
+      "duration": 1.1
+    },
+    {
+      "text": "Dan: Oh man.",
+      "start": 300.02,
+      "duration": 1.08
+    },
+    {
+      "text": "Dan: Be careful of the fucking needle rain.",
+      "start": 302.62,
+      "duration": 2.04
+    },
+    {
+      "text": "Arin:  Oh, don't do that. Don't do that.",
+      "start": 305.16,
+      "duration": 1.9
+    },
+    {
+      "text": "Dan: I think when his brain is pink you can't do anything to him.",
+      "start": 308.06,
+      "duration": 2.92
+    },
+    {
+      "text": "Arin: Oh, I see",
+      "start": 310.98,
+      "duration": 0.68
+    },
+    {
+      "text": "Dan: Yeah.",
+      "start": 311.66,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Interesting.",
+      "start": 312.16,
+      "duration": 0.92
+    },
+    {
+      "text": "Arin: What are you doing, buddy? Oh, I can't get up there!",
+      "start": 313.98,
+      "duration": 2.46
+    },
+    {
+      "text": "Well I just can't get up there!",
+      "start": 317.58,
+      "duration": 1.44
+    },
+    {
+      "text": "Also, where are we?",
+      "start": 319.34,
+      "duration": 0.92
+    },
+    {
+      "text": "Dan: Yeah, what is happening?",
+      "start": 320.26,
+      "duration": 1.52
+    },
+    {
+      "text": "Also, I have a thousand questions.",
+      "start": 322.7,
+      "duration": 1.94
+    },
+    {
+      "text": "Arin: Uh, now you're dead? Yay!",
+      "start": 325.08,
+      "duration": 1.88
+    },
+    {
+      "text": "Dan: Yeah!",
+      "start": 326.96,
+      "duration": 0.64
+    },
+    {
+      "text": "Dan, as Sonic: YEAH YEAH YEAH YEAH",
+      "start": 327.64,
+      "duration": 0.88
+    },
+    {
+      "text": "*Both making weird Sonic noises*",
+      "start": 328.52,
+      "duration": 1.84
+    },
+    {
+      "text": "Arin: Sweet! I got one ring.",
+      "start": 332.48,
+      "duration": 1.38
+    },
+    {
+      "text": "*Both laughing*",
+      "start": 333.9,
+      "duration": 2.22
+    },
+    {
+      "text": "Dan, as Sonic: That's going on this finger!",
+      "start": 336.36,
+      "duration": 1.26
+    },
+    {
+      "text": "Dan: He just fucking flips off the camera.",
+      "start": 337.62,
+      "duration": 1.88
+    },
+    {
+      "text": "Arin: ooo, doens't it look like he's playing a keyboard?",
+      "start": 339.5,
+      "duration": 1.66
+    },
+    {
+      "text": "Dan: Yeah.",
+      "start": 341.16,
+      "duration": 0.58
+    },
+    {
+      "text": "*both making keyboard sounds*",
+      "start": 341.74,
+      "duration": 3.64
+    },
+    {
+      "text": "Dan, as Sonic: Yeah.",
+      "start": 347.08,
+      "duration": 0.86
+    },
+    {
+      "text": "Where the fuck do you think you're going?",
+      "start": 348.98,
+      "duration": 1.5
+    },
+    {
+      "text": "Arin, as Chaos: I'm gonna get eaten by these plants.",
+      "start": 350.54,
+      "duration": 1.24
+    },
+    {
+      "text": "*SHLURP*",
+      "start": 351.78,
+      "duration": 0.5
+    },
+    {
+      "text": "Oh, nevermind.",
+      "start": 352.4,
+      "duration": 1.06
+    },
+    {
+      "text": "I'm gonna Alex Mack out of here.",
+      "start": 353.68,
+      "duration": 1.22
+    },
+    {
+      "text": "Dan: He's with the feces now.",
+      "start": 354.9,
+      "duration": 1.6
+    },
+    {
+      "text": "Arin, as Chaos: Ah, oh Jesus! This was a horrible idea! *fart noise*",
+      "start": 357.68,
+      "duration": 2.28
+    },
+    {
+      "text": "Dan, as Sonic: My hands are huge!",
+      "start": 359.96,
+      "duration": 2.3
+    },
+    {
+      "text": "Arin: Well, there he goes.",
+      "start": 363.04,
+      "duration": 0.98
+    },
+    {
+      "text": "Dan: God, if you had arms and hands in that proportion no one would talk to you.",
+      "start": 364.7,
+      "duration": 4.36
+    },
+    {
+      "text": "Arin: Of course.",
+      "start": 369.06,
+      "duration": 1.04
+    },
+    {
+      "text": "Arin: And now starring Robotnik, as recorded in a bathroom.",
+      "start": 374.26,
+      "duration": 3.04
+    },
+    {
+      "text": "Dan: Having a seizure consistently.",
+      "start": 379.7,
+      "duration": 1.78
+    },
+    {
+      "text": "Arin: Do have, like, a cup in here? That, yeah...",
+      "start": 381.48,
+      "duration": 1.8
+    },
+    {
+      "text": "Dan: Yeah. Oh yeah, please do.",
+      "start": 383.28,
+      "duration": 1.66
+    },
+    {
+      "text": "Arin, into a cup: Your end is near, Sonic!",
+      "start": 386.24,
+      "duration": 2.76
+    },
+    {
+      "text": "If only we can afford a couple bits of soundproof foam",
+      "start": 389.38,
+      "duration": 4.32
+    },
+    {
+      "text": "In order to make this recording a little easier for us.",
+      "start": 393.82,
+      "duration": 3.5
+    },
+    {
+      "text": "*Dan saying something super muffled*",
+      "start": 397.32,
+      "duration": 1.6
+    },
+    {
+      "text": "Arin, still in a cup: Not only is my voice severely compressed, but I'm talking into an echo chamber!",
+      "start": 400.98,
+      "duration": 5.54
+    },
+    {
+      "text": "Dan: Ye-  What? Tails? Why you flying a biplane?",
+      "start": 406.52,
+      "duration": 3.38
+    },
+    {
+      "text": "*Both laughing*",
+      "start": 412.08,
+      "duration": 4.72
+    },
+    {
+      "text": "Arin: Oh my God, it created an earthquake.",
+      "start": 417.54,
+      "duration": 2.14
+    },
+    {
+      "text": "Dan: Yeah.",
+      "start": 419.68,
+      "duration": 0.54
+    },
+    {
+      "text": "Dan, as Sonic: Now that you're dead.",
+      "start": 421.4,
+      "duration": 1.44
+    },
+    {
+      "text": "Arin, as Sonic: What am I gonna do with your corpse?",
+      "start": 424.14,
+      "duration": 2.06
+    },
+    {
+      "text": "Ah, geez.",
+      "start": 427.34,
+      "duration": 1.2
+    },
+    {
+      "text": "Arin: Whoa, hey baby.",
+      "start": 428.7,
+      "duration": 0.78
+    },
+    {
+      "text": "Dan: Hey, girl.",
+      "start": 429.48,
+      "duration": 0.68
+    },
+    {
+      "text": "Arin: What's up?",
+      "start": 430.16,
+      "duration": 0.8
+    },
+    {
+      "text": "Dan: Did you just see my friend just die? I'm going through some hard times.",
+      "start": 430.96,
+      "duration": 2.88
+    },
+    {
+      "text": "I could probably use a little company, if you know what I mean.",
+      "start": 433.84,
+      "duration": 2.36
+    },
+    {
+      "text": "Arin: Whoa, did she just... weirdly shrink?!",
+      "start": 436.2,
+      "duration": 2.76
+    },
+    {
+      "text": "Dan: I don't know. What are you-",
+      "start": 439.2,
+      "duration": 0.9
+    },
+    {
+      "text": "Arin: AH",
+      "start": 440.1,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: Oh, whoa!",
+      "start": 440.6,
+      "duration": 0.92
+    },
+    {
+      "text": "Geez...",
+      "start": 441.94,
+      "duration": 0.86
+    },
+    {
+      "text": "Arin: Hey, little boy!",
+      "start": 442.94,
+      "duration": 0.88
+    },
+    {
+      "text": "Dan: Yeah...",
+      "start": 443.82,
+      "duration": 0.54
+    },
+    {
+      "text": "Arin: Okay.",
+      "start": 444.66,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: Whoa! Okay.",
+      "start": 445.16,
+      "duration": 1.32
+    },
+    {
+      "text": "Arin: Yeah, what if I was just like... I was just like...",
+      "start": 446.84,
+      "duration": 2.4
+    },
+    {
+      "text": "And they were like, 'No running! No running around the pool.'",
+      "start": 449.7,
+      "duration": 3.06
+    },
+    {
+      "text": "Arin: Oh, look. She sure looks like she's having a great time.",
+      "start": 453.76,
+      "duration": 1.88
+    },
+    {
+      "text": "Dan: I was just gonna say; you enjoying yourself? You're having a.. having a blast?",
+      "start": 455.64,
+      "duration": 4.08
+    },
+    {
+      "text": "God, man.",
+      "start": 460.6,
+      "duration": 0.54
+    },
+    {
+      "text": "Arin: It's like too fast for anybody.",
+      "start": 461.14,
+      "duration": 1.82
+    },
+    {
+      "text": "Dan, in a girly voice: What? What happened? I was swimming and I missed it.",
+      "start": 463.04,
+      "duration": 3.4
+    },
+    {
+      "text": "Arin: Really?",
+      "start": 466.64,
+      "duration": 0.74
+    },
+    {
+      "text": "Dan: What? What are you...",
+      "start": 467.38,
+      "duration": 0.98
+    },
+    {
+      "text": "Arin: Oh, she's talking about the plane crash.",
+      "start": 468.9,
+      "duration": 1.84
+    },
+    {
+      "text": "Dan: Right.",
+      "start": 470.74,
+      "duration": 0.5
+    },
+    {
+      "text": "Arin: Oh, I can talk to these people?",
+      "start": 471.24,
+      "duration": 1.12
+    },
+    {
+      "text": "Dan: Yeah, geez.",
+      "start": 472.36,
+      "duration": 1.0
+    },
+    {
+      "text": "Dan: Miss, would you and your identical twin like to spend a little time later?",
+      "start": 474.04,
+      "duration": 4.52
+    },
+    {
+      "text": "Arin: Just my luck! A monster appears, then a plane falls. I came here to relax. This is unbelievable.",
+      "start": 478.94,
+      "duration": 5.58
+    },
+    {
+      "text": "Arin: Yeah, man.",
+      "start": 485.0,
+      "duration": 0.84
+    },
+    {
+      "text": "It really looks like there's a whole lot going on here.",
+      "start": 486.34,
+      "duration": 2.56
+    },
+    {
+      "text": "Dan: Yeah, how will you fuckin unwind?",
+      "start": 488.9,
+      "duration": 2.52
+    },
+    {
+      "text": "Arin: Geez...",
+      "start": 491.96,
+      "duration": 0.66
+    },
+    {
+      "text": "Dan: With truly nothing happening?",
+      "start": 492.62,
+      "duration": 1.4
+    },
+    {
+      "text": "Arin: This camera is fucking horrible.",
+      "start": 494.02,
+      "duration": 2.02
+    },
+    {
+      "text": "Arin: Oh, sorry.",
+      "start": 497.04,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: Alright.",
+      "start": 497.54,
+      "duration": 0.58
+    },
+    {
+      "text": "Arin: What does the child want?",
+      "start": 498.12,
+      "duration": 1.14
+    },
+    {
+      "text": "Arin: I'm Mr. Know-it-all. Here's a clue.",
+      "start": 500.52,
+      "duration": 2.18
+    },
+    {
+      "text": "Grab the spinning rings, it's important.",
+      "start": 503.32,
+      "duration": 1.9
+    },
+    {
+      "text": "Arin: What is this whole dance he's doing?",
+      "start": 505.64,
+      "duration": 1.34
+    },
+    {
+      "text": "Dan: Are you shitting me?",
+      "start": 506.98,
+      "duration": 0.92
+    },
+    {
+      "text": "*The grumps drop a sick beat*",
+      "start": 509.7,
+      "duration": 3.02
+    },
+    {
+      "text": "Arin: As long as you've got the rings, you'll be okay, even if you hit any hazards.",
+      "start": 513.4,
+      "duration": 3.74
+    },
+    {
+      "text": "Now you know.",
+      "start": 517.14,
+      "duration": 0.8
+    },
+    {
+      "text": "Dan: You know, just like, fucking, a Sonic game.",
+      "start": 517.94,
+      "duration": 2.36
+    },
+    {
+      "text": "Arin: Oh, and don't worry if the view suddenly changes. It does that sometimes.",
+      "start": 520.66,
+      "duration": 3.54
+    },
+    {
+      "text": "Dan: We programmed that. We meant to do it.",
+      "start": 524.2,
+      "duration": 2.22
+    },
+    {
+      "text": "Arin: Just keep moving in the direction you want.",
+      "start": 526.42,
+      "duration": 1.98
+    },
+    {
+      "text": "Oh, and also...",
+      "start": 528.4,
+      "duration": 1.16
+    },
+    {
+      "text": "Dan: Yeah, don't worry if you fucking glitch out and disappear for 20 minutes",
+      "start": 529.56,
+      "duration": 3.34
+    },
+    {
+      "text": "That's uh... that's normal.",
+      "start": 532.9,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: Yeah, we did that on purpose. We obviously did that purpose, you idiot.",
+      "start": 534.9,
+      "duration": 3.54
+    },
+    {
+      "text": "Dan: Yeah.",
+      "start": 538.44,
+      "duration": 0.5
+    },
+    {
+      "text": "Dan: Meanwhile, the kid's actually like, 'I've got St. Vitus' Dance!!'",
+      "start": 539.44,
+      "duration": 3.42
+    },
+    {
+      "text": "'Get a doctor!'",
+      "start": 543.34,
+      "duration": 1.32
+    },
+    {
+      "text": "Arin: You've got what?",
+      "start": 545.9,
+      "duration": 1.26
+    },
+    {
+      "text": "Dan: St. Vitus' Dance?",
+      "start": 547.16,
+      "duration": 1.36
+    },
+    {
+      "text": "Arin, laughing: What is that?",
+      "start": 548.52,
+      "duration": 0.98
+    },
+    {
+      "text": "Dan: That is like that crazy, um...",
+      "start": 549.5,
+      "duration": 2.18
+    },
+    {
+      "text": "Oh, it's fucked up. It's a disease that, it was more...",
+      "start": 552.24,
+      "duration": 3.18
+    },
+    {
+      "text": "Dan: I was gonna say was more popular in medieval times. It was never popular.",
+      "start": 555.78,
+      "duration": 2.92
+    },
+    {
+      "text": "It was more prevalent in medieval times.",
+      "start": 559.12,
+      "duration": 1.84
+    },
+    {
+      "text": "But like, it essentially causes like, a seizure-like effect in the victims, and it looks like they're dancing",
+      "start": 561.28,
+      "duration": 5.46
+    },
+    {
+      "text": "But they're actually in great distress.",
+      "start": 566.74,
+      "duration": 2.46
+    },
+    {
+      "text": "Arin: Wow, so you actually do like moves and shit?",
+      "start": 569.58,
+      "duration": 2.16
+    },
+    {
+      "text": "Dan: Yeah yeah, well... I mean, it's not like you fucking moonwalk and shit.",
+      "start": 571.74,
+      "duration": 4.34
+    },
+    {
+      "text": "Arin: Yeah.",
+      "start": 576.08,
+      "duration": 0.58
+    },
+    {
+      "text": "Dan: Yeah, but if you just spasm and...",
+      "start": 576.8,
+      "duration": 2.12
+    },
+    {
+      "text": "Arin: Hoo-ah...",
+      "start": 578.92,
+      "duration": 0.54
+    },
+    {
+      "text": "Dan: Yeah.",
+      "start": 579.46,
+      "duration": 0.54
+    },
+    {
+      "text": "Arin: Man, I gotta look up a YouTube video of that.",
+      "start": 580.54,
+      "duration": 1.82
+    },
+    {
+      "text": "Dan: It's fucked up.",
+      "start": 582.36,
+      "duration": 0.78
+    },
+    {
+      "text": "Arin: It sounds fucked up.",
+      "start": 583.44,
+      "duration": 1.02
+    },
+    {
+      "text": "Dan: Yeah, but that kid had it.",
+      "start": 584.46,
+      "duration": 1.12
+    },
+    {
+      "text": "Dan: Whoa!!",
+      "start": 586.98,
+      "duration": 0.82
+    },
+    {
+      "text": "Arin: So I've seen the digital version of it.",
+      "start": 588.14,
+      "duration": 1.84
+    },
+    {
+      "text": "Dan: Oh, god.",
+      "start": 590.88,
+      "duration": 0.84
+    },
+    {
+      "text": "Arin: So here I am. I love how... I love how the kid is like 'Don't, don't...'",
+      "start": 591.86,
+      "duration": 3.88
+    },
+    {
+      "text": "'Don't mind it if the game, like, sucks at points because it was just, I mean...'",
+      "start": 596.08,
+      "duration": 4.28
+    },
+    {
+      "text": "Dan: Really ballsy of them to just come out and say that.",
+      "start": 600.36,
+      "duration": 3.02
+    },
+    {
+      "text": "Arin, laughing: Yeah...",
+      "start": 603.38,
+      "duration": 0.8
+    },
+    {
+      "text": "Dan: Whoooa-ho!! Whoa!",
+      "start": 605.16,
+      "duration": 2.54
+    },
+    {
+      "text": "Oh my God.",
+      "start": 608.06,
+      "duration": 1.04
+    },
+    {
+      "text": "Arin: Yeah, it's, uh...",
+      "start": 609.1,
+      "duration": 0.74
+    },
+    {
+      "text": "Dan: These games. How many of these were there?",
+      "start": 609.84,
+      "duration": 2.34
+    },
+    {
+      "text": "Arin: Oh, tons!",
+      "start": 612.18,
+      "duration": 1.1
+    },
+    {
+      "text": "Arin: I really don't, I don't know what just happened, but it did.",
+      "start": 614.84,
+      "duration": 2.88
+    },
+    {
+      "text": "Dan: Don't mind if everything goes blue and you die. I mean whatever, right?",
+      "start": 617.72,
+      "duration": 3.7
+    },
+    {
+      "text": "Arin: It's just a video game.",
+      "start": 622.48,
+      "duration": 1.56
+    },
+    {
+      "text": "Dan: We could only work so hard on this.",
+      "start": 624.04,
+      "duration": 2.1
+    },
+    {
+      "text": "Arin: Let me tr- ah, I did",
+      "start": 626.88,
+      "duration": 1.36
+    },
+    {
+      "text": "Dan: What the fuck?",
+      "start": 628.24,
+      "duration": 0.6
+    },
+    {
+      "text": "Arin: It happened again!",
+      "start": 628.84,
+      "duration": 1.18
+    },
+    {
+      "text": "Dan: Where are you falling?",
+      "start": 630.02,
+      "duration": 1.0
+    },
+    {
+      "text": "Arin: I'm... I'm not fall- I'm just running into the wall, and then suddenly I fucking...",
+      "start": 631.02,
+      "duration": 4.0
+    },
+    {
+      "text": "Dan: Can you slow it down there and see if there's anything that actually you're running into?",
+      "start": 635.58,
+      "duration": 4.04
+    },
+    {
+      "text": "Arin: It's just like, when you hit the wall...",
+      "start": 639.62,
+      "duration": 2.04
+    },
+    {
+      "text": "What the??",
+      "start": 642.06,
+      "duration": 0.74
+    },
+    {
+      "text": "*Dan laughing*",
+      "start": 642.8,
+      "duration": 1.6
+    },
+    {
+      "text": "Arin: Jesus Christ, man.",
+      "start": 644.4,
+      "duration": 2.44
+    },
+    {
+      "text": "This is unacceptable!!",
+      "start": 647.56,
+      "duration": 2.0
+    },
+    {
+      "text": "How do people defend this game?",
+      "start": 650.72,
+      "duration": 1.94
+    },
+    {
+      "text": "Dan: This is a retroactive outrage!",
+      "start": 652.66,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: Oh my God!",
+      "start": 654.66,
+      "duration": 1.66
+    },
+    {
+      "text": "Arin: What the fu- what the hell?",
+      "start": 656.6,
+      "duration": 1.66
+    },
+    {
+      "text": "Dan: It pulled you towards it?",
+      "start": 658.26,
+      "duration": 1.08
+    },
+    {
+      "text": "Oh, aw...",
+      "start": 659.74,
+      "duration": 0.84
+    },
+    {
+      "text": "Arin: Whoops.",
+      "start": 660.58,
+      "duration": 0.62
+    },
+    {
+      "text": "Both: Oh god...",
+      "start": 661.2,
+      "duration": 0.6
+    },
+    {
+      "text": "Arin: Whoa, there we go!",
+      "start": 661.84,
+      "duration": 1.38
+    },
+    {
+      "text": "Oh, Jesus!",
+      "start": 663.22,
+      "duration": 1.1
+    },
+    {
+      "text": "I'M UP HERE NOW",
+      "start": 664.38,
+      "duration": 1.68
+    },
+    {
+      "text": "How did I- WHOA",
+      "start": 666.88,
+      "duration": 1.02
+    },
+    {
+      "text": "Dan: Whoo!! Oh, next time on Game Grumps. This is gonna be good.",
+      "start": 667.9,
+      "duration": 5.2
+    },
+    {
+      "text": "*Arin losing it*",
+      "start": 673.54,
+      "duration": 1.8
+    },
+    {
+      "text": "Dan: Oh, Arin. What a gift you've given me on this day.",
+      "start": 675.34,
+      "duration": 3.48
+    },
+    {
+      "text": "Dan: Wow...",
+      "start": 682.52,
+      "duration": 0.98
+    },
+    {
+      "text": "Arin: Uhh, Sonic Boom, eat your heart out.",
+      "start": 683.76,
+      "duration": 1.74
+    },
+    {
+      "text": "Dan: Yeah, right? Fuck...",
+      "start": 685.5,
+      "duration": 1.58
+    },
+    {
+      "text": "It's like, Sonic... Sonic Boom wishes it could be this terrible.",
+      "start": 687.94,
+      "duration": 3.9
+    },
+    {
+      "text": "Arin: Oh, I know",
+      "start": 691.84,
+      "duration": 0.94
+    }
+  ]
+}

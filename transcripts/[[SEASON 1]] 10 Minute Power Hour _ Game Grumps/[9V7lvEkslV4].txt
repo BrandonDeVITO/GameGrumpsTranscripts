@@ -1,0 +1,1143 @@
+{
+  "video_id": "9V7lvEkslV4",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "*Glass smashes.*",
+      "start": 8.52,
+      "duration": 0.88
+    },
+    {
+      "text": "*More glass smashes*",
+      "start": 10.38,
+      "duration": 0.6
+    },
+    {
+      "text": "A: Hey everybody! Welcome to the Game Grumps 10 Minute Power Hour!",
+      "start": 11.14,
+      "duration": 2.9
+    },
+    {
+      "text": "D: Hello!",
+      "start": 14.04,
+      "duration": 0.52
+    },
+    {
+      "text": "A: My name's Arin and this is Dan.",
+      "start": 14.56,
+      "duration": 1.2
+    },
+    {
+      "text": "D: Hello.",
+      "start": 15.76,
+      "duration": 0.74
+    },
+    {
+      "text": "D: Oh, please no.",
+      "start": 17.0,
+      "duration": 0.88
+    },
+    {
+      "text": "D: Go ahead.",
+      "start": 18.38,
+      "duration": 0.5
+    },
+    {
+      "text": "D: This show's unscripted, by the way. Did we mention that?",
+      "start": 18.88,
+      "duration": 2.44
+    },
+    {
+      "text": "A: Do you wanna start it over?",
+      "start": 21.32,
+      "duration": 1.08
+    },
+    {
+      "text": "A: Hey! Welcome to the Game Grumps 10 Minute Power Hour!",
+      "start": 22.4,
+      "duration": 2.06
+    },
+    {
+      "text": "A: My name's Arin and this is Dan!",
+      "start": 24.46,
+      "duration": 1.26
+    },
+    {
+      "text": "D: Hello!",
+      "start": 25.72,
+      "duration": 1.1
+    },
+    {
+      "text": "A: Today we're gonna be talking about things and we're gonna be doing things.",
+      "start": 26.82,
+      "duration": 2.0
+    },
+    {
+      "text": "A: I don't know what because this is the first one.",
+      "start": 28.82,
+      "duration": 2.0
+    },
+    {
+      "text": "A: But we're gonna have a good time! What do ya think of that?",
+      "start": 30.82,
+      "duration": 1.76
+    },
+    {
+      "text": "D: I'm excited!",
+      "start": 32.58,
+      "duration": 0.94
+    },
+    {
+      "text": "A: I was asking the audience..",
+      "start": 33.52,
+      "duration": 2.58
+    },
+    {
+      "text": "D: I'm still excited!",
+      "start": 36.66,
+      "duration": 1.4
+    },
+    {
+      "text": "A: Well that's good atleast.",
+      "start": 38.06,
+      "duration": 1.14
+    },
+    {
+      "text": "A: Dan guess what?",
+      "start": 39.2,
+      "duration": 0.78
+    },
+    {
+      "text": "D: What Arin?",
+      "start": 39.98,
+      "duration": 0.64
+    },
+    {
+      "text": "A: I have a challenge for you.",
+      "start": 40.74,
+      "duration": 1.02
+    },
+    {
+      "text": "D: A challenge?",
+      "start": 41.76,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Yea.",
+      "start": 42.26,
+      "duration": 0.5
+    },
+    {
+      "text": "D: What kind of challenge?",
+      "start": 42.76,
+      "duration": 1.08
+    },
+    {
+      "text": "D: That was mine..",
+      "start": 46.82,
+      "duration": 0.5
+    },
+    {
+      "text": "A: It's the other one.",
+      "start": 47.32,
+      "duration": 0.78
+    },
+    {
+      "text": "D: Oh.",
+      "start": 48.1,
+      "duration": 0.32
+    },
+    {
+      "text": "A: Oh wait, n-no it's both sides.",
+      "start": 48.42,
+      "duration": 1.7
+    },
+    {
+      "text": "D: Star Wars?",
+      "start": 50.12,
+      "duration": 0.52
+    },
+    {
+      "text": "A: It's the LEGOs.",
+      "start": 50.64,
+      "duration": 1.06
+    },
+    {
+      "text": "D: What the fuck is that??",
+      "start": 51.7,
+      "duration": 1.1
+    },
+    {
+      "text": "A: So check it. You see how there's 2 different kinds of legos?",
+      "start": 52.8,
+      "duration": 2.7
+    },
+    {
+      "text": "A: There's ones that -",
+      "start": 56.88,
+      "duration": 0.62
+    },
+    {
+      "text": "D: *reading the instructions in another language*",
+      "start": 57.5,
+      "duration": 3.84
+    },
+    {
+      "text": "A: Alright, well I don't really appreciate that you're making fun of other people's languages and heritages.",
+      "start": 61.34,
+      "duration": 4.24
+    },
+    {
+      "text": "A: That's kind of uncool.",
+      "start": 66.32,
+      "duration": 0.88
+    },
+    {
+      "text": "D: I'm just reading the words man..",
+      "start": 67.2,
+      "duration": 1.36
+    },
+    {
+      "text": "A: So the object of this is simple.",
+      "start": 68.56,
+      "duration": 2.0
+    },
+    {
+      "text": "A: We are going to be building the two star ships, on our own.",
+      "start": 70.56,
+      "duration": 3.6
+    },
+    {
+      "text": "A: And whoever can beat the other one the fastest by putting together the star ship wins.",
+      "start": 74.16,
+      "duration": 5.44
+    },
+    {
+      "text": "D: Are you serious?",
+      "start": 79.92,
+      "duration": 0.72
+    },
+    {
+      "text": "A: Mmhmm~",
+      "start": 80.64,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Yea.",
+      "start": 82.42,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Are there instructions on how to do it?",
+      "start": 82.92,
+      "duration": 1.02
+    },
+    {
+      "text": "A: Of course there are.",
+      "start": 83.94,
+      "duration": 0.9
+    },
+    {
+      "text": "D: I've never -",
+      "start": 84.84,
+      "duration": 0.5
+    },
+    {
+      "text": "D: I've never put together a lego thing in my life.",
+      "start": 85.58,
+      "duration": 2.06
+    },
+    {
+      "text": "A: Are you dead freakin' serious?",
+      "start": 87.82,
+      "duration": 1.5
+    },
+    {
+      "text": "D: I'm so serious!",
+      "start": 89.32,
+      "duration": 1.52
+    },
+    {
+      "text": "D: Oh god..",
+      "start": 91.96,
+      "duration": 0.5
+    },
+    {
+      "text": "A: You just gotta follow the instructions one by one.",
+      "start": 92.7,
+      "duration": 2.0
+    },
+    {
+      "text": "A: It's just... it's the simplest.",
+      "start": 94.7,
+      "duration": 1.78
+    },
+    {
+      "text": "D: That does NOT look simple.",
+      "start": 96.48,
+      "duration": 1.26
+    },
+    {
+      "text": "A: It's literally made for children.",
+      "start": 97.74,
+      "duration": 2.88
+    },
+    {
+      "text": "D: Who's gonna fight for the rebels and who's gonna fight for the empire?",
+      "start": 100.62,
+      "duration": 3.26
+    },
+    {
+      "text": "A: Okay, loser rock paper scissors.",
+      "start": 103.88,
+      "duration": 1.72
+    },
+    {
+      "text": "D: Fights for which?",
+      "start": 105.6,
+      "duration": 0.84
+    },
+    {
+      "text": "A: Gets to be the bad guys.",
+      "start": 106.44,
+      "duration": 0.98
+    },
+    {
+      "text": "D: Oh okay.",
+      "start": 107.42,
+      "duration": 0.6
+    },
+    {
+      "text": "A: mkay.",
+      "start": 108.02,
+      "duration": 0.5
+    },
+    {
+      "text": "(a lot of rock, paper, scissors fighting)",
+      "start": 109.78,
+      "duration": 6.9
+    },
+    {
+      "text": "D: JESUS CHRIST!",
+      "start": 116.68,
+      "duration": 0.92
+    },
+    {
+      "text": "(oh look more battling)",
+      "start": 117.6,
+      "duration": 4.16
+    },
+    {
+      "text": "D: FUCK!",
+      "start": 121.76,
+      "duration": 0.5
+    },
+    {
+      "text": "A: I followed your pattern!",
+      "start": 123.36,
+      "duration": 0.88
+    },
+    {
+      "text": "D: Alright yea well -",
+      "start": 124.24,
+      "duration": 0.92
+    },
+    {
+      "text": "D: Alright...",
+      "start": 125.92,
+      "duration": 0.5
+    },
+    {
+      "text": "A: I'm sure this won't be annoying on the microphone.",
+      "start": 126.56,
+      "duration": 1.92
+    },
+    {
+      "text": "D: How does it sound?",
+      "start": 129.7,
+      "duration": 0.6
+    },
+    {
+      "text": "D: Tucker, uh, our friend who's filming this just actually clutched",
+      "start": 131.38,
+      "duration": 4.28
+    },
+    {
+      "text": "D: His ears, as if to suggest that it's painful.",
+      "start": 136.18,
+      "duration": 3.18
+    },
+    {
+      "text": "A: I'm just gonna lay it all out on the table dude.",
+      "start": 139.36,
+      "duration": 2.24
+    },
+    {
+      "text": "D: Okay.",
+      "start": 141.6,
+      "duration": 0.5
+    },
+    {
+      "text": "A: You got the Kylo Ren lightsaber?",
+      "start": 142.1,
+      "duration": 0.98
+    },
+    {
+      "text": "D: Yea!",
+      "start": 143.08,
+      "duration": 0.68
+    },
+    {
+      "text": "D: And his hair! Look at that!",
+      "start": 143.76,
+      "duration": 1.74
+    },
+    {
+      "text": "D: Now my finger's all beefy",
+      "start": 145.5,
+      "duration": 2.0
+    },
+    {
+      "text": "D: He's got the sword!",
+      "start": 148.4,
+      "duration": 0.52
+    },
+    {
+      "text": "D: Could you put on a cowel? (???)",
+      "start": 149.88,
+      "duration": 1.5
+    },
+    {
+      "text": "A: Let's do this Dan!",
+      "start": 151.8,
+      "duration": 1.3
+    },
+    {
+      "text": "D: Let's do it!",
+      "start": 153.1,
+      "duration": 0.5
+    },
+    {
+      "text": "A: I'm gonna beat the shit out of you!",
+      "start": 153.6,
+      "duration": 1.32
+    },
+    {
+      "text": "D: Fuck you man!",
+      "start": 154.92,
+      "duration": 0.66
+    },
+    {
+      "text": "D: I'm gonna - OH  NO!",
+      "start": 155.82,
+      "duration": 0.78
+    },
+    {
+      "text": "A: God, it's so difficult to find all the pieces that I need..",
+      "start": 156.8,
+      "duration": 2.96
+    },
+    {
+      "text": "D: Dude, I'm already like way ahead of you.",
+      "start": 160.4,
+      "duration": 1.66
+    },
+    {
+      "text": "A: Are you fucking kidding me right now?",
+      "start": 162.06,
+      "duration": 1.54
+    },
+    {
+      "text": "A: WHERE IS THIS PIECE?!",
+      "start": 163.6,
+      "duration": 0.96
+    },
+    {
+      "text": "D: Mmhmm ~",
+      "start": 164.56,
+      "duration": 0.5
+    },
+    {
+      "text": "A: DID YOU STEAL MY PIECE?!",
+      "start": 165.06,
+      "duration": 1.12
+    },
+    {
+      "text": "D: No! What??",
+      "start": 166.18,
+      "duration": 1.06
+    },
+    {
+      "text": "A: You are a asshole!",
+      "start": 167.24,
+      "duration": 1.0
+    },
+    {
+      "text": "D: Our pieces are different colours, you fucking psycho!",
+      "start": 168.24,
+      "duration": 2.2
+    },
+    {
+      "text": "A: No you -",
+      "start": 170.44,
+      "duration": 0.5
+    },
+    {
+      "text": "A: How are you so far ahead??",
+      "start": 170.94,
+      "duration": 1.02
+    },
+    {
+      "text": "D: Bro I'm killin' it!",
+      "start": 171.96,
+      "duration": 0.86
+    },
+    {
+      "text": "A: You said you've never put together LEGO pieces before!",
+      "start": 172.82,
+      "duration": 2.1
+    },
+    {
+      "text": "A: I think you are a liar.",
+      "start": 174.92,
+      "duration": 1.34
+    },
+    {
+      "text": "D: What happens when um... uuuh we win? Like...",
+      "start": 176.26,
+      "duration": 3.1
+    },
+    {
+      "text": "A: Yea I uh, I get to fart in your face.",
+      "start": 179.52,
+      "duration": 2.84
+    },
+    {
+      "text": "D: That's not.. I would not have agreed to that.",
+      "start": 182.36,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Either one, if we win or lose.",
+      "start": 184.36,
+      "duration": 2.58
+    },
+    {
+      "text": "A: I get to fart directly onto your mouth.",
+      "start": 187.44,
+      "duration": 2.32
+    },
+    {
+      "text": "D: What kind of show is this?!",
+      "start": 193.16,
+      "duration": 2.06
+    },
+    {
+      "text": "A: OH MY GOD WHAT IS THIS?!",
+      "start": 195.96,
+      "duration": 1.28
+    },
+    {
+      "text": "D: I'm killin' it bro.",
+      "start": 197.24,
+      "duration": 1.32
+    },
+    {
+      "text": "A: You're not - this isn't -",
+      "start": 198.56,
+      "duration": 1.04
+    },
+    {
+      "text": "D: STOP CHECKING MY WORK!",
+      "start": 199.6,
+      "duration": 1.18
+    },
+    {
+      "text": "D: I'm gonna create an incredible X-Wing.",
+      "start": 200.78,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Or the bad guy version of that..",
+      "start": 203.18,
+      "duration": 2.0
+    },
+    {
+      "text": "D: No the bad guys do fly the X-Wings right?",
+      "start": 205.18,
+      "duration": 2.0
+    },
+    {
+      "text": "D: No they fly the...the ones that look like hairdryers.",
+      "start": 207.44,
+      "duration": 3.18
+    },
+    {
+      "text": "A: Have you even seen Star Wars?",
+      "start": 210.62,
+      "duration": 1.38
+    },
+    {
+      "text": "D: Of course I have! It's with Captain Kirk and Falcor the Luck Dragon.",
+      "start": 212.0,
+      "duration": 3.72
+    },
+    {
+      "text": "D: Stop trying to distract bro.",
+      "start": 217.08,
+      "duration": 1.34
+    },
+    {
+      "text": "A: Yea, that was my plan all along!",
+      "start": 218.42,
+      "duration": 1.56
+    },
+    {
+      "text": "D: Just cuz I'm crusin' right now.",
+      "start": 219.98,
+      "duration": 1.56
+    },
+    {
+      "text": "D: It's time to start putting together Kylo Ren.",
+      "start": 221.54,
+      "duration": 1.8
+    },
+    {
+      "text": "A: What??",
+      "start": 223.34,
+      "duration": 0.6
+    },
+    {
+      "text": "D: He's so angry!",
+      "start": 223.94,
+      "duration": 0.5
+    },
+    {
+      "text": "A: You're already at Kylo Ren??",
+      "start": 224.44,
+      "duration": 1.38
+    },
+    {
+      "text": "D: Hell yea I am!",
+      "start": 225.82,
+      "duration": 0.78
+    },
+    {
+      "text": "A: I haven't even started - I haven't even finished my ship yet!",
+      "start": 226.6,
+      "duration": 2.72
+    },
+    {
+      "text": "D: Dude he's coming together beautifully, although I've..",
+      "start": 229.32,
+      "duration": 2.74
+    },
+    {
+      "text": "D: Definitely lost his legs..",
+      "start": 232.06,
+      "duration": 1.8
+    },
+    {
+      "text": "D: Bro -",
+      "start": 233.86,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Man you got like a canon character, I got like- I got like Forest Mcgee the Flight Pilot.",
+      "start": 234.36,
+      "duration": 3.92
+    },
+    {
+      "text": "D: What happened to Wedge?",
+      "start": 239.14,
+      "duration": 1.16
+    },
+    {
+      "text": "D: Why wasn't he in the new ones?",
+      "start": 240.3,
+      "duration": 1.48
+    },
+    {
+      "text": "A: I think Wedge died..",
+      "start": 241.78,
+      "duration": 1.14
+    },
+    {
+      "text": "D: Wedge didn't die!",
+      "start": 242.92,
+      "duration": 1.1
+    },
+    {
+      "text": "A: Wedge died in one of them, didn't he?",
+      "start": 244.02,
+      "duration": 1.42
+    },
+    {
+      "text": "D: No he survived!",
+      "start": 245.44,
+      "duration": 1.26
+    },
+    {
+      "text": "D: That's the whole reason people love Wedge cuz they're like \"why did this guy live?\"",
+      "start": 246.7,
+      "duration": 3.88
+    },
+    {
+      "text": "A: Maybe he got like PTSD from all that fuckin' stress.",
+      "start": 250.66,
+      "duration": 3.26
+    },
+    {
+      "text": "D: I thought you were gonna say-",
+      "start": 253.92,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Blowin' up the Death Star and shit.",
+      "start": 254.42,
+      "duration": 1.02
+    },
+    {
+      "text": "D: Thought you were gonna say from all that fuckin'.",
+      "start": 255.44,
+      "duration": 1.26
+    },
+    {
+      "text": "A: I mean, look at fuckin' -",
+      "start": 258.3,
+      "duration": 1.2
+    },
+    {
+      "text": "(spoiler redacted)",
+      "start": 259.5,
+      "duration": 0.86
+    },
+    {
+      "text": "A: I mean, no spoilers..",
+      "start": 260.82,
+      "duration": 1.12
+    },
+    {
+      "text": "A: C-cut that out..",
+      "start": 263.14,
+      "duration": 0.5
+    },
+    {
+      "text": "D: None taken!",
+      "start": 263.64,
+      "duration": 0.66
+    },
+    {
+      "text": "A: I'm on Step 22!",
+      "start": 264.3,
+      "duration": 1.08
+    },
+    {
+      "text": "D: Well...I'm on...",
+      "start": 266.06,
+      "duration": 2.0
+    },
+    {
+      "text": "A: You can't just make shit up..",
+      "start": 269.0,
+      "duration": 1.22
+    },
+    {
+      "text": "D: 34.",
+      "start": 270.22,
+      "duration": 0.72
+    },
+    {
+      "text": "A: That's not how it works.",
+      "start": 270.94,
+      "duration": 1.04
+    },
+    {
+      "text": "A: You skipped ahead I saw you do it.",
+      "start": 271.98,
+      "duration": 2.0
+    },
+    {
+      "text": "D: You...well why are you lookin' at my thing? ( ( ͡° ͜ʖ ͡°) )",
+      "start": 273.98,
+      "duration": 1.8
+    },
+    {
+      "text": "A: I wasn't! I was doing it with -",
+      "start": 275.78,
+      "duration": 0.9
+    },
+    {
+      "text": "D: Is it cuz you're..super insecure?",
+      "start": 276.68,
+      "duration": 1.66
+    },
+    {
+      "text": "D: About what you're doing over there?",
+      "start": 278.9,
+      "duration": 0.98
+    },
+    {
+      "text": "A: NO! I saw it out of my periphery.",
+      "start": 279.88,
+      "duration": 2.2
+    },
+    {
+      "text": "D: It sounds like it...",
+      "start": 282.08,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Which is strong by the way!",
+      "start": 282.58,
+      "duration": 1.5
+    },
+    {
+      "text": "A: Which means I would be a good hunter!",
+      "start": 284.38,
+      "duration": 1.56
+    },
+    {
+      "text": "A: In the wild.",
+      "start": 286.54,
+      "duration": 0.84
+    },
+    {
+      "text": "A: woahwoahwoahwoahwoah.",
+      "start": 287.38,
+      "duration": 1.36
+    },
+    {
+      "text": "A: Did I miss a part?",
+      "start": 288.74,
+      "duration": 0.88
+    },
+    {
+      "text": "D: Looks like someone's not as done as they thought they were ~",
+      "start": 290.4,
+      "duration": 2.0
+    },
+    {
+      "text": "A: I skipped ahead. Just like you. Asshole.",
+      "start": 294.04,
+      "duration": 2.08
+    },
+    {
+      "text": "D: What do you mean?",
+      "start": 296.28,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Hmm?",
+      "start": 296.78,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Cheater says what?",
+      "start": 297.66,
+      "duration": 1.04
+    },
+    {
+      "text": "D: Cheater says...",
+      "start": 298.86,
+      "duration": 1.54
+    },
+    {
+      "text": "D: Oh fuck. Oh it's all falling apart for me.",
+      "start": 300.4,
+      "duration": 2.12
+    },
+    {
+      "text": "A: Aah! NA!",
+      "start": 302.52,
+      "duration": 1.36
+    },
+    {
+      "text": "A:~ I'm so close ~",
+      "start": 306.48,
+      "duration": 1.92
+    },
+    {
+      "text": "A:~ Oooh pray for meeee! ~",
+      "start": 309.14,
+      "duration": 1.12
+    },
+    {
+      "text": "A:~ Mother! Father! ~",
+      "start": 310.26,
+      "duration": 1.26
+    },
+    {
+      "text": "A: (unintelligible)",
+      "start": 312.02,
+      "duration": 0.9
+    },
+    {
+      "text": "D: Done!",
+      "start": 316.74,
+      "duration": 0.56
+    },
+    {
+      "text": "D: Nailed it!",
+      "start": 318.3,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Yea baby!!",
+      "start": 322.0,
+      "duration": 1.54
+    },
+    {
+      "text": "D: Zoom it in!",
+      "start": 323.68,
+      "duration": 1.1
+    },
+    {
+      "text": "D: The Star Wars Series 5 Micro Fighter!",
+      "start": 324.98,
+      "duration": 3.5
+    },
+    {
+      "text": "D: Complete",
+      "start": 328.48,
+      "duration": 1.52
+    },
+    {
+      "text": "A: I'm just gonna...just gonna keep workin' on this one..",
+      "start": 330.0,
+      "duration": 2.08
+    },
+    {
+      "text": "D: Oh man..",
+      "start": 332.08,
+      "duration": 1.2
+    },
+    {
+      "text": "D: So here's Kylo Ren, and different faces!",
+      "start": 333.36,
+      "duration": 3.26
+    },
+    {
+      "text": "D: Now he's merely perturbed Kylo Ren.",
+      "start": 337.24,
+      "duration": 3.06
+    },
+    {
+      "text": "D: Oh? There we go!",
+      "start": 340.3,
+      "duration": 1.74
+    },
+    {
+      "text": "D: There are a couple pieces left over, I don't know why exactly, but.. all that matters",
+      "start": 342.18,
+      "duration": 5.08
+    },
+    {
+      "text": "D: Is that the Series 5 Micro Fighter is complete, I won and now I get to.. I believe it was shit on Arin? Is that what it is?",
+      "start": 347.26,
+      "duration": 8.12
+    },
+    {
+      "text": "A: That's a disqualification right there.",
+      "start": 359.88,
+      "duration": 2.0
+    },
+    {
+      "text": "D: I'm just acting out the scene and now Kylo Ren gets up and he's like:",
+      "start": 362.52,
+      "duration": 3.38
+    },
+    {
+      "text": "D: \"Aw fuck my sword.\"",
+      "start": 369.96,
+      "duration": 1.12
+    },
+    {
+      "text": "A: Is that a disqualification Vernon?",
+      "start": 371.08,
+      "duration": 2.0
+    },
+    {
+      "text": "A: Are you the judge on this?",
+      "start": 373.3,
+      "duration": 1.46
+    },
+    {
+      "text": "V: Um...",
+      "start": 374.76,
+      "duration": 1.58
+    },
+    {
+      "text": "D: OH NO KYLO REN!",
+      "start": 376.34,
+      "duration": 1.54
+    },
+    {
+      "text": "A: DON'T STEAL MY SHIP!!",
+      "start": 377.88,
+      "duration": 1.14
+    },
+    {
+      "text": "A: NO!!!",
+      "start": 379.02,
+      "duration": 0.8
+    },
+    {
+      "text": "A: This is Rey after she recieves Jedi cyborg training.",
+      "start": 383.28,
+      "duration": 4.62
+    },
+    {
+      "text": "A: She stole the ship back!",
+      "start": 391.5,
+      "duration": 1.06
+    },
+    {
+      "text": "D: I'm no longer fully clear on who's farting on who.",
+      "start": 392.56,
+      "duration": 2.7
+    },
+    {
+      "text": "A: There's...Dan that was a joke. There's no farting.",
+      "start": 395.26,
+      "duration": 3.44
+    },
+    {
+      "text": "D: WHAT THE FUCK ARE WE DOING THIS FOR?!",
+      "start": 399.8,
+      "duration": 1.84
+    },
+    {
+      "text": "D: This show's stupid.",
+      "start": 403.94,
+      "duration": 1.12
+    },
+    {
+      "text": "A: I'm just tryna fuckin' finish my thing, you-you're really like comin' down on me and I kinda don't appreciate it to be perfectly honest with you.",
+      "start": 405.06,
+      "duration": 6.72
+    },
+    {
+      "text": "D: It's gonna be difficult to finish your thing without your pilot's head.",
+      "start": 411.78,
+      "duration": 2.88
+    },
+    {
+      "text": "A: I got my ship it looks like a fucking ship already.",
+      "start": 416.4,
+      "duration": 2.44
+    },
+    {
+      "text": "A: It looks like a ship! A CHILD WOULD PLAY WITH THIS AND APPRECIATE IT FOR WHAT IT IS!",
+      "start": 418.84,
+      "duration": 4.96
+    },
+    {
+      "text": "A: AND THEY COULD GET A BUNCH OF OTHER LITTLE LEGO PARTS AND BE LIKE",
+      "start": 423.8,
+      "duration": 3.0
+    },
+    {
+      "text": "\"Oh look it's a thing that makes it go faster!\"",
+      "start": 426.8,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Oh dude! Can I see that for a second?",
+      "start": 428.8,
+      "duration": 1.5
+    },
+    {
+      "text": "D: Next up on the Game Grumps 10 Minute Power Hour-",
+      "start": 432.56,
+      "duration": 2.38
+    },
+    {
+      "text": "D: I don't know if this table's steady.",
+      "start": 436.5,
+      "duration": 1.26
+    },
+    {
+      "text": "A: Dan completed his first, however I think mine was more accurate.",
+      "start": 444.82,
+      "duration": 4.58
+    },
+    {
+      "text": "A: Vernon I'll let you be the judge of who is the winner of that competition.",
+      "start": 451.16,
+      "duration": 3.3
+    },
+    {
+      "text": "A: This is mine.",
+      "start": 454.46,
+      "duration": 2.0
+    },
+    {
+      "text": "A: And this was Dan's.",
+      "start": 456.78,
+      "duration": 1.88
+    },
+    {
+      "text": "V: The v- the viewers win.",
+      "start": 460.6,
+      "duration": 1.02
+    },
+    {
+      "text": "A: I'm sorry?",
+      "start": 463.18,
+      "duration": 0.5
+    },
+    {
+      "text": "V: The v- the viewers win.",
+      "start": 464.66,
+      "duration": 3.6
+    },
+    {
+      "text": "A: See, I don't.. I don't really accept that as an answer.",
+      "start": 468.26,
+      "duration": 2.0
+    },
+    {
+      "text": "D: No, me neither. Er, Tyler can you.. can you decide this for us?",
+      "start": 470.26,
+      "duration": 4.38
+    },
+    {
+      "text": "T: I think Dan had it.",
+      "start": 475.1,
+      "duration": 0.7
+    },
+    {
+      "text": "D: YEA!!",
+      "start": 476.7,
+      "duration": 1.64
+    },
+    {
+      "text": "D: THAT'S MY BOY!",
+      "start": 478.34,
+      "duration": 1.5
+    },
+    {
+      "text": "A: HE JUST PUT PIECES TOGETHER AND DIDN'T EVEN DO ANYTHING!",
+      "start": 480.02,
+      "duration": 2.56
+    },
+    {
+      "text": "D: Dude Tyler is my best friend in the world!",
+      "start": 482.58,
+      "duration": 2.24
+    },
+    {
+      "text": "A: His name's Timmy dude..",
+      "start": 485.34,
+      "duration": 0.76
+    },
+    {
+      "text": "D: Eventually we're just gonna ask you guys what you wanna see from this show, but in the meantime we're just gonna do some random shit.",
+      "start": 486.72,
+      "duration": 5.18
+    }
+  ]
+}

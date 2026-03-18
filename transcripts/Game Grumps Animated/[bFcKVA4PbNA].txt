@@ -1,0 +1,233 @@
+{
+  "video_id": "bFcKVA4PbNA",
+  "language": "Danish",
+  "language_code": "da",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "*beepity-beep*",
+      "start": 0.0,
+      "duration": 0.66
+    },
+    {
+      "text": "*buub*",
+      "start": 0.66,
+      "duration": 0.56
+    },
+    {
+      "text": "Dan: [Gisp, hvisker] Jordskælvs hammeren!",
+      "start": 2.92,
+      "duration": 1.18
+    },
+    {
+      "text": "Arin: Oh, Du fik den...",
+      "start": 4.34,
+      "duration": 0.96
+    },
+    {
+      "text": "D: Sådan",
+      "start": 5.34,
+      "duration": 0.88
+    },
+    {
+      "text": "Den er så meget bedre",
+      "start": 6.92,
+      "duration": 1.04
+    },
+    {
+      "text": "Okay, dræber!",
+      "start": 8.0,
+      "duration": 0.76
+    },
+    {
+      "text": "A: Så nu kan du fucke de der fyre op.",
+      "start": 8.86,
+      "duration": 1.38
+    },
+    {
+      "text": "D: Heh... fader, hvorfor har du taget hammeren med?",
+      "start": 10.84,
+      "duration": 2.58
+    },
+    {
+      "text": "Den fuckin... Jeg--",
+      "start": 13.66,
+      "duration": 1.28
+    },
+    {
+      "text": "Jeg kan ikke stoppe med at spille den øhm...",
+      "start": 15.56,
+      "duration": 1.92
+    },
+    {
+      "text": "den karakter",
+      "start": 17.48,
+      "duration": 0.78
+    },
+    {
+      "text": "D: Thom--A: Fader...",
+      "start": 19.16,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Thomas.",
+      "start": 19.82,
+      "duration": 0.56
+    },
+    {
+      "text": "Den  18 århundredes dreng...",
+      "start": 20.76,
+      "duration": 1.26
+    },
+    {
+      "text": "... der ikke indser at han er ved at blive dræbt af sin far.",
+      "start": 22.02,
+      "duration": 2.36
+    },
+    {
+      "text": "[Latter]",
+      "start": 24.56,
+      "duration": 0.8
+    },
+    {
+      "text": "Jeg har da fortalt om ham, Ik´?",
+      "start": 25.44,
+      "duration": 1.26
+    },
+    {
+      "text": "A: Ja",
+      "start": 26.7,
+      "duration": 0.56
+    },
+    {
+      "text": "D: Vi har bestemt sejlet langt ud i havet, Fader",
+      "start": 28.14,
+      "duration": 2.72
+    },
+    {
+      "text": "skal vi ud og svømme i dag?",
+      "start": 30.86,
+      "duration": 1.94
+    },
+    {
+      "text": "men jeg har ikke bragt mit badetøj med mig.",
+      "start": 32.8,
+      "duration": 2.02
+    },
+    {
+      "text": "[stille latter]",
+      "start": 35.1,
+      "duration": 2.76
+    },
+    {
+      "text": "A: Det eneste badetøj du får brug får er...",
+      "start": 38.1,
+      "duration": 1.58
+    },
+    {
+      "text": "CEMENT SKO.",
+      "start": 39.68,
+      "duration": 0.74
+    },
+    {
+      "text": "D: Jeg mener...",
+      "start": 40.54,
+      "duration": 0.5
+    },
+    {
+      "text": "A: men ville det ikke få mig til at synke, Fader",
+      "start": 41.32,
+      "duration": 1.52
+    },
+    {
+      "text": "D:  ja- Faderen snakker aldrig.",
+      "start": 42.84,
+      "duration": 1.54
+    },
+    {
+      "text": "A: Åh.",
+      "start": 44.64,
+      "duration": 0.5
+    },
+    {
+      "text": "D: Det er bare hints fra Thomas.",
+      "start": 45.5,
+      "duration": 2.2
+    },
+    {
+      "text": "[grin]",
+      "start": 48.22,
+      "duration": 2.48
+    },
+    {
+      "text": "Jeg elsker ham.",
+      "start": 51.18,
+      "duration": 0.72
+    },
+    {
+      "text": "Jeg elsker ham så meget.",
+      "start": 52.76,
+      "duration": 1.2
+    },
+    {
+      "text": "A: fader, vi er sandelig højt op.",
+      "start": 55.38,
+      "duration": 1.48
+    },
+    {
+      "text": "Og der er ikke nogen faldskærme...",
+      "start": 56.86,
+      "duration": 2.56
+    },
+    {
+      "text": "D: Faktisk er der ÉN Faldskærm...",
+      "start": 61.58,
+      "duration": 1.68
+    },
+    {
+      "text": "Men vi er to.",
+      "start": 63.28,
+      "duration": 1.68
+    },
+    {
+      "text": "Skulle vi dele faldskærmen. Fader?",
+      "start": 64.96,
+      "duration": 3.1
+    },
+    {
+      "text": "A: Og det er en voksen størrelse faldskærm...",
+      "start": 68.06,
+      "duration": 2.52
+    },
+    {
+      "text": "tror du at den ville passe mig med mine små arme?",
+      "start": 70.58,
+      "duration": 2.14
+    },
+    {
+      "text": "[endnu mere latter]",
+      "start": 72.72,
+      "duration": 1.16
+    },
+    {
+      "text": "D:[snøft]",
+      "start": 73.94,
+      "duration": 0.5
+    },
+    {
+      "text": "[indser]",
+      "start": 74.64,
+      "duration": 1.04
+    },
+    {
+      "text": "[slutnings musik]",
+      "start": 76.82,
+      "duration": 4.6
+    },
+    {
+      "text": "A: fade--",
+      "start": 83.94,
+      "duration": 0.5
+    }
+  ]
+}

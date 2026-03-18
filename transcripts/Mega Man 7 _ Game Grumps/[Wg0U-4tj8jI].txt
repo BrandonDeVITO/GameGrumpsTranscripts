@@ -1,0 +1,963 @@
+{
+  "video_id": "Wg0U-4tj8jI",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "[Arin] Hey, I'm grump",
+      "start": 0.06,
+      "duration": 0.92
+    },
+    {
+      "text": "[Dan] I'm not so grump",
+      "start": 0.98,
+      "duration": 1.22
+    },
+    {
+      "text": "[Both] And we're the game grumps!",
+      "start": 2.2,
+      "duration": 2.6
+    },
+    {
+      "text": "[Arin] Hi",
+      "start": 4.8,
+      "duration": 1.08
+    },
+    {
+      "text": "[Arin] fuckin welcome back",
+      "start": 5.88,
+      "duration": 1.08
+    },
+    {
+      "text": "[Dan] Hello!!",
+      "start": 7.06,
+      "duration": 0.9
+    },
+    {
+      "text": "[Arin] Welcome to game grumps",
+      "start": 8.02,
+      "duration": 0.88
+    },
+    {
+      "text": "[Dan] welcome to mega man, Arin wanted to play a game that would make him feel good",
+      "start": 9.04,
+      "duration": 3.54
+    },
+    {
+      "text": "[Arin] Mega Man 7 \n[Dan] Because he-yeah, you love this game",
+      "start": 12.68,
+      "duration": 3.18
+    },
+    {
+      "text": "[Arin] Now look, I know..",
+      "start": 16.02,
+      "duration": 0.98
+    },
+    {
+      "text": "[Arin] I've already played this a long time ago, but it's been a long time, and I just it's just been a long fucking day",
+      "start": 17.58,
+      "duration": 6.8
+    },
+    {
+      "text": "[Arin] It's been a long week.",
+      "start": 24.38,
+      "duration": 1.414
+    },
+    {
+      "text": "[Dan] It's been five years. Dude. It's it's okay. You can play a game again.",
+      "start": 25.794,
+      "duration": 3.706
+    },
+    {
+      "text": "[Arin] Well, I mean- [Dan] you can play whatever game you want!",
+      "start": 29.52,
+      "duration": 1.5
+    },
+    {
+      "text": "[Arin] You're right. \n[Dan] You're a grown-ass man.",
+      "start": 31.72,
+      "duration": 2.14
+    },
+    {
+      "text": "[Arin] In the year- \n[Dan]  You're forty",
+      "start": 33.86,
+      "duration": 1.28
+    },
+    {
+      "text": "[Arin] -twenty hundred thousand A.D.",
+      "start": 35.14,
+      "duration": 1.22
+    },
+    {
+      "text": "[Dan] Bwehhhh!",
+      "start": 38.58,
+      "duration": 1.54
+    },
+    {
+      "text": "[Arin] I'm gonna barf on the world. *Vomiting sound*",
+      "start": 41.02,
+      "duration": 2.08
+    },
+    {
+      "text": "[Dan] Aaah!",
+      "start": 43.42,
+      "duration": 0.5
+    },
+    {
+      "text": "*both laugh*",
+      "start": 44.36,
+      "duration": 2.0
+    },
+    {
+      "text": "[Arin] The world cheered Mega Man went at long last he'd",
+      "start": 47.02,
+      "duration": 3.5
+    },
+    {
+      "text": "[Arin] Captured and imprisoned doctor wily. \n[Dan] Do they think English is our second language",
+      "start": 53.3,
+      "duration": 5.84
+    },
+    {
+      "text": "[Dan] Why this is so slow?",
+      "start": 59.48,
+      "duration": 1.78
+    },
+    {
+      "text": "[Arin] Apparently they don't think any language is our first language. This is  just fucking gibberish on the screen",
+      "start": 61.44,
+      "duration": 4.44
+    },
+    {
+      "text": "[Dan] Buuuuut",
+      "start": 65.88,
+      "duration": 2.28
+    },
+    {
+      "text": "[Arin] Say it loud",
+      "start": 69.88,
+      "duration": 2.0
+    },
+    {
+      "text": "[Dan] Dr.. Wily always knew his",
+      "start": 73.57,
+      "duration": 3.019
+    },
+    {
+      "text": "[Dan] gems might end in",
+      "start": 77.32,
+      "duration": 2.119
+    },
+    {
+      "text": "Money...?",
+      "start": 80.38,
+      "duration": 2.0
+    },
+    {
+      "text": "Fame and",
+      "start": 83.979,
+      "duration": 1.351
+    },
+    {
+      "text": "failure",
+      "start": 85.33,
+      "duration": 1.26
+    },
+    {
+      "text": "Had planned for just such an occasion",
+      "start": 86.59,
+      "duration": 3.62
+    },
+    {
+      "text": "Wait he knew that his shit would break. Yeah, yeah",
+      "start": 90.85,
+      "duration": 3.86
+    },
+    {
+      "text": "Four robots has been hidden away and after six months",
+      "start": 95.89,
+      "duration": 6.019
+    },
+    {
+      "text": "Why six months I don't fucking know?",
+      "start": 102.85,
+      "duration": 2.029
+    },
+    {
+      "text": "What's the deal with six months?",
+      "start": 105.52,
+      "duration": 2.0
+    },
+    {
+      "text": "Does that be contacted by dr. Willy?",
+      "start": 107.95,
+      "duration": 2.599
+    },
+    {
+      "text": "Isn't it Wiley? What the fuck?",
+      "start": 111.189,
+      "duration": 2.18
+    },
+    {
+      "text": "They call me dr. Willy my name is Willy Willy hmm",
+      "start": 120.939,
+      "duration": 4.76
+    },
+    {
+      "text": "oh",
+      "start": 126.42,
+      "duration": 0.88
+    },
+    {
+      "text": "Look at him go",
+      "start": 127.3,
+      "duration": 1.709
+    },
+    {
+      "text": "He's not actually that big. Hi..",
+      "start": 129.009,
+      "duration": 2.0
+    },
+    {
+      "text": "They make him look so big, but he's not that big. No? that is weird. You fight him and he's not that big",
+      "start": 131.59,
+      "duration": 4.55
+    },
+    {
+      "text": "Dr.. Wiley has an obsession with things throwing up on other things oh no",
+      "start": 139.81,
+      "duration": 4.55
+    },
+    {
+      "text": "Yeah, take that! okay I imagine some kid like 1992 or whatever. It was like-",
+      "start": 145.72,
+      "duration": 5.809
+    },
+    {
+      "text": "Wah!",
+      "start": 151.529,
+      "duration": 0.5
+    },
+    {
+      "text": "It's coming right at me. I thought I was going to be burned",
+      "start": 153.36,
+      "duration": 2.32
+    },
+    {
+      "text": "All right do it Aaron all right, this is Megaman first of all",
+      "start": 156.34,
+      "duration": 3.42
+    },
+    {
+      "text": "I'm gonna oh, yeah, go fullscreen full. Yeah",
+      "start": 160.54,
+      "duration": 3.589
+    },
+    {
+      "text": "Save that d'etat all right cool Wow",
+      "start": 164.8,
+      "duration": 2.449
+    },
+    {
+      "text": "This maze at all I've been playing the fucking stop playing the fucking I catch fullscreen. Okay well",
+      "start": 168.1,
+      "duration": 7.099
+    },
+    {
+      "text": "That's this is a four by three game. Oh got'cha. Yeah. Yeah get this thing go any faster Auto. Oh jeez now you're fuckin now. You're",
+      "start": 175.2,
+      "duration": 7.139
+    },
+    {
+      "text": "Terracing through the dialog what oh yeah?",
+      "start": 183.06,
+      "duration": 2.16
+    },
+    {
+      "text": "...",
+      "start": 188.38,
+      "duration": 1.32
+    },
+    {
+      "text": "Yeah, what's the deal? What where's the fucking loss of communication?",
+      "start": 189.7,
+      "duration": 3.94
+    },
+    {
+      "text": "They're like",
+      "start": 193.69,
+      "duration": 0.98
+    },
+    {
+      "text": "We'll make the intro super slow, so they can get the intricate plot points right they need to understand that wily bill robot Wow",
+      "start": 194.67,
+      "duration": 7.77
+    },
+    {
+      "text": "Megaman",
+      "start": 203.56,
+      "duration": 1.44
+    },
+    {
+      "text": "You two wait here. Where were they going anywhere, I'm gonna go jerk off",
+      "start": 205.0,
+      "duration": 3.11
+    },
+    {
+      "text": "Say mega man with hair yeah, I've never seen that yeah. He is hair. He just wears a helmet no shit",
+      "start": 208.9,
+      "duration": 5.3
+    },
+    {
+      "text": "Yeah, I'll be damned, but he is a robot right oh, yeah. He's totally a robot",
+      "start": 214.23,
+      "duration": 4.59
+    },
+    {
+      "text": "Okay, 100% all robots got robot hair. Yeah, okay? He's like the opposite of like 100% all natural",
+      "start": 218.82,
+      "duration": 6.329
+    },
+    {
+      "text": "You know what I mean of course personally. I kind of like the other one",
+      "start": 225.31,
+      "duration": 3.199
+    },
+    {
+      "text": "Cool there. It is there you go",
+      "start": 229.06,
+      "duration": 3.24
+    },
+    {
+      "text": "Look at him. Do it!",
+      "start": 233.44,
+      "duration": 2.0
+    },
+    {
+      "text": "He's like I'm just gonna hold my hand here for a little bit, just wanna throw up",
+      "start": 236.02,
+      "duration": 3.14
+    },
+    {
+      "text": "No",
+      "start": 242.29,
+      "duration": 1.53
+    },
+    {
+      "text": "Fuck I don't accept. No I'm fucked and you know it and I know it and who is this. It's dr.",
+      "start": 243.82,
+      "duration": 5.659
+    },
+    {
+      "text": "Light dude, dude doctor are you ok? I'll bring back the world to take care of it",
+      "start": 249.48,
+      "duration": 4.5
+    },
+    {
+      "text": "Megaman I have bad news your penis is",
+      "start": 254.53,
+      "duration": 2.66
+    },
+    {
+      "text": "very small right now I",
+      "start": 257.979,
+      "duration": 2.09
+    },
+    {
+      "text": "Built it that way",
+      "start": 261.519,
+      "duration": 1.041
+    },
+    {
+      "text": "I just I just I'm a doctor and",
+      "start": 262.56,
+      "duration": 2.729
+    },
+    {
+      "text": "Over there is where the penises are bigger than yours all the penises in fact",
+      "start": 265.72,
+      "duration": 5.299
+    },
+    {
+      "text": "I could point to anywhere and the penises will be bigger than yours his dog's penis is bigger than yours. You know very",
+      "start": 271.02,
+      "duration": 6.3
+    },
+    {
+      "text": "Small penis hello Wylie hello Doctor big penis Wylie they call me dr.",
+      "start": 277.99,
+      "duration": 7.13
+    },
+    {
+      "text": "Willie actually",
+      "start": 285.12,
+      "duration": 2.0
+    },
+    {
+      "text": "Yeah, they do",
+      "start": 287.53,
+      "duration": 1.56
+    },
+    {
+      "text": "You gotta go now mega man get rush and follow Wiley spaceship, okay cool",
+      "start": 289.09,
+      "duration": 4.82
+    },
+    {
+      "text": "You know I actually had that situation when I was like 13 or 14",
+      "start": 294.37,
+      "duration": 4.549
+    },
+    {
+      "text": "like your penis was too big no quite the opposite my",
+      "start": 299.62,
+      "duration": 4.549
+    },
+    {
+      "text": "My doctor like III had like a pediatrician for way too long",
+      "start": 306.16,
+      "duration": 4.16
+    },
+    {
+      "text": "A, penia-trician?",
+      "start": 310.54,
+      "duration": 2.0
+    },
+    {
+      "text": "Good one",
+      "start": 312.82,
+      "duration": 2.0
+    },
+    {
+      "text": "Know how it like sometimes you just see your childhood",
+      "start": 316.33,
+      "duration": 2.269
+    },
+    {
+      "text": "Doctor for too long because like I don't know you're just like lazy and scared of big big person doctors",
+      "start": 318.91,
+      "duration": 6.679
+    },
+    {
+      "text": "You're like best friends",
+      "start": 325.59,
+      "duration": 0.99
+    },
+    {
+      "text": "Yeah, that was the case with men right under your barbecue um it was a woman and there was a lady invited her lady",
+      "start": 326.58,
+      "duration": 6.3
+    },
+    {
+      "text": "Indian lady",
+      "start": 333.599,
+      "duration": 1.241
+    },
+    {
+      "text": "Named dr. Mallick and she was awesome",
+      "start": 334.84,
+      "duration": 1.85
+    },
+    {
+      "text": "I loved her",
+      "start": 336.69,
+      "duration": 0.819
+    },
+    {
+      "text": "but like she the problem with that was like she kind of treated me like a kid for a very long time and",
+      "start": 337.509,
+      "duration": 6.649
+    },
+    {
+      "text": "so my mom and she",
+      "start": 344.53,
+      "duration": 2.419
+    },
+    {
+      "text": "like she she gave me like a physical when I was like 12 or 13 uh-huh and",
+      "start": 347.53,
+      "duration": 4.97
+    },
+    {
+      "text": "She's just like in the main like",
+      "start": 353.02,
+      "duration": 2.75
+    },
+    {
+      "text": "office with like everyone around and she's just like she's",
+      "start": 357.24,
+      "duration": 4.14
+    },
+    {
+      "text": "Like your son is like everything's fine. He's totally normally. It's just a little bit of a late bloomer. You know and I'm like",
+      "start": 362.46,
+      "duration": 7.94
+    },
+    {
+      "text": "You haven't had your period yet?",
+      "start": 370.4,
+      "duration": 1.48
+    },
+    {
+      "text": "Yeah, yeah, I mean basically she was saying I had a small fucking baby dick for too long",
+      "start": 371.88,
+      "duration": 5.4
+    },
+    {
+      "text": "And I'm just like oh this is awesome",
+      "start": 377.979,
+      "duration": 2.84
+    },
+    {
+      "text": "Just like in front of like all the cute like receptionist girls like super duper",
+      "start": 382.3,
+      "duration": 5.72
+    },
+    {
+      "text": "You just look to the sky. Just- AAH!",
+      "start": 393.589,
+      "duration": 2.0
+    },
+    {
+      "text": "What a great fucking day this is for me. I'm bass, and he's treble. We've been trying to stop dr.",
+      "start": 397.249,
+      "duration": 5.69
+    },
+    {
+      "text": "Wiley while you were gone, I see now that you don't need our help, you're so good",
+      "start": 402.94,
+      "duration": 3.98
+    },
+    {
+      "text": "(They're bad guys)",
+      "start": 408.54,
+      "duration": 1.34
+    },
+    {
+      "text": "Of course they are, bass?",
+      "start": 409.96,
+      "duration": 2.0
+    },
+    {
+      "text": "T-t-t-t-t-t-treble? They call him bass and make a minute for no reason really yeah",
+      "start": 412.909,
+      "duration": 4.64
+    },
+    {
+      "text": "It's stupid mmm who should I fight first Dan? Oh jeez I don't know is that is there any benefit to any order?",
+      "start": 417.55,
+      "duration": 6.899
+    },
+    {
+      "text": "I think burst man is the easiest it would go for that then alright fine you",
+      "start": 424.449,
+      "duration": 4.199
+    },
+    {
+      "text": "Got it. I didn't know which one. He was he's got big yellow. Nips dude had to say something",
+      "start": 429.199,
+      "duration": 5.209
+    },
+    {
+      "text": "He DOES have big yellow names like don't rub my big double yellow. Nips are all burst man",
+      "start": 434.409,
+      "duration": 5.429
+    },
+    {
+      "text": "He is like a like a one of those Hawaiian bras that's like two coconut halves oh",
+      "start": 439.839,
+      "duration": 5.58
+    },
+    {
+      "text": "Yeah, right yeah anyway coconut bra yeah",
+      "start": 447.139,
+      "duration": 2.869
+    },
+    {
+      "text": "boom I",
+      "start": 451.099,
+      "duration": 2.0
+    },
+    {
+      "text": "Personally think there's big yellow nips yeah",
+      "start": 453.229,
+      "duration": 2.089
+    },
+    {
+      "text": "maybe there is small dick and",
+      "start": 456.259,
+      "duration": 2.449
+    },
+    {
+      "text": "His doctor can tell his mom about it a lot loudly. He's got his big dick nipples. Yeah",
+      "start": 459.289,
+      "duration": 5.839
+    },
+    {
+      "text": "Your robot son is a late bloomer. God dammit dr. Muller",
+      "start": 466.729,
+      "duration": 4.549
+    },
+    {
+      "text": "Your son has a tiny penis. I'm sorry and that she like looks to turn at the receptionist's yeah, I'm just like yeah",
+      "start": 473.33,
+      "duration": 6.139
+    },
+    {
+      "text": "He met yeah, just because he has a crush on you",
+      "start": 480.169,
+      "duration": 2.929
+    },
+    {
+      "text": "doesn't mean you should consider going out with him even when he's of age because",
+      "start": 484.009,
+      "duration": 4.429
+    },
+    {
+      "text": "There are no indications that that situation is gonna get better",
+      "start": 489.139,
+      "duration": 3.319
+    },
+    {
+      "text": "But it's all better now right yeah, I don't have a micropenis",
+      "start": 494.509,
+      "duration": 2.809
+    },
+    {
+      "text": "That's cool. Yeah. It is cool actually",
+      "start": 498.769,
+      "duration": 2.06
+    },
+    {
+      "text": "Did you know you've seen my dick? Did you no? I haven't no no really. I never know. I'll show you my dick",
+      "start": 502.039,
+      "duration": 6.229
+    },
+    {
+      "text": "all right cool",
+      "start": 508.269,
+      "duration": 2.0
+    },
+    {
+      "text": "Do you think if you lived life as Micro",
+      "start": 510.529,
+      "duration": 2.51
+    },
+    {
+      "text": "Micro yeah like grocery job dirty jobs guy that you would have to go around your whole life saying that you have a micropenis",
+      "start": 514.669,
+      "duration": 6.32
+    },
+    {
+      "text": "That's a really good question. That's the dirtiest job of all oh",
+      "start": 526.36,
+      "duration": 4.369
+    },
+    {
+      "text": "Shit oh, yeah again, I don't think I can hit him with a fully charged blast. I think that's what they want me to do",
+      "start": 535.54,
+      "duration": 5.33
+    },
+    {
+      "text": "Dude you know aesthetically I fucking love this game this game was so much a part of like who I was as a kid",
+      "start": 543.279,
+      "duration": 6.89
+    },
+    {
+      "text": "Uh-huh I fucking I fucking edited all of these sprites",
+      "start": 550.529,
+      "duration": 2.88
+    },
+    {
+      "text": "I used to stare at this fucking sprite a Megaman for like I put every fucking color on this goddamn sprite",
+      "start": 553.41,
+      "duration": 6.15
+    },
+    {
+      "text": "This was how I learned to draw how I learned to edit stuff and oops how I learned to die",
+      "start": 559.66,
+      "duration": 4.82
+    },
+    {
+      "text": "underwater for no reason in this stage in particular able situation this stage in particular was pretty amazing because",
+      "start": 564.79,
+      "duration": 5.78
+    },
+    {
+      "text": "It was the it was the only way you you couldn't",
+      "start": 571.75,
+      "duration": 3.32
+    },
+    {
+      "text": "It wasn't emulated fuck",
+      "start": 575.74,
+      "duration": 2.0
+    },
+    {
+      "text": "It wasn't emulated properly",
+      "start": 578.68,
+      "duration": 2.0
+    },
+    {
+      "text": "Because the water like didn't have the transparencies yet",
+      "start": 583.029,
+      "duration": 2.84
+    },
+    {
+      "text": "So like everyone who wanted to play Mega Man 7 like you could get the ROM",
+      "start": 586.029,
+      "duration": 3.41
+    },
+    {
+      "text": "And you could play all the three stages",
+      "start": 589.44,
+      "duration": 2.159
+    },
+    {
+      "text": "But you couldn't play burst man stage because the state you couldn't see anything do you ever like well?",
+      "start": 591.6,
+      "duration": 5.58
+    },
+    {
+      "text": "I mean this is more a childhood thought than like an adult thought, but like",
+      "start": 597.18,
+      "duration": 4.229
+    },
+    {
+      "text": "Did you ever love something so dearly as a kid and for like so many years that you kind of felt like",
+      "start": 603.49,
+      "duration": 6.5
+    },
+    {
+      "text": "You wish you could pay it back somehow like not that not them the guy who created Megaman",
+      "start": 610.72,
+      "duration": 5.69
+    },
+    {
+      "text": "But like Megaman himself. You know sure I had that with stegasaurus",
+      "start": 616.41,
+      "duration": 4.26
+    },
+    {
+      "text": "I was like I wish I could do something nice for a Stegosaurus because I love them so much I wanted to UM",
+      "start": 621.06,
+      "duration": 6.059
+    },
+    {
+      "text": "When data East was going under I wanted to buy the rights to atomic runner",
+      "start": 628.66,
+      "duration": 5.75
+    },
+    {
+      "text": "So that I could properly make an atomic Runner sequel because nobody fucking likes that game and nobody knows anything about that game",
+      "start": 634.72,
+      "duration": 7.19
+    },
+    {
+      "text": "Nobody's ever heard of it. It's a stupid game, but I loved it",
+      "start": 641.91,
+      "duration": 3.57
+    },
+    {
+      "text": "Atomic runner I got yeah, I'll check it out man. We can play it cool. It's just nice when you can like I",
+      "start": 646.35,
+      "duration": 6.979
+    },
+    {
+      "text": "Don't know when you when you can I",
+      "start": 655.05,
+      "duration": 2.0
+    },
+    {
+      "text": "Don't know get it like like meeting Peter vehicle like the guy who wrote The Last Unicorn mm-hmm. I was like",
+      "start": 657.57,
+      "duration": 7.13
+    },
+    {
+      "text": "He had a screening of The Last Unicorn once and like",
+      "start": 665.76,
+      "duration": 3.349
+    },
+    {
+      "text": "oops whoops",
+      "start": 670.08,
+      "duration": 2.0
+    },
+    {
+      "text": "[Dan] And I went with my [Arin]  fuck off [Dan] my girlfriend at the time and like",
+      "start": 672.18,
+      "duration": 4.1
+    },
+    {
+      "text": "Just met the dude and like he he was um",
+      "start": 676.92,
+      "duration": 3.47
+    },
+    {
+      "text": "It was right after I had",
+      "start": 681.33,
+      "duration": 2.0
+    },
+    {
+      "text": "Done that cover version of the theme song and like he signed",
+      "start": 684.87,
+      "duration": 4.07
+    },
+    {
+      "text": "He signed a drawing I had",
+      "start": 690.48,
+      "duration": 2.0
+    },
+    {
+      "text": "To Danny who honors me, and I was like this is like",
+      "start": 693.24,
+      "duration": 3.26
+    },
+    {
+      "text": "Wildly amazing like this feeling you know like I actually got to say. Thank you to someone who like changed my life",
+      "start": 697.53,
+      "duration": 6.44
+    },
+    {
+      "text": "But that was the only time I felt that and I wish I could feel that with stegasaurus",
+      "start": 705.27,
+      "duration": 3.38
+    },
+    {
+      "text": "Hmm did that story make any sense maybe the yeah, okay, I think I was there for that story",
+      "start": 710.85,
+      "duration": 5.93
+    },
+    {
+      "text": "You we I mean we were buds at the time",
+      "start": 717.75,
+      "duration": 2.84
+    },
+    {
+      "text": "But yes that made sense okay, maybe maybe the guy who like named Stegosaurus she's still around",
+      "start": 722.76,
+      "duration": 7.28
+    },
+    {
+      "text": "Othniel Marsh? No, he died in like the early 1900s",
+      "start": 731.31,
+      "duration": 5.63
+    },
+    {
+      "text": "What about his like",
+      "start": 738.93,
+      "duration": 1.95
+    },
+    {
+      "text": "Great-grandchildren, I don't know",
+      "start": 740.88,
+      "duration": 2.0
+    },
+    {
+      "text": "You could meet them, and then be like",
+      "start": 743.85,
+      "duration": 2.0
+    },
+    {
+      "text": "Sign this and say to Danny who honors me. Yeah sign the board",
+      "start": 746.43,
+      "duration": 4.85
+    },
+    {
+      "text": "Give me a Stella Doris skeleton",
+      "start": 752.22,
+      "duration": 3.29
+    },
+    {
+      "text": "Give me a stellen stellen",
+      "start": 756.15,
+      "duration": 2.0
+    },
+    {
+      "text": "Please gag asaurus tellin I",
+      "start": 759.6,
+      "duration": 3.14
+    },
+    {
+      "text": "That would be crazy right like,",
+      "start": 765.899,
+      "duration": 2.27
+    },
+    {
+      "text": "I mean some people are that rich where they can just like have a dinosaur skeleton in their private collection dude I saw a",
+      "start": 768.689,
+      "duration": 5.869
+    },
+    {
+      "text": "Triceratops skull force sale in like Santa Monica for",
+      "start": 775.17,
+      "duration": 3.32
+    },
+    {
+      "text": "$10,000 ten thousand, that's all yeah I",
+      "start": 779.339,
+      "duration": 2.69
+    },
+    {
+      "text": "Can't believe it. I guess my biggest there's like a couple of them around really like it's not that big a deal though, a Triceratops head",
+      "start": 782.939,
+      "duration": 6.41
+    },
+    {
+      "text": "Oh, no, dude. I would own a Stegosaurus like a plate or something like that",
+      "start": 789.35,
+      "duration": 3.45
+    },
+    {
+      "text": "How fucking cool would that shit was just a plate didn't I get you a tooth one source you got me a Triceratops tooth?",
+      "start": 793.29,
+      "duration": 5.179
+    },
+    {
+      "text": "Okay, I have it and have it hanging in my house. Oh, dope yeah, maybe if you came over and looked at me during",
+      "start": 798.689,
+      "duration": 7.76
+    },
+    {
+      "text": "Its in my little back room with all my football helmets. Oh your little collection room yeah",
+      "start": 808.92,
+      "duration": 5.209
+    },
+    {
+      "text": "oh",
+      "start": 815.069,
+      "duration": 1.14
+    },
+    {
+      "text": "It's time for next time. I go Gramps sure is hooray. Let's do that. I will have beaten",
+      "start": 816.209,
+      "duration": 4.19
+    },
+    {
+      "text": "Bee, man, not just kidding. You'll see it. Yeah. Yeah, we could just hit pause and",
+      "start": 821.189,
+      "duration": 4.73
+    },
+    {
+      "text": "Start the fucking episode. I'm sorry. I'm just fucking enjoying myself. You know you",
+      "start": 826.649,
+      "duration": 5.09
+    },
+    {
+      "text": "I'll tell you next time on Game Grumps. Okay. I'm excited",
+      "start": 832.319,
+      "duration": 2.63
+    },
+    {
+      "text": "Thank you for asking if my penis got bigger in adulthood and giving me a chance to say yes",
+      "start": 837.269,
+      "duration": 4.309
+    },
+    {
+      "text": "So I could get that information out there. Yeah, well, that's that's exactly what I was going for",
+      "start": 841.579,
+      "duration": 4.71
+    }
+  ]
+}

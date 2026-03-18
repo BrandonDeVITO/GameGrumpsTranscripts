@@ -1,0 +1,53 @@
+{
+  "video_id": "-yjlWHvEBSo",
+  "language": "Spanish (auto-generated)",
+  "language_code": "es",
+  "is_generated": true,
+  "snippets": [
+    {
+      "text": "[Música]",
+      "start": 5.68,
+      "duration": 6.24
+    },
+    {
+      "text": "[Música]",
+      "start": 16.11,
+      "duration": 10.82
+    },
+    {
+      "text": "sí",
+      "start": 24.39,
+      "duration": 2.54
+    },
+    {
+      "text": "de nuevo",
+      "start": 27.51,
+      "duration": 4.899
+    },
+    {
+      "text": "[Música]",
+      "start": 30.74,
+      "duration": 4.45
+    },
+    {
+      "text": "[Aplausos]",
+      "start": 32.409,
+      "duration": 6.101
+    },
+    {
+      "text": "[Música]",
+      "start": 35.19,
+      "duration": 3.32
+    },
+    {
+      "text": "skin",
+      "start": 48.51,
+      "duration": 2.45
+    },
+    {
+      "text": "y",
+      "start": 55.54,
+      "duration": 3.0
+    }
+  ]
+}

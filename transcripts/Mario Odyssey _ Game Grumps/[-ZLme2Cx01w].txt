@@ -1,0 +1,958 @@
+{
+  "video_id": "-ZLme2Cx01w",
+  "language": "English",
+  "language_code": "en",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Hey, I'm Grump, I'm not so Grump, and we're the Game Grumps",
+      "start": 0.02,
+      "duration": 4.76
+    },
+    {
+      "text": "ARIN: Dan...",
+      "start": 5.46,
+      "duration": 1.299
+    },
+    {
+      "text": "A: How is it that every single time...",
+      "start": 6.759,
+      "duration": 2.21
+    },
+    {
+      "text": "A: I start game grumps...",
+      "start": 9.48,
+      "duration": 1.32
+    },
+    {
+      "text": "A: You're drinking something?",
+      "start": 10.8,
+      "duration": 1.54
+    },
+    {
+      "text": "Dan: Because, we end the episode and then I take a sip of water,",
+      "start": 12.34,
+      "duration": 3.24
+    },
+    {
+      "text": "D: and you fucking very uncourteously start the episode immediately.",
+      "start": 15.62,
+      "duration": 4.38
+    },
+    {
+      "text": "A: I'm sorry, d--",
+      "start": 21.42,
+      "duration": 1.06
+    },
+    {
+      "text": "D: There's a way, we--you could solve that problem,",
+      "start": 22.48,
+      "duration": 2.56
+    },
+    {
+      "text": "D: and it's by waiting...",
+      "start": 25.04,
+      "duration": 0.82
+    },
+    {
+      "text": "D: THREE SECONDS!",
+      "start": 26.42,
+      "duration": 0.78
+    },
+    {
+      "text": "A: *laughs*",
+      "start": 27.2,
+      "duration": 0.72
+    },
+    {
+      "text": "A: But that's less funny.",
+      "start": 29.76,
+      "duration": 1.6
+    },
+    {
+      "text": "D: Yeah, it's true. It's true, so, cool.",
+      "start": 31.36,
+      "duration": 2.06
+    },
+    {
+      "text": "D: Cool of you to call me out on that, dick move on my part.",
+      "start": 33.6,
+      "duration": 2.36
+    },
+    {
+      "text": "A: Do you-- do you want me to start the episode over?",
+      "start": 35.96,
+      "duration": 2.72
+    },
+    {
+      "text": "D: No it's too late. A: Okay.",
+      "start": 39.14,
+      "duration": 1.22
+    },
+    {
+      "text": "D: We're 35 seconds deep and we'll never... ever turn back.",
+      "start": 40.36,
+      "duration": 3.68
+    },
+    {
+      "text": "A: Okay...",
+      "start": 44.04,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Well if-- if I e--",
+      "start": 44.84,
+      "duration": 1.18
+    },
+    {
+      "text": "D: (p-p-propeller?) for life.",
+      "start": 46.02,
+      "duration": 1.14
+    },
+    {
+      "text": "A: If ever you need me to, to.. (stutters)",
+      "start": 47.16,
+      "duration": 2.06
+    },
+    {
+      "text": "A: Just let me know, man.",
+      "start": 49.22,
+      "duration": 1.02
+    },
+    {
+      "text": "A: You know I got you covered.",
+      "start": 51.34,
+      "duration": 1.56
+    },
+    {
+      "text": "D: ... You do not.",
+      "start": 53.02,
+      "duration": 1.08
+    },
+    {
+      "text": "A: No, I do! I...",
+      "start": 54.28,
+      "duration": 1.14
+    },
+    {
+      "text": "A: I got you plenty covered, dude.",
+      "start": 55.42,
+      "duration": 1.6
+    },
+    {
+      "text": "D: Yeah?",
+      "start": 57.3,
+      "duration": 0.5
+    },
+    {
+      "text": "A: Yeah, so if you... if you ever want me to... if you're like \"No, let's not start the episode,\" then I'll be like \"alright.\"",
+      "start": 57.8,
+      "duration": 5.36
+    },
+    {
+      "text": "D: Okay, let's not start the episode then.",
+      "start": 64.84,
+      "duration": 2.4
+    },
+    {
+      "text": "A: Oh okay... that's-- yeah, let's stop.",
+      "start": 67.52,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Think I'll take a nice, long, relaxing sip--",
+      "start": 71.68,
+      "duration": 2.5
+    },
+    {
+      "text": "A: Yeah, go-- Y'know what, I will too.",
+      "start": 74.18,
+      "duration": 1.84
+    },
+    {
+      "text": "A: I'll drink some water myself",
+      "start": 76.08,
+      "duration": 1.54
+    },
+    {
+      "text": "*Dan and Arin enjoy some water*",
+      "start": 78.26,
+      "duration": 3.72
+    },
+    {
+      "text": "A: That is good.",
+      "start": 82.44,
+      "duration": 0.82
+    },
+    {
+      "text": "D: 😫",
+      "start": 83.38,
+      "duration": 0.78
+    },
+    {
+      "text": "D: Welcome back to Game Grumps.",
+      "start": 84.58,
+      "duration": 1.24
+    },
+    {
+      "text": "A: Oh, cool, welcome back D: We are...",
+      "start": 85.82,
+      "duration": 1.02
+    },
+    {
+      "text": "D: fuckin' hydrated as fuck",
+      "start": 86.84,
+      "duration": 1.6
+    },
+    {
+      "text": "A: Yes. D: And uh... we're playing Mario Something Something",
+      "start": 88.64,
+      "duration": 3.68
+    },
+    {
+      "text": "A: It's Mario Odyssey. D: Mario Gala--",
+      "start": 92.6,
+      "duration": 1.72
+    },
+    {
+      "text": "D: Gallal.. Gala... Galasy.",
+      "start": 94.52,
+      "duration": 1.94
+    },
+    {
+      "text": "A: It's Mario... It's Mario Odyssey D: Mario Odyx-y",
+      "start": 97.5,
+      "duration": 2.92
+    },
+    {
+      "text": "A: Well, I, I feel like you should know... becau--",
+      "start": 100.96,
+      "duration": 2.26
+    },
+    {
+      "text": "D: Mario Boom",
+      "start": 103.22,
+      "duration": 1.16
+    },
+    {
+      "text": "A & D: *laughter ensues*",
+      "start": 104.38,
+      "duration": 2.0
+    },
+    {
+      "text": "A: *gruff voice* He's gritty, and he's covered in bandages...",
+      "start": 106.56,
+      "duration": 2.56
+    },
+    {
+      "text": "D: \"You got a moon!\"",
+      "start": 109.86,
+      "duration": 1.34
+    },
+    {
+      "text": "D: \"Avoiding fuzzies inside the wall,\" I feel like that's not even...",
+      "start": 111.96,
+      "duration": 3.2
+    },
+    {
+      "text": "D: Well, whatever A: Do you like the little...",
+      "start": 115.96,
+      "duration": 2.04
+    },
+    {
+      "text": "A: The... The Mexican Mario sprite?",
+      "start": 118.0,
+      "duration": 2.24
+    },
+    {
+      "text": "D: I love him.",
+      "start": 121.0,
+      "duration": 0.98
+    },
+    {
+      "text": "A: That was the first -- that was like \"Ohhh, he's gonna have the outfit?\" \"He does!!\" and I freaked out.",
+      "start": 124.2,
+      "duration": 4.8
+    },
+    {
+      "text": "A: ... and then I made a sandwich and",
+      "start": 129.42,
+      "duration": 2.0
+    },
+    {
+      "text": "D: \"... And then moved on with my life\"",
+      "start": 132.42,
+      "duration": 1.64
+    },
+    {
+      "text": "A: *laughing* Yeah pretty much",
+      "start": 134.06,
+      "duration": 1.12
+    },
+    {
+      "text": "D: God, seeing these fuzzies again makes me, uh...",
+      "start": 135.26,
+      "duration": 1.88
+    },
+    {
+      "text": "D: Think about Paper Mario, and how fucking different this game is, my god.",
+      "start": 137.14,
+      "duration": 4.0
+    },
+    {
+      "text": "D: It's crazy that it's even the same characters.",
+      "start": 141.78,
+      "duration": 2.24
+    },
+    {
+      "text": "A: Oh, yeah.",
+      "start": 144.64,
+      "duration": 1.12
+    },
+    {
+      "text": "A: Umm, I dunno, I prefer these games.",
+      "start": 146.38,
+      "duration": 2.0
+    },
+    {
+      "text": "A: ... a little more action-packed, you know?",
+      "start": 148.38,
+      "duration": 1.66
+    },
+    {
+      "text": "D: Oh, well, yeah.",
+      "start": 150.04,
+      "duration": 0.74
+    },
+    {
+      "text": "A: Paper Mario is great and all.",
+      "start": 150.78,
+      "duration": 1.32
+    },
+    {
+      "text": "D: Different, different vibe... gotta finish-- gotta finish it.",
+      "start": 152.1,
+      "duration": 2.98
+    },
+    {
+      "text": "*Dan and Arin emit noises of suspense*",
+      "start": 155.52,
+      "duration": 2.0
+    },
+    {
+      "text": "*and acceptance*",
+      "start": 157.98,
+      "duration": 1.54
+    },
+    {
+      "text": "A: It's okay, I earned all those coins so I could lose them.",
+      "start": 159.52,
+      "duration": 2.0
+    },
+    {
+      "text": "D: Ohhh Jesus Christmas....",
+      "start": 161.52,
+      "duration": 1.46
+    },
+    {
+      "text": "A: \"Jesus Christmas\" That's his birthday.",
+      "start": 163.56,
+      "duration": 2.1
+    },
+    {
+      "text": "A: That's like saying \"Arin January 6th\"",
+      "start": 166.18,
+      "duration": 2.06
+    },
+    {
+      "text": "D: Yeah, kind-- kinda like that.",
+      "start": 169.48,
+      "duration": 2.0
+    },
+    {
+      "text": "A: \"Oh, Arin January 6th.\"",
+      "start": 172.52,
+      "duration": 2.2
+    },
+    {
+      "text": "D: I'd love to make such an impact on the world that my actual name becomes a swear word.",
+      "start": 174.72,
+      "duration": 4.94
+    },
+    {
+      "text": "A: Oh, yeah.",
+      "start": 180.66,
+      "duration": 1.0
+    },
+    {
+      "text": "A: \"Oh, Danny!! Dah! Danny!\"",
+      "start": 181.96,
+      "duration": 2.22
+    },
+    {
+      "text": "D: \"Ohhh Avidan!\"",
+      "start": 184.28,
+      "duration": 1.38
+    },
+    {
+      "text": "A: \"Avidan\"? *laughs*",
+      "start": 185.98,
+      "duration": 1.14
+    },
+    {
+      "text": "D: and I'll just be like \"Yes, praise Him...\"",
+      "start": 187.4,
+      "duration": 2.74
+    },
+    {
+      "text": "A: \"Yes, but... Don't use his name in vain\"",
+      "start": 190.68,
+      "duration": 2.28
+    },
+    {
+      "text": "*Some sort of flatulence, presumably from Arin*",
+      "start": 194.2,
+      "duration": 2.0
+    },
+    {
+      "text": "A: What is-- what does that mean? To use the name in vain?",
+      "start": 198.3,
+      "duration": 3.56
+    },
+    {
+      "text": "A: Because it's like... because he's--",
+      "start": 202.8,
+      "duration": 1.7
+    },
+    {
+      "text": "D: 'Cause you're using it as a curse word.",
+      "start": 204.5,
+      "duration": 1.48
+    },
+    {
+      "text": "A: Oh, 'cause he's so revered... That it's like...",
+      "start": 205.98,
+      "duration": 2.22
+    },
+    {
+      "text": "A: \"No... he's a-- he's a good thing.\" D: Yeah, \"don't...\" yeah.",
+      "start": 208.5,
+      "duration": 3.3
+    },
+    {
+      "text": "D: Don't-- like...",
+      "start": 212.4,
+      "duration": 1.22
+    },
+    {
+      "text": "D: Only use his, treat his name with honor and respect.",
+      "start": 214.06,
+      "duration": 3.08
+    },
+    {
+      "text": "A: I see.",
+      "start": 217.14,
+      "duration": 0.68
+    },
+    {
+      "text": "A: Oh, it's Captain Toad.",
+      "start": 218.06,
+      "duration": 1.02
+    },
+    {
+      "text": "D: Hee-eeey!",
+      "start": 219.46,
+      "duration": 0.96
+    },
+    {
+      "text": "A (as Toad): \"This is all my fucking money... Don't take it!\"",
+      "start": 220.42,
+      "duration": 2.84
+    },
+    {
+      "text": "A (T): \"It's mine!\"",
+      "start": 224.8,
+      "duration": 1.32
+    },
+    {
+      "text": "D (T): \"Looks like I got out of that underwater situation,\"",
+      "start": 226.98,
+      "duration": 2.14
+    },
+    {
+      "text": "D (T): \"AND got fucking rich, what have you been up to?\"",
+      "start": 229.12,
+      "duration": 3.54
+    },
+    {
+      "text": "A (T): \"Well, I'm gonna go to sleep, so uhh... Don't steal all my fucking money.\"",
+      "start": 233.8,
+      "duration": 3.64
+    },
+    {
+      "text": "A: Stealing his money.",
+      "start": 238.58,
+      "duration": 1.42
+    },
+    {
+      "text": "A (T): \"Wow, dick move!\"",
+      "start": 242.02,
+      "duration": 1.16
+    },
+    {
+      "text": "D: Right in front of his face, too.",
+      "start": 243.18,
+      "duration": 2.14
+    },
+    {
+      "text": "D: You gotta love it.",
+      "start": 245.32,
+      "duration": 0.92
+    },
+    {
+      "text": "A: I wonder if he says anything now that I stole his money",
+      "start": 247.42,
+      "duration": 2.659
+    },
+    {
+      "text": "A: I just probably should get going yeah, you should get going without all that money. Yeah, get out of here",
+      "start": 250.079,
+      "duration": 4.89
+    },
+    {
+      "text": "You get what you've seen here today",
+      "start": 255.64,
+      "duration": 2.0
+    },
+    {
+      "text": "Erase it from your memory",
+      "start": 258.94,
+      "duration": 2.0
+    },
+    {
+      "text": "Give you the flashy thing, or I'll do it for you, from men and black",
+      "start": 261.12,
+      "duration": 2.96
+    },
+    {
+      "text": "Dude, did you did you not want one of those when you were a kid what a flashy thing that makes people forget everything, oh my god?",
+      "start": 265.17,
+      "duration": 5.419
+    },
+    {
+      "text": "That's so cool.",
+      "start": 270.59,
+      "duration": 1.93
+    },
+    {
+      "text": "I- not even for like nefarious purposes. Just like when I'd embarrass myself and I'm like welp time for everybody to get the flashy",
+      "start": 272.52,
+      "duration": 5.809
+    },
+    {
+      "text": "Like like when it was its most embarrassing",
+      "start": 282.78,
+      "duration": 3.77
+    },
+    {
+      "text": "Except I could one thing I could never tell was how?",
+      "start": 287.73,
+      "duration": 2.329
+    },
+    {
+      "text": "Much that thing made them forget",
+      "start": 290.91,
+      "duration": 2.209
+    },
+    {
+      "text": "Wait what like how much time in the past did those flashy things make people forget. Oh you could set it.",
+      "start": 294.72,
+      "duration": 7.1
+    },
+    {
+      "text": "I had like dials on it, and it was like oh, yeah a couple minutes or like I just sucked one year from your life",
+      "start": 302.54,
+      "duration": 6.929
+    },
+    {
+      "text": "Not to 50!",
+      "start": 311.64,
+      "duration": 1.56
+    },
+    {
+      "text": "But then you could like that the thing about it though was like you could like feed it. You could feed the information after",
+      "start": 313.2,
+      "duration": 5.839
+    },
+    {
+      "text": "You wipe their memory. We're so there was like there's like a 10 second period where you would like explain what happened hmm?",
+      "start": 320.25,
+      "duration": 6.83
+    },
+    {
+      "text": "And then they'd be like oh, okay",
+      "start": 327.38,
+      "duration": 2.0
+    },
+    {
+      "text": "So that's the coolest part, huh?",
+      "start": 330.0,
+      "duration": 2.0
+    },
+    {
+      "text": "So you could be like",
+      "start": 332.49,
+      "duration": 1.74
+    },
+    {
+      "text": "Ya know, you just agreed to give me a billion dollars, so oh",
+      "start": 334.23,
+      "duration": 2.54
+    },
+    {
+      "text": "I did oh man as a cool move of me. All right. A promise is a promise.",
+      "start": 336.77,
+      "duration": 5.19
+    },
+    {
+      "text": "But umm",
+      "start": 344.1,
+      "duration": 2.0
+    },
+    {
+      "text": "I would use it for",
+      "start": 347.28,
+      "duration": 1.62
+    },
+    {
+      "text": "Almost exclusively nefarious purposes, oh okay. I thought you're gonna say I would use it for good wait. No I - no",
+      "start": 348.9,
+      "duration": 6.47
+    },
+    {
+      "text": "No, I wouldn't that be a waste well because what's the fun in that you're right. I didn't didn't think of that",
+      "start": 356.22,
+      "duration": 6.619
+    },
+    {
+      "text": "Nice! yeah look at that shit",
+      "start": 364.77,
+      "duration": 2.0
+    },
+    {
+      "text": "Block why worry about any of that when you can use your advantages to more effectively lie, cheat, steal and kill",
+      "start": 367.59,
+      "duration": 6.589
+    },
+    {
+      "text": "Well, yeah",
+      "start": 374.85,
+      "duration": 1.83
+    },
+    {
+      "text": "Exactly my point",
+      "start": 376.68,
+      "duration": 2.0
+    },
+    {
+      "text": "Well because if you weren't doing that then you wouldn't be doing those things and that that's no fun",
+      "start": 379.59,
+      "duration": 4.16
+    },
+    {
+      "text": "Wait say that again. Well if you weren't lie cheat stealing and killing, uh huh",
+      "start": 384.63,
+      "duration": 5.119
+    },
+    {
+      "text": "Then you wouldn't be lie cheat stealing killing and that's no fun. Oh",
+      "start": 389.88,
+      "duration": 4.76
+    },
+    {
+      "text": "Gotcha, so why not do that you can literally say about anything. Yeah, so o",
+      "start": 395.43,
+      "duration": 4.58
+    },
+    {
+      "text": "Oh shit look at that, you sneaky bastard",
+      "start": 400.01,
+      "duration": 2.0
+    },
+    {
+      "text": "So if you",
+      "start": 402.3,
+      "duration": 2.0
+    },
+    {
+      "text": "You know so if you have a thing that  makes it easier to I not use it",
+      "start": 405.51,
+      "duration": 3.829
+    },
+    {
+      "text": "Well, I don't know Anakin Skywalker. I guess I I guess I guess there are no consequences",
+      "start": 410.25,
+      "duration": 5.33
+    },
+    {
+      "text": "Yeah doing whatever you want no definetly not.",
+      "start": 417.39,
+      "duration": 2.269
+    },
+    {
+      "text": "Not if you've got a lightsaber and some fucking force powers like you just make anybody do anything you want. He was killing younglings",
+      "start": 419.66,
+      "duration": 6.149
+    },
+    {
+      "text": "The scene he couldn't keep a straight face through are you serious?",
+      "start": 427.86,
+      "duration": 2.69
+    },
+    {
+      "text": "yeah, if you watch that scene he covers his mouth when he says it just",
+      "start": 430.55,
+      "duration": 3.839
+    },
+    {
+      "text": "Cuz the likes it gone cuz he couldn't say it without smiling. Oh my god, that's so fucked up, right?",
+      "start": 435.0,
+      "duration": 5.75
+    },
+    {
+      "text": "oh",
+      "start": 441.83,
+      "duration": 0.67
+    },
+    {
+      "text": "That's pretty",
+      "start": 442.5,
+      "duration": 1.65
+    },
+    {
+      "text": "Yeah, there we go",
+      "start": 444.15,
+      "duration": 1.68
+    },
+    {
+      "text": "He has enough fucking hilarious. Yes, killing...",
+      "start": 445.83,
+      "duration": 4.13
+    },
+    {
+      "text": "young-younglings",
+      "start": 449.96,
+      "duration": 1.27
+    },
+    {
+      "text": "Yeah, the most horrible",
+      "start": 451.23,
+      "duration": 2.0
+    },
+    {
+      "text": "situation in any of the movies yeah the murder of children",
+      "start": 453.57,
+      "duration": 3.35
+    },
+    {
+      "text": "Well, they can't say that he was killing children because then they would be saying he's killing children in a children's movie, right",
+      "start": 457.23,
+      "duration": 6.5
+    },
+    {
+      "text": "Wait in fact that's exactly what he was doing. Yeah, so they're younglings because what the fuck is a youngling a child",
+      "start": 464.67,
+      "duration": 6.439
+    },
+    {
+      "text": "Right, but I don't want to put too fine a point on it",
+      "start": 474.72,
+      "duration": 2.57
+    },
+    {
+      "text": "It's like saying they were killing smigbobs right but smigbobs are children right? No smigbobs are younglings",
+      "start": 478.83,
+      "duration": 7.969
+    },
+    {
+      "text": "Then the Venn diagram just make smigbobs and younglings yeah, it's the Venn diagram is one circle with all three names in it",
+      "start": 489.72,
+      "duration": 6.589
+    },
+    {
+      "text": "I don't know if this is much of a Venn diagram Arin?Yeah, oh",
+      "start": 498.6,
+      "duration": 2.57
+    },
+    {
+      "text": "man look at least fucking moons",
+      "start": 501.9,
+      "duration": 1.4
+    },
+    {
+      "text": "I'm getting you are really collecting him hard, and I'm a moon motherfucker motherfucker enjoying the view of forgotten isle.",
+      "start": 503.3,
+      "duration": 4.86
+    },
+    {
+      "text": "I'll enjoy the view Arin what Oh get some. Yeah, get some new clothes",
+      "start": 508.16,
+      "duration": 3.959
+    },
+    {
+      "text": "Yeah, I was gonna check that out. See what I see at the c-c-c-c-Crazy Cap!",
+      "start": 512.12,
+      "duration": 3.72
+    },
+    {
+      "text": "crazy crazy oh",
+      "start": 517.11,
+      "duration": 2.0
+    },
+    {
+      "text": "Damn look at it him stacking em all",
+      "start": 519.3,
+      "duration": 2.0
+    },
+    {
+      "text": "Let's see what I am you a pilot's outfit. Love it. That's my cool. Yeah. I'm gonna get it. I'll get it",
+      "start": 521.72,
+      "duration": 5.609
+    },
+    {
+      "text": "See all the stuff here this what you wanted totals up to fifty or whatever which is like the oh whoops.",
+      "start": 528.57,
+      "duration": 5.119
+    },
+    {
+      "text": "Yeah, meanwhile, you have well over a thousand. Well. That's regular coins. I'm using my purple coins",
+      "start": 534.03,
+      "duration": 5.059
+    },
+    {
+      "text": "Shut up stop stop, I want to be an aviator dude okay neat",
+      "start": 541.95,
+      "duration": 3.83
+    },
+    {
+      "text": "So I got the Hat yes perfect. I just got to change into the- really blends goddamn. I just got to change into the",
+      "start": 546.3,
+      "duration": 6.169
+    },
+    {
+      "text": "the jacket you look like the",
+      "start": 552.99,
+      "duration": 2.359
+    },
+    {
+      "text": "the German pilot from the three the three amigos",
+      "start": 555.9,
+      "duration": 2.959
+    },
+    {
+      "text": "Ned Nederlander you're my favorite star of the silver screen",
+      "start": 560.82,
+      "duration": 3.109
+    },
+    {
+      "text": "Then I learned about camera tricks. No god damn it Arin. I'm sorry",
+      "start": 565.38,
+      "duration": 4.909
+    },
+    {
+      "text": "There we go oh my god, I love it, it makes him look so dumpy",
+      "start": 573.6,
+      "duration": 3.05
+    },
+    {
+      "text": "Look he's not he's strong. He's a sphere. He's basically a snowman with legs",
+      "start": 577.17,
+      "duration": 5.869
+    },
+    {
+      "text": "What had to be a square so that he'd be perfect for platforming? Okay? Are you happy now? No.",
+      "start": 583.04,
+      "duration": 5.91
+    },
+    {
+      "text": "Yes, my happiness had nothing to do it. It's just it's just a dumpy dude. I'm gonna get that one. Cool",
+      "start": 589.53,
+      "duration": 6.229
+    },
+    {
+      "text": "Got it",
+      "start": 599.91,
+      "duration": 1.83
+    },
+    {
+      "text": "You want to see you want to see this little thing with a mustache there you go. Oh my god. I love it",
+      "start": 601.74,
+      "duration": 4.79
+    },
+    {
+      "text": "I mean I've seen it before but he's adorable. I don't see whoa it's gonna leave him there",
+      "start": 606.53,
+      "duration": 4.799
+    },
+    {
+      "text": "I don't seem to remember him having glasses last time",
+      "start": 611.33,
+      "duration": 2.07
+    },
+    {
+      "text": "Did it oh, maybe he didn't maybe that's like a unique one. Yeah, I love it. They're all different",
+      "start": 614.16,
+      "duration": 4.519
+    },
+    {
+      "text": "Oh god that really puts it in perspective. It's like every Goomba is its own Goomba.",
+      "start": 618.95,
+      "duration": 4.26
+    },
+    {
+      "text": "Yeah, and they all have families that you left without a father",
+      "start": 623.21,
+      "duration": 3.539
+    },
+    {
+      "text": "But all they do is walk around and I don't want to I don't want to kill them",
+      "start": 626.75,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh well",
+      "start": 629.75,
+      "duration": 1.08
+    },
+    {
+      "text": "Hey, that's why you do the no touch it's a bad time for for that decision because you've killed millions at this point, well true",
+      "start": 630.83,
+      "duration": 5.88
+    },
+    {
+      "text": "Yes, well I had no remorse about that, but now I do on to new adventure okay now",
+      "start": 637.32,
+      "duration": 5.059
+    },
+    {
+      "text": "We're going to new donk city next time.",
+      "start": 642.38,
+      "duration": 3.239
+    },
+    {
+      "text": "On Game Gruuuuuummmpsss (fading out)",
+      "start": 645.619,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh",
+      "start": 647.779,
+      "duration": 2.0
+    },
+    {
+      "text": "Oh no he's dead he's dead!",
+      "start": 653.91,
+      "duration": 4.52
+    }
+  ]
+}

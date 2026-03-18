@@ -1,0 +1,858 @@
+{
+  "video_id": "3Bo-VjF33hs",
+  "language": "Spanish (Latin America)",
+  "language_code": "es-419",
+  "is_generated": false,
+  "snippets": [
+    {
+      "text": "Arin: Hey, soy gruñón!",
+      "start": 0.0,
+      "duration": 0.98
+    },
+    {
+      "text": "Dan: Yo no soy tan gruñón!",
+      "start": 0.98,
+      "duration": 1.64
+    },
+    {
+      "text": "Y somos los Game Grumps!",
+      "start": 2.64,
+      "duration": 2.1
+    },
+    {
+      "text": "Arin: Me imagino que Squirtle está tipo...\nDan: Sí",
+      "start": 5.26,
+      "duration": 2.46
+    },
+    {
+      "text": "Arin: Oye, escucha esto... Imagínate...\nDan: Sí, escucha, escucha, escucha!",
+      "start": 8.62,
+      "duration": 6.68
+    },
+    {
+      "text": "Arin: Tengo una idea, sí? Aquí está mi idea: MUERE. \nDan: Cállate.",
+      "start": 16.26,
+      "duration": 4.76
+    },
+    {
+      "text": "Arin: Muerto, en el piso... Destrozado.\nDan: Sí.",
+      "start": 22.44,
+      "duration": 3.9
+    },
+    {
+      "text": "Dan: Esto...",
+      "start": 26.74,
+      "duration": 1.26
+    },
+    {
+      "text": "Dan: Esto es lo mucho que me importas. No es mucho, verdad?",
+      "start": 29.28,
+      "duration": 4.34
+    },
+    {
+      "text": "Arin: No puedo... No le puedo ganar.\nDan: Y ya son dos veces seguidas, no?",
+      "start": 35.46,
+      "duration": 4.7
+    },
+    {
+      "text": "Dan: Cómo se supone que le ganes a un equipo de relevos?",
+      "start": 40.2,
+      "duration": 1.8
+    },
+    {
+      "text": "Dan: Cómo consiguió un segundo Pokémon?",
+      "start": 42.0,
+      "duration": 1.98
+    },
+    {
+      "text": "Arin: Necesito mi propio equipo de relevos.\nDan: Acaso los malditos de pantalones púrpura tienen un adelanto de Pokémon extra?",
+      "start": 43.98,
+      "duration": 5.1
+    },
+    {
+      "text": "Arin: Sólo soy malo jugando Pokémon.\nDan: Tongterías.",
+      "start": 49.1,
+      "duration": 2.84
+    },
+    {
+      "text": "Dan: Eso es \"tonterías\" con una G muda de más.",
+      "start": 52.57,
+      "duration": 2.509
+    },
+    {
+      "text": "Arin: Muda-sonora?\nDan: Mm-hmm",
+      "start": 56.53,
+      "duration": 2.0
+    },
+    {
+      "text": "Dan: Bueno, tienes que pronunciar la G muda, obviamente.",
+      "start": 59.56,
+      "duration": 2.74
+    },
+    {
+      "text": "Dan: Opbvmpiamenten.",
+      "start": 62.3,
+      "duration": 1.66
+    },
+    {
+      "text": "Arin: Ay mierda, no tenía que salir. Lo siento, lo siento.\nDan: Estamos perdiendo el tiempo de todos.",
+      "start": 65.62,
+      "duration": 5.6
+    },
+    {
+      "text": "Arin: Quedé como un tonto.\nDan: No, está bien, está bien. Sólo te burlas de...",
+      "start": 71.22,
+      "duration": 2.52
+    },
+    {
+      "text": "Dan: ...Ciudad Merde...",
+      "start": 74.32,
+      "duration": 1.89
+    },
+    {
+      "text": "Arin: Casi lo tienes.",
+      "start": 76.21,
+      "duration": 1.49
+    },
+    {
+      "text": "Arin: La gen... Que caraj... \nNo me importa tu puto café, imbécil!",
+      "start": 77.7,
+      "duration": 4.72
+    },
+    {
+      "text": "Dan: Constantemente te están parando viejos que no tienen nada mejor que hacer que molestar niñas pequeñas.",
+      "start": 82.44,
+      "duration": 5.28
+    },
+    {
+      "text": "Dan: Mierda, van a pelear!\nArin: Si lo dices así...",
+      "start": 88.7,
+      "duration": 2.24
+    },
+    {
+      "text": "Dan: [voz de viejo] Hola...\nArin: [voz de viejo] Oh, es un Weedle!",
+      "start": 90.94,
+      "duration": 2.88
+    },
+    {
+      "text": "Dan: [voz de viejo] Ah, vas a tener que \n[voz normal] Oh esa cosa es adorable.",
+      "start": 93.82,
+      "duration": 2.2
+    },
+    {
+      "text": "Arin: Qué hará el viejo?",
+      "start": 96.12,
+      "duration": 1.8
+    },
+    {
+      "text": "Arin: Eh... Morirse.",
+      "start": 98.02,
+      "duration": 1.46
+    },
+    {
+      "text": "Dan: Okay...\nArin: Tomar su medicina.",
+      "start": 99.48,
+      "duration": 2.22
+    },
+    {
+      "text": "Dan: Aaaah! Mis píldoras!",
+      "start": 101.7,
+      "duration": 1.68
+    },
+    {
+      "text": "Arin: Coquetear con niñitas.\nDan: Esa cosa se parece a OH DIOS!",
+      "start": 105.36,
+      "duration": 3.52
+    },
+    {
+      "text": "Dan: Bueno... Hasta ahí.",
+      "start": 108.88,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: No sabes cómo funciona una PokeBóla?\nDan: Bueno, sí! Obviamente.",
+      "start": 111.24,
+      "duration": 3.92
+    },
+    {
+      "text": "Arin: Cómo funciona? Cuál es su ciencia?\nDan: Tú, bien...",
+      "start": 115.9,
+      "duration": 2.8
+    },
+    {
+      "text": "Dan: Esto es lo que pasa, sí?",
+      "start": 118.7,
+      "duration": 1.2
+    },
+    {
+      "text": "Dan: Primero se preparan, y después dicen cosas feas sobre sus respectivas PokéMadres.",
+      "start": 119.9,
+      "duration": 3.88
+    },
+    {
+      "text": "Dan: Entonces se voltean, caminan diez pasos, se sacan los pitos y hacen pelea de espadas.",
+      "start": 124.08,
+      "duration": 4.0
+    },
+    {
+      "text": "Dan: Olvidé decir que se voltean y corren uno hacia el otro.",
+      "start": 128.82,
+      "duration": 2.3
+    },
+    {
+      "text": "Dan: No sacan sus pitos y los revolean en el aire... En direcciones opuestas.\nArin: Bien! Por lo menos sabes.",
+      "start": 131.62,
+      "duration": 6.06
+    },
+    {
+      "text": "Dan: Sí! Yo veía Pokémon!\nArin: Bien.",
+      "start": 138.34,
+      "duration": 2.48
+    },
+    {
+      "text": "Arin: Te gustaba?\nDan: Tal vez me encantaba.",
+      "start": 141.36,
+      "duration": 2.86
+    },
+    {
+      "text": "Arin: Bien!",
+      "start": 144.22,
+      "duration": 1.24
+    },
+    {
+      "text": "Arin: Quiero que sepas algo sobre ti mismo.\nDan: Qué es?",
+      "start": 145.96,
+      "duration": 3.0
+    },
+    {
+      "text": "Arin: Lo olvidé...",
+      "start": 150.86,
+      "duration": 1.72
+    },
+    {
+      "text": "Arin: Pero... pero!",
+      "start": 152.58,
+      "duration": 1.46
+    },
+    {
+      "text": "Arin: Espera!\nDan: Hace mucho calor en este cuarto y creo que nos está volviendo estúpidos.",
+      "start": 155.82,
+      "duration": 3.74
+    },
+    {
+      "text": "Arin: No trates de culpar mi desinterés por...",
+      "start": 159.7,
+      "duration": 3.04
+    },
+    {
+      "text": "Arin: ...la desinteresación.",
+      "start": 163.22,
+      "duration": 1.4
+    },
+    {
+      "text": "Dan: Bien.\nArin: Quiero que sepas que me importas mucho.",
+      "start": 164.72,
+      "duration": 2.7
+    },
+    {
+      "text": "Arin: Lo que no me importa son las cosas que dices.\nDan: Sí, sólo tengo un desinterés por todo lo que dices o representas.",
+      "start": 167.44,
+      "duration": 6.52
+    },
+    {
+      "text": "Dan: VE, SCHHHH!",
+      "start": 173.96,
+      "duration": 1.12
+    },
+    {
+      "text": "Arin: No quiero un puto Pidgey! Quiero un Mankey o algo así de genial.",
+      "start": 175.66,
+      "duration": 4.7
+    },
+    {
+      "text": "Arin: Pero no puedo llegar al puto Mankey a menos que le gane al maldito Señor... Claarf con sus dos putos Pokémon que están tipo...",
+      "start": 180.36,
+      "duration": 7.32
+    },
+    {
+      "text": "Arin: OH, MÍRENME...\nDan: Espera, entonces cuando vences a algún bicho tienes la opción de atraparlos para siempre?",
+      "start": 188.48,
+      "duration": 4.84
+    },
+    {
+      "text": "Arin: Nonononononono",
+      "start": 193.32,
+      "duration": 1.92
+    },
+    {
+      "text": "Dan: Como cuando se debilitan, podemos simplemente meterlos en un saco y hacer lo que queramos?",
+      "start": 195.46,
+      "duration": 4.7
+    },
+    {
+      "text": "Dan: Porque podríamos haber estado metiendo en el saco un montón de gallos en este punto.\nArin: En teoría...",
+      "start": 200.54,
+      "duration": 4.78
+    },
+    {
+      "text": "Arin: Sí a todo.\nDan: Wooaah!",
+      "start": 206.38,
+      "duration": 2.42
+    },
+    {
+      "text": "Dan: Crítico! Te veré en el infierno, maldito!",
+      "start": 209.06,
+      "duration": 2.58
+    },
+    {
+      "text": "Arin: Te veré en el infierno, donde estaré... Mirándote. \nY entonces estaré tipo \"heeey\"",
+      "start": 212.14,
+      "duration": 4.1
+    },
+    {
+      "text": "Dan: Oh, hay una PokeBola por ahí sola.",
+      "start": 216.24,
+      "duration": 3.06
+    },
+    {
+      "text": "Arin: Sí, pero no puedo llegar a ella porque no tengo Corte. No tengo esa habilidad.",
+      "start": 219.32,
+      "duration": 5.22
+    },
+    {
+      "text": "Arin: Voy a atraparme un Rattata, y esta vez vas a ver qué tan bueno soy.\nDan: Okay.",
+      "start": 224.54,
+      "duration": 5.48
+    },
+    {
+      "text": "Dan: Whoa.",
+      "start": 230.6,
+      "duration": 1.46
+    },
+    {
+      "text": "Dan: Cuidado, está usando Látigo...",
+      "start": 232.06,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: Te gusta esta mierda?\nDan: Me encanta.",
+      "start": 234.22,
+      "duration": 2.58
+    },
+    {
+      "text": "Arin: Bien, mira esto, atento.",
+      "start": 236.8,
+      "duration": 1.58
+    },
+    {
+      "text": "Arin: Voy a entrar a mi mochila.",
+      "start": 238.38,
+      "duration": 1.54
+    },
+    {
+      "text": "Arin: Voy a ir hasta mis putas PokeBolas.\nDan: Sí.",
+      "start": 240.22,
+      "duration": 3.56
+    },
+    {
+      "text": "Arin: Voy a usar mi PokeBola\nDan: Okay.",
+      "start": 243.78,
+      "duration": 1.7
+    },
+    {
+      "text": "Arin: Yo nunca usé PokeBola.",
+      "start": 245.48,
+      "duration": 1.58
+    },
+    {
+      "text": "Arin: Nunca la usé.",
+      "start": 248.0,
+      "duration": 1.78
+    },
+    {
+      "text": "Arin: Así que no me acuses de ello.\nDan: Ya está muerto. Ha muerto. Se va a quedar sin aire.",
+      "start": 249.78,
+      "duration": 4.54
+    },
+    {
+      "text": "Arin: Yo hago agujeros en mis PokeBolas para que respiren. No soy un monstruo.\nDan: Sería divertido si...",
+      "start": 255.76,
+      "duration": 5.16
+    },
+    {
+      "text": "Dan: Si no se encogieran dentro de la bola, y estuvieran tipo...",
+      "start": 260.93,
+      "duration": 2.97
+    },
+    {
+      "text": "Dan: Se quedan ahí apretados.\nArin: \"Sus colmillos son largos y muy filosos\".",
+      "start": 264.98,
+      "duration": 3.96
+    },
+    {
+      "text": "Arin: \"Continuamente roen cosas para mantenerlos cortos\"\nDan: Ohhhhh.",
+      "start": 268.98,
+      "duration": 4.2
+    },
+    {
+      "text": "Arin: Graciasss!",
+      "start": 273.18,
+      "duration": 1.06
+    },
+    {
+      "text": "Dan: Ya veo lo divertido de esto. Coleccionas criaturas divertidas!\nArin: Sí, cómo le ponemos?",
+      "start": 274.24,
+      "duration": 4.14
+    },
+    {
+      "text": "Dan: Tengo una idea... Qué tal \"Knurrrt\"?",
+      "start": 279.02,
+      "duration": 3.22
+    },
+    {
+      "text": "Dan: Eh, con K muda, Arin...\nArin: Oh, lo siento tanto!",
+      "start": 284.18,
+      "duration": 4.3
+    },
+    {
+      "text": "Dan: Vamos...\nArin: De verdad lo siento!",
+      "start": 288.52,
+      "duration": 2.38
+    },
+    {
+      "text": "Dan: Dios...\nArin: Lo siento mucho!",
+      "start": 290.96,
+      "duration": 4.32
+    },
+    {
+      "text": "Dan: No, está bien.\nArin: No te quise ofender!",
+      "start": 295.38,
+      "duration": 2.76
+    },
+    {
+      "text": "Dan: Sí.",
+      "start": 298.56,
+      "duration": 1.14
+    },
+    {
+      "text": "Arin: Kn... \"Knurff\"?\nDan: Knurtt.",
+      "start": 299.7,
+      "duration": 2.52
+    },
+    {
+      "text": "Arin: Knurt.\nDan: Knurt Cobain.",
+      "start": 302.58,
+      "duration": 3.06
+    },
+    {
+      "text": "Arin: Le pongo otra T para que quede simétrico.\nDan: Sí, \"Knuturtuturttt\".",
+      "start": 306.02,
+      "duration": 3.5
+    },
+    {
+      "text": "KnurTtTtTt.",
+      "start": 311.3,
+      "duration": 1.58
+    },
+    {
+      "text": "Arin: Bien, maldito Knurttt, te voy a llevar conmigo a la Liga Pokémon.\nDan: Alguna vez viste Loca Academia de Policía 5?",
+      "start": 312.92,
+      "duration": 5.98
+    },
+    {
+      "text": "Dan: Cuando el capitán Harris se queda dormido en la playa y el otro tipo escribe \"TONTO\" en su pecho",
+      "start": 319.16,
+      "duration": 6.7
+    },
+    {
+      "text": "con bronceador, y cuando se despierta anda por ahí con \"TONTO\" bronceado en su pecho.",
+      "start": 325.92,
+      "duration": 5.3
+    },
+    {
+      "text": "Dan: Y todo el mundo tipo \"Hola, tonto\".\nArin: No la vi, pero suena muy chistoso...",
+      "start": 331.92,
+      "duration": 4.36
+    },
+    {
+      "text": "Dan: No lo es!\nArin: Cómo que no lo es?",
+      "start": 336.46,
+      "duration": 3.06
+    },
+    {
+      "text": "Arin: Me estoy riendo!\nDan: Es gracioso lo poco gracioso que es.",
+      "start": 339.56,
+      "duration": 4.1
+    },
+    {
+      "text": "Arin: Mierda, hermano, qué haces criticando comedia con expresiones como \"gracioso\" y \"no es gracioso\"?",
+      "start": 344.02,
+      "duration": 4.4
+    },
+    {
+      "text": "Estaba jugando contigo porque la mirada que me diste fue como \"maldito idiota, haciéndome perder el tiempo con esto\".",
+      "start": 348.52,
+      "duration": 5.84
+    },
+    {
+      "text": "Arin: Bueno, empezaste preguntando si alguna vez vi Loca Academia de Policía 5, así que...\nDan: Y la viste? Operación Miami Beach?",
+      "start": 354.48,
+      "duration": 5.94
+    },
+    {
+      "text": "Arin: Estaba... No!\nDan: Ah, bueno.",
+      "start": 360.42,
+      "duration": 2.24
+    },
+    {
+      "text": "Arin: Por qué vería Loca Academia de Policía?\nDan: Loca Academia de Policía 5 está bien dentro del Top 4 de Películas de Loca Academia de Policía.",
+      "start": 362.86,
+      "duration": 5.48
+    },
+    {
+      "text": "Arin: Primero que nada...",
+      "start": 368.34,
+      "duration": 1.22
+    },
+    {
+      "text": "Arin: Steve Guttenberg sale en ella?\nDan: No, creo que la 3 fue la última donde sale. O la 4.",
+      "start": 369.66,
+      "duration": 5.24
+    },
+    {
+      "text": "Arin: Me alegra que Steve Guttenberg tenga estándares.\nDan: Sí, \"Los ciudadanos se defienden\", la 4° fue su última.",
+      "start": 375.0,
+      "duration": 6.32
+    },
+    {
+      "text": "Dan: No actuó en Operación Miami Beach o Loca Academia de Policía 6: Misión en Moscú.\n(NdT: Esa fue la 7)",
+      "start": 381.84,
+      "duration": 5.42
+    },
+    {
+      "text": "Arin: Qué remil carajos!",
+      "start": 387.36,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: En cuántas estuvo Michael Winslow?\nDan: Estuvo en todas.",
+      "start": 390.2,
+      "duration": 3.26
+    },
+    {
+      "text": "Arin: Qué!?\nDan: Sí!",
+      "start": 393.46,
+      "duration": 1.14
+    },
+    {
+      "text": "Arin: KhÉ?\nDan: Digo, me encanta Michael Winslow, pero... No es exactamente el actor más ocupado.",
+      "start": 394.88,
+      "duration": 5.54
+    },
+    {
+      "text": "Dan: No exactamente... Oh, mierda! \nEstás usando tu ratoncito contra otro ratoncito!\nArin: Sí, estoy usando mi Tatta contra su Tatta.",
+      "start": 401.18,
+      "duration": 5.96
+    },
+    {
+      "text": "Dan: Es el mismo bicho? Se ve muy distinto desde atrás.",
+      "start": 407.36,
+      "duration": 3.42
+    },
+    {
+      "text": "Arin: No tanto...\nDan: Parece un ratoncito feliz desde atrás y por delante más como...",
+      "start": 411.44,
+      "duration": 4.72
+    },
+    {
+      "text": "KjJjJt soy una ardisha",
+      "start": 416.16,
+      "duration": 1.66
+    },
+    {
+      "text": "Arin: Una ardisha... Guau, me destruyó un Rattata.\nDan: Oh, bueno...",
+      "start": 419.24,
+      "duration": 6.56
+    },
+    {
+      "text": "Dan: No fue una pelea justa.",
+      "start": 426.04,
+      "duration": 2.0
+    },
+    {
+      "text": "Arin: De qué hablas?\nDan: En tu defensa, era el mismo animal con el mismo nivel.",
+      "start": 429.62,
+      "duration": 4.62
+    },
+    {
+      "text": "Arin: No, él tenía nivel 3 y yo nivel 2.\nDan: Oh...",
+      "start": 434.26,
+      "duration": 4.12
+    },
+    {
+      "text": "Dan: Parece que el resultado depende mucho de tu nivel.\nArin: No, es hasta que se empieza a complicar todo.",
+      "start": 438.82,
+      "duration": 7.22
+    },
+    {
+      "text": "Dan: En serio?\nArin: Es todo muy fácil porque sólo tengo Placaje y Ascuas.",
+      "start": 446.06,
+      "duration": 3.58
+    },
+    {
+      "text": "Arin: Pero después tienes un montón de técnicas locas como el puto...",
+      "start": 449.82,
+      "duration": 6.42
+    },
+    {
+      "text": "Arin: Precisión X y mierdas como esa.\nDan: No sé lo que signifique. Suena como un término de física.",
+      "start": 456.9,
+      "duration": 4.9
+    },
+    {
+      "text": "Arin: Y la maldita Palmada en el Trasero con 5 PP...\nDan: Oh, de eso sí sé.",
+      "start": 461.8,
+      "duration": 4.04
+    },
+    {
+      "text": "Arin: Y tienes que pensar qué pasa con tu vida entonces.",
+      "start": 465.84,
+      "duration": 3.36
+    },
+    {
+      "text": "Dan: Me gusta esta PokeEnfermera. Es ella como un clásico? Con el cabello largo y rosa.",
+      "start": 469.2,
+      "duration": 4.36
+    },
+    {
+      "text": "Dan: Creo que la vi en el programa.\nArin: Sí, la llaman Enfermera Joy.",
+      "start": 473.56,
+      "duration": 3.82
+    },
+    {
+      "text": "Dan: Ah, ahora me acuerdo.",
+      "start": 478.12,
+      "duration": 2.36
+    },
+    {
+      "text": "Dan: Porque sale en esa animación de Spazkid donde están tipo \"muéstranos tu trasero\".",
+      "start": 481.02,
+      "duration": 5.36
+    },
+    {
+      "text": "Arin: Y ella tipo \"jajaja, así??\"",
+      "start": 487.56,
+      "duration": 2.0
+    },
+    {
+      "text": "Dan: Y te excita un poco y tratas de olvidar que es la voz del puto Stamper.",
+      "start": 490.7,
+      "duration": 4.4
+    },
+    {
+      "text": "Arin: Oh, Stamper hace las mejores voces de mujer.\nDan: Sí, de verdad tiene ese tono femenino en la voz.",
+      "start": 495.1,
+      "duration": 5.3
+    },
+    {
+      "text": "Arin: Le daría duro a Stamper si fuera una mujer...\nDan: Sí?",
+      "start": 500.42,
+      "duration": 3.64
+    },
+    {
+      "text": "Dan: Podrías haber parado. \"Le daría duro a Stamper\". Punto.\nArin: Verdad!",
+      "start": 505.12,
+      "duration": 3.42
+    },
+    {
+      "text": "Arin: Verdad... Voy a echarle un Placaje a este hijo de puta.",
+      "start": 509.42,
+      "duration": 3.26
+    },
+    {
+      "text": "Arin: Adelante, usa Látigo. Me importa un carancho.",
+      "start": 513.32,
+      "duration": 2.46
+    },
+    {
+      "text": "Dan: Crees que lo tienes, Rattatatatata? Eso es porque nunca te enfrentaste a Knurtttutututurt.",
+      "start": 516.7,
+      "duration": 4.28
+    },
+    {
+      "text": "Arin: Puta madre! El puto... Puto...",
+      "start": 521.44,
+      "duration": 2.64
+    },
+    {
+      "text": "Dan: La idea de estos dos ratoncitos embistiéndose unos a otros es adorable.",
+      "start": 524.08,
+      "duration": 4.2
+    },
+    {
+      "text": "Arin: Knurttt va a venir aquí!\nDan: Oh, mierda!",
+      "start": 528.64,
+      "duration": 4.52
+    },
+    {
+      "text": "Dan: Espera... entonces Knurttt no va a subir de nivel?\nArin: Sí, por eso lo cambié.",
+      "start": 533.78,
+      "duration": 4.46
+    },
+    {
+      "text": "Dan: Oh, entonces tiene que quedar vivo.\nArin: Sí, es mas o meno así.",
+      "start": 538.24,
+      "duration": 3.12
+    },
+    {
+      "text": "Dan: Genial!",
+      "start": 541.36,
+      "duration": 1.08
+    },
+    {
+      "text": "Arin: Tengo que subir a Knurttt a un nivel donde esté comodo, entiendes?",
+      "start": 542.62,
+      "duration": 3.7
+    },
+    {
+      "text": "Arin: Tengo que hacer que Knurttt pelee con otros Knurttts.\nDan: Ya veo.",
+      "start": 546.34,
+      "duration": 4.2
+    },
+    {
+      "text": "Dan: Ya veo...\nArin: Pero este no es un puto Knurttt, este es un Geor...ge...",
+      "start": 550.6,
+      "duration": 2.72
+    },
+    {
+      "text": "Dan: No es un George.\nArin: No, es un Georrr, punto. Y la frase siguiente es sólo \"ggg\"",
+      "start": 553.52,
+      "duration": 6.5
+    },
+    {
+      "text": "Dan: Reconozco mi error. Oh, no su precisión bajó!",
+      "start": 560.92,
+      "duration": 3.28
+    },
+    {
+      "text": "Dan: Qué va a ser de él ahora?\nArin: Quién necesita precisión cuando tienes a Schhh?",
+      "start": 565.28,
+      "duration": 3.88
+    },
+    {
+      "text": "Arin: Este hijo de puta conoce Ascuas! Ascuas va a quemar a ese hijo de puta.",
+      "start": 570.64,
+      "duration": 3.8
+    },
+    {
+      "text": "Dan: Hazlo.\nArin: Ataque arena? Pffff...",
+      "start": 574.44,
+      "duration": 1.64
+    },
+    {
+      "text": "Arin: Ni siquiera tengo que ver adónde golpeo.\nDan: Quiten a este debilucho de mi vista.",
+      "start": 576.08,
+      "duration": 4.3
+    },
+    {
+      "text": "Arin: Dan, no pensé que fueras tan en serio.\nDan: Sí, probablemente.",
+      "start": 580.38,
+      "duration": 3.58
+    },
+    {
+      "text": "Arin: Santo Dios...\nDan: Ya no tengo en claro sobre qué estamos diciendo, pero sabes qué? Voy en serio.",
+      "start": 583.96,
+      "duration": 4.46
+    },
+    {
+      "text": "Dan: Nos vemos, puto!",
+      "start": 588.42,
+      "duration": 1.18
+    },
+    {
+      "text": "Arin: Alguna vez fuiste a la casa de alguien y... Oh, Knurttt subió a nivel 3!\nDan: Sigue...",
+      "start": 589.6,
+      "duration": 4.78
+    },
+    {
+      "text": "Arin: Alguna vez fuiste a la casa de alguien y dijiste \"qué linda casa\" y sentiste envidia?",
+      "start": 594.54,
+      "duration": 3.66
+    },
+    {
+      "text": "Dan: De qué mierda me hablas?\nArin: Nunca tuviste un amigo con dinero?",
+      "start": 599.3,
+      "duration": 3.38
+    },
+    {
+      "text": "Dan: Ohhh, dices en general!\nArin: Y en su casa tienen un candelabro en el vestíbulo y tú estás tipo \"ni siquiera tengo vestíbulo\".",
+      "start": 603.08,
+      "duration": 5.18
+    },
+    {
+      "text": "Dan: Es un \"vestibulóo\". Y pensé que me hablabas de entrar a hurtadillas a la casa de un extraño, no sé por qué...",
+      "start": 608.26,
+      "duration": 7.88
+    },
+    {
+      "text": "Arin: No, no estoy hablando de entrar sigilosamente.\nDan: Claro, invadir, robar, hurtar...",
+      "start": 616.14,
+      "duration": 6.34
+    },
+    {
+      "text": "Dan: Entrar y empezar a robar.\nArin: No, me refiero a la casa de un amigo.",
+      "start": 622.74,
+      "duration": 2.7
+    },
+    {
+      "text": "Arin: Tipo, les decías \"puedo ir a tu casa?\" y ellos tipo \"Mhh, ehh, mhh\"",
+      "start": 625.52,
+      "duration": 3.04
+    },
+    {
+      "text": "Dan: Y tú tipo \"GENIAL!\"\nArin: Y vas a su casa y...",
+      "start": 628.74,
+      "duration": 2.88
+    },
+    {
+      "text": "Dan: \"Voy a llevar comida!\" y no llevas comida y cuando llegas estás tipo \"Tienes comida?\"",
+      "start": 631.66,
+      "duration": 5.239
+    },
+    {
+      "text": "Arin: No, te hablo de cuando tenías 6 o 7.",
+      "start": 636.9,
+      "duration": 3.5
+    },
+    {
+      "text": "Arin: Y te ibas a la casa de un amigo que también tenía 6 o 7.\nDan: Bien.",
+      "start": 640.4,
+      "duration": 3.52
+    },
+    {
+      "text": "Dan: Ohhh, ya me acuerdo. Porque todos tuvimos ese amigo que",
+      "start": 644.48,
+      "duration": 3.56
+    },
+    {
+      "text": "tenía siempre cosas lindas porque sus padres se las compraban y tú estabas tipo:",
+      "start": 648.06,
+      "duration": 4.74
+    },
+    {
+      "text": "Ojalá ellos fueran mis padres, y luego veías a tus padres y estabas tipo... \"Supongo que los quiero igual\"",
+      "start": 652.8,
+      "duration": 5.52
+    },
+    {
+      "text": "Dan: Iba a decir algo triste como \"APESTAN!\" pero no puedo hablar mal de mi mamá.",
+      "start": 659.46,
+      "duration": 5.64
+    },
+    {
+      "text": "Arin: PUTA MADRE ES UN WEEDLE",
+      "start": 666.4,
+      "duration": 2.0
+    }
+  ]
+}
