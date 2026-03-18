@@ -1,0 +1,38 @@
+{
+  "video_id": "testVideoId1",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippets": [
+    {
+      "text": "hey I'm Grumps I'm not so Grump",
+      "start": 0.199,
+      "duration": 4.481
+    },
+    {
+      "text": "welcome back to Game Grumps",
+      "start": 4.68,
+      "duration": 3.0
+    },
+    {
+      "text": "today we're playing a banana game",
+      "start": 7.68,
+      "duration": 4.0
+    },
+    {
+      "text": "the banana is very yellow",
+      "start": 11.68,
+      "duration": 3.5
+    },
+    {
+      "text": "I love bananas so much",
+      "start": 15.18,
+      "duration": 3.0
+    },
+    {
+      "text": "alright let's get into it",
+      "start": 18.18,
+      "duration": 2.5
+    }
+  ]
+}

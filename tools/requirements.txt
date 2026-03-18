@@ -1,0 +1,8 @@
+# Requirements for tools/ggdb.py
+#
+# The core build/search CLI uses only the Python standard library
+# (sqlite3, json, hashlib, pathlib, argparse, re, os, sys, time, datetime).
+# No third-party packages are required to run the transcript database pipeline.
+#
+# Optional / future enhancements:
+# requests>=2.31.0   # on-demand YouTube metadata enrichment (not required by default)

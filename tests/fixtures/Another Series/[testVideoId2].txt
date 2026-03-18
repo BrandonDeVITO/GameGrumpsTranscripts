@@ -1,0 +1,23 @@
+{
+  "video_id": "testVideoId2",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippets": [
+    {
+      "text": "hello and welcome to another episode",
+      "start": 0.0,
+      "duration": 3.5
+    },
+    {
+      "text": "we have spider kiss right here",
+      "start": 3.5,
+      "duration": 4.0
+    },
+    {
+      "text": "this game is wild",
+      "start": 7.5,
+      "duration": 2.5
+    }
+  ]
+}
