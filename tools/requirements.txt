@@ -1,0 +1,6 @@
+# No external dependencies required.
+# gg.py uses only Python standard library modules:
+#   argparse, json, os, re, sqlite3, sys, textwrap, pathlib
+#
+# Requires: Python 3.8+ with SQLite compiled with FTS5 support
+# (CPython ships FTS5 by default since 3.8)
