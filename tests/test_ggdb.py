@@ -29,6 +29,10 @@ from ggdb import (  # noqa: E402
     open_db,
     rebuild_db,
     cmd_build,
+    extract_search_terms,
+    parse_followup,
+    run_human_search,
+    print_human_results,
 )
 
 FIXTURES_DIR = Path(__file__).resolve().parent / 'fixtures'
@@ -321,6 +325,175 @@ class TestIncrementalBuild(unittest.TestCase):
         ).fetchone()
         self.assertIn('different', line['text'])
         con.close()
+
+
+# ---------------------------------------------------------------------------
+# extract_search_terms
+# ---------------------------------------------------------------------------
+
+class TestExtractSearchTerms(unittest.TestCase):
+
+    def test_bare_word(self):
+        self.assertEqual(extract_search_terms('banana'), 'banana')
+
+    def test_mentions_of(self):
+        result = extract_search_terms('Are there any mentions of banana in the transcripts?')
+        self.assertIn('banana', result.lower())
+
+    def test_or_variants(self):
+        result = extract_search_terms('Are there any mentions of banana or bananas?')
+        self.assertIn('banana', result.lower())
+        self.assertIn('OR', result)
+
+    def test_find_phrase(self):
+        result = extract_search_terms('Find every time they say spider kiss')
+        self.assertIn('spider', result.lower())
+
+    def test_quoted_phrase_passthrough(self):
+        result = extract_search_terms('"spider kiss"')
+        self.assertEqual(result, '"spider kiss"')
+
+    def test_did_they_ever_mention(self):
+        result = extract_search_terms('Did they ever mention Bloodborne?')
+        self.assertIn('bloodborne', result.lower())
+
+    def test_talk_about(self):
+        result = extract_search_terms('When do they talk about pizza?')
+        self.assertIn('pizza', result.lower())
+
+    def test_empty_question_returns_empty(self):
+        result = extract_search_terms('?')
+        self.assertEqual(result, '')
+
+    def test_show_me(self):
+        result = extract_search_terms('Show me banana')
+        self.assertIn('banana', result.lower())
+
+    def test_how_many_times(self):
+        result = extract_search_terms('How many times did they say "oops"?')
+        self.assertIn('oops', result.lower())
+
+
+# ---------------------------------------------------------------------------
+# parse_followup
+# ---------------------------------------------------------------------------
+
+class TestParseFollowup(unittest.TestCase):
+
+    def test_hash_number(self):
+        r = parse_followup('#2')
+        self.assertIsNotNone(r)
+        self.assertEqual(r['num'], 2)
+
+    def test_hash_with_space(self):
+        r = parse_followup('# 3')
+        self.assertIsNotNone(r)
+        self.assertEqual(r['num'], 3)
+
+    def test_context_of(self):
+        r = parse_followup('What was the context of #2?')
+        self.assertIsNotNone(r)
+        self.assertEqual(r['num'], 2)
+        self.assertEqual(r['type'], 'context')
+
+    def test_what_episode_was(self):
+        r = parse_followup('What episode was #3?')
+        self.assertIsNotNone(r)
+        self.assertEqual(r['num'], 3)
+        self.assertEqual(r['type'], 'episode')
+
+    def test_what_series_was(self):
+        r = parse_followup('What series was #1?')
+        self.assertIsNotNone(r)
+        self.assertEqual(r['num'], 1)
+        self.assertEqual(r['type'], 'episode')
+
+    def test_more_about(self):
+        r = parse_followup('Tell me more about #4')
+        self.assertIsNotNone(r)
+        self.assertEqual(r['num'], 4)
+
+    def test_result_number(self):
+        r = parse_followup('result 5')
+        self.assertIsNotNone(r)
+        self.assertEqual(r['num'], 5)
+
+    def test_not_a_followup(self):
+        self.assertIsNone(parse_followup('Are there any mentions of banana?'))
+
+    def test_plain_search_not_followup(self):
+        self.assertIsNone(parse_followup('Find every time they say Bloodborne'))
+
+    def test_youtube_link_implies_episode(self):
+        r = parse_followup('Give me the YouTube link for #2')
+        self.assertIsNotNone(r)
+        self.assertEqual(r['num'], 2)
+        self.assertEqual(r['type'], 'episode')
+
+
+# ---------------------------------------------------------------------------
+# run_human_search + print_human_results (integration)
+# ---------------------------------------------------------------------------
+
+class TestHumanSearch(unittest.TestCase):
+
+    def setUp(self):
+        self.tmp = tempfile.mkdtemp()
+        self.db = os.path.join(self.tmp, 'human.db')
+        args = _BuildArgs(root=str(FIXTURES_DIR), db=self.db)
+        cmd_build(args)
+        self.con = sqlite3.connect(self.db)
+        self.con.row_factory = sqlite3.Row
+
+    def tearDown(self):
+        self.con.close()
+
+    def test_search_returns_results(self):
+        results = run_human_search(self.con, 'banana', limit=10)
+        self.assertGreater(len(results), 0)
+
+    def test_results_are_numbered(self):
+        results = run_human_search(self.con, 'banana', limit=5)
+        nums = [r['num'] for r in results]
+        self.assertEqual(nums, list(range(1, len(nums) + 1)))
+
+    def test_results_have_required_keys(self):
+        results = run_human_search(self.con, 'banana', limit=3)
+        for r in results:
+            for key in ('num', 'video_id', 'series', 'line_no', 'ep_id', 'start', 'text'):
+                self.assertIn(key, r)
+
+    def test_no_results(self):
+        results = run_human_search(self.con, 'zzznomatch99999', limit=10)
+        self.assertEqual(results, [])
+
+    def test_print_human_results_output(self):
+        import io
+        results = run_human_search(self.con, 'banana', limit=5)
+        buf = io.StringIO()
+        import sys as _sys
+        old_stdout = _sys.stdout
+        _sys.stdout = buf
+        try:
+            print_human_results(results, 'banana')
+        finally:
+            _sys.stdout = old_stdout
+        output = buf.getvalue()
+        self.assertIn('banana', output.lower())
+        self.assertIn('# 1', output)
+        self.assertIn('youtube.com', output.lower())
+
+    def test_print_human_results_no_results(self):
+        import io
+        import sys as _sys
+        buf = io.StringIO()
+        old_stdout = _sys.stdout
+        _sys.stdout = buf
+        try:
+            print_human_results([], 'zzznomatch')
+        finally:
+            _sys.stdout = old_stdout
+        self.assertIn("couldn't find", buf.getvalue().lower())
 
 
 if __name__ == '__main__':

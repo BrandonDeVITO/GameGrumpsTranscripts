@@ -5,13 +5,14 @@ ggdb.py — Game Grumps Transcript Database CLI
 Commands:
   build   Scan transcripts and (re)build the SQLite + FTS5 database.
   search  Full-text search the database with optional filters.
+  ask     Interactive plain-English REPL for querying the transcripts.
 
 Usage examples:
   python tools/ggdb.py build --root transcripts --db ggtranscripts.db
   python tools/ggdb.py build --root transcripts --db ggtranscripts.db --incremental
   python tools/ggdb.py search "spider kiss" --db ggtranscripts.db --limit 20 --context 2
   python tools/ggdb.py search "banana" --db ggtranscripts.db --series "Goof Troop"
-  python tools/ggdb.py search "banana" --db ggtranscripts.db --video-id JgwxuusiH2k
+  python tools/ggdb.py ask --db ggtranscripts.db
 """
 
 import argparse
@@ -418,8 +419,428 @@ def cmd_search(args):
 
 
 # ---------------------------------------------------------------------------
-# Argument parsing + main
+# Plain-English ("ask") helpers
 # ---------------------------------------------------------------------------
+
+# Noise words/phrases that indicate a question structure rather than search terms.
+# We strip these so the user's actual subject remains.
+_NOISE_RE = re.compile(
+    r'\b(are\s+there|is\s+there|were\s+there|did\s+they|do\s+they|does\s+any(one|body)?|'
+    r'ever|any|all|every|each|find|search(\s+for)?|look(\s+up|\s+for)?|'
+    r'show\s+me|tell\s+me\s+(about|more\s+about)?|give\s+me|'
+    r'what\s+(are\s+)?all\s+the|how\s+many\s+times|how\s+often|'
+    r'can\s+you\s+find|please|'
+    r'mentions?\s+of|occurrences?\s+of|instances?\s+of|uses?\s+of|'
+    r'times?\s+(they\s+)?(said|say|talked?\s+about|mention(ed)?|brought\s+up)|'
+    r'when(\s+do|\s+did|\s+does)?\s+(they\s+)?(say|mention|talk\s+about|bring\s+up)|'
+    r'in\s+the\s+transcripts?|across\s+(all\s+)?episodes?)\b',
+    re.IGNORECASE,
+)
+
+# Extra filler words to strip after the main pass
+_FILLER_RE = re.compile(
+    r'\b(the|a|an|about|of|or|and|in|on|at|to|for|with|that|this|those|these|'
+    r'they|their|it|its|is|was|has|have|had|be|been|being|'
+    r'would|could|should|did|do|does|get|got|'
+    r'transcripts?|episodes?|videos?|series|game\s+grumps)\b',
+    re.IGNORECASE,
+)
+
+# Patterns that directly name the search subject
+_SUBJECT_PATTERNS = [
+    # "mentions of X", "mention of X", "any X", etc. — capture X
+    re.compile(
+        r'\b(?:mentions?\s+of|any\s+mention\s+of|talk(?:ing|ed|s)?\s+about|'
+        r'say(?:ing|s)?\s+|said\s+|about\s+|for\s+|regarding\s+)'
+        r'["\']?(.+?)["\']?\s*(?:\?|$)',
+        re.IGNORECASE,
+    ),
+    # "find X" / "search for X" / "look for X"
+    re.compile(
+        r'\b(?:find|search\s+for|look\s+for|look\s+up|show\s+me|give\s+me)\s+'
+        r'["\']?(.+?)["\']?\s*(?:\?|$)',
+        re.IGNORECASE,
+    ),
+    # quoted term anywhere: "spider kiss"
+    re.compile(r'["\']([^"\']+)["\']'),
+]
+
+
+def extract_search_terms(question: str) -> str:
+    """
+    Pull the key search term(s) out of a plain-English question.
+
+    Returns a string suitable for SQLite FTS5 (may contain OR, quotes, etc.).
+    Returns an empty string if nothing useful can be extracted.
+
+    Examples:
+      "Are there any mentions of banana or bananas?" -> "banana OR bananas"
+      'Find every "spider kiss"' -> '"spider kiss"'
+      "Did they ever talk about Bloodborne?" -> "Bloodborne"
+      "banana" -> "banana"
+    """
+    q = question.strip()
+
+    # 1. If the user typed a bare quoted phrase, use it directly.
+    if q.startswith(('"', "'")) and q.endswith(('"', "'")):
+        return q
+
+    # 2. Try the subject-extraction patterns.
+    for pat in _SUBJECT_PATTERNS:
+        m = pat.search(q)
+        if m:
+            raw = m.group(1).strip().rstrip('?').strip()
+            # Handle "X or Y" → "X OR Y" for FTS
+            raw = re.sub(r'\s+or\s+', ' OR ', raw, flags=re.IGNORECASE)
+            if len(raw) >= 2:
+                return raw
+
+    # 3. Strip structural noise words and filler; use whatever remains.
+    stripped = _NOISE_RE.sub(' ', q)
+    stripped = _FILLER_RE.sub(' ', stripped)
+    stripped = re.sub(r'[?!.,;:]', ' ', stripped)
+    stripped = re.sub(r'\s+', ' ', stripped).strip()
+
+    # Handle "X or Y" → FTS OR
+    stripped = re.sub(r'\s+or\s+', ' OR ', stripped, flags=re.IGNORECASE)
+
+    return stripped if len(stripped) >= 2 else ''
+
+
+# Patterns that indicate the user is asking about a specific numbered result.
+_FOLLOWUP_RE = re.compile(
+    r'(?:'
+    r'(?:what\s+(?:was\s+the\s+)?(?:context|episode|series|game|video)\s+(?:of|was|for)\s+)?'
+    r'(?:result\s+|#\s*|number\s+)'
+    r'(\d+)'
+    r'|'
+    r'#\s*(\d+)'
+    r'|'
+    r'(?:context|more|details?|info)\s+(?:of|for|about|on)?\s+#?\s*(\d+)'
+    r'|'
+    r'(?:tell\s+me\s+more\s+about|expand\s+on|more\s+about)\s+#?\s*(\d+)'
+    r'|'
+    r'(?:what\s+episode|what\s+series|which\s+episode|which\s+series)\s+(?:is|was)\s+#?\s*(\d+)'
+    r')',
+    re.IGNORECASE,
+)
+
+# Separate pattern to determine if the follow-up is asking for episode info vs. context
+_EPISODE_FOLLOWUP_RE = re.compile(
+    r'\b(?:episode|series|game|video|watch|youtube|link|url|which\s+(?:episode|series|game))\b',
+    re.IGNORECASE,
+)
+
+
+def parse_followup(question: str) -> dict | None:
+    """
+    Detect whether the question is a follow-up about a specific numbered result.
+
+    Returns {'num': int, 'type': 'context' | 'episode'} or None.
+    """
+    m = _FOLLOWUP_RE.search(question.strip())
+    if not m:
+        return None
+    # One of the capture groups matched
+    num_str = next(g for g in m.groups() if g is not None)
+    num = int(num_str)
+    kind = 'episode' if _EPISODE_FOLLOWUP_RE.search(question) else 'context'
+    return {'num': num, 'type': kind}
+
+
+def _yt_url(video_id: str) -> str:
+    return f"https://www.youtube.com/watch?v={video_id}"
+
+
+def _fetch_context_lines(con: sqlite3.Connection, ep_id: int, line_no: int,
+                         k: int = 5) -> list:
+    """Return k lines before and after line_no for ep_id, ordered by line_no."""
+    lo = max(1, line_no - k)
+    hi = line_no + k
+    return con.execute(
+        "SELECT line_no, start, text FROM episode_lines "
+        "WHERE episode_id=? AND line_no BETWEEN ? AND ? ORDER BY line_no",
+        (ep_id, lo, hi),
+    ).fetchall()
+
+
+def _print_context(con: sqlite3.Connection, result: dict, k: int = 5) -> None:
+    """Print a context window around a result's matched line."""
+    ctx = _fetch_context_lines(con, result['ep_id'], result['line_no'], k)
+    print(f"\n  Context for result #{result['num']} "
+          f"— {result['series']} (⏱ {_format_timestamp(result['start'])}):\n")
+    for row in ctx:
+        marker = ">>>" if row[0] == result['line_no'] else "   "
+        print(f"  {marker}  [{_format_timestamp(row[1])}]  {row[2]}")
+    print()
+
+
+def _print_episode_info(result: dict) -> None:
+    """Print episode metadata for a result."""
+    print(f"\n  Result #{result['num']} — Episode details:\n")
+    print(f"    Series  : {result['series']}")
+    print(f"    Video ID: {result['video_id']}")
+    print(f"    YouTube : {_yt_url(result['video_id'])}")
+    print(f"    Match at: {_format_timestamp(result['start'])}"
+          f"  (line {result['line_no']})")
+    print(f"    Text    : \"{result['text']}\"")
+    print()
+
+
+def run_human_search(con: sqlite3.Connection, terms: str,
+                     limit: int = 10) -> list[dict]:
+    """
+    Run a FTS5 search and return a list of result dicts ready for human display.
+    Each dict has: num, video_id, series, line_no, ep_id, start, text, path.
+    """
+    sql = """
+        SELECT
+            el.id        AS line_id,
+            el.episode_id AS ep_id,
+            el.line_no,
+            el.start,
+            el.text,
+            e.video_id,
+            e.series,
+            e.path,
+            rank
+        FROM episode_fts
+        JOIN episode_lines el ON el.id = episode_fts.rowid
+        JOIN episodes e ON e.id = el.episode_id
+        WHERE episode_fts MATCH ?
+        ORDER BY rank
+        LIMIT ?
+    """
+    try:
+        rows = con.execute(sql, [terms, limit]).fetchall()
+    except sqlite3.OperationalError:
+        return []
+
+    results = []
+    for i, row in enumerate(rows, 1):
+        results.append({
+            'num':      i,
+            'video_id': row['video_id'],
+            'series':   row['series'],
+            'line_no':  row['line_no'],
+            'ep_id':    row['ep_id'],
+            'start':    row['start'],
+            'text':     row['text'],
+            'path':     row['path'],
+        })
+    return results
+
+
+def print_human_results(results: list[dict], terms: str) -> None:
+    """Print a warm, numbered, human-readable result list."""
+    n = len(results)
+    # Count distinct episodes
+    unique_eps = len({r['video_id'] for r in results})
+
+    term_display = f'"{terms}"'
+    if n == 0:
+        print(f"\nHmm, I couldn't find any mentions of {term_display} "
+              f"in the transcripts.\n")
+        return
+
+    if n == 1:
+        print(f"\nYes! I found 1 mention of {term_display} in the transcripts.\n")
+    else:
+        ep_word = "episode" if unique_eps == 1 else "episodes"
+        print(f"\nYes! I found {n} mention(s) of {term_display} "
+              f"across {unique_eps} different {ep_word}.\n")
+
+    for r in results:
+        ts = _format_timestamp(r['start'])
+        print(f"  #{r['num']:>2}  {r['series']}")
+        print(f"        Video: {r['video_id']}  |  YouTube: {_yt_url(r['video_id'])}")
+        print(f"        At {ts}:  \"{r['text']}\"")
+        print()
+
+    if n >= 2:
+        print("  Ask me things like:")
+        print("    \"What was the context of #2?\"")
+        print("    \"What episode was #3?\"")
+        print()
+
+
+def handle_followup(followup: dict, last_results: list[dict],
+                    con: sqlite3.Connection) -> None:
+    """Respond to a numbered follow-up question about a previous result."""
+    num = followup['num']
+    kind = followup['type']
+
+    result = next((r for r in last_results if r['num'] == num), None)
+    if result is None:
+        hi = max(r['num'] for r in last_results)
+        print(f"\n  I don't have a result #{num}. "
+              f"The last search returned results #1–#{hi}.\n")
+        return
+
+    if kind == 'episode':
+        _print_episode_info(result)
+    else:
+        _print_context(con, result, k=5)
+
+
+# ---------------------------------------------------------------------------
+# Ask (interactive REPL) command
+# ---------------------------------------------------------------------------
+
+_HELP_TEXT = """
+  Game Grumps Transcript Assistant — tips:
+    • Ask naturally: "Are there any mentions of banana?"
+    • Phrase search:  "Did they ever say 'spider kiss'?"
+    • Follow-up:      "What was the context of #2?"
+    • Episode detail: "What episode was #3?"
+    • Narrow search:  "Find banana in Goof Troop" (series filter)
+    • Exit: type  quit  or  exit
+"""
+
+
+def _parse_series_filter(question: str) -> tuple[str, str | None]:
+    """
+    If the question contains "in <Series Name>" or "from <Series Name>",
+    strip it out and return (cleaned_question, series_name).
+    Otherwise return (question, None).
+    """
+    m = re.search(
+        r'\s+(?:in|from|for)\s+([A-Z][^?!.]+?)(?:\?|$)',
+        question,
+        re.IGNORECASE,
+    )
+    if m:
+        series = m.group(1).strip()
+        cleaned = question[:m.start()] + question[m.end():]
+        return cleaned.strip(), series
+    return question, None
+
+
+def cmd_ask(args):
+    """Interactive plain-English REPL for the transcript database."""
+    db_path = args.db
+    if not os.path.exists(db_path):
+        print(
+            f"\nThe database file '{db_path}' doesn't exist yet.\n"
+            f"Build it first with:\n\n"
+            f"  python tools/ggdb.py build --root transcripts --db {db_path}\n"
+        )
+        sys.exit(1)
+
+    con = sqlite3.connect(db_path)
+    con.row_factory = sqlite3.Row
+    con.execute("PRAGMA foreign_keys=ON")
+
+    ep_count = con.execute("SELECT COUNT(*) FROM episodes").fetchone()[0]
+    line_count = con.execute("SELECT COUNT(*) FROM episode_lines").fetchone()[0]
+
+    print("\n" + "=" * 60)
+    print("  Game Grumps Transcript Assistant")
+    print("=" * 60)
+    print(f"  Loaded: {ep_count:,} episodes  |  {line_count:,} transcript lines")
+    print(_HELP_TEXT)
+
+    last_results: list[dict] = []
+    last_terms: str = ''
+
+    while True:
+        try:
+            question = input("You: ").strip()
+        except (EOFError, KeyboardInterrupt):
+            print("\nGoodbye!")
+            break
+
+        if not question:
+            continue
+
+        if question.lower() in ('quit', 'exit', 'bye', 'q'):
+            print("Goodbye!")
+            break
+
+        if question.lower() in ('help', '?', 'h'):
+            print(_HELP_TEXT)
+            continue
+
+        # --- Follow-up about a previous numbered result? ---
+        followup = parse_followup(question)
+        if followup and last_results:
+            handle_followup(followup, last_results, con)
+            continue
+
+        if followup and not last_results:
+            print("\n  I don't have any previous results to refer to."
+                  " Ask a search question first!\n")
+            continue
+
+        # --- Check for optional "in <Series>" filter ---
+        cleaned_q, series_filter = _parse_series_filter(question)
+
+        # --- Extract search terms ---
+        terms = extract_search_terms(cleaned_q)
+        if not terms:
+            print(
+                "\n  I'm not sure what to search for. Try something like:\n"
+                "    \"Are there any mentions of banana?\"\n"
+                "    \"Find every time they say spider kiss\"\n"
+            )
+            continue
+
+        # If a series filter was found, append it to the FTS query as a column filter
+        fts_terms = terms
+        extra_where = ''
+        # sql_params always starts with [fts_terms] as the MATCH parameter
+        sql_params: list = [fts_terms]
+
+        if series_filter:
+            extra_where = ' AND e.series LIKE ?'
+            sql_params.append(f'%{series_filter}%')
+            print(f"\n  Searching for {terms!r} in series matching '{series_filter}'...")
+        else:
+            print(f"\n  Searching for {terms!r}...")
+
+        # Run search (filtered or plain)
+        if extra_where:
+            sql = f"""
+                SELECT el.id AS line_id, el.episode_id AS ep_id,
+                       el.line_no, el.start, el.text,
+                       e.video_id, e.series, e.path, rank
+                FROM episode_fts
+                JOIN episode_lines el ON el.id = episode_fts.rowid
+                JOIN episodes e ON e.id = el.episode_id
+                WHERE episode_fts MATCH ?
+                  {extra_where}
+                ORDER BY rank
+                LIMIT ?
+            """
+            try:
+                rows = con.execute(sql, sql_params + [args.limit]).fetchall()
+            except sqlite3.OperationalError as exc:
+                print(f"\n  Search error: {exc}\n"
+                      "  Tip: put multi-word phrases in quotes, e.g. \"spider kiss\"\n")
+                continue
+            results = [
+                {
+                    'num': i + 1,
+                    'video_id': row['video_id'],
+                    'series':   row['series'],
+                    'line_no':  row['line_no'],
+                    'ep_id':    row['ep_id'],
+                    'start':    row['start'],
+                    'text':     row['text'],
+                    'path':     row['path'],
+                }
+                for i, row in enumerate(rows)
+            ]
+        else:
+            results = run_human_search(con, fts_terms, limit=args.limit)
+
+        if results:
+            last_results = results
+            last_terms = terms
+
+        print_human_results(results, terms)
+
+    con.close()
 
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
@@ -467,6 +888,20 @@ def build_parser() -> argparse.ArgumentParser:
         help='Filter to a specific video ID'
     )
 
+    # --- ask (interactive REPL) ---
+    p_ask = sub.add_parser(
+        'ask',
+        help='Interactive plain-English assistant for querying the transcripts.',
+    )
+    p_ask.add_argument(
+        '--db', default='ggtranscripts.db',
+        help='Path to the SQLite database (default: ggtranscripts.db)'
+    )
+    p_ask.add_argument(
+        '--limit', type=int, default=10,
+        help='Maximum results per search (default: 10)'
+    )
+
     return parser
 
 
@@ -478,6 +913,8 @@ def main():
         cmd_build(args)
     elif args.command == 'search':
         cmd_search(args)
+    elif args.command == 'ask':
+        cmd_ask(args)
     else:
         parser.print_help()
         sys.exit(1)

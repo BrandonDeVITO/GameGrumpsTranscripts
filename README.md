@@ -87,9 +87,76 @@ Found 5 result(s) for: 'banana'
        [1:42] yeah okay let's go
 ```
 
-### 3. FTS5 query syntax
+### 3. Ask questions interactively (recommended)
 
-The search query uses [SQLite FTS5 syntax](https://www.sqlite.org/fts5.html):
+```bash
+python tools/ggdb.py ask --db ggtranscripts.db
+```
+
+This opens a plain-English interactive assistant. Just type your question and get a human-readable answer.
+
+**Example session:**
+
+```
+============================================================
+  Game Grumps Transcript Assistant
+============================================================
+  Loaded: 10,597 episodes  |  3,142,804 transcript lines
+
+You: Are there any mentions of banana or bananas?
+
+  Searching for 'banana OR bananas'...
+
+Yes! I found 10 mention(s) of "banana OR bananas" across 7 different episodes.
+
+  # 1  Goof Troop
+        Video: 9w_sFSA6oVQ  |  YouTube: https://www.youtube.com/watch?v=9w_sFSA6oVQ
+        At 9:02:  "banana"
+
+  # 2  Bloodborne _ Game Grumps
+        Video: Fw5qBbz6g7U  |  YouTube: https://www.youtube.com/watch?v=Fw5qBbz6g7U
+        At 1:07:  "[Arin]-It's bananas."
+
+  ...
+
+  Ask me things like:
+    "What was the context of #2?"
+    "What episode was #3?"
+
+You: What was the context of #2?
+
+  Context for result #2 — Bloodborne _ Game Grumps (⏱ 1:07):
+
+       [1:02]  [Arin]- And when I get close, he's gonna start shooting like a fucking automatic weapon.
+       [1:06]  [Danny]-Come on, now
+   >>>  [1:07]  [Arin]-It's bananas.
+       [1:09]  [Arin]- And I fucking hate it, and it drives me insane.
+
+You: What episode was #1?
+
+  Result #1 — Episode details:
+
+    Series  : Goof Troop
+    Video ID: 9w_sFSA6oVQ
+    YouTube : https://www.youtube.com/watch?v=9w_sFSA6oVQ
+    Match at: 9:02  (line 225)
+    Text    : "banana"
+
+You: quit
+```
+
+**What you can ask:**
+- `"Are there any mentions of banana?"` — keyword search
+- `"Did they ever say 'spider kiss'?"` — phrase search
+- `"Find every time they mention Bloodborne"` — topic search
+- `"What was the context of #3?"` — expand a numbered result
+- `"What episode was #2?"` — get series, video ID, YouTube link, and timestamp
+- `"Find banana in Goof Troop"` — narrow to a specific series
+- `"quit"` — exit
+
+### 4. FTS5 query syntax (for power users / the `search` command)
+
+The `search` command and quoted phrases in `ask` use [SQLite FTS5 syntax](https://www.sqlite.org/fts5.html):
 
 | Pattern | Meaning |
 |---------|---------|
