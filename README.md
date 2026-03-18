@@ -5,93 +5,159 @@ organized into series/playlist folders under `transcripts/`.
 
 ---
 
-## Searching the corpus
+## Quick start
 
-### 1. Build the index (one-time, or after adding new transcripts)
+### Step 1 — Build the index (one-time setup)
 
 ```bash
 python tools/gg.py build-index
 ```
 
-This scans every `.txt` file under `transcripts/`, parses the JSON transcript, and
-creates a **SQLite + FTS5** full-text index at `data/gg_index.sqlite`.
+This scans every transcript, parses the JSON, and creates a full-text search index at
+`data/gg_index.sqlite`.  Takes about 2 minutes; only needs to be re-run when transcripts
+are added or updated.
 
-> **Note:** The generated database is gitignored (it can be several hundred MB for the full
-> corpus). Re-run `build-index` whenever you add or update transcripts.
-
-Options:
-
-```
---transcripts-dir PATH   Path to transcripts root (default: ./transcripts)
---db PATH                Path to write the DB (default: ./data/gg_index.sqlite)
---dry-run                Scan files without writing anything
-```
+> The generated database is gitignored (it's several hundred MB).
 
 ---
 
-### 2. Search for a phrase
+## Asking questions (plain-English interface)
+
+### Ask anything
 
 ```bash
-python tools/gg.py search "banana"
-python tools/gg.py search "kiss your dad" --limit 30
-python tools/gg.py search "bloodborne" --series "Bloodborne"
-python tools/gg.py search "grumpcade" --json        # machine-readable output
+python tools/gg.py ask "Are there any mentions of banana or bananas?"
+python tools/gg.py ask "Did they ever play Bloodborne?"
+python tools/gg.py ask "Did they ever mention kiss your dad?"
+python tools/gg.py ask "Have they talked about pineapple on pizza?"
 ```
 
-The query uses **FTS5 syntax**: phrases in quotes, boolean `AND`/`OR`/`NOT`, prefix search
-with `*`, etc.  Results are ranked by relevance and include a snippet with the matching
-text highlighted between `>>>` and `<<<`.
-
-Options:
+**Example output:**
 
 ```
-QUERY              Search query (FTS5 syntax)
---series TEXT      Filter by series/folder name (substring match)
---video VIDEO_ID   Filter to a single video_id
---limit N          Max results returned (default 20)
---json             Output as JSON array
+Yes — found 500 mentions across 286 episodes.
+Showing the top 20 (of 500 total):
+
+  #1   Donkey Kong Country Tropical Freeze
+       "the bananas right the bananas are"
+       ↳ at 5:19  |  https://www.youtube.com/watch?v=3prcNROv6uc&t=319
+
+  #2   Legend of Zelda: Breath of the Wild _ Game Grumps
+       "bananas on bananas are growing out of"
+       ↳ at 5:53  |  https://www.youtube.com/watch?v=cxBZH5kAEoQ&t=353
+  ...
+
+To dig deeper into any result:
+  python tools/gg.py context N    — show the surrounding conversation
+  python tools/gg.py detail N     — full episode info
 ```
 
 ---
 
-### 3. Find co-occurring phrases (within a time window)
+### Get the surrounding conversation for a result
+
+```bash
+python tools/gg.py context 4
+```
+
+Shows the lines of dialogue before and after result #4, so you can see the full joke or
+bit in context:
+
+```
+Context for result #4
+Episode : Resident Evil 2 [1998] _ Game Grumps  (video: u3LvjgNgtgo)
+Showing conversation around 3:26:
+
+  [3:23]    "Everything's fine. [laughter]"
+  [3:26]  ▶ "Banana, banana, banana, banana,"     ← your result
+  [3:28]    "terracotta, banana, terracotta,"
+  [3:29]    "terracotta pie."
+  [3:32]    "He had he ate one of those recently on the mythical kitchen show."
+  ...
+
+Watch full episode : https://www.youtube.com/watch?v=u3LvjgNgtgo
+Jump to this moment: https://www.youtube.com/watch?v=u3LvjgNgtgo&t=206
+```
+
+Use `--window` to show more or less context (default: 30 seconds either side):
+
+```bash
+python tools/gg.py context 4 --window 60
+```
+
+---
+
+### Get full episode details for a result
+
+```bash
+python tools/gg.py detail 4
+```
+
+```
+Episode #4 from your last search:
+
+  Series   : Resident Evil 2 [1998] _ Game Grumps
+  Video ID : u3LvjgNgtgo
+  Snippets : 1415 (total lines in transcript)
+  Watch    : https://www.youtube.com/watch?v=u3LvjgNgtgo
+
+The matching line (at 3:26):
+  "Banana, banana, banana, banana,"
+
+Jump directly to this moment:
+  https://www.youtube.com/watch?v=u3LvjgNgtgo&t=206
+```
+
+The `context` and `detail` commands always refer to the results from your **most recent
+`ask`** — so you can ask a question, browse the list, then follow up as many times as
+you like.
+
+---
+
+## More options
+
+### Limit the number of results
+
+```bash
+python tools/gg.py ask "banana" --limit 50
+```
+
+### Exact phrase search
+
+Wrap the phrase in double quotes (use single quotes around the whole argument on the
+command line):
+
+```bash
+python tools/gg.py ask '"kiss your dad"'
+```
+
+### Advanced FTS search (programmatic / tabular output)
+
+For power users who want raw FTS5 syntax and a tabular result:
+
+```bash
+python tools/gg.py search "banana" --series "Bloodborne" --limit 20
+python tools/gg.py search '"kiss your dad"' --json
+```
+
+### Find two phrases near each other in time
 
 ```bash
 python tools/gg.py cooccur "banana" "luigi" --window 60
-python tools/gg.py cooccur "arin" "we're back" --window 30 --limit 10
 ```
 
-Returns episodes (and timestamps) where both phrases appear within `--window` seconds
-of each other — useful for tracking recurring bits, callbacks, and joke setups.
+Returns every episode where both phrases appear within 60 seconds of each other.
 
-Options:
-
-```
-PHRASE_A           First phrase
-PHRASE_B           Second phrase
---window SECONDS   Time window (default 30s)
---limit N          Max results (default 20)
---json             Output as JSON
-```
-
----
-
-### 4. Look up a specific episode
+### Look up an episode directly by video ID
 
 ```bash
-python tools/gg.py episode abc123XYZ
-python tools/gg.py episode abc123XYZ --fetch    # also fetches YouTube title/date via yt-dlp
-python tools/gg.py episode abc123XYZ --json
+python tools/gg.py episode u3LvjgNgtgo
+python tools/gg.py episode u3LvjgNgtgo --fetch   # also fetches YouTube title via yt-dlp
 ```
-
-The `--fetch` flag requires [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) to be installed
-(`pip install yt-dlp`).  Without it, you can still visit the YouTube URL shown in the output.
 
 ---
 
-### 5. Python module API
-
-You can also import the search function directly:
+## Python module API
 
 ```python
 from tools.gg import search
@@ -108,7 +174,7 @@ for r in results:
 ```
 transcripts/
   <Series Name>/
-    [VIDEO_ID].txt    ← JSON transcript (snippets with timestamps)
+    [VIDEO_ID].txt    ← JSON transcript (timestamped snippets)
     …
 tools/
   gg.py               ← CLI + Python API
@@ -116,6 +182,7 @@ tools/
 data/
   .gitkeep
   gg_index.sqlite     ← generated; gitignored
+  .last_results.json  ← session state; gitignored
 ```
 
 ---

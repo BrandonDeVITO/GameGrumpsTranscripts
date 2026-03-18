@@ -4,12 +4,18 @@ gg.py — Game Grumps Transcript Search CLI
 
 Commands:
   build-index   Scan transcripts/ and build (or rebuild) data/gg_index.sqlite
-  search        Full-text search across all snippets
+  ask           Ask a plain-English question and get a human-readable answer
+  context N     Show the surrounding conversation for result #N from the last ask
+  detail N      Show full episode info for result #N from the last ask
+  search        Full-text search (programmatic, tabular output)
   cooccur       Find episodes where two phrases appear within a time window
   episode       Look up metadata for a video_id (optionally fetching YouTube title)
 
 Usage:
   python tools/gg.py build-index [--transcripts-dir TRANSCRIPTS_DIR] [--db DB_PATH] [--dry-run]
+  python tools/gg.py ask "Are there any mentions of banana?"
+  python tools/gg.py context 2
+  python tools/gg.py detail 2
   python tools/gg.py search QUERY [--series SERIES] [--video VIDEO_ID] [--limit N] [--json]
   python tools/gg.py cooccur PHRASE_A PHRASE_B [--window SECONDS] [--limit N] [--json]
   python tools/gg.py episode VIDEO_ID [--fetch] [--json]
@@ -34,6 +40,76 @@ from typing import Iterator
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_TRANSCRIPTS_DIR = REPO_ROOT / "transcripts"
 DEFAULT_DB_PATH = REPO_ROOT / "data" / "gg_index.sqlite"
+LAST_RESULTS_PATH = REPO_ROOT / "data" / ".last_results.json"
+
+# ---------------------------------------------------------------------------
+# Natural-language question parsing
+# ---------------------------------------------------------------------------
+# Words that signal a natural-language question (not a raw FTS query)
+_QUESTION_STARTERS = frozenset({
+    "are", "did", "do", "does", "has", "have", "had", "is", "was", "were",
+    "will", "would", "could", "should", "can", "what", "when", "where",
+    "who", "which", "why", "how",
+})
+
+# Common English words + domain words that carry no search meaning
+_STOP_WORDS = frozenset({
+    "a", "an", "the", "and", "or", "but", "if", "so", "yet", "both",
+    "either", "neither", "not", "no", "nor", "such", "than", "too", "very",
+    "just", "while", "all", "each", "every", "few", "more", "most", "other",
+    "same", "up", "down", "out", "over", "under", "again", "once", "here",
+    "there", "then", "further", "ever", "any", "some", "into", "through",
+    "during", "about", "with", "from", "for", "by", "at", "on", "in", "of",
+    "to", "it", "its", "this", "that", "these", "those", "i", "me", "my",
+    "we", "our", "you", "your", "he", "him", "his", "she", "her", "they",
+    "them", "their", "be", "been", "being", "have", "has", "had", "do",
+    "does", "did", "will", "would", "could", "should", "may", "might",
+    "shall", "can",
+    # domain-specific filler words
+    "transcripts", "transcript", "episode", "episodes",
+    "mention", "mentions", "mentioned", "say", "said", "says",
+    "talk", "talks", "talked", "discuss", "discussed",
+    "game", "grumps", "times", "time",
+})
+
+
+def _parse_question(question: str) -> tuple[str, bool]:
+    """
+    Convert a natural-language question to an FTS5 query.
+
+    Returns (fts_query, was_natural_language).
+    If the input starts with a question word, extracts meaningful terms and
+    builds an OR query with prefix matching so that e.g. "banana" also
+    matches "bananas".
+    If it does NOT start with a question word, it is returned unchanged so
+    power users can write raw FTS5 syntax directly.
+    """
+    words = question.strip().split()
+    if not words:
+        return question, False
+
+    first = re.sub(r"[^a-z]", "", words[0].lower())
+    if first not in _QUESTION_STARTERS:
+        return question, False
+
+    terms: list[str] = []
+    for word in words:
+        clean = re.sub(r"[^a-z0-9]", "", word.lower())
+        if clean and clean not in _STOP_WORDS and len(clean) > 1:
+            terms.append(clean)
+
+    if not terms:
+        return question, True
+
+    # Remove near-duplicates: if "bananas" is present and "banana" is also
+    # present, drop "bananas" because "banana*" already covers it.
+    deduped: list[str] = []
+    for term in terms:
+        if not any(term != other and term.startswith(other) for other in terms):
+            if term not in deduped:
+                deduped.append(term)
+
+    return " OR ".join(f"{t}*" for t in deduped), True
 
 # ---------------------------------------------------------------------------
 # Schema
@@ -420,8 +496,260 @@ def _fetch_youtube_meta(video_id: str) -> dict:
     return {"yt_note": "yt-dlp not available or fetch failed; visit YouTube URL manually"}
 
 
+def _fmt_ts(seconds: float) -> str:
+    """Format seconds as M:SS (or H:MM:SS for long videos)."""
+    s = int(seconds)
+    h, rem = divmod(s, 3600)
+    m, sec = divmod(rem, 60)
+    if h:
+        return f"{h}:{m:02d}:{sec:02d}"
+    return f"{m}:{sec:02d}"
+
+
+def _yt_url(video_id: str, start: float | None = None) -> str:
+    base = f"https://www.youtube.com/watch?v={video_id}"
+    if start is not None:
+        return f"{base}&t={int(start)}"
+    return base
+
+
+def _save_last_results(query: str, human_query: str, results: list[dict]) -> None:
+    LAST_RESULTS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    payload = {
+        "query": query,
+        "human_query": human_query,
+        "total_shown": len(results),
+        "results": results,
+    }
+    with open(LAST_RESULTS_PATH, "w", encoding="utf-8") as fh:
+        json.dump(payload, fh, indent=2)
+
+
+def _load_last_results() -> dict | None:
+    if not LAST_RESULTS_PATH.exists():
+        return None
+    try:
+        with open(LAST_RESULTS_PATH, encoding="utf-8") as fh:
+            return json.load(fh)
+    except Exception:
+        return None
+
+
+def _get_result(n: int) -> dict | None:
+    """Return the Nth result (1-based) from the last ask session."""
+    data = _load_last_results()
+    if data is None:
+        return None
+    results = data.get("results", [])
+    if n < 1 or n > len(results):
+        return None
+    return results[n - 1]
+
+
 # ---------------------------------------------------------------------------
-# Module-level search API
+# ask  (human-friendly search)
+# ---------------------------------------------------------------------------
+def cmd_ask(args: argparse.Namespace) -> None:
+    db_path = Path(args.db)
+    _require_db(db_path)
+
+    human_query: str = args.question
+    limit: int = args.limit
+
+    fts_query, was_question = _parse_question(human_query)
+
+    conn = get_db(db_path)
+
+    # Fetch a generous pool so we can count unique episodes accurately,
+    # capped to avoid fetching far more rows than needed.
+    POOL = min(max(limit * 3, 100), 3000)
+    sql = """
+        SELECT
+            s.id,
+            s.video_id,
+            s.series,
+            s.start,
+            s.text
+        FROM snippets_fts
+        JOIN snippets s ON snippets_fts.rowid = s.id
+        WHERE snippets_fts MATCH ?
+        ORDER BY rank
+        LIMIT ?
+    """
+    try:
+        pool_rows = conn.execute(sql, [fts_query, POOL]).fetchall()
+    except sqlite3.OperationalError as exc:
+        print(f"Search error: {exc}")
+        print("Tip: wrap a phrase in double quotes, e.g.:  ask '\"kiss your dad\"'")
+        conn.close()
+        return
+
+    conn.close()
+
+    if not pool_rows:
+        print(f'No results found for "{human_query}".')
+        if was_question:
+            print(f"  (searched for: {fts_query})")
+        return
+
+    total_snippets = len(pool_rows)
+    unique_episodes = len({r["video_id"] for r in pool_rows})
+
+    # Build top-N display rows (one per snippet, up to limit)
+    display = pool_rows[:limit]
+
+    # Persist all display rows for context/detail follow-up
+    saved = [
+        {
+            "num": i + 1,
+            "video_id": r["video_id"],
+            "series": r["series"],
+            "start": r["start"],
+            "text": r["text"],
+        }
+        for i, r in enumerate(display)
+    ]
+    _save_last_results(fts_query, human_query, saved)
+
+    # Human-readable summary line
+    ep_word = "episode" if unique_episodes == 1 else "episodes"
+    snip_word = "mention" if total_snippets == 1 else "mentions"
+    term_display = f'"{human_query}"' if not was_question else f'"{fts_query}"'
+    if was_question:
+        intro = (
+            f'Yes — found {total_snippets} {snip_word} across {unique_episodes} {ep_word}.'
+        )
+    else:
+        intro = (
+            f'Found {total_snippets} {snip_word} across {unique_episodes} {ep_word}.'
+        )
+
+    showing = min(limit, len(display))
+    print(intro)
+    if total_snippets > showing:
+        print(f"Showing the top {showing} (of {total_snippets} total):\n")
+    else:
+        print()
+
+    for i, row in enumerate(display, 1):
+        ts = _fmt_ts(row["start"])
+        url = _yt_url(row["video_id"], row["start"])
+        print(f"  #{i:<3} {row['series']}")
+        print(f"       \"{row['text']}\"")
+        print(f"       ↳ at {ts}  |  {url}")
+        print()
+
+    print("To dig deeper into any result:")
+    print("  python tools/gg.py context N    — show the surrounding conversation")
+    print("  python tools/gg.py detail N     — full episode info")
+
+
+# ---------------------------------------------------------------------------
+# context N
+# ---------------------------------------------------------------------------
+def cmd_context(args: argparse.Namespace) -> None:
+    n: int = args.number
+    window: float = args.window
+
+    result = _get_result(n)
+    if result is None:
+        session = _load_last_results()
+        if session is None:
+            print("No previous search found. Run 'ask' first.")
+        else:
+            total = len(session.get("results", []))
+            print(f"Result #{n} not found. Last search returned {total} results.")
+        return
+
+    video_id = result["video_id"]
+    series = result["series"]
+    target_start: float = result["start"]
+    matching_text: str = result["text"]
+
+    # Load the transcript file to get surrounding snippets
+    db_path = Path(args.db)
+    conn = get_db(db_path)
+    file_path_row = conn.execute(
+        "SELECT file_path FROM episodes WHERE video_id = ?", [video_id]
+    ).fetchone()
+    conn.close()
+
+    print(f"Context for result #{n}")
+    print(f"Episode : {series}  (video: {video_id})")
+    print(f"Showing conversation around {_fmt_ts(target_start)}:\n")
+
+    if file_path_row:
+        transcript_path = REPO_ROOT / file_path_row["file_path"]
+        data = read_transcript(transcript_path)
+        if data and data.get("snippets"):
+            snippets = data["snippets"]
+            nearby = [
+                s for s in snippets
+                if abs(s.get("start", 0) - target_start) <= window
+            ]
+            nearby.sort(key=lambda s: s.get("start", 0))
+
+            for snip in nearby:
+                ts = _fmt_ts(snip.get("start", 0))
+                text = snip.get("text", "").strip()
+                if abs(snip.get("start", 0) - target_start) < 0.5:
+                    print(f"  [{ts}]  ▶ \"{text}\"     ← your result")
+                else:
+                    print(f"  [{ts}]    \"{text}\"")
+            print()
+        else:
+            print(f"  (Could not load transcript file: {transcript_path})")
+            print()
+    else:
+        print(f"  (Episode record not found in database for video_id: {video_id})")
+        print()
+
+    print(f"Watch full episode : {_yt_url(video_id)}")
+    print(f"Jump to this moment: {_yt_url(video_id, target_start)}")
+
+
+# ---------------------------------------------------------------------------
+# detail N
+# ---------------------------------------------------------------------------
+def cmd_detail(args: argparse.Namespace) -> None:
+    n: int = args.number
+
+    result = _get_result(n)
+    if result is None:
+        session = _load_last_results()
+        if session is None:
+            print("No previous search found. Run 'ask' first.")
+        else:
+            total = len(session.get("results", []))
+            print(f"Result #{n} not found. Last search returned {total} results.")
+        return
+
+    video_id = result["video_id"]
+    series = result["series"]
+    start: float = result["start"]
+    text: str = result["text"]
+
+    db_path = Path(args.db)
+    conn = get_db(db_path)
+    ep_row = conn.execute(
+        "SELECT * FROM episodes WHERE video_id = ?", [video_id]
+    ).fetchone()
+    conn.close()
+
+    print(f"Result #{n} from your last search:\n")
+    print(f"  Series   : {series}")
+    print(f"  Video ID : {video_id}")
+    if ep_row:
+        print(f"  Snippets : {ep_row['snippet_count']} (total lines in transcript)")
+    print(f"  Watch    : {_yt_url(video_id)}")
+    print()
+    print(f"The matching line (at {_fmt_ts(start)}):")
+    print(f"  \"{text}\"")
+    print()
+    print(f"Jump directly to this moment:")
+    print(f"  {_yt_url(video_id, start)}")
+
+
 # ---------------------------------------------------------------------------
 def search(query: str, series: str | None = None, limit: int = 10,
            db_path: Path | str | None = None) -> list[dict]:
@@ -494,9 +822,11 @@ def main() -> None:
         epilog=textwrap.dedent("""\
             Examples:
               python tools/gg.py build-index
-              python tools/gg.py search "banana"
+              python tools/gg.py ask "Are there any mentions of banana?"
+              python tools/gg.py ask "Did they ever play Bloodborne?"
+              python tools/gg.py context 2
+              python tools/gg.py detail 2
               python tools/gg.py search "kiss your dad" --limit 20
-              python tools/gg.py search "bloodborne" --series "Bloodborne"
               python tools/gg.py cooccur "grumpcade" "arin" --window 60
               python tools/gg.py episode abc123XYZ --fetch
         """),
@@ -513,8 +843,34 @@ def main() -> None:
     p_build.add_argument("--dry-run", action="store_true",
                          help="Scan files without writing to DB")
 
-    # search
-    p_search = sub.add_parser("search", help="Full-text search")
+    # ask  (human-friendly)
+    p_ask = sub.add_parser(
+        "ask",
+        help="Ask a plain-English question and get a human-readable answer",
+    )
+    p_ask.add_argument("question", help='Your question, e.g. "Are there any mentions of banana?"')
+    p_ask.add_argument("--limit", type=int, default=20, help="Max results to show (default 20)")
+
+    # context N
+    p_ctx = sub.add_parser(
+        "context",
+        help="Show the surrounding conversation for result #N from the last ask",
+    )
+    p_ctx.add_argument("number", type=int, help="Result number from the last ask")
+    p_ctx.add_argument(
+        "--window", type=float, default=30.0,
+        help="Seconds of context before and after the match (default 30)",
+    )
+
+    # detail N
+    p_det = sub.add_parser(
+        "detail",
+        help="Show full episode info for result #N from the last ask",
+    )
+    p_det.add_argument("number", type=int, help="Result number from the last ask")
+
+    # search (programmatic / tabular)
+    p_search = sub.add_parser("search", help="Full-text search (tabular output)")
     p_search.add_argument("query", help="Search query (FTS5 syntax)")
     p_search.add_argument("--series", default=None,
                           help="Filter by series/folder name (substring)")
@@ -533,7 +889,7 @@ def main() -> None:
     p_co.add_argument("--json", action="store_true", help="Output as JSON")
 
     # episode
-    p_ep = sub.add_parser("episode", help="Look up episode metadata")
+    p_ep = sub.add_parser("episode", help="Look up episode metadata by video_id")
     p_ep.add_argument("video_id", help="YouTube video ID")
     p_ep.add_argument("--fetch", action="store_true",
                       help="Fetch title/date from YouTube via yt-dlp (requires yt-dlp)")
@@ -543,6 +899,12 @@ def main() -> None:
 
     if args.command == "build-index":
         cmd_build_index(args)
+    elif args.command == "ask":
+        cmd_ask(args)
+    elif args.command == "context":
+        cmd_context(args)
+    elif args.command == "detail":
+        cmd_detail(args)
     elif args.command == "search":
         cmd_search(args)
     elif args.command == "cooccur":
