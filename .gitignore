@@ -1,0 +1,11 @@
+# Generated database — do not commit
+data/*.sqlite
+data/*.db
+
+# Session state from 'ask' command — do not commit
+data/.last_results.json
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
