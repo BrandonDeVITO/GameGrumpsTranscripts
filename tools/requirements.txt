@@ -1,0 +1,5 @@
+# No third-party dependencies required.
+# All functionality uses Python standard library (sqlite3, json, pathlib, etc.)
+#
+# Optional (for --fetch in the 'episode' command):
+#   yt-dlp>=2023.0  # pip install yt-dlp
