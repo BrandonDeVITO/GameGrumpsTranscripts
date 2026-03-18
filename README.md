@@ -1,68 +1,105 @@
 # Game Grumps Transcripts — Search
 
-**Yes, it's ready to use.** Two steps to get started:
+**Yes, it's ready to use.** Two steps to get started, then just ask questions in plain English.
+
+---
+
+## Setup (one time only)
 
 ```bash
-# Step 1 — one time only, takes about 90 seconds
+# 1. Build the index — takes about 90 seconds, then never again
 python tools/gg.py build-index
 
-# Step 2 — ask anything
-python tools/gg.py "banana"
-```
-
-That's it. No subcommands to memorize. Just run the script with your question.
-
----
-
-## How to ask
-
-**Search for a word or phrase:**
-```bash
-python tools/gg.py "banana"
-python tools/gg.py "kiss your dad"
-python tools/gg.py "egoraptor"
-```
-
-**Limit to one series:**
-```bash
-python tools/gg.py "banana" --in "Sonic"
-python tools/gg.py "robot" --in "Zelda"
-```
-
-**Find where two things are mentioned together** (within 30 seconds of each other):
-```bash
-python tools/gg.py "banana" "cake"
-python tools/gg.py "egoraptor" "bloodborne"
-python tools/gg.py "jon" "arin" --window 10
-```
-
-**See which series/episodes mention a term the most:**
-```bash
-python tools/gg.py --stats "banana"
-```
-
-**See the full corpus overview:**
-```bash
-python tools/gg.py --stats
+# 2. Start asking
+python tools/ask.py
 ```
 
 ---
 
-## What the output looks like
+## How to use it
+
+Run `python tools/ask.py` and you'll get a prompt. Just type your question naturally:
 
 ```
-"banana" — 5 result(s) shown
+  Game Grumps Transcript Search  (511 series · 7,838 episodes)
+  Ask me anything about the show. Type "help" for examples, "quit" to exit.
 
-Resident Evil 2 [1998] _ Game Grumps  |  3:26
-  Banana, banana, banana, banana,
-  https://www.youtube.com/watch?v=u3LvjgNgtgo&t=206
+  You: Are there any mentions of banana in the transcripts?
 
-Pokemon Art Academy  |  5:19
-  banana banana Sam banana
-  https://www.youtube.com/watch?v=KxSa0uNqwaM&t=319
+Yes — "banana" comes up 1,894 times. Showing results 1–20:
+
+  1.  Resident Evil 2 [1998] _ Game Grumps  —  3:26
+       "Banana, banana, banana, banana,"
+
+  2.  Pokemon Art Academy  —  5:19
+       "banana banana Sam banana"
+  ...
+
+  You: What was the context of #2?
+
+Here's what was happening around 5:19 in "Pokemon Art Academy":
+
+     5:05   um
+     5:08   smaller bananas oh that's just looks
+     5:14   oh okay all right banana banana arms
+  ▶  5:19   banana banana Sam banana
+     5:22   Sam this is Pokemon banana
+     ...
+
+  Watch it here: https://www.youtube.com/watch?v=KxSa0uNqwaM&t=319
+
+  You: What episode was #2?
+
+Result #2 is from the series "Pokemon Art Academy".
+  It happens at 5:19 into the episode.
+  Watch it here: https://www.youtube.com/watch?v=KxSa0uNqwaM&t=319
 ```
 
-Each result shows the **series**, the **timestamp**, the **line that was said**, and a **YouTube link** that jumps straight to that moment.
+---
+
+## Things you can ask
+
+**Search for any word or phrase:**
+```
+Are there any mentions of banana?
+Did they ever say kiss your dad?
+Find everything about egoraptor
+What did they say about Bloodborne?
+```
+
+**Find where two things come up together:**
+```
+banana and cake
+egoraptor and sonic
+```
+
+**Get stats on a topic:**
+```
+How many times do they mention banana?
+How often do they say egoraptor?
+```
+
+**Follow up on a numbered result:**
+```
+What was the context of #3?      ← shows the surrounding transcript lines
+What episode was #3?             ← shows series name and YouTube link
+```
+
+**Page through results:**
+```
+more
+```
+
+---
+
+## Quick single-question mode
+
+You can also ask a single question without entering interactive mode:
+
+```bash
+python tools/ask.py "Did they ever say kiss your dad?"
+python tools/ask.py "Are there any mentions of banana?"
+```
 
 ---
 
@@ -76,25 +113,25 @@ Each result shows the **series**, the **timestamp**, the **line that was said**,
 
 ## Setup details
 
-The `build-index` command walks every transcript file in `transcripts/`, parses the JSON, and writes a local SQLite database to `data/gg_index.sqlite`.  
-That file is not committed to the repo — you generate it locally.
+The `build-index` command (from `tools/gg.py`) walks every transcript file in `transcripts/`,
+parses the JSON, and writes a local SQLite database to `data/gg_index.sqlite`.
+That file is not committed to the repo — you generate it locally on your machine.
 
-Run `build-index` again any time you pull new transcripts. It's incremental by default (skips episodes already in the index).  
+Run `build-index` again any time you pull new transcripts. It skips files already indexed.
 To force a full rebuild from scratch: `python tools/gg.py build-index --full`
 
 ---
 
-## All options
+## Advanced / programmatic use
 
-```
-python tools/gg.py "term"                 search for a word or phrase
-python tools/gg.py "term" --in "Series"  search within one series
-python tools/gg.py "term" -n 50          show up to 50 results (default: 20)
-python tools/gg.py "a" "b"               find where two terms appear together
-python tools/gg.py "a" "b" --window 60   widen the co-occurrence window to 60 seconds
-python tools/gg.py --stats               corpus overview
-python tools/gg.py --stats "term"        mentions by series and episode
-python tools/gg.py build-index           build / update the index
-python tools/gg.py build-index --full    drop and fully rebuild
+`tools/gg.py` is the lower-level CLI that `ask.py` builds on. Use it directly
+if you want precise control or want to pipe output to other tools:
+
+```bash
+python tools/gg.py "banana"                        # search
+python tools/gg.py "banana" --in "Sonic" -n 50     # filter by series, more results
+python tools/gg.py "banana" "cake"                 # co-occurrence
+python tools/gg.py --stats "banana"                # stats
+python tools/gg.py --stats                         # corpus overview
 ```
 
